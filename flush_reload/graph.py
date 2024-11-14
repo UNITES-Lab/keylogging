@@ -117,24 +117,24 @@ def graph_keystrokes(data):
 
     plt.clf()
 
-    plt.plot(time_range, values_fff)
+    plt.plot(time_range, values_fff, "C2", label="flush+reload")
     plt.title("Filtered Flush+Reload Plot")
     plt.xlabel("Time in 10 ms")
     plt.ylabel("Hit")
     plt.grid(True)
     plt.savefig("./filtered_flush_reload.png")
 
-    plt.plot(time_range, values_kp)
+    plt.plot(time_range, values_kp, "C1", label="keypresses")
     plt.title("Keypresses on Filtered FR Plot")
     plt.savefig("./kpfr.png")
 
     plt.clf()
 
-    plt.plot(time_range, values_fff)
+    plt.plot(time_range, values_fff, "C2", label="flush+reload")
     plt.xlabel("Time in 10 ms")
     plt.ylabel("Hit")
     plt.grid(True)
-    plt.plot(time_range, values_kr)
+    plt.plot(time_range, values_kr, "C1", label="keyreleases")
     plt.title("Keyreleases on Filtered FR Plot")
     plt.savefig("./krfr.png")
 

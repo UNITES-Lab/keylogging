@@ -65,7 +65,7 @@ static int keystroke_timing(void *data) {
     }
     current_time = ktime_get_seconds();
 
-    for (int i = 0; i < 3; i++) {
+    for (int i = 0; i < 1; i++) {
       schedule();
     }
   }
