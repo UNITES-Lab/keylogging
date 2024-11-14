@@ -54,5 +54,11 @@ dkms.conf
 # Logs and Image files
 *.log
 *.png
-
+*.json
+*.cmd
 *.pyc
+*.ko
+*.mod
+*.mod.o
+*.mod.c
+*.order

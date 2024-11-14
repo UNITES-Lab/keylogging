@@ -1,4 +1,7 @@
 # Flush+Reload Keystorke Timing Kernel Module 
+### Before you begin 
+1. Make sure you install all the relevant python libraries
+2. Make sure you modify Makefile to use the right gcc version that your kernel is compiled with
 
 ### Simulation Mode 
 1. Find the address of function you want to track **Please make sure you do this everytime you reboot as KASLR (Kernel Address Space Layout Randmization) will put functions to different locations**
