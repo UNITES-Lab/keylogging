@@ -45,7 +45,7 @@ def start_keystrokes():
     # Simulate typing every 200 ms
     while not stop_event.is_set():
         keyboard.press("a")
-        time.sleep(0.1)  # hold key for 100 ms
+        time.sleep(0.05)  # hold key for 100 ms
         keyboard.release("a")
         time.sleep(0.2)  # wait for 200 ms before next press
         keystrokes.append({"key-char": "a", "time": time.time_ns()})

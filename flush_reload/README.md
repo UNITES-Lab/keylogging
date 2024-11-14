@@ -6,12 +6,20 @@
 sudo cat /proc/kallsyms | grep func_addr
 ```
 
+Some candidate functions you might want to consider, ranked from cleanest to noisiest
+1. uinput_write 
+2. kbd_keycode
+3. input_event
+4. ps2_interrupt
+
 2. Modify the address in spy.c
 3. Run execute.py to obtain graphs *make sure you complete step 1 & 2 and close gvim before you proceed*
 
 ```
 sudo python3 execute.py
 ```
+
+Please feel free to modify the filtering algorithm for testing, currently it's set to take every second because uinput_write will get triggered both on press and release
 ### Note: Currently the script only supports simulated keystrokes of keys at fixed intervals, if you would like to test it manually, please follow the instructions below 
 
 1. Repeat step 1 and 2 above

@@ -18,7 +18,7 @@ static u64 start_time = 0;
 
 #define LINE_SIZE 64
 
-#define FUNCTION_ADDRESS 0xffffffffa5a8eac0
+#define FUNCTION_ADDRESS 0xffffffffab700fc0
 
 void maccess(void *p) { asm volatile("movq (%0), %%rax\n" : : "c"(p) : "rax"); }
 
@@ -29,6 +29,7 @@ u64 flush_reload(void *addr) {
   u64 start_time = ktime_get_real_ns();
   maccess(addr);
   u64 elapsed_time = ktime_get_real_ns() - start_time;
+  asm volatile("mfence \n\t");
   flush(addr);
   return elapsed_time;
 }
@@ -63,6 +64,7 @@ static int keystroke_timing(void *data) {
       last_hit_time = current_time_ns - time;
     }
     current_time = ktime_get_seconds();
+
     for (int i = 0; i < 3; i++) {
       schedule();
     }

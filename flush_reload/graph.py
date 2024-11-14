@@ -52,9 +52,7 @@ def graph_keystrokes(data):
     keystroke_time_kl = [x["keystroke-time"] // TIME_MASK for x in keylogger_output]
     keystroke_time_ff = [x["keystroke-time"] // TIME_MASK for x in flush_reload_output]
     filtered_keystroke_ff = [
-        x["keystroke-time"] // TIME_MASK
-        for x in flush_reload_output
-        if x["last-hit"] > 160000000
+        keystroke_time_ff[i] for i in range(0, len(keystroke_time_ff), 2)
     ]
 
     values_kl = []
