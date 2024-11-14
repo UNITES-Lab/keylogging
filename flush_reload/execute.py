@@ -71,7 +71,7 @@ if __name__ == "__main__":
         uninstall_mod()
 
         # Capture dmesg output
-        output = os.popen("sudo dmesg -c | tail -n 300").read().strip().split("\n")
+        output = os.popen("sudo dmesg -c").read().strip().split("\n")
         data = graph.sort_output(output)
 
         """

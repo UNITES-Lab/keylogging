@@ -21,7 +21,6 @@ def sort_output(data):
     for line in data:
         if found_start:
             if line.find("ends") != -1:
-                print(line)
                 break
             elif line.find("{") != -1 and line.find("}") != -1:
                 dict_start = line.find("{")
@@ -31,16 +30,16 @@ def sort_output(data):
                 else:
                     flush_reload_output.append(obj)
             else:
-                print(line)
                 continue
         else:
             if line.find("starts") != -1:
                 found_start = True
                 start_time = int(line[line.find(": ") + 2 :])
-                print(line)
     return {
         "start_time": start_time,
         "keylogger": keylogger_output,
+        "keypresses": [],
+        "keyreleases": [],
         "flush_reload": flush_reload_output,
     }
 
@@ -49,10 +48,12 @@ def graph_keystrokes(data):
     keypresses_output = data["keypresses"]
     keyreleases_output = data["keyreleases"]
     flush_reload_output = data["flush_reload"]
+    keylogger_output = data["keylogger"]
 
     keystroke_time_kp = [x["keystroke-time"] // TIME_MASK for x in keypresses_output]
     keystroke_time_ff = [x["keystroke-time"] // TIME_MASK for x in flush_reload_output]
     keystroke_time_kr = [x["keystroke-time"] // TIME_MASK for x in keyreleases_output]
+    keystroke_time_kl = [x["keystroke-time"] // TIME_MASK for x in keylogger_output]
     filtered_keystroke_ff = [keystroke_time_ff[0]]
     prev_stroke_time = keystroke_time_ff[0]
     for x in keystroke_time_ff:
@@ -64,6 +65,7 @@ def graph_keystrokes(data):
     values_kr = []
     values_ff = []
     values_fff = []
+    values_kl = []
 
     for i in range(0, 1001):
         if i in keystroke_time_kp:
@@ -88,6 +90,12 @@ def graph_keystrokes(data):
         else:
             values_fff.append(0)
 
+    for i in range(0, 1001):
+        if i in keystroke_time_kl:
+            values_kl.append(1)
+        else:
+            values_kl.append(0)
+
     time_range = np.arange(0, 1001)
 
     plt.plot(time_range, values_ff)
@@ -109,11 +117,20 @@ def graph_keystrokes(data):
     plt.clf()
 
     plt.plot(time_range, values_kr)
-    plt.title("keyreleases plot")
+    plt.title("Keyreleases plot")
     plt.xlabel("Time in 10 ms")
     plt.ylabel("Hit")
     plt.grid(True)
     plt.savefig("./keyreleases.png")
+
+    plt.clf()
+
+    plt.plot(time_range, values_kr)
+    plt.title("Keylogger plot")
+    plt.xlabel("Time in 10 ms")
+    plt.ylabel("Hit")
+    plt.grid(True)
+    plt.savefig("./keylogger.png")
 
     plt.clf()
 
@@ -138,11 +155,22 @@ def graph_keystrokes(data):
     plt.title("Keyreleases on Filtered FR Plot")
     plt.savefig("./krfr.png")
 
+    plt.clf()
+
+    plt.plot(time_range, values_fff, "C2", label="flush+reload")
+    plt.xlabel("Time in 10 ms")
+    plt.ylabel("Hit")
+    plt.grid(True)
+    plt.plot(time_range, values_kl, "C1", label="keylogger")
+    plt.title("Keylogger on Filtered FR Plot")
+    plt.savefig("./klfr.png")
+
 
 def write_output(data):
     flush_reload_json = json.dumps(data["flush_reload"], indent=4)
     keypresses_json = json.dumps(data["keypresses"], indent=4)
     keyreleases_json = json.dumps(data["keyreleases"], indent=4)
+    keylogger_json = json.dumps(data["keylogger"], indent=4)
 
     with open("flush_reload.json", "w") as outfile:
         outfile.write(flush_reload_json)
@@ -152,6 +180,9 @@ def write_output(data):
 
     with open("keyreleases.json", "w") as outfile:
         outfile.write(keyreleases_json)
+
+    with open("keylogger.json", "w") as outfile:
+        outfile.write(keylogger_json)
 
 
 if __name__ == "__main__":

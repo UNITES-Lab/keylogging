@@ -1,5 +1,6 @@
 # Flush+Reload Keystorke Timing Kernel Module 
 
+### Simulation Mode 
 1. Find the address of function you want to track **Please make sure you do this everytime you reboot as KASLR (Kernel Address Space Layout Randmization) will put functions to different locations**
 
 ```
@@ -19,9 +20,9 @@ Some candidate functions you might want to consider, ranked from cleanest to noi
 sudo python3 execute.py
 ```
 
-Please feel free to modify the filtering algorithm for testing, currently it's set to take every second because uinput_write will get triggered both on press and release
-### Note: Currently the script only supports simulated keystrokes of keys at fixed intervals, if you would like to test it manually, please follow the instructions below 
+***Keylogger will not be in effect under simulation mode***
 
+### Real Keystroke Mode
 1. Repeat step 1 and 2 above
 2. Compile the code 
 ```
@@ -35,18 +36,25 @@ sudo insmod spy.ko
 5. Remove the kernel module
 6. Copy the kernel log into logs/test.log or your desired location **if you place at your desired location, make sure to modify graph.py**
 ```
-sudo dmesg -c >> logs/test.log
+sudo dmesg -c > logs/test.log
 ```
 7. run graph.py to obtain the graphs and results 
 ```
 python3 graph.py
 ```
 
-After the code had finished execution (or you have completed the manual steps), you can close the gvim terminal. Below will be the descriptions of the files
+After the code had finished execution (or you have completed the manual steps), you can close the gvim terminal. Below will be the descriptions of the files. ***Note: keylogger files are only available during real keystroke mode, key press and release files are only available during simulation keystroke mode***
 1. flush_reload.png: The graph of cache hits with respect to time
 2. keylogger.png: The graph of key hit with respect to time
-3. filtered_flush_reload.png: filter result of flush+reload overlaid on keylogger for evaluation of prediction 
-4. keylogger.json: data used in the keylogger graph 
-5. flush_reload.json: the data used in the flush_reload graph
+3. filtered_flush_reload.png: filter result of flush+reload
+4. keypresses.png: The graph of key presses with respect to time 
+5. keyreleases.png: The graph of key releases with respect to time
+6. klfr.png: keylogger graph overlaid on flush+reload
+7. krfr.png: keyrelease graph overlaid on flush+reload
+8. kpfr.png: keypress graph overlaid on flush+reload 
+9. keylogger.json: data used in the keylogger graph 
+10. flush_reload.json: the data used in the flush_reload graph
+11. keypresses.json: the data used in keypress graph
+12. keyreleases.json: the data used in keyreleases graph
 
 ### All time measurements are in nanoseconds (ns)
