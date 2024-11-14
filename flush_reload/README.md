@@ -1,6 +1,6 @@
 # Flush+Reload Keystorke Timing Kernel Module 
 
-1. Find the address of function you want to track
+1. Find the address of function you want to track **Please make sure you do this everytime you reboot as KASLR (Kernel Address Space Layout Randmization) will put functions to different locations**
 
 ```
 sudo cat /proc/kallsyms | grep func_addr
