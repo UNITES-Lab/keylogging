@@ -46,24 +46,35 @@ def sort_output(data):
 
 
 def graph_keystrokes(data):
-    keylogger_output = data["keylogger"]
+    keypresses_output = data["keypresses"]
+    keyreleases_output = data["keyreleases"]
     flush_reload_output = data["flush_reload"]
 
-    keystroke_time_kl = [x["keystroke-time"] // TIME_MASK for x in keylogger_output]
+    keystroke_time_kp = [x["keystroke-time"] // TIME_MASK for x in keypresses_output]
     keystroke_time_ff = [x["keystroke-time"] // TIME_MASK for x in flush_reload_output]
-    filtered_keystroke_ff = [
-        keystroke_time_ff[i] for i in range(0, len(keystroke_time_ff), 2)
-    ]
+    keystroke_time_kr = [x["keystroke-time"] // TIME_MASK for x in keyreleases_output]
+    filtered_keystroke_ff = [keystroke_time_ff[0]]
+    prev_stroke_time = keystroke_time_ff[0]
+    for x in keystroke_time_ff:
+        if x - prev_stroke_time > 18:
+            filtered_keystroke_ff.append(x)
+            prev_stroke_time = x
 
-    values_kl = []
+    values_kp = []
+    values_kr = []
     values_ff = []
     values_fff = []
 
     for i in range(0, 1001):
-        if i in keystroke_time_kl:
-            values_kl.append(1)
+        if i in keystroke_time_kp:
+            values_kp.append(1)
         else:
-            values_kl.append(0)
+            values_kp.append(0)
+    for i in range(0, 1001):
+        if i in keystroke_time_kr:
+            values_kr.append(1)
+        else:
+            values_kr.append(0)
 
     for i in range(0, 1001):
         if i in keystroke_time_ff:
@@ -79,8 +90,6 @@ def graph_keystrokes(data):
 
     time_range = np.arange(0, 1001)
 
-    print(len(time_range))
-
     plt.plot(time_range, values_ff)
     plt.title("Flush+Reload Plot")
     plt.xlabel("Time in 10 ms")
@@ -90,12 +99,23 @@ def graph_keystrokes(data):
 
     plt.clf()
 
-    plt.plot(time_range, values_kl)
-    plt.title("Keylogger Plot")
+    plt.plot(time_range, values_kp)
+    plt.title("Keypresses Plot")
     plt.xlabel("Time in 10 ms")
     plt.ylabel("Hit")
     plt.grid(True)
-    plt.savefig("./keylogger.png")
+    plt.savefig("./keypresses.png")
+
+    plt.clf()
+
+    plt.plot(time_range, values_kr)
+    plt.title("keyreleases plot")
+    plt.xlabel("Time in 10 ms")
+    plt.ylabel("Hit")
+    plt.grid(True)
+    plt.savefig("./keyreleases.png")
+
+    plt.clf()
 
     plt.plot(time_range, values_fff)
     plt.title("Filtered Flush+Reload Plot")
@@ -104,16 +124,34 @@ def graph_keystrokes(data):
     plt.grid(True)
     plt.savefig("./filtered_flush_reload.png")
 
+    plt.plot(time_range, values_kp)
+    plt.title("Keypresses on Filtered FR Plot")
+    plt.savefig("./kpfr.png")
+
+    plt.clf()
+
+    plt.plot(time_range, values_fff)
+    plt.xlabel("Time in 10 ms")
+    plt.ylabel("Hit")
+    plt.grid(True)
+    plt.plot(time_range, values_kr)
+    plt.title("Keyreleases on Filtered FR Plot")
+    plt.savefig("./krfr.png")
+
 
 def write_output(data):
     flush_reload_json = json.dumps(data["flush_reload"], indent=4)
-    keylogger_json = json.dumps(data["keylogger"], indent=4)
+    keypresses_json = json.dumps(data["keypresses"], indent=4)
+    keyreleases_json = json.dumps(data["keyreleases"], indent=4)
 
     with open("flush_reload.json", "w") as outfile:
         outfile.write(flush_reload_json)
 
-    with open("keylogger.json", "w") as outfile:
-        outfile.write(keylogger_json)
+    with open("keypresses.json", "w") as outfile:
+        outfile.write(keypresses_json)
+
+    with open("keyreleases.json", "w") as outfile:
+        outfile.write(keyreleases_json)
 
 
 if __name__ == "__main__":

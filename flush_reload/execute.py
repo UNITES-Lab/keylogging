@@ -45,10 +45,11 @@ def start_keystrokes():
     # Simulate typing every 200 ms
     while not stop_event.is_set():
         keyboard.press("a")
+        keypresses.append({"key-char": "a", "time": time.time_ns()})
         time.sleep(0.05)  # hold key for 100 ms
         keyboard.release("a")
+        keyreleases.append({"key-char": "a", "time": time.time_ns()})
         time.sleep(0.2)  # wait for 200 ms before next press
-        keystrokes.append({"key-char": "a", "time": time.time_ns()})
 
 
 def uninstall_mod():
@@ -57,7 +58,8 @@ def uninstall_mod():
 
 if __name__ == "__main__":
     with mp.Manager() as manager:
-        keystrokes = manager.list()
+        keypresses = manager.list()
+        keyreleases = manager.list()
         p = mp.Process(target=install_mod)
         q = mp.Process(target=start_keystrokes)
         p.start()
@@ -76,12 +78,21 @@ if __name__ == "__main__":
         Because simulated keys from pynput does not trigger keylogger, we will need to log the inputs by ourselves 
         """
 
-        data["keylogger"] = [
+        data["keypresses"] = [
             {
                 "key-char": key["key-char"],
                 "keystroke-time": key["time"] - data["start_time"],
             }
-            for key in keystrokes
+            for key in keypresses
+            if key["time"] > data["start_time"]
+        ]
+
+        data["keyreleases"] = [
+            {
+                "key-char": key["key-char"],
+                "keystroke-time": key["time"] - data["start_time"],
+            }
+            for key in keyreleases
             if key["time"] > data["start_time"]
         ]
 
