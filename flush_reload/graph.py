@@ -57,6 +57,10 @@ def graph_keystrokes(data):
     filtered_keystroke_ff = [keystroke_time_ff[0]]
     prev_stroke_time = keystroke_time_ff[0]
     for x in keystroke_time_ff:
+        # Fast typers release-press: 121, std: 12
+        # Fast typers hold time: 104, std 17
+        # Combined: 225, std: 21,
+        # 2 std down: 225-42: 183
         if x - prev_stroke_time > 18:
             filtered_keystroke_ff.append(x)
             prev_stroke_time = x
@@ -125,7 +129,7 @@ def graph_keystrokes(data):
 
     plt.clf()
 
-    plt.plot(time_range, values_kr)
+    plt.plot(time_range, values_kl)
     plt.title("Keylogger plot")
     plt.xlabel("Time in 10 ms")
     plt.ylabel("Hit")

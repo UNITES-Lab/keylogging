@@ -25,6 +25,7 @@ def install_mod():
     print("make")
     os.system("make")
     print("sudo insmod spy.ko")
+    print("Please start typing into any window: ")
     os.system("sudo insmod spy.ko")
 
 
@@ -53,6 +54,7 @@ def start_keystrokes():
 
 
 def uninstall_mod():
+    print("sudo rmmod spy")
     os.system("sudo rmmod spy")
 
 
@@ -106,7 +108,6 @@ if __name__ == "__main__":
             graph.graph_keystrokes(data)
     else:
         install_mod()
-        print("please start typing: ")
         uninstall_mod()
         output = os.popen("sudo dmesg -c").read().strip().split("\n")
         data = graph.sort_output(output)

@@ -10,11 +10,12 @@
 sudo cat /proc/kallsyms | grep func_addr
 ```
 
-Some candidate functions you might want to consider, ranked from cleanest to noisiest
+```kbd_keycode``` yields the best result. 
+
+Other candidates are
 1. uinput_write 
-2. kbd_keycode
-3. input_event
-4. ps2_interrupt
+2. ps2_interrupt
+3. hid_keyboard
 
 2. Modify the address in spy.c
 3. Run execute.py to obtain graphs *make sure you complete step 1 & 2 and close gvim before you proceed*
