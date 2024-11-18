@@ -18,7 +18,7 @@ static u64 start_time = 0;
 
 #define LINE_SIZE 64
 
-#define FUNCTION_ADDRESS 0xffffffffa1f00fc0
+#define FUNCTION_ADDRESS 0xffffffffa3300fc0
 
 void maccess(void *p) { asm volatile("movq (%0), %%rax\n" : : "c"(p) : "rax"); }
 
@@ -65,6 +65,7 @@ static int keystroke_timing(void *data) {
     }
     current_time = ktime_get_seconds();
 
+    // each iter takes around 140 ns
     for (int i = 0; i < 1; i++) {
       schedule();
     }
