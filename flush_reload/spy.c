@@ -18,7 +18,7 @@ static u64 start_time = 0;
 
 #define LINE_SIZE 64
 
-#define FUNCTION_ADDRESS 0xffffffffa3300fc0
+#define FUNCTION_ADDRESS 0xffffffffa32f36b0
 
 void maccess(void *p) { asm volatile("movq (%0), %%rax\n" : : "c"(p) : "rax"); }
 

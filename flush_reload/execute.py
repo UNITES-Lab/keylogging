@@ -42,7 +42,7 @@ def start_keystrokes():
     start_time = time.time_ns()
     print(f"keystroke starts: {start_time}")
 
-    # Simulate typing every 200 ms
+    # Modify this code to simulate the keystroke patterns you want to automate
     while not stop_event.is_set():
         keyboard.press("a")
         keypresses.append({"key-char": "a", "time": time.time_ns()})
@@ -57,44 +57,58 @@ def uninstall_mod():
 
 
 if __name__ == "__main__":
-    with mp.Manager() as manager:
-        keypresses = manager.list()
-        keyreleases = manager.list()
-        p = mp.Process(target=install_mod)
-        q = mp.Process(target=start_keystrokes)
-        p.start()
-        q.start()
-        p.join()
-        stop_event.set()
-        q.join()
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--real", action="store_true", default=False, help="real keystroke mode"
+    )
+    args = parser.parse_args()
+    if not args.real:
+        with mp.Manager() as manager:
+            keypresses = manager.list()
+            keyreleases = manager.list()
+            p = mp.Process(target=install_mod)
+            q = mp.Process(target=start_keystrokes)
+            p.start()
+            q.start()
+            p.join()
+            stop_event.set()
+            q.join()
 
+            uninstall_mod()
+
+            # Capture dmesg output
+            output = os.popen("sudo dmesg -c").read().strip().split("\n")
+            data = graph.sort_output(output)
+
+            """
+            Because simulated keys from pynput does not trigger keylogger, we will need to log the inputs by ourselves 
+            """
+
+            data["keypresses"] = [
+                {
+                    "key-char": key["key-char"],
+                    "keystroke-time": key["time"] - data["start_time"],
+                }
+                for key in keypresses
+                if key["time"] > data["start_time"]
+            ]
+
+            data["keyreleases"] = [
+                {
+                    "key-char": key["key-char"],
+                    "keystroke-time": key["time"] - data["start_time"],
+                }
+                for key in keyreleases
+                if key["time"] > data["start_time"]
+            ]
+
+            graph.write_output(data)
+            graph.graph_keystrokes(data)
+    else:
+        install_mod()
+        print("please start typing: ")
         uninstall_mod()
-
-        # Capture dmesg output
         output = os.popen("sudo dmesg -c").read().strip().split("\n")
         data = graph.sort_output(output)
-
-        """
-        Because simulated keys from pynput does not trigger keylogger, we will need to log the inputs by ourselves 
-        """
-
-        data["keypresses"] = [
-            {
-                "key-char": key["key-char"],
-                "keystroke-time": key["time"] - data["start_time"],
-            }
-            for key in keypresses
-            if key["time"] > data["start_time"]
-        ]
-
-        data["keyreleases"] = [
-            {
-                "key-char": key["key-char"],
-                "keystroke-time": key["time"] - data["start_time"],
-            }
-            for key in keyreleases
-            if key["time"] > data["start_time"]
-        ]
-
         graph.write_output(data)
         graph.graph_keystrokes(data)

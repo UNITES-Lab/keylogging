@@ -26,7 +26,7 @@ sudo python3 execute.py
 ***Keylogger will not be in effect under simulation mode***
 
 ### Real Keystroke Mode
-1. Repeat step 1 and 2 above
+1. Repeat step 1 and 2 above with the flag --real
 2. Compile the code 
 ```
 make
@@ -61,3 +61,6 @@ After the code had finished execution (or you have completed the manual steps), 
 12. keyreleases.json: the data used in keyreleases graph
 
 ### All time measurements are in nanoseconds (ns)
+
+# TODOs
+1. Improve noise filtering algorithm
