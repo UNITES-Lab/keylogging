@@ -28,24 +28,7 @@ sudo python3 execute.py
 
 ### Real Keystroke Mode
 1. Repeat step 1 and 2 above with the flag --real
-2. Compile the code 
-```
-make
-```
-3. Install the kernel module
-```
-sudo insmod spy.ko
-```
-4. Type the keystrokes *the installation of the module is when the flush_reload period starts*
-5. Remove the kernel module
-6. Copy the kernel log into logs/test.log or your desired location **if you place at your desired location, make sure to modify graph.py**
-```
-sudo dmesg -c > logs/test.log
-```
-7. run graph.py to obtain the graphs and results 
-```
-python3 graph.py
-```
+2. Type the keystrokes *the installation of the module is when the flush_reload period starts*
 
 After the code had finished execution (or you have completed the manual steps), you can close the gvim terminal. Below will be the descriptions of the files. ***Note: keylogger files are only available during real keystroke mode, key press and release files are only available during simulation keystroke mode***
 1. flush_reload.png: The graph of cache hits with respect to time
