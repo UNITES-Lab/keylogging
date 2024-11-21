@@ -1,8 +1,8 @@
 #include <stdint.h>
 #include <stdio.h>
 
-#include "lib/eviction.h"
-#include "lib/utils.h"
+#include "../lib/eviction.h"
+#include "../lib/utils.h"
 
 #define TRIALS 1000
 

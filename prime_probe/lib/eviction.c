@@ -111,7 +111,7 @@ uint64_t threshold_from_flush(uint8_t *victim) {
   NumList *timings = new_num_list(SAMPLES);
 
   for (int i = 0; i < SAMPLES; i++) {
-    volatile uint8_t x = *victim;
+    maccess((void *)victim);
     push_num(timings, time_load(victim));
   }
 

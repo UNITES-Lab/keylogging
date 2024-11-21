@@ -1,6 +1,5 @@
-#include "lib/cacheutils.h"
-#include "lib/eviction.h"
-#include "lib/utils.h"
+#include "../lib/eviction.h"
+#include "../lib/utils.h"
 #include <sched.h>
 #include <signal.h>
 #include <stdint.h>
