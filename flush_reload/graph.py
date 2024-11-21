@@ -61,7 +61,7 @@ def graph_keystrokes(data):
         # Fast typers hold time: 104, std 17
         # Combined: 225, std: 21,
         # 2 std down: 225-42: 183
-        if x - prev_stroke_time > 18:
+        if x - prev_stroke_time > 70:
             filtered_keystroke_ff.append(x)
             prev_stroke_time = x
 
@@ -71,40 +71,40 @@ def graph_keystrokes(data):
     values_fff = []
     values_kl = []
 
-    for i in range(0, 1001):
+    for i in range(0, 2500):
         if i in keystroke_time_kp:
             values_kp.append(1)
         else:
             values_kp.append(0)
-    for i in range(0, 1001):
+    for i in range(0, 2500):
         if i in keystroke_time_kr:
             values_kr.append(1)
         else:
             values_kr.append(0)
 
-    for i in range(0, 1001):
+    for i in range(0, 2500):
         if i in keystroke_time_ff:
             values_ff.append(1)
         else:
             values_ff.append(0)
 
-    for i in range(0, 1001):
+    for i in range(0, 2500):
         if i in filtered_keystroke_ff:
             values_fff.append(1)
         else:
             values_fff.append(0)
 
-    for i in range(0, 1001):
+    for i in range(0, 2500):
         if i in keystroke_time_kl:
             values_kl.append(1)
         else:
             values_kl.append(0)
 
-    time_range = np.arange(0, 1001)
+    time_range = np.arange(0, 2500)
 
     plt.plot(time_range, values_ff)
     plt.title("Flush+Reload Plot")
-    plt.xlabel("Time in 10 ms")
+    plt.xlabel("Time in 10M cycles")
     plt.ylabel("Hit")
     plt.grid(True)
     plt.savefig("./flush_reload.png")
@@ -113,7 +113,7 @@ def graph_keystrokes(data):
 
     plt.plot(time_range, values_kp)
     plt.title("Keypresses Plot")
-    plt.xlabel("Time in 10 ms")
+    plt.xlabel("Time in 10M cycles")
     plt.ylabel("Hit")
     plt.grid(True)
     plt.savefig("./keypresses.png")
@@ -122,7 +122,7 @@ def graph_keystrokes(data):
 
     plt.plot(time_range, values_kr)
     plt.title("Keyreleases plot")
-    plt.xlabel("Time in 10 ms")
+    plt.xlabel("Time in 10M cycles")
     plt.ylabel("Hit")
     plt.grid(True)
     plt.savefig("./keyreleases.png")
@@ -131,7 +131,7 @@ def graph_keystrokes(data):
 
     plt.plot(time_range, values_kl)
     plt.title("Keylogger plot")
-    plt.xlabel("Time in 10 ms")
+    plt.xlabel("Time in 10M cycles")
     plt.ylabel("Hit")
     plt.grid(True)
     plt.savefig("./keylogger.png")
@@ -140,7 +140,7 @@ def graph_keystrokes(data):
 
     plt.plot(time_range, values_fff, "C2", label="flush+reload")
     plt.title("Filtered Flush+Reload Plot")
-    plt.xlabel("Time in 10 ms")
+    plt.xlabel("Time in 10M cycles")
     plt.ylabel("Hit")
     plt.grid(True)
     plt.savefig("./filtered_flush_reload.png")
@@ -152,7 +152,7 @@ def graph_keystrokes(data):
     plt.clf()
 
     plt.plot(time_range, values_fff, "C2", label="flush+reload")
-    plt.xlabel("Time in 10 ms")
+    plt.xlabel("Time in 10M cycles")
     plt.ylabel("Hit")
     plt.grid(True)
     plt.plot(time_range, values_kr, "C1", label="keyreleases")
@@ -162,7 +162,7 @@ def graph_keystrokes(data):
     plt.clf()
 
     plt.plot(time_range, values_fff, "C2", label="flush+reload")
-    plt.xlabel("Time in 10 ms")
+    plt.xlabel("Time in 10M cycles")
     plt.ylabel("Hit")
     plt.grid(True)
     plt.plot(time_range, values_kl, "C1", label="keylogger")
