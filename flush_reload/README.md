@@ -43,8 +43,3 @@ After the code had finished execution (or you have completed the manual steps), 
 10. flush_reload.json: the data used in the flush_reload graph
 11. keypresses.json: the data used in keypress graph
 12. keyreleases.json: the data used in keyreleases graph
-
-### All time measurements are in nanoseconds (ns)
-
-# TODOs
-1. Improve noise filtering algorithm
