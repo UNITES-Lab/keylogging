@@ -9,8 +9,8 @@ TIME_MASK = 10000000
 
 def sort_output(data):
     # List to store the extracted numbers
-    keylogger_output = []
-
+    keypress_output = []
+    keyrelease_output = []
     flush_reload_output = []
 
     start_time = 0
@@ -25,8 +25,10 @@ def sort_output(data):
             elif line.find("{") != -1 and line.find("}") != -1:
                 dict_start = line.find("{")
                 obj = ast.literal_eval(line[dict_start:])
-                if obj.get("key-char") is not None:
-                    keylogger_output.append(obj)
+                if str(obj.get("type")) == "press":
+                    keypress_output.append(obj)
+                elif str(obj.get("type")) == "release":
+                    keyrelease_output.append(obj)
                 else:
                     flush_reload_output.append(obj)
             else:
@@ -37,9 +39,8 @@ def sort_output(data):
                 start_time = int(line[line.find(": ") + 2 :])
     return {
         "start_time": start_time,
-        "keylogger": keylogger_output,
-        "keypresses": [],
-        "keyreleases": [],
+        "keypresses": keypress_output,
+        "keyreleases": keyrelease_output,
         "flush_reload": flush_reload_output,
     }
 
@@ -48,12 +49,10 @@ def graph_keystrokes(data):
     keypresses_output = data["keypresses"]
     keyreleases_output = data["keyreleases"]
     flush_reload_output = data["flush_reload"]
-    keylogger_output = data["keylogger"]
 
     keystroke_time_kp = [x["keystroke-time"] // TIME_MASK for x in keypresses_output]
     keystroke_time_ff = [x["keystroke-time"] // TIME_MASK for x in flush_reload_output]
     keystroke_time_kr = [x["keystroke-time"] // TIME_MASK for x in keyreleases_output]
-    keystroke_time_kl = [x["keystroke-time"] // TIME_MASK for x in keylogger_output]
     filtered_keystroke_ff = [keystroke_time_ff[0]]
     prev_stroke_time = keystroke_time_ff[0]
     for x in keystroke_time_ff:
@@ -69,7 +68,6 @@ def graph_keystrokes(data):
     values_kr = []
     values_ff = []
     values_fff = []
-    values_kl = []
 
     for i in range(0, 2500):
         if i in keystroke_time_kp:
@@ -93,12 +91,6 @@ def graph_keystrokes(data):
             values_fff.append(1)
         else:
             values_fff.append(0)
-
-    for i in range(0, 2500):
-        if i in keystroke_time_kl:
-            values_kl.append(1)
-        else:
-            values_kl.append(0)
 
     time_range = np.arange(0, 2500)
 
@@ -129,15 +121,6 @@ def graph_keystrokes(data):
 
     plt.clf()
 
-    plt.plot(time_range, values_kl)
-    plt.title("Keylogger plot")
-    plt.xlabel("Time in 10M cycles")
-    plt.ylabel("Hit")
-    plt.grid(True)
-    plt.savefig("./keylogger.png")
-
-    plt.clf()
-
     plt.plot(time_range, values_fff, "C2", label="flush+reload")
     plt.title("Filtered Flush+Reload Plot")
     plt.xlabel("Time in 10M cycles")
@@ -147,7 +130,7 @@ def graph_keystrokes(data):
 
     plt.plot(time_range, values_kp, "C1", label="keypresses")
     plt.title("Keypresses on Filtered FR Plot")
-    plt.savefig("./kpfr.png")
+    plt.savefig("./kpffr.png")
 
     plt.clf()
 
@@ -157,24 +140,33 @@ def graph_keystrokes(data):
     plt.grid(True)
     plt.plot(time_range, values_kr, "C1", label="keyreleases")
     plt.title("Keyreleases on Filtered FR Plot")
+    plt.savefig("./krffr.png")
+
+    plt.clf()
+
+    plt.plot(time_range, values_ff, "C2", label="flush+reload")
+    plt.xlabel("Time in 10M cycles")
+    plt.ylabel("Hit")
+    plt.grid(True)
+    plt.plot(time_range, values_kr, "C1", label="keyreleases")
+    plt.title("Keyreleases on FR Plot")
     plt.savefig("./krfr.png")
 
     plt.clf()
 
-    plt.plot(time_range, values_fff, "C2", label="flush+reload")
+    plt.plot(time_range, values_ff, "C2", label="flush+reload")
     plt.xlabel("Time in 10M cycles")
     plt.ylabel("Hit")
     plt.grid(True)
-    plt.plot(time_range, values_kl, "C1", label="keylogger")
-    plt.title("Keylogger on Filtered FR Plot")
-    plt.savefig("./klfr.png")
+    plt.plot(time_range, values_kp, "C1", label="keyreleases")
+    plt.title("Keypresses on FR Plot")
+    plt.savefig("./kpfr.png")
 
 
 def write_output(data):
     flush_reload_json = json.dumps(data["flush_reload"], indent=4)
     keypresses_json = json.dumps(data["keypresses"], indent=4)
     keyreleases_json = json.dumps(data["keyreleases"], indent=4)
-    keylogger_json = json.dumps(data["keylogger"], indent=4)
 
     with open("flush_reload.json", "w") as outfile:
         outfile.write(flush_reload_json)
@@ -184,9 +176,6 @@ def write_output(data):
 
     with open("keyreleases.json", "w") as outfile:
         outfile.write(keyreleases_json)
-
-    with open("keylogger.json", "w") as outfile:
-        outfile.write(keylogger_json)
 
 
 if __name__ == "__main__":

