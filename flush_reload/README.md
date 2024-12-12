@@ -3,32 +3,21 @@
 1. Make sure you install all the relevant python libraries
 2. Make sure you modify Makefile to use the right gcc version that your kernel is compiled with
 
-### Simulation Mode 
-1. Find the address of function you want to track **Please make sure you do this everytime you reboot as KASLR (Kernel Address Space Layout Randmization) will put functions to different locations**
+### Using the Tool 
+1. Find the address of kbd_keycode using ***You only have to do this once per reboot***
 
 ```
-sudo cat /proc/kallsyms | grep func_addr
+sudo cat /proc/kallsyms | grep kbd_keycode
 ```
 
-```kbd_keycode``` yields the best result. 
-
-Other candidates are
-1. uinput_write 
-2. ps2_interrupt
-3. hid_keyboard
-
-2. Modify the address in spy.c
-3. Run execute.py to obtain graphs *make sure you complete step 1 & 2 and close gvim before you proceed*
+2. Modify the address (FUNCTION_ADDRESS) in spy.c
+3. Run execute.py with sudo privilege
 
 ```
 sudo python3 execute.py
 ```
 
-***Keylogger will not be in effect under simulation mode***
-
-### Real Keystroke Mode
-1. Repeat step 1 and 2 above with the flag --real
-2. Type the keystrokes *the installation of the module is when the flush_reload period starts*
+4. Start typing when prompted to on the screen
 
 After the code had finished execution (or you have completed the manual steps), you can close the gvim terminal. Below will be the descriptions of the files. ***Note: keylogger files are only available during real keystroke mode, key press and release files are only available during simulation keystroke mode***
 1. flush_reload.png: The graph of cache hits with respect to time
