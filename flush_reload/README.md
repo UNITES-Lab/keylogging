@@ -4,7 +4,7 @@
 2. Make sure you modify Makefile to use the right gcc version that your kernel is compiled with
 
 ### Using the Tool 
-1. Find the address of kbd_keycode using ***You only have to do this once per reboot***
+1. Find the address of kbd_keycode. ***You only have to do this once per reboot***
 
 ```
 sudo cat /proc/kallsyms | grep kbd_keycode
