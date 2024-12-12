@@ -19,7 +19,7 @@ sudo python3 execute.py
 
 4. Start typing when prompted to on the screen
 
-After the code had finished execution (or you have completed the manual steps), you can close the gvim terminal. Below will be the descriptions of the files. ***Note: keylogger files are only available during real keystroke mode, key press and release files are only available during simulation keystroke mode***
+After the code had finished execution (or you have completed the manual steps), you can close the gvim terminal. Below will be the descriptions of the files. 
 1. flush_reload.png: The graph of cache hits with respect to time
 2. filtered_flush_reload.png: filter result of flush+reload
 3. keypresses.png: The graph of key presses with respect to time 
