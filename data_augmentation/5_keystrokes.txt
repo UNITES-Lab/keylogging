@@ -1,0 +1,631 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+5	7	The others raise their eyebrows.	The others raise their eyebrows	204	1471934383592	1471934383760	SHIFT	16
+5	7	The others raise their eyebrows.	The others raise their eyebrows	203	1471934383701	1471934383760	T	84
+5	7	The others raise their eyebrows.	The others raise their eyebrows	205	1471934383838	1471934383910	h	72
+5	7	The others raise their eyebrows.	The others raise their eyebrows	206	1471934383910	1471934383991	e	69
+5	7	The others raise their eyebrows.	The others raise their eyebrows	207	1471934384054	1471934384138	 	32
+5	7	The others raise their eyebrows.	The others raise their eyebrows	208	1471934384238	1471934384356	o	79
+5	7	The others raise their eyebrows.	The others raise their eyebrows	214	1471934384452	1471934384572	t	84
+5	7	The others raise their eyebrows.	The others raise their eyebrows	215	1471934384635	1471934384739	h	72
+5	7	The others raise their eyebrows.	The others raise their eyebrows	216	1471934384708	1471934384820	e	69
+5	7	The others raise their eyebrows.	The others raise their eyebrows	217	1471934384786	1471934384891	r	82
+5	7	The others raise their eyebrows.	The others raise their eyebrows	219	1471934384953	1471934385041	s	83
+5	7	The others raise their eyebrows.	The others raise their eyebrows	231	1471934385134	1471934385223	 	32
+5	7	The others raise their eyebrows.	The others raise their eyebrows	232	1471934385255	1471934385372	r	82
+5	7	The others raise their eyebrows.	The others raise their eyebrows	233	1471934385419	1471934385509	a	65
+5	7	The others raise their eyebrows.	The others raise their eyebrows	234	1471934385509	1471934385623	i	73
+5	7	The others raise their eyebrows.	The others raise their eyebrows	240	1471934385623	1471934385745	s	83
+5	7	The others raise their eyebrows.	The others raise their eyebrows	241	1471934385693	1471934385807	e	69
+5	7	The others raise their eyebrows.	The others raise their eyebrows	242	1471934385854	1471934385957	 	32
+5	7	The others raise their eyebrows.	The others raise their eyebrows	243	1471934385957	1471934386057	t	84
+5	7	The others raise their eyebrows.	The others raise their eyebrows	244	1471934386073	1471934386142	h	72
+5	7	The others raise their eyebrows.	The others raise their eyebrows	245	1471934386189	1471934386276	e	69
+5	7	The others raise their eyebrows.	The others raise their eyebrows	251	1471934386996	1471934387074	i	73
+5	7	The others raise their eyebrows.	The others raise their eyebrows	253	1471934387107	1471934387224	r	82
+5	7	The others raise their eyebrows.	The others raise their eyebrows	255	1471934387208	1471934387323	 	32
+5	7	The others raise their eyebrows.	The others raise their eyebrows	257	1471934387385	1471934387475	e	69
+5	7	The others raise their eyebrows.	The others raise their eyebrows	259	1471934387522	1471934387592	y	89
+5	7	The others raise their eyebrows.	The others raise their eyebrows	265	1471934387608	1471934387709	e	69
+5	7	The others raise their eyebrows.	The others raise their eyebrows	266	1471934387771	1471934387843	b	66
+5	7	The others raise their eyebrows.	The others raise their eyebrows	267	1471934387936	1471934388086	r	82
+5	7	The others raise their eyebrows.	The others raise their eyebrows	268	1471934388086	1471934388175	o	79
+5	7	The others raise their eyebrows.	The others raise their eyebrows	269	1471934388237	1471934388340	w	87
+5	7	The others raise their eyebrows.	The others raise their eyebrows	270	1471934388529	1471934388625	s	83
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	326	1471934395727	1471934395871	SHIFT	16
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	328	1471934395836	1471934395973	W	87
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	330	1471934395973	1471934396026	i	73
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	333	1471934396119	1471934396192	l	76
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	336	1471934396285	1471934396358	l	76
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	338	1471934396436	1471934396509	 	32
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	347	1471934396608	1471934396672	y	89
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	348	1471934396739	1471934396824	o	79
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	349	1471934396872	1471934396957	u	85
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	351	1471934397052	1471934397142	 	32
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	353	1471934397157	1471934397273	a	65
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	366	1471934397273	1471934397388	n	78
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	368	1471934397373	1471934397488	d	68
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	371	1471934397473	1471934397585	 	32
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	375	1471934397617	1471934398061	SHIFT	16
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	373	1471934397790	1471934397890	K	75
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	4236	1471934398295	1471934399684	SHIFT	16
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	377	1471934398454	1471934398526	BKSP	8
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	379	1471934399152	1471934399257	K	75
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	4235	1471934399491	1471934399543	B	66
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	4237	1471934399684	1471934399757	 	32
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	4238	1471934399991	1471934400043	b	66
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	4239	1471934400090	1471934400205	e	69
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	4240	1471934400221	1471934400339	 	32
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	387	1471934400529	1471934400640	a	65
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	389	1471934400656	1471934400788	r	82
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	393	1471934400788	1471934400874	o	79
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	396	1471934400905	1471934400992	u	85
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	400	1471934401054	1471934401127	n	78
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	390	1471934401127	1471934401240	d	68
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	392	1471934401255	1471934401356	 	32
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	395	1471934401372	1471934401487	t	84
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	398	1471934401442	1471934401524	h	72
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	401	1471934401540	1471934401624	u	85
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	402	1471934401609	1471934401723	s	83
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	404	1471934401723	1471934401854	 	32
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	406	1471934401838	1471934401940	a	65
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	408	1471934402003	1471934402075	f	70
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	410	1471934402153	1471934402241	t	84
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	416	1471934402225	1471934402354	e	69
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	419	1471934402308	1471934402444	r	82
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	423	1471934402407	1471934402491	n	78
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	427	1471934402570	1471934402626	o	79
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	430	1471934402705	1471934402823	o	79
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	438	1471934402807	1471934402909	n	78
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	442	1471934403081	1471934403226	SHIFT	16
+5	10	Will you and KB be around this afternoon?	Will you and KB be around thus afternoon?	445	1471934403159	1471934403288	?	191
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	529	1471934407874	1471934408090	SHIFT	16
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	528	1471934407984	1471934408043	T	84
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	531	1471934408136	1471934408239	h	72
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	533	1471934408224	1471934408338	r	82
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	534	1471934408356	1471934408456	o	79
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	535	1471934408518	1471934408638	u	85
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	542	1471934408701	1471934408864	g	71
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	543	1471934408879	1471934408968	h	72
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	544	1471934409061	1471934409167	 	32
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	545	1471934409260	1471934409349	h	72
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	546	1471934409396	1471934409517	t	84
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	553	1471934409611	1471934409670	BKSP	8
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	554	1471934409748	1471934409812	BKSP	8
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	555	1471934409843	1471934409965	t	84
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	556	1471934409934	1471934410034	h	72
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	557	1471934410050	1471934410166	i	73
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	558	1471934410183	1471934410267	s	83
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	559	1471934410283	1471934410398	 	32
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	568	1471934410446	1471934410550	a	65
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	570	1471934410613	1471934410732	c	67
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	571	1471934410810	1471934410931	c	67
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	572	1471934410931	1471934411033	o	79
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	573	1471934411080	1471934411167	u	85
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	4402	1471934411215	1471934411317	n	78
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	4405	1471934411317	1471934411432	t	84
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	4406	1471934411432	1471934411548	 	32
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	4407	1471934411595	1471934411731	c	67
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	596	1471934411715	1471934411883	a	65
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	597	1471934411817	1471934411933	s	83
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	598	1471934411964	1471934412035	h	72
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	599	1471934412144	1471934412266	 	32
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	600	1471934412266	1471934412397	f	70
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	601	1471934412397	1471934412453	l	76
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	615	1471934412532	1471934412649	o	79
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	617	1471934412649	1471934412718	w	87
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	619	1471934412828	1471934412917	s	83
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	621	1471934412995	1471934413100	 	32
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	622	1471934413116	1471934413260	t	84
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	627	1471934413216	1471934413288	o	79
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	629	1471934413382	1471934413467	 	32
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	630	1471934413452	1471934413581	c	67
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	631	1471934413597	1471934413684	o	79
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	632	1471934413700	1471934413816	r	82
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	4455	1471934413816	1471934413916	p	80
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	4456	1471934413994	1471934414114	o	79
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	4457	1471934414098	1471934414216	r	82
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	4459	1471934414671	1471934414798	a	65
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	4461	1471934414861	1471934414982	t	84
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	4462	1471934414997	1471934415069	e	69
+5	15	Through this account cash flows to corporate.	Through this account cash flows to corporate.	651	1471934415244	1471934415334	.	190
+5	21	If so what was it?	If so what was it?	4542	1471934420076	1471934420250	SHIFT	16
+5	21	If so what was it?	If so what was it?	4544	1471934420185	1471934420283	I	73
+5	21	If so what was it?	If so what was it?	4547	1471934420314	1471934420432	f	70
+5	21	If so what was it?	If so what was it?	4550	1471934420432	1471934420548	 	32
+5	21	If so what was it?	If so what was it?	4552	1471934420533	1471934420633	s	83
+5	21	If so what was it?	If so what was it?	4554	1471934420648	1471934420702	o	79
+5	21	If so what was it?	If so what was it?	718	1471934420781	1471934420898	 	32
+5	21	If so what was it?	If so what was it?	720	1471934420898	1471934420968	w	87
+5	21	If so what was it?	If so what was it?	722	1471934421030	1471934421118	h	72
+5	21	If so what was it?	If so what was it?	726	1471934421118	1471934421233	a	65
+5	21	If so what was it?	If so what was it?	729	1471934421249	1471934421318	t	84
+5	21	If so what was it?	If so what was it?	733	1471934421397	1471934421441	s	83
+5	21	If so what was it?	If so what was it?	735	1471934421858	1471934421917	BKSP	8
+5	21	If so what was it?	If so what was it?	739	1471934422028	1471934422132	 	32
+5	21	If so what was it?	If so what was it?	742	1471934422086	1471934422184	w	87
+5	21	If so what was it?	If so what was it?	745	1471934422168	1471934422335	a	65
+5	21	If so what was it?	If so what was it?	754	1471934422266	1471934422383	s	83
+5	21	If so what was it?	If so what was it?	755	1471934422398	1471934422449	 	32
+5	21	If so what was it?	If so what was it?	756	1471934422530	1471934422632	i	73
+5	21	If so what was it?	If so what was it?	757	1471934422586	1471934422714	t	84
+5	21	If so what was it?	If so what was it?	758	1471934422824	1471934422967	SHIFT	16
+5	21	If so what was it?	If so what was it?	759	1471934422902	1471934423017	?	191
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	900	1471934429920	1471934430117	SHIFT	16
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	899	1471934430016	1471934430085	I	73
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	901	1471934430445	1471934430518	;	186
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	902	1471934430642	1471934430702	m	77
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	903	1471934430842	1471934430933	 	32
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	904	1471934431748	1471934431869	w	87
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	905	1471934431817	1471934431917	a	65
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	906	1471934431917	1471934432001	i	73
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	907	1471934432048	1471934432158	t	84
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	908	1471934432118	1471934432169	i	73
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	909	1471934432231	1471934432317	n	78
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	910	1471934432332	1471934432479	g	71
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	917	1471934432479	1471934432598	 	32
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	918	1471934432629	1471934432677	s	83
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	919	1471934432968	1471934433035	BKSP	8
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	920	1471934433145	1471934433233	u	85
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	921	1471934433280	1471934433366	n	78
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	922	1471934433366	1471934433465	t	84
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	923	1471934433465	1471934433534	i	73
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	924	1471934433614	1471934433685	l	76
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	925	1471934433794	1471934433884	 	32
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	926	1471934433915	1471934433998	s	83
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	927	1471934434013	1471934434076	h	72
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	928	1471934434108	1471934434200	e	69
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	934	1471934434216	1471934434301	 	32
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	935	1471934434363	1471934434500	c	67
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	936	1471934434419	1471934434500	o	79
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	937	1471934434547	1471934434652	m	77
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	938	1471934434618	1471934434753	e	69
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	939	1471934434701	1471934434800	s	83
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	940	1471934434815	1471934434901	 	32
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	941	1471934434964	1471934435035	h	72
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	942	1471934435082	1471934435229	o	79
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	964	1471934435229	1471934435331	m	77
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	966	1471934435347	1471934435433	e	69
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	968	1471934435683	1471934435850	SHIFT	16
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	970	1471934435777	1471934435912	?	191
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	972	1471934436178	1471934436268	BKSP	8
+5	25	I'm waiting until she comes home.	I;m waiting until she comes home.	974	1471934436346	1471934436480	.	190
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1067	1471934440200	1471934440514	SHIFT	16
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1066	1471934440390	1471934440452	T	84
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1068	1471934440592	1471934440652	h	72
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1069	1471934440777	1471934440867	i	73
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1070	1471934440898	1471934440983	s	83
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1071	1471934440999	1471934441083	 	32
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1072	1471934441193	1471934441283	y	89
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1074	1471934441283	1471934441361	e	69
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1076	1471934441392	1471934441513	a	65
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1078	1471934441513	1471934441631	r	82
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1092	1471934441631	1471934441700	 	32
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1096	1471934441778	1471934442032	SHIFT	16
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1094	1471934441919	1471934442001	I	73
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1097	1471934442141	1471934442232	 	32
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1098	1471934442295	1471934442435	c	67
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1100	1471934442383	1471934442517	a	65
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1112	1471934442451	1471934442533	n	78
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1114	1471934442580	1471934442697	 	32
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1117	1471934442697	1471934442798	w	87
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1121	1471934442783	1471934442907	a	65
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1124	1471934442851	1471934443030	l	76
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1141	1471934442996	1471934443083	k	75
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1143	1471934443161	1471934443234	 	32
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1146	1471934443234	1471934443332	a	65
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1149	1471934443347	1471934443402	n	78
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1152	1471934443730	1471934443863	d	68
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1153	1471934443926	1471934444032	 	32
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1154	1471934444126	1471934444248	i	73
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1155	1471934444232	1471934444318	t	84
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1156	1471934444474	1471934444566	'	222
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1157	1471934444597	1471934444715	s	83
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1158	1471934444746	1471934444849	 	32
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1159	1471934444912	1471934445030	s	83
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1160	1471934445014	1471934445068	o	79
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1161	1471934445161	1471934445218	 	32
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1162	1471934445265	1471934445366	m	77
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1163	1471934445444	1471934445501	u	85
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1171	1471934445580	1471934445682	h	72
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1172	1471934446057	1471934446117	BKSP	8
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1173	1471934446163	1471934446281	c	67
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1174	1471934446265	1471934446319	h	72
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1175	1471934446397	1471934446466	 	32
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1177	1471934446529	1471934446616	b	66
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1182	1471934446616	1471934446700	e	69
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1183	1471934446731	1471934446785	t	84
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1184	1471934446865	1471934446934	t	84
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1186	1471934446934	1471934447068	e	69
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1188	1471934447016	1471934447131	r	82
+5	29	This year I can walk and it's so much better.	This year I can walk and it's so much better.	1190	1471934447162	1471934447249	.	190
+5	33	I am monitoring email.	I am monitoring email.	1298	1471934453548	1471934453732	SHIFT	16
+5	33	I am monitoring email.	I am monitoring email.	1297	1471934453641	1471934453717	I	73
+5	33	I am monitoring email.	I am monitoring email.	1299	1471934453795	1471934453866	 	32
+5	33	I am monitoring email.	I am monitoring email.	1300	1471934453929	1471934454049	a	65
+5	33	I am monitoring email.	I am monitoring email.	1301	1471934453982	1471934454049	m	77
+5	33	I am monitoring email.	I am monitoring email.	1302	1471934454112	1471934454183	 	32
+5	33	I am monitoring email.	I am monitoring email.	1386	1471934454277	1471934454386	m	77
+5	33	I am monitoring email.	I am monitoring email.	1388	1471934454451	1471934454580	o	79
+5	33	I am monitoring email.	I am monitoring email.	1390	1471934454580	1471934454681	n	78
+5	33	I am monitoring email.	I am monitoring email.	1392	1471934454728	1471934454862	i	73
+5	33	I am monitoring email.	I am monitoring email.	1334	1471934454847	1471934454949	t	84
+5	33	I am monitoring email.	I am monitoring email.	1335	1471934455401	1471934455531	o	79
+5	33	I am monitoring email.	I am monitoring email.	1337	1471934455546	1471934455679	r	82
+5	33	I am monitoring email.	I am monitoring email.	1339	1471934455663	1471934455765	i	73
+5	33	I am monitoring email.	I am monitoring email.	1341	1471934455781	1471934455896	n	78
+5	33	I am monitoring email.	I am monitoring email.	1363	1471934455896	1471934456029	g	71
+5	33	I am monitoring email.	I am monitoring email.	1364	1471934456045	1471934456148	 	32
+5	33	I am monitoring email.	I am monitoring email.	1365	1471934456242	1471934456379	m	77
+5	33	I am monitoring email.	I am monitoring email.	1367	1471934456567	1471934456627	BKSP	8
+5	33	I am monitoring email.	I am monitoring email.	1369	1471934456665	1471934456781	e	69
+5	33	I am monitoring email.	I am monitoring email.	1371	1471934456749	1471934456848	m	77
+5	33	I am monitoring email.	I am monitoring email.	1373	1471934456879	1471934456984	a	65
+5	33	I am monitoring email.	I am monitoring email.	1381	1471934456933	1471934457000	i	73
+5	33	I am monitoring email.	I am monitoring email.	1383	1471934457048	1471934457132	l	76
+5	33	I am monitoring email.	I am monitoring email.	1385	1471934457241	1471934457300	.	190
+5	39	We can discuss options early next week.	We can discuss options early next week.	1447	1471934463727	1471934463906	SHIFT	16
+5	39	We can discuss options early next week.	We can discuss options early next week.	1451	1471934463867	1471934464016	W	87
+5	39	We can discuss options early next week.	We can discuss options early next week.	1454	1471934463948	1471934464094	e	69
+5	39	We can discuss options early next week.	We can discuss options early next week.	1458	1471934464172	1471934464281	 	32
+5	39	We can discuss options early next week.	We can discuss options early next week.	1462	1471934464344	1471934464476	c	67
+5	39	We can discuss options early next week.	We can discuss options early next week.	1474	1471934464432	1471934464567	a	65
+5	39	We can discuss options early next week.	We can discuss options early next week.	1475	1471934464505	1471934464583	n	78
+5	39	We can discuss options early next week.	We can discuss options early next week.	1476	1471934464645	1471934464763	 	32
+5	39	We can discuss options early next week.	We can discuss options early next week.	1477	1471934464748	1471934464879	d	68
+5	39	We can discuss options early next week.	We can discuss options early next week.	1478	1471934464863	1471934464933	i	73
+5	39	We can discuss options early next week.	We can discuss options early next week.	1479	1471934464980	1471934465081	s	83
+5	39	We can discuss options early next week.	We can discuss options early next week.	1497	1471934465160	1471934465279	c	67
+5	39	We can discuss options early next week.	We can discuss options early next week.	1499	1471934465279	1471934465380	u	85
+5	39	We can discuss options early next week.	We can discuss options early next week.	1501	1471934465443	1471934465517	s	83
+5	39	We can discuss options early next week.	We can discuss options early next week.	1503	1471934465611	1471934465683	s	83
+5	39	We can discuss options early next week.	We can discuss options early next week.	1504	1471934465761	1471934465858	 	32
+5	39	We can discuss options early next week.	We can discuss options early next week.	1522	1471934466000	1471934466051	o	79
+5	39	We can discuss options early next week.	We can discuss options early next week.	1524	1471934466191	1471934466251	p	80
+5	39	We can discuss options early next week.	We can discuss options early next week.	1527	1471934466486	1471934466599	p	80
+5	39	We can discuss options early next week.	We can discuss options early next week.	1530	1471934466849	1471934466917	BKSP	8
+5	39	We can discuss options early next week.	We can discuss options early next week.	1535	1471934466995	1471934467130	t	84
+5	39	We can discuss options early next week.	We can discuss options early next week.	1539	1471934467130	1471934467262	i	73
+5	39	We can discuss options early next week.	We can discuss options early next week.	1635	1471934467246	1471934467397	o	79
+5	39	We can discuss options early next week.	We can discuss options early next week.	1636	1471934467363	1471934467464	n	78
+5	39	We can discuss options early next week.	We can discuss options early next week.	1638	1471934467526	1471934467652	s	83
+5	39	We can discuss options early next week.	We can discuss options early next week.	1642	1471934467652	1471934467764	 	32
+5	39	We can discuss options early next week.	We can discuss options early next week.	1646	1471934467842	1471934467963	e	69
+5	39	We can discuss options early next week.	We can discuss options early next week.	1649	1471934468010	1471934468130	a	65
+5	39	We can discuss options early next week.	We can discuss options early next week.	1572	1471934468130	1471934468246	r	82
+5	39	We can discuss options early next week.	We can discuss options early next week.	1573	1471934468402	1471934468498	l	76
+5	39	We can discuss options early next week.	We can discuss options early next week.	1574	1471934468593	1471934468682	y	89
+5	39	We can discuss options early next week.	We can discuss options early next week.	1575	1471934468807	1471934468866	 	32
+5	39	We can discuss options early next week.	We can discuss options early next week.	1577	1471934468928	1471934469047	n	78
+5	39	We can discuss options early next week.	We can discuss options early next week.	1595	1471934469031	1471934469083	e	69
+5	39	We can discuss options early next week.	We can discuss options early next week.	1598	1471934469208	1471934469329	x	88
+5	39	We can discuss options early next week.	We can discuss options early next week.	1601	1471934469313	1471934469382	t	84
+5	39	We can discuss options early next week.	We can discuss options early next week.	1602	1471934469491	1471934469549	 	32
+5	39	We can discuss options early next week.	We can discuss options early next week.	1603	1471934469755	1471934469910	w	87
+5	39	We can discuss options early next week.	We can discuss options early next week.	1619	1471934469878	1471934469948	e	69
+5	39	We can discuss options early next week.	We can discuss options early next week.	1621	1471934470042	1471934470127	e	69
+5	39	We can discuss options early next week.	We can discuss options early next week.	1623	1471934470127	1471934470198	k	75
+5	39	We can discuss options early next week.	We can discuss options early next week.	1626	1471934470339	1471934470415	.	190
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1684	1471934473785	1471934473983	SHIFT	16
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1682	1471934473925	1471934473983	I	73
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1687	1471934474061	1471934474132	 	32
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1689	1471934474163	1471934474298	a	65
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1691	1471934474232	1471934474298	m	77
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1693	1471934474376	1471934474465	 	32
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1696	1471934474543	1471934474664	r	82
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1697	1471934474630	1471934474716	e	69
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1698	1471934474763	1471934474866	a	65
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1700	1471934474832	1471934474899	l	76
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1702	1471934474977	1471934475049	l	76
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1709	1471934475160	1471934475213	y	89
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1710	1471934475294	1471934475364	 	32
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1711	1471934475443	1471934475499	n	78
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1712	1471934475577	1471934475680	o	79
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1726	1471934475680	1471934475764	t	84
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1728	1471934475780	1471934475880	 	32
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1732	1471934475911	1471934476018	w	87
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1735	1471934475982	1471934476080	a	65
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1738	1471934476127	1471934476230	n	78
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1741	1471934476293	1471934476380	t	84
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1754	1471934476396	1471934476466	i	73
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1757	1471934476544	1471934476645	n	78
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1759	1471934476677	1471934476812	g	71
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1761	1471934476797	1471934476911	 	32
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1763	1471934476974	1471934477063	t	84
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1767	1471934477047	1471934477115	o	79
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1769	1471934477208	1471934477281	 	32
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1771	1471934477266	1471934477412	c	67
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1774	1471934477380	1471934477480	o	79
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1776	1471934477480	1471934477564	m	77
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1778	1471934477595	1471934477712	e	69
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1781	1471934477696	1471934477764	 	32
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1782	1471934477796	1471934477900	b	66
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1784	1471934477864	1471934477962	a	65
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1786	1471934477978	1471934478099	c	67
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1788	1471934478042	1471934478099	k	75
+5	43	I am really not wanting to come back.	I am really not wanting to come back.	1790	1471934478395	1471934478481	.	190
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1881	1471934482024	1471934482232	SHIFT	16
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1882	1471934482180	1471934482325	A	65
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1883	1471934482419	1471934482513	v	86
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1884	1471934482513	1471934482644	a	65
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1885	1471934482722	1471934482782	,	188
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1886	1471934482955	1471934483077	 	32
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1892	1471934483171	1471934483315	d	68
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1895	1471934483247	1471934483315	o	79
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1899	1471934483424	1471934483529	 	32
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1903	1471934483529	1471934483662	w	87
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1912	1471934483598	1471934483729	e	69
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1914	1471934483791	1471934483865	 	32
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1916	1471934483990	1471934484081	n	78
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1919	1471934484065	1471934484141	e	69
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1921	1471934484238	1471934484354	e	69
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1925	1471934484314	1471934484429	d	68
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1926	1471934484460	1471934484563	 	32
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1927	1471934484563	1471934484662	t	84
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1928	1471934484647	1471934484699	o	79
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1929	1471934484793	1471934484873	 	32
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1936	1471934484858	1471934484963	w	87
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1938	1471934484978	1471934485107	o	79
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1941	1471934485063	1471934485147	r	82
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1944	1471934485212	1471934485328	r	82
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1947	1471934485344	1471934485399	y	89
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1950	1471934485493	1471934485596	 	32
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1952	1471934485596	1471934485728	a	65
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1954	1471934485664	1471934485744	b	66
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1956	1471934485837	1471934485897	o	79
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1958	1471934485960	1471934486063	u	85
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1960	1471934486063	1471934486178	t	84
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1983	1471934486163	1471934486294	 	32
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1986	1471934486294	1471934486400	t	84
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1988	1471934486369	1471934486448	h	72
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1991	1471934486495	1471934486614	i	73
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1994	1471934486580	1471934486695	s	83
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1996	1471934486805	1471934486918	SHIFT	16
+5	48	Ava, do we need to worry about this?	Ava, do we need to worry about this?	1979	1471934486868	1471934486995	?	191
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2080	1471934490337	1471934490565	SHIFT	16
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2076	1471934490509	1471934490565	T	84
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2082	1471934490658	1471934490777	h	72
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2085	1471934490793	1471934490887	r	82
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2088	1471934490904	1471934491012	o	79
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2089	1471934491184	1471934491311	w	87
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2094	1471934491375	1471934491448	 	32
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2096	1471934491526	1471934491591	i	73
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2098	1471934491615	1471934491728	t	84
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2100	1471934491712	1471934491843	 	32
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2106	1471934491843	1471934491963	a	65
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2107	1471934491947	1471934492079	w	87
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2108	1471934492046	1471934492162	a	65
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2109	1471934492162	1471934492215	y	89
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2110	1471934492309	1471934492390	 	32
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2111	1471934492422	1471934492527	a	65
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2119	1471934492512	1471934492612	n	78
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2122	1471934492596	1471934492722	d	68
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2127	1471934492680	1471934492778	 	32
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2130	1471934492825	1471934492914	n	78
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2132	1471934492961	1471934493061	o	79
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2137	1471934493046	1471934493193	t	84
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2138	1471934493177	1471934493248	 	32
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2139	1471934493326	1471934493449	l	76
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2140	1471934493398	1471934493496	e	69
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2141	1471934493528	1471934493691	t	84
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2150	1471934493691	1471934493750	 	32
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2152	1471934493843	1471934493903	i	73
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2155	1471934493931	1471934494014	t	84
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2158	1471934494029	1471934494145	 	32
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2160	1471934494145	1471934494280	t	84
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2174	1471934494224	1471934494315	o	79
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2175	1471934494378	1471934494479	u	85
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2176	1471934494525	1471934494665	c	67
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2177	1471934494613	1471934494696	h	72
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2178	1471934494774	1471934494879	 	32
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2179	1471934495052	1471934495162	t	84
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2212	1471934495351	1471934495446	o	79
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2213	1471934495664	1471934495725	BKSP	8
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2214	1471934495810	1471934495865	BKSP	8
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2215	1471934496303	1471934496365	y	89
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2217	1471934496412	1471934496512	o	79
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2221	1471934496543	1471934496629	u	85
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2224	1471934496644	1471934496713	r	82
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2233	1471934496713	1471934496781	 	32
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2235	1471934496859	1471934496960	h	72
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2240	1471934496905	1471934496975	e	69
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2244	1471934496991	1471934497126	a	65
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2250	1471934497142	1471934497245	r	82
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2267	1471934497229	1471934497299	t	84
+5	52	Throw it away and not let it touch your heart.	Throw it away and not let it touch your heart/.	2268	1471934497689	1471934497750	.	191
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2349	1471934501116	1471934501279	SHIFT	16
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2345	1471934501181	1471934501279	O	79
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2353	1471934501373	1471934501485	t	84
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2357	1471934501432	1471934501576	h	72
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2362	1471934501576	1471934501689	e	69
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2378	1471934501647	1471934501749	r	82
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2379	1471934501952	1471934502046	s	83
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2381	1471934502235	1471934502360	 	32
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2383	1471934502407	1471934502534	v	86
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2385	1471934502496	1471934502626	o	79
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2398	1471934502626	1471934502713	t	84
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2400	1471934502729	1471934502797	i	73
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2403	1471934502844	1471934502914	n	78
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2405	1471934502914	1471934503059	g	71
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2407	1471934503059	1471934503162	 	32
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2409	1471934503193	1471934503277	a	65
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2422	1471934503813	1471934503912	g	71
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2424	1471934503974	1471934504112	a	65
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2427	1471934504078	1471934504147	i	73
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2431	1471934504210	1471934504316	n	78
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2478	1471934504281	1471934504382	t	84
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2479	1471934504460	1471934504561	s	83
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2480	1471934504874	1471934504931	BKSP	8
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2482	1471934504993	1471934505106	BKSP	8
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2484	1471934505122	1471934505212	s	83
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2488	1471934505493	1471934505627	t	84
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2490	1471934505736	1471934505844	 	32
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2494	1471934505985	1471934506127	r	82
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2502	1471934506093	1471934506226	e	69
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2503	1471934506226	1471934506359	p	80
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2504	1471934506359	1471934506525	r	82
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2507	1471934506493	1471934506579	e	69
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2510	1471934506735	1471934506880	s	83
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2534	1471934506827	1471934506944	e	69
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2535	1471934506991	1471934507110	n	78
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2537	1471934507110	1471934507232	t	84
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2539	1471934507482	1471934507548	e	69
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2541	1471934507673	1471934507762	d	68
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2543	1471934507793	1471934507895	 	32
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2551	1471934507910	1471934508012	t	84
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2552	1471934507997	1471934508079	h	72
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2553	1471934508110	1471934508201	e	69
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2554	1471934508216	1471934508344	 	32
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2555	1471934508563	1471934508663	d	68
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2623	1471934508695	1471934508810	e	69
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2626	1471934509013	1471934509144	f	70
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2629	1471934509128	1471934509229	e	69
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2631	1471934509370	1471934509462	n	78
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2633	1471934509524	1471934509644	c	67
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2573	1471934509644	1471934509745	e	69
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2574	1471934509932	1471934509996	BKSP	8
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2575	1471934510076	1471934510147	BKSP	8
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2577	1471934510147	1471934510264	s	83
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2579	1471934510197	1471934510326	e	69
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2582	1471934510768	1471934510815	 	32
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2585	1471934510924	1471934511013	m	77
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2597	1471934511107	1471934511165	i	73
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2598	1471934511229	1471934511297	n	78
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2599	1471934511343	1471934511460	i	73
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2600	1471934511476	1471934511611	s	83
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2601	1471934511626	1471934511696	t	84
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2613	1471934511775	1471934511863	r	82
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2616	1471934511847	1471934511929	y	89
+5	60	Others voting against represented the defense ministry.	Others voting against represented the defense ministry.	2619	1471934512101	1471934512195	.	190
+5	71	I'll call you in the morning.	I'll call you in the morning.	2732	1471934515511	1471934515645	SHIFT	16
+5	71	I'll call you in the morning.	I'll call you in the morning.	2736	1471934515589	1471934515664	I	73
+5	71	I'll call you in the morning.	I'll call you in the morning.	2740	1471934515742	1471934515846	'	222
+5	71	I'll call you in the morning.	I'll call you in the morning.	2743	1471934515908	1471934515996	l	76
+5	71	I'll call you in the morning.	I'll call you in the morning.	2745	1471934516355	1471934516446	l	76
+5	71	I'll call you in the morning.	I'll call you in the morning.	2747	1471934516555	1471934516645	 	32
+5	71	I'll call you in the morning.	I'll call you in the morning.	2748	1471934516740	1471934516856	c	67
+5	71	I'll call you in the morning.	I'll call you in the morning.	2749	1471934516813	1471934516948	a	65
+5	71	I'll call you in the morning.	I'll call you in the morning.	2750	1471934516882	1471934516948	l	76
+5	71	I'll call you in the morning.	I'll call you in the morning.	2751	1471934517026	1471934517082	l	76
+5	71	I'll call you in the morning.	I'll call you in the morning.	2752	1471934517160	1471934517229	 	32
+5	71	I'll call you in the morning.	I'll call you in the morning.	2770	1471934517326	1471934517381	y	89
+5	71	I'll call you in the morning.	I'll call you in the morning.	2772	1471934517461	1471934517546	o	79
+5	71	I'll call you in the morning.	I'll call you in the morning.	2776	1471934517608	1471934517680	u	85
+5	71	I'll call you in the morning.	I'll call you in the morning.	2778	1471934517789	1471934517843	 	32
+5	71	I'll call you in the morning.	I'll call you in the morning.	2781	1471934517942	1471934517995	i	73
+5	71	I'll call you in the morning.	I'll call you in the morning.	6696	1471934518056	1471934518114	n	78
+5	71	I'll call you in the morning.	I'll call you in the morning.	6698	1471934518207	1471934518280	 	32
+5	71	I'll call you in the morning.	I'll call you in the morning.	6700	1471934518264	1471934518360	t	84
+5	71	I'll call you in the morning.	I'll call you in the morning.	6702	1471934518409	1471934518464	h	72
+5	71	I'll call you in the morning.	I'll call you in the morning.	6704	1471934518480	1471934518595	e	69
+5	71	I'll call you in the morning.	I'll call you in the morning.	2813	1471934518595	1471934518658	 	32
+5	71	I'll call you in the morning.	I'll call you in the morning.	2814	1471934518728	1471934518797	m	77
+5	71	I'll call you in the morning.	I'll call you in the morning.	2815	1471934518859	1471934518992	o	79
+5	71	I'll call you in the morning.	I'll call you in the morning.	2827	1471934519039	1471934519146	n	82
+5	71	I'll call you in the morning.	I'll call you in the morning.	2829	1471934519146	1471934519247	i	73
+5	71	I'll call you in the morning.	I'll call you in the morning.	2831	1471934519214	1471934519338	n	78
+5	71	I'll call you in the morning.	I'll call you in the morning.	2833	1471934519322	1471934519427	g	71
+5	71	I'll call you in the morning.	I'll call you in the morning.	2834	1471934519489	1471934519579	.	190
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	2936	1471934523090	1471934523262	SHIFT	16
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	2932	1471934523184	1471934523247	T	84
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	2942	1471934523340	1471934523428	h	72
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	2946	1471934523428	1471934523528	a	65
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	2952	1471934523559	1471934523630	t	84
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	2955	1471934523723	1471934523812	 	32
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	2963	1471934523882	1471934524029	w	87
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	2965	1471934523963	1471934524045	o	79
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	2969	1471934524107	1471934524179	u	85
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	2972	1471934524288	1471934524379	l	76
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	2975	1471934524395	1471934524525	d	68
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3079	1471934524494	1471934524580	 	32
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3081	1471934524768	1471934524845	e	69
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3084	1471934525095	1471934525178	BKSP	8
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3086	1471934525303	1471934525380	b	66
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3088	1471934525412	1471934525527	e	69
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3090	1471934525527	1471934525628	 	32
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3092	1471934525675	1471934525794	a	65
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3100	1471934525857	1471934525976	 	32
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3101	1471934526070	1471934526207	f	70
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3103	1471934526207	1471934526310	i	73
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3106	1471934526514	1471934526581	t	84
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3110	1471934526675	1471934526759	t	84
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3142	1471934526728	1471934526797	i	73
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3144	1471934526859	1471934526946	n	78
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3146	1471934526930	1471934527059	g	71
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3149	1471934527059	1471934527146	 	32
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3152	1471934527177	1471934527278	m	77
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3156	1471934527293	1471934527393	e	69
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3173	1471934527393	1471934527462	m	77
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3175	1471934527557	1471934527676	o	79
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3176	1471934527676	1471934527840	r	82
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3177	1471934527949	1471934528044	i	73
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3195	1471934528044	1471934528160	a	65
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3197	1471934528175	1471934528278	l	76
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3201	1471934528356	1471934528468	 	32
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3203	1471934528446	1471934528560	t	84
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3205	1471934528560	1471934528614	o	79
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3208	1471934528692	1471934528780	 	32
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3220	1471934528796	1471934528878	t	84
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3221	1471934528864	1471934528917	h	72
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3222	1471934528979	1471934529081	o	79
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3223	1471934529050	1471934529162	s	83
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3245	1471934529117	1471934529238	e	69
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3248	1471934529222	1471934529315	 	32
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3250	1471934529331	1471934529433	w	87
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3252	1471934529433	1471934529485	h	72
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3253	1471934529578	1471934529650	o	79
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3254	1471934529729	1471934529785	 	32
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3267	1471934529818	1471934529948	d	68
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3269	1471934529916	1471934529984	i	73
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3272	1471934530015	1471934530120	e	69
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3273	1471934530084	1471934530166	s	83
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3274	1471934530293	1471934530382	.	190
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3280	1471934530874	1471934530935	BKSP	8
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3284	1471934530981	1471934531098	BKSP	8
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3288	1471934531113	1471934531215	d	68
+5	73	That would be a fitting memorial to those who died.	That would be a fitting memorial to those who died.	3292	1471934531231	1471934531301	.	190
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3409	1471934541024	1471934541225	SHIFT	16
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3412	1471934541182	1471934541249	I	73
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3416	1471934541312	1471934541416	d	68
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3420	1471934541357	1471934541432	 	32
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3424	1471934541494	1471934541582	l	76
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3428	1471934541661	1471934541718	u	85
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3435	1471934541782	1471934541896	n	78
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3438	1471934541927	1471934542051	c	67
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3441	1471934542016	1471934542068	h	72
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3443	1471934542162	1471934542280	 	32
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3444	1471934542405	1471934542515	d	68
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3467	1471934542515	1471934542627	o	79
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3470	1471934542970	1471934543081	e	69
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3473	1471934543081	1471934543197	s	83
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3476	1471934543212	1471934543315	n	78
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3479	1471934543612	1471934543715	'	222
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3485	1471934543715	1471934543830	t	84
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3486	1471934543877	1471934543950	 	32
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3487	1471934544012	1471934544137	w	87
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3488	1471934544084	1471934544198	o	79
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3489	1471934544229	1471934544347	r	82
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3504	1471934544315	1471934544400	k	75
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3505	1471934544493	1471934544552	 	32
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3506	1471934544568	1471934544666	t	84
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3507	1471934544666	1471934544728	h	72
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3508	1471934544781	1471934544865	e	69
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3510	1471934544990	1471934545083	n	78
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3519	1471934545162	1471934545249	 	32
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3520	1471934545327	1471934545399	h	72
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3521	1471934545462	1471934545579	o	79
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3522	1471934545564	1471934545680	w	87
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3523	1471934545680	1471934545765	 	32
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3525	1471934545780	1471934545896	a	65
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3527	1471934545851	1471934545917	b	66
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3529	1471934545995	1471934546082	o	79
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3531	1471934546160	1471934546249	u	85
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3547	1471934546249	1471934546380	t	84
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3551	1471934546380	1471934546465	 	32
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3555	1471934546528	1471934546630	c	67
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3559	1471934546584	1471934546709	o	79
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3563	1471934546818	1471934546899	f	70
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3565	1471934546993	1471934547098	f	70
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3574	1471934547207	1471934547267	e	69
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3575	1471934547361	1471934547433	e	69
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3576	1471934547495	1471934547647	SHIFT	16
+5	83	If lunch doesn't work then how about coffee?	Id lunch doesn't work then how about coffee?	3577	1471934547590	1471934547715	?	191
