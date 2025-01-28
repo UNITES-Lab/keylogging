@@ -142,6 +142,32 @@ def install_mod():
 #     print(f"keystroke starts: {start_time}")
 
 
+def test():
+    device = uinput.Device(KEY_MAP.values())
+    time.sleep(0.3)
+    while not stop_event.is_set():
+        # device.emit_click(uinput.KEY_A)
+        # time.sleep(0.01)
+        # device.emit_click(uinput.KEY_S)
+        # time.sleep(0.005)
+        # device.emit_click(uinput.KEY_D)
+        # time.sleep(0.0124)
+        #device.emit_click(uinput.KEY_F)
+        #time.sleep(0.0200)
+        #device.emit_click(uinput.KEY_F)
+        #time.sleep(0.0300)
+        device.emit_click(uinput.KEY_F)
+        #TODO: use time.time_ns to sync time, how to simulate keyhold time???
+        data = data["keypresses"] = [   
+            {
+                "key-char": "f",
+                "keystroke-time": time.time_ns - data["start_time"],
+            }
+            for key in keypresses
+            if key["time"] > data["start_time"]
+        ]
+
+        time.sleep(.015)
 
 def simulate(keystrokes):
     device = uinput.Device(KEY_MAP.values())
@@ -194,57 +220,60 @@ def uninstall_mod():
 
 
 if __name__ == "__main__":
-    # parser = argparse.ArgumentParser()
-    # parser.add_argument(
-    #     "--real", action="store_true", default=False, help="real keystroke mode"
-    # )
-    # args = parser.parse_args()
-    # if not args.real:
-    #     with mp.Manager() as manager:
-    #         keypresses = manager.list()
-    #         keyreleases = manager.list()
-    #         p = mp.Process(target=install_mod)
-    #         q = mp.Process(target=start_keystrokes)
-    #         p.start()
-    #         q.start()
-    #         p.join()
-    #         stop_event.set()
-    #         q.join()
-    #
-    #         uninstall_mod()
-    #
-    #         # Capture dmesg output
-    #         output = os.popen("sudo dmesg -c").read().strip().split("\n")
-    #         data = graph.sort_output(output)
-    #
-    #         """
-    #         Because simulated keys from pynput does not trigger keylogger, we will need to log the inputs by ourselves
-    #         """
-    #
-    #         data["keypresses"] = [
-    #             {
-    #                 "key-char": key["key-char"],
-    #                 "keystroke-time": key["time"] - data["start_time"],
-    #             }
-    #             for key in keypresses
-    #             if key["time"] > data["start_time"]
-    #         ]
-    #
-    #         data["keyreleases"] = [
-    #             {
-    #                 "key-char": key["key-char"],
-    #                 "keystroke-time": key["time"] - data["start_time"],
-    #             }
-    #             for key in keyreleases
-    #             if key["time"] > data["start_time"]
-    #         ]
-    #
-    #         graph.write_output(data)
-    #         graph.graph_keystrokes(data)
-    # else:
-    install_mod()
-    uninstall_mod()
-    output = os.popen("sudo dmesg -c").read().strip().split("\n")
-    data = graph.sort_output(output)
-    graph.write_output(data)
-    graph.graph_keystrokes(data)
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--real", action="store_true", default=False, help="real keystroke mode"
+    )
+    args = parser.parse_args()
+    if not args.real:
+        with mp.Manager() as manager:
+            keypresses = manager.list()
+            keyreleases = manager.list()
+            p = mp.Process(target=install_mod)
+            q = mp.Process(target=test)
+            p.start()
+            q.start()
+            p.join()
+            stop_event.set()
+            q.join()
+    
+            uninstall_mod()
+    
+            # Capture dmesg output
+            output = os.popen("sudo dmesg -c").read().strip().split("\n")
+            data = graph.sort_output(output)
+    
+            """
+            Because simulated keys from pynput does not trigger keylogger, we will need to log the inputs by ourselves
+            """
+    
+            data["keypresses"] = [
+                {
+                    "key-char": key["key-char"],
+                    "keystroke-time": key["time"] - data["start_time"],
+                }
+                for key in keypresses
+                if key["time"] > data["start_time"]
+            ]
+    
+            data["keyreleases"] = [
+                {
+                    "key-char": key["key-char"],
+                    "keystroke-time": key["time"] - data["start_time"],
+                }
+                for key in keyreleases
+                if key["time"] > data["start_time"]
+            ]
+    
+            graph.write_output(data)
+            graph.graph_keystrokes(data)
+    else:
+        install_mod()
+        time.sleep(1)
+        test()
+        time.sleep(1)
+        uninstall_mod()
+        output = os.popen("sudo dmesg -c").read().strip().split("\n")
+        data = graph.sort_output(output)
+        graph.write_output(data)
+        graph.graph_keystrokes(data)
