@@ -1,5 +1,6 @@
 import uinput
 import time
+import json
 
 KEY_MAP = {
     # Letters (lowercase)
@@ -56,19 +57,18 @@ KEY_MAP = {
     "/": uinput.KEY_SLASH,
 
     # Whitespace/Control keys
-    "Space": uinput.KEY_SPACE,
+    " ": uinput.KEY_SPACE,
     "Tab": uinput.KEY_TAB,
     "Enter": uinput.KEY_ENTER,
-    "Backspace": uinput.KEY_BACKSPACE,
+    "BKSP": uinput.KEY_BACKSPACE,
 
     # Modifier keys
-    "LeftShift": uinput.KEY_LEFTSHIFT,
-    "RightShift": uinput.KEY_RIGHTSHIFT,
+    "SHIFT": uinput.KEY_LEFTSHIFT,
     "LeftCtrl": uinput.KEY_LEFTCTRL,
     "RightCtrl": uinput.KEY_RIGHTCTRL,
     "LeftAlt": uinput.KEY_LEFTALT,
     "RightAlt": uinput.KEY_RIGHTALT,
-    "CapsLock": uinput.KEY_CAPSLOCK,
+    "CAPS_LOCK": uinput.KEY_CAPSLOCK,
 
     # Navigation keys
     "Esc": uinput.KEY_ESC,
@@ -95,7 +95,122 @@ KEY_MAP = {
     "F9": uinput.KEY_F9,
     "F10": uinput.KEY_F10,
     "F11": uinput.KEY_F11,
-    "F12": uinput.KEY_F12
+    "F12": uinput.KEY_F12,
+
+    # Uppercase letters
+    "A": uinput.KEY_A,
+    "B": uinput.KEY_B,
+    "C": uinput.KEY_C,
+    "D": uinput.KEY_D,
+    "E": uinput.KEY_E,
+    "F": uinput.KEY_F,
+    "G": uinput.KEY_G,
+    "H": uinput.KEY_H,
+    "I": uinput.KEY_I,
+    "J": uinput.KEY_J,
+    "K": uinput.KEY_K,
+    "L": uinput.KEY_L,
+    "M": uinput.KEY_M,
+    "N": uinput.KEY_N,
+    "O": uinput.KEY_O,
+    "P": uinput.KEY_P,
+    "Q": uinput.KEY_Q,
+    "R": uinput.KEY_R,
+    "S": uinput.KEY_S,
+    "T": uinput.KEY_T,
+    "U": uinput.KEY_U,
+    "V": uinput.KEY_V,
+    "W": uinput.KEY_W,
+    "X": uinput.KEY_X,
+    "Y": uinput.KEY_Y,
+    "Z": uinput.KEY_Z,
+
+    # Shift-modified symbols
+    "!": uinput.KEY_1,
+    "@": uinput.KEY_2,
+    "#": uinput.KEY_3,
+    "$": uinput.KEY_4,
+    "%": uinput.KEY_5,
+    "^": uinput.KEY_6,
+    "&": uinput.KEY_7,
+    "*": uinput.KEY_8,
+    "(": uinput.KEY_9,
+    ")": uinput.KEY_0,
+    "~": uinput.KEY_GRAVE,
+    "_": uinput.KEY_MINUS,
+    "+": uinput.KEY_EQUAL,
+    "{": uinput.KEY_LEFTBRACE,
+    "}": uinput.KEY_RIGHTBRACE,
+    "|": uinput.KEY_BACKSLASH,
+    ":": uinput.KEY_SEMICOLON,
+    "\"": uinput.KEY_APOSTROPHE,
+    "<": uinput.KEY_COMMA,
+    ">": uinput.KEY_DOT,
+    "?": uinput.KEY_SLASH,
+
+    "ARW_LEFT": uinput.KEY_LEFT,       # Left arrow key
+    "ARW_RIGHT": uinput.KEY_RIGHT,     # Right arrow key
+    "ARW_UP": uinput.KEY_UP,           # Up arrow key
+    "ARW_DOWN": uinput.KEY_DOWN,
+    "HOME": uinput.KEY_HOME,         # Home key
+    "END": uinput.KEY_END,           # End key
+    "PAGE_UP": uinput.KEY_PAGEUP,    # Page Up key
+    "PAGE_DOWN": uinput.KEY_PAGEDOWN,# Page Down key
+    "INSERT": uinput.KEY_INSERT,     # Insert key
+    "DELETE": uinput.KEY_DELETE, 
+}
+
+SHIFT_MAP = {
+    # Uppercase letters
+    "A": uinput.KEY_A,
+    "B": uinput.KEY_B,
+    "C": uinput.KEY_C,
+    "D": uinput.KEY_D,
+    "E": uinput.KEY_E,
+    "F": uinput.KEY_F,
+    "G": uinput.KEY_G,
+    "H": uinput.KEY_H,
+    "I": uinput.KEY_I,
+    "J": uinput.KEY_J,
+    "K": uinput.KEY_K,
+    "L": uinput.KEY_L,
+    "M": uinput.KEY_M,
+    "N": uinput.KEY_N,
+    "O": uinput.KEY_O,
+    "P": uinput.KEY_P,
+    "Q": uinput.KEY_Q,
+    "R": uinput.KEY_R,
+    "S": uinput.KEY_S,
+    "T": uinput.KEY_T,
+    "U": uinput.KEY_U,
+    "V": uinput.KEY_V,
+    "W": uinput.KEY_W,
+    "X": uinput.KEY_X,
+    "Y": uinput.KEY_Y,
+    "Z": uinput.KEY_Z,
+
+    # Shift-modified symbols
+    "!": uinput.KEY_1,
+    "@": uinput.KEY_2,
+    "#": uinput.KEY_3,
+    "$": uinput.KEY_4,
+    "%": uinput.KEY_5,
+    "^": uinput.KEY_6,
+    "&": uinput.KEY_7,
+    "*": uinput.KEY_8,
+    "(": uinput.KEY_9,
+    ")": uinput.KEY_0,
+    "~": uinput.KEY_GRAVE,
+    "_": uinput.KEY_MINUS,
+    "+": uinput.KEY_EQUAL,
+    "{": uinput.KEY_LEFTBRACE,
+    "}": uinput.KEY_RIGHTBRACE,
+    "|": uinput.KEY_BACKSLASH,
+    ":": uinput.KEY_SEMICOLON,
+    "\"": uinput.KEY_APOSTROPHE,
+    "<": uinput.KEY_COMMA,
+    ">": uinput.KEY_DOT,
+    "?": uinput.KEY_SLASH
 }
 
 def simulate(keystrokes):
@@ -131,9 +246,47 @@ def simulate(keystrokes):
             #wait to simulate timing, TODO: determine if sleep() gives good enough granularity, replace with time_ns()
             time.sleep(interval/100)
 
+
+def simulate_json():         #TODO: account for gaps between sentences
+    device = uinput.Device(KEY_MAP.values())
+    time.sleep(0.3)
+
+    with open("/home/dohhyun/Keystrokes/json/across_participant_across_sentence_test.jsonl", 'r', encoding='utf-8') as f:
+        lines = [json.loads(line.strip()) for line in f if line.strip()]
+        
+    
+ 
+    for line1 in lines:
+
+        key = line1["keystrokes"].strip("<>").split("><")
+        interval = [float(x) for x in line1["intervals"].split(",") if x]
+        
+
+        start_time = time.time_ns()
+                
+        for interval, pressedChar in zip(interval, key):
+            
+            
+
+            device.emit_click(KEY_MAP[pressedChar])
+            time.sleep(interval / 1000)
+            timing.append({
+                "start_time": time.time_ns(),
+                "section-id": line1["keystrokes"]
+                "participant_id": line1["participant_id"],
+                "test_section_id": line1["test_section_id"],
+                "input_string": line1["input_string"],
+                "sentence_id": Line1["sentence_id"]
+                }
+            )
+        time.sleep(1)
+
+
+
 if __name__ == "__main__":
     device = uinput.Device(KEY_MAP.values())
     start_time = time.time()
+    timing = []
     while time.time() - start_time < 20:
         device.emit_click(KEY_MAP['a'])
         time.sleep(0.1)
