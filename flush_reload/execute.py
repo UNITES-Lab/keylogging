@@ -434,8 +434,6 @@ def uninstall_mod():
 
 
 if __name__ == "__main__":
-    timing = []
-    dbg = []
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--real", action="store_true", default=False, help="real keystroke mode"
@@ -465,19 +463,15 @@ if __name__ == "__main__":
             #
             output = os.popen("sudo dmesg -c").read().strip().split("\n")
             data = graph.sort_output(output)
-
-            # """
-            # Because simulated keys from pynput does not trigger keylogger, we will need to log the inputs by ourselves
-            # """
     
-            # data["keypresses"] = [
-            #     {
-            #         "key-char": key["key-char"],
-            #         "keystroke-time": key["time"] - data["start_time"],
-            #     }
-            #     for key in keypresses
-            #     if key["time"] > data["start_time"]
-            # ]
+            data["keypresses"] = [
+                {
+                    "key-char": key["key-char"],
+                    "keystroke-time": key["time"] - data["start_time"],
+                }
+                for key in keypresses
+                if key["time"] > data["start_time"]
+            ]
     
             # data["keyreleases"] = [
             #      {
