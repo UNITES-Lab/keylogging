@@ -1,15 +1,16 @@
 import time
 import json
 import os
-from pynput.keyboard import Controller
 import signal  # handle sigsegv
 import argparse
 import multiprocessing as mp
 import graph
 import sys
+import uinput
+
 stop_event = mp.Event()
 
-import uinput
+
 
 KEY_MAP = {
     # Letters (lowercase)
@@ -66,14 +67,13 @@ KEY_MAP = {
     "/": uinput.KEY_SLASH,
 
     # Whitespace/Control keys
-    "Space": uinput.KEY_SPACE,
+    " ": uinput.KEY_SPACE,
     "Tab": uinput.KEY_TAB,
     "Enter": uinput.KEY_ENTER,
-    "Backspace": uinput.KEY_BACKSPACE,
+    "BKSP": uinput.KEY_BACKSPACE,
 
     # Modifier keys
-    "LeftShift": uinput.KEY_LEFTSHIFT,
-    "RightShift": uinput.KEY_RIGHTSHIFT,
+    "SHIFT": uinput.KEY_LEFTSHIFT,
     "LeftCtrl": uinput.KEY_LEFTCTRL,
     "RightCtrl": uinput.KEY_RIGHTCTRL,
     "LeftAlt": uinput.KEY_LEFTALT,
@@ -105,8 +105,113 @@ KEY_MAP = {
     "F9": uinput.KEY_F9,
     "F10": uinput.KEY_F10,
     "F11": uinput.KEY_F11,
-    "F12": uinput.KEY_F12
+    "F12": uinput.KEY_F12,
+
+        # Uppercase letters
+    "A": uinput.KEY_A,
+    "B": uinput.KEY_B,
+    "C": uinput.KEY_C,
+    "D": uinput.KEY_D,
+    "E": uinput.KEY_E,
+    "F": uinput.KEY_F,
+    "G": uinput.KEY_G,
+    "H": uinput.KEY_H,
+    "I": uinput.KEY_I,
+    "J": uinput.KEY_J,
+    "K": uinput.KEY_K,
+    "L": uinput.KEY_L,
+    "M": uinput.KEY_M,
+    "N": uinput.KEY_N,
+    "O": uinput.KEY_O,
+    "P": uinput.KEY_P,
+    "Q": uinput.KEY_Q,
+    "R": uinput.KEY_R,
+    "S": uinput.KEY_S,
+    "T": uinput.KEY_T,
+    "U": uinput.KEY_U,
+    "V": uinput.KEY_V,
+    "W": uinput.KEY_W,
+    "X": uinput.KEY_X,
+    "Y": uinput.KEY_Y,
+    "Z": uinput.KEY_Z,
+
+    # Shift-modified symbols
+    "!": uinput.KEY_1,
+    "@": uinput.KEY_2,
+    "#": uinput.KEY_3,
+    "$": uinput.KEY_4,
+    "%": uinput.KEY_5,
+    "^": uinput.KEY_6,
+    "&": uinput.KEY_7,
+    "*": uinput.KEY_8,
+    "(": uinput.KEY_9,
+    ")": uinput.KEY_0,
+    "~": uinput.KEY_GRAVE,
+    "_": uinput.KEY_MINUS,
+    "+": uinput.KEY_EQUAL,
+    "{": uinput.KEY_LEFTBRACE,
+    "}": uinput.KEY_RIGHTBRACE,
+    "|": uinput.KEY_BACKSLASH,
+    ":": uinput.KEY_SEMICOLON,
+    "\"": uinput.KEY_APOSTROPHE,
+    "<": uinput.KEY_COMMA,
+    ">": uinput.KEY_DOT,
+    "?": uinput.KEY_SLASH
 }
+
+SHIFT_MAP = {
+    # Uppercase letters
+    "A": uinput.KEY_A,
+    "B": uinput.KEY_B,
+    "C": uinput.KEY_C,
+    "D": uinput.KEY_D,
+    "E": uinput.KEY_E,
+    "F": uinput.KEY_F,
+    "G": uinput.KEY_G,
+    "H": uinput.KEY_H,
+    "I": uinput.KEY_I,
+    "J": uinput.KEY_J,
+    "K": uinput.KEY_K,
+    "L": uinput.KEY_L,
+    "M": uinput.KEY_M,
+    "N": uinput.KEY_N,
+    "O": uinput.KEY_O,
+    "P": uinput.KEY_P,
+    "Q": uinput.KEY_Q,
+    "R": uinput.KEY_R,
+    "S": uinput.KEY_S,
+    "T": uinput.KEY_T,
+    "U": uinput.KEY_U,
+    "V": uinput.KEY_V,
+    "W": uinput.KEY_W,
+    "X": uinput.KEY_X,
+    "Y": uinput.KEY_Y,
+    "Z": uinput.KEY_Z,
+
+    # Shift-modified symbols
+    "!": uinput.KEY_1,
+    "@": uinput.KEY_2,
+    "#": uinput.KEY_3,
+    "$": uinput.KEY_4,
+    "%": uinput.KEY_5,
+    "^": uinput.KEY_6,
+    "&": uinput.KEY_7,
+    "*": uinput.KEY_8,
+    "(": uinput.KEY_9,
+    ")": uinput.KEY_0,
+    "~": uinput.KEY_GRAVE,
+    "_": uinput.KEY_MINUS,
+    "+": uinput.KEY_EQUAL,
+    "{": uinput.KEY_LEFTBRACE,
+    "}": uinput.KEY_RIGHTBRACE,
+    "|": uinput.KEY_BACKSLASH,
+    ":": uinput.KEY_SEMICOLON,
+    "\"": uinput.KEY_APOSTROPHE,
+    "<": uinput.KEY_COMMA,
+    ">": uinput.KEY_DOT,
+    "?": uinput.KEY_SLASH
+}
+
 
 def get_address(func: str) -> str:
     output = os.popen(f"sudo cat /proc/kallsyms | grep {func}").read().strip()
@@ -118,12 +223,6 @@ def handle_signal(signum, frame):
 
 
 def install_mod():
-    print("make clean")
-    os.system("make clean")
-    print("make")
-    os.system("make")
-    print("sudo insmod spy.ko")
-    print("Please start typing into any window: ")
     os.system("sudo insmod spy.ko")
 
 
@@ -151,8 +250,10 @@ def test():
                 "start-time": time.time_ns()
             }
         ]
+    
+
     while not stop_event.is_set():
-        device.emit_click(KEY_MAP[char])
+        device.emit_click(KEY_MAP[char],1)
         #TODO: use time.time_ns to sync time, how to simulate keyhold time???
         timing = [   
             {
@@ -160,40 +261,91 @@ def test():
                 "keystroke-time": time.time_ns()
             }
         ]
-        time.sleep(1)
+        time.sleep(.15)
+        device.emit_click(KEY_MAP[char],0)
+        timing = [   
+            {
+                "key-char": KEY_MAP[char],
+                "keystroke-time": time.time_ns()
+            }
+        ]
+        time.sleep(.5)
+    
+        # device.emit_click(KEY_MAP[char],1)
+        # #TODO: use time.time_ns to sync time, how to simulate keyhold time???
+        # timing = [   
+        #     {
+        #         "key-char": KEY_MAP[char],
+        #         "keystroke-time": time.time_ns()
+        #     }
+        # ]
+        # time.sleep(.3)
+        # device.emit_click(KEY_MAP[char],0)
+        # #TODO: use time.time_ns to sync time, how to simulate keyhold time???
+        # timing = [   
+        #     {
+        #         "key-char": KEY_MAP[char],
+        #         "keystroke-time": time.time_ns()
+        #     }
+        # ]
 
-def simulate(keystrokes):
+def simulate():         #TODO: account for gaps between sentences
     device = uinput.Device(KEY_MAP.values())
+    time.sleep(0.3)
+    with open("5_keystrokes.txt", 'r', encoding='utf-8') as f:
+        fLines = [line.strip() for line in f if line.strip()]
+        
+        shiftPressTime = 0
+        shiftReleaseTime = 0
 
-    with open(keystrokes, "r") as f:
-        fLines = f.readlines()
-        for line1, line2 in zip(fLines, fLines[1:0]):
+        for line1, line2 in zip(fLines[1:], fLines[2:]):
+            parts1 = line1.strip().split("\t")
+            parts2 = line2.strip().split("\t")
 
-            line1 = line1.strip()
-            line2 = line2.strip()
+            #pull values
+            pressedChar = parts1[-2]
+            pressTime, nextPressTime = float(parts1[-4]), float(parts2[-4])
+            releaseTime = float(parts1[-3])
+            interval = float(nextPressTime - pressTime)
 
-            parts1 = line1.split()
-            parts2 = line2.split()
-
-            if len(parts1) < 2:
-                print(f"Skipping malformed line: {line}")
+            if pressedChar == "SHIFT":
+                shiftPressTime = pressTime
+                shiftReleaseTime = releaseTime
                 continue
 
-            #pull values, TODO: needs modification
-            pressedChar, pressTime, nextPressTime = parts1[4], parts1[5], parts2[5]
+            elif pressedChar in SHIFT_MAP:
+                device.emit_click(KEY_MAP["SHIFT"],1)
+                time.sleep((pressTime - shiftPressTime) / 1000)
+                timing.append({
+                    "key-char": "SHIFT",
+                    "keystroke-time": time.time_ns()
+                })
 
-            try:
-                interval = float(pressTime - nextPressTime)
-            except ValueError:
-                print(f"Invalid wait time '{wait_time_str}' in line: {line}")
-                continue
+                device.emit_click(KEY_MAP[pressedChar],1)
+                if shiftReleaseTime > releaseTime:
+                    device.emit_click(KEY_MAP[pressedChar],0)
+                    time.sleep((shiftReleaseTime - releaseTime) / 1000)
+                    device.emit_click(KEY_MAP["SHIFT"],0)
+                else:
+                    device.emit_click(KEY_MAP["SHIFT"],0)
+                    time.sleep((releaseTime - shiftReleaseTime) / 1000)
+                    device.emit_click(KEY_MAP[pressedChar],0)
 
+                timing.append({
+                    "key-char": pressedChar,
+                    "keystroke-time": time.time_ns()
+                })
+                device.emit_click(KEY_MAP["SHIFT"],0)
 
-            #simulate keystroke, TODO: may need additional formatting
-            device.emit_click(KEY_MAP[char])
+            else:
+                device.emit_click(KEY_MAP[pressedChar])
+                timing.append({
+                    "key-char": pressedChar,
+                    "keystroke-time": time.time_ns()
+                })
+            time.sleep(interval / 1000)
 
-            #wait to simulate timing, TODO: determine if sleep() gives good enough granularity, replace with time_ns()
-            time.sleep(interval/100)
+            
 
 
 
@@ -223,8 +375,14 @@ if __name__ == "__main__":
         with mp.Manager() as manager:
             keypresses = manager.list()
             keyreleases = manager.list()
+            print("make clean")
+            os.system("make clean")
+            print("make")
+            os.system("make")
+            print("sudo insmod spy.ko")
+            print("Please start typing into any window: ")
             p = mp.Process(target=install_mod)
-            q = mp.Process(target=test)
+            q = mp.Process(target=simulate)
             p.start()
             q.start()
             p.join()
@@ -250,14 +408,14 @@ if __name__ == "__main__":
             #     if key["time"] > data["start_time"]
             # ]
     
-            data["keyreleases"] = [
-                 {
-                     "key-char": key["key-char"],
-                     "keystroke-time": key["time"] - data["start_time"],
-                 }
-                 for key in keyreleases
-                 if key["time"] > data["start_time"]
-             ]
+            # data["keyreleases"] = [
+            #      {
+            #          "key-char": key["key-char"],
+            #          "keystroke-time": key["time"] - data["start_time"],
+            #      }
+            #      for key in keyreleases
+            #      if key["time"] > data["start_time"]
+            #  ]
             
             for i in timing:
                  if timing["time"] > data["start_time"]:

