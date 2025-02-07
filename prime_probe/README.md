@@ -26,11 +26,11 @@ If your system shows a warning referring to certificates not being signed, pleas
 
 6. Copy the physical address to replace the address in src/test.c KBD_KEYCODE
 
-### Profiling
+### Running the code 
 
 1. Compile the code 
 
-``` ./compile.sh ```
+```make```
 
 2. Run the code 
 
@@ -38,31 +38,26 @@ If your system shows a warning referring to certificates not being signed, pleas
 sudo ./bin/test.out
 ```
 
-3. Please start typing once the screen shows ready for prime+probe, if you started early, it may cause the eviction search algorithm to fail due to external noise. 
+3-1. Please start typing once the screen shows ready for prime+probe, if you started early, it may cause the eviction search algorithm to fail due to external noise. 
 
-# Critical 
-1. Overlapping bits modified to 12 for huge pages instead of 6 in regualr pages
-2. Hugepages are used
-3. isolcpus, nohz_full, and cpuset is set on cpu 0 on Everglades
+3-2. If you would like to verify if your prime+probe works, please run profiling function in test.c & run victim.out when the screen shows prime+probe starts 
 
-# Huge Pages
+# Critical Notes 
+1. Hugepages are used
+2. isolcpus, nohz_full, and cpuset is set on cpu 0 on Everglades
 
-Setting up large pages
-```echo NUM_PAGES | sudo tee /proc/sys/vm/nr_hugepages```
+# Optional Settings
 
-Check if pages are allocated
-```grep -i huge /proc/meminfo```
-
-#Isolate CPU 
+### Isolate CPU 
 1. GRUB_CMDLINE_LINUX_DEFAULT="isolcpus=1,2" 
 2. sudo update-grub; 
 3. sudo reboot 
 4. cat /proc/cmdline
 
-#Create CPU set
+### Create CPU set
 ```sudo cset shield --cpu=0 --kthread=on```
 
-#Run on CPU set
+### Run on CPU set
 ```sudo cset shield --exec ./your_program```
 
 #Disable Prefetchers: 
@@ -153,10 +148,3 @@ chmod +x /path/to/your/script.sh
 ```
 
 ---
-
-### **6. Notes and Precautions**
-1. **Root Permissions**: Writing to MSRs requires root access.
-2. **Persistence**: Changes to MSRs are not persistent across reboots, so automation is necessary.
-3. **Check CPU Documentation**: Ensure that your CPU supports MSR 0x1A4 and the specific bit settings for prefetchers. Different CPUs might use different MSRs or bit layouts.
-4. **Testing**: Disabling prefetchers may degrade performance for some workloads. Test thoroughly to ensure it achieves your desired outcome.
-
