@@ -1,46 +1,58 @@
 # Compiler and flags
-CC = gcc
-CFLAGS = -std=gnu99 -O0 -g -Wall -Wextra
-LDFLAGS = -lm -pthread
+CC=gcc
+CXX=g++
+CFLAGS=-std=c99 -O0 -g
+CXXFLAGS=-g -pthread -O0
 
 # Directories
-BIN_DIR = bin
-LIB_DIR = lib
-SRC_DIR = src
+SRC_DIR=src
+BIN_DIR=bin
 
-# Source and object files
-SRC = $(wildcard $(LIB_DIR)/*.c) $(wildcard $(SRC_DIR)/*.c)
-OBJ = $(patsubst %.c, $(BIN_DIR)/%.o, $(notdir $(SRC)))
+# Sources and objects
+UTILS_SRC=$(SRC_DIR)/utils.c
+EVICTION_SRC=$(SRC_DIR)/eviction.c
+TEST_SRC=$(SRC_DIR)/test.c
+VICTIM_SRC=$(SRC_DIR)/victim.c
+L3PP_SRC=$(SRC_DIR)/l3pp.c
 
-# Target executable
-TARGET = $(BIN_DIR)/spy_pp.out
+UTILS_OBJ=$(BIN_DIR)/utils.o
+EVICTION_OBJ=$(BIN_DIR)/eviction.o
+TEST_OBJ=$(BIN_DIR)/test.o
+VICTIM_OBJ=$(BIN_DIR)/victim.o
+L3PP_OBJ=$(BIN_DIR)/l3pp.o
 
-# Default rule
-all: $(BIN_DIR) $(TARGET)
+# Targets
+TEST_OUT=$(BIN_DIR)/test.out
+VICTIM_OUT=$(BIN_DIR)/victim.out
 
-# Ensure bin directory exists
-$(BIN_DIR):
-	mkdir -p $(BIN_DIR)
+# Default target
+all: $(TEST_OUT) $(VICTIM_OUT)
 
-# Build the target executable
-$(TARGET): $(OBJ)
-	$(CC) $(CFLAGS) $^ -o $@ $(LDFLAGS)
-
-# Compile source files
-$(BIN_DIR)/%.o: $(LIB_DIR)/%.c | $(BIN_DIR)
+# Rules for object files
+$(UTILS_OBJ): $(UTILS_SRC)
 	$(CC) $(CFLAGS) -c $< -o $@
 
-$(BIN_DIR)/%.o: $(SRC_DIR)/%.c | $(BIN_DIR)
+$(EVICTION_OBJ): $(EVICTION_SRC)
+	$(CC) $(CFLAGS) -pthread -c $< -o $@
+
+$(TEST_OBJ): $(TEST_SRC)
 	$(CC) $(CFLAGS) -c $< -o $@
 
-# Clean up build artifacts
+$(VICTIM_OBJ): $(VICTIM_SRC)
+	$(CC) $(CFLAGS) -c $< -o $@
+
+$(L3PP_OBJ): $(L3PP_SRC)
+	$(CC) $(CFLAGS) -c $< -o $@
+
+
+# Rules for executables
+$(TEST_OUT): $(TEST_OBJ) $(EVICTION_OBJ) $(UTILS_OBJ) $(L3PP_OBJ)
+	$(CXX) $(CXXFLAGS) $^ -o $@
+
+$(VICTIM_OUT): $(VICTIM_OBJ) $(EVICTION_OBJ) $(UTILS_OBJ) $(L3PP_OBJ)
+	$(CXX) $(CXXFLAGS) $^ -o $@
+
+# Clean rule
 clean:
-	rm -rf $(BIN_DIR)
-
-# Run the executable
-run: all
-	./$(TARGET)
-
-# Phony targets
-.PHONY: all clean run
+	rm -f $(BIN_DIR)/*.o $(BIN_DIR)/*.out
 

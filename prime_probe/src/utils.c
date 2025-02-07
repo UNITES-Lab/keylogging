@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <sys/mman.h>
 
-#include "utils.h"
+#include "../lib/utils.h"
 
 /*********************************************************************
  * Ranges and Number Lists
@@ -142,6 +142,23 @@ uint64_t max(NumList *nl) {
   return nl->nums[max_index];
 }
 
+uint64_t mean(NumList *nl) {
+  uint64_t sum = 0;
+  for (int i = 0; i < nl->length; i++) {
+    sum += nl->nums[i];
+  }
+
+  return sum /= nl->length;
+}
+
+uint64_t has_greater_than(NumList *nl, int threshold) {
+  for (int i = 0; i < nl->length; i++) {
+    if (nl->nums[i] > threshold)
+      return 1;
+  }
+  return 0;
+}
+
 uint64_t print_stats(NumList *nl) {
   uint64_t median = median_and_sort(nl);
   double mean = 0;
@@ -174,4 +191,18 @@ uint64_t print_stats(NumList *nl) {
   printf("Median: %lu Mean: %.2f Standard deviation: %.2f Minimum: %lu "
          "Maximum: %lu\n",
          median, mean, sd, minimum, maximum);
+}
+
+int get_bit(uint64_t value, int n) { return (value >> n) & 0x1; }
+void safe_print(char *msg) { write(STDOUT_FILENO, msg, sizeof(msg) - 1); }
+
+void read_binary(const char *filename, uint64_t *array, size_t size) {
+  FILE *f = fopen(filename, "rb");
+  if (!f) {
+    perror("fopen failed");
+    exit(1);
+  }
+
+  fread(array, sizeof(uint64_t), size, f);
+  fclose(f);
 }

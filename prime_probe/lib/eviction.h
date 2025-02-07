@@ -3,6 +3,7 @@
 #include <time.h>
 
 #include "utils.h"
+
 #ifndef EVICTION_H
 #define EVICTION_H
 
@@ -23,13 +24,9 @@
 #define BINS 64
 
 // Slicing of the last-level cache on 6-core Coffee Lake
-#define SLICES 12
-#define ASSOCIATIVITY 12
 #define HIGH_MARK 9 / 10
 #define LOW_MARK 1 / 10
 
-#define CACHE_SET_BITS 10
-#define SETS_PER_SLICE (1 << CACHE_SET_BITS)
 // How many bits [6,10] to match between the victim cache set and the cache set
 // of new cache lines
 #define MATCHING_BITS 6
@@ -39,7 +36,7 @@
  *********************************************************************/
 
 uintptr_t pointer_to_pa(void *va);
-int pa_to_set(uintptr_t pa);
+int pa_to_set(uintptr_t pa, int machine);
 
 /*********************************************************************
  * Timing
@@ -68,6 +65,7 @@ typedef struct {
 void print_cache_line(CacheLine *cl);
 CacheLine *allocate_cache_line(uint8_t *victim);
 CacheLineSet *new_cl_set(void);
+void print_cl_set(CacheLineSet *cl_set);
 void push_cache_line(CacheLineSet *cl_set, CacheLine *cl);
 void free_cl_set(CacheLineSet *cl_set);
 void deep_free_cl_set(CacheLineSet *cl_set);

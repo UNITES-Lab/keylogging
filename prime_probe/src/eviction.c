@@ -6,12 +6,13 @@
 #include <stdlib.h>
 #include <string.h>
 #include <sys/mman.h>
+#include <x86intrin.h>
 
-#include "address_translation.h"
-#include "eviction.h"
-#include "utils.h"
+#include "../lib/address_translation.h"
+#include "../lib/constants.h"
+#include "../lib/eviction.h"
+#include "../lib/utils.h"
 
-#include "cacheutils.h"
 /*********************************************************************
  * Global Variables
  *********************************************************************/
@@ -41,8 +42,41 @@ uintptr_t pointer_to_pa(void *va) {
 }
 
 // Determine the cache set of a physical address by reading bits [6, 16)
-int pa_to_set(uintptr_t pa) {
-  return (pa >> LINE_OFFSET_BITS) & ((1 << CACHE_SET_BITS) - 1);
+int pa_to_set(uintptr_t pa, int machine) {
+  if (machine == EVERGLADES)
+    return (pa >> LINE_OFFSET_BITS) & ((1 << EVERGLADES_CACHE_SET_BITS) - 1);
+  else
+    return (pa >> LINE_OFFSET_BITS) & ((1 << ACADIA_CACHE_SET_BITS) - 1);
+}
+
+int get_i7_2600_slice(uintptr_t pa) {
+
+  /* Practical Timing Side Channel Attacks Against Kernel Space ASLR */
+  // int h2 = get_bit(pa, 31) ^ get_bit(pa, 29) ^ get_bit(pa, 28) ^
+  //          get_bit(pa, 26) ^ get_bit(pa, 24) ^ get_bit(pa, 23) ^
+  //          get_bit(pa, 22) ^ get_bit(pa, 21) ^ get_bit(pa, 20) ^
+  //          get_bit(pa, 19) ^ get_bit(pa, 17);
+  // int h1 = get_bit(pa, 31) ^ get_bit(pa, 30) ^ get_bit(pa, 29) ^
+  //          get_bit(pa, 27) ^ get_bit(pa, 25) ^ get_bit(pa, 23) ^
+  //          get_bit(pa, 21) ^ get_bit(pa, 19) ^ get_bit(pa, 18);
+
+  /* Reverse Engineering Intel Last-Level Cache Complex Addressing Using
+   * Performance Counters */
+
+  int h1 = get_bit(pa, 33) ^ get_bit(pa, 32) ^ get_bit(pa, 30) ^
+           get_bit(pa, 28) ^ get_bit(pa, 27) ^ get_bit(pa, 26) ^
+           get_bit(pa, 25) ^ get_bit(pa, 24) ^ get_bit(pa, 22) ^
+           get_bit(pa, 20) ^ get_bit(pa, 18) ^ get_bit(pa, 17) ^
+           get_bit(pa, 16) ^ get_bit(pa, 14) ^ get_bit(pa, 12) ^
+           get_bit(pa, 10) ^ get_bit(pa, 6);
+  int h2 = get_bit(pa, 34) ^ get_bit(pa, 33) ^ get_bit(pa, 31) ^
+           get_bit(pa, 29) ^ get_bit(pa, 28) ^ get_bit(pa, 26) ^
+           get_bit(pa, 24) ^ get_bit(pa, 23) ^ get_bit(pa, 22) ^
+           get_bit(pa, 21) ^ get_bit(pa, 20) ^ get_bit(pa, 19) ^
+           get_bit(pa, 17) ^ get_bit(pa, 15) ^ get_bit(pa, 13) ^
+           get_bit(pa, 11) ^ get_bit(pa, 7);
+
+  return (h1 << 1) + h2;
 }
 
 CacheLine *align_to_page(CacheLine *va) {
@@ -72,9 +106,14 @@ CacheLine *align_to_victim(CacheLine *va, uint8_t *victim) {
 
 // Times a memory access to the given byte pointer
 uint64_t time_load(volatile uint8_t *victim) {
-  uint64_t t0 = rdtsc_begin();
-  maccess((void *)victim);
-  uint64_t t1 = rdtsc_end();
+  int core_id = 0;
+  _mm_mfence();
+  uint64_t t0 = __rdtscp(&core_id);
+  _mm_lfence();
+  volatile uint8_t x = *victim;
+  uint64_t t1 = __rdtscp(&core_id);
+  _mm_lfence();
+
   return t1 - t0;
 }
 
@@ -111,7 +150,7 @@ uint64_t threshold_from_flush(uint8_t *victim) {
   NumList *timings = new_num_list(SAMPLES);
 
   for (int i = 0; i < SAMPLES; i++) {
-    maccess((void *)victim);
+    volatile uint8_t x = *victim;
     push_num(timings, time_load(victim));
   }
 
@@ -119,7 +158,7 @@ uint64_t threshold_from_flush(uint8_t *victim) {
   clear_num_list(timings);
 
   for (int i = 0; i < SAMPLES; i++) {
-    flush(victim);
+    _mm_clflush(victim);
     push_num(timings, time_load(victim));
   }
 
@@ -143,7 +182,7 @@ uint64_t threshold_from_flush(uint8_t *victim) {
 void print_cache_line(CacheLine *cl) {
   printf("%12p => ", cl);
   printf("0x%013lx ", pointer_to_pa(cl));
-  printf("{ %u }\n", pa_to_set(pointer_to_pa(cl)));
+  printf("{ %u }\n", pa_to_set(pointer_to_pa(cl), EVERGLADES));
 }
 
 // Allocate an aligned page and initialize it
@@ -188,6 +227,12 @@ void deep_free_cl_set(CacheLineSet *cl_set) {
     free(cl_set->cache_lines);
   }
   free(cl_set);
+}
+
+void print_cl_set(CacheLineSet *cl_set) {
+  for (int i = 0; i < cl_set->size; i++) {
+    printf("%p\n", (void *)cl_set->cache_lines[i]);
+  }
 }
 
 // Remove the last cache line from the set of cache lines and return it
@@ -388,7 +433,7 @@ void *access_loop(void *in) {
 
 // Evict the victim and time the access
 uint64_t evict_and_time_once(EvictionSet *es, uint8_t *victim) {
-  maccess((void *)victim);
+  volatile uint8_t x = *victim;
   access_set(es);
   return time_load(victim);
 }
@@ -716,8 +761,8 @@ int same_cache_set(uint8_t *cl1, uint8_t *cl2, CacheLineSet *cl_set,
 }
 
 bool match_cache_set(uint8_t *cl1, uint8_t *cl2, int num_bits) {
-  int set1 = pa_to_set(pointer_to_pa(cl1));
-  int set2 = pa_to_set(pointer_to_pa(cl2));
+  int set1 = pa_to_set(pointer_to_pa(cl1), EVERGLADES);
+  int set2 = pa_to_set(pointer_to_pa(cl2), EVERGLADES);
 
   for (int i = 0; i < num_bits; i++) {
     if ((set1 & 1) == (set2 & 1)) {
@@ -732,9 +777,9 @@ bool match_cache_set(uint8_t *cl1, uint8_t *cl2, int num_bits) {
 }
 
 bool all_same_cache_set(CacheLineSet *cl_set) {
-  int set = pa_to_set(pointer_to_pa(cl_set->cache_lines[0]));
+  int set = pa_to_set(pointer_to_pa(cl_set->cache_lines[0]), EVERGLADES);
   for (int i = 1; i < cl_set->size; i++) {
-    if (pa_to_set(pointer_to_pa(cl_set->cache_lines[i])) != set) {
+    if (pa_to_set(pointer_to_pa(cl_set->cache_lines[i]), EVERGLADES) != set) {
       return false;
     }
   }
@@ -787,7 +832,7 @@ CacheLineSet **generate_sets(int num_sets, uint8_t *victim_page_offset) {
   // Save physical addresses to makes sure they don't change
   NumList *pas[num_sets];
   for (int i = 0; i < num_sets; i++) {
-    pas[i] = new_num_list(ASSOCIATIVITY);
+    pas[i] = new_num_list(ACADIA_ASSOCIATIVITY);
   }
 
   for (int i = 0; i < probe_sets[0]->size; i++) {

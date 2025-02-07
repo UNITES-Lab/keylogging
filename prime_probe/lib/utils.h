@@ -1,19 +1,12 @@
+#include "constants.h"
 #include <stdbool.h>
 #include <stdint.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <x86intrin.h>
 
 #ifndef UTILS_H
 #define UTILS_H
-
-/*********************************************************************
- * Constants
- *********************************************************************/
-
-#define PAGE_OFFSET_BITS 12
-#define LINE_OFFSET_BITS 6
-#define CACHE_SET_BITS 10
-
-#define PAGE_BYTES (1 << PAGE_OFFSET_BITS)
-#define CACHE_LINE_BYTES (1 << LINE_OFFSET_BITS)
 
 /*********************************************************************
  * Macros
@@ -67,6 +60,8 @@ uint64_t pop_num(NumList *nl);
 int compare_nums(const void *a, const void *b);
 uint64_t min(NumList *nl);
 uint64_t max(NumList *nl);
+uint64_t mean(NumList *nl);
+uint64_t has_greater_than(NumList *nl, int threshold);
 uint64_t median_and_sort(NumList *nl);
 uint64_t print_stats(NumList *nl);
 
@@ -89,9 +84,22 @@ void findTwoLargest(const int hits[], int size, IndexedValue *largest1,
  *********************************************************************/
 
 /* Helper function for flushing the memory referenced by ptr */
-// void flush(volatile void *ptr, size_t length);
+void flush(volatile void *ptr, size_t length);
 
 /* Helper function for measuring the access time of ptr[index] */
-// uint64_t time_access(volatile uint8_t *ptr, size_t index);
+uint64_t time_access(volatile uint8_t *ptr, size_t index);
+
+/* Helper function for getting the n'th bit of value, 0-indexed */
+int get_bit(uint64_t value, int n);
+
+/*********************************************************************
+ * Signal Safe Functions
+ *********************************************************************/
+void safe_print(char *msg);
+
+/*********************************************************************
+ * File IO
+ *********************************************************************/
+void read_binary(const char *filename, uint64_t *arr, size_t size);
 
 #endif
