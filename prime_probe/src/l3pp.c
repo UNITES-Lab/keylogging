@@ -50,6 +50,44 @@ uint64_t prime_probe(EvictionSet *es, uint8_t associativity, uint8_t *hit_times,
   return hit_count;
 }
 
+uint64_t *prime_probe_many_sets(EvictionSet **eslist, uint8_t associativity,
+                                uint8_t **hit_times, uint64_t numBytes,
+                                uint64_t **detect_timestamps, int threshold) {
+  unsigned int core_id = 0;
+  int times[associativity];
+  for (int i = 0; i < associativity; i++) {
+    times[i] = 0;
+  }
+
+  int prev[4];
+  uint64_t *hit_count = malloc(4 * sizeof(uint64_t));
+  for (int i = 0; i < 4; i++) {
+    prev[i] = 0;
+    hit_count[i] = 0;
+  }
+
+  for (int i = 0; i < 4; i++) {
+    access_set(eslist[i]);
+  }
+
+  for (int i = 0; i < numBytes; i++) {
+    for (int j = 0; j < 4; j++) {
+      hit_times[j][i] = probe(eslist[j], threshold);
+      if (hit_times[j][i] == 1 && prev[j] == 1) {
+        hit_times[j][i] = 0;
+        prev[j] = 1;
+      } else if (hit_times[j][i] == 1) {
+        detect_timestamps[j][hit_count[j]] = __rdtscp(&core_id);
+        hit_count[j]++;
+        prev[j] = 1;
+      } else {
+        prev[j] = 0;
+      }
+    }
+  }
+  return hit_count;
+}
+
 void filter_pp_results(uint8_t *results, uint64_t numBytes) {
   int prev = 0;
   for (int i = 0; i < numBytes; i++) {

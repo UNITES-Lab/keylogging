@@ -82,6 +82,6 @@ if __name__ == "__main__":
     output = os.popen("sudo dmesg -c").read().strip().split("\n")
     data = sort_output(output)
     formatted_list = [data["start_time"]] + data["keypresses"] # keystroke time reported from spy is relative to start-time 
-    # flush_list_to_binary(formatted_list, "kl_keystrokes.bin")
+    flush_list_to_binary(formatted_list, "kl_keystrokes.bin")
     graph("kl_keystrokes.bin", "Keylogger", "kl_keystrokes.png", True) 
 

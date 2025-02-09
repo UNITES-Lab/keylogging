@@ -14,6 +14,10 @@ uint64_t prime_probe(EvictionSet *es, uint8_t associativity, uint8_t *hit_times,
                      uint64_t numBytes, uint64_t *detect_timestamps,
                      int threshold);
 
+uint64_t *prime_probe_many_sets(EvictionSet **eslist, uint8_t associativity,
+                                uint8_t **hit_times, uint64_t numBytes,
+                                uint64_t **detect_timestamps, int threshold);
+
 /**
  * Return the hit count for the given trace at the last width * height addresses
  * in results
