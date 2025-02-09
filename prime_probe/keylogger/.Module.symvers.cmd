@@ -1,1 +1,1 @@
-savedcmd_/home/james/research/eviction-sets/keylogger/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/james/research/eviction-sets/keylogger/Module.symvers -T /home/james/research/eviction-sets/keylogger/modules.order -i Module.symvers -e 
+savedcmd_/home/james/research/keylogging/prime_probe/keylogger/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/james/research/keylogging/prime_probe/keylogger/Module.symvers -T /home/james/research/keylogging/prime_probe/keylogger/modules.order -i Module.symvers -e 

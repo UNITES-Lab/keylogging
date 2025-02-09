@@ -1,7 +1,6 @@
 #include "eviction.h"
 uint8_t probe(EvictionSet *es, int threshold);
-/**
- * Prime+Probe until the buffer hit_times is completely filled
+/** Prime+Probe until the buffer hit_times is completely filled
  * @param es: eviction set to probe
  * @param associativity: the associativity of the cache
  * @param numBytes: the number of bytes in array hit_times

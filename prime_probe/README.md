@@ -1,3 +1,6 @@
+# Acknowledgements
+This code builds on eviction-sets developed by Max Christman and extends to a full prime+probe attack recovering keystroke timing. 
+
 # How to launch the attack?
 
 ### Setup
@@ -28,19 +31,10 @@ If your system shows a warning referring to certificates not being signed, pleas
 
 ### Running the code 
 
-1. Compile the code 
+```sudo ./attack.sh```
 
-```make```
+If the logs show that we fail to generate the eviction sets for all slices, please try again. 
 
-2. Run the code 
-
-```
-sudo ./bin/test.out
-```
-
-3-1. Please start typing once the screen shows ready for prime+probe, if you started early, it may cause the eviction search algorithm to fail due to external noise. 
-
-3-2. If you would like to verify if your prime+probe works, please run profiling function in test.c & run victim.out when the screen shows prime+probe starts 
 
 # Critical Notes 
 1. Hugepages are used

