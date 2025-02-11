@@ -25,7 +25,7 @@ cd ..
 
 # Step 3: Run the test binary in the background
 echo "sudo ./bin/test.out"
-sudo ./bin/test.out
+sudo ./bin/test.out $1
 TEST_PID=$!  # Store process ID of test.out
 
 # Step 7: Remove kernel module
@@ -35,5 +35,5 @@ sudo rmmod spy.ko
 echo "keylogging complete, graphing the results"
 
 # Step 9: Read last line of output.log and pass it as a parameter to plot.py
-sudo python3 plot.py
+sudo python3 plot.py $1
 

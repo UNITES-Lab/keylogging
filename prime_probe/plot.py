@@ -56,8 +56,9 @@ def graph(input_file, attack_type, output_file, normalize):
     CPU_FREQ = 3.4
     timestamps = ((values-values[0])/ (3.4 * 1000000)).astype(int)
     sorted_timestamps = np.sort(timestamps)
+    print(sorted_timestamps)
     # plotting histogram with 10 ms intervals over 10s
-    counts = np.zeros(10001, dtype=int)
+    counts = np.zeros(12000, dtype=int)
     if normalize:
         sorted_timestamps[1:] = sorted_timestamps[1:] - sorted_timestamps[1]
     for v in sorted_timestamps:
@@ -67,7 +68,7 @@ def graph(input_file, attack_type, output_file, normalize):
     print("valid detections: " + str(len(strokes)))
 
     plt.figure()
-    plt.plot(range(10001), counts, color='red', alpha=0.7, linewidth=1)
+    plt.plot(range(12000), counts, color='red', alpha=0.7, linewidth=1)
     plt.xlabel("time (ms)")
     plt.ylabel("detection count")
     plt.title(attack_type + " Detection Count Line Plot")
@@ -78,7 +79,9 @@ def graph(input_file, attack_type, output_file, normalize):
 
     
 if __name__ == "__main__":
-    pp_start_time = graph("pp_keystrokes.bin", "Prime+Probe", "pp_keystrokes.png", False)
+    # graph("pp_keystrokes.bin", "Prime+Probe", "pp_keystrokes.png", False)
+    for i in range(4):
+        graph("pp_keystrokes_"+str(i) + ".bin", "Prime+Probe", "pp_keystrokes_"+str(i), False);
     output = os.popen("sudo dmesg -c").read().strip().split("\n")
     data = sort_output(output)
     formatted_list = [data["start_time"]] + data["keypresses"] # keystroke time reported from spy is relative to start-time 

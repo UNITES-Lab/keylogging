@@ -35,6 +35,11 @@ If your system shows a warning referring to certificates not being signed, pleas
 
 If the logs show that we fail to generate the eviction sets for all slices, please try again. 
 
+### Operation Modes 
+- The default mode runs with probing all slices of set 428
+- If you only want to probe the target slice, change the following items 
+1. modify src/test.c to use ```prime_probe``` instead of ```prime_probe_many_sets```
+2. uncomment line 82 and comment out line 83 and line 84 
 
 # Critical Notes 
 1. Hugepages are used
