@@ -4,7 +4,7 @@ import numpy as np
 from enum import Enum
 import json
 
-TIME_MASK = 10000000
+TIME_MASK = 10000000 #3400 for conversion to ms
 
 
 def sort_output(data):
@@ -25,6 +25,10 @@ def sort_output(data):
             elif line.find("{") != -1 and line.find("}") != -1:
                 dict_start = line.find("{")
                 obj = ast.literal_eval(line[dict_start:])
+                #TODO: Convert cycles to ms 
+
+
+
                 if str(obj.get("type")) == "press":
                     keypress_output.append(obj)
                 elif str(obj.get("type")) == "release":

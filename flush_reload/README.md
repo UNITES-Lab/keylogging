@@ -2,6 +2,8 @@
 ### Before you begin 
 1. Make sure you install all the relevant python libraries
 2. Make sure you modify Makefile to use the right gcc version that your kernel is compiled with
+3. Make sure your CPU clock is fixed and any overclocking feature is turned off for easier calculation
+4. adjust the CPU_CLOCK accordingly to your CPU
 
 ### Using the Tool 
 1. Find the address of kbd_keycode. ***You only have to do this once per reboot***

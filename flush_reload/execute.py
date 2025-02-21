@@ -4,9 +4,11 @@ import os
 import signal  # handle sigsegv
 import argparse
 import multiprocessing as mp
+import numpy 
 import graph
 import sys
 import uinput
+import desc
 
 stop_event = mp.Event()
 
@@ -78,7 +80,7 @@ KEY_MAP = {
     "RightCtrl": uinput.KEY_RIGHTCTRL,
     "LeftAlt": uinput.KEY_LEFTALT,
     "RightAlt": uinput.KEY_RIGHTALT,
-    "CapsLock": uinput.KEY_CAPSLOCK,
+    "CAPS_LOCK": uinput.KEY_CAPSLOCK,
 
     # Navigation keys
     "Esc": uinput.KEY_ESC,
@@ -107,7 +109,7 @@ KEY_MAP = {
     "F11": uinput.KEY_F11,
     "F12": uinput.KEY_F12,
 
-        # Uppercase letters
+    # Uppercase letters
     "A": uinput.KEY_A,
     "B": uinput.KEY_B,
     "C": uinput.KEY_C,
@@ -156,7 +158,18 @@ KEY_MAP = {
     "\"": uinput.KEY_APOSTROPHE,
     "<": uinput.KEY_COMMA,
     ">": uinput.KEY_DOT,
-    "?": uinput.KEY_SLASH
+    "?": uinput.KEY_SLASH,
+
+    "ARW_LEFT": uinput.KEY_LEFT,       # Left arrow key
+    "ARW_RIGHT": uinput.KEY_RIGHT,     # Right arrow key
+    "ARW_UP": uinput.KEY_UP,           # Up arrow key
+    "ARW_DOWN": uinput.KEY_DOWN,
+    "HOME": uinput.KEY_HOME,         # Home key
+    "END": uinput.KEY_END,           # End key
+    "PAGE_UP": uinput.KEY_PAGEUP,    # Page Up key
+    "PAGE_DOWN": uinput.KEY_PAGEDOWN,# Page Down key
+    "INSERT": uinput.KEY_INSERT,     # Insert key
+    "DELETE": uinput.KEY_DELETE, 
 }
 
 SHIFT_MAP = {
@@ -292,13 +305,23 @@ def test():
 def simulate():         #TODO: account for gaps between sentences
     device = uinput.Device(KEY_MAP.values())
     time.sleep(0.3)
-    with open("5_keystrokes.txt", 'r', encoding='utf-8') as f:
+
+    with open("src_keystrokes/5_keystrokes.txt", 'r', encoding='utf-8') as f:
         fLines = [line.strip() for line in f if line.strip()]
         
-        shiftPressTime = 0
-        shiftReleaseTime = 0
+        # shiftPressTime = 0
+        # shiftReleaseTime = 0
+
+        start_time = time.time()
+
+        
 
         for line1, line2 in zip(fLines[1:], fLines[2:]):
+            dbg.append(time.time())
+            
+            if(time.time()-start_time > 200):
+                break
+
             parts1 = line1.strip().split("\t")
             parts2 = line2.strip().split("\t")
 
@@ -307,42 +330,48 @@ def simulate():         #TODO: account for gaps between sentences
             pressTime, nextPressTime = float(parts1[-4]), float(parts2[-4])
             releaseTime = float(parts1[-3])
             interval = float(nextPressTime - pressTime)
+            curSection_id = parts1[2]
+            nextSection_id = parts2[2]
 
-            if pressedChar == "SHIFT":
-                shiftPressTime = pressTime
-                shiftReleaseTime = releaseTime
-                continue
+            if(nextSection_id != curSection_id):
+                interval = 1000
 
-            elif pressedChar in SHIFT_MAP:
-                device.emit_click(KEY_MAP["SHIFT"],1)
-                time.sleep((pressTime - shiftPressTime) / 1000)
-                timing.append({
-                    "key-char": "SHIFT",
-                    "keystroke-time": time.time_ns()
-                })
+            # if pressedChar == "SHIFT":
+            #     shiftPressTime = pressTime
+            #     shiftReleaseTime = releaseTime
+            #     continue
 
-                device.emit_click(KEY_MAP[pressedChar],1)
-                if shiftReleaseTime > releaseTime:
-                    device.emit_click(KEY_MAP[pressedChar],0)
-                    time.sleep((shiftReleaseTime - releaseTime) / 1000)
-                    device.emit_click(KEY_MAP["SHIFT"],0)
-                else:
-                    device.emit_click(KEY_MAP["SHIFT"],0)
-                    time.sleep((releaseTime - shiftReleaseTime) / 1000)
-                    device.emit_click(KEY_MAP[pressedChar],0)
+            # elif pressedChar in SHIFT_MAP:
+            #     device.emit_click(KEY_MAP["SHIFT"],1)
+            #     time.sleep((pressTime - shiftPressTime) / 1000)
+            #     timing.append({
+            #         "key-char": "SHIFT",
+            #         "keystroke-time": time.time_ns()
+            #     })
 
-                timing.append({
-                    "key-char": pressedChar,
-                    "keystroke-time": time.time_ns()
-                })
-                device.emit_click(KEY_MAP["SHIFT"],0)
+            #     device.emit_click(KEY_MAP[pressedChar],1)
+            #     if shiftReleaseTime > releaseTime:
+            #         time.sleep((shiftReleaseTime - releaseTime) / 1000)
+            #         device.emit_click(KEY_MAP["SHIFT"],0)
+            #     else:
+            #         device.emit_click(KEY_MAP["SHIFT"],0)
+            #         time.sleep((releaseTime - shiftReleaseTime) / 1000)
 
-            else:
-                device.emit_click(KEY_MAP[pressedChar])
-                timing.append({
-                    "key-char": pressedChar,
-                    "keystroke-time": time.time_ns()
-                })
+            #     timing.append({
+            #         "key-char": pressedChar,
+            #         "keystroke-time": time.time_ns()
+            #     })
+            #    device.emit_click(KEY_MAP["SHIFT"],0)
+
+            # else:
+            dbg.append(time.time())
+            device.emit_click(KEY_MAP[pressedChar])
+            dbg.append(time.time())
+            timing.append({
+                "key-char": pressedChar,
+                "keystroke-time": time.time_ns(),
+                "section-id": curSection_id
+            })
             time.sleep(interval / 1000)
 
             
@@ -366,6 +395,7 @@ def uninstall_mod():
 
 if __name__ == "__main__":
     timing = []
+    dbg = []
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--real", action="store_true", default=False, help="real keystroke mode"
@@ -388,10 +418,11 @@ if __name__ == "__main__":
             p.join()
             stop_event.set()
             q.join()
-    
+            
             uninstall_mod()
     
             # Capture dmesg output
+            #
             output = os.popen("sudo dmesg -c").read().strip().split("\n")
             data = graph.sort_output(output)
 
@@ -417,19 +448,22 @@ if __name__ == "__main__":
             #      if key["time"] > data["start_time"]
             #  ]
             
-            for i in timing:
-                 if timing["time"] > data["start_time"]:
-                     data["keypresses"].append(
-                     {
-                         "key-char": i["key-char"],
-                         "keystroke-time": i["keystroke-time"] - data["start_time"]
-                     }
-                     )
+            # for i in timing:
+            #      if timing["time"] > data["start_time"]:
+            #          data["keypresses"].append(
+            #          {
+            #              "key-char": i["key-char"],
+            #              "keystroke-time": i["keystroke-time"] - data["start_time"]
+            #          }
+            #          )
                   
                  
                  #TODO: Validate if start-time is the same
             graph.write_output(data)
             graph.graph_keystrokes(data)
+            numpy.savetxt("dbg.csv", dbg, delimiter=",")
+            desc.analyze_json("flush_reload.json")
+
     else:
         install_mod()
         test()

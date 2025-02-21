@@ -1,4 +1,4 @@
-CC := x86_64-linux-gnu-gcc-12
+CC := x86_64-linux-gnu-gcc-13
 
 # Specify the object files
 obj-m += spy.o  # Ensure your source file is named hello.c
