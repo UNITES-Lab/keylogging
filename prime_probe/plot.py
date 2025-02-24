@@ -79,9 +79,9 @@ def graph(input_file, attack_type, output_file, normalize):
 
     
 if __name__ == "__main__":
-    # graph("pp_keystrokes.bin", "Prime+Probe", "pp_keystrokes.png", False)
-    for i in range(4):
-        graph("pp_keystrokes_"+str(i) + ".bin", "Prime+Probe", "pp_keystrokes_"+str(i), False);
+    graph("pp_keystrokes.bin", "Prime+Probe", "pp_keystrokes.png", False)
+    # for i in range(4):
+    #     graph("pp_keystrokes_"+str(i) + ".bin", "Prime+Probe", "pp_keystrokes_"+str(i), False);
     output = os.popen("sudo dmesg -c").read().strip().split("\n")
     data = sort_output(output)
     formatted_list = [data["start_time"]] + data["keypresses"] # keystroke time reported from spy is relative to start-time 

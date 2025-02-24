@@ -235,7 +235,7 @@ int main() {
   // read_binary("output0.bin", slice_zero_times, timestamp_sizes[0]);
   // free(timestamp_sizes);
   es_list = get_all_slices_eviction_sets(mapping_start, 428);
-  measure_keystroke_without_slice(threshold_from_flush(mapping_start));
+  measure_keystroke(threshold_from_flush(mapping_start));
   free_es_list(es_list);
   munmap(mapping_start, EVERGLADES_LLC_SIZE << 4);
   return 0;
