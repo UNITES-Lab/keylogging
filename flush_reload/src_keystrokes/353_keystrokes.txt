@@ -1,0 +1,808 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153408	1471997777022	1471997777096	i	73
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153409	1471997777252	1471997777349	 	32
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153410	1471997777474	1471997777561	j	74
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153412	1471997777641	1471997777714	u	85
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153414	1471997777745	1471997777955	s	83
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153497	1471997778189	1471997778262	t	84
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153499	1471997778419	1471997778558	 	32
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153502	1471997779361	1471997779492	f	70
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153505	1471997779538	1471997779595	i	73
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153508	1471997780033	1471997780259	x	88
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153559	1471997780221	1471997780562	e	69
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153562	1471997780502	1471997780760	s	83
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153567	1471997780749	1471997780984	 	32
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153571	1471997781442	1471997781606	c	67
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153572	1471997781684	1471997781763	o	79
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153574	1471997781841	1471997781930	p	80
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153606	1471997782020	1471997782127	i	73
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153609	1471997782174	1471997782366	e	69
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153616	1471997782339	1471997782546	s	83
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153622	1471997782539	1471997782728	 	32
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153627	1471997783133	1471997783260	o	79
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153657	1471997783303	1471997783465	f	70
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153661	1471997783427	1471997783559	 	32
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153663	1471997783637	1471997783742	t	84
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153668	1471997783820	1471997783946	h	72
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153708	1471997783908	1471997784131	e	69
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153709	1471997784078	1471997784287	 	32
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153711	1471997784647	1471997784726	i	73
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153713	1471997784851	1471997784945	n	78
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153716	1471997785172	1471997785322	v	86
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153719	1471997785353	1471997785474	o	79
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153746	1471997785580	1471997785695	i	73
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153748	1471997785895	1471997786130	c	67
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153749	1471997786087	1471997786339	e	69
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153750	1471997786318	1471997786504	s	83
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153751	1471997786598	1471997786772	 	32
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153779	1471997787057	1471997787175	t	84
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153781	1471997787191	1471997787294	o	79
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153784	1471997787419	1471997787586	 	32
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153787	1471997787742	1471997787826	y	89
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153790	1471997787967	1471997788058	o	79
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153875	1471997788179	1471997788260	u	85
+353	3170	I just faxed copies of the invoices to you.	i just fixes copies of the invoices to you.	153878	1471997789279	1471997789439	.	190
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	153977	1471997794283	1471997794406	n	78
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	153981	1471997794656	1471997794728	BKSP	8
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	153985	1471997794774	1471997794991	SHIFT	16
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	153991	1471997794946	1471997795113	N	78
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	153996	1471997795077	1471997795266	e	69
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	153998	1471997795254	1471997795483	s	83
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154067	1471997795471	1471997795578	t	84
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154069	1471997796111	1471997796194	BKSP	8
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154071	1471997796240	1471997796362	BKSP	8
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154075	1471997796597	1471997796778	x	88
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154078	1471997796760	1471997796830	t	84
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154081	1471997797080	1471997797226	 	32
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154084	1471997797667	1471997797777	t	84
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154087	1471997797840	1471997797945	i	73
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154105	1471997798052	1471997798200	m	77
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154107	1471997798176	1471997798379	e	69
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154109	1471997798341	1471997798524	 	32
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154111	1471997798587	1471997798798	a	65
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154183	1471997798755	1471997798923	s	83
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154185	1471997798970	1471997799109	k	75
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154187	1471997799219	1471997799422	 	32
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154188	1471997799766	1471997800053	SHIFT	16
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154189	1471997800006	1471997800096	J	74
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154190	1471997800237	1471997800314	i	73
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154191	1471997800471	1471997800547	m	77
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154242	1471997800668	1471997800839	 	32
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154245	1471997801466	1471997801561	t	84
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154250	1471997801576	1471997801676	o	79
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154256	1471997801801	1471997801973	 	32
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154259	1471997802004	1471997802166	c	67
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154277	1471997802128	1471997802276	a	65
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154281	1471997802291	1471997802364	l	76
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154284	1471997802427	1471997802512	l	76
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154287	1471997802622	1471997802828	 	32
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154289	1471997802807	1471997802981	m	77
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154324	1471997802927	1471997803132	e	69
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154326	1471997803091	1471997803297	s	83
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154330	1471997803242	1471997803437	.	190
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154334	1471997803734	1471997803813	BKSP	8
+353	3181	Next time ask Jim to call me.	Next time ask Jim to call me	154337	1471997803860	1471997803959	BKSP	8
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154457	1471997807805	1471997808158	SHIFT	16
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154459	1471997808198	1471997808342	p	80
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154461	1471997808342	1471997808475	r	82
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154463	1471997808490	1471997808641	o	79
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154465	1471997808922	1471997809103	f	70
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154514	1471997809090	1471997809257	i	73
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154518	1471997809398	1471997809527	t	84
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154522	1471997809511	1471997809705	s	83
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154524	1471997809720	1471997809922	 	32
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154527	1471997810141	1471997810337	w	87
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154566	1471997810324	1471997810412	e	69
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154567	1471997810756	1471997810875	BKSP	8
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154568	1471997810907	1471997811128	r	82
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154570	1471997811041	1471997811285	e	69
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154572	1471997811363	1471997811461	BKSP	8
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154576	1471997811523	1471997811649	BKSP	8
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154579	1471997811599	1471997811764	e	69
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154582	1471997811723	1471997811911	r	82
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154612	1471997811858	1471997812040	e	69
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154613	1471997812040	1471997812235	 	32
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154614	1471997812391	1471997812479	u	85
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154616	1471997812588	1471997812677	o	79
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154619	1471997812818	1471997812973	 	32
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154623	1471997812989	1471997813078	t	84
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154688	1471997813136	1471997813287	o	79
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154690	1471997813459	1471997813605	 	32
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154693	1471997813808	1471997813894	BKSP	8
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154696	1471997813957	1471997814036	BKSP	8
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154698	1471997814083	1471997814191	BKSP	8
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154700	1471997814378	1471997814462	BKSP	8
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154703	1471997814540	1471997814628	BKSP	8
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154704	1471997814894	1471997814978	p	80
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154706	1471997815124	1471997815272	 	32
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154708	1471997815731	1471997815903	2	50
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154752	1471997816142	1471997816241	8	56
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154753	1471997816460	1471997816607	 	32
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154754	1471997816920	1471997817044	p	80
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154755	1471997817231	1471997817328	e	69
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154756	1471997817422	1471997817495	r	82
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154792	1471997817647	1471997817819	c	67
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154794	1471997817789	1471997817991	e	69
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154796	1471997817957	1471997818105	n	78
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154800	1471997818121	1471997818275	t	84
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154804	1471997818322	1471997818507	 	32
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154849	1471997818976	1471997819107	f	70
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154851	1471997819169	1471997819275	o	79
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154853	1471997819353	1471997819497	r	82
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154855	1471997819444	1471997819560	 	32
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154857	1471997819654	1471997819742	t	84
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154893	1471997819824	1471997819970	h	72
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154894	1471997819957	1471997820164	e	69
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154895	1471997820155	1471997820369	 	32
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154897	1471997820596	1471997820773	f	70
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154899	1471997820835	1471997820943	o	79
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154950	1471997821223	1471997821309	BKSP	8
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154952	1471997821481	1471997821543	i	73
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154955	1471997821622	1471997821759	e	69
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154957	1471997821695	1471997821960	s	83
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154959	1471997821874	1471997822007	t	84
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154960	1471997822366	1471997822461	BKSP	8
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154962	1471997822524	1471997822594	BKSP	8
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	154964	1471997822626	1471997822742	BKSP	8
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155014	1471997822725	1471997822898	e	69
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155019	1471997822841	1471997823070	s	83
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155023	1471997823556	1471997823645	BKSP	8
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155026	1471997823708	1471997823826	BKSP	8
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155030	1471997823826	1471997823973	r	82
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155034	1471997824035	1471997824211	s	83
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155037	1471997824204	1471997824294	t	84
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155040	1471997824513	1471997824671	 	32
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155065	1471997825439	1471997825588	q	81
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155069	1471997825682	1471997825790	u	85
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155074	1471997825868	1471997826037	a	65
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155078	1471997826130	1471997826288	r	82
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155081	1471997826350	1471997826490	t	84
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155109	1471997826474	1471997826744	e	69
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155110	1471997826671	1471997826857	r	82
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155111	1471997826838	1471997827050	 	32
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155113	1471997827278	1471997827374	o	79
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155117	1471997827733	1471997827844	f	70
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155149	1471997827826	1471997827923	 	32
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155152	1471997828033	1471997828108	t	84
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155154	1471997828202	1471997828324	h	72
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155155	1471997828575	1471997828751	i	73
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155156	1471997828738	1471997828905	s	83
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155158	1471997828921	1471997829106	 	32
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155198	1471997829460	1471997829588	y	89
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155199	1471997829635	1471997829790	e	69
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155201	1471997829852	1471997830019	a	65
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155205	1471997830065	1471997830190	r	82
+353	3191	Profits were up 28 percent for the first quarter of this year.	profits were up 28 percent for the first quarter of this year.	155207	1471997830707	1471997830795	.	190
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155345	1471997833918	1471997834194	SHIFT	16
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155347	1471997834138	1471997834272	D	68
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155349	1471997834335	1471997834409	o	79
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155351	1471997834550	1471997834641	 	32
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155355	1471997834766	1471997834843	y	89
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155358	1471997834968	1471997835076	o	79
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155365	1471997835184	1471997835259	u	85
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155368	1471997835400	1471997835525	 	32
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155371	1471997835476	1471997835654	w	87
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155374	1471997835635	1471997835809	a	65
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155415	1471997835756	1471997835894	n	78
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155417	1471997836034	1471997836139	t	84
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155419	1471997836331	1471997836441	 	32
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155423	1471997836942	1471997837007	t	84
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155426	1471997837117	1471997837209	o	79
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155430	1471997837365	1471997837504	 	32
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155448	1471997837605	1471997837714	f	70
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155451	1471997837755	1471997837982	a	65
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155454	1471997837953	1471997838150	x	88
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155457	1471997838181	1471997838374	 	32
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155459	1471997838856	1471997838942	i	73
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155486	1471997839344	1471997839439	t	84
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155487	1471997839439	1471997839570	 	32
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155488	1471997839680	1471997839776	t	84
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155489	1471997839823	1471997839912	o	79
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155491	1471997840053	1471997840173	 	32
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155535	1471997840273	1471997840437	m	77
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155536	1471997840609	1471997840694	u	85
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155537	1471997841007	1471997841093	BKSP	8
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155539	1471997841171	1471997841225	y	89
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155541	1471997841319	1471997841439	 	32
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155543	1471997841501	1471997841575	h	72
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155579	1471997841690	1471997841776	o	79
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155582	1471997841933	1471997842045	t	84
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155585	1471997842009	1471997842265	e	69
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155588	1471997842296	1471997842502	l	76
+353	3208	Do you want to fax it to my hotel?	Do you want to fax it to my hotel?	155590	1471997842658	1471997842868	SHIFT	16
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155759	1471997845810	1471997846042	SHIFT	16
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155760	1471997846013	1471997846089	I	73
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155761	1471997846230	1471997846356	 	32
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155763	1471997846338	1471997846486	a	65
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155765	1471997846486	1471997846604	m	77
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155768	1471997846667	1471997846805	 	32
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155804	1471997846867	1471997846988	l	76
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155806	1471997847063	1471997847173	o	79
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155808	1471997847235	1471997847341	o	79
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155811	1471997847796	1471997847891	k	75
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155814	1471997847969	1471997848041	i	73
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155836	1471997848151	1471997848257	n	78
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155838	1471997848324	1471997848424	g	71
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155839	1471997848408	1471997848538	 	32
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155841	1471997848570	1471997848706	f	70
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155843	1471997848737	1471997848902	o	79
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155876	1471997849013	1471997849122	r	82
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155878	1471997849294	1471997849423	w	87
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155880	1471997849532	1471997849703	a	65
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155881	1471997849750	1471997849858	r	82
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155882	1471997849968	1471997850137	d	68
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155941	1471997850105	1471997850325	 	32
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155942	1471997850867	1471997850975	t	84
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155943	1471997851069	1471997851160	o	79
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155944	1471997851300	1471997851435	 	32
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155945	1471997851514	1471997851615	t	84
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155946	1471997851705	1471997851807	h	72
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155964	1471997851925	1471997852055	e	69
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155966	1471997852086	1471997852267	 	32
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155968	1471997852299	1471997852511	s	83
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155971	1471997852438	1471997852619	a	65
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155992	1471997852571	1471997852824	l	76
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155993	1471997852726	1471997852949	a	65
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155994	1471997853090	1471997853270	d	68
+353	3218	I am looking forward to the salad.	I am looking forward to the salad.	155995	1471997853251	1471997853440	.	190
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156135	1471997856359	1471997856589	SHIFT	16
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156138	1471997856515	1471997856683	A	65
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156140	1471997856714	1471997856853	 	32
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156143	1471997857025	1471997857190	r	82
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156146	1471997857125	1471997857284	e	69
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156149	1471997857362	1471997857454	p	80
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156196	1471997857549	1471997857670	o	79
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156198	1471997858076	1471997858339	r	82
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156201	1471997858269	1471997858448	t	84
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156202	1471997858526	1471997858703	 	32
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156203	1471997858890	1471997859142	SHIFT	16
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156217	1471997859078	1471997859155	T	84
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156218	1471997859233	1471997859353	h	72
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156219	1471997859447	1471997859540	u	85
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156220	1471997859611	1471997859707	r	82
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156221	1471997859832	1471997859991	s	83
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156270	1471997859973	1471997860191	d	68
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156271	1471997860121	1471997860312	a	65
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156273	1471997860300	1471997860438	y	89
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156274	1471997860626	1471997860793	 	32
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156276	1471997861152	1471997861285	s	83
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156277	1471997861394	1471997861491	h	72
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156322	1471997861657	1471997861774	o	79
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156323	1471997861977	1471997862174	w	87
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156325	1471997862151	1471997862242	e	69
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156327	1471997862367	1471997862490	d	68
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156330	1471997862490	1471997862670	 	32
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156372	1471997862914	1471997863068	w	87
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156375	1471997863162	1471997863258	h	72
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156377	1471997863430	1471997863506	o	79
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156378	1471997863584	1471997863720	l	76
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156379	1471997863751	1471997863856	e	69
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156409	1471997864468	1471997864669	s	83
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156412	1471997864620	1471997864865	a	65
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156415	1471997865037	1471997865232	l	76
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156417	1471997865202	1471997865409	e	69
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156459	1471997865401	1471997865602	 	32
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156461	1471997866118	1471997866271	p	80
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156464	1471997866318	1471997866435	r	82
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156468	1471997866529	1471997866624	o	79
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156472	1471997866905	1471997866989	BKSP	8
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156475	1471997867145	1471997867258	i	73
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156499	1471997867258	1471997867478	c	67
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156501	1471997867435	1471997867572	e	69
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156503	1471997867681	1471997867850	s	83
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156505	1471997867836	1471997868003	 	32
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156507	1471997868286	1471997868392	f	70
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156508	1471997868471	1471997868573	e	69
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156534	1471997868686	1471997868774	l	76
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156538	1471997868821	1471997868938	l	76
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156544	1471997869203	1471997869310	 	32
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156547	1471997869620	1471997869708	0	48
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156552	1471997869833	1471997869988	.	190
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156603	1471997870050	1471997870270	1	49
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156605	1471997870236	1471997870372	 	32
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156607	1471997870638	1471997870756	p	80
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156609	1471997870835	1471997870970	e	69
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156611	1471997871251	1471997871404	c	67
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156743	1471997871373	1471997871609	e	69
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156746	1471997871522	1471997871702	n	78
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156749	1471997871718	1471997871856	t	84
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156753	1471997871871	1471997872068	 	32
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156755	1471997872162	1471997872287	a	65
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156758	1471997872537	1471997872627	BKSP	8
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156762	1471997872866	1471997872939	BKSP	8
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156763	1471997873002	1471997873105	BKSP	8
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156764	1471997873183	1471997873255	BKSP	8
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156766	1471997873708	1471997873806	BKSP	8
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156769	1471997873868	1471997873972	BKSP	8
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156773	1471997874019	1471997874124	BKSP	8
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156775	1471997874813	1471997875023	e	69
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156782	1471997875001	1471997875106	r	82
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156786	1471997875293	1471997875480	c	67
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156790	1471997875452	1471997875620	e	69
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156795	1471997875571	1471997875671	n	78
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156798	1471997875702	1471997875827	t	84
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156830	1471997875788	1471997875937	 	32
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156832	1471997876004	1471997876077	i	73
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156834	1471997876202	1471997876310	n	78
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156835	1471997876372	1471997876565	 	32
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156836	1471997876521	1471997876777	SHIFT	16
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156837	1471997876706	1471997876892	A	65
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156878	1471997876855	1471997877017	p	80
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156881	1471997877064	1471997877203	r	82
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156884	1471997877250	1471997877355	i	73
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156888	1471997877480	1471997877653	l	76
+353	3226	A report Thursday showed wholesale prices fell 0.1 percent in April.	A report Thursday showed wholesale prices fell 0.1 percent in April.	156892	1471997877966	1471997878122	.	190
+353	3244	What is your issue sir?	What is your issue sir?	157227	1471997842799	1471997887051	?	191
+353	3244	What is your issue sir?	What is your issue sir?	157062	1471997881579	1471997882157	SHIFT	16
+353	3244	What is your issue sir?	What is your issue sir?	157066	1471997882049	1471997882242	W	87
+353	3244	What is your issue sir?	What is your issue sir?	157069	1471997882219	1471997882387	h	72
+353	3244	What is your issue sir?	What is your issue sir?	157073	1471997882434	1471997882658	a	65
+353	3244	What is your issue sir?	What is your issue sir?	157077	1471997882570	1471997882705	t	84
+353	3244	What is your issue sir?	What is your issue sir?	157081	1471997882970	1471997883168	 	32
+353	3244	What is your issue sir?	What is your issue sir?	157125	1471997883253	1471997883389	i	73
+353	3244	What is your issue sir?	What is your issue sir?	157130	1471997883420	1471997883608	s	83
+353	3244	What is your issue sir?	What is your issue sir?	157136	1471997883554	1471997883765	 	32
+353	3244	What is your issue sir?	What is your issue sir?	157140	1471997884235	1471997884322	y	89
+353	3244	What is your issue sir?	What is your issue sir?	157143	1471997884431	1471997884539	o	79
+353	3244	What is your issue sir?	What is your issue sir?	157158	1471997884635	1471997884724	u	85
+353	3244	What is your issue sir?	What is your issue sir?	157160	1471997884770	1471997884899	r	82
+353	3244	What is your issue sir?	What is your issue sir?	157164	1471997884886	1471997885037	 	32
+353	3244	What is your issue sir?	What is your issue sir?	157166	1471997885115	1471997885209	i	73
+353	3244	What is your issue sir?	What is your issue sir?	157168	1471997885240	1471997885354	s	83
+353	3244	What is your issue sir?	What is your issue sir?	157197	1471997885417	1471997885625	s	83
+353	3244	What is your issue sir?	What is your issue sir?	157200	1471997885538	1471997885768	u	85
+353	3244	What is your issue sir?	What is your issue sir?	157202	1471997885734	1471997885933	e	69
+353	3244	What is your issue sir?	What is your issue sir?	157204	1471997885949	1471997886163	 	32
+353	3244	What is your issue sir?	What is your issue sir?	157205	1471997886241	1471997886456	s	83
+353	3244	What is your issue sir?	What is your issue sir?	157216	1471997886418	1471997886554	i	73
+353	3244	What is your issue sir?	What is your issue sir?	157220	1471997886570	1471997886705	r	82
+353	3244	What is your issue sir?	What is your issue sir?	157225	1471997886768	1471997886973	SHIFT	16
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157432	1471997889842	1471997890061	SHIFT	16
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157434	1471997890139	1471997890210	s	83
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157438	1471997890547	1471997891263	SHIFT	16
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157435	1471997890772	1471997890905	BKSP	8
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157436	1471997891030	1471997891248	S	83
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157440	1471997891626	1471997891706	u	85
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157442	1471997891816	1471997891940	n	78
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157503	1471997891922	1471997892177	d	68
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157510	1471997892117	1471997892302	a	65
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157515	1471997892317	1471997892422	y	89
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157521	1471997892578	1471997892751	 	32
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157525	1471997893223	1471997893322	r	82
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157531	1471997893681	1471997893773	BKSP	8
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157537	1471997893835	1471997893954	t	84
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157594	1471997894006	1471997894154	i	73
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157597	1471997894224	1471997894417	c	67
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157599	1471997894526	1471997894690	j	74
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157602	1471997894568	1471997894835	e	69
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157603	1471997895023	1471997895105	BKSP	8
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157604	1471997895168	1471997895259	BKSP	8
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157605	1471997895698	1471997895791	k	75
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157625	1471997895876	1471997896020	e	69
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157626	1471997895988	1471997896223	s	83
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157627	1471997896122	1471997896286	t	84
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157630	1471997896724	1471997896808	BKSP	8
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157633	1471997896855	1471997896972	BKSP	8
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157636	1471997897159	1471997897273	t	84
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157637	1471997897352	1471997897536	s	83
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157669	1471997897550	1471997897703	 	32
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157671	1471997898314	1471997898422	h	72
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157672	1471997898469	1471997898640	a	65
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157674	1471997898573	1471997898656	v	86
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157677	1471997898687	1471997898840	e	69
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157716	1471997898774	1471997898870	 	32
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157718	1471997898964	1471997899073	b	66
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157723	1471997899057	1471997899172	e	69
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157725	1471997899234	1471997899364	e	69
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157728	1471997899355	1471997899510	n	78
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157732	1471997899573	1471997899779	 	32
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157770	1471997900314	1471997900391	o	79
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157773	1471997900501	1471997900591	n	78
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157778	1471997900653	1471997900809	 	32
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157781	1471997900741	1471997900975	s	83
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157838	1471997900903	1471997901123	a	65
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157841	1471997901027	1471997901242	l	76
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157844	1471997901201	1471997901383	e	69
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157848	1471997901462	1471997901680	 	32
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157851	1471997902092	1471997902221	f	70
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157854	1471997902299	1471997902376	o	79
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157899	1471997902461	1471997902601	r	82
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157902	1471997902663	1471997902835	 	32
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157907	1471997903415	1471997903508	BKSP	8
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157912	1471997903524	1471997903696	w	87
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157918	1471997903670	1471997903771	e	69
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157923	1471997904037	1471997904107	BKSP	8
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157927	1471997904169	1471997904242	BKSP	8
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157931	1471997904446	1471997904530	 	32
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157946	1471997904525	1471997904707	w	87
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157949	1471997904668	1471997904786	e	69
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157952	1471997904864	1471997904987	e	69
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157955	1471997905018	1471997905123	k	75
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157960	1471997905138	1471997905333	s	83
+353	3249	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	157962	1471997905427	1471997905510	.	190
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158138	1471997908551	1471997908638	t	84
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158141	1471997908732	1471997908839	h	72
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158144	1471997909167	1471997909241	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158146	1471997909303	1471997909388	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158148	1471997909529	1471997910128	SHIFT	16
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158151	1471997910418	1471997910769	SHIFT	16
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158150	1471997910489	1471997910636	T	84
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158152	1471997910746	1471997910841	H	72
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158153	1471997910997	1471997911182	e	69
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158229	1471997911422	1471997911491	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158230	1471997911554	1471997911638	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158231	1471997911982	1471997912074	e	69
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158232	1471997912387	1471997912460	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158233	1471997912773	1471997912889	h	72
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158235	1471997912935	1471997913102	e	69
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158237	1471997913118	1471997913302	 	32
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158241	1471997913396	1471997913458	SHIFT	16
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158248	1471997913710	1471997913852	r	82
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158299	1471997913897	1471997914006	o	79
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158301	1471997914272	1471997914341	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158303	1471997914497	1471997914589	i	73
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158304	1471997914652	1471997914791	o	79
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158305	1471997914710	1471997914916	t	84
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158306	1471997915119	1471997915388	d	68
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158362	1471997915365	1471997915502	 	32
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158364	1471997915769	1471997915856	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158366	1471997915919	1471997916022	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158368	1471997916053	1471997916218	s	83
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158372	1471997916233	1471997916370	 	32
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158375	1471997916542	1471997916794	w	87
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158378	1471997916765	1471997916920	e	69
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158380	1471997917029	1471997917192	r	82
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158416	1471997917138	1471997917370	e	69
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158418	1471997917330	1471997917499	 	32
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158420	1471997917671	1471997917819	s	83
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158422	1471997917866	1471997917975	t	84
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158424	1471997917956	1471997918116	a	65
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158426	1471997918179	1471997918302	r	82
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158457	1471997918395	1471997918527	t	84
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158459	1471997918489	1471997918793	e	69
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158460	1471997918855	1471997918995	d	68
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158462	1471997918985	1471997919197	 	32
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158465	1471997919385	1471997919521	b	66
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158505	1471997919625	1471997919708	y	89
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158507	1471997919895	1471997920084	 	32
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158509	1471997920836	1471997920937	n	78
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158513	1471997920952	1471997921012	n	78
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158557	1471997920980	1471997921169	a	65
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158561	1471997921200	1471997921304	t	84
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158563	1471997921414	1471997921544	i	73
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158566	1471997921669	1471997921819	v	86
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158567	1471997921819	1471997922015	e	69
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158568	1471997922093	1471997922274	 	32
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158599	1471997922332	1471997922574	SHIFT	16
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158600	1471997922519	1471997922621	T	84
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158601	1471997922621	1471997922832	a	65
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158602	1471997922910	1471997923130	w	87
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158603	1471997923112	1471997923194	i	73
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158605	1471997923335	1471997923552	w	87
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158730	1471997923505	1471997923799	a	65
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158733	1471997923924	1471997924028	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158738	1471997924090	1471997924174	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158743	1471997924237	1471997924341	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158748	1471997924404	1471997924491	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158756	1471997924553	1471997924641	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158760	1471997924703	1471997924789	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158763	1471997924883	1471997924956	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158766	1471997925018	1471997925124	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158768	1471997925202	1471997925292	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158770	1471997925355	1471997925441	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158773	1471997925535	1471997925625	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158775	1471997925703	1471997925805	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158777	1471997925867	1471997925989	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158779	1471997926209	1471997926368	a	65
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158781	1471997926587	1471997926691	t	84
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158783	1471997926769	1471997926889	i	73
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158785	1471997927061	1471997927142	v	86
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158787	1471997927205	1471997927322	e	69
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158842	1471997927348	1471997927500	 	32
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158849	1471997927614	1471997927924	SHIFT	16
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158844	1471997927786	1471997927890	T	84
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158851	1471997927906	1471997928144	A	65
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158854	1471997928978	1471997929058	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158859	1471997929183	1471997929334	a	65
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158862	1471997929412	1471997929510	i	73
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158907	1471997929857	1471997929981	w	87
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158912	1471997930028	1471997930223	a	65
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158916	1471997930199	1471997930306	n	78
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158923	1471997930541	1471997930654	e	69
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158926	1471997930816	1471997930985	s	83
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158947	1471997931024	1471997931086	e	69
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158949	1471997931149	1471997931362	s	83
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158951	1471997931774	1471997931855	BKSP	8
+353	3266	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	158953	1471997932026	1471997932106	.	190
+353	3286	I am fine with this.	I am fine with this	159076	1471997935071	1471997935405	SHIFT	16
+353	3286	I am fine with this.	I am fine with this	159078	1471997935305	1471997935405	O	79
+353	3286	I am fine with this.	I am fine with this	159079	1471997935655	1471997935724	BKSP	8
+353	3286	I am fine with this.	I am fine with this	159083	1471997935771	1471997936069	SHIFT	16
+353	3286	I am fine with this.	I am fine with this	159081	1471997935942	1471997936007	I	73
+353	3286	I am fine with this.	I am fine with this	159084	1471997936148	1471997936287	 	32
+353	3286	I am fine with this.	I am fine with this	159086	1471997936255	1471997936413	a	65
+353	3286	I am fine with this.	I am fine with this	159102	1471997936386	1471997936552	m	77
+353	3286	I am fine with this.	I am fine with this	159103	1471997936645	1471997936832	 	32
+353	3286	I am fine with this.	I am fine with this	159104	1471997936894	1471997937034	f	70
+353	3286	I am fine with this.	I am fine with this	159105	1471997937049	1471997937153	i	73
+353	3286	I am fine with this.	I am fine with this	159106	1471997937302	1471997937371	n	78
+353	3286	I am fine with this.	I am fine with this	159107	1471997937418	1471997937672	e	69
+353	3286	I am fine with this.	I am fine with this	159147	1471997937662	1471997937924	 	32
+353	3286	I am fine with this.	I am fine with this	159150	1471997938374	1471997938515	w	87
+353	3286	I am fine with this.	I am fine with this	159153	1471997938624	1471997938763	i	73
+353	3286	I am fine with this.	I am fine with this	159157	1471997938920	1471997939018	t	84
+353	3286	I am fine with this.	I am fine with this	159161	1471997939127	1471997939221	h	72
+353	3286	I am fine with this.	I am fine with this	159164	1471997939378	1471997939548	 	32
+353	3286	I am fine with this.	I am fine with this	159179	1471997939709	1471997939786	t	84
+353	3286	I am fine with this.	I am fine with this	159181	1471997939895	1471997939987	h	72
+353	3286	I am fine with this.	I am fine with this	159183	1471997940081	1471997940167	u	85
+353	3286	I am fine with this.	I am fine with this	159185	1471997940214	1471997940365	s	83
+353	3286	I am fine with this.	I am fine with this	159188	1471997940381	1471997940517	.	190
+353	3286	I am fine with this.	I am fine with this	159219	1471997940828	1471997940901	BKSP	8
+353	3286	I am fine with this.	I am fine with this	159221	1471997940979	1471997941053	BKSP	8
+353	3286	I am fine with this.	I am fine with this	159223	1471997941100	1471997941185	BKSP	8
+353	3286	I am fine with this.	I am fine with this	159225	1471997941420	1471997941505	i	73
+353	3286	I am fine with this.	I am fine with this	159229	1471997941583	1471997941703	s	83
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159304	1471997944803	1471997945016	SHIFT	16
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159305	1471997944975	1471997945233	S	83
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159306	1471997945197	1471997945319	o	79
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159307	1471997945460	1471997945585	r	82
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159308	1471997945664	1471997945788	r	82
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159345	1471997945755	1471997945967	y	89
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159347	1471997946139	1471997946361	 	32
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159349	1471997947206	1471997947317	f	70
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159350	1471997947396	1471997947519	o	79
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159351	1471997947582	1471997947716	r	82
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159374	1471997947702	1471997947850	 	32
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159376	1471997947928	1471997948020	t	84
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159380	1471997948114	1471997948244	h	72
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159383	1471997948236	1471997948432	e	69
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159387	1471997948436	1471997948645	 	32
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159392	1471997948801	1471997948874	u	85
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159406	1471997948994	1471997949151	n	78
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159408	1471997949182	1471997949332	f	70
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159410	1471997949332	1471997949499	r	82
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159411	1471997949514	1471997949619	i	73
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159412	1471997949635	1471997949806	e	69
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159436	1471997949825	1471997949967	n	78
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159438	1471997949983	1471997950165	d	68
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159440	1471997950268	1471997950412	l	76
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159442	1471997950569	1471997950673	y	89
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159444	1471997950847	1471997951015	 	32
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159456	1471997951214	1471997951305	g	71
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159457	1471997951337	1471997951501	r	82
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159458	1471997951482	1471997951619	e	69
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159459	1471997951784	1471997951870	t	84
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159461	1471997951917	1471997952035	t	84
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159498	1471997952331	1471997952422	BKSP	8
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159500	1471997952469	1471997952571	BKSP	8
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159502	1471997952602	1471997952733	e	69
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159503	1471997953108	1471997953220	t	84
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159505	1471997953236	1471997953320	i	73
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159507	1471997953445	1471997953583	n	78
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159509	1471997953677	1471997953855	g	71
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159530	1471997953788	1471997954011	 	32
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159532	1471997954387	1471997954472	i	73
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159534	1471997954613	1471997954706	n	78
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159536	1471997954815	1471997954954	 	32
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159538	1471997955000	1471997955149	t	84
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159539	1471997955211	1471997955351	h	72
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159558	1471997955319	1471997955500	e	69
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159559	1471997955594	1471997955766	 	32
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159560	1471997956205	1471997956288	l	76
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159561	1471997956382	1471997956472	o	79
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159562	1471997956606	1471997956689	b	66
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159563	1471997956751	1471997956883	b	66
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159571	1471997956951	1471997957086	y	89
+353	3291	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	159573	1471997957133	1471997957236	.	190
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159681	1471997959990	1471997960287	SHIFT	16
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159678	1471997960170	1471997960256	T	84
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159684	1471997960365	1471997960503	h	72
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159685	1471997960470	1471997960628	e	69
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159686	1471997960601	1471997960672	h	72
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159687	1471997961110	1471997961190	BKSP	8
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159688	1471997961315	1471997961450	y	89
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159726	1471997961498	1471997961663	 	32
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159728	1471997961913	1471997962019	p	80
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159730	1471997962144	1471997962279	l	76
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159732	1471997962268	1471997962417	a	65
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159734	1471997963184	1471997963255	y	89
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159796	1471997963453	1471997963570	 	32
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159798	1471997963930	1471997964585	SHIFT	16
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159799	1471997964440	1471997964616	A	65
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159800	1471997964757	1471997964884	t	84
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159801	1471997964931	1471997965054	l	76
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159802	1471997965850	1471997965970	a	65
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159803	1471997965988	1471997966103	n	78
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159804	1471997966228	1471997966320	t	84
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159805	1471997966351	1471997966561	a	65
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159806	1471997966576	1471997966766	 	32
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159807	1471997967009	1471997967137	h	72
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159842	1471997967119	1471997967314	e	69
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159843	1471997967314	1471997967521	r	82
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159844	1471997967480	1471997967661	e	69
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159845	1471997967630	1471997967845	 	32
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159846	1471997968131	1471997968408	SHIFT	16
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159847	1471997968347	1471997968595	S	83
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159848	1471997968689	1471997968801	t	84
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159889	1471997969183	1471997969303	BKSP	8
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159896	1471997969397	1471997969533	a	65
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159902	1471997969642	1471997969734	t	84
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159906	1471997969906	1471997970037	u	85
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159908	1471997970115	1471997970220	r	82
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159910	1471997970360	1471997970572	d	68
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159934	1471997970515	1471997970732	a	65
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159935	1471997970683	1471997970787	y	89
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159936	1471997970974	1471997971118	 	32
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159937	1471997971259	1471997971355	a	65
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159938	1471997971433	1471997971533	n	78
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159939	1471997971647	1471997971777	d	68
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159955	1471997971768	1471997971868	 	32
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159956	1471997971946	1471997972207	SHIFT	16
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159958	1471997972149	1471997972322	S	83
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159960	1471997972317	1471997972402	u	85
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159961	1471997972511	1471997972650	n	78
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159962	1471997972636	1471997972872	d	68
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159986	1471997972784	1471997973038	a	65
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159987	1471997972963	1471997973101	y	89
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159988	1471997973288	1471997973481	 	32
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159989	1471997973653	1471997973854	a	65
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159990	1471997973948	1471997974037	f	70
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	159993	1471997974146	1471997974269	t	84
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	160047	1471997974254	1471997974567	e	69
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	160049	1471997974462	1471997974676	r	82
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	160051	1471997975022	1471997975102	m	77
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	160052	1471997975604	1471997975689	BKSP	8
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	160053	1471997975939	1471997976020	n	78
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	160054	1471997976161	1471997976223	o	79
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	160055	1471997976285	1471997976386	o	79
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	160073	1471997976528	1471997976629	n	78
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	160075	1471997976604	1471997976823	s	83
+353	3300	They play Atlanta here Saturday and Sunday afternoons.	They play Atlanta here Saturday and Sunday afternoons.	160078	1471997976814	1471997976996	.	190
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160194	1471997980309	1471997980604	SHIFT	16
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160196	1471997980530	1471997980604	T	84
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160199	1471997980698	1471997980808	h	72
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160201	1471997980786	1471997980950	e	69
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160203	1471997980965	1471997981100	i	73
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160207	1471997981249	1471997981401	r	82
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160235	1471997981368	1471997981500	 	32
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160237	1471997981594	1471997981670	i	73
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160239	1471997981779	1471997981871	n	78
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160241	1471997981966	1471997982052	i	73
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160242	1471997982177	1471997982269	t	84
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160243	1471997982378	1471997982516	i	73
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160265	1471997982548	1471997982697	a	65
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160266	1471997982697	1471997982847	l	76
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160267	1471997982988	1471997983120	 	32
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160269	1471997983258	1471997983403	r	82
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160302	1471997983337	1471997983547	e	69
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160303	1471997983562	1471997983638	v	86
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160304	1471997983810	1471997983902	i	73
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160305	1471997983980	1471997984117	e	69
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160306	1471997984179	1471997984289	e	69
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160307	1471997984585	1471997984685	BKSP	8
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160308	1471997984716	1471997984912	r	82
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160334	1471997984997	1471997985180	 	32
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160336	1471997985353	1471997985439	BKSP	8
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160338	1471997985486	1471997985603	BKSP	8
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160340	1471997985553	1471997985779	w	87
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160342	1471997985842	1471997985998	 	32
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160343	1471997986403	1471997986471	i	73
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160346	1471997986596	1471997986700	n	78
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160358	1471997986767	1471997986967	d	68
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160359	1471997987014	1471997987134	i	73
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160360	1471997987196	1471997987435	c	67
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160361	1471997987334	1471997987553	a	65
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160373	1471997987451	1471997987572	t	84
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160374	1471997987619	1471997987763	e	69
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160375	1471997987810	1471997988016	s	83
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160376	1471997987994	1471997988134	 	32
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160377	1471997988272	1471997988351	t	84
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160378	1471997988445	1471997988577	h	72
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160400	1471997988534	1471997988719	a	65
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160402	1471997988699	1471997988771	t	84
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160404	1471997988943	1471997989097	 	32
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160406	1471997989253	1471997989337	t	84
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160408	1471997989446	1471997989552	h	72
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160410	1471997989630	1471997989734	e	69
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160440	1471997989755	1471997989868	 	32
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160443	1471997990102	1471997990233	p	80
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160446	1471997990249	1471997990351	r	82
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160448	1471997990429	1471997990482	i	73
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160451	1471997990648	1471997991001	c	67
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160479	1471997991394	1471997991488	i	73
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160482	1471997991613	1471997991735	n	78
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160485	1471997991767	1471997991913	g	71
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160489	1471997991992	1471997992212	 	32
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160493	1471997992446	1471997992601	s	83
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160530	1471997992694	1471997992786	e	69
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160532	1471997992865	1471997992985	e	69
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160537	1471997993110	1471997993296	n	78
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160539	1471997993594	1471997993684	BKSP	8
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160540	1471997994028	1471997994120	m	77
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160541	1471997994182	1471997994322	s	83
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160554	1471997994254	1471997994414	 	32
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160558	1471997994476	1471997994584	l	76
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160562	1471997994646	1471997994768	o	79
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160564	1471997994846	1471997995034	w	87
+353	3313	Their initial review indicates that the pricing seems low.	Their initial review indicates that the pricing seems low.	160566	1471997995034	1471997995168	.	190
+353	3323	His return date is unclear.	His return date is unclear.	160663	1471997998117	1471997998505	SHIFT	16
+353	3323	His return date is unclear.	His return date is unclear.	160665	1471997998430	1471997998505	H	72
+353	3323	His return date is unclear.	His return date is unclear.	160667	1471997998615	1471997998718	i	73
+353	3323	His return date is unclear.	His return date is unclear.	160670	1471997998796	1471997998979	s	83
+353	3323	His return date is unclear.	His return date is unclear.	160673	1471997999011	1471997999195	 	32
+353	3323	His return date is unclear.	His return date is unclear.	160676	1471997999430	1471997999620	r	82
+353	3323	His return date is unclear.	His return date is unclear.	160713	1471997999550	1471997999741	e	69
+353	3323	His return date is unclear.	His return date is unclear.	160715	1471997999819	1471997999902	t	84
+353	3323	His return date is unclear.	His return date is unclear.	160718	1471998000011	1471998000133	u	85
+353	3323	His return date is unclear.	His return date is unclear.	160721	1471998000165	1471998000313	r	82
+353	3323	His return date is unclear.	His return date is unclear.	160724	1471998000391	1471998000564	n	78
+353	3323	His return date is unclear.	His return date is unclear.	160726	1471998000674	1471998000895	 	32
+353	3323	His return date is unclear.	His return date is unclear.	160750	1471998001568	1471998001788	d	68
+353	3323	His return date is unclear.	His return date is unclear.	160752	1471998001718	1471998001918	a	65
+353	3323	His return date is unclear.	His return date is unclear.	160754	1471998001851	1471998001949	t	84
+353	3323	His return date is unclear.	His return date is unclear.	160757	1471998001996	1471998002132	e	69
+353	3323	His return date is unclear.	His return date is unclear.	160759	1471998002148	1471998002314	 	32
+353	3323	His return date is unclear.	His return date is unclear.	160793	1471998002467	1471998002632	i	73
+353	3323	His return date is unclear.	His return date is unclear.	160795	1471998002663	1471998002853	s	83
+353	3323	His return date is unclear.	His return date is unclear.	160799	1471998002831	1471998003094	 	32
+353	3323	His return date is unclear.	His return date is unclear.	160803	1471998003329	1471998003405	u	85
+353	3323	His return date is unclear.	His return date is unclear.	160805	1471998003514	1471998003602	n	78
+353	3323	His return date is unclear.	His return date is unclear.	160850	1471998003764	1471998003971	c	67
+353	3323	His return date is unclear.	His return date is unclear.	160851	1471998003949	1471998004101	l	76
+353	3323	His return date is unclear.	His return date is unclear.	160852	1471998004148	1471998004345	e	69
+353	3323	His return date is unclear.	His return date is unclear.	160853	1471998004579	1471998004827	a	65
+353	3323	His return date is unclear.	His return date is unclear.	160854	1471998004843	1471998004969	r	82
+353	3323	His return date is unclear.	His return date is unclear.	160873	1471998005433	1471998005536	.	190
+353	3331	Please accept my apology.	Please accept my apology.	160960	1471998008167	1471998008420	SHIFT	16
+353	3331	Please accept my apology.	Please accept my apology.	160961	1471998008355	1471998008451	P	80
+353	3331	Please accept my apology.	Please accept my apology.	160962	1471998008561	1471998008753	l	76
+353	3331	Please accept my apology.	Please accept my apology.	160964	1471998008667	1471998008863	a	65
+353	3331	Please accept my apology.	Please accept my apology.	160966	1471998008925	1471998009066	e	69
+353	3331	Please accept my apology.	Please accept my apology.	160968	1471998009144	1471998009424	s	83
+353	3331	Please accept my apology.	Please accept my apology.	161020	1471998009406	1471998009566	e	69
+353	3331	Please accept my apology.	Please accept my apology.	161022	1471998009659	1471998009846	 	32
+353	3331	Please accept my apology.	Please accept my apology.	161026	1471998009986	1471998010114	a	65
+353	3331	Please accept my apology.	Please accept my apology.	161031	1471998010145	1471998010235	s	83
+353	3331	Please accept my apology.	Please accept my apology.	161034	1471998010910	1471998011001	BKSP	8
+353	3331	Please accept my apology.	Please accept my apology.	161038	1471998011048	1471998011167	c	67
+353	3331	Please accept my apology.	Please accept my apology.	161040	1471998011276	1471998011386	c	67
+353	3331	Please accept my apology.	Please accept my apology.	161105	1471998011456	1471998011532	BKSP	8
+353	3331	Please accept my apology.	Please accept my apology.	161107	1471998011626	1471998011699	BKSP	8
+353	3331	Please accept my apology.	Please accept my apology.	161108	1471998011793	1471998011854	BKSP	8
+353	3331	Please accept my apology.	Please accept my apology.	161109	1471998011932	1471998012019	BKSP	8
+353	3331	Please accept my apology.	Please accept my apology.	161110	1471998012097	1471998012177	BKSP	8
+353	3331	Please accept my apology.	Please accept my apology.	161111	1471998012264	1471998012321	BKSP	8
+353	3331	Please accept my apology.	Please accept my apology.	161112	1471998012400	1471998012471	BKSP	8
+353	3331	Please accept my apology.	Please accept my apology.	161113	1471998012549	1471998012649	BKSP	8
+353	3331	Please accept my apology.	Please accept my apology.	161114	1471998012743	1471998012868	e	69
+353	3331	Please accept my apology.	Please accept my apology.	161115	1471998013274	1471998013418	a	65
+353	3331	Please accept my apology.	Please accept my apology.	161116	1471998013605	1471998013796	s	83
+353	3331	Please accept my apology.	Please accept my apology.	161117	1471998013906	1471998014119	c	67
+353	3331	Please accept my apology.	Please accept my apology.	161135	1471998014050	1471998014275	e	69
+353	3331	Please accept my apology.	Please accept my apology.	161141	1471998014369	1471998014513	 	32
+353	3331	Please accept my apology.	Please accept my apology.	161148	1471998014544	1471998014683	a	65
+353	3331	Please accept my apology.	Please accept my apology.	161155	1471998014761	1471998014835	c	67
+353	3331	Please accept my apology.	Please accept my apology.	161158	1471998014898	1471998015077	c	67
+353	3331	Please accept my apology.	Please accept my apology.	161316	1471998015068	1471998015363	e	69
+353	3331	Please accept my apology.	Please accept my apology.	161320	1471998015231	1471998015379	p	80
+353	3331	Please accept my apology.	Please accept my apology.	161326	1471998015332	1471998015528	t	84
+353	3331	Please accept my apology.	Please accept my apology.	161329	1471998015559	1471998015700	 	32
+353	3331	Please accept my apology.	Please accept my apology.	161332	1471998018897	1471998019032	ARW_RIGHT	39
+353	3331	Please accept my apology.	Please accept my apology.	161335	1471998019095	1471998019200	ARW_RIGHT	39
+353	3331	Please accept my apology.	Please accept my apology.	161337	1471998019371	1471998019450	BKSP	8
+353	3331	Please accept my apology.	Please accept my apology.	161341	1471998021393	1471998021484	m	77
+353	3331	Please accept my apology.	Please accept my apology.	161345	1471998021624	1471998021699	y	89
+353	3331	Please accept my apology.	Please accept my apology.	161373	1471998021811	1471998021946	 	32
+353	3331	Please accept my apology.	Please accept my apology.	161379	1471998022102	1471998022186	p	80
+353	3331	Please accept my apology.	Please accept my apology.	161383	1471998022296	1471998022368	o	79
+353	3331	Please accept my apology.	Please accept my apology.	161386	1471998022571	1471998022652	BKSP	8
+353	3331	Please accept my apology.	Please accept my apology.	161388	1471998022949	1471998023063	BKSP	8
+353	3331	Please accept my apology.	Please accept my apology.	161390	1471998023157	1471998023312	a	65
+353	3331	Please accept my apology.	Please accept my apology.	161391	1471998023374	1471998023468	p	80
+353	3331	Please accept my apology.	Please accept my apology.	161406	1471998023565	1471998023650	o	79
+353	3331	Please accept my apology.	Please accept my apology.	161409	1471998023728	1471998023848	l	76
+353	3331	Please accept my apology.	Please accept my apology.	161413	1471998024020	1471998024150	o	79
+353	3331	Please accept my apology.	Please accept my apology.	161416	1471998024323	1471998024449	g	71
+353	3331	Please accept my apology.	Please accept my apology.	161418	1471998024449	1471998024577	y	89
+353	3331	Please accept my apology.	Please accept my apology.	161432	1471998024765	1471998024882	.	190

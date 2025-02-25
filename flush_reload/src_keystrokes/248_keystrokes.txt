@@ -1,0 +1,759 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101805	1471938019216	1471938019391	SHIFT	16
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101808	1471938019294	1471938019427	O	79
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101810	1471938019391	1471938019537	n	78
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101816	1471938019537	1471938019640	e	69
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101820	1471938019640	1471938019756	 	32
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101825	1471938019928	1471938020042	o	79
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101831	1471938020057	1471938020175	f	70
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101837	1471938020190	1471938020293	 	32
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101840	1471938020433	1471938020563	h	72
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101843	1471938020497	1471938020641	i	73
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101848	1471938020688	1471938020811	s	83
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101874	1471938020811	1471938020912	 	32
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101876	1471938021021	1471938021179	a	65
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101877	1471938021428	1471938021578	BKSP	8
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101882	1471938021796	1471938021930	a	65
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101888	1471938022039	1471938022135	c	67
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101893	1471938022213	1471938022287	c	67
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101908	1471938022320	1471938022402	o	79
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101909	1471938022527	1471938022634	m	77
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101911	1471938022697	1471938022818	p	80
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101913	1471938022911	1471938023003	l	76
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101915	1471938023285	1471938023357	i	85
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101969	1471938023436	1471938023607	c	67
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101974	1471938023538	1471938023654	e	69
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101978	1471938023825	1471938023956	BKSP	8
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101982	1471938024003	1471938024106	BKSP	8
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101988	1471938024169	1471938024320	BKSP	8
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101991	1471938024336	1471938024488	BKSP	8
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101994	1471938024722	1471938024804	i	73
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	101997	1471938024763	1471938024931	c	67
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102026	1471938024892	1471938025081	e	69
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102032	1471938025042	1471938025176	s	83
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102037	1471938025239	1471938025336	 	32
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102041	1471938025695	1471938025859	s	83
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102043	1471938025890	1471938026016	e	69
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102045	1471938026125	1471938026262	c	67
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102053	1471938026357	1471938026434	u	85
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102055	1471938026450	1471938026569	r	82
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102057	1471938026533	1471938026694	e	69
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102058	1471938026694	1471938026831	d	68
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102061	1471938026846	1471938026936	 	32
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102089	1471938027046	1471938027166	a	65
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102094	1471938027213	1471938027319	 	32
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102099	1471938027350	1471938027483	s	83
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102104	1471938027561	1471938027732	a	65
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102108	1471938027873	1471938028002	f	70
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102132	1471938027986	1471938028104	e	69
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102134	1471938028135	1471938028222	 	32
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102135	1471938028315	1471938028424	l	76
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102136	1471938028391	1471938028506	a	65
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102138	1471938028537	1471938028640	n	78
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102139	1471938028640	1471938028741	d	68
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102146	1471938028804	1471938028957	i	73
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102151	1471938028907	1471938029009	n	78
+248	2087	One of his accomplices secured a safe landing.	One of his accomplices secured a safe landing\	102159	1471938029024	1471938029125	g	71
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102290	1471938032917	1471938033058	SHIFT	16
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102292	1471938032995	1471938033142	W	87
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102294	1471938033089	1471938033236	e	69
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102296	1471938033298	1471938033394	 	32
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102298	1471938033487	1471938033591	n	78
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102312	1471938033576	1471938033674	e	69
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102314	1471938033752	1471938033863	e	69
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102317	1471938033879	1471938034009	d	68
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102320	1471938034024	1471938034141	 	32
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102323	1471938034172	1471938034276	t	84
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102328	1471938034307	1471938034411	o	79
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102346	1471938034411	1471938034542	 	32
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102348	1471938034620	1471938034712	b	66
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102351	1471938034727	1471938034828	r	82
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102354	1471938034890	1471938035032	i	73
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102377	1471938034979	1471938035111	n	78
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102378	1471938035095	1471938035198	g	71
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102380	1471938035245	1471938035348	 	32
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102384	1471938035426	1471938035530	a	65
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102388	1471938035764	1471938035912	BKSP	8
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102391	1471938035912	1471938036015	t	84
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102393	1471938036062	1471938036150	h	72
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102415	1471938036182	1471938036253	e	69
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102419	1471938036300	1471938036385	m	77
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102423	1471938036401	1471938036535	 	32
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102428	1471938036644	1471938036722	a	65
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102431	1471938037036	1471938037168	l	76
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102440	1471938037248	1471938037392	o	79
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102441	1471938037355	1471938037501	n	78
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102442	1471938037501	1471938037589	g	71
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102443	1471938037636	1471938037740	 	32
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102444	1471938037787	1471938037936	s	83
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102481	1471938037920	1471938037992	l	76
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102483	1471938038070	1471938038157	o	79
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102484	1471938038142	1471938038257	w	87
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102485	1471938038429	1471938038588	l	76
+248	2106	We need to bring them along slowly.	We need to bring them along slowly	102486	1471938038651	1471938038743	y	89
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102581	1471938041776	1471938041956	SHIFT	16
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102583	1471938041885	1471938042041	W	87
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102585	1471938041987	1471938042119	e	69
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102587	1471938042197	1471938042320	 	32
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102590	1471938042414	1471938042523	h	72
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102636	1471938042523	1471938042707	a	65
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102592	1471938042622	1471938042707	s	83
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102640	1471938043068	1471938043206	BKSP	8
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102643	1471938043206	1471938043310	d	68
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102644	1471938043356	1471938043459	 	32
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102645	1471938043490	1471938043593	s	83
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102647	1471938043577	1471938043723	o	79
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102715	1471938043707	1471938043827	m	77
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102722	1471938043827	1471938043959	e	69
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102728	1471938044021	1471938044145	 	32
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102734	1471938044348	1471938044476	e	69
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102741	1471938044461	1471938044579	a	65
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102748	1471938044969	1471938045112	BKSP	8
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102751	1471938045439	1471938045567	BKSP	8
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102754	1471938045676	1471938045787	m	77
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102760	1471938045753	1471938045921	e	69
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102763	1471938045867	1471938046030	a	65
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102765	1471938046030	1471938046152	s	83
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102767	1471938046246	1471938046326	u	85
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102770	1471938046357	1471938046457	r	82
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102785	1471938046421	1471938046569	e	69
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102787	1471938046662	1471938046805	m	77
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102789	1471938046789	1471938046906	e	69
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102793	1471938046952	1471938047055	n	78
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102796	1471938047039	1471938047171	t	84
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102797	1471938047187	1471938047289	 	32
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102810	1471938047369	1471938047474	o	79
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102812	1471938047442	1471938047540	f	70
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102814	1471938047571	1471938047674	 	32
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102816	1471938047830	1471938047941	g	71
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102817	1471938047941	1471938048079	a	65
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102826	1471938048026	1471938048204	s	83
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102829	1471938048189	1471938048308	 	32
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102832	1471938048355	1471938048523	f	70
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102833	1471938048585	1471938048694	r	82
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102835	1471938048678	1471938048833	o	79
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102876	1471938048794	1471938048909	m	77
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102878	1471938048876	1471938048964	 	32
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102880	1471938049276	1471938049465	SHIFT	16
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102882	1471938049401	1471938049543	W	87
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102884	1471938049918	1471938050033	BKSP	8
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102886	1471938050204	1471938050353	SHIFT	16
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102888	1471938050282	1471938050416	Q	81
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102890	1471938050525	1471938050620	u	85
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102892	1471938050620	1471938050735	a	65
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102903	1471938050751	1471938050853	n	78
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102905	1471938051073	1471938051140	t	84
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102907	1471938051499	1471938051635	a	65
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102909	1471938051651	1471938051770	m	77
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102910	1471938051801	1471938051939	 	32
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102959	1471938052019	1471938052165	SHIFT	16
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102963	1471938052115	1471938052225	T	84
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102966	1471938052568	1471938052692	BKSP	8
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102969	1471938052723	1471938052841	t	84
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102972	1471938052888	1471938053070	h	72
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102974	1471938053560	1471938053679	r	82
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	102977	1471938053679	1471938053811	o	79
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	103036	1471938053906	1471938054014	u	89
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	103037	1471938054404	1471938054500	BKSP	8
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	103038	1471938055112	1471938055218	BKSP	8
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	103041	1471938055706	1471938055802	u	85
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	103044	1471938055818	1471938055935	g	71
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	103047	1471938055935	1471938056023	h	72
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	103065	1471938056289	1471938056421	o	79
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	103066	1471938056437	1471938056539	u	85
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	103067	1471938056554	1471938056656	t	84
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	103070	1471938056703	1471938056808	 	32
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	103071	1471938057042	1471938057141	t	84
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	103099	1471938057206	1471938057308	h	72
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	103102	1471938057308	1471938057409	e	69
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	103108	1471938057440	1471938057543	 	32
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	103111	1471938057668	1471938057797	m	77
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	103138	1471938057745	1471938057924	o	79
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	103140	1471938057909	1471938058073	n	78
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	103141	1471938058073	1471938058179	t	84
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	103143	1471938058241	1471938058369	h	72
+248	2112	We had some measurement of gas from Quantum throughout the month.	We had some measurement of gas from Quantam throughout the month.	103144	1471938058712	1471938058845	.	190
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103520	1471938069145	1471938069302	SHIFT	16
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103523	1471938069208	1471938069364	B	66
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103525	1471938069395	1471938069537	i	73
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103527	1471938069471	1471938069599	n	78
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103528	1471938069709	1471938069835	o	79
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103529	1471938069882	1471938070002	c	67
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103557	1471938070082	1471938070172	h	72
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103560	1471938070203	1471938070319	e	69
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103562	1471938070350	1471938070471	 	32
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103563	1471938071037	1471938071162	w	87
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103579	1471938071110	1471938071242	e	69
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103585	1471938071289	1471938071409	l	76
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103590	1471938071456	1471938071605	c	67
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103595	1471938071589	1471938071764	o	79
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103600	1471938071708	1471938071811	m	77
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103622	1471938071795	1471938071972	e	69
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103623	1471938072003	1471938072189	d	68
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103624	1471938072204	1471938072312	 	32
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103626	1471938072328	1471938072431	t	84
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103629	1471938072462	1471938072562	h	72
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103635	1471938072577	1471938072663	e	69
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103662	1471938072776	1471938072865	 	32
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103666	1471938072989	1471938073119	m	77
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103669	1471938073083	1471938073228	o	79
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103673	1471938073259	1471938073365	v	86
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103679	1471938073427	1471938073517	i	73
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103711	1471938073517	1471938073618	e	69
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103715	1471938073696	1471938073785	 	32
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103717	1471938073957	1471938074129	i	73
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103720	1471938074069	1471938074201	n	78
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103722	1471938074217	1471938074336	d	68
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103745	1471938074399	1471938074503	u	85
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103750	1471938074503	1471938074604	s	83
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103757	1471938074666	1471938074785	t	84
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103762	1471938075274	1471938075410	r	82
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103800	1471938075358	1471938075506	y	89
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103803	1471938075600	1471938075708	 	32
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103808	1471938075848	1471938075973	t	84
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103814	1471938076020	1471938076126	o	79
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103821	1471938076110	1471938076209	 	32
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103830	1471938076334	1471938076458	h	72
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103881	1471938077104	1471938077259	BKSP	8
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103885	1471938077446	1471938077563	t	84
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103893	1471938077579	1471938077744	h	72
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103899	1471938077744	1471938077848	e	69
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103903	1471938077910	1471938078032	 	32
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103907	1471938078094	1471938078237	SHIFT	16
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103931	1471938078174	1471938078333	F	70
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103933	1471938078442	1471938078566	r	82
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103935	1471938078551	1471938078698	e	69
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103936	1471938078808	1471938078949	n	78
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103938	1471938078996	1471938079088	c	67
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103940	1471938079119	1471938079222	h	72
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103979	1471938079396	1471938079505	 	32
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103981	1471938079598	1471938079754	SHIFT	16
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103984	1471938080008	1471938080138	r	82
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103987	1471938080294	1471938080407	i	73
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103989	1471938080469	1471938080591	v	86
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	103990	1471938080778	1471938080860	i	73
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	104003	1471938080970	1471938081131	e	69
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	104007	1471938081093	1471938081240	r	82
+248	2123	Binoche welcomed the movie industry to the French riviera.	Binoche welcomed the movie industry to the French riviera	104010	1471938081334	1471938081475	a	65
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104257	1471938089059	1471938089243	SHIFT	16
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104260	1471938089204	1471938089306	H	72
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104262	1471938089586	1471938089706	e	69
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104264	1471938089768	1471938089889	 	32
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104267	1471938089936	1471938090063	w	87
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104296	1471938090010	1471938090205	a	65
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104299	1471938090143	1471938090306	s	83
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104303	1471938090322	1471938090441	 	32
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104308	1471938090660	1471938090808	p	80
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104313	1471938090793	1471938090894	r	82
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104318	1471938090972	1471938091099	o	79
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104345	1471938091084	1471938091217	f	70
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104346	1471938091180	1471938091310	e	69
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104347	1471938091405	1471938091514	s	83
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104348	1471938091592	1471938091682	s	83
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104350	1471938091744	1471938091895	o	79
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104353	1471938091911	1471938092031	r	82
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104382	1471938092094	1471938092230	 	32
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104387	1471938092481	1471938092583	e	69
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104392	1471938092646	1471938092797	m	77
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104395	1471938092906	1471938093073	e	69
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104433	1471938093035	1471938093168	r	82
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104436	1471938093308	1471938093419	i	73
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104439	1471938093419	1471938093536	t	84
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104442	1471938093660	1471938093771	u	85
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104447	1471938093787	1471938093904	s	83
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104452	1471938093966	1471938094087	 	32
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104477	1471938094182	1471938094336	o	79
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104481	1471938094321	1471938094439	f	70
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104486	1471938094455	1471938094574	 	32
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104491	1471938094761	1471938094875	h	72
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104494	1471938094968	1471938095111	u	85
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104520	1471938095111	1471938095304	m	77
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104521	1471938095289	1471938095409	a	65
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104523	1471938095471	1471938095578	n	78
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104524	1471938095625	1471938095761	 	32
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104526	1471938096026	1471938096200	d	68
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104574	1471938096161	1471938096311	e	69
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104580	1471938096389	1471938096529	v	86
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104589	1471938096576	1471938096713	e	69
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104597	1471938097104	1471938097217	o	79
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104602	1471938097341	1471938097468	l	76
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104605	1471938097593	1471938097717	p	80
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104659	1471938098047	1471938098186	BKSP	8
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104661	1471938098232	1471938098321	BKSP	8
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104665	1471938098399	1471938098568	BKSP	8
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104667	1471938098942	1471938099057	l	76
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104671	1471938099135	1471938099261	o	79
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104674	1471938099211	1471938099324	p	80
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104676	1471938099433	1471938099527	m	77
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104678	1471938099527	1471938099658	e	69
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104680	1471938099689	1471938099794	n	78
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104682	1471938099794	1471938099895	t	84
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104685	1471938099942	1471938100044	 	32
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104687	1471938100044	1471938100145	a	65
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104689	1471938100176	1471938100293	n	78
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104711	1471938100309	1471938100396	d	68
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104713	1471938100412	1471938100530	 	32
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104714	1471938100781	1471938100897	p	80
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104715	1471938100912	1471938101014	s	83
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104716	1471938101217	1471938101317	y	89
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104765	1471938101460	1471938101586	c	67
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104772	1471938101649	1471938101734	j	74
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104778	1471938102065	1471938102215	BKSP	8
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104786	1471938102324	1471938102506	h	72
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104794	1471938102451	1471938102631	i	73
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104800	1471938102803	1471938102937	a	65
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104819	1471938103456	1471938103588	t	84
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104825	1471938103712	1471938103855	r	82
+248	2142	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry	104831	1471938103839	1471938103958	y	89
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105010	1471938109088	1471938109214	SHIFT	16
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105014	1471938109166	1471938109308	D	68
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105016	1471938109370	1471938109477	o	79
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105018	1471938109492	1471938109610	c	67
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105020	1471938109703	1471938109812	o	79
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105022	1471938109827	1471938109913	t	84
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105083	1471938110009	1471938110113	r	82
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105085	1471938110362	1471938110511	s	83
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105087	1471938110651	1471938110782	 	32
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105089	1471938111078	1471938111168	BKSP	8
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105092	1471938111246	1471938111367	BKSP	8
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105095	1471938111413	1471938111549	BKSP	8
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105098	1471938111736	1471938111838	BKSP	8
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105101	1471938111916	1471938112035	BKSP	8
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105103	1471938112316	1471938112420	t	84
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105104	1471938112485	1471938112589	o	79
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105113	1471938113029	1471938113156	r	82
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105116	1471938113140	1471938113288	s	83
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105121	1471938113334	1471938113457	 	32
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105125	1471938113659	1471938113801	g	71
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105145	1471938113745	1471938113876	a	65
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105146	1471938113923	1471938114081	v	86
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105149	1471938114042	1471938114129	e	69
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105150	1471938114191	1471938114309	 	32
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105153	1471938114387	1471938114512	h	72
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105156	1471938114527	1471938114691	i	73
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105165	1471938114707	1471938114845	m	77
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105166	1471938114845	1471938114993	 	32
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105169	1471938115118	1471938115278	2	50
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105171	1471938115340	1471938115465	0	48
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105178	1471938115465	1471938115613	 	32
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105245	1471938115692	1471938115772	y	89
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105248	1471938115756	1471938115986	e	69
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105250	1471938115913	1471938116049	a	65
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105256	1471938116033	1471938116180	r	82
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105259	1471938116492	1471938116602	BKSP	8
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105264	1471938116680	1471938116803	BKSP	8
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105269	1471938116834	1471938116968	BKSP	8
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105271	1471938116999	1471938117120	BKSP	8
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105276	1471938117151	1471938117272	BKSP	8
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105277	1471938117319	1471938117438	BKSP	8
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105279	1471938117469	1471938117635	BKSP	8
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105283	1471938117917	1471938118040	1	49
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105285	1471938118197	1471938118310	0	48
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105287	1471938118326	1471938118472	 	32
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105289	1471938118566	1471938118661	y	89
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105291	1471938118645	1471938118829	e	69
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105322	1471938118760	1471938118908	a	65
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105326	1471938118939	1471938119076	r	82
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105330	1471938119092	1471938119241	s	83
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105334	1471938119257	1471938119396	 	32
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105338	1471938119723	1471938119830	t	84
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105341	1471938119877	1471938119997	o	79
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105344	1471938119997	1471938120099	 	32
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105347	1471938120130	1471938120248	l	76
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105350	1471938120342	1471938120434	i	73
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105353	1471938120449	1471938120571	v	86
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105374	1471938120536	1471938120635	e	69
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105376	1471938120667	1471938120767	 	32
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105378	1471938120783	1471938120884	a	65
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105380	1471938120869	1471938121000	t	84
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105382	1471938121015	1471938121105	 	32
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105385	1471938121229	1471938121351	m	77
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105384	1471938121320	1471938121444	o	79
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105386	1471938121395	1471938121522	s	83
+248	2160	Doctors gave him 10 years to live at most.	Doctors gave him 10 years to live at most]	105388	1471938121522	1471938121638	t	84
+248	2171	I am out of town on business.	I am out of town on business	105568	1471938127880	1471938128063	SHIFT	16
+248	2171	I am out of town on business.	I am out of town on business	105569	1471938127993	1471938128078	I	73
+248	2171	I am out of town on business.	I am out of town on business	105570	1471938128109	1471938128264	 	32
+248	2171	I am out of town on business.	I am out of town on business	105572	1471938128211	1471938128357	a	65
+248	2171	I am out of town on business.	I am out of town on business	105576	1471938128389	1471938128495	m	77
+248	2171	I am out of town on business.	I am out of town on business	105580	1471938128542	1471938128646	 	32
+248	2171	I am out of town on business.	I am out of town on business	105619	1471938128692	1471938128829	o	79
+248	2171	I am out of town on business.	I am out of town on business	105623	1471938129347	1471938129465	u	85
+248	2171	I am out of town on business.	I am out of town on business	105627	1471938129465	1471938129550	t	84
+248	2171	I am out of town on business.	I am out of town on business	105633	1471938129597	1471938129684	 	32
+248	2171	I am out of town on business.	I am out of town on business	105638	1471938129809	1471938129916	o	79
+248	2171	I am out of town on business.	I am out of town on business	105648	1471938129932	1471938130018	f	70
+248	2171	I am out of town on business.	I am out of town on business	105649	1471938130065	1471938130168	 	32
+248	2171	I am out of town on business.	I am out of town on business	105650	1471938130292	1471938130403	t	84
+248	2171	I am out of town on business.	I am out of town on business	105651	1471938130419	1471938130519	o	79
+248	2171	I am out of town on business.	I am out of town on business	105652	1471938130550	1471938130669	w	87
+248	2171	I am out of town on business.	I am out of town on business	105653	1471938130718	1471938130804	n	78
+248	2171	I am out of town on business.	I am out of town on business	105655	1471938130804	1471938130922	 	32
+248	2171	I am out of town on business.	I am out of town on business	105657	1471938130969	1471938131109	o	79
+248	2171	I am out of town on business.	I am out of town on business	105660	1471938131071	1471938131202	n	78
+248	2171	I am out of town on business.	I am out of town on business	105663	1471938131202	1471938131305	 	32
+248	2171	I am out of town on business.	I am out of town on business	105680	1471938131430	1471938131540	b	66
+248	2171	I am out of town on business.	I am out of town on business	105682	1471938131587	1471938131690	u	85
+248	2171	I am out of town on business.	I am out of town on business	105684	1471938131705	1471938131808	s	83
+248	2171	I am out of town on business.	I am out of town on business	105686	1471938131901	1471938132059	i	73
+248	2171	I am out of town on business.	I am out of town on business	105689	1471938132122	1471938132213	n	78
+248	2171	I am out of town on business.	I am out of town on business	105694	1471938132178	1471938132338	e	69
+248	2171	I am out of town on business.	I am out of town on business	105696	1471938132307	1471938132425	s	83
+248	2171	I am out of town on business.	I am out of town on business	105697	1471938132503	1471938132642	s	83
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105830	1471938136736	1471938136912	SHIFT	16
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105831	1471938136861	1471938136943	I	73
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105833	1471938137224	1471938137374	'	222
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105835	1471938137468	1471938137562	m	77
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105837	1471938137562	1471938137724	 	32
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105841	1471938137739	1471938137829	g	71
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105876	1471938137878	1471938137980	l	76
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105877	1471938137964	1471938138156	a	65
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105878	1471938138909	1471938139016	d	68
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105879	1471938139110	1471938139237	 	32
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105880	1471938139486	1471938139631	s	83
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105892	1471938139615	1471938139720	h	72
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105893	1471938139735	1471938139853	e	69
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105894	1471938139869	1471938139986	 	32
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105895	1471938140079	1471938140187	l	76
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105896	1471938140265	1471938140355	i	73
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105898	1471938140433	1471938140539	k	75
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105903	1471938140523	1471938140675	e	69
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105904	1471938140621	1471938140753	s	83
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105905	1471938140768	1471938140873	 	32
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105906	1471938140982	1471938141059	h	72
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105907	1471938141074	1471938141195	e	69
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105934	1471938141142	1471938141244	r	82
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105938	1471938141275	1471938141374	 	32
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105943	1471938141530	1471938141626	t	84
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105947	1471938141704	1471938141856	r	82
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105949	1471938141840	1471938141990	e	69
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105951	1471938142068	1471938142163	e	69
+248	2176	I'm glad she likes her tree.	I'm glad she likes her tree.	105966	1471938142946	1471938143015	.	190
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106182	1471938148598	1471938148787	SHIFT	16
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106184	1471938148723	1471938148818	H	72
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106186	1471938148927	1471938149051	e	69
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106188	1471938149129	1471938149237	 	32
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106190	1471938149268	1471938149441	s	83
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106203	1471938149401	1471938149534	a	65
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106205	1471938149597	1471938149689	i	73
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106208	1471938149752	1471938149885	d	68
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106211	1471938149917	1471938150037	 	32
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106212	1471938150162	1471938150272	h	72
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106221	1471938150257	1471938150372	e	69
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106222	1471938150403	1471938150508	 	32
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106226	1471938150508	1471938150607	w	87
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106229	1471938150685	1471938150809	o	79
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106233	1471938150871	1471938150990	u	85
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106239	1471938151068	1471938151145	l	76
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106262	1471938151161	1471938151261	d	68
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106266	1471938151308	1471938151441	 	32
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106268	1471938151581	1471938151692	l	76
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106270	1471938151692	1471938151843	e	69
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106281	1471938151794	1471938151926	a	65
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106283	1471938152129	1471938152231	r	82
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106285	1471938152324	1471938152447	n	78
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106287	1471938152447	1471938152562	 	32
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106288	1471938152827	1471938152987	m	77
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106314	1471938152948	1471938153085	o	79
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106316	1471938153019	1471938153185	r	82
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106318	1471938153117	1471938153249	e	69
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106319	1471938153296	1471938153417	 	32
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106320	1471938153432	1471938153518	a	65
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106322	1471938153659	1471938153754	b	66
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106334	1471938153785	1471938153951	o	79
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106337	1471938153916	1471938154035	u	85
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106340	1471938154019	1471938154120	t	84
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106344	1471938154182	1471938154292	 	32
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106380	1471938154257	1471938154355	t	84
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106383	1471938154418	1471938154522	h	72
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106387	1471938154507	1471938154604	e	69
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106391	1471938154714	1471938154838	 	32
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106396	1471938155404	1471938155528	i	73
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106428	1471938155478	1471938155639	n	78
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106430	1471938155904	1471938156048	j	74
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106432	1471938155999	1471938156126	u	85
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106434	1471938156157	1471938156276	r	82
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106435	1471938156370	1471938156483	y	89
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106436	1471938156561	1471938156677	 	32
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106449	1471938157306	1471938157433	a	65
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106450	1471938157368	1471938157527	s	83
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106451	1471938157558	1471938157697	 	32
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106452	1471938157697	1471938157784	t	84
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106454	1471938157831	1471938157933	h	72
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106484	1471938157948	1471938158050	e	69
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106486	1471938158097	1471938158202	 	32
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106492	1471938158358	1471938158520	w	87
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106498	1471938158468	1471938158572	e	69
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106503	1471938158650	1471938158745	e	69
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106511	1471938158794	1471938158888	k	75
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106512	1471938158903	1471938159020	 	32
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106515	1471938159160	1471938159303	p	80
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106517	1471938159303	1471938159405	r	82
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106519	1471938159563	1471938159658	o	79
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106572	1471938159747	1471938159874	f	70
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106574	1471938160108	1471938160208	BKSP	8
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106578	1471938160254	1471938160374	g	71
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106581	1471938160436	1471938160605	e	69
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106584	1471938160917	1471938161043	BKSP	8
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106586	1471938161028	1471938161148	r	82
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106589	1471938161097	1471938161242	e	69
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106590	1471938161398	1471938161496	s	83
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106591	1471938161574	1471938161680	s	83
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106592	1471938161820	1471938161931	e	69
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106593	1471938162024	1471938162146	d	68
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106594	1471938162916	1471938163036	,	188
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106596	1471938163381	1471938163492	BKSP	8
+248	2183	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	106598	1471938163820	1471938163906	.	190
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106782	1471938169427	1471938169622	SHIFT	16
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106784	1471938169474	1471938169669	T	84
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106786	1471938169669	1471938169776	h	72
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106790	1471938169839	1471938169958	e	69
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106794	1471938169958	1471938170047	 	32
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106797	1471938170109	1471938170243	d	68
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106832	1471938170178	1471938170372	e	69
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106833	1471938170334	1471938170460	a	65
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106834	1471938170539	1471938170630	l	76
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106835	1471938170630	1471938170776	 	32
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106836	1471938170776	1471938170917	w	87
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106838	1471938170879	1471938171034	a	65
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106840	1471938170997	1471938171143	s	83
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106842	1471938171159	1471938171249	 	32
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106844	1471938171359	1471938171552	n	78
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106846	1471938171495	1471938171630	o	79
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106848	1471938171724	1471938171864	m	77
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106864	1471938171911	1471938172017	i	73
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106865	1471938172017	1471938172101	a	65
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106866	1471938172164	1471938172283	n	78
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106867	1471938172299	1471938172417	t	84
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106868	1471938172479	1471938172649	e	69
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106887	1471938172633	1471938172784	d	68
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106889	1471938172831	1471938172937	 	32
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106891	1471938173015	1471938173137	a	65
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106893	1471938173168	1471938173286	n	78
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106896	1471938173286	1471938173388	d	68
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106899	1471938173419	1471938173523	 	32
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106922	1471938173634	1471938173740	t	84
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106923	1471938174022	1471938174124	BKSP	8
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106924	1471938174171	1471938174290	c	67
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106926	1471938174352	1471938174474	u	85
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106928	1471938174459	1471938174574	t	84
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106930	1471938174590	1471938174694	 	32
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106949	1471938174710	1471938174794	t	84
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106951	1471938174825	1471938174928	o	79
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106953	1471938174944	1471938175072	 	32
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106956	1471938175292	1471938175411	z	90
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106959	1471938175614	1471938175767	e	69
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106978	1471938175729	1471938175846	r	82
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106982	1471938175877	1471938176028	o	79
+248	2196	The deal was nominated and cut to zero.	The deal was nomianted and cut to zero.	106989	1471938176137	1471938176280	.	190
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107162	1471938181716	1471938181906	SHIFT	16
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107164	1471938181857	1471938181953	I	73
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107166	1471938182187	1471938182271	'	222
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107168	1471938182756	1471938182824	l	76
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107170	1471938182887	1471938182989	l	76
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107172	1471938182989	1471938183121	 	32
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107196	1471938183200	1471938183309	c	67
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107199	1471938183293	1471938183442	o	79
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107201	1471938183374	1471938183491	m	77
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107203	1471938183491	1471938183591	e	69
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107204	1471938183622	1471938183726	 	32
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107217	1471938183837	1471938183926	h	72
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107218	1471938183911	1471938184103	a	65
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107219	1471938184368	1471938184469	v	86
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107220	1471938184469	1471938184609	e	69
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107222	1471938184656	1471938184778	 	32
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107233	1471938184793	1471938184911	a	65
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107234	1471938184958	1471938185078	 	32
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107235	1471938185187	1471938185267	b	66
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107236	1471938185283	1471938185429	e	69
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107237	1471938185522	1471938185632	e	69
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107269	1471938185742	1471938185880	r	82
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107273	1471938185973	1471938186085	 	32
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107276	1471938186256	1471938186399	w	87
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107279	1471938186477	1471938186600	i	73
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107282	1471938186616	1471938186718	t	84
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107294	1471938186751	1471938186854	h	72
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107295	1471938186838	1471938186921	 	32
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107296	1471938187031	1471938187122	y	89
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107297	1471938187216	1471938187358	o	79
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107365	1471938187322	1471938187438	u	85
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107367	1471938187501	1471938187637	 	32
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107369	1471938188011	1471938188108	g	71
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107371	1471938188233	1471938188284	u	73
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107373	1471938188813	1471938188941	BKSP	8
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107375	1471938189035	1471938189190	BKSP	8
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107377	1471938189458	1471938189547	u	85
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107386	1471938189627	1471938189729	y	89
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107387	1471938189745	1471938189846	s	83
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107388	1471938189940	1471938190036	 	32
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107389	1471938190270	1471938190376	l	76
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107390	1471938190392	1471938190506	a	65
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107401	1471938190521	1471938190632	t	84
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107403	1471938190648	1471938190796	e	69
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107405	1471938190765	1471938190898	r	82
+248	2203	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	107407	1471938190993	1471938191086	.	190
+248	2214	There are some different rules here.	There are some different rules here.	107510	1471938195201	1471938195371	SHIFT	16
+248	2214	There are some different rules here.	There are some different rules here.	107512	1471938195326	1471938195480	T	84
+248	2214	There are some different rules here.	There are some different rules here.	107514	1471938195496	1471938195600	h	72
+248	2214	There are some different rules here.	There are some different rules here.	107517	1471938195616	1471938195737	e	69
+248	2214	There are some different rules here.	There are some different rules here.	107521	1471938195672	1471938195830	r	82
+248	2214	There are some different rules here.	There are some different rules here.	107525	1471938195830	1471938195982	e	69
+248	2214	There are some different rules here.	There are some different rules here.	107539	1471938196030	1471938196121	 	32
+248	2214	There are some different rules here.	There are some different rules here.	107540	1471938196167	1471938196317	a	65
+248	2214	There are some different rules here.	There are some different rules here.	107541	1471938196302	1471938196450	r	82
+248	2214	There are some different rules here.	There are some different rules here.	107542	1471938196388	1471938196584	e	69
+248	2214	There are some different rules here.	There are some different rules here.	107544	1471938196600	1471938196704	 	32
+248	2214	There are some different rules here.	There are some different rules here.	107566	1471938196689	1471938196821	s	83
+248	2214	There are some different rules here.	There are some different rules here.	107569	1471938196852	1471938196992	o	79
+248	2214	There are some different rules here.	There are some different rules here.	107572	1471938196940	1471938197039	m	77
+248	2214	There are some different rules here.	There are some different rules here.	107574	1471938197023	1471938197123	e	69
+248	2214	There are some different rules here.	There are some different rules here.	107576	1471938197154	1471938197273	 	32
+248	2214	There are some different rules here.	There are some different rules here.	107577	1471938197273	1471938197374	d	68
+248	2214	There are some different rules here.	There are some different rules here.	107593	1471938197422	1471938197528	i	73
+248	2214	There are some different rules here.	There are some different rules here.	107594	1471938197559	1471938197646	f	70
+248	2214	There are some different rules here.	There are some different rules here.	107595	1471938197817	1471938197926	f	70
+248	2214	There are some different rules here.	There are some different rules here.	107596	1471938198300	1471938198456	e	69
+248	2214	There are some different rules here.	There are some different rules here.	107621	1471938198411	1471938198560	r	82
+248	2214	There are some different rules here.	There are some different rules here.	107624	1471938198560	1471938198708	e	69
+248	2214	There are some different rules here.	There are some different rules here.	107626	1471938198740	1471938198876	n	78
+248	2214	There are some different rules here.	There are some different rules here.	107628	1471938198892	1471938199011	t	84
+248	2214	There are some different rules here.	There are some different rules here.	107630	1471938199089	1471938199198	 	32
+248	2214	There are some different rules here.	There are some different rules here.	107632	1471938199448	1471938199565	s	83
+248	2214	There are some different rules here.	There are some different rules here.	107649	1471938199895	1471938200015	BKSP	8
+248	2214	There are some different rules here.	There are some different rules here.	107651	1471938200093	1471938200248	r	82
+248	2214	There are some different rules here.	There are some different rules here.	107653	1471938200420	1471938200518	u	85
+248	2214	There are some different rules here.	There are some different rules here.	107655	1471938200627	1471938200719	l	76
+248	2214	There are some different rules here.	There are some different rules here.	107656	1471938200766	1471938200964	s	83
+248	2214	There are some different rules here.	There are some different rules here.	107658	1471938201310	1471938201437	BKSP	8
+248	2214	There are some different rules here.	There are some different rules here.	107659	1471938201484	1471938201641	e	69
+248	2214	There are some different rules here.	There are some different rules here.	107667	1471938201573	1471938201737	s	83
+248	2214	There are some different rules here.	There are some different rules here.	107670	1471938201752	1471938201873	 	32
+248	2214	There are some different rules here.	There are some different rules here.	107673	1471938202029	1471938202125	h	72
+248	2214	There are some different rules here.	There are some different rules here.	107676	1471938202109	1471938202244	e	69
+248	2214	There are some different rules here.	There are some different rules here.	107679	1471938202194	1471938202322	r	82
+248	2214	There are some different rules here.	There are some different rules here.	107682	1471938202337	1471938202503	e	69
+248	2214	There are some different rules here.	There are some different rules here.	107683	1471938202567	1471938202675	.	190
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107767	1471938207043	1471938207228	SHIFT	16
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107769	1471938207152	1471938207278	W	87
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107771	1471938207228	1471938207356	E	69
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107773	1471938207419	1471938207528	 	32
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107775	1471938207668	1471938207792	o	79
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107776	1471938207917	1471938208029	b	66
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107778	1471938208312	1471938208430	v	86
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107780	1471938208445	1471938208566	i	73
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107782	1471938208484	1471938208613	o	79
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107783	1471938208675	1471938208749	u	85
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107784	1471938208765	1471938208896	s	83
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107796	1471938208927	1471938209081	l	76
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107797	1471938209237	1471938209318	y	89
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107798	1471938209365	1471938209482	 	32
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107799	1471938209607	1471938209687	h	72
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107800	1471938209687	1471938209817	a	65
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107818	1471938209817	1471938209973	v	86
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107821	1471938209934	1471938210066	e	69
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107825	1471938210097	1471938210202	 	32
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107829	1471938210233	1471938210322	a	65
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107833	1471938210368	1471938210470	 	32
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107853	1471938210566	1471938210671	l	76
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107854	1471938210734	1471938210840	o	79
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107855	1471938210855	1471938210945	t	84
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107857	1471938211023	1471938211140	 	32
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107859	1471938211187	1471938211323	t	84
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107868	1471938211323	1471938211424	o	79
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107870	1471938211455	1471938211589	 	32
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107871	1471938211729	1471938211857	t	84
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107873	1471938211857	1471938211959	a	65
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107874	1471938212006	1471938212124	l	76
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107897	1471938212188	1471938212295	k	75
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107898	1471938212342	1471938212460	 	32
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107900	1471938212522	1471938212643	a	65
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107901	1471938212721	1471938212844	b	66
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107916	1471938212828	1471938213017	o	79
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107919	1471938212977	1471938213117	u	85
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107922	1471938213079	1471938213211	t	84
+248	2216	We obviously have a lot to talk about.	WE obviously have a lot to talk about.	107926	1471938213274	1471938213396	.	190
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108054	1471938218452	1471938218650	SHIFT	16
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108056	1471938218608	1471938218700	H	72
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108058	1471938218903	1471938219016	e	69
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108060	1471938219078	1471938219185	 	32
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108062	1471938219279	1471938219405	r	82
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108073	1471938219353	1471938219500	e	69
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108074	1471938219640	1471938219768	f	70
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108075	1471938220080	1471938220188	u	85
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108077	1471938220219	1471938220369	s	83
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108079	1471938220353	1471938220473	e	69
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108081	1471938220551	1471938220674	d	68
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108100	1471938220723	1471938220825	 	32
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108101	1471938220840	1471938220941	t	84
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108102	1471938220972	1471938221090	o	79
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108103	1471938221090	1471938221207	 	32
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108104	1471938221256	1471938221374	e	69
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108112	1471938221422	1471938221527	l	76
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108113	1471938221574	1471938221692	a	65
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108114	1471938221848	1471938221977	b	66
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108115	1471938221993	1471938222095	o	79
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108116	1471938222173	1471938222294	r	82
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108124	1471938222278	1471938222410	a	65
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108126	1471938222441	1471938222578	t	84
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108129	1471938222562	1471938222710	e	69
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108132	1471938223085	1471938223197	 	32
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108134	1471938223291	1471938223470	o	79
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108149	1471938223415	1471938223549	n	78
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108151	1471938223533	1471938223666	 	32
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108153	1471938223712	1471938223818	t	84
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108154	1471938223834	1471938223950	h	72
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108155	1471938223981	1471938224055	e	69
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108156	1471938224070	1471938224170	 	32
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108179	1471938224186	1471938224375	d	68
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108182	1471938224332	1471938224453	e	69
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108184	1471938224453	1471938224587	l	76
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108185	1471938224587	1471938224704	a	65
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108186	1471938224845	1471938224948	y	89
+248	2219	He refused to elaborate on the delay.	He refused to elaborate on the delay.	108187	1471938225152	1471938225289	.	190
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108312	1471938230781	1471938230980	SHIFT	16
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108314	1471938230922	1471938231011	I	73
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108318	1471938231260	1471938231393	'	222
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108320	1471938231502	1471938231596	m	77
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108323	1471938231565	1471938231725	 	32
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108325	1471938231725	1471938231861	w	87
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108334	1471938231877	1471938232011	o	79
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108336	1471938232042	1471938232163	r	82
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108338	1471938232195	1471938232298	k	75
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108340	1471938232376	1471938232525	i	73
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108369	1471938232482	1471938232600	n	78
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108370	1471938232616	1471938232718	g	71
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108371	1471938232734	1471938232834	 	32
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108372	1471938232896	1471938233063	o	79
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108373	1471938233786	1471938233840	n	78
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108374	1471938234059	1471938234218	 	32
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108388	1471938234282	1471938234373	y	89
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108392	1471938234373	1471938234559	o	79
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108395	1471938234506	1471938234606	u	85
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108399	1471938234590	1471938234723	r	82
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108404	1471938234785	1471938234907	 	32
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108410	1471938235096	1471938235271	o	79
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108411	1471938235239	1471938235327	t	84
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108412	1471938235374	1471938235445	h	72
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108413	1471938235460	1471938235596	e	69
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108439	1471938235529	1471938235676	r	82
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108440	1471938235708	1471938235827	 	32
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108442	1471938236124	1471938236228	e	69
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108443	1471938236259	1471938236378	m	77
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108444	1471938236440	1471938236551	a	65
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108473	1471938236536	1471938236679	i	73
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108474	1471938236929	1471938237094	l	76
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108475	1471938237219	1471938237365	.	190
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108476	1471938237677	1471938237788	BKSP	8
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108477	1471938237804	1471938237901	s	83
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108478	1471938238120	1471938238281	 	32
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108480	1471938238530	1471938238668	n	78
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108529	1471938238637	1471938238759	e	69
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108531	1471938238837	1471938238969	c	67
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108535	1471938239063	1471938239188	t	84
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108536	1471938239250	1471938239357	/	191
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108538	1471938239778	1471938239908	BKSP	8
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108539	1471938240001	1471938240109	BKSP	8
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108541	1471938240187	1471938240325	BKSP	8
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108542	1471938240527	1471938240627	x	88
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108544	1471938240845	1471938240992	t	84
+248	2225	I'm working on your other emails next.	I'm working on your other emails next.	108545	1471938241228	1471938241315	.	190

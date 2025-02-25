@@ -1,0 +1,711 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+40	224	Please send me an email.	Please send me an email.	10159	1471934801408	1471934801750	SHIFT	16
+40	224	Please send me an email.	Please send me an email.	10163	1471934801600	1471934801767	P	80
+40	224	Please send me an email.	Please send me an email.	10167	1471934801736	1471934801839	L	76
+40	224	Please send me an email.	Please send me an email.	10171	1471934801895	1471934801984	e	69
+40	224	Please send me an email.	Please send me an email.	10172	1471934802086	1471934802168	a	65
+40	224	Please send me an email.	Please send me an email.	10173	1471934802448	1471934802503	s	83
+40	224	Please send me an email.	Please send me an email.	10262	1471934802903	1471934802944	BKSP	8
+40	224	Please send me an email.	Please send me an email.	10263	1471934803032	1471934803079	BKSP	8
+40	224	Please send me an email.	Please send me an email.	10264	1471934803159	1471934803224	BKSP	8
+40	224	Please send me an email.	Please send me an email.	10265	1471934803296	1471934803372	BKSP	8
+40	224	Please send me an email.	Please send me an email.	10266	1471934803813	1471934803887	l	76
+40	224	Please send me an email.	Please send me an email.	10267	1471934803973	1471934804046	e	69
+40	224	Please send me an email.	Please send me an email.	10268	1471934804160	1471934804272	a	65
+40	224	Please send me an email.	Please send me an email.	10269	1471934804328	1471934804409	s	83
+40	224	Please send me an email.	Please send me an email.	10271	1471934804519	1471934804601	e	69
+40	224	Please send me an email.	Please send me an email.	10290	1471934804670	1471934804808	 	32
+40	224	Please send me an email.	Please send me an email.	10293	1471934804808	1471934804878	s	83
+40	224	Please send me an email.	Please send me an email.	10296	1471934804960	1471934805055	n	78
+40	224	Please send me an email.	Please send me an email.	10299	1471934805063	1471934805136	e	69
+40	224	Please send me an email.	Please send me an email.	10301	1471934805264	1471934805335	d	68
+40	224	Please send me an email.	Please send me an email.	10327	1471934805438	1471934805544	 	32
+40	224	Please send me an email.	Please send me an email.	10328	1471934805584	1471934805731	m	77
+40	224	Please send me an email.	Please send me an email.	10329	1471934805719	1471934805796	e	69
+40	224	Please send me an email.	Please send me an email.	10330	1471934805832	1471934805928	 	32
+40	224	Please send me an email.	Please send me an email.	10333	1471934806062	1471934806095	s	83
+40	224	Please send me an email.	Please send me an email.	10424	1471934806319	1471934806399	a	65
+40	224	Please send me an email.	Please send me an email.	10426	1471934806670	1471934806742	BKSP	8
+40	224	Please send me an email.	Please send me an email.	10430	1471934806816	1471934806870	BKSP	8
+40	224	Please send me an email.	Please send me an email.	10434	1471934807344	1471934807400	BKSP	8
+40	224	Please send me an email.	Please send me an email.	10438	1471934807478	1471934807543	BKSP	8
+40	224	Please send me an email.	Please send me an email.	10442	1471934807623	1471934807679	BKSP	8
+40	224	Please send me an email.	Please send me an email.	10444	1471934807894	1471934807928	BKSP	8
+40	224	Please send me an email.	Please send me an email.	10447	1471934808021	1471934808040	BKSP	8
+40	224	Please send me an email.	Please send me an email.	10450	1471934808135	1471934808190	BKSP	8
+40	224	Please send me an email.	Please send me an email.	10454	1471934808286	1471934808359	BKSP	8
+40	224	Please send me an email.	Please send me an email.	10458	1471934808639	1471934808711	e	69
+40	224	Please send me an email.	Please send me an email.	10462	1471934808862	1471934808959	n	78
+40	224	Please send me an email.	Please send me an email.	10465	1471934809047	1471934809110	d	68
+40	224	Please send me an email.	Please send me an email.	10468	1471934809168	1471934809254	 	32
+40	224	Please send me an email.	Please send me an email.	10470	1471934809332	1471934809424	m	77
+40	224	Please send me an email.	Please send me an email.	10472	1471934809454	1471934809535	e	69
+40	224	Please send me an email.	Please send me an email.	10476	1471934809599	1471934809697	 	32
+40	224	Please send me an email.	Please send me an email.	10480	1471934809728	1471934809823	a	65
+40	224	Please send me an email.	Please send me an email.	10487	1471934809855	1471934810002	n	78
+40	224	Please send me an email.	Please send me an email.	10569	1471934809993	1471934810086	 	32
+40	224	Please send me an email.	Please send me an email.	10571	1471934810222	1471934810257	a	65
+40	224	Please send me an email.	Please send me an email.	10573	1471934810615	1471934810670	BKSP	8
+40	224	Please send me an email.	Please send me an email.	10575	1471934810755	1471934810823	e	69
+40	224	Please send me an email.	Please send me an email.	10577	1471934811422	1471934811527	m	77
+40	224	Please send me an email.	Please send me an email.	10579	1471934811535	1471934811632	a	65
+40	224	Please send me an email.	Please send me an email.	10580	1471934811640	1471934811686	i	73
+40	224	Please send me an email.	Please send me an email.	10665	1471934812007	1471934812048	;	186
+40	224	Please send me an email.	Please send me an email.	10667	1471934812479	1471934812552	BKSP	8
+40	224	Please send me an email.	Please send me an email.	10668	1471934812799	1471934812853	l	76
+40	224	Please send me an email.	Please send me an email.	10669	1471934813008	1471934813062	.	190
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11030	1471934822815	1471934823375	SHIFT	16
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11026	1471934823239	1471934823325	H	72
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11035	1471934823527	1471934823609	e	69
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11038	1471934823655	1471934823758	 	32
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11043	1471934824270	1471934824404	r	82
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11046	1471934824404	1471934824486	e	69
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11080	1471934824664	1471934824720	f	70
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11083	1471934824840	1471934824929	u	85
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11089	1471934824987	1471934825057	s	83
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11096	1471934825171	1471934825230	e	69
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11101	1471934825332	1471934825402	d	68
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11137	1471934825448	1471934825560	 	32
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11138	1471934825552	1471934825630	t	84
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11139	1471934825662	1471934825847	o	79
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11141	1471934825808	1471934825912	 	32
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11145	1471934826512	1471934826591	e	69
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11190	1471934826662	1471934826767	l	76
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11192	1471934826871	1471934826988	a	65
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11193	1471934827401	1471934827463	b	66
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11194	1471934827543	1471934827647	o	79
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11195	1471934827703	1471934827787	r	82
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11259	1471934828439	1471934828551	a	65
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11263	1471934828703	1471934828815	t	84
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11264	1471934828895	1471934828992	e	69
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11266	1471934829038	1471934829154	 	32
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11268	1471934829158	1471934829370	o	79
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11280	1471934829352	1471934829515	n	78
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11284	1471934829505	1471934829641	 	32
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11289	1471934829631	1471934829740	t	84
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11293	1471934829788	1471934829911	h	72
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11298	1471934829870	1471934829976	e	69
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11301	1471934830016	1471934830111	 	32
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11370	1471934830464	1471934830552	d	68
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11371	1471934830894	1471934830991	e	69
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11372	1471934831118	1471934831246	a	65
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11374	1471934831280	1471934831392	l	76
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11376	1471934831698	1471934831751	BKSP	8
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11379	1471934831870	1471934831935	BKSP	8
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11382	1471934832207	1471934832328	l	76
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11479	1471934832360	1471934832486	a	65
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11480	1471934832584	1471934832638	y	89
+40	238	He refused to elaborate on the delay.	He refused to elaborate on the delay.	11481	1471934833665	1471934833718	.	190
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	11865	1471934843167	1471934843519	SHIFT	16
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	11864	1471934843399	1471934843469	J	74
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	11866	1471934843581	1471934843661	u	85
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	11867	1471934843703	1471934843790	s	83
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	11868	1471934843830	1471934843985	t	84
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	11926	1471934843981	1471934844047	 	32
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	11928	1471934844693	1471934844776	d	68
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	11930	1471934844782	1471934844943	o	79
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	11932	1471934844927	1471934844989	n	78
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	11935	1471934845382	1471934845462	'	222
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	11938	1471934845518	1471934845607	r	82
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12029	1471934845677	1471934845759	 	32
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12033	1471934846039	1471934846085	BKSP	8
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12037	1471934846175	1471934846239	BKSP	8
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12039	1471934846287	1471934846376	t	84
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12042	1471934846406	1471934846478	 	32
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12048	1471934846638	1471934846799	s	83
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12052	1471934847255	1471934847325	t	84
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12097	1471934847417	1471934847526	a	65
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12099	1471934847582	1471934847727	r	82
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12104	1471934847719	1471934847807	t	84
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12110	1471934847861	1471934847951	 	32
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12118	1471934848389	1471934848527	h	72
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12166	1471934848510	1471934848723	i	73
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12170	1471934848678	1471934848879	m	77
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12174	1471934848855	1471934848950	 	32
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12180	1471934848990	1471934849102	a	65
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12186	1471934849174	1471934849262	g	71
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12191	1471934849334	1471934849542	i	73
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12258	1471934849501	1471934849605	a	65
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12261	1471934849869	1471934849925	BKSP	8
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12263	1471934850009	1471934850070	BKSP	8
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12266	1471934850126	1471934850230	a	65
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12269	1471934850244	1471934850454	i	73
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12273	1471934850413	1471934850536	n	78
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12276	1471934850622	1471934850711	s	83
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12282	1471934850808	1471934850994	t	84
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12324	1471934850910	1471934851048	 	32
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12325	1471934851100	1471934851200	t	84
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12327	1471934851231	1471934851326	h	72
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12328	1471934851590	1471934851682	e	69
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12330	1471934851758	1471934851854	 	32
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12331	1471934852326	1471934852429	s	83
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12345	1471934852622	1471934852686	t	84
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12348	1471934852784	1471934852862	i	73
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12351	1471934853070	1471934853125	f	70
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12354	1471934853244	1471934853375	l	76
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12357	1471934853389	1471934853479	i	73
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12417	1471934853622	1471934853702	n	78
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12418	1471934853823	1471934853901	g	71
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12419	1471934853943	1471934854045	 	32
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12420	1471934854454	1471934854774	SHIFT	16
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12422	1471934854719	1471934854790	R	82
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12424	1471934854894	1471934854967	a	65
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12452	1471934855039	1471934855093	v	86
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12457	1471934855141	1471934855207	e	69
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12463	1471934855317	1471934855407	n	78
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12467	1471934855445	1471934855517	s	83
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12473	1471934855569	1471934855647	 	32
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12521	1471934856045	1471934856167	d	68
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12523	1471934856287	1471934856358	e	69
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12526	1471934856454	1471934856525	f	70
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12528	1471934856605	1471934856679	e	69
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12532	1471934856751	1471934856838	n	78
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12571	1471934856869	1471934856959	s	83
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12575	1471934857062	1471934857141	e	69
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12581	1471934857191	1471934857302	 	32
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12585	1471934857406	1471934857510	t	84
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12587	1471934857598	1471934857685	h	72
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12643	1471934857847	1471934857925	i	73
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12647	1471934858029	1471934858070	i	73
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12649	1471934858341	1471934858399	BKSP	8
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12651	1471934858463	1471934858527	s	83
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12654	1471934858607	1471934858670	 	32
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12658	1471934859022	1471934859078	w	87
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12730	1471934859199	1471934859254	e	69
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12734	1471934859374	1471934859406	e	69
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12737	1471934859449	1471934859503	k	75
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12741	1471934859678	1471934859709	/	191
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12743	1471934860430	1471934860486	BKSP	8
+40	257	Just don't start him against the stifling Ravens defense this week.	Just don't start him against the stifling Ravens defense this week.	12748	1471934860702	1471934860760	.	190
+40	280	I know several who work there.	I know several who work there.	13169	1471934872662	1471934872814	SHIFT	16
+40	280	I know several who work there.	I know several who work there.	13172	1471934872718	1471934872863	I	73
+40	280	I know several who work there.	I know several who work there.	13173	1471934872846	1471934872942	 	32
+40	280	I know several who work there.	I know several who work there.	13174	1471934873006	1471934873133	k	75
+40	280	I know several who work there.	I know several who work there.	13175	1471934873143	1471934873261	n	78
+40	280	I know several who work there.	I know several who work there.	13176	1471934873351	1471934873446	o	79
+40	280	I know several who work there.	I know several who work there.	13206	1471934873494	1471934873573	w	87
+40	280	I know several who work there.	I know several who work there.	13208	1471934873615	1471934873686	 	32
+40	280	I know several who work there.	I know several who work there.	13211	1471934874183	1471934874262	s	83
+40	280	I know several who work there.	I know several who work there.	13213	1471934874366	1471934874462	e	69
+40	280	I know several who work there.	I know several who work there.	13217	1471934874502	1471934874582	r	82
+40	280	I know several who work there.	I know several who work there.	13329	1471934874926	1471934874997	BKSP	8
+40	280	I know several who work there.	I know several who work there.	13333	1471934875200	1471934875253	v	86
+40	280	I know several who work there.	I know several who work there.	13339	1471934875383	1471934875430	e	69
+40	280	I know several who work there.	I know several who work there.	13343	1471934876262	1471934876359	r	82
+40	280	I know several who work there.	I know several who work there.	13347	1471934876519	1471934876574	a	65
+40	280	I know several who work there.	I know several who work there.	13353	1471934877160	1471934877288	l	76
+40	280	I know several who work there.	I know several who work there.	13426	1471934877268	1471934877381	 	32
+40	280	I know several who work there.	I know several who work there.	13431	1471934877437	1471934877501	w	87
+40	280	I know several who work there.	I know several who work there.	13439	1471934877559	1471934877661	h	72
+40	280	I know several who work there.	I know several who work there.	13445	1471934877727	1471934877904	o	79
+40	280	I know several who work there.	I know several who work there.	13450	1471934877878	1471934877991	 	32
+40	280	I know several who work there.	I know several who work there.	13454	1471934878982	1471934879045	w	87
+40	280	I know several who work there.	I know several who work there.	13486	1471934879069	1471934879182	o	79
+40	280	I know several who work there.	I know several who work there.	13489	1471934879212	1471934879277	r	82
+40	280	I know several who work there.	I know several who work there.	13490	1471934879413	1471934879534	k	75
+40	280	I know several who work there.	I know several who work there.	13493	1471934879518	1471934879621	 	32
+40	280	I know several who work there.	I know several who work there.	13497	1471934879735	1471934879814	t	84
+40	280	I know several who work there.	I know several who work there.	13521	1471934879887	1471934879994	h	72
+40	280	I know several who work there.	I know several who work there.	13524	1471934879998	1471934880103	e	69
+40	280	I know several who work there.	I know several who work there.	13529	1471934880069	1471934880182	r	82
+40	280	I know several who work there.	I know several who work there.	13533	1471934880192	1471934880277	e	69
+40	280	I know several who work there.	I know several who work there.	13536	1471934880454	1471934880519	.	190
+40	297	That's a lot of dollars.	That's a lot of dollars.	13956	1471934889727	1471934889933	SHIFT	16
+40	297	That's a lot of dollars.	That's a lot of dollars.	13959	1471934889869	1471934889957	T	84
+40	297	That's a lot of dollars.	That's a lot of dollars.	13963	1471934890061	1471934890134	h	72
+40	297	That's a lot of dollars.	That's a lot of dollars.	13967	1471934890142	1471934890246	a	65
+40	297	That's a lot of dollars.	That's a lot of dollars.	13970	1471934890262	1471934890326	t	84
+40	297	That's a lot of dollars.	That's a lot of dollars.	13974	1471934891006	1471934891070	'	222
+40	297	That's a lot of dollars.	That's a lot of dollars.	13997	1471934891109	1471934891219	s	83
+40	297	That's a lot of dollars.	That's a lot of dollars.	13999	1471934891277	1471934891366	 	32
+40	297	That's a lot of dollars.	That's a lot of dollars.	14001	1471934891422	1471934891509	a	65
+40	297	That's a lot of dollars.	That's a lot of dollars.	14004	1471934891549	1471934891638	 	32
+40	297	That's a lot of dollars.	That's a lot of dollars.	14006	1471934891710	1471934891815	l	76
+40	297	That's a lot of dollars.	That's a lot of dollars.	14044	1471934891911	1471934892038	o	79
+40	297	That's a lot of dollars.	That's a lot of dollars.	14048	1471934892062	1471934892150	t	84
+40	297	That's a lot of dollars.	That's a lot of dollars.	14050	1471934892208	1471934892342	 	32
+40	297	That's a lot of dollars.	That's a lot of dollars.	14052	1471934892366	1471934892526	o	79
+40	297	That's a lot of dollars.	That's a lot of dollars.	14056	1471934892536	1471934892630	f	70
+40	297	That's a lot of dollars.	That's a lot of dollars.	14099	1471934892703	1471934892798	 	32
+40	297	That's a lot of dollars.	That's a lot of dollars.	14100	1471934893646	1471934893728	d	68
+40	297	That's a lot of dollars.	That's a lot of dollars.	14102	1471934893782	1471934893864	o	79
+40	297	That's a lot of dollars.	That's a lot of dollars.	14107	1471934893958	1471934894030	l	76
+40	297	That's a lot of dollars.	That's a lot of dollars.	14111	1471934894118	1471934894222	a	65
+40	297	That's a lot of dollars.	That's a lot of dollars.	14164	1471934894453	1471934894526	BKSP	8
+40	297	That's a lot of dollars.	That's a lot of dollars.	14166	1471934894669	1471934894726	l	76
+40	297	That's a lot of dollars.	That's a lot of dollars.	14168	1471934894822	1471934894934	a	65
+40	297	That's a lot of dollars.	That's a lot of dollars.	14173	1471934894974	1471934895054	r	82
+40	297	That's a lot of dollars.	That's a lot of dollars.	14177	1471934895182	1471934895261	s	83
+40	297	That's a lot of dollars.	That's a lot of dollars.	14181	1471934895694	1471934895751	.	190
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14627	1471934906431	1471934906710	SHIFT	16
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14628	1471934906647	1471934906718	E	69
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14629	1471934906894	1471934906967	x	88
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14631	1471934907151	1471934907215	p	80
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14634	1471934907257	1471934907326	e	69
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14637	1471934907456	1471934907526	c	67
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14658	1471934907584	1471934907689	t	84
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14659	1471934907662	1471934907753	 	32
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14662	1471934907913	1471934908030	h	72
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14664	1471934908062	1471934908248	i	73
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14688	1471934908248	1471934908401	m	77
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14690	1471934908385	1471934908526	 	32
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14693	1471934908528	1471934908615	t	84
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14695	1471934908685	1471934908817	o	79
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14696	1471934908793	1471934908886	 	32
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14697	1471934909198	1471934909304	p	80
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14722	1471934909370	1471934909438	r	82
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14726	1471934909494	1471934909574	o	79
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14730	1471934909816	1471934909911	d	68
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14733	1471934909997	1471934910071	u	85
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14736	1471934910137	1471934910255	c	67
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14793	1471934910295	1471934910415	e	69
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14796	1471934910449	1471934910576	 	32
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14798	1471934911234	1471934911294	g	71
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14800	1471934911376	1471934911431	o	79
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14802	1471934911519	1471934911624	o	79
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14835	1471934911655	1471934911735	d	68
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14836	1471934911791	1471934911855	 	32
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14837	1471934912039	1471934912137	n	78
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14838	1471934912177	1471934912270	u	85
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14840	1471934912425	1471934912471	m	77
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14875	1471934912623	1471934912664	b	66
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14876	1471934912743	1471934912825	e	69
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14877	1471934912786	1471934912895	r	82
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14878	1471934913303	1471934913407	s	83
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14879	1471934913437	1471934913536	 	32
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14900	1471934913759	1471934913808	a	65
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14902	1471934914000	1471934914088	g	71
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14905	1471934914168	1471934914264	a	65
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14906	1471934914320	1471934914480	i	73
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14968	1471934914463	1471934914559	n	78
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14970	1471934914575	1471934914671	t	84
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14972	1471934914871	1471934914944	BKSP	8
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14973	1471934914960	1471934915111	s	83
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14975	1471934915079	1471934915168	t	84
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14978	1471934915240	1471934915344	 	32
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	14981	1471934915735	1471934916062	SHIFT	16
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	15009	1471934916000	1471934916071	N	78
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	15011	1471934916270	1471934916343	e	69
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	15013	1471934916545	1471934916615	w	87
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	15016	1471934916663	1471934916768	 	32
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	15021	1471934916815	1471934917063	SHIFT	16
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	15027	1471934916991	1471934917097	E	69
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	15031	1471934917127	1471934917199	n	78
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	15047	1471934917379	1471934917448	g	71
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	15049	1471934917478	1471934917583	l	76
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	15051	1471934917607	1471934917694	a	65
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	15053	1471934917744	1471934917815	n	78
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	15056	1471934918047	1471934918127	d	68
+40	306	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	15173	1471934919390	1471934919455	.	190
+40	326	Will follow up today.	Will follow up today.	15560	1471934930158	1471934930385	SHIFT	16
+40	326	Will follow up today.	Will follow up today.	15563	1471934930320	1471934930423	W	87
+40	326	Will follow up today.	Will follow up today.	15567	1471934930495	1471934930567	i	73
+40	326	Will follow up today.	Will follow up today.	15571	1471934930695	1471934930779	l	76
+40	326	Will follow up today.	Will follow up today.	15575	1471934930847	1471934930927	l	76
+40	326	Will follow up today.	Will follow up today.	15579	1471934930945	1471934931055	 	32
+40	326	Will follow up today.	Will follow up today.	15612	1471934931103	1471934931176	f	70
+40	326	Will follow up today.	Will follow up today.	15617	1471934931286	1471934931369	o	79
+40	326	Will follow up today.	Will follow up today.	15620	1471934931578	1471934931600	l	76
+40	326	Will follow up today.	Will follow up today.	15623	1471934931727	1471934931784	l	76
+40	326	Will follow up today.	Will follow up today.	15626	1471934931895	1471934931975	o	79
+40	326	Will follow up today.	Will follow up today.	15643	1471934931999	1471934932094	w	87
+40	326	Will follow up today.	Will follow up today.	15644	1471934932151	1471934932247	 	32
+40	326	Will follow up today.	Will follow up today.	15645	1471934932681	1471934932735	u	85
+40	326	Will follow up today.	Will follow up today.	15646	1471934932789	1471934932928	p	80
+40	326	Will follow up today.	Will follow up today.	15680	1471934932904	1471934933008	 	32
+40	326	Will follow up today.	Will follow up today.	15683	1471934933112	1471934933177	t	84
+40	326	Will follow up today.	Will follow up today.	15689	1471934933232	1471934933328	o	79
+40	326	Will follow up today.	Will follow up today.	15696	1471934933632	1471934933777	d	68
+40	326	Will follow up today.	Will follow up today.	15701	1471934933752	1471934933864	a	65
+40	326	Will follow up today.	Will follow up today.	15761	1471934933847	1471934933903	y	89
+40	326	Will follow up today.	Will follow up today.	15764	1471934934225	1471934934272	.	190
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16134	1471934944846	1471934945031	SHIFT	16
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16136	1471934944966	1471934945103	H	72
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16138	1471934945119	1471934945198	e	69
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16141	1471934945248	1471934945352	 	32
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16144	1471934945384	1471934945471	w	87
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16147	1471934945603	1471934945686	a	65
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16179	1471934945696	1471934945830	s	83
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16182	1471934946135	1471934946240	 	32
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16185	1471934946288	1471934946408	r	82
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16189	1471934946386	1471934946495	e	69
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16191	1471934946758	1471934946936	p	80
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16224	1471934946902	1471934947017	l	76
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16226	1471934947071	1471934947190	a	65
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16227	1471934947254	1471934947351	c	67
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16228	1471934947417	1471934947496	e	69
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16230	1471934947592	1471934947670	d	68
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16233	1471934947744	1471934947839	 	32
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16273	1471934948159	1471934948240	b	66
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16275	1471934948319	1471934948471	y	89
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16277	1471934948487	1471934948582	 	32
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16279	1471934948760	1471934949097	SHIFT	16
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16281	1471934949049	1471934949136	J	74
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16284	1471934949354	1471934949430	BKSP	8
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16288	1471934949486	1471934949679	SHIFT	16
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16307	1471934949638	1471934949704	K	75
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16310	1471934949760	1471934949839	e	69
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16315	1471934949897	1471934949983	n	78
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16319	1471934950001	1471934950070	t	84
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16320	1471934950110	1471934950191	 	32
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16322	1471934950317	1471934950456	SHIFT	16
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16335	1471934950432	1471934950502	G	71
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16337	1471934950591	1471934950672	r	82
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16339	1471934950831	1471934950886	a	65
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16343	1471934951047	1471934951095	h	72
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16349	1471934951223	1471934951310	a	65
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16355	1471934951360	1471934951455	m	77
+40	338	He was replaced by Kent Graham.	He was replaced by Kent Graham.	16489	1471934953018	1471934953070	.	190
+40	353	We are also in touch with the U.	We are also in touch with the U.	16854	1471934962969	1471934963121	SHIFT	16
+40	353	We are also in touch with the U.	We are also in touch with the U.	16855	1471934963215	1471934963247	w	87
+40	353	We are also in touch with the U.	We are also in touch with the U.	16857	1471934963577	1471934963630	BKSP	8
+40	353	We are also in touch with the U.	We are also in touch with the U.	16859	1471934963736	1471934963890	SHIFT	16
+40	353	We are also in touch with the U.	We are also in touch with the U.	16861	1471934963815	1471934964001	W	87
+40	353	We are also in touch with the U.	We are also in touch with the U.	16863	1471934963972	1471934964062	e	69
+40	353	We are also in touch with the U.	We are also in touch with the U.	16865	1471934964102	1471934964208	 	32
+40	353	We are also in touch with the U.	We are also in touch with the U.	16867	1471934964262	1471934964374	a	65
+40	353	We are also in touch with the U.	We are also in touch with the U.	16883	1471934964574	1471934964700	r	82
+40	353	We are also in touch with the U.	We are also in touch with the U.	16884	1471934964671	1471934964792	e	69
+40	353	We are also in touch with the U.	We are also in touch with the U.	16886	1471934964807	1471934964911	 	32
+40	353	We are also in touch with the U.	We are also in touch with the U.	16889	1471934964975	1471934965081	a	65
+40	353	We are also in touch with the U.	We are also in touch with the U.	16893	1471934965081	1471934965177	l	76
+40	353	We are also in touch with the U.	We are also in touch with the U.	16911	1471934965302	1471934965358	s	83
+40	353	We are also in touch with the U.	We are also in touch with the U.	16913	1471934965456	1471934965591	o	79
+40	353	We are also in touch with the U.	We are also in touch with the U.	16920	1471934965639	1471934965774	 	32
+40	353	We are also in touch with the U.	We are also in touch with the U.	16925	1471934965896	1471934966071	i	73
+40	353	We are also in touch with the U.	We are also in touch with the U.	16949	1471934966046	1471934966205	n	78
+40	353	We are also in touch with the U.	We are also in touch with the U.	16953	1471934966192	1471934966313	 	32
+40	353	We are also in touch with the U.	We are also in touch with the U.	16958	1471934966345	1471934966423	t	84
+40	353	We are also in touch with the U.	We are also in touch with the U.	16963	1471934966463	1471934966648	o	79
+40	353	We are also in touch with the U.	We are also in touch with the U.	16966	1471934966615	1471934966743	u	85
+40	353	We are also in touch with the U.	We are also in touch with the U.	16970	1471934967001	1471934967081	v	86
+40	353	We are also in touch with the U.	We are also in touch with the U.	17022	1471934967311	1471934967399	BKSP	8
+40	353	We are also in touch with the U.	We are also in touch with the U.	17023	1471934967417	1471934967496	c	67
+40	353	We are also in touch with the U.	We are also in touch with the U.	17024	1471934967592	1471934967703	j	74
+40	353	We are also in touch with the U.	We are also in touch with the U.	17025	1471934967745	1471934967854	 	32
+40	353	We are also in touch with the U.	We are also in touch with the U.	17027	1471934968219	1471934968279	BKSP	8
+40	353	We are also in touch with the U.	We are also in touch with the U.	17030	1471934968343	1471934968407	BKSP	8
+40	353	We are also in touch with the U.	We are also in touch with the U.	17034	1471934968896	1471934969040	h	72
+40	353	We are also in touch with the U.	We are also in touch with the U.	17039	1471934969056	1471934969200	 	32
+40	353	We are also in touch with the U.	We are also in touch with the U.	17051	1471934969230	1471934969335	w	87
+40	353	We are also in touch with the U.	We are also in touch with the U.	17053	1471934969444	1471934969534	i	73
+40	353	We are also in touch with the U.	We are also in touch with the U.	17055	1471934969550	1471934969623	t	84
+40	353	We are also in touch with the U.	We are also in touch with the U.	17057	1471934969735	1471934969864	h	72
+40	353	We are also in touch with the U.	We are also in touch with the U.	17087	1471934969855	1471934969975	 	32
+40	353	We are also in touch with the U.	We are also in touch with the U.	17091	1471934969973	1471934970031	t	84
+40	353	We are also in touch with the U.	We are also in touch with the U.	17093	1471934970087	1471934970206	h	72
+40	353	We are also in touch with the U.	We are also in touch with the U.	17096	1471934970169	1471934970240	e	69
+40	353	We are also in touch with the U.	We are also in touch with the U.	17098	1471934970311	1471934970407	 	32
+40	353	We are also in touch with the U.	We are also in touch with the U.	17167	1471934970510	1471934970760	SHIFT	16
+40	353	We are also in touch with the U.	We are also in touch with the U.	17099	1471934970679	1471934970742	U	85
+40	353	We are also in touch with the U.	We are also in touch with the U.	17169	1471934970935	1471934971016	/	191
+40	353	We are also in touch with the U.	We are also in touch with the U.	17171	1471934971552	1471934971615	BKSP	8
+40	353	We are also in touch with the U.	We are also in touch with the U.	17174	1471934971845	1471934971894	.	190
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17509	1471934982632	1471934982871	SHIFT	16
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17507	1471934982798	1471934982863	T	84
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17510	1471934982969	1471934983054	h	72
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17511	1471934983072	1471934983159	e	69
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17512	1471934983159	1471934983247	 	32
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17513	1471934983441	1471934983639	SHIFT	16
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17534	1471934983591	1471934983719	A	65
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17535	1471934983921	1471934983999	t	84
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17536	1471934984273	1471934984368	l	76
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17537	1471934984392	1471934984495	a	65
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17538	1471934984519	1471934984610	n	78
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17539	1471934984704	1471934984832	t	84
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17601	1471934984941	1471934985055	s	83
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17603	1471934985280	1471934985360	BKSP	8
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17605	1471934985376	1471934985481	a	65
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17607	1471934985535	1471934985637	 	32
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17608	1471934985839	1471934986116	SHIFT	16
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17609	1471934986071	1471934986128	H	72
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17610	1471934986302	1471934986384	a	65
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17634	1471934986480	1471934986535	w	87
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17636	1471934986674	1471934986721	k	75
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17638	1471934986759	1471934986840	s	83
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17642	1471934986888	1471934986993	 	32
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17643	1471934987310	1471934987375	h	72
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17684	1471934987463	1471934987513	e	69
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17686	1471934987559	1471934987633	l	76
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17688	1471934987711	1471934987782	d	68
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17691	1471934987912	1471934987936	 	32
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17697	1471934987992	1471934988378	SHIFT	16
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17736	1471934988319	1471934988431	I	73
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17739	1471934988496	1471934988566	n	78
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17742	1471934988935	1471934989024	d	68
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17744	1471934989033	1471934989127	i	73
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17747	1471934989177	1471934989270	a	65
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17750	1471934989296	1471934989380	n	78
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17803	1471934989450	1471934989562	a	65
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17805	1471934989944	1471934990032	 	32
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17807	1471934990256	1471934990359	t	84
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17809	1471934990377	1471934990543	o	79
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17828	1471934990503	1471934990626	 	32
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17830	1471934990609	1471934990687	t	84
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17833	1471934990711	1471934990840	h	72
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17839	1471934990836	1471934990919	e	69
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17841	1471934990935	1471934991086	 	32
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17844	1471934991166	1471934991231	l	76
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17875	1471934991335	1471934991417	o	79
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17876	1471934991465	1471934991592	w	87
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17879	1471934991608	1471934991705	e	69
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17882	1471934991821	1471934991902	s	83
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17884	1471934991984	1471934992062	t	84
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17911	1471934992120	1471934992232	 	32
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17915	1471934992336	1471934992471	p	80
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17919	1471934993013	1471934993091	o	79
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17922	1471934993241	1471934993278	i	73
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17925	1471934993552	1471934993618	n	78
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17956	1471934993679	1471934993822	t	84
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17957	1471934993872	1471934993967	s	83
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17958	1471934994049	1471934994160	 	32
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17959	1471934994296	1471934994407	t	84
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	17960	1471934994511	1471934994611	a	65
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	18009	1471934994987	1471934995064	BKSP	8
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	18010	1471934995228	1471934995288	o	79
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	18011	1471934995318	1471934995441	t	84
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	18012	1471934995541	1471934995639	a	65
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	18013	1471934995649	1471934995783	l	76
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	18014	1471934995785	1471934995869	 	32
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	18071	1471934996304	1471934996351	w	87
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	18072	1471934996727	1471934996793	BKSP	8
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	18073	1471934996899	1471934996995	e	69
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	18075	1471934997051	1471934997115	b	66
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	18077	1471934997135	1471934997232	e	69
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	18177	1471934997200	1471934997306	r	82
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	18179	1471934997615	1471934997662	BKSP	8
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	18180	1471934997777	1471934997814	BKSP	8
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	18181	1471934997914	1471934997959	BKSP	8
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	18183	1471934998087	1471934998165	v	86
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	18185	1471934998305	1471934998431	e	69
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	18188	1471934998746	1471934998846	r	82
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	18192	1471934998968	1471934999051	/	191
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	18194	1471935000071	1471935000135	BKSP	8
+40	368	The Atlanta Hawks held Indiana to the lowest points total ever.	The Atlanta Hawks held Indiana to the lowest points total ever.	18196	1471935000351	1471935000423	.	190
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18679	1471935010535	1471935010696	SHIFT	16
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18684	1471935010615	1471935010720	N	78
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18687	1471935010822	1471935010896	o	79
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18690	1471935011184	1471935011247	,	188
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18692	1471935011278	1471935011383	 	32
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18695	1471935011727	1471935011791	j	74
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18704	1471935011879	1471935011950	u	85
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18705	1471935011999	1471935012079	s	83
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18707	1471935012111	1471935012231	t	84
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18713	1471935012223	1471935012327	 	32
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18722	1471935012391	1471935012551	SHIFT	16
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18807	1471935012471	1471935012559	T	84
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18809	1471935012687	1471935012751	h	72
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18814	1471935013231	1471935013279	u	85
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18818	1471935013352	1471935013424	r	82
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18821	1471935014112	1471935014182	s	83
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18824	1471935014383	1471935014462	a	65
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18841	1471935014662	1471935014799	y	89
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18843	1471935014792	1471935014895	 	32
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18848	1471935015166	1471935015295	a	65
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18852	1471935015271	1471935015383	n	78
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18858	1471935015439	1471935015526	d	68
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18925	1471935015871	1471935015983	 	32
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18928	1471935016015	1471935016183	SHIFT	16
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18930	1471935016119	1471935016223	F	70
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18932	1471935016295	1471935016375	i	73
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18934	1471935016367	1471935016455	r	82
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18937	1471935016711	1471935016775	BKSP	8
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18938	1471935016839	1471935016911	BKSP	8
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18940	1471935016927	1471935016991	r	82
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18964	1471935017056	1471935017119	i	73
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18966	1471935017656	1471935017783	d	68
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18970	1471935017775	1471935017890	a	65
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	18975	1471935017879	1471935017983	y	89
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	19018	1471935017967	1471935018079	 	32
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	19023	1471935018335	1471935018431	o	79
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	19029	1471935018639	1471935018743	f	70
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	19032	1471935018855	1471935018976	 	32
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	19039	1471935018959	1471935019080	t	84
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	19096	1471935019071	1471935019166	h	72
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	19099	1471935019206	1471935019326	i	73
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	19102	1471935019334	1471935019447	s	83
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	19103	1471935019461	1471935019543	 	32
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	19104	1471935020072	1471935020182	w	87
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	19105	1471935020238	1471935020311	e	69
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	19345	1471935020398	1471935020479	e	69
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	19347	1471935020959	1471935021015	k	75
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	19350	1471935022343	1471935022415	.	190
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	19352	1471935022439	1471935023846	ARW_LEFT	37
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	19354	1471935024206	1471935024292	ARW_RIGHT	39
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	19356	1471935024989	1471935025054	d	68
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	19566	1471935026574	1471935026622	=	8
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	19569	1471935028190	1471935028246	BKSP	8
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	19572	1471935028646	1471935028718	ARW_RIGHT	39
+40	387	No, just Thursday and Friday of this week.	No, just Thursday and Friday of this week.	19576	1471935030046	1471935030118	d	68
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	19959	1471935039582	1471935039813	SHIFT	16
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	19961	1471935039775	1471935039869	J	74
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	19963	1471935039903	1471935040037	i	73
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	19965	1471935040509	1471935040638	,	188
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	19967	1471935040662	1471935040766	 	32
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	19969	1471935041110	1471935041159	BKSP	8
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	19970	1471935041239	1471935041320	BKSP	8
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	19971	1471935041606	1471935041734	m	77
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20001	1471935041759	1471935041878	 	32
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20005	1471935042087	1471935042247	p	80
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20010	1471935042222	1471935042326	l	76
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20014	1471935042344	1471935042494	e	69
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20018	1471935042510	1471935042628	a	65
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20051	1471935042688	1471935042752	s	83
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20053	1471935042870	1471935042981	e	69
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20055	1471935043023	1471935043125	 	32
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20057	1471935043302	1471935043374	c	67
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20060	1471935043415	1471935043574	o	79
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20120	1471935043598	1471935043677	n	77
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20122	1471935043735	1471935043790	f	70
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20124	1471935043981	1471935044040	BKSP	8
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20126	1471935044127	1471935044182	BKSP	8
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20128	1471935044367	1471935044438	m	77
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20133	1471935044654	1471935044710	BKSP	8
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20137	1471935044784	1471935044854	BKSP	8
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20142	1471935045006	1471935045078	n	78
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20179	1471935045117	1471935045214	f	70
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20181	1471935045270	1471935045350	i	73
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20182	1471935045382	1471935045448	r	82
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20183	1471935045607	1471935045725	m	77
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20184	1471935046022	1471935046154	 	32
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20239	1471935046286	1471935046393	t	84
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20240	1471935046382	1471935046558	o	79
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20241	1471935046503	1471935046622	 	32
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20243	1471935046820	1471935047221	SHIFT	16
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20242	1471935047141	1471935047193	V	86
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20244	1471935047311	1471935047486	i	73
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20283	1471935047469	1471935047559	n	78
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20285	1471935047607	1471935047751	c	67
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20287	1471935047734	1471935047838	e	69
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20288	1471935047879	1471935048005	 	32
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20289	1471935048383	1471935048462	y	89
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20290	1471935048492	1471935048688	o	79
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20328	1471935048629	1471935048784	u	85
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20332	1471935048759	1471935048863	 	32
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20337	1471935048983	1471935049095	a	65
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20340	1471935049151	1471935049312	r	82
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20343	1471935049286	1471935049398	e	69
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20346	1471935049707	1471935049807	 	32
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20365	1471935050118	1471935050176	h	72
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20366	1471935050242	1471935050325	a	65
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20367	1471935050343	1471935050439	p	80
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20368	1471935050511	1471935050597	p	80
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20370	1471935050655	1471935050719	y	89
+40	414	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	20419	1471935050767	1471935050885	.	190
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20798	1471935059936	1471935060110	SHIFT	16
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20799	1471935060062	1471935060126	T	84
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20800	1471935060264	1471935060344	h	72
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20801	1471935060613	1471935060750	i	73
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20802	1471935060725	1471935060850	s	83
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20803	1471935060866	1471935060960	 	32
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20829	1471935061170	1471935061279	i	73
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20831	1471935061254	1471935061351	s	83
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20833	1471935061365	1471935061470	 	32
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20834	1471935061510	1471935061622	a	65
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20835	1471935061638	1471935061727	 	32
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20891	1471935061864	1471935062020	m	77
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20894	1471935062078	1471935062198	a	65
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20896	1471935062534	1471935062583	h	72
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20898	1471935062839	1471935062928	BKSP	8
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20900	1471935062958	1471935063002	j	74
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20902	1471935063094	1471935063169	o	79
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20916	1471935063272	1471935063350	r	82
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20917	1471935063415	1471935063493	 	32
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20919	1471935063664	1471935063741	s	83
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20921	1471935063831	1471935063910	e	69
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20922	1471935064012	1471935064079	t	84
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20940	1471935064246	1471935064311	b	66
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20944	1471935064343	1471935064445	a	65
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20948	1471935064824	1471935064903	c	67
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20949	1471935064951	1471935065071	k	75
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20960	1471935065046	1471935065195	 	32
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20963	1471935065736	1471935065807	f	70
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20971	1471935065871	1471935065998	o	79
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20977	1471935065958	1471935066055	r	82
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	20986	1471935066093	1471935066231	 	32
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	21012	1471935066197	1471935066268	t	84
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	21015	1471935066368	1471935066463	h	72
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	21018	1471935066447	1471935066518	e	69
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	21021	1471935066606	1471935066720	 	32
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	21024	1471935066830	1471935066902	r	82
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	21027	1471935066968	1471935067048	o	79
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	21105	1471935067117	1471935067271	o	79
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	21107	1471935067294	1471935067415	k	75
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	21110	1471935067469	1471935067541	i	73
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	21112	1471935067686	1471935067727	e	69
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	21113	1471935068163	1471935068207	BKSP	8
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	21115	1471935068368	1471935068437	BKSP	8
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	21118	1471935069077	1471935069163	i	73
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	21172	1471935069176	1471935069225	e	69
+40	429	This is a major setback for the rookie.	This is a major setback for the rookie.	21173	1471935069423	1471935069470	.	190
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21514	1471935080024	1471935080207	SHIFT	16
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21517	1471935080182	1471935080253	T	84
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21520	1471935080367	1471935080455	r	82
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21522	1471935080615	1471935080740	i	73
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21526	1471935080760	1471935080830	e	69
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21529	1471935080933	1471935080999	d	68
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21576	1471935081047	1471935081204	 	32
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21578	1471935081175	1471935081286	t	84
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21580	1471935081256	1471935081447	o	79
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21582	1471935081416	1471935081519	 	32
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21583	1471935081765	1471935081870	c	67
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21634	1471935081837	1471935081974	a	65
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21636	1471935081934	1471935082049	l	76
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21638	1471935082123	1471935082204	l	76
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21639	1471935082807	1471935082855	 	32
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21640	1471935083150	1471935083209	b	66
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21641	1471935083295	1471935083383	u	85
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21655	1471935083398	1471935083454	t	84
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21657	1471935083518	1471935083606	 	32
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21659	1471935083979	1471935084010	c	67
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21660	1471935084032	1471935084183	o	79
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21662	1471935084191	1471935084271	u	85
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21693	1471935084403	1471935084496	l	76
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21694	1471935084504	1471935084602	d	68
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21695	1471935084636	1471935084679	n	78
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21696	1471935085008	1471935085087	'	222
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21697	1471935085171	1471935085242	t	84
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21737	1471935085296	1471935085393	 	32
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21739	1471935085649	1471935085782	r	82
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21742	1471935085887	1471935085975	e	69
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21745	1471935086083	1471935086205	a	65
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21747	1471935086256	1471935086362	c	67
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21759	1471935086378	1471935086518	h	72
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21760	1471935086520	1471935086624	 	32
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21761	1471935086736	1471935086831	y	89
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21762	1471935086851	1471935087048	o	79
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21809	1471935086999	1471935087108	u	85
+40	447	Tried to call but couldn't reach you.	Tried to call but couldn't reach you.	21810	1471935087543	1471935087607	.	190
+40	456	Do you have a number for him?	Do you have a number for him?	22112	1471935097101	1471935097405	SHIFT	16
+40	456	Do you have a number for him?	Do you have a number for him?	22115	1471935097335	1471935097448	D	68
+40	456	Do you have a number for him?	Do you have a number for him?	22120	1471935097439	1471935097575	o	79
+40	456	Do you have a number for him?	Do you have a number for him?	22124	1471935097559	1471935097708	 	32
+40	456	Do you have a number for him?	Do you have a number for him?	22127	1471935097686	1471935097774	y	89
+40	456	Do you have a number for him?	Do you have a number for him?	22129	1471935097774	1471935097961	o	79
+40	456	Do you have a number for him?	Do you have a number for him?	22158	1471935097889	1471935098027	u	85
+40	456	Do you have a number for him?	Do you have a number for him?	22159	1471935098002	1471935098104	 	32
+40	456	Do you have a number for him?	Do you have a number for him?	22161	1471935098540	1471935098631	h	72
+40	456	Do you have a number for him?	Do you have a number for him?	22163	1471935098631	1471935098775	a	65
+40	456	Do you have a number for him?	Do you have a number for him?	22165	1471935098831	1471935098911	v	86
+40	456	Do you have a number for him?	Do you have a number for him?	22167	1471935098991	1471935099096	e	69
+40	456	Do you have a number for him?	Do you have a number for him?	22194	1471935099169	1471935099264	 	32
+40	456	Do you have a number for him?	Do you have a number for him?	22196	1471935099254	1471935099369	a	65
+40	456	Do you have a number for him?	Do you have a number for him?	22198	1471935099648	1471935099735	 	32
+40	456	Do you have a number for him?	Do you have a number for him?	22200	1471935099871	1471935099959	n	78
+40	456	Do you have a number for him?	Do you have a number for him?	22202	1471935100041	1471935100120	u	85
+40	456	Do you have a number for him?	Do you have a number for him?	22285	1471935100264	1471935100307	k	75
+40	456	Do you have a number for him?	Do you have a number for him?	22287	1471935100690	1471935100738	BKSP	8
+40	456	Do you have a number for him?	Do you have a number for him?	22289	1471935101280	1471935101312	m	77
+40	456	Do you have a number for him?	Do you have a number for him?	22291	1471935102599	1471935102679	b	66
+40	456	Do you have a number for him?	Do you have a number for him?	22293	1471935102687	1471935102807	e	69
+40	456	Do you have a number for him?	Do you have a number for him?	22302	1471935102753	1471935102848	r	82
+40	456	Do you have a number for him?	Do you have a number for him?	22304	1471935102862	1471935102992	 	32
+40	456	Do you have a number for him?	Do you have a number for him?	22308	1471935103064	1471935103151	f	70
+40	456	Do you have a number for him?	Do you have a number for him?	22311	1471935103151	1471935103336	o	79
+40	456	Do you have a number for him?	Do you have a number for him?	22312	1471935103280	1471935103360	r	82
+40	456	Do you have a number for him?	Do you have a number for him?	22314	1471935103408	1471935103558	 	32
+40	456	Do you have a number for him?	Do you have a number for him?	22338	1471935103610	1471935103703	h	72
+40	456	Do you have a number for him?	Do you have a number for him?	22339	1471935103711	1471935103905	i	73
+40	456	Do you have a number for him?	Do you have a number for him?	22340	1471935103897	1471935103954	m	77
+40	456	Do you have a number for him?	Do you have a number for him?	22342	1471935104346	1471935104575	SHIFT	16
+40	456	Do you have a number for him?	Do you have a number for him?	22341	1471935104455	1471935104529	?	191

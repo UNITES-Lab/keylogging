@@ -1,0 +1,811 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+143	1155	She has a web address.	She has aweb address.	56830	1471936483097	1471936483288	CAPS_LOCK	20
+143	1155	She has a web address.	She has aweb address.	56832	1471936483320	1471936483416	S	83
+143	1155	She has a web address.	She has aweb address.	56834	1471936483480	1471936483577	CAPS_LOCK	20
+143	1155	She has a web address.	She has aweb address.	56836	1471936483896	1471936484008	h	72
+143	1155	She has a web address.	She has aweb address.	56838	1471936484216	1471936484328	e	69
+143	1155	She has a web address.	She has aweb address.	56842	1471936484424	1471936484488	 	32
+143	1155	She has a web address.	She has aweb address.	56846	1471936484744	1471936484840	h	72
+143	1155	She has a web address.	She has aweb address.	56858	1471936484856	1471936484952	a	65
+143	1155	She has a web address.	She has aweb address.	56859	1471936485049	1471936485128	s	83
+143	1155	She has a web address.	She has aweb address.	56861	1471936485208	1471936485288	 	32
+143	1155	She has a web address.	She has aweb address.	56863	1471936485304	1471936485400	a	65
+143	1155	She has a web address.	She has aweb address.	56865	1471936485672	1471936485768	w	87
+143	1155	She has a web address.	She has aweb address.	56892	1471936485848	1471936485912	e	69
+143	1155	She has a web address.	She has aweb address.	56893	1471936486664	1471936486728	b	66
+143	1155	She has a web address.	She has aweb address.	56894	1471936486824	1471936486920	 	32
+143	1155	She has a web address.	She has aweb address.	56895	1471936487032	1471936487160	a	65
+143	1155	She has a web address.	She has aweb address.	56896	1471936487464	1471936487528	d	68
+143	1155	She has a web address.	She has aweb address.	56902	1471936487608	1471936487672	d	68
+143	1155	She has a web address.	She has aweb address.	56903	1471936487848	1471936487896	r	82
+143	1155	She has a web address.	She has aweb address.	56904	1471936488040	1471936488104	e	69
+143	1155	She has a web address.	She has aweb address.	56906	1471936488184	1471936488248	s	83
+143	1155	She has a web address.	She has aweb address.	56908	1471936488312	1471936488424	s	83
+143	1155	She has a web address.	She has aweb address.	56922	1471936488920	1471936488984	.	190
+143	1156	Have a great day!	Hve a great day.	56998	1471936492056	1471936492248	CAPS_LOCK	20
+143	1156	Have a great day!	Hve a great day.	57000	1471936492248	1471936492344	H	72
+143	1156	Have a great day!	Hve a great day.	57002	1471936492344	1471936492472	CAPS_LOCK	20
+143	1156	Have a great day!	Hve a great day.	57003	1471936492776	1471936492871	v	86
+143	1156	Have a great day!	Hve a great day.	57004	1471936492952	1471936493047	w	87
+143	1156	Have a great day!	Hve a great day.	57005	1471936493752	1471936493831	BKSP	8
+143	1156	Have a great day!	Hve a great day.	57006	1471936493944	1471936494040	e	69
+143	1156	Have a great day!	Hve a great day.	57007	1471936494136	1471936494200	 	32
+143	1156	Have a great day!	Hve a great day.	57015	1471936494202	1471936494311	a	65
+143	1156	Have a great day!	Hve a great day.	57017	1471936494680	1471936494728	 	32
+143	1156	Have a great day!	Hve a great day.	57019	1471936494984	1471936495063	g	71
+143	1156	Have a great day!	Hve a great day.	57021	1471936495239	1471936495303	r	82
+143	1156	Have a great day!	Hve a great day.	57024	1471936495415	1471936495480	e	69
+143	1156	Have a great day!	Hve a great day.	57043	1471936495543	1471936495671	a	65
+143	1156	Have a great day!	Hve a great day.	57045	1471936495863	1471936495927	t	84
+143	1156	Have a great day!	Hve a great day.	57047	1471936496088	1471936496135	 	32
+143	1156	Have a great day!	Hve a great day.	57049	1471936496280	1471936496343	d	68
+143	1156	Have a great day!	Hve a great day.	57051	1471936496392	1471936496519	a	65
+143	1156	Have a great day!	Hve a great day.	57060	1471936496615	1471936496679	y	89
+143	1156	Have a great day!	Hve a great day.	57062	1471936497336	1471936497416	.	190
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57190	1471936501352	1471936501544	CAPS_LOCK	20
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57192	1471936502200	1471936502376	J	74
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57194	1471936502952	1471936503096	CAPS_LOCK	20
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57198	1471936503464	1471936503544	o	79
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57201	1471936503977	1471936504040	r	82
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57203	1471936504200	1471936504264	d	68
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57205	1471936504281	1471936504408	a	65
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57230	1471936505160	1471936505240	n	78
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57231	1471936505368	1471936505432	 	32
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57232	1471936505576	1471936505640	i	73
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57233	1471936505752	1471936505864	s	83
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57234	1471936505881	1471936505944	 	32
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57271	1471936506152	1471936506216	t	84
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57272	1471936506248	1471936506392	a	65
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57273	1471936506696	1471936506776	k	75
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57274	1471936506904	1471936506968	i	73
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57275	1471936507128	1471936507192	n	78
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57302	1471936508008	1471936508088	g	71
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57303	1471936508296	1471936508360	 	32
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57304	1471936508648	1471936508712	h	72
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57305	1471936508872	1471936508936	i	73
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57306	1471936509080	1471936509192	s	83
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57312	1471936509194	1471936509241	 	32
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57314	1471936509432	1471936509512	;	76
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57316	1471936509528	1471936509656	a	65
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57318	1471936509768	1471936509864	s	83
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57353	1471936510040	1471936510104	t	84
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57354	1471936510728	1471936510823	 	32
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57356	1471936511528	1471936511623	j	74
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57358	1471936511767	1471936511847	o	79
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57360	1471936512184	1471936512263	b	66
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57404	1471936513688	1471936513832	,	188
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57405	1471936514055	1471936514167	 	32
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57406	1471936514729	1471936514920	c	67
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57408	1471936515097	1471936515176	o	79
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57410	1471936515592	1471936515704	r	82
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57421	1471936515881	1471936515960	p	80
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57423	1471936516072	1471936516136	o	79
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57425	1471936516409	1471936516472	r	82
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57427	1471936516520	1471936516664	a	65
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57429	1471936516681	1471936516760	t	84
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57472	1471936516936	1471936517032	e	69
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57474	1471936517720	1471936517816	 	32
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57477	1471936518313	1471936518408	d	68
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57480	1471936518553	1471936518712	e	69
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57483	1471936518808	1471936518888	v	86
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57519	1471936518936	1471936519048	e	69
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57522	1471936519416	1471936519496	l	76
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57526	1471936519672	1471936519736	o	79
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57529	1471936519864	1471936519944	p	80
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57533	1471936521977	1471936522104	m	77
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57591	1471936522248	1471936522376	e	69
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57592	1471936522472	1471936522568	n	78
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57593	1471936522904	1471936522952	t	84
+143	1163	Jordan is taking her last job, corporate development.	Jordan is taking his l;ast job, corporate development.	57594	1471936523816	1471936523896	.	190
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58315	1471936554120	1471936554312	CAPS_LOCK	20
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58316	1471936554344	1471936554456	M	77
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58317	1471936554648	1471936554744	O	79
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58318	1471936555624	1471936555832	CAPS_LOCK	20
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58319	1471936556200	1471936556280	BKSP	8
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58322	1471936556824	1471936556904	o	79
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58325	1471936557592	1471936557720	n	78
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58328	1471936558248	1471936558328	t	84
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58421	1471936559784	1471936559896	p	80
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58424	1471936560152	1471936560296	e	69
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58427	1471936560488	1471936560552	l	76
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58430	1471936560632	1471936560728	l	76
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58433	1471936561240	1471936561352	i	73
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58537	1471936561560	1471936561640	e	69
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58542	1471936561736	1471936561800	r	82
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58545	1471936562840	1471936562936	 	32
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58547	1471936563656	1471936563799	w	87
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58548	1471936564040	1471936564119	o	79
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58573	1471936564344	1471936564391	n	78
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58574	1471936564488	1471936564551	 	32
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58575	1471936564696	1471936564760	t	84
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58576	1471936564903	1471936564967	h	72
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58577	1471936565128	1471936565207	e	69
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58616	1471936565351	1471936565399	 	32
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58619	1471936565544	1471936565607	c	67
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58622	1471936565943	1471936565992	u	85
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58625	1471936566295	1471936566391	p	80
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58629	1471936566952	1471936567096	 	32
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58791	1471936567560	1471936567624	BKSP	8
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58793	1471936567720	1471936567784	BKSP	8
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58795	1471936567864	1471936567929	BKSP	8
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58797	1471936567992	1471936568056	BKSP	8
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58799	1471936569128	1471936569352	CAPS_LOCK	20
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58801	1471936569385	1471936569480	C	67
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58803	1471936569529	1471936569640	CAPS_LOCK	20
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58805	1471936569977	1471936570056	u	85
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58807	1471936570360	1471936570456	p	80
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58810	1471936571096	1471936571192	 	32
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58843	1471936571577	1471936571769	a	65
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58814	1471936571688	1471936571768	t	84
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58844	1471936571912	1471936571976	 	32
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58846	1471936572120	1471936572168	t	84
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58848	1471936572312	1471936572376	h	72
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58850	1471936572488	1471936572600	e	69
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58852	1471936572777	1471936572856	i	73
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58982	1471936573096	1471936573160	r	82
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58984	1471936574090	1471936574200	 	32
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58986	1471936574777	1471936574904	f	70
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58992	1471936575288	1471936575368	i	73
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	58994	1471936575800	1471936575976	s	83
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	59038	1471936576488	1471936576552	BKSP	8
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	59041	1471936576840	1471936576904	r	82
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	59046	1471936576968	1471936577096	s	83
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	59050	1471936577096	1471936577160	t	84
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	59056	1471936577304	1471936577384	 	32
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	59061	1471936577432	1471936577592	a	65
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	59110	1471936577688	1471936577752	t	84
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	59112	1471936577800	1471936577896	t	84
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	59114	1471936578056	1471936578168	e	69
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	59117	1471936578392	1471936578472	m	77
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	59120	1471936578968	1471936579032	p	80
+143	1177	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their first attemp.	59143	1471936579624	1471936579688	.	190
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59321	1471936583464	1471936583687	CAPS_LOCK	20
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59322	1471936583767	1471936583911	A	65
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59323	1471936584248	1471936584407	CAPS_LOCK	20
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59324	1471936584423	1471936584504	r	82
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59325	1471936584888	1471936584984	g	71
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59326	1471936585096	1471936585224	e	69
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59327	1471936585448	1471936585544	n	78
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59343	1471936585752	1471936585832	t	84
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59345	1471936586072	1471936586152	i	73
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59347	1471936586503	1471936586567	n	78
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59348	1471936586695	1471936586855	a	65
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59377	1471936586823	1471936586871	 	32
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59381	1471936587015	1471936587079	h	72
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59383	1471936587111	1471936587239	a	65
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59385	1471936587367	1471936587447	v	86
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59387	1471936587591	1471936587671	e	69
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59390	1471936587719	1471936587783	 	32
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59402	1471936587943	1471936588007	c	67
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59404	1471936587991	1471936588103	a	65
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59406	1471936588471	1471936588551	l	76
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59408	1471936588615	1471936588695	l	76
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59410	1471936588903	1471936588983	r	82
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59504	1471936589607	1471936589687	BKSP	8
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59505	1471936589799	1471936589879	e	69
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59507	1471936589991	1471936590087	d	68
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59509	1471936590791	1471936590871	 	32
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59512	1471936591351	1471936591431	o	79
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59517	1471936591687	1471936591767	f	70
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59541	1471936591831	1471936591927	f	70
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59544	1471936592007	1471936592071	 	32
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59548	1471936592231	1471936592295	t	84
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59551	1471936592423	1471936592503	h	72
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59556	1471936592695	1471936592791	e	69
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59615	1471936593111	1471936593223	i	73
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59616	1471936593511	1471936593575	r	82
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59618	1471936594199	1471936594295	 	32
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59620	1471936594951	1471936595031	t	84
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59623	1471936595095	1471936595223	w	87
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59712	1471936595543	1471936595623	o	79
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59715	1471936596151	1471936596263	 	32
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59716	1471936596711	1471936596791	f	70
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59718	1471936597351	1471936597415	o	79
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59720	1471936597495	1471936597558	o	79
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59815	1471936597767	1471936597831	t	84
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59817	1471936598263	1471936598343	v	86
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59819	1471936598871	1471936598935	BKSP	8
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59821	1471936599318	1471936599414	b	66
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59823	1471936599494	1471936599654	a	65
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59824	1471936599783	1471936599847	l	76
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59890	1471936599927	1471936600006	l	76
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59894	1471936600630	1471936600742	 	32
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59897	1471936601158	1471936601238	i	73
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59901	1471936601446	1471936601527	n	78
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59906	1471936601799	1471936601878	t	84
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59988	1471936602071	1471936602135	e	69
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59989	1471936602263	1471936602328	r	82
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59990	1471936603719	1471936603880	n	78
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59991	1471936603895	1471936604055	a	65
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	59992	1471936604119	1471936604215	t	84
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	60005	1471936604439	1471936604535	i	73
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	60010	1471936604647	1471936604711	o	79
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	60016	1471936604887	1471936604967	n	78
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	60022	1471936604999	1471936605143	a	65
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	60028	1471936605175	1471936605255	l	76
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	60114	1471936605399	1471936605527	s	83
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	60116	1471936606167	1471936606263	 	32
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	60119	1471936606807	1471936606887	i	73
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	60122	1471936607031	1471936607095	n	78
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	60125	1471936607223	1471936607303	 	32
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	60179	1471936607351	1471936607543	CAPS_LOCK	20
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	60182	1471936607959	1471936608039	J	74
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	60185	1471936608119	1471936608231	CAPS_LOCK	20
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	60190	1471936608471	1471936608615	a	65
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	60194	1471936608695	1471936608791	p	80
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	60197	1471936608839	1471936608951	a	65
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	60201	1471936609447	1471936609511	n	78
+143	1206	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	60222	1471936610071	1471936610135	.	190
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	60578	1471936616039	1471936616246	CAPS_LOCK	20
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	60582	1471936616967	1471936617078	J	74
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	60584	1471936617110	1471936617286	CAPS_LOCK	20
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	60586	1471936617542	1471936617670	a	65
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	60589	1471936617927	1471936618006	c	67
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	60593	1471936618422	1471936618486	k	75
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	60597	1471936618630	1471936618694	i	73
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	60728	1471936618918	1471936619014	e	69
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	60732	1471936619126	1471936619206	 	32
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	60734	1471936619255	1471936619399	CAPS_LOCK	20
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	60736	1471936619511	1471936619607	CAPS_LOCK	20
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	60737	1471936620184	1471936620295	CAPS_LOCK	20
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	60738	1471936620423	1471936620535	A	65
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	60740	1471936621591	1471936621671	D	68
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	60743	1471936621751	1471936621895	A	65
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	60792	1471936622136	1471936622231	M	77
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	60793	1471936622407	1471936622503	S	83
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	60794	1471936623303	1471936623383	 	32
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	60795	1471936623767	1471936623831	I	73
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	60798	1471936623975	1471936624087	S	83
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	61995	1471936624103	1471936624167	 	32
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	61999	1471936624519	1471936624599	T	84
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62003	1471936624727	1471936624807	R	82
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62006	1471936625815	1471936625879	BKSP	8
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62008	1471936625975	1471936626055	BKSP	8
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62009	1471936626391	1471936626503	BKSP	8
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62011	1471936626583	1471936626679	BKSP	8
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62013	1471936626855	1471936626919	BKSP	8
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62015	1471936650296	1471936650376	BKSP	8
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62019	1471936650440	1471936650535	BKSP	8
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62022	1471936650600	1471936650680	BKSP	8
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62024	1471936650744	1471936650856	BKSP	8
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62025	1471936650888	1471936651000	BKSP	8
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62026	1471936651320	1471936651512	BKSP	8
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62027	1471936652328	1471936652567	CAPS_LOCK	20
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62028	1471936652615	1471936652839	a	65
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62029	1471936653639	1471936653735	BKSP	8
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62030	1471936653767	1471936653959	CAPS_LOCK	20
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62031	1471936654119	1471936654215	A	65
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62085	1471936654327	1471936654456	CAPS_LOCK	20
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62088	1471936655096	1471936655176	d	68
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62091	1471936655224	1471936655352	a	65
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62095	1471936655672	1471936655768	m	77
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62100	1471936655928	1471936656040	s	83
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62105	1471936656504	1471936656616	 	32
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62137	1471936657160	1471936657256	i	73
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62140	1471936657400	1471936657544	s	83
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62144	1471936657545	1471936657608	 	32
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62149	1471936657768	1471936657848	t	84
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62154	1471936657960	1471936658024	r	82
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62208	1471936658216	1471936658280	y	89
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62211	1471936658680	1471936658744	i	73
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62213	1471936658984	1471936659048	n	78
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62217	1471936659240	1471936659304	g	71
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62220	1471936659768	1471936659864	 	32
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62255	1471936660264	1471936660328	t	84
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62260	1471936660696	1471936660760	o	79
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62263	1471936660904	1471936660952	 	32
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62267	1471936661096	1471936661160	g	71
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62273	1471936661272	1471936661368	e	69
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62316	1471936661384	1471936661448	t	84
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62318	1471936661592	1471936661656	 	32
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62321	1471936662600	1471936662664	t	84
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62324	1471936662824	1471936662888	h	72
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62327	1471936663048	1471936663128	i	73
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62505	1471936663368	1471936663448	d	68
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62508	1471936665128	1471936665192	BKSP	8
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62514	1471936665448	1471936665608	s	83
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62520	1471936665640	1471936665704	 	32
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62524	1471936666744	1471936666904	d	68
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62527	1471936667464	1471936667528	o	79
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62580	1471936668072	1471936668152	n	78
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62581	1471936668328	1471936668440	e	69
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62582	1471936668440	1471936668504	 	32
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62583	1471936668712	1471936668776	t	84
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62584	1471936669160	1471936669223	o	79
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62651	1471936669544	1471936669623	d	68
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62653	1471936669703	1471936669847	a	65
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62655	1471936669864	1471936669911	y	89
+143	1232	Jackie Adams is trying to get this done today.	Jackie Adams is trying to get this done today.	62657	1471936670600	1471936670663	.	190
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	62863	1471936675128	1471936675304	CAPS_LOCK	20
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	62866	1471936675704	1471936675784	T	84
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	62868	1471936676104	1471936676248	CAPS_LOCK	20
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	62871	1471936676328	1471936676408	h	72
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	62874	1471936676600	1471936676680	i	73
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	62878	1471936676840	1471936676952	s	83
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	62883	1471936677048	1471936677112	 	32
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	62975	1471936678072	1471936678152	t	84
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	62979	1471936678328	1471936678408	r	82
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	62983	1471936679080	1471936679144	u	85
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	62986	1471936679384	1471936679448	c	67
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	62989	1471936679736	1471936679832	j	74
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63215	1471936682232	1471936682312	BKSP	8
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63217	1471936682408	1471936682504	BKSP	8
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63220	1471936682568	1471936682696	BKSP	8
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63224	1471936683400	1471936683624	a	65
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63233	1471936683608	1471936683672	c	67
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63238	1471936684088	1471936684184	k	75
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63242	1471936684488	1471936684552	t	84
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63244	1471936684776	1471936684871	s	83
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63393	1471936686599	1471936686776	BKSP	8
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63395	1471936687352	1471936687495	BKSP	8
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63398	1471936688103	1471936688215	 	32
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63401	1471936688535	1471936688711	s	83
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63405	1471936688695	1471936688775	t	84
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63408	1471936688839	1471936688968	a	65
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63412	1471936689287	1471936689384	n	78
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63442	1471936689640	1471936689720	d	68
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63444	1471936689768	1471936689881	s	83
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63446	1471936689944	1471936690008	 	32
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63448	1471936690072	1471936690216	a	65
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63452	1471936690568	1471936690648	l	76
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63556	1471936690760	1471936690841	o	79
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63557	1471936691177	1471936691256	b	66
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63558	1471936691864	1471936691928	BKSP	8
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63559	1471936692248	1471936692328	n	78
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63561	1471936692456	1471936692552	e	69
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63563	1471936693416	1471936693512	 	32
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63604	1471936693800	1471936693912	a	65
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63606	1471936694024	1471936694120	s	83
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63609	1471936694152	1471936694216	 	32
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63611	1471936694441	1471936694504	k	75
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63613	1471936694664	1471936694728	i	73
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63676	1471936695016	1471936695096	n	78
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63679	1471936695352	1471936695432	g	71
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63682	1471936696040	1471936696120	 	32
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63684	1471936696760	1471936696856	o	79
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63685	1471936697000	1471936697096	f	70
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63716	1471936697144	1471936697208	 	32
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63718	1471936697352	1471936697432	t	84
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63720	1471936697544	1471936697640	h	72
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63721	1471936697672	1471936697784	e	69
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63722	1471936698072	1471936698168	 	32
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63805	1471936698680	1471936698760	c	67
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63806	1471936699144	1471936699240	i	73
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63807	1471936699528	1471936699624	r	82
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63808	1471936699752	1471936699816	c	67
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63809	1471936700264	1471936700328	u	85
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63897	1471936700424	1471936700504	i	73
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63898	1471936700680	1471936700744	t	84
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63899	1471936700856	1471936700968	s	83
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63900	1471936701272	1471936701352	,	188
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63901	1471936701976	1471936702040	BKSP	8
+143	1274	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	63903	1471936702376	1471936702456	.	190
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64116	1471936705672	1471936705879	CAPS_LOCK	20
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64118	1471936706024	1471936706119	I	73
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64121	1471936706424	1471936706583	CAPS_LOCK	20
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64123	1471936707192	1471936707256	m	77
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64125	1471936707817	1471936707896	BKSP	8
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64127	1471936708152	1471936708200	n	78
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64129	1471936708329	1471936708392	 	32
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64130	1471936708584	1471936708648	t	84
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64143	1471936708856	1471936708936	h	72
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64144	1471936709064	1471936709160	e	69
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64145	1471936709272	1471936709336	 	32
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64146	1471936709448	1471936709560	e	69
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64147	1471936709769	1471936709864	n	78
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64209	1471936710088	1471936710216	d	68
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64211	1471936711192	1471936711320	,	188
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64215	1471936711480	1471936711544	 	32
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64218	1471936711896	1471936711992	w	87
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64222	1471936712104	1471936712168	e	69
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64267	1471936712264	1471936712344	 	32
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64270	1471936712552	1471936712616	c	67
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64272	1471936712872	1471936712936	h	72
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64273	1471936713176	1471936713257	o	79
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64274	1471936713384	1471936713496	s	83
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64339	1471936713560	1471936713672	e	69
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64341	1471936714120	1471936714216	 	32
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64343	1471936714648	1471936714728	t	84
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64345	1471936715096	1471936715176	o	79
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64347	1471936715336	1471936715400	 	32
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64415	1471936715768	1471936715848	k	75
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64416	1471936716056	1471936716152	e	69
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64418	1471936716216	1471936716328	e	69
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64420	1471936716488	1471936716584	p	80
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64422	1471936717112	1471936717192	 	32
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64525	1471936717896	1471936717976	o	79
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64527	1471936718184	1471936718264	u	85
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64531	1471936718552	1471936718664	r	82
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64534	1471936719272	1471936719368	 	32
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64537	1471936719976	1471936720072	t	84
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64632	1471936720312	1471936720408	r	82
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64635	1471936720472	1471936720632	a	65
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64639	1471936720648	1471936720712	d	68
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64643	1471936721176	1471936721319	i	73
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64647	1471936722871	1471936722951	t	84
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64706	1471936723271	1471936723351	i	73
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64709	1471936723464	1471936723527	o	79
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64712	1471936724055	1471936724135	n	78
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64714	1471936724167	1471936724296	a	65
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64717	1471936724424	1471936724504	l	76
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64762	1471936725352	1471936725433	 	32
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64766	1471936725848	1471936725944	m	77
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64769	1471936726184	1471936726312	e	69
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64771	1471936726440	1471936726520	t	84
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64773	1471936726680	1471936726744	h	72
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64883	1471936726920	1471936726968	o	73
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64884	1471936728520	1471936728584	BKSP	8
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64885	1471936728664	1471936728760	BKSP	8
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64886	1471936728984	1471936729064	o	79
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64887	1471936729320	1471936729448	d	68
+143	1301	In the end, we chose to keep our traditional method.	In the end, we chose to keep our traditional method.	64888	1471936729912	1471936729976	.	190
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65598	1471936745656	1471936745864	CAPS_LOCK	20
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65599	1471936745881	1471936745992	M	77
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65602	1471936746200	1471936746329	CAPS_LOCK	20
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65605	1471936746441	1471936746536	i	73
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65608	1471936746968	1471936747160	k	75
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65611	1471936747656	1471936747768	w	87
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65614	1471936748456	1471936748552	BKSP	8
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65615	1471936748776	1471936748888	e	69
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65728	1471936749288	1471936749368	,	188
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65732	1471936751144	1471936751224	 	32
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65735	1471936751656	1471936751816	a	65
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65740	1471936751896	1471936751960	r	82
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65745	1471936752056	1471936752136	e	69
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65781	1471936752280	1471936752344	 	32
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65783	1471936752504	1471936752568	y	89
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65785	1471936752841	1471936752904	o	79
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65787	1471936753096	1471936753144	u	85
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65790	1471936753304	1471936753352	 	32
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65837	1471936753480	1471936753624	a	65
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65838	1471936754200	1471936754280	w	87
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65839	1471936754377	1471936754472	a	65
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65840	1471936754584	1471936754648	r	82
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65841	1471936754728	1471936754792	e	69
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65871	1471936754936	1471936755000	 	32
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65876	1471936755368	1471936755432	o	79
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65879	1471936755784	1471936755847	f	70
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65881	1471936755960	1471936756023	 	32
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65883	1471936756136	1471936756199	t	84
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65956	1471936756328	1471936756376	h	72
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65958	1471936756503	1471936756567	i	73
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65960	1471936756648	1471936756743	d	68
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65962	1471936757480	1471936757543	BKSP	8
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65964	1471936757623	1471936757703	s	83
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65966	1471936757944	1471936759159	CAPS_LOCK	20
+143	1326	Mike, are you aware of this?	Mike, are you aware of this/	65969	1471936759080	1471936759161	/	191
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66137	1471936763032	1471936763224	CAPS_LOCK	20
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66140	1471936763528	1471936763656	h	72
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66144	1471936763800	1471936763944	CAPS_LOCK	20
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66148	1471936764043	1471936764104	E	69
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66152	1471936764281	1471936764344	 	32
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66158	1471936764600	1471936764696	H	72
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66163	1471936764792	1471936764904	A	65
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66204	1471936765016	1471936765112	S	83
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66207	1471936765144	1471936765192	 	32
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66210	1471936765352	1471936765416	R	82
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66214	1471936765512	1471936765576	E	69
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66216	1471936765736	1471936765800	C	67
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66321	1471936766216	1471936766280	O	79
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66325	1471936767720	1471936767832	V	86
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66328	1471936767944	1471936768072	E	69
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66329	1471936768232	1471936768312	R	82
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66331	1471936768456	1471936768536	E	69
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66414	1471936768632	1471936768712	D	68
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66416	1471936768792	1471936768856	 	32
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66419	1471936769592	1471936769672	F	70
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66423	1471936769784	1471936769848	R	82
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66427	1471936770344	1471936770424	O	79
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66661	1471936770616	1471936770680	M	77
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66665	1471936770824	1471936770888	 	32
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66669	1471936772616	1471936774151	BKSP	8
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66673	1471936774536	1471936774728	CAPS_LOCK	20
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66677	1471936774888	1471936775015	h	72
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66679	1471936776023	1471936776119	BKSP	8
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66680	1471936776312	1471936776471	CAPS_LOCK	20
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66681	1471936776551	1471936776663	H	72
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66682	1471936777180	1471936777352	CAPS_LOCK	20
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66683	1471936777720	1471936777816	e	69
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66702	1471936777897	1471936777960	 	32
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66705	1471936778136	1471936778216	h	72
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66709	1471936778248	1471936778344	a	65
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66712	1471936778456	1471936778552	s	83
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66714	1471936778616	1471936778680	 	32
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66765	1471936778920	1471936779000	r	82
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66766	1471936779112	1471936779192	e	69
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66768	1471936779352	1471936779416	c	67
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66774	1471936779816	1471936779896	o	79
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66778	1471936780296	1471936780376	v	86
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66822	1471936780536	1471936780664	e	69
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66825	1471936780904	1471936781000	r	82
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66827	1471936781160	1471936781256	e	69
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66829	1471936781400	1471936781480	d	68
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66832	1471936781592	1471936781656	 	32
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66922	1471936782168	1471936782248	f	70
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66923	1471936782360	1471936782424	r	82
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66926	1471936782824	1471936782888	o	79
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66928	1471936783224	1471936783368	m	77
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66930	1471936783720	1471936783848	 	32
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66982	1471936784408	1471936784488	h	72
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66984	1471936784664	1471936784744	i	73
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66986	1471936784952	1471936785096	s	83
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66988	1471936785368	1471936785448	 	32
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	66990	1471936785512	1471936785640	a	65
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	67063	1471936785896	1471936786024	n	78
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	67064	1471936786345	1471936786408	k	75
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	67066	1471936786536	1471936786632	l	76
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	67069	1471936786760	1471936786856	e	69
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	67072	1471936787544	1471936787656	 	32
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	67126	1471936788056	1471936788120	i	73
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	67129	1471936788808	1471936788888	n	78
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	67133	1471936789032	1471936789112	j	74
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	67136	1471936789240	1471936789304	u	85
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	67142	1471936789672	1471936789752	r	82
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	67193	1471936789928	1471936790024	y	89
+143	1348	He has recovered from his ankle injury.	He has recovered from his ankle injury.	67194	1471936791048	1471936791127	.	190
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67444	1471936795464	1471936795624	CAPS_LOCK	20
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67446	1471936795800	1471936795896	T	84
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67451	1471936796520	1471936796600	X	88
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67457	1471936797144	1471936797256	U	85
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67462	1471936797992	1471936798072	 	32
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67467	1471936798120	1471936798264	CAPS_LOCK	20
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67472	1471936798520	1471936798600	i	73
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67507	1471936798792	1471936798904	s	83
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67512	1471936798936	1471936799016	 	32
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67516	1471936799304	1471936799400	o	79
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67519	1471936799720	1471936799784	f	70
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67522	1471936799864	1471936799944	f	70
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67622	1471936801096	1471936801192	,	188
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67624	1471936801576	1471936801704	 	32
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67627	1471936802152	1471936802376	e	69
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67629	1471936802392	1471936802504	v	86
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67632	1471936802536	1471936802632	e	69
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67674	1471936803000	1471936803080	r	82
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67676	1471936803289	1471936803368	y	89
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67680	1471936803720	1471936803800	o	79
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67684	1471936804040	1471936804136	n	78
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67687	1471936804456	1471936804584	e	69
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67760	1471936805224	1471936805320	 	32
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67763	1471936805848	1471936805976	e	69
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67766	1471936806216	1471936806312	l	76
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67769	1471936807432	1471936807512	s	83
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67774	1471936807608	1471936807687	e	69
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67903	1471936807800	1471936807864	 	32
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67906	1471936808936	1471936809175	CAPS_LOCK	20
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67910	1471936809208	1471936809319	O	79
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67914	1471936809592	1471936809672	K	75
+143	1374	TXU is off, everyone else OK.	TXU is off, everyone else OK.	67916	1471936810808	1471936810903	.	190
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68172	1471936816424	1471936816616	CAPS_LOCK	20
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68175	1471936816840	1471936816936	b	66
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68176	1471936816968	1471936817096	CAPS_LOCK	20
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68178	1471936817192	1471936817272	U	85
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68180	1471936817544	1471936817608	T	84
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68181	1471936817768	1471936817833	 	32
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68182	1471936818040	1471936818120	L	76
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68220	1471936818328	1471936818456	E	69
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68224	1471936818648	1471936818696	T	84
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68227	1471936818856	1471936818920	 	32
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68230	1471936819112	1471936819176	M	77
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68232	1471936819352	1471936819464	E	69
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68287	1471936819672	1471936819752	 	32
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68289	1471936820216	1471936820296	K	75
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68292	1471936820424	1471936820488	N	78
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68293	1471936820632	1471936820712	O	79
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68294	1471936820840	1471936820968	W	87
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68345	1471936820984	1471936821048	 	32
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68351	1471936821096	1471936821224	W	87
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68355	1471936821432	1471936821496	H	72
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68357	1471936821672	1471936821736	I	73
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68360	1471936822088	1471936822152	C	67
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68744	1471936824024	1471936825480	BKSP	8
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68747	1471936826504	1471936826679	CAPS_LOCK	20
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68752	1471936827063	1471936827191	b	66
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68756	1471936827512	1471936827687	CAPS_LOCK	20
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68759	1471936828247	1471936828328	BKSP	8
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68760	1471936828407	1471936828535	BKSP	8
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68761	1471936829112	1471936829288	CAPS_LOCK	20
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68762	1471936829464	1471936829560	b	66
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68765	1471936830615	1471936830727	BKSP	8
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68767	1471936830903	1471936831032	CAPS_LOCK	20
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68769	1471936831415	1471936831511	B	66
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68771	1471936832279	1471936832407	CAPS_LOCK	20
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68775	1471936832919	1471936832999	u	85
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68776	1471936833288	1471936833351	t	84
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68804	1471936833607	1471936833687	 	32
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68805	1471936833991	1471936834071	l	76
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68806	1471936834263	1471936834407	e	69
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68807	1471936834535	1471936834615	t	84
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68808	1471936834759	1471936834823	 	32
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68869	1471936834983	1471936835079	m	77
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68872	1471936835239	1471936835351	e	69
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68875	1471936835431	1471936835495	 	32
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68877	1471936836023	1471936836103	k	75
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68879	1471936836263	1471936836327	n	78
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68905	1471936836503	1471936836583	o	79
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68906	1471936836695	1471936836839	w	87
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68907	1471936836855	1471936836919	 	32
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68908	1471936836967	1471936837095	w	87
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68909	1471936837303	1471936837383	h	72
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68942	1471936837527	1471936837607	i	73
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68944	1471936837879	1471936837959	v	86
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68946	1471936838503	1471936838583	BKSP	8
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	68950	1471936838711	1471936838823	c	67
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69103	1471936838887	1471936838951	h	74
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69105	1471936840199	1471936840279	BKSP	8
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69106	1471936840343	1471936840423	BKSP	8
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69107	1471936842199	1471936842295	h	72
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69108	1471936842871	1471936842951	 	32
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69109	1471936843527	1471936843622	o	79
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69110	1471936843879	1471936844006	n	78
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69111	1471936844503	1471936844598	r	82
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69144	1471936844743	1471936844838	s	83
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69146	1471936845287	1471936845398	 	32
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69148	1471936845943	1471936846022	y	89
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69150	1471936846262	1471936846342	o	79
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69152	1471936846662	1471936846727	u	85
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69199	1471936846903	1471936846983	 	32
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69202	1471936847047	1471936847159	d	68
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69205	1471936847335	1471936847399	o	79
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69207	1471936847623	1471936847703	n	78
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69209	1471936848487	1471936848551	.	190
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69254	1471936849015	1471936849095	BKSP	8
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69257	1471936849367	1471936849431	'	222
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69260	1471936849735	1471936849799	t	84
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69263	1471936849959	1471936850023	 	32
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69268	1471936850183	1471936850247	g	71
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69272	1471936850439	1471936850535	e	69
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69298	1471936850663	1471936850743	t	84
+143	1387	But let me know which ones you don't get.	But let me know which onrs you don't get.	69299	1471936851847	1471936851911	.	190
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69474	1471936856519	1471936856711	CAPS_LOCK	20
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69477	1471936857111	1471936857303	I	73
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69480	1471936857642	1471936857751	CAPS_LOCK	20
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69483	1471936858071	1471936858167	 	32
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69486	1471936858343	1471936858439	n	78
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69488	1471936858615	1471936858695	e	69
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69489	1471936858743	1471936858871	e	69
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69564	1471936859239	1471936859319	d	68
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69565	1471936860503	1471936860508	 	32
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69566	1471936862806	1471936862886	t	84
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69567	1471936863063	1471936863142	o	79
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69568	1471936863318	1471936863366	 	32
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69614	1471936863510	1471936863574	g	71
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69616	1471936863734	1471936863798	o	79
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69618	1471936864183	1471936864247	t	84
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69620	1471936865479	1471936865559	o	79
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69621	1471936865719	1471936865799	 	32
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69650	1471936865815	1471936866010	CAPS_LOCK	20
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69652	1471936866248	1471936866343	S	83
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69653	1471936866455	1471936866583	CAPS_LOCK	20
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69655	1471936867015	1471936867159	a	65
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69657	1471936867367	1471936867447	t	84
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69659	1471936867527	1471936867623	a	65
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69663	1471936867799	1471936867879	n	78
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69720	1471936870471	1471936870551	'	222
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69722	1471936870903	1471936871015	s	83
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69724	1471936871079	1471936871143	 	32
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69726	1471936871479	1471936871575	o	79
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	69728	1471936871879	1471936871943	f	70
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	70056	1471936872023	1471936872103	f	70
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	70059	1471936872631	1471936872695	i	73
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	70061	1471936873031	1471936873111	c	67
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	70062	1471936873223	1471936873335	e	69
+143	1415	I need to go to Stan's office.	I need to goto Satan's office.	70063	1471936885943	1471936886039	.	190
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70244	1471936889495	1471936889751	CAPS_LOCK	20
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70246	1471936891816	1471936891976	T	84
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70249	1471936892248	1471936892392	CAPS_LOCK	20
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70252	1471936892680	1471936892776	h	72
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70254	1471936892952	1471936893080	e	69
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70255	1471936893080	1471936893160	 	32
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70256	1471936893784	1471936893944	s	83
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70274	1471936894216	1471936894328	p	80
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70275	1471936894472	1471936894535	o	79
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70276	1471936894712	1471936894791	k	75
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70277	1471936895016	1471936895095	e	69
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70278	1471936895208	1471936895303	s	83
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70326	1471936895480	1471936895559	m	77
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70328	1471936895576	1471936895735	a	65
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70331	1471936895768	1471936895847	n	78
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70334	1471936896504	1471936896632	 	32
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70336	1471936896967	1471936897031	s	83
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70384	1471936897063	1471936897191	a	65
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70385	1471936897479	1471936897575	i	73
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70386	1471936897719	1471936897831	d	68
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70387	1471936898327	1471936898439	 	32
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70388	1471936898855	1471936898951	i	73
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70413	1471936899192	1471936899272	t	84
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70415	1471936899384	1471936899496	s	83
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70417	1471936899512	1471936899576	 	32
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70421	1471936899768	1471936899848	r	82
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70424	1471936900232	1471936900312	u	85
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70480	1471936900600	1471936900728	l	76
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70481	1471936900824	1471936900952	e	69
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70482	1471936901560	1471936901672	 	32
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70483	1471936902056	1471936902232	w	87
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70484	1471936902424	1471936902504	o	79
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70503	1471936902680	1471936902760	u	85
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70505	1471936902936	1471936903016	l	76
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70507	1471936903144	1471936903272	d	68
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70509	1471936903336	1471936903384	 	32
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70511	1471936903512	1471936903592	b	66
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70571	1471936903608	1471936903688	e	69
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70573	1471936904280	1471936904376	 	32
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70574	1471936904760	1471936904824	t	84
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70575	1471936905208	1471936905320	o	79
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70576	1471936906296	1471936906408	 	32
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70669	1471936906728	1471936906920	s	83
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70667	1471936906760	1471936906856	a	65
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70671	1471936908408	1471936908520	BKSP	8
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70673	1471936909272	1471936909352	u	85
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70675	1471936909640	1471936909752	p	80
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70677	1471936910024	1471936910136	e	69
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70750	1471936910216	1471936910280	r	82
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70751	1471936910712	1471936910792	v	86
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70752	1471936911176	1471936911272	i	73
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70753	1471936912232	1471936912359	s	83
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70754	1471936912392	1471936912487	e	69
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70820	1471936913207	1471936913303	 	32
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70821	1471936913975	1471936914055	t	84
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70822	1471936914199	1471936914295	h	72
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70823	1471936914407	1471936914519	e	69
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70824	1471936914952	1471936915031	 	32
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70898	1471936915543	1471936915655	o	79
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70899	1471936916247	1471936916343	r	82
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70900	1471936916808	1471936916904	g	71
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70902	1471936917000	1471936917160	a	65
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70905	1471936917256	1471936917352	n	78
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70941	1471936917640	1471936917736	o	79
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70944	1471936918168	1471936918264	s	83
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70948	1471936918328	1471936918440	a	65
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70950	1471936918552	1471936918632	t	84
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70952	1471936919016	1471936919080	i	73
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70981	1471936919192	1471936919272	o	79
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70984	1471936919544	1471936919608	n	78
+143	1432	The spokesman said its role would be to supervise the organisation.	The spokesman said its rule would be to supervise the organosation.	70986	1471936920072	1471936920152	.	190
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71124	1471936923976	1471936924168	CAPS_LOCK	20
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71126	1471936924296	1471936924376	T	84
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71129	1471936924424	1471936924568	CAPS_LOCK	20
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71132	1471936924696	1471936924840	h	72
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71135	1471936925176	1471936925256	e	69
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71137	1471936925352	1471936925448	s	83
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71139	1471936925544	1471936925608	e	69
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71140	1471936925736	1471936925816	 	32
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71142	1471936925832	1471936925960	a	65
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71144	1471936926040	1471936926104	r	82
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71146	1471936926216	1471936926280	e	69
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71148	1471936926440	1471936926504	 	32
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71193	1471936926728	1471936926792	b	66
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71195	1471936927064	1471936927160	i	73
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71197	1471936928312	1471936928376	g	71
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71199	1471936928520	1471936928584	 	32
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71201	1471936928632	1471936928744	s	83
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71250	1471936928824	1471936928888	t	84
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71254	1471936929224	1471936929304	o	79
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71258	1471936929608	1471936929703	r	82
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71263	1471936929992	1471936930088	m	77
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71267	1471936930168	1471936930264	s	83
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71316	1471936931175	1471936931271	 	32
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71318	1471936931320	1471936931511	a	65
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71320	1471936931703	1471936931800	n	78
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71322	1471936932071	1471936932151	d	68
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71328	1471936932215	1471936932279	 	32
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71355	1471936932536	1471936932599	t	84
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71356	1471936932728	1471936932791	r	82
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71357	1471936932839	1471936932983	a	65
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71358	1471936933095	1471936933159	f	70
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71359	1471936933255	1471936933335	f	70
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71417	1471936933751	1471936933831	i	73
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71418	1471936934120	1471936934200	c	67
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71419	1471936935112	1471936935256	 	32
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71420	1471936935720	1471936935816	i	73
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71422	1471936935993	1471936936121	s	83
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71531	1471936936280	1471936936376	n	78
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71532	1471936937640	1471936937720	'	222
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71533	1471936938008	1471936938088	t	84
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71534	1471936938840	1471936938920	 	32
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71536	1471936939384	1471936939464	m	77
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71575	1471936939608	1471936939688	o	79
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71578	1471936940040	1471936940120	v	86
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71581	1471936940424	1471936940488	i	73
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71584	1471936940680	1471936940744	n	78
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71586	1471936941032	1471936941112	g	71
+143	1450	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	71598	1471936941640	1471936941720	.	190

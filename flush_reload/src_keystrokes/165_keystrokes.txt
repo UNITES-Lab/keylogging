@@ -1,0 +1,682 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65394	1471936742708	1471936743363	SHIFT	16
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65388	1471936742980	1471936743116	U	85
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65400	1471936743622	1471936743883	SHIFT	16
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65404	1471936743748	1471936743907	S	83
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65409	1471936744036	1471936744139	 	32
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65415	1471936744411	1471936744523	s	83
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65418	1471936744659	1471936744756	h	72
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65464	1471936744931	1471936745004	i	73
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65467	1471936745139	1471936745235	p	80
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65472	1471936745292	1471936745403	s	83
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65477	1471936745475	1471936745579	 	32
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65483	1471936746019	1471936746132	w	87
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65517	1471936746227	1471936746323	i	73
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65518	1471936746443	1471936746531	l	76
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65520	1471936746580	1471936746675	l	76
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65522	1471936746763	1471936746876	 	32
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65524	1471936746899	1471936747019	a	65
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65571	1471936747084	1471936747172	l	76
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65573	1471936747316	1471936747443	s	83
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65574	1471936747508	1471936747611	o	79
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65575	1471936747723	1471936747851	 	32
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65576	1471936748803	1471936748899	l	76
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65593	1471936748956	1471936749076	e	69
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65594	1471936749164	1471936749372	a	65
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65595	1471936749340	1471936749500	d	68
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65596	1471936749563	1471936749684	 	32
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65597	1471936749723	1471936749867	a	65
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65682	1471936749964	1471936750084	 	32
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65683	1471936750500	1471936750731	s	83
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65684	1471936750668	1471936750812	e	69
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65686	1471936752531	1471936752659	c	67
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65688	1471936752739	1471936752828	o	79
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65756	1471936752964	1471936753067	n	78
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65758	1471936753124	1471936753219	d	68
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65760	1471936753284	1471936753403	 	32
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65762	1471936753851	1471936753956	t	84
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65764	1471936753971	1471936754116	a	65
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65805	1471936754268	1471936754387	s	83
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65807	1471936754460	1471936754548	k	75
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65809	1471936754700	1471936754803	 	32
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65812	1471936755363	1471936755467	f	70
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65814	1471936755588	1471936755675	o	79
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65893	1471936755763	1471936755868	r	82
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65894	1471936756132	1471936756307	c	67
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65897	1471936756244	1471936756412	e	69
+165	1331	US ships will also lead a second task force.	US ships will also lead a second task force.	65901	1471936757011	1471936757115	.	190
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66085	1471936760948	1471936762004	SHIFT	16
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66083	1471936761876	1471936761988	D	68
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66088	1471936763044	1471936763147	o	79
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66091	1471936763843	1471936763931	n	78
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66096	1471936764652	1471936764763	'	222
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66202	1471936764964	1471936765059	y	84
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66206	1471936765212	1471936765300	 	32
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66209	1471936765763	1471936765867	BKSP	8
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66212	1471936765931	1471936766027	BKSP	8
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66215	1471936766523	1471936766628	 	32
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66217	1471936766956	1471936767051	m	77
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66218	1471936767107	1471936767227	a	65
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66219	1471936767283	1471936767372	k	75
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66262	1471936767435	1471936767548	e	69
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66267	1471936767603	1471936767708	 	32
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66273	1471936768059	1471936768163	m	77
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66277	1471936768252	1471936768355	e	69
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66285	1471936768427	1471936768548	 	32
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66318	1471936769036	1471936769147	p	80
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66319	1471936769227	1471936769332	u	85
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66320	1471936769508	1471936769603	l	76
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66323	1471936769643	1471936769771	l	76
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66326	1471936769860	1471936769980	 	32
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66398	1471936770427	1471936770555	t	84
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66399	1471936770660	1471936770796	a	65
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66401	1471936770867	1471936770956	p	80
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66402	1471936771027	1471936771164	e	69
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66403	1471936771228	1471936771380	s	83
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66454	1471936771427	1471936771548	 	32
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66457	1471936771859	1471936771947	o	79
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66459	1471936772091	1471936772204	n	78
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66462	1471936772307	1471936772435	 	32
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66465	1471936773116	1471936773204	w	87
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66481	1471936773347	1471936773443	h	72
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66485	1471936773588	1471936773659	e	69
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66489	1471936773763	1471936773876	t	84
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66494	1471936773993	1471936774076	h	72
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66597	1471936774067	1471936774172	e	69
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66598	1471936774219	1471936774316	r	82
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66599	1471936774475	1471936774603	 	32
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66600	1471936775173	1471936775252	y	85
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66602	1471936775924	1471936776028	BKSP	8
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66604	1471936776332	1471936776420	BKSP	8
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66607	1471936777259	1471936777347	y	89
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66636	1471936777460	1471936777675	o	79
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66639	1471936777651	1471936777756	u	85
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66642	1471936777916	1471936778035	 	32
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66645	1471936778523	1471936778628	u	85
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66649	1471936778747	1471936778843	n	78
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66690	1471936778916	1471936779004	d	68
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66693	1471936779108	1471936779195	e	69
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66695	1471936779245	1471936779341	r	82
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66697	1471936779443	1471936779571	s	83
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66700	1471936779956	1471936780059	a	65
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66769	1471936780859	1471936780955	BKSP	8
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66772	1471936781132	1471936781227	t	84
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66777	1471936781364	1471936781460	o	79
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66780	1471936781515	1471936781611	o	79
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66784	1471936781763	1471936781876	d	68
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66786	1471936781956	1471936782059	 	32
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66843	1471936782571	1471936782675	o	79
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66845	1471936782964	1471936783067	u	85
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66847	1471936783156	1471936783236	r	82
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66849	1471936783332	1471936783443	 	32
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66851	1471936783723	1471936783820	f	70
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66884	1471936783948	1471936784099	e	69
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66885	1471936784140	1471936784235	e	69
+165	1344	Don't make me pull tapes on whether you understood our fee.	Don't make me pull tapes on whether you understood our fee.	66886	1471936784403	1471936784500	.	190
+165	1366	Come join the fun.	come join the fun	66998	1471936786884	1471936786987	c	67
+165	1366	Come join the fun.	come join the fun	66999	1471936787051	1471936787140	o	79
+165	1366	Come join the fun.	come join the fun	67000	1471936787252	1471936787347	m	77
+165	1366	Come join the fun.	come join the fun	67001	1471936787372	1471936787483	e	69
+165	1366	Come join the fun.	come join the fun	67002	1471936787572	1471936787683	 	32
+165	1366	Come join the fun.	come join the fun	67055	1471936788275	1471936788380	j	74
+165	1366	Come join the fun.	come join the fun	67058	1471936788452	1471936788612	o	79
+165	1366	Come join the fun.	come join the fun	67062	1471936788571	1471936788708	i	73
+165	1366	Come join the fun.	come join the fun	67065	1471936788811	1471936788916	n	78
+165	1366	Come join the fun.	come join the fun	67067	1471936789019	1471936789132	 	32
+165	1366	Come join the fun.	come join the fun	67100	1471936789500	1471936789620	t	84
+165	1366	Come join the fun.	come join the fun	67101	1471936789683	1471936789788	h	72
+165	1366	Come join the fun.	come join the fun	67102	1471936789851	1471936789964	e	69
+165	1366	Come join the fun.	come join the fun	67103	1471936790028	1471936790140	 	32
+165	1366	Come join the fun.	come join the fun	67104	1471936790420	1471936790540	f	70
+165	1366	Come join the fun.	come join the fun	67113	1471936790595	1471936790708	u	85
+165	1366	Come join the fun.	come join the fun	67116	1471936790820	1471936790908	n	78
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67227	1471936793099	1471936793340	SHIFT	16
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67226	1471936793219	1471936793323	T	84
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67228	1471936793435	1471936793548	h	72
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67229	1471936793603	1471936793723	e	69
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67230	1471936793756	1471936793860	y	89
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67232	1471936794019	1471936794132	 	32
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67286	1471936794756	1471936794859	s	83
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67288	1471936794964	1471936795051	p	80
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67290	1471936795179	1471936795283	e	69
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67292	1471936795380	1471936795475	n	78
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67294	1471936795580	1471936795691	t	84
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67304	1471936795819	1471936795924	 	32
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67306	1471936796156	1471936796276	a	65
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67308	1471936796436	1471936796524	b	66
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67311	1471936796651	1471936796836	o	79
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67390	1471936796812	1471936796931	u	85
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67392	1471936797091	1471936797191	n	78
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67395	1471936797580	1471936797683	BKSP	8
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67398	1471936797749	1471936797859	t	84
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67402	1471936798004	1471936798106	 	32
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67407	1471936798412	1471936798515	t	84
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67414	1471936798932	1471936799028	w	87
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67449	1471936799051	1471936799156	o	79
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67454	1471936799324	1471936799420	 	32
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67458	1471936799803	1471936799891	h	72
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67465	1471936800027	1471936800179	o	79
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67468	1471936800187	1471936800300	u	85
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67527	1471936800484	1471936800595	r	82
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67530	1471936800748	1471936800876	s	83
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67532	1471936800979	1471936801091	 	32
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67535	1471936801324	1471936801460	a	65
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67538	1471936801788	1471936801883	t	84
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67651	1471936802011	1471936802116	 	32
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67652	1471936802259	1471936802500	SHIFT	16
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67653	1471936802404	1471936802548	L	76
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67654	1471936802611	1471936802763	a	65
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67655	1471936804158	1471936804294	r	82
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67656	1471936805142	1471936805229	n	78
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67692	1471936805286	1471936805422	a	65
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67693	1471936805502	1471936805638	c	67
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67694	1471936805694	1471936805821	a	65
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67695	1471936805918	1471936806046	 	32
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67696	1471936806374	1471936806486	a	65
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67722	1471936806582	1471936806685	i	73
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67725	1471936806790	1471936806893	r	82
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67729	1471936807158	1471936807294	p	80
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67733	1471936807269	1471936807382	o	79
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67735	1471936807494	1471936807605	r	82
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67742	1471936807734	1471936807845	t	84
+165	1372	They spent about two hours at Larnaca airport.	They spent about two hours at Larnaca airport.	67743	1471936808302	1471936808398	.	190
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	67838	1471936810517	1471936810758	SHIFT	16
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	67839	1471936810702	1471936810821	I	73
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	67840	1471936810966	1471936811086	 	32
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	67841	1471936811166	1471936811254	n	78
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	67842	1471936811342	1471936811446	e	69
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	67843	1471936811517	1471936811622	e	69
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	67898	1471936811725	1471936811838	d	68
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	67899	1471936811893	1471936812006	 	32
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	67901	1471936812358	1471936812462	y	89
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	67905	1471936812597	1471936812790	o	79
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	67965	1471936812742	1471936812862	u	85
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	67968	1471936812893	1471936813006	r	82
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	67969	1471936813078	1471936813189	 	32
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	67970	1471936813870	1471936813966	h	72
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	67971	1471936814078	1471936814174	o	79
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	67972	1471936814261	1471936814374	m	77
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	68021	1471936814406	1471936814510	e	69
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	68023	1471936814582	1471936814686	 	32
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	68024	1471936815053	1471936815174	c	67
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	68025	1471936815278	1471936815397	e	69
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	68027	1471936815518	1471936815606	l	76
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	68048	1471936815655	1471936815733	l	76
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	68049	1471936815805	1471936815933	 	32
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	68051	1471936816013	1471936816101	o	79
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	68053	1471936816141	1471936816237	r	82
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	68055	1471936816326	1471936816437	 	32
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	68100	1471936817101	1471936817221	w	87
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	68102	1471936817319	1471936817414	h	72
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	68104	1471936817462	1471936817582	a	65
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	68108	1471936817644	1471936817733	t	84
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	68112	1471936817862	1471936817966	e	69
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	68155	1471936818174	1471936818269	v	86
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	68156	1471936818302	1471936818406	e	69
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	68157	1471936818446	1471936818550	r	82
+165	1385	I need your home cell or whatever.	I need your home cell or whatever.	68158	1471936819038	1471936819126	.	190
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68318	1471936821389	1471936821702	SHIFT	16
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68317	1471936821551	1471936821670	V	86
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68319	1471936821725	1471936821865	a	65
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68321	1471936821942	1471936822046	l	76
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68324	1471936822845	1471936822966	e	69
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68326	1471936823134	1471936823246	r	82
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68391	1471936824086	1471936824174	i	73
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68392	1471936824269	1471936824382	e	69
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68394	1471936824662	1471936824766	,	188
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68395	1471936824893	1471936824990	 	32
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68397	1471936825166	1471936825422	SHIFT	16
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68446	1471936825366	1471936825485	I	73
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68448	1471936825622	1471936825725	 	32
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68449	1471936825934	1471936826053	s	83
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68450	1471936826158	1471936826261	h	72
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68452	1471936826366	1471936826534	o	79
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68475	1471936826494	1471936826622	u	85
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68477	1471936826718	1471936826830	l	76
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68479	1471936826853	1471936826981	d	68
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68481	1471936827038	1471936827158	 	32
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68483	1471936827429	1471936827517	h	72
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68486	1471936827573	1471936827685	a	65
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68528	1471936827758	1471936827861	v	86
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68533	1471936827893	1471936828013	e	69
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68538	1471936828086	1471936828190	 	32
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68553	1471936828614	1471936829110	SHIFT	16
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68546	1471936828958	1471936829069	G	71
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68558	1471936829294	1471936829414	r	82
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68621	1471936829565	1471936829662	e	69
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68626	1471936829733	1471936829830	e	69
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68631	1471936830637	1471936830742	l	76
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68635	1471936830901	1471936831006	e	69
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68639	1471936831181	1471936831277	y	89
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68676	1471936831445	1471936831557	 	32
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68678	1471936832030	1471936832134	o	79
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68681	1471936832229	1471936832334	n	78
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68684	1471936832437	1471936832550	 	32
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68687	1471936832622	1471936832893	SHIFT	16
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68778	1471936832814	1471936832949	M	188
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68780	1471936833349	1471936833454	BKSP	8
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68783	1471936833623	1471936833710	BKSP	8
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68786	1471936834214	1471936834502	SHIFT	16
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68789	1471936834422	1471936834542	M	77
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68792	1471936834662	1471936834766	o	79
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68798	1471936834862	1471936834966	n	78
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68799	1471936835326	1471936835454	d	68
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68802	1471936835518	1471936835653	a	65
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68815	1471936835662	1471936835773	y	89
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68816	1471936835870	1471936835998	 	32
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68818	1471936836358	1471936836463	f	70
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68820	1471936836534	1471936836630	o	79
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68822	1471936836670	1471936836782	r	82
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68870	1471936836813	1471936836927	 	32
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68873	1471936837038	1471936837317	SHIFT	16
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68876	1471936837214	1471936837325	A	65
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68878	1471936837406	1471936837510	u	85
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68880	1471936837654	1471936837750	g	71
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68881	1471936837861	1471936837958	u	85
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68959	1471936838070	1471936838181	e	69
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68961	1471936838349	1471936838494	s	83
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68963	1471936839166	1471936839277	BKSP	8
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68964	1471936839454	1471936839557	BKSP	8
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68965	1471936839830	1471936839933	s	83
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68967	1471936840013	1471936840101	t	84
+165	1394	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	68970	1471936840830	1471936840918	.	190
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69054	1471936842893	1471936843357	SHIFT	16
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69058	1471936843197	1471936843365	T	84
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69060	1471936843469	1471936843574	h	72
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69061	1471936843605	1471936843702	e	69
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69062	1471936843774	1471936843878	 	32
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69063	1471936844422	1471936844533	a	65
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69095	1471936844702	1471936844838	c	67
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69097	1471936844894	1471936845013	c	67
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69099	1471936845030	1471936845134	o	79
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69101	1471936845342	1471936845437	r	82
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69104	1471936845909	1471936846029	d	68
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69128	1471936846126	1471936846246	 	32
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69131	1471936846645	1471936846742	w	87
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69134	1471936846918	1471936847062	a	65
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69137	1471936847149	1471936847302	s	83
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69140	1471936847397	1471936847510	 	32
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69191	1471936848302	1471936848397	d	68
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69192	1471936848557	1471936848670	u	85
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69193	1471936848765	1471936848870	e	69
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69194	1471936849038	1471936849141	 	32
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69195	1471936849566	1471936849677	t	84
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69252	1471936849758	1471936849853	o	79
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69255	1471936850013	1471936850086	 	32
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69258	1471936850958	1471936851053	h	72
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69262	1471936851078	1471936851206	a	65
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69267	1471936852054	1471936852141	v	86
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69293	1471936852214	1471936852326	e	69
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69294	1471936852462	1471936852557	 	32
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69295	1471936853054	1471936853149	c	67
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69296	1471936853214	1471936853317	o	79
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69297	1471936853397	1471936853510	m	77
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69317	1471936853557	1471936853654	e	69
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69319	1471936853765	1471936853885	 	32
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69321	1471936854374	1471936854469	i	73
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69323	1471936854567	1471936854677	n	78
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69325	1471936855062	1471936855181	t	84
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69366	1471936855229	1471936855334	o	79
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69367	1471936855486	1471936855613	 	32
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69368	1471936856342	1471936856437	e	69
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69369	1471936856702	1471936856798	f	70
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69370	1471936856870	1471936856973	f	70
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69409	1471936857109	1471936857238	e	69
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69412	1471936857406	1471936857597	c	67
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69414	1471936857542	1471936857677	t	84
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69416	1471936858038	1471936858141	 	32
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69418	1471936858486	1471936858582	o	79
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69465	1471936858790	1471936858885	v	86
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69467	1471936858950	1471936859053	e	69
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69468	1471936859134	1471936859247	r	82
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69470	1471936859677	1471936859782	n	78
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69471	1471936859862	1471936859966	i	73
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69510	1471936860245	1471936860342	g	71
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69512	1471936860438	1471936860550	h	72
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69513	1471936860685	1471936860773	t	84
+165	1407	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	69515	1471936861614	1471936861710	.	190
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69611	1471936865760	1471936866016	SHIFT	16
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69612	1471936865935	1471936866064	J	74
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69613	1471936866113	1471936866231	a	65
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69615	1471936866263	1471936866359	n	78
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69617	1471936866424	1471936866528	e	69
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69619	1471936867240	1471936867328	,	188
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69642	1471936867431	1471936867536	 	32
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69644	1471936867639	1471936867920	SHIFT	16
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69643	1471936867807	1471936867912	W	87
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69645	1471936868024	1471936868112	h	72
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69646	1471936868143	1471936868264	a	65
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69648	1471936869152	1471936869248	t	84
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69685	1471936869424	1471936869527	 	32
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69687	1471936869712	1471936869847	a	65
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69689	1471936871000	1471936871095	b	66
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69691	1471936871216	1471936871408	o	79
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69743	1471936871376	1471936871496	u	85
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69745	1471936871616	1471936871720	n	78
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69748	1471936871776	1471936871896	t	84
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69750	1471936872336	1471936872447	BKSP	8
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69752	1471936872496	1471936872599	BKSP	8
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69753	1471936873496	1471936873607	t	84
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69754	1471936873744	1471936873847	 	32
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69755	1471936874392	1471936874496	t	84
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69773	1471936874592	1471936874704	h	72
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69775	1471936874752	1471936874864	i	73
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69776	1471936874920	1471936875032	s	83
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69777	1471936875048	1471936875168	 	32
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69829	1471936875592	1471936875855	SHIFT	16
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69778	1471936875728	1471936875847	T	84
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69830	1471936876008	1471936876120	h	72
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69831	1471936877072	1471936877160	u	85
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69832	1471936877536	1471936877624	r	82
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69833	1471936877855	1471936877960	s	83
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69834	1471936878320	1471936878448	d	68
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69873	1471936878519	1471936878679	a	65
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69874	1471936878672	1471936878784	y	89
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69875	1471936879471	1471936879576	 	32
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69876	1471936879841	1471936879952	f	70
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69877	1471936880023	1471936880120	o	79
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69938	1471936880191	1471936880271	r	82
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69940	1471936880408	1471936880456	r	82
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69942	1471936881128	1471936881223	BKSP	8
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69944	1471936881528	1471936881634	 	32
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69946	1471936882512	1471936882616	l	76
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	69948	1471936882752	1471936882855	u	85
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	70000	1471936882984	1471936883088	n	78
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	70001	1471936883208	1471936883328	c	67
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	70002	1471936883336	1471936883447	h	72
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	70003	1471936883864	1471936884216	SHIFT	16
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	70004	1471936884120	1471936884271	>	190
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	70005	1471936884576	1471936884679	BKSP	8
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	70006	1471936885360	1471936885584	SHIFT	16
+165	1420	Jane, what about this Thursday for lunch?	Jane, What about this Thursday for lunch?	70017	1471936885519	1471936885680	?	191
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70096	1471936888760	1471936889015	SHIFT	16
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70099	1471936888944	1471936889072	I	73
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70102	1471936889208	1471936889328	 	32
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70105	1471936889471	1471936889568	d	68
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70107	1471936889633	1471936889728	i	73
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70108	1471936889816	1471936889920	d	68
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70160	1471936891112	1471936891216	n	78
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70164	1471936891607	1471936891712	'	222
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70165	1471936891904	1471936892015	t	84
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70167	1471936892168	1471936892280	 	32
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70169	1471936892767	1471936892872	u	85
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70192	1471936892960	1471936893072	n	78
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70193	1471936893128	1471936893257	d	68
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70194	1471936893344	1471936893448	e	69
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70195	1471936893544	1471936893656	r	82
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70197	1471936893752	1471936893872	s	83
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70267	1471936893983	1471936894128	a	65
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70268	1471936894143	1471936894263	t	84
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70269	1471936894968	1471936895062	BKSP	8
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70270	1471936895129	1471936895216	BKSP	8
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70271	1471936895992	1471936896088	t	84
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70272	1471936896143	1471936896263	a	65
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70273	1471936896391	1471936896487	n	78
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70306	1471936896674	1471936896784	d	68
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70308	1471936896880	1471936896992	 	32
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70310	1471936897479	1471936897632	w	87
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70312	1471936897584	1471936897727	e	69
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70313	1471936897800	1471936897904	 	32
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70338	1471936897960	1471936898128	w	87
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70339	1471936898112	1471936898256	e	69
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70341	1471936898416	1471936898544	r	82
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70343	1471936898559	1471936898672	e	69
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70345	1471936898776	1471936898872	 	32
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70366	1471936899312	1471936899408	b	66
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70369	1471936899512	1471936899608	o	79
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70372	1471936899761	1471936899847	r	82
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70376	1471936899920	1471936900015	r	82
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70380	1471936900080	1471936900183	o	79
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70400	1471936900712	1471936900832	w	87
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70401	1471936900855	1471936900968	i	73
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70402	1471936901040	1471936901161	n	78
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70403	1471936901152	1471936901296	g	71
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70404	1471936901336	1471936901448	 	32
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70453	1471936901984	1471936902103	t	84
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70455	1471936902176	1471936902296	h	72
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70457	1471936902304	1471936902424	e	69
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70461	1471936902519	1471936902632	m	77
+165	1429	I didn't understand we were borrowing them.	I didn't understand we were borrowing them.	70463	1471936902920	1471936903023	.	190
+165	1436	I spoke with Greg.	I spoke with Greg.	70545	1471936905049	1471936905296	SHIFT	16
+165	1436	I spoke with Greg.	I spoke with Greg.	70547	1471936905232	1471936905368	I	73
+165	1436	I spoke with Greg.	I spoke with Greg.	70549	1471936905488	1471936905616	 	32
+165	1436	I spoke with Greg.	I spoke with Greg.	70551	1471936905712	1471936905840	s	83
+165	1436	I spoke with Greg.	I spoke with Greg.	70555	1471936907160	1471936907263	p	80
+165	1436	I spoke with Greg.	I spoke with Greg.	70558	1471936907320	1471936907416	o	79
+165	1436	I spoke with Greg.	I spoke with Greg.	70602	1471936907664	1471936907760	k	75
+165	1436	I spoke with Greg.	I spoke with Greg.	70605	1471936907784	1471936907920	e	69
+165	1436	I spoke with Greg.	I spoke with Greg.	70607	1471936907975	1471936908095	 	32
+165	1436	I spoke with Greg.	I spoke with Greg.	70609	1471936908800	1471936908920	w	87
+165	1436	I spoke with Greg.	I spoke with Greg.	70611	1471936909000	1471936909103	i	73
+165	1436	I spoke with Greg.	I spoke with Greg.	70657	1471936909200	1471936909311	t	84
+165	1436	I spoke with Greg.	I spoke with Greg.	70658	1471936909328	1471936909432	h	72
+165	1436	I spoke with Greg.	I spoke with Greg.	70659	1471936909568	1471936909696	 	32
+165	1436	I spoke with Greg.	I spoke with Greg.	70661	1471936909847	1471936910256	SHIFT	16
+165	1436	I spoke with Greg.	I spoke with Greg.	70660	1471936910080	1471936910191	G	71
+165	1436	I spoke with Greg.	I spoke with Greg.	70662	1471936910432	1471936910567	r	82
+165	1436	I spoke with Greg.	I spoke with Greg.	70695	1471936911144	1471936911263	e	69
+165	1436	I spoke with Greg.	I spoke with Greg.	70696	1471936912136	1471936912248	g	71
+165	1436	I spoke with Greg.	I spoke with Greg.	70697	1471936912440	1471936912544	.	190
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	70809	1471936915128	1471936915359	SHIFT	16
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	70810	1471936915296	1471936915416	I	73
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	70811	1471936915536	1471936915648	 	32
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	70812	1471936915712	1471936915832	a	65
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	70813	1471936915847	1471936915952	m	77
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	70815	1471936916076	1471936916176	 	32
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	70854	1471936916408	1471936916504	o	79
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	70855	1471936916616	1471936916720	n	78
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	70856	1471936916816	1471936916935	 	32
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	70857	1471936917000	1471936917120	a	65
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	70858	1471936917528	1471936917632	p	80
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	70888	1471936917721	1471936917824	l	76
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	70889	1471936917896	1471936918008	a	65
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	70892	1471936918055	1471936918160	n	78
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	70895	1471936918256	1471936918368	e	69
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	70897	1471936918559	1471936918656	,	188
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	70989	1471936918760	1471936918872	 	32
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	70992	1471936918992	1471936919400	SHIFT	16
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	70995	1471936919832	1471936919928	BKSP	8
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	70998	1471936920016	1471936920095	BKSP	8
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	71001	1471936920176	1471936920248	BKSP	8
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	71003	1471936920328	1471936920400	BKSP	8
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	71005	1471936920472	1471936920544	BKSP	8
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	71006	1471936920616	1471936920688	BKSP	8
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	71007	1471936920760	1471936920840	BKSP	8
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	71008	1471936921656	1471936921752	 	32
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	71009	1471936921920	1471936922024	p	80
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	71010	1471936922088	1471936922200	l	76
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	71011	1471936922223	1471936922351	a	65
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	71054	1471936922424	1471936922536	n	78
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	71055	1471936923336	1471936923440	e	69
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	71056	1471936923760	1471936923864	,	188
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	71057	1471936923968	1471936924071	 	32
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	71058	1471936924120	1471936924328	SHIFT	16
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	71086	1471936924280	1471936924391	S	83
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	71089	1471936924408	1471936924517	o	79
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	71091	1471936924696	1471936924801	r	82
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	71093	1471936924840	1471936924952	r	82
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	71094	1471936925216	1471936925311	y	89
+165	1443	I am on a plane, sorry.	I am on a plane, Sorry.	71095	1471936925915	1471936926003	.	190
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71194	1471936929180	1471936929595	SHIFT	16
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71196	1471936929515	1471936929642	H	72
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71198	1471936929707	1471936929820	e	69
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71200	1471936929867	1471936929978	 	32
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71202	1471936930059	1471936930155	i	73
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71204	1471936930243	1471936930347	s	83
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71240	1471936930371	1471936930483	 	32
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71242	1471936930947	1471936931058	c	67
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71244	1471936931131	1471936931226	l	76
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71246	1471936931307	1471936931394	o	79
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71248	1471936931443	1471936931627	s	83
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71285	1471936931595	1471936931731	e	69
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71286	1471936931779	1471936931899	 	32
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71287	1471936932211	1471936932339	t	84
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71288	1471936932363	1471936932451	o	79
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71289	1471936932556	1471936932682	 	32
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71290	1471936932707	1471936932819	f	70
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71327	1471936932947	1471936933043	u	85
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71332	1471936933195	1471936933283	l	76
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71336	1471936933331	1471936933443	l	76
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71340	1471936933547	1471936933642	 	32
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71343	1471936934027	1471936934139	s	83
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71361	1471936934251	1471936934347	p	80
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71364	1471936934459	1471936934571	e	69
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71368	1471936934637	1471936934739	e	69
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71371	1471936934843	1471936934955	d	68
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71374	1471936935507	1471936935595	,	188
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71431	1471936935715	1471936935819	 	32
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71434	1471936935947	1471936936291	SHIFT	16
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71437	1471936936155	1471936936307	S	83
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71439	1471936937163	1471936937259	BKSP	8
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71441	1471936937795	1471936937906	s	83
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71445	1471936938003	1471936938115	a	65
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71448	1471936938266	1471936938379	y	89
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71488	1471936938474	1471936938595	s	83
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71492	1471936938675	1471936938795	 	32
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71497	1471936939219	1471936939323	t	84
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71500	1471936939411	1471936939507	h	72
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71503	1471936939562	1471936939691	e	69
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71524	1471936939723	1471936939835	 	32
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71528	1471936940123	1471936940491	SHIFT	16
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71526	1471936940331	1471936940474	C	67
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71530	1471936940619	1471936940723	h	72
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71606	1471936940771	1471936940883	s	65
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71609	1471936941491	1471936941587	BKSP	8
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71612	1471936942507	1471936942619	r	82
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71614	1471936943307	1471936943411	l	76
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71618	1471936943491	1471936943595	o	79
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71621	1471936943795	1471936943899	t	84
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71625	1471936943938	1471936944043	t	84
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71654	1471936944051	1471936944171	e	69
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71655	1471936944611	1471936944723	 	32
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71656	1471936945163	1471936945380	SHIFT	16
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71657	1471936945323	1471936945451	O	79
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71658	1471936945867	1471936945987	b	66
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71659	1471936946195	1471936946315	s	83
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71694	1471936946355	1471936946474	e	69
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71695	1471936946563	1471936946675	r	82
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71696	1471936947323	1471936947419	v	86
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71697	1471936947483	1471936947595	e	69
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71698	1471936947611	1471936947723	r	82
+165	1454	He is close to full speed, says the Charlotte Observer.	He is close to full speed, says the Charlotte Observer.	71712	1471936948179	1471936948275	.	190
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71781	1471936951013	1471936951259	SHIFT	16
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71783	1471936951187	1471936951324	P	80
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71787	1471936951411	1471936951507	l	76
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71791	1471936951523	1471936951651	e	69
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71796	1471936951763	1471936951995	a	65
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71826	1471936951939	1471936952203	s	83
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71827	1471936952131	1471936952274	e	69
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71828	1471936952354	1471936952459	 	32
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71829	1471936952602	1471936952707	l	76
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71830	1471936952764	1471936952890	e	69
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71831	1471936953091	1471936953195	t	84
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71866	1471936953323	1471936953419	 	32
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71868	1471936953539	1471936953635	m	77
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71871	1471936953715	1471936953829	e	69
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71874	1471936953875	1471936953971	 	32
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71877	1471936954787	1471936954875	k	75
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71915	1471936955371	1471936955459	n	78
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71916	1471936955563	1471936955651	o	79
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71917	1471936955810	1471936955931	w	87
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71918	1471936956011	1471936956106	 	32
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71919	1471936956619	1471936956715	i	73
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71945	1471936956787	1471936956890	f	70
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71948	1471936956947	1471936957043	 	32
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71954	1471936957395	1471936957483	t	89
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	71959	1471936957515	1471936957715	o	79
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72031	1471936958035	1471936958123	BKSP	8
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72033	1471936958651	1471936958763	BKSP	8
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72035	1471936959180	1471936959266	o	79
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72037	1471936959339	1471936959436	y	89
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72041	1471936959987	1471936960083	BKSP	8
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72045	1471936960819	1471936960915	u	85
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72049	1471936961044	1471936961139	 	32
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72055	1471936961235	1471936961323	n	78
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72063	1471936961371	1471936961482	e	69
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72064	1471936961555	1471936961667	e	69
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72065	1471936961779	1471936961890	d	68
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72066	1471936961972	1471936962075	 	32
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72067	1471936962163	1471936962299	a	65
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72089	1471936962435	1471936962539	n	78
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72090	1471936962675	1471936962795	y	89
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72091	1471936962923	1471936963035	 	32
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72092	1471936963083	1471936963219	a	65
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72093	1471936963547	1471936963667	d	68
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72130	1471936963723	1471936963843	d	68
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72132	1471936963883	1471936963979	i	73
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72133	1471936964883	1471936964987	t	84
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72135	1471936965092	1471936965186	i	73
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72137	1471936965283	1471936965371	o	79
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72164	1471936965491	1471936965587	n	78
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72167	1471936965635	1471936965770	a	65
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72169	1471936965811	1471936965915	l	76
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72171	1471936966059	1471936966171	 	32
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72172	1471936966548	1471936966642	i	73
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72190	1471936966731	1471936966835	n	78
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72192	1471936966971	1471936967067	f	70
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72194	1471936967155	1471936967251	o	79
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72196	1471936967315	1471936967411	r	82
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72198	1471936967459	1471936967563	m	77
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72200	1471936967571	1471936967691	a	65
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72202	1471936967779	1471936967875	t	84
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72205	1471936967851	1471936967955	i	73
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72208	1471936968027	1471936968131	o	79
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72213	1471936968195	1471936968307	n	78
+165	1465	Please let me know if you need any additional information.	Please let me know if you need any additional information.	72230	1471936968627	1471936968715	.	190
+165	1472	I thought you were on 6.	I thought you were on 6.	72269	1471936970691	1471936970931	SHIFT	16
+165	1472	I thought you were on 6.	I thought you were on 6.	72272	1471936970875	1471936971003	I	73
+165	1472	I thought you were on 6.	I thought you were on 6.	72275	1471936971124	1471936971219	 	32
+165	1472	I thought you were on 6.	I thought you were on 6.	72278	1471936971347	1471936971459	t	84
+165	1472	I thought you were on 6.	I thought you were on 6.	72280	1471936971539	1471936971635	h	72
+165	1472	I thought you were on 6.	I thought you were on 6.	72282	1471936971739	1471936971947	o	79
+165	1472	I thought you were on 6.	I thought you were on 6.	72312	1471936971899	1471936972018	u	85
+165	1472	I thought you were on 6.	I thought you were on 6.	72313	1471936972483	1471936972596	g	71
+165	1472	I thought you were on 6.	I thought you were on 6.	72317	1471936972667	1471936972763	h	72
+165	1472	I thought you were on 6.	I thought you were on 6.	72319	1471936972843	1471936972963	t	84
+165	1472	I thought you were on 6.	I thought you were on 6.	72320	1471936973043	1471936973146	 	32
+165	1472	I thought you were on 6.	I thought you were on 6.	72321	1471936973763	1471936973859	y	89
+165	1472	I thought you were on 6.	I thought you were on 6.	72329	1471936974011	1471936974219	o	79
+165	1472	I thought you were on 6.	I thought you were on 6.	72330	1471936974171	1471936974283	u	85
+165	1472	I thought you were on 6.	I thought you were on 6.	72331	1471936974419	1471936974523	 	32
+165	1472	I thought you were on 6.	I thought you were on 6.	72332	1471936974651	1471936974850	w	87
+165	1472	I thought you were on 6.	I thought you were on 6.	72374	1471936974787	1471936974963	e	69
+165	1472	I thought you were on 6.	I thought you were on 6.	72375	1471936975827	1471936976027	r	82
+165	1472	I thought you were on 6.	I thought you were on 6.	72376	1471936976003	1471936976163	e	69
+165	1472	I thought you were on 6.	I thought you were on 6.	72377	1471936976379	1471936976491	 	32
+165	1472	I thought you were on 6.	I thought you were on 6.	72379	1471936976819	1471936976907	o	79
+165	1472	I thought you were on 6.	I thought you were on 6.	72381	1471936977059	1471936977163	n	78
+165	1472	I thought you were on 6.	I thought you were on 6.	72400	1471936977642	1471936977739	 	32
+165	1472	I thought you were on 6.	I thought you were on 6.	72401	1471936977932	1471936978035	6	54
+165	1472	I thought you were on 6.	I thought you were on 6.	72402	1471936978363	1471936978459	.	190
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72455	1471936980419	1471936980667	SHIFT	16
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72456	1471936980602	1471936980730	I	73
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72457	1471936980850	1471936980964	 	32
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72458	1471936981043	1471936981171	w	87
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72459	1471936981300	1471936981475	a	65
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72460	1471936981507	1471936981691	s	83
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72476	1471936981764	1471936981883	 	32
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72477	1471936982147	1471936982274	s	83
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72478	1471936982339	1471936982474	e	69
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72479	1471936982571	1471936982675	l	76
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72480	1471936982779	1471936982883	f	70
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72497	1471936983027	1471936983124	i	73
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72498	1471936983220	1471936983363	s	83
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72499	1471936983515	1471936983611	h	72
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72502	1471936983739	1471936983851	 	32
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72504	1471936984331	1471936984427	i	73
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72518	1471936984515	1471936984627	n	78
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72519	1471936984723	1471936984835	 	32
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72520	1471936985140	1471936985275	w	87
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72521	1471936985363	1471936985451	h	72
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72522	1471936985499	1471936985620	a	65
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72557	1471936985683	1471936985795	t	84
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72559	1471936985942	1471936986062	 	32
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72560	1471936986502	1471936986582	i	73
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72562	1471936986894	1471936986990	BKSP	8
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72563	1471936987702	1471936987926	SHIFT	16
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72565	1471936987878	1471936987998	I	73
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72566	1471936988126	1471936988254	 	32
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72578	1471936988286	1471936988422	d	68
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72580	1471936988414	1471936988518	i	73
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72582	1471936988566	1471936988678	d	68
+165	1477	I was selfish in what I did.	I was selfish in what I did.	72586	1471936989055	1471936989158	.	190

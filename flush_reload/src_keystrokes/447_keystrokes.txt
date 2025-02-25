@@ -1,0 +1,780 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201341	1471941184795	1471941184859	i	73
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201344	1471941185270	1471941185342	BKSP	8
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201348	1471941185440	1471941185757	SHIFT	16
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201353	1471941185688	1471941185757	I	73
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201359	1471941185926	1471941186002	 	32
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201365	1471941186041	1471941186189	w	87
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201372	1471941186205	1471941186289	i	73
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201398	1471941186499	1471941186559	l	76
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201402	1471941186654	1471941186708	l	76
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201405	1471941187142	1471941187219	 	32
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201409	1471941187489	1471941187559	n	78
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201413	1471941187641	1471941187724	o	79
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201450	1471941187773	1471941187858	t	84
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201451	1471941187942	1471941188008	 	32
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201453	1471941189005	1471941189058	m	77
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201457	1471941189137	1471941189223	a	65
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201460	1471941189271	1471941189352	k	75
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201490	1471941189394	1471941189487	e	69
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201493	1471941189534	1471941189607	 	32
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201494	1471941189972	1471941190056	t	84
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201497	1471941190103	1471941190156	h	72
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201501	1471941190188	1471941190272	e	69
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201535	1471941190372	1471941190423	 	32
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201537	1471941190889	1471941190953	m	77
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201538	1471941191093	1471941191173	e	69
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201539	1471941191457	1471941191541	e	69
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201540	1471941191677	1471941191740	t	84
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201545	1471941191825	1471941191891	i	73
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201547	1471941191964	1471941192038	n	78
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201549	1471941192080	1471941192166	g	71
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201552	1471941192229	1471941192292	 	32
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201554	1471941192409	1471941192465	a	65
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201609	1471941192797	1471941192889	t	84
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201611	1471941193305	1471941193362	 	32
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201612	1471941193721	1471941193774	1	49
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201613	1471941194684	1471941194741	 	32
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201672	1471941194868	1471941195505	SHIFT	16
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201614	1471941195090	1471941195156	P	80
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201668	1471941195293	1471941195353	M	77
+447	4213	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	201676	1471941195968	1471941196038	.	190
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201803	1471941199332	1471941199563	SHIFT	16
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201804	1471941199519	1471941199666	T	84
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201807	1471941199697	1471941199835	e	69
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201810	1471941199898	1471941199986	s	83
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201813	1471941200069	1471941200151	t	84
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201815	1471941200672	1471941200739	s	83
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201837	1471941200984	1471941201038	 	32
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201839	1471941201185	1471941201422	SHIFT	16
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201841	1471941201369	1471941201422	M	77
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201844	1471941201553	1471941201646	o	79
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201846	1471941201742	1471941201805	n	78
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201849	1471941201938	1471941202123	d	68
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201877	1471941202038	1471941202193	a	65
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201878	1471941202180	1471941202269	y	89
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201879	1471941202641	1471941202705	 	32
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201881	1471941202784	1471941202859	s	83
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201883	1471941202928	1471941203003	h	72
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201885	1471941203130	1471941203246	o	79
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201930	1471941203378	1471941203500	u	85
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201931	1471941203848	1471941203905	BKSP	8
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201932	1471941204682	1471941204764	w	87
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201933	1471941205553	1471941205619	e	69
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201935	1471941205737	1471941205805	d	68
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201937	1471941205915	1471941205985	 	32
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201961	1471941206344	1471941206404	n	78
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201965	1471941206500	1471941206577	o	79
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201968	1471941206692	1471941206762	 	32
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201970	1471941206924	1471941207002	s	83
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	201973	1471941207150	1471941207353	t	84
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202013	1471941207268	1471941207418	r	82
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202015	1471941207500	1471941207569	u	85
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202017	1471941208153	1471941208269	c	67
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202019	1471941209000	1471941209053	t	84
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202022	1471941209153	1471941209203	u	85
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202024	1471941209421	1471941209501	r	82
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202058	1471941209710	1471941209785	a	65
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202059	1471941209864	1471941209936	l	76
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202062	1471941210368	1471941210418	 	32
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202064	1471941210885	1471941211057	d	68
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202088	1471941211016	1471941211132	a	65
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202091	1471941211247	1471941211317	m	77
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202094	1471941211401	1471941211477	a	65
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202098	1471941211639	1471941211708	g	71
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202102	1471941211755	1471941211818	e	69
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202106	1471941211955	1471941212033	 	32
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202122	1471941212273	1471941212351	t	84
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202124	1471941212415	1471941212516	o	79
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202126	1471941212632	1471941212702	 	32
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202128	1471941212975	1471941213049	h	72
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202130	1471941213117	1471941213185	i	73
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202150	1471941213284	1471941213352	s	83
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202153	1471941213385	1471941213466	 	32
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202156	1471941214110	1471941214209	s	83
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202159	1471941214241	1471941214310	h	72
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202161	1471941214394	1471941214511	o	79
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202183	1471941214546	1471941214632	u	85
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202186	1471941214745	1471941214833	l	76
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202188	1471941214961	1471941215048	d	68
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202189	1471941215378	1471941215567	e	69
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202206	1471941215502	1471941215632	r	82
+447	4222	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	202207	1471941216732	1471941216801	.	190
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202302	1471941219782	1471941220011	SHIFT	16
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202305	1471941219954	1471941220023	H	72
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202308	1471941220157	1471941220247	e	69
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202312	1471941220360	1471941220428	 	32
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202315	1471941220833	1471941220899	c	67
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202318	1471941220948	1471941221049	o	79
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202340	1471941221116	1471941221183	u	85
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202341	1471941221333	1471941221399	l	76
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202343	1471941221465	1471941221549	d	68
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202345	1471941221633	1471941221698	 	32
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202347	1471941222233	1471941222300	p	80
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202372	1471941222437	1471941222500	i	73
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202373	1471941222619	1471941222682	n	78
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202374	1471941222735	1471941222800	g	71
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202375	1471941222872	1471941222939	 	32
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202376	1471941223249	1471941223333	t	84
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202415	1471941223385	1471941223465	h	72
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202417	1471941223481	1471941223565	e	69
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202418	1471941223628	1471941223700	 	32
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202419	1471941224459	1471941224516	b	66
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202420	1471941224591	1471941224675	a	65
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202456	1471941224780	1471941224832	l	76
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202457	1471941224942	1471941224999	l	76
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202459	1471941225381	1471941225433	 	32
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202461	1471941226081	1471941226166	4	52
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202463	1471941226281	1471941226333	0	48
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202542	1471941226560	1471941226594	 	32
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202544	1471941226928	1471941226982	y	89
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202546	1471941227112	1471941227245	e	69
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202548	1471941227704	1471941227844	a	65
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202550	1471941228129	1471941228182	BKSP	8
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202552	1471941228283	1471941228367	BKSP	8
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202555	1471941228467	1471941228583	a	65
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202607	1471941229034	1471941229099	r	82
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202610	1471941229385	1471941229466	d	68
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202613	1471941229571	1471941229630	s	83
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202615	1471941230539	1471941230595	 	32
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202616	1471941230661	1471941230730	w	87
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202629	1471941230792	1471941230877	i	73
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202631	1471941230955	1471941231014	t	84
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202635	1471941231074	1471941231131	h	72
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202638	1471941231276	1471941231357	 	32
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202640	1471941231479	1471941231564	t	84
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202668	1471941231595	1471941231679	h	72
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202670	1471941231741	1471941231812	e	69
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202672	1471941231878	1471941231946	 	32
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202674	1471941232458	1471941232529	o	79
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202677	1471941232628	1471941232697	u	85
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202734	1471941232776	1471941232847	t	84
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202737	1471941233228	1471941233297	i	73
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202739	1471941234167	1471941234244	BKSP	8
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202742	1471941234397	1471941234480	s	83
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202745	1471941235228	1471941235297	i	73
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202747	1471941235428	1471941235580	d	68
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202782	1471941235516	1471941235649	e	69
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202783	1471941235833	1471941235902	 	32
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202785	1471941236476	1471941236547	o	79
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202787	1471941236601	1471941236700	f	70
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202788	1471941236750	1471941236805	 	32
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202790	1471941237073	1471941237129	h	72
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202817	1471941237211	1471941237278	i	73
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202819	1471941237344	1471941237413	s	83
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202821	1471941237476	1471941237545	 	32
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202822	1471941237860	1471941237929	f	70
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202823	1471941238133	1471941238179	o	79
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202842	1471941238282	1471941238336	o	79
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202848	1471941238418	1471941238478	t	84
+447	4233	He could ping the ball 40 yards with the outside of his foot.	He could ping the ball 40 yards with the outside of his foot.	202851	1471941239098	1471941239161	.	190
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	202955	1471941242092	1471941242361	SHIFT	16
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	202953	1471941242276	1471941242361	I	73
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	202957	1471941242707	1471941242842	t	84
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	202958	1471941242923	1471941242995	'	222
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	202960	1471941243076	1471941243161	s	83
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	202964	1471941243264	1471941243328	 	32
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	202985	1471941243991	1471941244060	i	73
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	202986	1471941244160	1471941244242	n	78
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	202987	1471941244376	1471941244476	c	67
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	202989	1471941244623	1471941244821	r	82
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203013	1471941244776	1471941244893	e	69
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203018	1471941245123	1471941245209	d	68
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203021	1471941246455	1471941246526	i	73
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203026	1471941246655	1471941246726	b	66
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203030	1471941246893	1471941246977	l	76
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203037	1471941247909	1471941247980	y	89
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203069	1471941248172	1471941248241	 	32
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203071	1471941248925	1471941249076	d	68
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203074	1471941249008	1471941249125	e	69
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203076	1471941249240	1471941249306	m	77
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203078	1471941249440	1471941249509	a	65
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203096	1471941249585	1471941249641	n	78
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203097	1471941249756	1471941249856	d	68
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203098	1471941250055	1471941250125	i	73
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203099	1471941250212	1471941250294	n	78
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203100	1471941250317	1471941250417	g	71
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203136	1471941250473	1471941250543	 	32
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203138	1471941251078	1471941251124	h	72
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203140	1471941251193	1471941251344	e	69
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203142	1471941251303	1471941251472	r	82
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203168	1471941251434	1471941251580	e	69
+447	4247	It's incredibly demanding here.	It's incredibly demanding here.	203170	1471941252099	1471941252158	.	190
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203301	1471941254972	1471941255225	SHIFT	16
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203298	1471941255156	1471941255225	I	73
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203304	1471941255322	1471941255406	 	32
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203306	1471941255559	1471941255632	h	72
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203308	1471941255954	1471941256190	o	79
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203332	1471941256117	1471941256239	p	80
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203335	1471941256301	1471941256404	e	69
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203338	1471941256454	1471941256532	 	32
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203342	1471941257105	1471941257189	e	69
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203346	1471941257304	1471941257405	v	86
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203348	1471941257488	1471941257671	e	69
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203384	1471941257620	1471941257743	r	82
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203385	1471941258208	1471941258257	y	89
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203386	1471941258410	1471941258490	t	84
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203387	1471941258556	1471941258655	h	72
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203389	1471941258704	1471941258789	i	73
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203392	1471941258873	1471941258938	n	78
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203448	1471941258959	1471941259057	g	71
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203450	1471941259157	1471941259238	 	32
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203453	1471941259937	1471941260006	w	87
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203456	1471941260093	1471941260159	o	79
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203459	1471941260277	1471941260362	r	82
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203499	1471941260715	1471941260773	k	75
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203502	1471941260870	1471941261043	e	69
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203504	1471941260987	1471941261087	r	82
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203507	1471941261573	1471941261637	BKSP	8
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203512	1471941261720	1471941261772	BKSP	8
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203515	1471941262338	1471941262407	e	69
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203518	1471941262520	1471941262573	d	68
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203528	1471941262679	1471941262739	 	32
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203531	1471941263148	1471941263200	o	79
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203534	1471941263283	1471941263354	u	85
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203537	1471941263421	1471941263505	t	84
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203540	1471941263583	1471941263655	 	32
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203553	1471941264120	1471941264188	o	79
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203554	1471941264283	1471941264339	k	75
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203555	1471941264489	1471941264587	a	65
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203556	1471941264589	1471941264672	y	89
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203557	1471941264852	1471941264922	 	32
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203592	1471941265372	1471941265453	w	87
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203594	1471941265568	1471941265654	i	73
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203596	1471941265752	1471941265837	t	84
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203598	1471941265868	1471941265937	h	72
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203599	1471941266039	1471941266137	 	32
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203611	1471941266324	1471941266409	y	89
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203613	1471941266493	1471941266593	o	79
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203615	1471941266655	1471941266736	u	85
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203619	1471941266811	1471941266895	r	82
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203622	1471941266974	1471941267043	 	32
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203637	1471941267199	1471941267351	r	82
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203639	1471941267317	1471941267436	e	69
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203641	1471941267482	1471941267576	n	78
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203643	1471941267607	1471941267687	t	84
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203647	1471941267757	1471941267843	 	32
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203665	1471941268176	1471941268238	BKSP	8
+447	4254	I hope everything worked out okay with your rent.	I hope everything worked out okay with your rent.	203667	1471941268519	1471941268588	.	190
+447	4265	Thanks for sending this.	Thanks for sending this.	203792	1471941271514	1471941271736	SHIFT	16
+447	4265	Thanks for sending this.	Thanks for sending this.	203795	1471941271669	1471941271785	T	84
+447	4265	Thanks for sending this.	Thanks for sending this.	203799	1471941271869	1471941271954	h	72
+447	4265	Thanks for sending this.	Thanks for sending this.	203805	1471941272032	1471941272118	a	65
+447	4265	Thanks for sending this.	Thanks for sending this.	203811	1471941272190	1471941272274	n	78
+447	4265	Thanks for sending this.	Thanks for sending this.	203815	1471941272337	1471941272417	k	75
+447	4265	Thanks for sending this.	Thanks for sending this.	203862	1471941272477	1471941272559	s	83
+447	4265	Thanks for sending this.	Thanks for sending this.	203864	1471941272932	1471941272987	 	32
+447	4265	Thanks for sending this.	Thanks for sending this.	203866	1471941273164	1471941273193	o	79
+447	4265	Thanks for sending this.	Thanks for sending this.	203867	1471941273549	1471941273602	BKSP	8
+447	4265	Thanks for sending this.	Thanks for sending this.	203868	1471941273669	1471941273752	f	70
+447	4265	Thanks for sending this.	Thanks for sending this.	203870	1471941274505	1471941274570	o	79
+447	4265	Thanks for sending this.	Thanks for sending this.	203902	1471941274644	1471941274718	r	82
+447	4265	Thanks for sending this.	Thanks for sending this.	203903	1471941274811	1471941274870	 	32
+447	4265	Thanks for sending this.	Thanks for sending this.	203904	1471941275465	1471941275520	s	83
+447	4265	Thanks for sending this.	Thanks for sending this.	203905	1471941275632	1471941275702	e	69
+447	4265	Thanks for sending this.	Thanks for sending this.	203906	1471941275817	1471941275901	n	78
+447	4265	Thanks for sending this.	Thanks for sending this.	203918	1471941275918	1471941276001	d	68
+447	4265	Thanks for sending this.	Thanks for sending this.	203920	1471941276064	1471941276133	i	73
+447	4265	Thanks for sending this.	Thanks for sending this.	203923	1471941276217	1471941276305	n	78
+447	4265	Thanks for sending this.	Thanks for sending this.	203927	1471941276302	1471941276386	g	71
+447	4265	Thanks for sending this.	Thanks for sending this.	203932	1471941276449	1471941276519	 	32
+447	4265	Thanks for sending this.	Thanks for sending this.	203951	1471941276723	1471941276768	t	84
+447	4265	Thanks for sending this.	Thanks for sending this.	203953	1471941276825	1471941276898	h	72
+447	4265	Thanks for sending this.	Thanks for sending this.	203955	1471941276976	1471941277035	i	73
+447	4265	Thanks for sending this.	Thanks for sending this.	203957	1471941277148	1471941277218	s	83
+447	4265	Thanks for sending this.	Thanks for sending this.	203960	1471941277380	1471941277452	.	190
+447	4270	Because there is traffic.	Because there is traffic.	204087	1471941280549	1471941280822	SHIFT	16
+447	4270	Because there is traffic.	Because there is traffic.	204086	1471941280740	1471941280801	B	66
+447	4270	Because there is traffic.	Because there is traffic.	204088	1471941280974	1471941281050	e	69
+447	4270	Because there is traffic.	Because there is traffic.	204089	1471941281179	1471941281355	c	67
+447	4270	Because there is traffic.	Because there is traffic.	204090	1471941281334	1471941281465	a	65
+447	4270	Because there is traffic.	Because there is traffic.	204092	1471941281534	1471941281600	u	85
+447	4270	Because there is traffic.	Because there is traffic.	204100	1471941281623	1471941281713	s	83
+447	4270	Because there is traffic.	Because there is traffic.	204102	1471941281830	1471941281884	e	69
+447	4270	Because there is traffic.	Because there is traffic.	204104	1471941281997	1471941282050	 	32
+447	4270	Because there is traffic.	Because there is traffic.	204106	1471941282170	1471941282238	t	84
+447	4270	Because there is traffic.	Because there is traffic.	204107	1471941282301	1471941282384	h	72
+447	4270	Because there is traffic.	Because there is traffic.	204115	1471941282458	1471941282624	e	69
+447	4270	Because there is traffic.	Because there is traffic.	204116	1471941282621	1471941282739	r	82
+447	4270	Because there is traffic.	Because there is traffic.	204118	1471941282773	1471941282861	e	69
+447	4270	Because there is traffic.	Because there is traffic.	204119	1471941283048	1471941283116	 	32
+447	4270	Because there is traffic.	Because there is traffic.	204121	1471941283248	1471941283299	i	73
+447	4270	Because there is traffic.	Because there is traffic.	204142	1471941283379	1471941283451	s	83
+447	4270	Because there is traffic.	Because there is traffic.	204143	1471941283564	1471941283648	 	32
+447	4270	Because there is traffic.	Because there is traffic.	204144	1471941284311	1471941284490	t	84
+447	4270	Because there is traffic.	Because there is traffic.	204145	1471941284430	1471941284549	r	82
+447	4270	Because there is traffic.	Because there is traffic.	204146	1471941284696	1471941284796	a	65
+447	4270	Because there is traffic.	Because there is traffic.	204167	1471941285128	1471941285184	f	70
+447	4270	Because there is traffic.	Because there is traffic.	204168	1471941285265	1471941285333	f	70
+447	4270	Because there is traffic.	Because there is traffic.	204169	1471941285412	1471941285482	i	73
+447	4270	Because there is traffic.	Because there is traffic.	204170	1471941285514	1471941285599	c	67
+447	4270	Because there is traffic.	Because there is traffic.	204172	1471941286132	1471941286199	.	190
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204279	1471941289168	1471941289384	SHIFT	16
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204281	1471941289315	1471941289468	T	84
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204284	1471941289515	1471941289594	h	72
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204286	1471941289584	1471941289700	e	69
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204289	1471941289800	1471941289884	 	32
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204291	1471941290250	1471941290313	f	70
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204303	1471941290406	1471941290471	i	73
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204306	1471941290538	1471941290615	r	82
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204309	1471941290742	1471941290814	s	83
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204312	1471941290913	1471941290982	t	84
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204314	1471941291113	1471941291165	 	32
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204388	1471941291413	1471941291831	SHIFT	16
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204389	1471941291762	1471941291862	V	86
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204391	1471941292163	1471941292223	i	73
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204393	1471941292940	1471941293025	e	69
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204395	1471941293156	1471941293244	t	84
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204397	1471941294044	1471941294115	n	78
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204451	1471941294463	1471941294546	a	65
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204452	1471941295222	1471941295270	m	77
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204453	1471941295660	1471941295729	e	69
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204455	1471941295876	1471941295963	s	83
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204457	1471941296060	1471941296114	e	69
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204479	1471941296445	1471941296497	 	32
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204480	1471941296714	1471941296930	t	84
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204482	1471941296861	1471941296977	r	82
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204484	1471941297145	1471941297230	a	65
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204487	1471941297330	1471941297397	i	73
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204544	1471941297493	1471941297561	n	78
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204547	1471941297839	1471941297913	e	69
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204549	1471941298158	1471941298229	s	83
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204552	1471941298712	1471941298779	BKSP	8
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204555	1471941298829	1471941298909	e	69
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204558	1471941299045	1471941299112	 	32
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204598	1471941299675	1471941299742	p	80
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204600	1471941299945	1471941300026	i	73
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204602	1471941300161	1471941300227	l	76
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204603	1471941300342	1471941300396	o	79
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204604	1471941300677	1471941300771	t	84
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204645	1471941301124	1471941301195	s	83
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204648	1471941301746	1471941301811	 	32
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204651	1471941301924	1471941302046	w	87
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204654	1471941302147	1471941302340	e	69
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204704	1471941302296	1471941302480	r	82
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204706	1471941302447	1471941302527	e	69
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204710	1471941302875	1471941302960	 	32
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204715	1471941303608	1471941303677	d	68
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204718	1471941303724	1471941303795	u	85
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204721	1471941303909	1471941303977	r	82
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204791	1471941304615	1471941304693	BKSP	8
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204793	1471941304709	1471941304786	e	69
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204795	1471941304920	1471941304978	 	32
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204797	1471941305440	1471941305512	t	84
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204800	1471941305577	1471941305645	o	79
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204802	1471941305777	1471941305812	 	32
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204845	1471941306128	1471941306225	a	65
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204848	1471941306443	1471941306496	r	82
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204850	1471941306580	1471941306645	r	82
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204852	1471941306703	1471941306796	i	73
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204854	1471941306912	1471941307027	v	86
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204876	1471941307041	1471941307140	e	69
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204878	1471941307228	1471941307294	 	32
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204881	1471941307733	1471941307809	i	73
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204885	1471941307887	1471941307959	n	78
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204888	1471941308056	1471941308126	 	32
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204912	1471941308241	1471941308473	SHIFT	16
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204911	1471941308341	1471941308426	J	74
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204913	1471941308510	1471941308595	u	85
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204914	1471941308673	1471941308758	n	78
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204917	1471941308795	1471941308875	e	69
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204919	1471941308911	1471941308960	 	32
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204942	1471941309624	1471941309709	BKSP	8
+447	4279	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	204945	1471941309925	1471941309991	.	190
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205074	1471941313141	1471941313343	SHIFT	16
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205076	1471941313272	1471941313343	H	72
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205078	1471941313487	1471941313589	e	69
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205080	1471941313589	1471941313659	 	32
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205082	1471941314057	1471941314125	w	87
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205084	1471941314225	1471941314292	i	73
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205114	1471941314472	1471941314526	l	76
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205115	1471941314625	1471941314674	l	76
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205116	1471941315141	1471941315192	 	32
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205117	1471941315359	1471941315427	b	66
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205118	1471941315444	1471941315529	e	69
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205213	1471941315589	1471941315655	 	32
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205215	1471941316669	1471941316825	r	82
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205217	1471941316755	1471941316888	e	69
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205219	1471941317874	1471941317942	-	189
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205222	1471941318870	1471941318946	e	69
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205319	1471941319774	1471941319857	v	86
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205321	1471941320158	1471941320257	a	65
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205324	1471941321071	1471941321140	l	76
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205327	1471941321351	1471941321406	u	85
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205330	1471941322590	1471941322690	a	65
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205382	1471941322868	1471941322938	t	84
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205386	1471941323344	1471941323439	e	69
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205389	1471941323678	1471941323755	d	68
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205391	1471941324305	1471941324371	 	32
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205393	1471941324437	1471941324537	a	65
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205434	1471941324585	1471941324686	f	70
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205435	1471941324769	1471941324854	t	84
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205437	1471941324885	1471941325037	e	69
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205439	1471941325439	1471941325506	r	82
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205442	1471941325814	1471941325872	 	32
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205503	1471941326217	1471941326367	r	82
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205504	1471941326316	1471941326416	e	69
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205505	1471941326597	1471941326652	c	67
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205506	1471941327400	1471941327455	e	69
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205507	1471941327584	1471941327622	i	73
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205556	1471941327853	1471941327937	v	86
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205558	1471941328868	1471941328937	i	73
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205561	1471941329021	1471941329086	n	78
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205563	1471941329121	1471941329204	g	71
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205568	1471941329268	1471941329321	 	32
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205596	1471941329872	1471941329961	a	65
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205599	1471941329992	1471941330068	n	78
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205606	1471941330208	1471941330271	 	32
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205608	1471941330598	1471941330670	i	73
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205613	1471941330753	1471941330818	n	78
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205676	1471941331200	1471941331270	j	74
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205678	1471941331337	1471941331403	e	69
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205681	1471941331684	1471941331753	t	84
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205684	1471941332141	1471941332203	BKSP	8
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205687	1471941332241	1471941332301	c	67
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205690	1471941332725	1471941332783	t	84
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205738	1471941333196	1471941333453	i	73
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205741	1471941333365	1471941333453	o	79
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205743	1471941333484	1471941333584	n	78
+447	4291	He will be re-evaluated after receiving an injection.	He will be re-evaluated after receiving an injection.	205745	1471941333869	1471941333936	.	190
+447	4310	I will try and find out.	I will try and find out.	205881	1471941337132	1471941337386	SHIFT	16
+447	4310	I will try and find out.	I will try and find out.	205879	1471941337301	1471941337386	I	73
+447	4310	I will try and find out.	I will try and find out.	205884	1471941337517	1471941337601	 	32
+447	4310	I will try and find out.	I will try and find out.	205887	1471941337632	1471941337732	w	87
+447	4310	I will try and find out.	I will try and find out.	205889	1471941337802	1471941337860	i	73
+447	4310	I will try and find out.	I will try and find out.	205892	1471941338005	1471941338069	l	76
+447	4310	I will try and find out.	I will try and find out.	205919	1471941338156	1471941338219	l	76
+447	4310	I will try and find out.	I will try and find out.	205922	1471941338353	1471941338435	 	32
+447	4310	I will try and find out.	I will try and find out.	205926	1471941338711	1471941338876	t	84
+447	4310	I will try and find out.	I will try and find out.	205928	1471941338857	1471941338965	r	82
+447	4310	I will try and find out.	I will try and find out.	205930	1471941338995	1471941339092	y	89
+447	4310	I will try and find out.	I will try and find out.	206015	1471941339227	1471941339293	 	32
+447	4310	I will try and find out.	I will try and find out.	206019	1471941339432	1471941339518	a	65
+447	4310	I will try and find out.	I will try and find out.	206024	1471941339663	1471941339761	d	68
+447	4310	I will try and find out.	I will try and find out.	206027	1471941340079	1471941340136	BKSP	8
+447	4310	I will try and find out.	I will try and find out.	206031	1471941340364	1471941340465	n	78
+447	4310	I will try and find out.	I will try and find out.	206033	1471941340516	1471941340617	d	68
+447	4310	I will try and find out.	I will try and find out.	206064	1471941340664	1471941340734	 	32
+447	4310	I will try and find out.	I will try and find out.	206066	1471941341200	1471941341266	f	70
+447	4310	I will try and find out.	I will try and find out.	206073	1471941341349	1471941341401	i	73
+447	4310	I will try and find out.	I will try and find out.	206077	1471941341501	1471941341566	n	78
+447	4310	I will try and find out.	I will try and find out.	206083	1471941341648	1471941341717	d	68
+447	4310	I will try and find out.	I will try and find out.	206122	1471941341797	1471941341851	 	32
+447	4310	I will try and find out.	I will try and find out.	206127	1471941342203	1471941342318	o	79
+447	4310	I will try and find out.	I will try and find out.	206132	1471941342364	1471941342417	u	85
+447	4310	I will try and find out.	I will try and find out.	206135	1471941342449	1471941342549	t	84
+447	4310	I will try and find out.	I will try and find out.	206138	1471941342771	1471941342825	.	190
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206314	1471941345847	1471941346063	SHIFT	16
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206309	1471941345915	1471941345982	I	73
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206321	1471941346395	1471941346465	'	222
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206326	1471941346595	1471941346649	m	77
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206331	1471941346780	1471941346849	 	32
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206333	1471941346964	1471941347033	n	78
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206360	1471941347111	1471941347183	o	79
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206363	1471941347264	1471941347364	t	84
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206366	1471941347380	1471941347464	 	32
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206368	1471941347954	1471941348015	p	80
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206370	1471941348087	1471941348165	l	76
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206409	1471941348271	1471941348356	a	65
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206412	1471941348540	1471941348594	n	78
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206416	1471941348671	1471941348743	n	78
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206418	1471941348805	1471941348880	i	73
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206419	1471941348962	1471941349041	n	78
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206425	1471941349099	1471941349195	g	71
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206427	1471941349226	1471941349297	 	32
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206429	1471941349449	1471941349517	o	79
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206432	1471941349627	1471941349698	n	78
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206437	1471941349811	1471941349898	 	32
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206480	1471941350028	1471941350062	 	32
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206482	1471941350414	1471941350481	BKSP	8
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206484	1471941350597	1471941350627	BKSP	8
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206485	1471941351003	1471941351057	 	32
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206486	1471941351464	1471941351564	d	68
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206490	1471941351627	1471941351714	o	79
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206495	1471941351827	1471941351896	i	73
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206518	1471941351980	1471941352047	n	78
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206519	1471941352112	1471941352180	g	71
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206520	1471941352265	1471941352314	 	32
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206521	1471941352604	1471941352705	a	65
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206523	1471941352736	1471941352813	n	78
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206552	1471941352939	1471941353014	y	89
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206554	1471941353112	1471941353197	t	84
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206556	1471941353260	1471941353346	h	72
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206558	1471941353413	1471941353497	i	73
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206561	1471941353582	1471941353647	n	78
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206580	1471941353673	1471941353788	g	71
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206589	1471941353803	1471941353865	 	32
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206593	1471941353998	1471941354082	t	84
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206599	1471941354098	1471941354198	h	72
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206603	1471941354282	1471941354363	i	73
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206651	1471941354463	1471941354562	s	83
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206653	1471941354584	1471941354673	 	32
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206660	1471941355174	1471941355246	w	87
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206669	1471941355444	1471941355505	e	69
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206677	1471941355576	1471941355647	e	69
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206694	1471941355713	1471941355747	k	75
+447	4318	I'm not planning on doing anything this week.	I'm not planning on doing anything this week.	206697	1471941355944	1471941356077	.	190
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	206911	1471941358930	1471941359179	SHIFT	16
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	206913	1471941359114	1471941359229	T	84
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	206917	1471941359314	1471941359380	h	72
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	206921	1471941359396	1471941359514	e	69
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	206926	1471941359630	1471941359730	 	32
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	206930	1471941360200	1471941360262	d	68
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207018	1471941360417	1471941360479	i	73
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207019	1471941360552	1471941360596	e	69
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207020	1471941361193	1471941361260	BKSP	8
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207021	1471941361376	1471941361539	r	82
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207022	1471941361492	1471941361626	e	69
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207023	1471941361776	1471941361876	c	67
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207085	1471941362007	1471941362093	t	84
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207087	1471941362207	1471941362294	o	79
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207089	1471941362376	1471941362461	r	82
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207093	1471941362800	1471941362838	s	83
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207098	1471941363292	1471941363358	 	32
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207176	1471941363492	1471941363592	s	83
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207178	1471941363808	1471941363878	e	69
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207181	1471941363961	1471941364011	e	69
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207184	1471941364177	1471941364261	 	32
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207187	1471941365077	1471941365148	s	83
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207274	1471941365246	1471941365353	i	73
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207278	1471941365472	1471941365556	g	71
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207281	1471941365657	1471941365711	n	78
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207283	1471941366152	1471941366209	i	73
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207284	1471941366923	1471941366992	f	70
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207322	1471941367061	1471941367160	i	73
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207328	1471941367655	1471941367827	c	67
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207331	1471941367777	1471941367893	a	65
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207334	1471941367940	1471941368008	n	78
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207338	1471941368077	1471941368177	t	84
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207437	1471941368231	1471941368294	 	32
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207439	1471941369171	1471941369227	p	80
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207442	1471941369834	1471941369909	r	82
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207446	1471941369987	1471941370166	o	79
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207450	1471941370708	1471941370777	s	83
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207576	1471941371156	1471941371225	p	80
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207577	1471941371662	1471941371742	e	69
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207578	1471941372393	1471941372509	c	67
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207579	1471941372656	1471941372740	t	84
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207580	1471941373228	1471941373297	s	83
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207678	1471941373493	1471941373541	 	32
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207682	1471941374003	1471941374099	f	70
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207686	1471941374135	1471941374222	o	79
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207690	1471941374727	1471941374791	r	82
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207697	1471941375280	1471941375325	 	32
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207826	1471941375620	1471941375675	g	71
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207830	1471941375785	1471941375874	r	82
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207834	1471941376220	1471941376291	o	79
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207839	1471941377672	1471941377741	w	87
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207843	1471941377903	1471941377957	t	84
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207887	1471941378040	1471941378105	h	72
+447	4333	The directors see significant prospects for growth.	The directors see significant prospects for growth.	207890	1471941378797	1471941378873	.	190
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208059	1471941381741	1471941382028	SHIFT	16
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208064	1471941381975	1471941382091	W	87
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208069	1471941382143	1471941382190	h	72
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208075	1471941382261	1471941382363	e	69
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208077	1471941382363	1471941382424	n	78
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208080	1471941382552	1471941382607	 	32
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208119	1471941382752	1471941382853	t	84
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208122	1471941382868	1471941382972	h	72
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208125	1471941382988	1471941383072	e	69
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208128	1471941383135	1471941383206	 	32
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208131	1471941383539	1471941383605	i	73
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208178	1471941383693	1471941383738	n	78
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208181	1471941383897	1471941383964	s	83
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208186	1471941384186	1471941384254	p	80
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208193	1471941384371	1471941384486	e	69
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208196	1471941384650	1471941384770	c	67
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208247	1471941385219	1471941385287	t	84
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208252	1471941385372	1471941385603	i	73
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208257	1471941385504	1471941385634	o	79
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208263	1471941385672	1471941385788	n	78
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208270	1471941385904	1471941385988	 	32
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208322	1471941386119	1471941386148	i	73
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208323	1471941386235	1471941386320	s	83
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208324	1471941386372	1471941386452	 	32
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208325	1471941386889	1471941386974	f	70
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208326	1471941387068	1471941387123	i	73
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208348	1471941387206	1471941387277	n	78
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208350	1471941387377	1471941387477	i	73
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208352	1471941387524	1471941387593	s	83
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208355	1471941387640	1471941387708	h	72
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208358	1471941387774	1471941387852	e	69
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208459	1471941387960	1471941388037	d	68
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208461	1471941388127	1471941388204	 	32
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208464	1471941388404	1471941388440	w	87
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208468	1471941388509	1471941388688	w	87
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208471	1471941388965	1471941389021	BKSP	8
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208475	1471941389120	1471941389171	BKSP	8
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208479	1471941389520	1471941389689	w	87
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208536	1471941389652	1471941389757	e	69
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208537	1471941389932	1471941389994	 	32
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208538	1471941390415	1471941390497	w	87
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208539	1471941390599	1471941390666	i	73
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208543	1471941390831	1471941390884	l	76
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208548	1471941390962	1471941391037	l	76
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208611	1471941391162	1471941391208	 	32
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208613	1471941391738	1471941391804	c	67
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208615	1471941391920	1471941392004	o	79
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208616	1471941392138	1471941392204	m	77
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208617	1471941392301	1471941392354	m	77
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208697	1471941392758	1471941392820	u	85
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208700	1471941393150	1471941393220	n	78
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208704	1471941393582	1471941393653	i	73
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208710	1471941393752	1471941393867	c	67
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208716	1471941394054	1471941394167	t	84
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208840	1471941394537	1471941394621	a	65
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208842	1471941395269	1471941395322	BKSP	8
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208845	1471941395422	1471941395474	BKSP	8
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208849	1471941395638	1471941395703	a	65
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208852	1471941396349	1471941396433	t	84
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208855	1471941396552	1471941396604	e	69
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208858	1471941396851	1471941396924	 	32
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208911	1471941397152	1471941397235	t	84
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208916	1471941397299	1471941397370	h	72
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208921	1471941397703	1471941397769	o	79
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208924	1471941397852	1471941397940	s	83
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	208931	1471941398044	1471941398101	e	69
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	209014	1471941398192	1471941398261	 	32
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	209019	1471941398683	1471941398819	r	82
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	209025	1471941398767	1471941398883	e	69
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	209031	1471941399015	1471941399099	s	83
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	209036	1471941399199	1471941399284	u	85
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	209123	1471941399430	1471941399501	l	76
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	209127	1471941399552	1471941399635	t	84
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	209130	1471941399899	1471941399985	s	83
+447	4357	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	209133	1471941400600	1471941400654	.	190
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209350	1471941403813	1471941404115	SHIFT	16
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209352	1471941404030	1471941404147	D	68
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209353	1471941404283	1471941404365	a	65
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209359	1471941404783	1471941404832	v	86
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209361	1471941404930	1471941404981	i	73
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209365	1471941405031	1471941405115	s	83
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209415	1471941405263	1471941405333	 	32
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209418	1471941405654	1471941405804	w	87
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209424	1471941405794	1471941405944	a	65
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209427	1471941405960	1471941406015	s	83
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209434	1471941406230	1471941406315	 	32
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209534	1471941406809	1471941406865	l	76
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209535	1471941406982	1471941407049	i	73
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209536	1471941407166	1471941407248	s	83
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209537	1471941407572	1471941407648	t	84
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209538	1471941408261	1471941408446	e	69
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209585	1471941408646	1471941408731	d	68
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209587	1471941408931	1471941408999	 	32
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209588	1471941409093	1471941409260	a	65
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209589	1471941409215	1471941409347	s	83
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209590	1471941409594	1471941409664	a	65
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209759	1471941409732	1471941409771	 	32
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209761	1471941410440	1471941410492	BKSP	8
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209764	1471941410587	1471941410641	BKSP	8
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209767	1471941410730	1471941410765	BKSP	8
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209770	1471941411031	1471941411084	 	32
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209775	1471941411531	1471941411580	BKSP	8
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209781	1471941411631	1471941411747	s	83
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209785	1471941411832	1471941411897	 	32
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209789	1471941413011	1471941413079	q	81
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209822	1471941413152	1471941413214	u	85
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209825	1471941413285	1471941413458	e	69
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209828	1471941413489	1471941413604	s	83
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209831	1471941413807	1471941413896	t	84
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209834	1471941414140	1471941414342	i	73
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209899	1471941414213	1471941414394	o	79
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209901	1471941414462	1471941414578	n	78
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209905	1471941414810	1471941414911	a	65
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209909	1471941415626	1471941415695	b	66
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209913	1471941415795	1471941415880	l	76
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209917	1471941415911	1471941415995	e	69
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209995	1471941416095	1471941416164	 	32
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	209998	1471941416380	1471941416464	o	79
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210001	1471941416611	1471941416661	n	78
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210003	1471941417197	1471941417273	 	32
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210007	1471941417388	1471941417473	t	84
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210080	1471941417513	1471941417573	h	72
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210082	1471941417651	1471941417728	e	69
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210086	1471941417775	1471941417844	 	32
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210091	1471941418473	1471941418529	w	87
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210095	1471941418777	1471941418829	e	69
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210162	1471941418911	1471941418963	e	69
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210163	1471941419053	1471941419113	k	75
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210164	1471941419258	1471941419312	l	76
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210165	1471941419596	1471941419681	y	89
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210166	1471941419843	1471941419903	 	32
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210278	1471941420482	1471941420561	i	73
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210283	1471941420628	1471941420695	n	78
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210288	1471941421129	1471941421210	j	74
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210293	1471941421308	1471941421382	u	85
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210298	1471941421642	1471941421697	e	69
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210427	1471941421942	1471941422010	t	84
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210431	1471941422273	1471941422328	BKSP	8
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210439	1471941422427	1471941422478	BKSP	8
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210446	1471941422512	1471941422577	r	82
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210451	1471941422778	1471941422812	t	84
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210455	1471941423279	1471941423361	BKSP	8
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210459	1471941423580	1471941423645	y	89
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210464	1471941423853	1471941423911	 	32
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210512	1471941424342	1471941424506	r	82
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210517	1471941424442	1471941424573	e	69
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210520	1471941424658	1471941424711	p	80
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210522	1471941424812	1471941424895	o	79
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210525	1471941425060	1471941425160	r	82
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210554	1471941425265	1471941425344	t	84
+447	4379	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report.	210557	1471941425876	1471941425943	.	190
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210772	1471941428831	1471941429130	SHIFT	16
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210767	1471941429027	1471941429108	I	73
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210777	1471941429509	1471941429577	 	32
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210783	1471941429608	1471941429783	w	87
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210788	1471941429690	1471941429852	a	65
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210792	1471941429983	1471941430033	n	78
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210863	1471941430026	1471941430142	t	84
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210866	1471941430606	1471941430705	e	69
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210871	1471941430943	1471941431042	d	68
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210875	1471941431399	1471941431476	 	32
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210878	1471941431508	1471941431606	t	84
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210884	1471941431644	1471941431707	o	79
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210949	1471941431852	1471941431924	 	32
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210951	1471941432575	1471941432726	g	71
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210953	1471941432691	1471941432838	e	69
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210954	1471941432961	1471941433041	t	84
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210955	1471941433162	1471941433226	 	32
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210982	1471941433377	1471941433462	a	65
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210983	1471941433493	1471941433563	l	76
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210984	1471941433662	1471941433724	l	76
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210985	1471941433864	1471941433940	 	32
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	210986	1471941434080	1471941434164	o	79
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211029	1471941434263	1471941434380	f	70
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211031	1471941434426	1471941434506	 	32
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211033	1471941435001	1471941435081	t	84
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211035	1471941435128	1471941435165	h	72
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211038	1471941435265	1471941435365	i	73
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211083	1471941435440	1471941435523	s	83
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211086	1471941435565	1471941435665	 	32
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211088	1471941436260	1471941436365	o	79
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211090	1471941436444	1471941436507	u	85
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211093	1471941436565	1471941436659	t	84
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211142	1471941436749	1471941436808	 	32
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211146	1471941436987	1471941437090	o	79
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211149	1471941437637	1471941437722	f	70
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211152	1471941437790	1471941437874	 	32
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211153	1471941437890	1471941437975	t	84
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211174	1471941438008	1471941438090	h	72
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211176	1471941438106	1471941438174	e	69
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211181	1471941438237	1471941438322	 	32
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211189	1471941438611	1471941438822	w	87
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211239	1471941438728	1471941438940	a	65
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211242	1471941438896	1471941438981	y	89
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211244	1471941439160	1471941439224	 	32
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211246	1471941439597	1471941439655	b	66
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211250	1471941439750	1471941439823	e	69
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211254	1471941439962	1471941440052	f	70
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211291	1471941440131	1471941440222	o	79
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211292	1471941440284	1471941440450	r	82
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211293	1471941440401	1471941440532	e	69
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211294	1471941440617	1471941440688	 	32
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211295	1471941441021	1471941441105	m	77
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211341	1471941441221	1471941441305	y	89
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211344	1471941441436	1471941441506	 	32
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211347	1471941441652	1471941441722	m	77
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211349	1471941441805	1471941441882	o	79
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211351	1471941441989	1471941442121	v	86
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211375	1471941442071	1471941442189	e	69
+447	4406	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	211378	1471941442870	1471941442940	.	190

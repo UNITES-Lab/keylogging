@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "module.h": "c",
+        "cstdlib": "c",
+        "type_traits": "c"
+    }
+}

@@ -1,0 +1,953 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343031	1471944788935	1471944789022	CAPS_LOCK	20
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343033	1471944789111	1471944789207	I	73
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343035	1471944789302	1471944789390	CAPS_LOCK	20
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343037	1471944789462	1471944789542	 	32
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343039	1471944789934	1471944789990	g	71
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343041	1471944791607	1471944791662	y	89
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343042	1471944792199	1471944792247	BKSP	8
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343043	1471944792839	1471944792902	u	85
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343062	1471944793070	1471944793126	s	83
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343064	1471944793246	1471944793334	s	83
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343066	1471944793574	1471944793646	 	32
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343068	1471944793806	1471944793846	t	84
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343071	1471944793910	1471944793974	h	72
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343095	1471944794038	1471944794110	e	69
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343097	1471944794151	1471944794206	 	32
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343100	1471944794327	1471944794423	n	78
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343103	1471944794422	1471944794494	e	69
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343107	1471944794622	1471944794734	x	88
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343159	1471944794846	1471944794950	t	84
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343161	1471944795334	1471944795398	BKSP	8
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343163	1471944795486	1471944795550	BKSP	8
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343165	1471944795631	1471944795703	BKSP	8
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343167	1471944795784	1471944795854	BKSP	8
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343169	1471944795942	1471944796006	BKSP	8
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343170	1471944796072	1471944796153	BKSP	8
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343171	1471944796231	1471944796294	BKSP	8
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343172	1471944796394	1471944796449	BKSP	8
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343173	1471944796542	1471944796606	BKSP	8
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343174	1471944796695	1471944796767	BKSP	8
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343175	1471944796855	1471944796929	BKSP	8
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343177	1471944797151	1471944797218	e	69
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343180	1471944797422	1471944797478	s	83
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343183	1471944797590	1471944797672	s	83
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343185	1471944797726	1471944797802	 	32
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343191	1471944797942	1471944797990	t	84
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343192	1471944798054	1471944798126	h	72
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343194	1471944798168	1471944798222	e	69
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343196	1471944798286	1471944798342	 	32
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343198	1471944798446	1471944798534	n	78
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343210	1471944798574	1471944798638	e	69
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343211	1471944798782	1471944798855	x	88
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343214	1471944798982	1471944799054	t	84
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343217	1471944799222	1471944799302	 	32
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343221	1471944799427	1471944799494	t	84
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343244	1471944799526	1471944799574	i	73
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343245	1471944799726	1471944799817	m	77
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343246	1471944799854	1471944799918	e	69
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343247	1471944800006	1471944800078	 	32
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343248	1471944800254	1471944800382	CAPS_LOCK	20
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343249	1471944800438	1471944800518	I	73
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343338	1471944800838	1471944800918	CAPS_LOCK	20
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343340	1471944801406	1471944801453	;	186
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343343	1471944802413	1471944802462	BKSP	8
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343346	1471944803477	1471944803525	'	222
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343350	1471944803997	1471944804053	l	76
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343353	1471944804141	1471944804213	l	76
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343356	1471944804378	1471944804440	 	32
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343375	1471944804677	1471944804741	s	83
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343376	1471944804814	1471944804893	e	69
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343377	1471944805023	1471944805112	e	69
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343378	1471944805245	1471944805285	 	32
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343379	1471944805485	1471944805533	y	89
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343406	1471944805677	1471944805764	o	79
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343409	1471944805804	1471944805868	u	85
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343413	1471944806021	1471944806077	 	32
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343415	1471944806221	1471944806285	i	73
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343419	1471944806380	1471944806460	s	83
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343442	1471944806516	1471944806597	 	32
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343443	1471944807133	1471944807228	f	70
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343444	1471944807252	1471944807348	o	79
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343445	1471944807404	1471944807468	r	82
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343446	1471944807500	1471944807572	 	32
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343458	1471944807717	1471944807789	s	83
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343459	1471944807877	1471944807933	u	85
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343460	1471944808157	1471944808229	p	80
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343462	1471944808382	1471944808501	e	69
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343504	1471944808453	1471944808543	r	82
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343506	1471944809166	1471944809229	b	66
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343507	1471944809397	1471944809445	o	79
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343508	1471944809677	1471944809749	w	87
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343510	1471944809893	1471944809973	l	76
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343513	1471944810229	1471944810293	.	190
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343682	1471944811133	1471944811197	BKSP	8
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343684	1471944811293	1471944811401	BKSP	8
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343686	1471944811429	1471944811919	BKSP	8
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343688	1471944812141	1471944812205	BKSP	8
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343690	1471944812294	1471944812369	BKSP	8
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343691	1471944814485	1471944814597	b	66
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343692	1471944814861	1471944814934	o	79
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343693	1471944815156	1471944815230	w	87
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343694	1471944815389	1471944815484	l	76
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343695	1471944816444	1471944816564	.	190
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343936	1471944819167	1471944819223	ARW_LEFT	37
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343939	1471944819343	1471944819375	ARW_LEFT	37
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343940	1471944819479	1471944819553	ARW_LEFT	37
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343941	1471944819615	1471944819703	ARW_LEFT	37
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343942	1471944819799	1471944819839	ARW_LEFT	37
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343943	1471944819951	1471944820015	ARW_LEFT	37
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343944	1471944820103	1471944820152	ARW_LEFT	37
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343945	1471944820256	1471944820310	ARW_LEFT	37
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343946	1471944820415	1471944820462	ARW_LEFT	37
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343947	1471944820576	1471944820632	ARW_LEFT	37
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343949	1471944820727	1471944820809	ARW_LEFT	37
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343951	1471944821008	1471944821041	ARW_LEFT	37
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343953	1471944821223	1471944821326	CAPS_LOCK	20
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343957	1471944821311	1471944821374	ARW_RIGHT	39
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343960	1471944821470	1471944821566	ARW_RIGHT	39
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343962	1471944821790	1471944821878	S	83
+716	7131	I guess the next time I'll see you is for Superbowl.	I guess the next time I'll see you is for Superbowl.	343963	1471944822567	1471944822638	DELETE	46
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344142	1471944827816	1471944827879	CAPS_LOCK	20
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344144	1471944827983	1471944828057	d	68
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344145	1471944828103	1471944828192	CAPS_LOCK	20
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344147	1471944828871	1471944828927	BKSP	8
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344149	1471944829015	1471944829087	S	83
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344152	1471944829431	1471944829491	BKSP	8
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344155	1471944829511	1471944829619	D	68
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344159	1471944829639	1471944829759	CAPS_LOCK	20
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344161	1471944830191	1471944830246	o	79
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344162	1471944830511	1471944830558	n	78
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344204	1471944831382	1471944831438	'	222
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344208	1471944831631	1471944831678	t	84
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344211	1471944832191	1471944832246	 	32
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344217	1471944832446	1471944832510	e	69
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344224	1471944832646	1471944832726	x	88
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344253	1471944832902	1471944832959	p	80
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344255	1471944832976	1471944833046	e	69
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344258	1471944833142	1471944833238	c	67
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344263	1471944833350	1471944833414	t	84
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344265	1471944833478	1471944833558	 	32
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344316	1471944834102	1471944834159	CAPS_LOCK	20
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344319	1471944834270	1471944834350	S	83
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344323	1471944834438	1471944834486	CAPS_LOCK	20
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344328	1471944834615	1471944834686	a	65
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344336	1471944834758	1471944834830	n	78
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344341	1471944834950	1471944835022	d	68
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344345	1471944835198	1471944835319	e	69
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344367	1471944835318	1471944835414	r	82
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344369	1471944835589	1471944835645	s	83
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344370	1471944835789	1471944835853	 	32
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344372	1471944835997	1471944836021	t	84
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344374	1471944836109	1471944836165	o	79
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344378	1471944836294	1471944836374	 	32
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344440	1471944836438	1471944836525	CAPS_LOCK	20
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344442	1471944836766	1471944836854	CAPS_LOCK	20
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344446	1471944836958	1471944837037	p	80
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344450	1471944837326	1471944837413	l	76
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344454	1471944837541	1471944837637	a	65
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344457	1471944837741	1471944837773	y	89
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344459	1471944837957	1471944838029	 	32
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344472	1471944838125	1471944838197	a	65
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344474	1471944838221	1471944838301	n	78
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344475	1471944838485	1471944838533	y	89
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344477	1471944838773	1471944838821	t	84
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344478	1471944838934	1471944838997	i	73
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344505	1471944839157	1471944839221	m	77
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344510	1471944839277	1471944839341	e	69
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344514	1471944839397	1471944839469	 	32
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344518	1471944839597	1471944839653	s	83
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344521	1471944839685	1471944839741	o	79
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344588	1471944839997	1471944840045	o	79
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344592	1471944840285	1471944840340	n	78
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344597	1471944840589	1471944840669	.	188
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344598	1471944841157	1471944841202	BKSP	8
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344600	1471944841277	1471944841373	BKSP	8
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344602	1471944841941	1471944841989	,	188
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344684	1471944842422	1471944842452	BKSP	8
+716	7156	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytime soon.	344686	1471944842677	1471944842718	.	190
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344834	1471944848005	1471944848085	CAPS_LOCK	20
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344835	1471944848181	1471944848277	S	83
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344836	1471944848341	1471944848445	CAPS_LOCK	20
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344837	1471944848692	1471944848757	e	69
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344838	1471944849125	1471944849165	BKSP	8
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344839	1471944849708	1471944849764	h	72
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344840	1471944849829	1471944849885	e	69
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344841	1471944849932	1471944850013	 	32
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344874	1471944850205	1471944850284	i	73
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344875	1471944850349	1471944850412	s	83
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344876	1471944850452	1471944850524	 	32
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344877	1471944850805	1471944850868	m	77
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344879	1471944851020	1471944851068	o	79
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344910	1471944851236	1471944851340	s	83
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344911	1471944851396	1471944851452	t	84
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344913	1471944851508	1471944851588	 	32
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344914	1471944851684	1471944851764	f	70
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344915	1471944851836	1471944851948	a	65
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344942	1471944852212	1471944852260	m	77
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344944	1471944852412	1471944852452	i	73
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344946	1471944852684	1471944852740	l	76
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344948	1471944852956	1471944853020	i	73
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344950	1471944853116	1471944853212	a	65
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344978	1471944853420	1471944853532	r	82
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344980	1471944853620	1471944853700	 	32
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344981	1471944854100	1471944854140	w	87
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344983	1471944854220	1471944854300	i	73
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344987	1471944854372	1471944854425	t	84
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	344999	1471944854470	1471944854524	h	72
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345002	1471944854668	1471944854732	 	32
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345005	1471944854820	1471944854900	o	79
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345008	1471944854924	1471944854997	u	85
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345010	1471944855052	1471944855140	r	82
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345066	1471944855212	1471944855276	 	32
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345069	1471944855761	1471944855870	c	67
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345071	1471944855929	1471944855996	o	79
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345075	1471944856148	1471944856220	m	77
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345079	1471944856356	1471944856460	p	80
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345104	1471944856508	1471944856563	y	85
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345111	1471944856684	1471944856764	t	84
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345114	1471944857091	1471944857131	BKSP	8
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345119	1471944857219	1471944857291	BKSP	8
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345123	1471944857363	1471944857435	t	84
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345125	1471944857500	1471944857587	e	69
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345155	1471944857595	1471944857659	r	82
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345157	1471944857779	1471944857851	 	32
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345159	1471944858187	1471944858291	s	83
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345161	1471944858405	1471944858467	y	89
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345165	1471944858587	1471944858690	s	83
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345180	1471944858740	1471944858850	t	84
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345183	1471944858874	1471944858958	e	69
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345185	1471944859108	1471944859181	m	77
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345187	1471944859284	1471944859332	s	83
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345189	1471944859579	1471944859659	,	188
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345258	1471944860516	1471944860556	BKSP	8
+716	7171	She is most familiar with our computer systems.	She is most familiar with our computer systems.	345260	1471944860812	1471944860860	.	190
+716	7185	We had a great time!	We had a great time!	345448	1471944865101	1471944865147	CAPS_LOCK	20
+716	7185	We had a great time!	We had a great time!	345451	1471944865283	1471944865355	W	87
+716	7185	We had a great time!	We had a great time!	345453	1471944865403	1471944865532	CAPS_LOCK	20
+716	7185	We had a great time!	We had a great time!	345456	1471944865940	1471944866035	e	69
+716	7185	We had a great time!	We had a great time!	345460	1471944866227	1471944866307	 	32
+716	7185	We had a great time!	We had a great time!	345462	1471944866475	1471944866551	h	72
+716	7185	We had a great time!	We had a great time!	345464	1471944866596	1471944866683	a	65
+716	7185	We had a great time!	We had a great time!	345483	1471944866747	1471944866891	d	68
+716	7185	We had a great time!	We had a great time!	345485	1471944866923	1471944866995	 	32
+716	7185	We had a great time!	We had a great time!	345487	1471944867075	1471944867227	a	65
+716	7185	We had a great time!	We had a great time!	345490	1471944867291	1471944867363	 	32
+716	7185	We had a great time!	We had a great time!	345494	1471944867603	1471944867667	g	71
+716	7185	We had a great time!	We had a great time!	345515	1471944867803	1471944867947	r	82
+716	7185	We had a great time!	We had a great time!	345519	1471944867875	1471944867995	e	69
+716	7185	We had a great time!	We had a great time!	345520	1471944868083	1471944868195	a	65
+716	7185	We had a great time!	We had a great time!	345521	1471944868203	1471944868283	t	84
+716	7185	We had a great time!	We had a great time!	345522	1471944868347	1471944868427	 	32
+716	7185	We had a great time!	We had a great time!	345681	1471944868587	1471944868651	t	84
+716	7185	We had a great time!	We had a great time!	345685	1471944868723	1471944868771	i	73
+716	7185	We had a great time!	We had a great time!	345690	1471944868915	1471944868979	m	77
+716	7185	We had a great time!	We had a great time!	345696	1471944869011	1471944869075	e	69
+716	7185	We had a great time!	We had a great time!	345699	1471944869411	1471944870754	SHIFT	16
+716	7185	We had a great time!	We had a great time!	345739	1471944872578	1471944872951	SHIFT	16
+716	7185	We had a great time!	We had a great time!	345702	1471944872830	1471944872859	!	49
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	345910	1471944877916	1471944877989	CAPS_LOCK	20
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	345912	1471944878125	1471944878197	T	84
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	345914	1471944878244	1471944878357	CAPS_LOCK	20
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	345916	1471944878525	1471944878540	h	72
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	345919	1471944878693	1471944878860	e	69
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	345921	1471944878788	1471944878956	r	82
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	345925	1471944879116	1471944879204	 	32
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	345982	1471944879388	1471944879452	i	73
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	345985	1471944879524	1471944879572	s	83
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	345991	1471944879636	1471944879700	 	32
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	345995	1471944880004	1471944880044	BKSP	8
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346003	1471944880148	1471944880213	BKSP	8
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346007	1471944880316	1471944880364	BKSP	8
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346011	1471944880460	1471944880532	BKSP	8
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346015	1471944880684	1471944880732	e	69
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346017	1471944880916	1471944880988	 	32
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346035	1471944881188	1471944881221	i	73
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346036	1471944881276	1471944881332	s	83
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346038	1471944881412	1471944881461	 	32
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346039	1471944881580	1471944881701	a	65
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346040	1471944881740	1471944881796	 	32
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346131	1471944883236	1471944883292	9	57
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346133	1471944883428	1471944883475	0	48
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346136	1471944883708	1471944883780	 	32
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346138	1471944884268	1471944884348	p	80
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346140	1471944884380	1471944884499	e	69
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346167	1471944884492	1471944884604	r	82
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346170	1471944884795	1471944884915	c	67
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346177	1471944884900	1471944885003	e	69
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346181	1471944885069	1471944885131	n	78
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346188	1471944885179	1471944885235	t	84
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346194	1471944885291	1471944885341	 	32
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346224	1471944885468	1471944885573	c	67
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346226	1471944885572	1471944885636	h	72
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346228	1471944885764	1471944885835	a	65
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346230	1471944886059	1471944886108	n	78
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346232	1471944886515	1471944886637	c	67
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346268	1471944886635	1471944886723	e	69
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346271	1471944886795	1471944886867	 	32
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346273	1471944887117	1471944887166	h	72
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346275	1471944887240	1471944887347	e	69
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346277	1471944887411	1471944887477	 	32
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346279	1471944887619	1471944887668	i	73
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346297	1471944887716	1471944887787	s	83
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346300	1471944887844	1471944887908	 	32
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346304	1471944887972	1471944888051	g	71
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346307	1471944888091	1471944888171	o	79
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346310	1471944888411	1471944888485	i	73
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346322	1471944888585	1471944888651	n	78
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346326	1471944888724	1471944888780	g	71
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346329	1471944888827	1471944888899	 	32
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346333	1471944888989	1471944889035	t	84
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346338	1471944889085	1471944889155	o	79
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346364	1471944889243	1471944889310	 	32
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346366	1471944889376	1471944889411	w	87
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346370	1471944889477	1471944889523	i	73
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346374	1471944889699	1471944889755	n	78
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346378	1471944890068	1471944890165	,	188
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346515	1471944890628	1471944890675	BKSP	8
+716	7191	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	346517	1471944891083	1471944891123	.	190
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346713	1471944896403	1471944896483	CAPS_LOCK	20
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346715	1471944896539	1471944896635	T	84
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346720	1471944896642	1471944896731	CAPS_LOCK	20
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346725	1471944897051	1471944897067	h	72
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346727	1471944897651	1471944897771	e	69
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346731	1471944897747	1471944897875	r	82
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346734	1471944898563	1471944898667	e	69
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346834	1471944898819	1471944898898	s	83
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346837	1471944898979	1471944899074	a	65
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346840	1471944899811	1471944899859	-	189
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346843	1471944900449	1471944900507	 	32
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346846	1471944900828	1471944900858	BKSP	8
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346848	1471944900947	1471944901010	BKSP	8
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346851	1471944901203	1471944901258	 	32
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346956	1471944901978	1471944902034	-	189
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346957	1471944902204	1471944902283	 	32
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346958	1471944902802	1471944902898	p	80
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346959	1471944903474	1471944903514	BKSP	8
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346960	1471944903562	1471944903682	CAPS_LOCK	20
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346961	1471944904154	1471944904194	P	80
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346963	1471944904202	1471944904306	CAPS_LOCK	20
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346966	1471944904362	1471944904426	l	76
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346967	1471944904495	1471944904602	e	69
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346970	1471944904673	1471944904794	a	65
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346974	1471944904770	1471944904835	s	83
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346978	1471944904818	1471944904892	e	69
+716	7206	Theresa - Please resend.	Theresa - Please resend.	346982	1471944904898	1471944904973	s	83
+716	7206	Theresa - Please resend.	Theresa - Please resend.	347075	1471944905418	1471944905449	BKSP	8
+716	7206	Theresa - Please resend.	Theresa - Please resend.	347078	1471944905555	1471944905601	BKSP	8
+716	7206	Theresa - Please resend.	Theresa - Please resend.	347083	1471944906141	1471944906238	e	69
+716	7206	Theresa - Please resend.	Theresa - Please resend.	347085	1471944906322	1471944906403	 	32
+716	7206	Theresa - Please resend.	Theresa - Please resend.	347087	1471944906682	1471944906810	r	82
+716	7206	Theresa - Please resend.	Theresa - Please resend.	347090	1471944906746	1471944906866	e	69
+716	7206	Theresa - Please resend.	Theresa - Please resend.	347093	1471944907329	1471944907411	s	83
+716	7206	Theresa - Please resend.	Theresa - Please resend.	347234	1471944907409	1471944907545	e	69
+716	7206	Theresa - Please resend.	Theresa - Please resend.	347235	1471944907609	1471944907705	n	78
+716	7206	Theresa - Please resend.	Theresa - Please resend.	347236	1471944907786	1471944907874	t	84
+716	7206	Theresa - Please resend.	Theresa - Please resend.	347237	1471944908458	1471944908489	BKSP	8
+716	7206	Theresa - Please resend.	Theresa - Please resend.	347238	1471944908514	1471944908593	d	68
+716	7206	Theresa - Please resend.	Theresa - Please resend.	347239	1471944909409	1471944909473	.	190
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347429	1471944914289	1471944914401	CAPS_LOCK	20
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347430	1471944914521	1471944914601	A	65
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347431	1471944914681	1471944914778	CAPS_LOCK	20
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347432	1471944915057	1471944915073	b	66
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347433	1471944915537	1471944915585	BKSP	8
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347434	1471944915777	1471944915833	 	32
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347435	1471944916001	1471944916050	b	66
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347438	1471944916115	1471944916209	a	65
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347468	1471944916289	1471944916393	d	68
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347469	1471944916457	1471944916515	 	32
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347472	1471944916636	1471944916681	t	84
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347474	1471944916729	1471944916777	h	72
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347476	1471944916946	1471944916993	i	73
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347510	1471944917105	1471944917161	n	78
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347512	1471944917217	1471944917275	g	71
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347516	1471944917369	1471944917434	 	32
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347517	1471944918085	1471944918114	h	72
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347520	1471944918162	1471944918249	a	65
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347549	1471944918321	1471944918441	s	83
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347554	1471944918481	1471944918545	 	32
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347559	1471944918713	1471944918769	b	66
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347566	1471944918849	1471944918905	e	69
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347571	1471944919002	1471944919088	e	69
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347605	1471944919121	1471944919193	n	78
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347607	1471944919297	1471944919363	 	32
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347611	1471944919654	1471944919721	t	84
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347614	1471944919857	1471944919904	u	85
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347617	1471944919992	1471944920088	r	82
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347667	1471944920217	1471944920281	n	78
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347670	1471944920536	1471944920602	e	69
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347674	1471944920721	1471944920809	d	68
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347679	1471944920881	1471944920944	 	32
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347683	1471944921144	1471944921201	i	73
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347713	1471944921297	1471944921376	n	78
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347715	1471944921424	1471944921472	t	84
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347718	1471944921569	1471944921576	o	79
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347722	1471944922200	1471944922258	 	32
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347725	1471944922344	1471944922489	a	65
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347743	1471944922537	1471944922608	 	32
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347744	1471944922745	1471944922816	g	71
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347745	1471944922896	1471944922945	o	79
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347746	1471944923043	1471944923096	o	79
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347749	1471944923160	1471944923240	d	68
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347773	1471944923320	1471944923392	 	32
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347775	1471944923656	1471944923720	t	84
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347777	1471944923736	1471944923792	h	72
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347779	1471944923912	1471944923984	i	73
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347781	1471944924072	1471944924152	n	78
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347833	1471944924232	1471944924313	g	71
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347838	1471944924392	1471944924464	 	32
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347846	1471944924890	1471944924920	n	78
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347854	1471944925313	1471944925337	BKSP	8
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347861	1471944925408	1471944925520	a	65
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347865	1471944925560	1471944925600	n	78
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347932	1471944925720	1471944925784	d	68
+716	7226	A bad thing has been turned into a good thing and.	A bad thing has been turned into a good thing and.	347936	1471944926752	1471944926800	.	190
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348099	1471944930201	1471944930288	CAPS_LOCK	20
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348101	1471944930392	1471944930448	A	65
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348103	1471944930544	1471944930640	CAPS_LOCK	20
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348105	1471944931008	1471944931056	l	76
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348107	1471944931152	1471944931216	l	76
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348111	1471944931328	1471944931416	 	32
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348114	1471944931600	1471944931696	o	79
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348128	1471944931776	1471944931816	u	85
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348132	1471944931904	1471944931960	r	82
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348138	1471944932024	1471944932088	 	32
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348143	1471944932304	1471944932404	d	68
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348147	1471944932640	1471944932720	e	69
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348189	1471944933240	1471944933319	m	77
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348190	1471944933967	1471944934039	o	79
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348193	1471944934240	1471944934311	g	71
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348196	1471944934463	1471944934543	r	82
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348202	1471944934600	1471944934719	a	65
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348252	1471944934888	1471944934999	p	80
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348253	1471944935111	1471944935159	h	72
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348255	1471944935295	1471944935319	i	73
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348257	1471944935775	1471944935791	BKSP	8
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348259	1471944936023	1471944936071	i	73
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348262	1471944936207	1471944936312	c	67
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348307	1471944936503	1471944936576	s	83
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348309	1471944936642	1471944936712	 	32
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348312	1471944936944	1471944936991	i	73
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348314	1471944937207	1471944937263	n	78
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348316	1471944937431	1471944937528	d	68
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348333	1471944937575	1471944937632	i	73
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348335	1471944937775	1471944937863	c	67
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348339	1471944937871	1471944937990	a	65
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348343	1471944938021	1471944938106	t	84
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348347	1471944938133	1471944938202	e	69
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348364	1471944938258	1471944938322	 	32
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348366	1471944938514	1471944938562	t	84
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348370	1471944938610	1471944938658	h	72
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348374	1471944938706	1471944938826	a	65
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348399	1471944938794	1471944938842	t	84
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348400	1471944938938	1471944939003	 	32
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348401	1471944939114	1471944939162	i	73
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348402	1471944939226	1471944939274	s	83
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348403	1471944939330	1471944939386	 	32
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348404	1471944939498	1471944939603	a	65
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348432	1471944939658	1471944939722	 	32
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348435	1471944939826	1471944939913	f	70
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348438	1471944939954	1471944940050	a	65
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348441	1471944940162	1471944940210	m	77
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348444	1471944940337	1471944940385	i	73
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348465	1471944940530	1471944940625	l	76
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348468	1471944940754	1471944940810	y	89
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348470	1471944940977	1471944941034	 	32
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348474	1471944941121	1471944941203	a	65
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348479	1471944941250	1471944941289	u	85
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348514	1471944941422	1471944941517	d	68
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348515	1471944941578	1471944941650	i	73
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348516	1471944941946	1471944942009	e	69
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348517	1471944942098	1471944942169	n	78
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348518	1471944942265	1471944942377	c	67
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348601	1471944942354	1471944942433	e	69
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348603	1471944942818	1471944942857	l	190
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348606	1471944943489	1471944943499	=	187
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348607	1471944943945	1471944943986	BKSP	8
+716	7238	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience.	348610	1471944944097	1471944944161	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348767	1471944947337	1471944947448	CAPS_LOCK	20
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348769	1471944947593	1471944947642	;	186
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348771	1471944947746	1471944947834	CAPS_LOCK	20
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348773	1471944948194	1471944948234	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348775	1471944948330	1471944948441	CAPS_LOCK	20
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348777	1471944948593	1471944948649	L	76
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348778	1471944948689	1471944948777	CAPS_LOCK	20
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348779	1471944948850	1471944948905	o	79
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348780	1471944949145	1471944949185	u	85
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348781	1471944949657	1471944949705	i	73
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348810	1471944949803	1471944949842	s	83
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348812	1471944949945	1471944950013	 	32
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348813	1471944950281	1471944950377	d	68
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348814	1471944950481	1471944950561	e	69
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348815	1471944950697	1471944950809	f	70
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348848	1471944950841	1471944950945	e	69
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348849	1471944951507	1471944951571	n	78
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348850	1471944951794	1471944951913	s	83
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348851	1471944952105	1471944952154	i	73
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348852	1471944952242	1471944952313	c	67
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348944	1471944952289	1471944952409	e	69
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348948	1471944952485	1471944952529	 	32
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348952	1471944952785	1471944952833	b	66
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348956	1471944953201	1471944953249	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348959	1471944953337	1471944953401	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348962	1471944953489	1471944953545	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348963	1471944953633	1471944953689	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348965	1471944953780	1471944953841	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348968	1471944953913	1471944954001	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348971	1471944954505	1471944954608	s	83
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348975	1471944954640	1471944954697	i	73
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	348978	1471944954849	1471944954930	v	86
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349005	1471944954929	1471944955025	e	69
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349007	1471944955074	1471944955161	 	32
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349008	1471944955560	1471944955616	b	66
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349009	1471944955728	1471944955872	a	65
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349011	1471944955920	1471944956048	c	67
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349013	1471944956120	1471944956192	k	75
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349032	1471944956472	1471944956553	s	83
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349035	1471944956672	1471944956720	 	32
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349038	1471944956848	1471944956952	s	83
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349040	1471944956976	1471944957024	h	72
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349043	1471944957169	1471944957248	o	79
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349075	1471944957264	1471944957312	u	85
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349078	1471944957472	1471944957536	l	76
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349083	1471944957603	1471944957697	d	68
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349087	1471944957760	1471944957832	 	32
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349092	1471944957984	1471944958048	b	66
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349115	1471944958096	1471944958176	e	69
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349117	1471944958256	1471944958320	 	32
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349120	1471944958497	1471944958608	a	65
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349123	1471944958656	1471944958704	b	66
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349124	1471944958872	1471944958920	l	76
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349136	1471944958994	1471944959075	e	69
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349140	1471944959080	1471944959144	 	32
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349146	1471944959264	1471944959320	t	84
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349152	1471944959336	1471944959392	o	79
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349155	1471944959497	1471944959576	 	32
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349179	1471944959696	1471944959768	m	77
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349180	1471944959824	1471944959968	a	65
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349181	1471944960016	1471944960063	t	84
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349182	1471944960232	1471944960288	c	67
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349183	1471944960352	1471944960408	h	72
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349222	1471944960568	1471944960632	 	32
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349223	1471944960856	1471944960920	h	72
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349224	1471944961072	1471944961128	i	73
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349225	1471944961256	1471944961312	s	83
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349226	1471944961376	1471944961432	 	32
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349273	1471944961680	1471944961743	d	68
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349274	1471944961857	1471944961930	e	69
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349275	1471944961997	1471944962064	o	79
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349277	1471944962320	1471944962375	n	78
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349279	1471944962792	1471944962905	f	70
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349318	1471944962936	1471944962985	i	73
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349322	1471944963209	1471944963296	e	69
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349323	1471944963399	1471944963485	l	76
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349324	1471944963639	1471944963727	d	68
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349325	1471944963807	1471944963855	 	32
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349436	1471944964562	1471944964601	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349437	1471944964696	1471944964759	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349438	1471944964839	1471944964903	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349439	1471944964991	1471944965057	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349440	1471944965138	1471944965184	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349441	1471944965272	1471944965328	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349442	1471944965408	1471944965480	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349443	1471944965681	1471944965744	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349444	1471944965852	1471944965922	w	87
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349445	1471944966064	1471944966104	n	78
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349446	1471944966552	1471944966665	f	70
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349447	1471944966696	1471944966752	i	73
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349449	1471944967048	1471944967128	e	69
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349478	1471944967272	1471944967360	l	76
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349480	1471944967488	1471944967584	d	68
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349482	1471944967640	1471944967704	 	32
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349484	1471944967960	1471944968064	s	83
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349485	1471944968162	1471944968240	p	80
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349581	1471944968568	1471944968608	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349582	1471944968712	1471944968768	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349583	1471944968849	1471944968904	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349584	1471944969004	1471944969064	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349585	1471944969160	1471944969226	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349587	1471944969305	1471944969360	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349591	1471944969456	1471944969517	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349595	1471944969605	1471944969656	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349597	1471944969752	1471944969811	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349600	1471944969903	1471944969951	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349603	1471944970031	1471944970111	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349610	1471944970319	1471944970351	o	79
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349616	1471944970519	1471944970583	w	87
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349622	1471944970720	1471944970784	n	78
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349627	1471944971183	1471944971287	f	70
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349630	1471944971327	1471944971383	i	73
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349637	1471944971567	1471944971664	e	69
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349639	1471944971737	1471944971831	l	76
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349640	1471944971963	1471944972064	d	68
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349642	1471944972125	1471944972197	 	32
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349644	1471944972400	1471944972516	s	83
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349670	1471944972623	1471944972687	p	80
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349674	1471944972823	1471944972863	e	69
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349679	1471944972951	1471944973031	e	69
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349685	1471944973176	1471944973275	d	68
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349692	1471944973514	1471944973535	.	188
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349788	1471944973959	1471944973999	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349791	1471944974087	1471944974167	BKSP	8
+716	7252	Louis defensive backs should be able to match his downfield speed.	Louis defensive backs should be able to match his downfield speed.	349797	1471944974799	1471944974855	.	190
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350030	1471944978734	1471944978822	CAPS_LOCK	20
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350032	1471944979063	1471944979110	U	85
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350034	1471944979216	1471944979318	CAPS_LOCK	20
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350037	1471944980158	1471944980190	BKSP	8
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350040	1471944980270	1471944980358	CAPS_LOCK	20
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350042	1471944980582	1471944980638	Y	89
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350045	1471944980702	1471944980782	CAPS_LOCK	20
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350048	1471944981534	1471944981574	o	79
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350051	1471944981734	1471944981774	u	85
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350054	1471944981926	1471944982006	 	32
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350070	1471944982166	1471944982237	m	77
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350072	1471944982390	1471944982421	u	85
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350074	1471944982599	1471944982703	s	83
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350076	1471944982775	1471944982849	t	84
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350115	1471944982847	1471944982927	 	32
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350120	1471944983143	1471944983191	t	72
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350125	1471944983799	1471944983838	BKSP	8
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350129	1471944983926	1471944983990	BKSP	8
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350132	1471944984078	1471944984150	t	84
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350135	1471944984214	1471944984246	h	72
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350139	1471944984359	1471944984486	e	69
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350158	1471944984470	1471944984630	r	82
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350161	1471944984614	1471944984766	e	69
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350164	1471944985006	1471944985126	f	70
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350169	1471944985150	1471944985190	o	79
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350172	1471944985318	1471944985502	r	82
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350210	1471944985431	1471944985599	e	69
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350215	1471944985783	1471944985854	 	32
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350222	1471944986191	1471944986247	t	84
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350226	1471944986326	1471944986438	a	65
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350229	1471944986502	1471944986578	k	75
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350233	1471944986622	1471944986686	e	69
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350268	1471944986758	1471944986806	 	32
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350273	1471944986886	1471944986958	f	70
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350278	1471944986998	1471944987030	u	85
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350284	1471944987231	1471944987267	l	76
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350288	1471944987367	1471944987422	l	76
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350315	1471944987534	1471944987606	 	32
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350317	1471944987894	1471944987992	f	70
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350320	1471944988294	1471944988326	BKSP	8
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350323	1471944988430	1471944988542	r	82
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350326	1471944988502	1471944988623	e	69
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350329	1471944988807	1471944988831	s	83
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350388	1471944989254	1471944989350	s	83
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350389	1471944989438	1471944989545	p	80
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350391	1471944989854	1471944989885	BKSP	8
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350395	1471944989989	1471944990037	BKSP	8
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350398	1471944990254	1471944990317	p	80
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350401	1471944990486	1471944990573	o	79
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350404	1471944990846	1471944990885	n	78
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350472	1471944991691	1471944991790	s	83
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350476	1471944991869	1471944991893	i	73
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350481	1471944992384	1471944992413	b	66
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350485	1471944992581	1471944992629	i	73
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350488	1471944992989	1471944993029	k	75
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350582	1471944993470	1471944993501	BKSP	8
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350583	1471944993722	1471944993789	l	76
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350585	1471944993933	1471944994005	i	73
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350589	1471944994173	1471944994245	t	84
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350593	1471944994877	1471944994918	y	89
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350597	1471944995301	1471944995379	 	32
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350624	1471944995613	1471944995693	f	70
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350626	1471944995750	1471944995813	o	79
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350629	1471944995861	1471944995925	r	82
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350630	1471944995981	1471944996037	 	32
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350632	1471944996310	1471944996429	v	86
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350673	1471944996568	1471944996669	i	73
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350675	1471944997045	1471944997116	r	82
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350677	1471944997228	1471944997268	u	85
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350681	1471944997437	1471944997478	s	83
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350684	1471944997566	1471944997613	 	32
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350706	1471944997725	1471944997812	c	67
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350708	1471944997844	1471944997900	h	72
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350710	1471944997956	1471944998031	e	69
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350712	1471944998160	1471944998287	c	67
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350714	1471944998351	1471944998415	k	75
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350829	1471944998567	1471944998623	i	73
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350833	1471944998743	1471944998799	n	78
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350837	1471944998823	1471944998879	g	71
+716	7275	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	350842	1471944999719	1471944999759	.	190
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351052	1471945003968	1471945004080	CAPS_LOCK	20
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351055	1471945004192	1471945004240	T	84
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351057	1471945004328	1471945004448	CAPS_LOCK	20
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351058	1471945004520	1471945004551	h	72
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351059	1471945004904	1471945005000	s	83
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351060	1471945005322	1471945005359	BKSP	8
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351061	1471945005792	1471945005847	u	85
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351062	1471945005903	1471945005976	s	83
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351076	1471945006016	1471945006079	 	32
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351079	1471945006279	1471945006335	h	72
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351081	1471945006367	1471945006455	a	65
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351087	1471945006471	1471945006551	v	86
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351091	1471945006583	1471945006679	e	69
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351126	1471945006711	1471945006767	 	32
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351128	1471945006927	1471945007002	n	78
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351132	1471945007493	1471945007583	o	79
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351135	1471945007657	1471945007720	t	84
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351138	1471945007775	1471945007832	h	72
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351169	1471945007967	1471945008015	i	73
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351170	1471945008119	1471945008175	n	78
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351171	1471945008263	1471945008311	g	71
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351172	1471945008383	1471945008431	 	32
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351173	1471945008527	1471945008575	t	84
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351223	1471945008631	1471945008687	o	79
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351224	1471945008815	1471945008871	 	32
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351225	1471945008951	1471945009047	d	68
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351227	1471945009071	1471945009135	i	73
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351229	1471945009551	1471945009647	s	83
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351274	1471945009791	1471945009873	t	84
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351276	1471945010015	1471945010087	r	82
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351278	1471945010159	1471945010215	o	79
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351283	1471945010375	1471945010406	y	89
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351285	1471945010983	1471945011071	,	188
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351459	1471945011791	1471945011838	BKSP	8
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351461	1471945012230	1471945012286	.	190
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351462	1471945013080	1471945013120	BKSP	8
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351464	1471945013215	1471945013274	BKSP	8
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351467	1471945013375	1471945013431	BKSP	8
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351470	1471945013526	1471945013574	BKSP	8
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351473	1471945013670	1471945013726	BKSP	8
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351477	1471945013814	1471945013862	BKSP	8
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351483	1471945013934	1471945014015	BKSP	8
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351488	1471945014070	1471945014158	e	69
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351491	1471945014318	1471945014406	s	83
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351493	1471945014550	1471945014614	t	84
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351495	1471945014782	1471945014878	r	82
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351602	1471945016086	1471945016134	o	79
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351606	1471945016310	1471945016350	y	89
+716	7295	Thus have nothing to destroy.	Thus have nothing to destroy.	351610	1471945017222	1471945017270	.	190
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351819	1471945021438	1471945021598	CAPS_LOCK	20
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351822	1471945021766	1471945021878	CAPS_LOCK	20
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351825	1471945021926	1471945022086	c	67
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351829	1471945022278	1471945022374	CAPS_LOCK	20
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351835	1471945022734	1471945022775	O	79
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351839	1471945022966	1471945023022	N	78
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351842	1471945023390	1471945023430	BKSP	8
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351849	1471945023534	1471945023590	BKSP	8
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351856	1471945023673	1471945023760	BKSP	8
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351859	1471945023789	1471945023889	C	67
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351863	1471945023889	1471945023990	CAPS_LOCK	20
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351867	1471945024254	1471945024327	o	79
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351913	1471945024478	1471945024534	n	78
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351915	1471945024670	1471945024774	c	67
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351919	1471945025550	1471945025614	BKSP	8
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351920	1471945025950	1471945026022	s	83
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351922	1471945026069	1471945026149	t	84
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351924	1471945026317	1471945026397	r	82
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351954	1471945026445	1471945026517	u	85
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351958	1471945026581	1471945026661	c	67
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351962	1471945026813	1471945026885	t	84
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351969	1471945027029	1471945027101	i	73
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	351972	1471945027189	1471945027309	o	79
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352027	1471945027349	1471945027430	n	78
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352029	1471945027973	1471945028045	 	32
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352032	1471945028397	1471945028461	o	79
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352036	1471945028581	1471945028653	n	78
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352039	1471945028773	1471945028829	 	32
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352064	1471945028901	1471945028949	t	84
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352066	1471945029013	1471945029061	h	72
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352069	1471945029109	1471945029165	e	69
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352072	1471945029221	1471945029277	 	32
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352074	1471945029389	1471945029485	c	67
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352122	1471945029533	1471945029581	o	79
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352123	1471945029797	1471945029845	m	78
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352125	1471945030029	1471945030077	p	80
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352127	1471945030421	1471945030461	BKSP	8
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352129	1471945030557	1471945030613	BKSP	8
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352131	1471945030925	1471945030973	BKSP	8
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352133	1471945031173	1471945031245	m	77
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352214	1471945031693	1471945031789	p	80
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352216	1471945032445	1471945032501	l	76
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352219	1471945032821	1471945032893	e	69
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352222	1471945033020	1471945033164	x	88
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352225	1471945033252	1471945033324	 	32
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352265	1471945033428	1471945033484	w	87
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352268	1471945033685	1471945033733	i	73
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352272	1471945033932	1471945033972	l	76
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352276	1471945034068	1471945034140	l	76
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352280	1471945034212	1471945034263	 	32
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352305	1471945034404	1471945034463	b	66
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352306	1471945034484	1471945034540	e	69
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352307	1471945034957	1471945035005	g	71
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352309	1471945035133	1471945035189	i	73
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352311	1471945035341	1471945035413	n	78
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352363	1471945035549	1471945035614	 	32
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352367	1471945035709	1471945035757	t	84
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352373	1471945035837	1471945035893	h	72
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352381	1471945035989	1471945036069	i	73
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352387	1471945036157	1471945036205	s	83
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352420	1471945036285	1471945036341	 	32
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352423	1471945036517	1471945036557	y	89
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352425	1471945036589	1471945036688	e	69
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352427	1471945036893	1471945037032	a	65
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352559	1471945037030	1471945037141	r	82
+716	7312	Construction on the complex will begin this year.	Construction on the complex will begin this year.	352561	1471945037869	1471945037901	.	190
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	352826	1471945042132	1471945042244	CAPS_LOCK	20
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	352829	1471945042660	1471945042684	,	188
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	352832	1471945042764	1471945042900	CAPS_LOCK	20
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	352840	1471945043180	1471945043356	CAPS_LOCK	20
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	352836	1471945043204	1471945043260	BKSP	8
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	352843	1471945043548	1471945043587	M	75
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	352846	1471945043732	1471945043844	CAPS_LOCK	20
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	352849	1471945043980	1471945044028	BKSP	8
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	352852	1471945044116	1471945044164	BKSP	8
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	352856	1471945044236	1471945044332	BKSP	8
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	352863	1471945044500	1471945044628	CAPS_LOCK	20
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	352870	1471945044884	1471945044948	M	77
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	352978	1471945044964	1471945045068	CAPS_LOCK	20
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	352983	1471945045213	1471945045300	e	69
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	352987	1471945045716	1471945045788	g	71
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	352992	1471945045876	1471945045956	a	65
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	352997	1471945046412	1471945046460	n	78
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353000	1471945047244	1471945047300	,	188
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353175	1471945047507	1471945047579	 	32
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353177	1471945048011	1471945048091	CAPS_LOCK	20
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353182	1471945048147	1471945048203	I	73
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353186	1471945048259	1471945048356	CAPS_LOCK	20
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353191	1471945049212	1471945049259	'	222
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353197	1471945049940	1471945049973	m	77
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353201	1471945050515	1471945050571	 	32
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353256	1471945050731	1471945050854	a	65
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353260	1471945050931	1471945051004	 	32
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353263	1471945051323	1471945051403	l	76
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353268	1471945051507	1471945051563	i	73
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353272	1471945051771	1471945051811	t	84
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353313	1471945051915	1471945051995	t	84
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353317	1471945052052	1471945052123	l	76
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353322	1471945052183	1471945052246	e	69
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353324	1471945052309	1471945052363	 	32
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353328	1471945052484	1471945052540	t	84
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353355	1471945052620	1471945052668	o	79
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353359	1471945052772	1471945052844	o	79
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353365	1471945052996	1471945053068	 	32
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353370	1471945053468	1471945053604	q	81
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353378	1471945053700	1471945053747	u	85
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353430	1471945054044	1471945054100	i	73
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353433	1471945054204	1471945054308	c	67
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353435	1471945054379	1471945054435	k	75
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353439	1471945055163	1471945055235	 	32
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353441	1471945055355	1471945055459	f	70
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353467	1471945055499	1471945055563	o	79
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353469	1471945055635	1471945055699	r	82
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353471	1471945055739	1471945055788	 	32
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353474	1471945055939	1471945056003	m	77
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353478	1471945056163	1471945056203	y	89
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353548	1471945056467	1471945056531	s	83
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353553	1471945056716	1471945056835	e	69
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353558	1471945057003	1471945057067	l	76
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353561	1471945057147	1471945057275	f	70
+716	7335	Megan, I'm a little too quick for myself.	Megan, I'm a little too quick for myself.	353566	1471945057980	1471945058037	.	190
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	353915	1471945062276	1471945062381	CAPS_LOCK	20
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	353916	1471945062484	1471945062572	,	188
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	353920	1471945062604	1471945062708	CAPS_LOCK	20
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	353925	1471945062756	1471945062804	o	79
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	353928	1471945063172	1471945063204	BKSP	8
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	353930	1471945063292	1471945063356	BKSP	8
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	353933	1471945063420	1471945063532	CAPS_LOCK	20
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	353936	1471945063844	1471945063892	M	77
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	353939	1471945063900	1471945064012	CAPS_LOCK	20
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	353944	1471945064140	1471945064172	i	73
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	353948	1471945064340	1471945064404	k	75
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354005	1471945064452	1471945064524	e	69
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354006	1471945064596	1471945064660	 	32
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354009	1471945064996	1471945065100	a	65
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354013	1471945065372	1471945065476	CAPS_LOCK	20
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354017	1471945065548	1471945065596	BKSP	8
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354022	1471945065644	1471945065708	A	65
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354028	1471945065796	1471945065892	CAPS_LOCK	20
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354032	1471945066084	1471945066147	n	78
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354063	1471945066276	1471945066363	d	68
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354066	1471945066484	1471945066643	e	69
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354070	1471945066612	1471945066724	r	82
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354072	1471945066900	1471945066947	s	83
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354074	1471945067044	1471945067123	o	79
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354115	1471945067228	1471945067291	n	78
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354119	1471945067420	1471945067475	 	32
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354124	1471945067460	1471945067523	w	87
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354128	1471945067619	1471945067675	i	73
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354133	1471945067820	1471945067859	l	76
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354165	1471945067947	1471945068003	l	76
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354167	1471945068067	1471945068131	 	32
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354169	1471945068315	1471945068443	r	82
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354173	1471945068379	1471945068467	e	69
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354176	1471945068620	1471945068675	t	84
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354212	1471945068779	1471945068891	a	65
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354214	1471945068931	1471945068980	i	73
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354216	1471945069108	1471945069155	n	78
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354220	1471945069275	1471945069331	 	32
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354223	1471945069363	1471945069412	t	84
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354252	1471945069507	1471945069547	h	72
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354254	1471945069579	1471945069635	e	69
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354257	1471945069707	1471945069755	 	32
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354260	1471945070004	1471945070092	s	83
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354264	1471945070132	1471945070204	t	84
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354310	1471945070308	1471945070436	a	65
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354314	1471945070412	1471945070484	r	82
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354319	1471945070620	1471945070700	t	84
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354323	1471945070876	1471945070932	i	73
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354327	1471945071036	1471945071100	n	78
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354430	1471945071156	1471945071253	g	71
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354433	1471945071300	1471945071356	 	32
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354436	1471945071700	1471945071772	CAPS_LOCK	20
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354439	1471945071796	1471945071852	J	74
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354442	1471945071908	1471945071972	CAPS_LOCK	20
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354444	1471945072348	1471945072412	CAPS_LOCK	20
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354447	1471945072460	1471945072500	BKSP	8
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354448	1471945072740	1471945072750	J	74
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354451	1471945072972	1471945073020	O	79
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354628	1471945073228	1471945073284	B	66
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354633	1471945073452	1471945073508	 	32
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354636	1471945073892	1471945073924	BKSP	8
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354638	1471945074020	1471945074083	BKSP	8
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354642	1471945074172	1471945074412	BKSP	8
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354647	1471945074756	1471945074804	BKSP	8
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354653	1471945075060	1471945075084	J	74
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354658	1471945075436	1471945075523	CAPS_LOCK	20
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354667	1471945075612	1471945075667	BKSP	8
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354670	1471945076004	1471945076059	j	74
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354674	1471945076228	1471945076291	o	79
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354694	1471945076492	1471945076523	b	66
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354698	1471945076876	1471945076939	 	32
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354703	1471945077043	1471945077100	f	70
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354707	1471945077135	1471945077187	o	79
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354712	1471945077235	1471945077315	r	82
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354783	1471945077323	1471945077381	 	32
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354791	1471945077491	1471945077555	n	78
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354798	1471945077659	1471945077724	o	79
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354804	1471945077748	1471945077811	w	87
+716	7353	Mike Anderson will retain the starting job for now.	Mike Anderson will retain the starting job for now.	354808	1471945078451	1471945078499	.	190
+716	7378	He is listed as day to day.	He is listed as day to day.	355095	1471945082259	1471945082338	CAPS_LOCK	20
+716	7378	He is listed as day to day.	He is listed as day to day.	355101	1471945082627	1471945082690	CAPS_LOCK	20
+716	7378	He is listed as day to day.	He is listed as day to day.	355106	1471945083050	1471945083082	BKSP	8
+716	7378	He is listed as day to day.	He is listed as day to day.	355108	1471945083154	1471945083266	CAPS_LOCK	20
+716	7378	He is listed as day to day.	He is listed as day to day.	355109	1471945083354	1471945083378	H	72
+716	7378	He is listed as day to day.	He is listed as day to day.	355110	1471945083650	1471945083762	CAPS_LOCK	20
+716	7378	He is listed as day to day.	He is listed as day to day.	355111	1471945083874	1471945083947	e	69
+716	7378	He is listed as day to day.	He is listed as day to day.	355113	1471945084059	1471945084122	 	32
+716	7378	He is listed as day to day.	He is listed as day to day.	355117	1471945084258	1471945084314	i	73
+716	7378	He is listed as day to day.	He is listed as day to day.	355120	1471945084386	1471945084442	s	83
+716	7378	He is listed as day to day.	He is listed as day to day.	355161	1471945084514	1471945084570	 	32
+716	7378	He is listed as day to day.	He is listed as day to day.	355164	1471945084746	1471945084898	l	76
+716	7378	He is listed as day to day.	He is listed as day to day.	355168	1471945084962	1471945085010	i	73
+716	7378	He is listed as day to day.	He is listed as day to day.	355171	1471945085138	1471945085210	s	83
+716	7378	He is listed as day to day.	He is listed as day to day.	355176	1471945085266	1471945085380	t	84
+716	7378	He is listed as day to day.	He is listed as day to day.	355212	1471945085378	1471945085458	e	69
+716	7378	He is listed as day to day.	He is listed as day to day.	355217	1471945085586	1471945085658	d	68
+716	7378	He is listed as day to day.	He is listed as day to day.	355221	1471945085722	1471945085778	 	32
+716	7378	He is listed as day to day.	He is listed as day to day.	355229	1471945085866	1471945085954	a	65
+716	7378	He is listed as day to day.	He is listed as day to day.	355233	1471945086034	1471945086146	s	83
+716	7378	He is listed as day to day.	He is listed as day to day.	355237	1471945086194	1471945086250	 	32
+716	7378	He is listed as day to day.	He is listed as day to day.	355277	1471945086370	1471945086466	d	68
+716	7378	He is listed as day to day.	He is listed as day to day.	355281	1471945086490	1471945086618	a	65
+716	7378	He is listed as day to day.	He is listed as day to day.	355286	1471945086722	1471945086763	y	89
+716	7378	He is listed as day to day.	He is listed as day to day.	355290	1471945086914	1471945086963	 	32
+716	7378	He is listed as day to day.	He is listed as day to day.	355293	1471945087074	1471945087130	t	84
+716	7378	He is listed as day to day.	He is listed as day to day.	355326	1471945087186	1471945087274	o	79
+716	7378	He is listed as day to day.	He is listed as day to day.	355329	1471945087635	1471945087699	 	32
+716	7378	He is listed as day to day.	He is listed as day to day.	355333	1471945087795	1471945087875	d	68
+716	7378	He is listed as day to day.	He is listed as day to day.	355337	1471945087899	1471945088019	a	65
+716	7378	He is listed as day to day.	He is listed as day to day.	355344	1471945088059	1471945088091	y	89
+716	7378	He is listed as day to day.	He is listed as day to day.	355445	1471945088755	1471945088803	.	190

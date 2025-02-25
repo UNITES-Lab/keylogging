@@ -1,0 +1,648 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142202	1471939320593	1471939320593	PAUSE	126
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142204	1471939320671	1471939320942	SHIFT	16
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142206	1471939320859	1471939320973	I	73
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142208	1471939320989	1471939321160	w	87
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142210	1471939321144	1471939321287	i	73
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142212	1471939321458	1471939321510	BKSP	8
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142214	1471939321588	1471939321659	BKSP	8
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142216	1471939321706	1471939321776	 	32
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142218	1471939321823	1471939321950	w	87
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142213	1471939321938	1471939322008	i	73
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142215	1471939322070	1471939322160	l	76
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142217	1471939322207	1471939322291	l	76
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142219	1471939322447	1471939322540	l	76
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142220	1471939322759	1471939322842	BKSP	8
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142221	1471939322904	1471939323037	 	32
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142222	1471939323037	1471939323178	n	78
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142224	1471939323125	1471939323265	o	79
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142227	1471939323224	1471939323322	t	84
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142230	1471939323292	1471939323409	 	32
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142234	1471939323390	1471939323489	m	77
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142237	1471939323489	1471939323542	a	65
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142240	1471939323574	1471939323682	k	75
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142242	1471939323625	1471939323741	e	69
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142245	1471939323725	1471939323824	 	32
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142247	1471939323824	1471939323892	t	84
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142250	1471939323861	1471939323959	h	72
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142251	1471939323940	1471939324042	e	69
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142253	1471939324039	1471939324113	 	32
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142255	1471939324113	1471939324206	m	77
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142257	1471939324172	1471939324225	e	69
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142259	1471939324303	1471939324374	e	69
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142261	1471939324390	1471939324493	t	84
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142263	1471939324459	1471939324575	i	73
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142264	1471939324555	1471939324660	n	78
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142265	1471939324633	1471939324741	g	71
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142266	1471939324738	1471939324808	 	32
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142267	1471939324808	1471939324889	a	65
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142289	1471939324876	1471939324976	t	84
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142291	1471939324973	1471939325057	 	32
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142292	1471939325126	1471939325223	1	49
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142293	1471939325302	1471939325390	 	32
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142296	1471939325440	1471939325875	SHIFT	16
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142294	1471939325503	1471939325590	P	80
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142295	1471939325637	1471939325724	M	77
+327	2927	I will not make the meeting at 1 PM.	I will not make the meeting at 1 PM.	142297	1471939325875	1471939325926	.	190
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142503	1471939334980	1471939335172	SHIFT	16
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142506	1471939335043	1471939335172	A	65
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142509	1471939335219	1471939335338	m	77
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142511	1471939335479	1471939335592	y	89
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142513	1471939335588	1471939335673	 	32
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142515	1471939335735	1471939335875	SHIFT	16
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142522	1471939335829	1471939335959	F	70
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142525	1471939335930	1471939336022	e	69
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142528	1471939336053	1471939336109	l	76
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142530	1471939336218	1471939336358	l	76
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142531	1471939336322	1471939336438	i	73
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142532	1471939336438	1471939336592	n	78
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142533	1471939336491	1471939336594	g	71
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142534	1471939336589	1471939336708	 	32
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142535	1471939336642	1471939336759	s	83
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142536	1471939336723	1471939336827	h	72
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142537	1471939336822	1471939336928	o	79
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142538	1471939336906	1471939337006	u	85
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142540	1471939337037	1471939337124	l	76
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142557	1471939337072	1471939337177	d	68
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142560	1471939337208	1471939337302	 	32
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142563	1471939337302	1471939337374	b	66
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142566	1471939337437	1471939337545	e	69
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142569	1471939337491	1471939337642	 	32
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142580	1471939337603	1471939337712	y	89
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142581	1471939337701	1471939337863	o	79
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142582	1471939337789	1471939337942	u	85
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142583	1471939337837	1471939337942	r	82
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142584	1471939337938	1471939338054	 	32
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142605	1471939338054	1471939338192	c	79
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142607	1471939338169	1471939338313	n	78
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142608	1471939338257	1471939338359	t	84
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142609	1471939338359	1471939338457	a	65
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142610	1471939338488	1471939338573	c	67
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142611	1471939338667	1471939338740	t	84
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142617	1471939338703	1471939338804	 	32
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142618	1471939338776	1471939338905	o	79
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142619	1471939338853	1471939338973	n	78
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142620	1471939338939	1471939339051	 	32
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142621	1471939339007	1471939339098	t	84
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142634	1471939339091	1471939339210	h	72
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142636	1471939339188	1471939339266	e	69
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142639	1471939339241	1471939339358	 	32
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142643	1471939339417	1471939339509	1	49
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142644	1471939339475	1471939339589	9	57
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142646	1471939339949	1471939340056	t	84
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142655	1471939340053	1471939340123	h	72
+327	2939	Amy Felling should be your contact on the 19th.	Amy Felling should be your ocntact on the 19th.	142656	1471939340248	1471939340310	.	190
+327	2943	Task has to be completed.	Task has to be completed.	142741	1471939345155	1471939345352	SHIFT	16
+327	2943	Task has to be completed.	Task has to be completed.	142743	1471939345304	1471939345435	T	84
+327	2943	Task has to be completed.	Task has to be completed.	142745	1471939345498	1471939345591	a	65
+327	2943	Task has to be completed.	Task has to be completed.	142746	1471939345537	1471939345685	s	83
+327	2943	Task has to be completed.	Task has to be completed.	142747	1471939345700	1471939345822	k	75
+327	2943	Task has to be completed.	Task has to be completed.	142769	1471939345756	1471939345928	 	32
+327	2943	Task has to be completed.	Task has to be completed.	142771	1471939345897	1471939346019	h	72
+327	2943	Task has to be completed.	Task has to be completed.	142773	1471939346019	1471939346138	a	65
+327	2943	Task has to be completed.	Task has to be completed.	142774	1471939346088	1471939346209	s	83
+327	2943	Task has to be completed.	Task has to be completed.	142778	1471939346203	1471939346307	 	32
+327	2943	Task has to be completed.	Task has to be completed.	142781	1471939346339	1471939346437	t	84
+327	2943	Task has to be completed.	Task has to be completed.	142793	1471939346421	1471939346527	o	79
+327	2943	Task has to be completed.	Task has to be completed.	142794	1471939346492	1471939346620	 	32
+327	2943	Task has to be completed.	Task has to be completed.	142795	1471939346620	1471939346690	b	66
+327	2943	Task has to be completed.	Task has to be completed.	142796	1471939346736	1471939346856	e	69
+327	2943	Task has to be completed.	Task has to be completed.	142798	1471939346853	1471939346953	 	32
+327	2943	Task has to be completed.	Task has to be completed.	142800	1471939346953	1471939347050	c	67
+327	2943	Task has to be completed.	Task has to be completed.	142820	1471939347006	1471939347077	o	79
+327	2943	Task has to be completed.	Task has to be completed.	142822	1471939347155	1471939347278	m	77
+327	2943	Task has to be completed.	Task has to be completed.	142824	1471939347268	1471939347373	p	80
+327	2943	Task has to be completed.	Task has to be completed.	142827	1471939347448	1471939347572	l	76
+327	2943	Task has to be completed.	Task has to be completed.	142829	1471939347523	1471939347623	e	69
+327	2943	Task has to be completed.	Task has to be completed.	142831	1471939347654	1471939347794	t	84
+327	2943	Task has to be completed.	Task has to be completed.	142837	1471939347752	1471939347871	e	69
+327	2943	Task has to be completed.	Task has to be completed.	142838	1471939347964	1471939348056	d	68
+327	2943	Task has to be completed.	Task has to be completed.	142839	1471939348072	1471939348155	.	190
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143031	1471939353840	1471939354005	SHIFT	16
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143036	1471939353933	1471939354069	O	79
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143041	1471939354036	1471939354203	n	78
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143046	1471939354126	1471939354239	e	69
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143050	1471939354188	1471939354328	 	32
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143059	1471939354286	1471939354391	a	65
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143060	1471939354355	1471939354439	s	83
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143061	1471939354548	1471939354624	s	83
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143063	1471939354589	1471939354717	i	73
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143065	1471939354717	1471939354819	s	83
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143067	1471939354866	1471939355001	t	84
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143079	1471939355019	1471939355131	a	65
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143082	1471939355116	1471939355266	n	78
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143084	1471939355266	1471939355338	t	84
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143085	1471939355369	1471939355438	 	32
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143086	1471939355438	1471939355559	a	65
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143092	1471939355552	1471939355652	n	78
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143093	1471939355620	1471939355718	d	68
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143094	1471939355688	1471939355815	 	32
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143096	1471939355786	1471939355886	o	79
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143098	1471939355901	1471939356018	n	78
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143100	1471939356049	1471939356190	e	69
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143121	1471939356177	1471939356270	 	32
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143123	1471939356285	1471939356668	SHIFT	16
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143122	1471939356368	1471939356468	H	72
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143124	1471939356546	1471939356675	R	82
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143125	1471939356668	1471939356768	 	32
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143126	1471939356971	1471939357163	a	65
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143127	1471939357242	1471939357304	s	83
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143139	1471939357388	1471939357510	s	83
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143142	1471939357502	1471939357634	o	79
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143145	1471939357634	1471939357760	c	67
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143146	1471939357751	1471939357851	i	73
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143148	1471939357851	1471939357964	a	65
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143152	1471939357953	1471939358074	t	84
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143154	1471939358021	1471939358121	e	69
+327	2952	One assistant and one HR associate.	One assistant and one HR associate.	143156	1471939358152	1471939358221	.	190
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143299	1471939364302	1471939364520	SHIFT	16
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143300	1471939364443	1471939364536	T	84
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143301	1471939364552	1471939364687	h	72
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143302	1471939364634	1471939364766	e	69
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143303	1471939364797	1471939364888	 	32
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143323	1471939364842	1471939364902	a	65
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143324	1471939365158	1471939365220	BKSP	8
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143325	1471939365299	1471939365343	BKSP	8
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143327	1471939365448	1471939365553	y	89
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143329	1471939365535	1471939365620	 	32
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143331	1471939365620	1471939365744	a	65
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143333	1471939365702	1471939365834	r	82
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143351	1471939365754	1471939365862	e	69
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143352	1471939365821	1471939365950	 	32
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143355	1471939365950	1471939366066	s	83
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143357	1471939366105	1471939366218	p	80
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143359	1471939366218	1471939366302	e	69
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143360	1471939366396	1471939366516	c	67
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143374	1471939366500	1471939366586	i	73
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143376	1471939366649	1471939366748	f	70
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143379	1471939366735	1471939366817	i	73
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143383	1471939366880	1471939367020	c	67
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143385	1471939366984	1471939367105	a	65
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143394	1471939367067	1471939367121	l	76
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143397	1471939367217	1471939367303	l	76
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143400	1471939367365	1471939367456	y	89
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143403	1471939367451	1471939367534	 	32
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143406	1471939367549	1471939367668	o	79
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143429	1471939367579	1471939367668	c	67
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143430	1471939367758	1471939367913	n	78
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143431	1471939368128	1471939368177	BKSP	8
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143432	1471939368265	1471939368320	BKSP	8
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143433	1471939368383	1471939368467	BKSP	8
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143434	1471939368467	1471939368583	c	67
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143435	1471939368568	1471939368653	o	79
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143436	1471939368669	1471939368770	n	78
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143468	1471939368720	1471939368828	c	67
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143470	1471939368922	1471939369046	e	69
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143474	1471939369017	1471939369144	r	82
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143477	1471939369176	1471939369331	n	78
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143478	1471939369331	1471939369434	e	69
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143481	1471939369527	1471939369634	d	68
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143499	1471939369697	1471939369799	 	32
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143500	1471939369940	1471939370018	a	65
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143501	1471939370066	1471939370175	b	66
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143502	1471939370174	1471939370301	o	79
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143506	1471939370221	1471939370357	u	85
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143509	1471939370357	1471939370429	t	84
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143512	1471939370418	1471939370501	 	32
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143515	1471939370550	1471939370635	t	84
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143519	1471939370618	1471939370718	h	72
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143523	1471939370718	1471939370789	e	69
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143566	1471939370787	1471939370889	 	32
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143569	1471939370852	1471939370936	i	73
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143572	1471939371006	1471939371151	n	78
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143574	1471939371069	1471939371151	t	84
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143576	1471939371151	1471939371282	e	69
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143565	1471939371250	1471939371324	r	82
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143567	1471939371434	1471939371521	c	67
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143570	1471939371487	1471939371567	o	79
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143573	1471939371646	1471939371762	m	77
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143575	1471939371749	1471939371850	p	80
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143577	1471939371881	1471939371967	a	65
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143589	1471939372009	1471939372068	n	78
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143590	1471939372179	1471939372268	y	89
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143592	1471939372284	1471939372409	 	32
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143594	1471939372385	1471939372510	n	78
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143655	1471939372468	1471939372628	o	79
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143658	1471939372568	1471939372645	t	84
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143661	1471939372629	1471939372765	e	69
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143664	1471939372999	1471939373052	BKSP	8
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143667	1471939373143	1471939373234	BKSP	8
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143669	1471939373297	1471939373383	BKSP	8
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143671	1471939374468	1471939374613	o	79
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143673	1471939374613	1471939374717	t	84
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143675	1471939374665	1471939374819	e	69
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143678	1471939374760	1471939374875	s	83
+327	2959	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	143679	1471939374865	1471939374936	.	190
+327	2967	Did you not read my first email?	Did you not read my first email	143786	1471939379017	1471939379316	SHIFT	16
+327	2967	Did you not read my first email?	Did you not read my first email	143789	1471939379233	1471939379316	D	68
+327	2967	Did you not read my first email?	Did you not read my first email	143792	1471939379394	1471939379485	i	73
+327	2967	Did you not read my first email?	Did you not read my first email	143794	1471939379446	1471939379548	d	68
+327	2967	Did you not read my first email?	Did you not read my first email	143796	1471939379563	1471939379698	 	32
+327	2967	Did you not read my first email?	Did you not read my first email	143801	1471939379791	1471939379910	y	89
+327	2967	Did you not read my first email?	Did you not read my first email	143798	1471939379821	1471939379821	PAUSE	126
+327	2967	Did you not read my first email?	Did you not read my first email	143803	1471939379898	1471939380068	o	79
+327	2967	Did you not read my first email?	Did you not read my first email	143808	1471939379999	1471939380068	u	85
+327	2967	Did you not read my first email?	Did you not read my first email	143813	1471939380066	1471939380181	 	32
+327	2967	Did you not read my first email?	Did you not read my first email	143819	1471939380228	1471939380386	n	78
+327	2967	Did you not read my first email?	Did you not read my first email	143854	1471939380347	1471939380520	o	79
+327	2967	Did you not read my first email?	Did you not read my first email	143855	1471939380503	1471939380615	t	84
+327	2967	Did you not read my first email?	Did you not read my first email	143856	1471939380661	1471939380859	 	32
+327	2967	Did you not read my first email?	Did you not read my first email	143858	1471939380937	1471939381036	r	82
+327	2967	Did you not read my first email?	Did you not read my first email	143861	1471939381002	1471939381144	e	69
+327	2967	Did you not read my first email?	Did you not read my first email	143864	1471939381144	1471939381272	a	65
+327	2967	Did you not read my first email?	Did you not read my first email	143878	1471939381264	1471939381363	d	68
+327	2967	Did you not read my first email?	Did you not read my first email	143881	1471939381302	1471939381415	 	32
+327	2967	Did you not read my first email?	Did you not read my first email	143885	1471939381415	1471939381516	m	77
+327	2967	Did you not read my first email?	Did you not read my first email	143889	1471939381594	1471939381668	y	89
+327	2967	Did you not read my first email?	Did you not read my first email	143893	1471939381652	1471939381748	 	32
+327	2967	Did you not read my first email?	Did you not read my first email	143897	1471939381748	1471939381834	f	70
+327	2967	Did you not read my first email?	Did you not read my first email	143911	1471939381871	1471939382001	i	73
+327	2967	Did you not read my first email?	Did you not read my first email	143912	1471939381950	1471939382103	r	82
+327	2967	Did you not read my first email?	Did you not read my first email	143914	1471939382103	1471939382145	e	69
+327	2967	Did you not read my first email?	Did you not read my first email	143915	1471939382401	1471939382503	BKSP	8
+327	2967	Did you not read my first email?	Did you not read my first email	143917	1471939382503	1471939382639	s	83
+327	2967	Did you not read my first email?	Did you not read my first email	143931	1471939382630	1471939382751	t	84
+327	2967	Did you not read my first email?	Did you not read my first email	143933	1471939382747	1471939382864	 	32
+327	2967	Did you not read my first email?	Did you not read my first email	143936	1471939382973	1471939383104	e	69
+327	2967	Did you not read my first email?	Did you not read my first email	143939	1471939383066	1471939383197	m	77
+327	2967	Did you not read my first email?	Did you not read my first email	143942	1471939383197	1471939383318	a	65
+327	2967	Did you not read my first email?	Did you not read my first email	143954	1471939383283	1471939383389	i	73
+327	2967	Did you not read my first email?	Did you not read my first email	143956	1471939383346	1471939383433	l	76
+327	2967	Did you not read my first email?	Did you not read my first email	143960	1471939383558	1471939383696	SHIFT	16
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144039	1471939386219	1471939386417	SHIFT	16
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144041	1471939386344	1471939386452	H	72
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144044	1471939386417	1471939386568	o	79
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144046	1471939386516	1471939386633	w	87
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144048	1471939386631	1471939386735	 	32
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144056	1471939386699	1471939386805	d	68
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144060	1471939386798	1471939386882	i	73
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144064	1471939386882	1471939387013	d	68
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144068	1471939386997	1471939387129	 	32
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144087	1471939387129	1471939387246	t	72
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144091	1471939387277	1471939387382	e	69
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144094	1471939387445	1471939387547	y	89
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144097	1471939387543	1471939387647	 	32
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144100	1471939387678	1471939387781	g	71
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144103	1471939387781	1471939387864	e	69
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144187	1471939387890	1471939388019	t	84
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144189	1471939388014	1471939388120	 	32
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144193	1471939388094	1471939388232	o	79
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144195	1471939388214	1471939388360	n	78
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144197	1471939388890	1471939388950	BKSP	8
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144199	1471939389044	1471939389132	BKSP	8
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144202	1471939389242	1471939389330	BKSP	8
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144206	1471939389440	1471939389516	BKSP	8
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144209	1471939389594	1471939390228	BKSP	8
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144211	1471939390344	1471939390414	BKSP	8
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144213	1471939390654	1471939390781	t	84
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144214	1471939390766	1471939390865	h	72
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144216	1471939390883	1471939390949	e	69
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144218	1471939390995	1471939391079	y	89
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144219	1471939391066	1471939391202	 	32
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144220	1471939391181	1471939391296	g	71
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144221	1471939391296	1471939391412	e	69
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144235	1471939391427	1471939391565	t	84
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144237	1471939391561	1471939391663	 	32
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144239	1471939391663	1471939391797	o	79
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144241	1471939391749	1471939391878	n	78
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144243	1471939391925	1471939392015	t	84
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144251	1471939392041	1471939392159	o	79
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144252	1471939392120	1471939392272	 	32
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144253	1471939392272	1471939392427	o	79
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144255	1471939392379	1471939392512	u	85
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144276	1471939392467	1471939392567	r	82
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144278	1471939392549	1471939392663	 	32
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144279	1471939392663	1471939392754	f	70
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144280	1471939392748	1471939392799	o	79
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144281	1471939392909	1471939392997	l	76
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144282	1471939393159	1471939393206	BKSP	8
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144283	1471939393294	1471939393365	BKSP	8
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144284	1471939393475	1471939393516	l	76
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144288	1471939393608	1471939393665	o	79
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144290	1471939393759	1471939393834	o	79
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144292	1471939393834	1471939393931	r	82
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144296	1471939393978	1471939394168	SHIFT	16
+327	2974	How did they get onto our floor?	How did they get onto our floor?	144294	1471939394056	1471939394134	?	191
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144450	1471939398357	1471939400928	SHIFT	16
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144454	1471939400829	1471939400928	S	83
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144457	1471939401038	1471939401246	p	80
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144461	1471939401102	1471939401246	o	79
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144464	1471939401196	1471939401293	r	82
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144467	1471939401378	1471939401510	t	84
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144477	1471939401510	1471939401622	s	83
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144482	1471939401612	1471939401774	 	32
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144486	1471939401774	1471939401921	f	70
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144490	1471939401862	1471939402004	a	65
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144510	1471939401978	1471939402118	n	78
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144513	1471939402100	1471939402223	s	83
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144517	1471939402211	1471939402344	 	32
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144521	1471939402311	1471939402427	h	72
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144524	1471939402395	1471939402515	e	69
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144531	1471939402510	1471939402647	r	82
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144534	1471939402579	1471939402718	e	69
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144538	1471939402678	1471939402815	 	32
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144541	1471939402777	1471939402896	a	65
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144544	1471939402847	1471939402979	r	82
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144577	1471939402912	1471939403029	e	69
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144579	1471939403026	1471939403143	 	32
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144581	1471939403408	1471939403495	e	69
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144583	1471939403606	1471939403737	x	88
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144585	1471939403727	1471939403858	c	67
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144586	1471939403905	1471939404057	i	73
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144599	1471939404057	1471939404150	t	84
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144603	1471939404114	1471939404215	e	69
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144606	1471939404278	1471939404346	d	68
+327	2983	Sports fans here are excited.	Sports fans here are excited.	144609	1471939404361	1471939404430	.	190
+327	2988	This is good I think.	This is good I think.	144715	1471939407738	1471939407946	SHIFT	16
+327	2988	This is good I think.	This is good I think.	144717	1471939407879	1471939407990	T	84
+327	2988	This is good I think.	This is good I think.	144719	1471939407946	1471939408084	h	72
+327	2988	This is good I think.	This is good I think.	144721	1471939408028	1471939408194	i	73
+327	2988	This is good I think.	This is good I think.	144733	1471939408106	1471939408196	s	83
+327	2988	This is good I think.	This is good I think.	144736	1471939408179	1471939408297	 	32
+327	2988	This is good I think.	This is good I think.	144741	1471939408261	1471939408433	i	73
+327	2988	This is good I think.	This is good I think.	144744	1471939408328	1471939408433	s	83
+327	2988	This is good I think.	This is good I think.	144746	1471939408428	1471939408542	 	32
+327	2988	This is good I think.	This is good I think.	144747	1471939408542	1471939408668	g	71
+327	2988	This is good I think.	This is good I think.	144755	1471939408659	1471939408713	o	79
+327	2988	This is good I think.	This is good I think.	144756	1471939408794	1471939408948	o	79
+327	2988	This is good I think.	This is good I think.	144757	1471939408830	1471939408948	d	68
+327	2988	This is good I think.	This is good I think.	144758	1471939408945	1471939409058	 	32
+327	2988	This is good I think.	This is good I think.	144759	1471939409058	1471939409243	SHIFT	16
+327	2988	This is good I think.	This is good I think.	144760	1471939409132	1471939409259	I	73
+327	2988	This is good I think.	This is good I think.	144774	1471939409243	1471939409361	 	32
+327	2988	This is good I think.	This is good I think.	144776	1471939409361	1471939409445	t	84
+327	2988	This is good I think.	This is good I think.	144778	1471939409397	1471939409502	h	72
+327	2988	This is good I think.	This is good I think.	144780	1471939409476	1471939409576	i	73
+327	2988	This is good I think.	This is good I think.	144782	1471939409607	1471939409717	n	78
+327	2988	This is good I think.	This is good I think.	144785	1471939409693	1471939409777	k	75
+327	2988	This is good I think.	This is good I think.	144787	1471939409877	1471939409917	.	190
+327	2993	If so Whitt is done.	If so Whitt is done.	144922	1471939412480	1471939413551	SHIFT	16
+327	2993	If so Whitt is done.	If so Whitt is done.	144923	1471939413514	1471939413642	I	73
+327	2993	If so Whitt is done.	If so Whitt is done.	144924	1471939413673	1471939413760	f	70
+327	2993	If so Whitt is done.	If so Whitt is done.	144925	1471939413791	1471939413908	 	32
+327	2993	If so Whitt is done.	If so Whitt is done.	144926	1471939413955	1471939414067	s	83
+327	2993	If so Whitt is done.	If so Whitt is done.	144962	1471939414059	1471939414178	o	79
+327	2993	If so Whitt is done.	If so Whitt is done.	144965	1471939414137	1471939414274	 	32
+327	2993	If so Whitt is done.	If so Whitt is done.	144972	1471939414430	1471939414641	SHIFT	16
+327	2993	If so Whitt is done.	If so Whitt is done.	144968	1471939414540	1471939414626	W	87
+327	2993	If so Whitt is done.	If so Whitt is done.	144978	1471939414688	1471939414813	h	72
+327	2993	If so Whitt is done.	If so Whitt is done.	144981	1471939414792	1471939414878	i	73
+327	2993	If so Whitt is done.	If so Whitt is done.	144985	1471939414909	1471939414962	t	84
+327	2993	If so Whitt is done.	If so Whitt is done.	144988	1471939415080	1471939415163	t	84
+327	2993	If so Whitt is done.	If so Whitt is done.	144991	1471939415146	1471939415278	 	32
+327	2993	If so Whitt is done.	If so Whitt is done.	144995	1471939415243	1471939415357	i	73
+327	2993	If so Whitt is done.	If so Whitt is done.	144997	1471939415357	1471939415436	s	83
+327	2993	If so Whitt is done.	If so Whitt is done.	145008	1471939415427	1471939415527	 	32
+327	2993	If so Whitt is done.	If so Whitt is done.	145011	1471939415543	1471939415646	d	68
+327	2993	If so Whitt is done.	If so Whitt is done.	145014	1471939415611	1471939415750	o	79
+327	2993	If so Whitt is done.	If so Whitt is done.	145016	1471939415724	1471939415844	n	78
+327	2993	If so Whitt is done.	If so Whitt is done.	145019	1471939415826	1471939415910	e	69
+327	2993	If so Whitt is done.	If so Whitt is done.	145022	1471939416019	1471939416088	.	190
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145195	1471939421604	1471939421758	SHIFT	16
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145196	1471939421651	1471939421758	A	65
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145197	1471939421867	1471939421968	 	32
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145198	1471939421928	1471939422009	t	84
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145199	1471939422157	1471939422211	BKSP	8
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145201	1471939422305	1471939422407	BKSP	8
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145206	1471939422407	1471939422479	t	84
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145217	1471939422475	1471939422558	 	32
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145218	1471939422558	1471939422726	l	76
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145219	1471939422657	1471939422773	e	69
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145220	1471939422773	1471939422926	a	65
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145221	1471939422858	1471939422973	s	83
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145222	1471939422988	1471939423106	t	84
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145230	1471939423098	1471939423208	 	32
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145234	1471939423240	1471939423313	t	84
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145237	1471939423310	1471939423391	h	72
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145241	1471939423391	1471939423476	e	69
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145244	1471939423492	1471939423611	n	78
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145245	1471939423576	1471939423710	 	32
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145246	1471939423659	1471939423783	o	79
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145247	1471939423757	1471939423925	n	78
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145248	1471939423810	1471939423926	e	69
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145249	1471939423892	1471939424027	 	32
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145260	1471939423976	1471939424127	p	80
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145262	1471939424041	1471939424197	e	69
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145266	1471939424143	1471939424258	r	82
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145271	1471939424300	1471939424411	s	83
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145274	1471939424376	1471939424500	o	79
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145277	1471939424459	1471939424620	n	78
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145278	1471939424565	1471939424705	 	32
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145279	1471939424721	1471939424833	i	73
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145280	1471939424833	1471939424938	n	78
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145281	1471939424892	1471939425039	 	32
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145282	1471939425039	1471939425208	SHIFT	16
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145289	1471939425133	1471939425208	D	68
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145291	1471939425270	1471939425359	e	69
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145293	1471939425374	1471939425489	n	78
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145295	1471939425536	1471939425671	v	86
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145298	1471939425702	1471939425867	e	69
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145307	1471939425854	1471939425964	r	82
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145309	1471939425957	1471939426056	 	32
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145310	1471939426056	1471939426181	w	87
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145311	1471939426142	1471939426260	o	79
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145312	1471939426241	1471939426308	u	85
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145314	1471939426371	1471939426493	l	76
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145319	1471939426427	1471939426547	d	68
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145320	1471939426545	1471939426644	 	32
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145321	1471939426594	1471939426691	b	66
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145322	1471939426737	1471939426851	e	69
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145323	1471939426809	1471939426924	 	32
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145326	1471939426924	1471939427024	a	65
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145345	1471939427008	1471939427108	b	66
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145348	1471939427107	1471939427227	l	76
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145350	1471939427191	1471939427307	e	69
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145354	1471939427290	1471939427400	 	32
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145356	1471939427375	1471939427456	t	84
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145386	1471939427424	1471939427559	o	79
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145387	1471939427508	1471939427621	 	32
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145388	1471939427622	1471939427677	g	71
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145389	1471939427677	1471939427809	e	69
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145390	1471939427806	1471939427892	t	84
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145380	1471939427843	1471939427953	 	32
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145382	1471939427927	1471939428008	i	73
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145384	1471939428039	1471939428140	n	78
+327	2996	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in.	145385	1471939428265	1471939428325	.	190
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145489	1471939433582	1471939433808	SHIFT	16
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145490	1471939433722	1471939433823	W	87
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145492	1471939433901	1471939433991	e	69
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145495	1471939434022	1471939434146	 	32
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145498	1471939434146	1471939434309	c	67
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145511	1471939434239	1471939434363	o	79
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145514	1471939434322	1471939434455	n	78
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145517	1471939434440	1471939434509	t	84
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145521	1471939434618	1471939434683	r	82
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145525	1471939434674	1471939434715	o	79
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145529	1471939434827	1471939434860	l	76
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145544	1471939434953	1471939435069	l	76
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145547	1471939435040	1471939435125	e	69
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145550	1471939435219	1471939435334	d	68
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145553	1471939435323	1471939435423	 	32
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145556	1471939435423	1471939435512	t	84
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145563	1471939435506	1471939435607	h	72
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145565	1471939435607	1471939435671	e	69
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145568	1471939435675	1471939435783	 	32
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145573	1471939435742	1471939435911	r	82
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145578	1471939435880	1471939436021	a	65
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145583	1471939436200	1471939436288	c	67
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145593	1471939436394	1471939436500	e	69
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145595	1471939436490	1471939436612	 	32
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145596	1471939436574	1471939436643	f	70
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145597	1471939436737	1471939436819	r	82
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145611	1471939436808	1471939436875	o	79
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145614	1471939436942	1471939437075	m	77
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145617	1471939437023	1471939437159	 	32
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145620	1471939437116	1471939437204	t	84
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145623	1471939437191	1471939437305	h	72
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145635	1471939437273	1471939437341	e	69
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145637	1471939437372	1471939437492	 	32
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145639	1471939437456	1471939437570	s	83
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145640	1471939437617	1471939437738	t	84
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145641	1471939437738	1471939437863	a	65
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145661	1471939437838	1471939437906	r	82
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145665	1471939438001	1471939438091	t	84
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145669	1471939438090	1471939438173	 	32
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145672	1471939438188	1471939438320	a	65
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145673	1471939438287	1471939438407	n	78
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145690	1471939438373	1471939438491	d	68
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145693	1471939438450	1471939438571	 	32
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145697	1471939438571	1471939438740	SHIFT	16
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145699	1471939438650	1471939438772	I	73
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145701	1471939438897	1471939439006	'	222
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145703	1471939439006	1471939439006	PAUSE	126
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145704	1471939439222	1471939439322	m	77
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145705	1471939439400	1471939439506	 	32
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145721	1471939439778	1471939439899	s	83
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145723	1471939439872	1471939440034	a	65
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145727	1471939440449	1471939440522	t	84
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145730	1471939440647	1471939440772	i	73
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145743	1471939440739	1471939440839	s	83
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145746	1471939440871	1471939440971	f	70
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145748	1471939441044	1471939441182	i	73
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145750	1471939441182	1471939441242	e	69
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145753	1471939441351	1471939441431	d	68
+327	3003	We controlled the race from the start and I'm satisfied.	We controlled the race from the start and I'm satisfied.	145755	1471939441452	1471939441524	.	190
+327	3009	Can you help me here?	Can you help me here?	145839	1471939444497	1471939444674	SHIFT	16
+327	3009	Can you help me here?	Can you help me here?	145840	1471939444622	1471939444752	C	67
+327	3009	Can you help me here?	Can you help me here?	145841	1471939444815	1471939444931	a	65
+327	3009	Can you help me here?	Can you help me here?	145843	1471939444889	1471939445006	n	78
+327	3009	Can you help me here?	Can you help me here?	145846	1471939445004	1471939445178	 	32
+327	3009	Can you help me here?	Can you help me here?	145863	1471939445138	1471939445237	y	89
+327	3009	Can you help me here?	Can you help me here?	145864	1471939445223	1471939445407	o	79
+327	3009	Can you help me here?	Can you help me here?	145865	1471939445337	1471939445467	u	85
+327	3009	Can you help me here?	Can you help me here?	145866	1471939445424	1471939445615	 	32
+327	3009	Can you help me here?	Can you help me here?	145869	1471939445615	1471939445736	h	72
+327	3009	Can you help me here?	Can you help me here?	145885	1471939445719	1471939445823	e	69
+327	3009	Can you help me here?	Can you help me here?	145888	1471939445815	1471939445960	l	76
+327	3009	Can you help me here?	Can you help me here?	145891	1471939445937	1471939446064	p	80
+327	3009	Can you help me here?	Can you help me here?	145894	1471939446022	1471939446134	 	32
+327	3009	Can you help me here?	Can you help me here?	145895	1471939446181	1471939446291	m	77
+327	3009	Can you help me here?	Can you help me here?	145897	1471939446256	1471939446368	e	69
+327	3009	Can you help me here?	Can you help me here?	145900	1471939446365	1471939446469	 	32
+327	3009	Can you help me here?	Can you help me here?	145903	1471939446469	1471939446578	h	72
+327	3009	Can you help me here?	Can you help me here?	145904	1471939446540	1471939446671	e	69
+327	3009	Can you help me here?	Can you help me here?	145907	1471939446640	1471939446819	r	82
+327	3009	Can you help me here?	Can you help me here?	145918	1471939446768	1471939446861	e	69
+327	3009	Can you help me here?	Can you help me here?	145922	1471939446818	1471939446971	SHIFT	16
+327	3009	Can you help me here?	Can you help me here?	145920	1471939446877	1471939446956	?	191
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146022	1471939450696	1471939450923	SHIFT	16
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146023	1471939450839	1471939450985	H	72
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146024	1471939450985	1471939451072	e	69
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146025	1471939451039	1471939451179	 	32
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146026	1471939451154	1471939451264	i	73
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146039	1471939451222	1471939451332	s	83
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146041	1471939451322	1471939451453	 	32
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146043	1471939451419	1471939451547	s	83
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146045	1471939451538	1471939451621	u	85
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146046	1471939451621	1471939451672	f	70
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146047	1471939451782	1471939451862	f	70
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146057	1471939451862	1471939451987	e	69
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146061	1471939451984	1471939452126	r	82
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146063	1471939452115	1471939452221	i	73
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146066	1471939452267	1471939452419	n	78
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146083	1471939452369	1471939452490	g	71
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146085	1471939452477	1471939452602	 	32
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146087	1471939452602	1471939452689	f	70
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146088	1471939452799	1471939452848	o	82
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146089	1471939452967	1471939453081	m	77
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146100	1471939453038	1471939453152	 	32
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146101	1471939453152	1471939453286	a	65
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146102	1471939453254	1471939453365	 	32
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146103	1471939453365	1471939453454	s	83
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146104	1471939453501	1471939453556	t	84
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146105	1471939453650	1471939453798	r	82
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146109	1471939453798	1471939453900	a	65
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146112	1471939453856	1471939453969	i	73
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146115	1471939453969	1471939454089	n	78
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146118	1471939454053	1471939454142	e	69
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146121	1471939454252	1471939454366	d	68
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146133	1471939454323	1471939454472	 	32
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146135	1471939454424	1471939454538	l	76
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146138	1471939454472	1471939454600	e	69
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146140	1471939454632	1471939454751	f	70
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146142	1471939454845	1471939454936	t	84
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146147	1471939454906	1471939455008	 	32
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146150	1471939455023	1471939455132	s	83
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146153	1471939455108	1471939455231	h	72
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146156	1471939455220	1471939455323	o	79
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146159	1471939455305	1471939455387	u	85
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146161	1471939455434	1471939455588	l	76
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146163	1471939455505	1471939455588	d	68
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146164	1471939455672	1471939455789	e	69
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146166	1471939455754	1471939455863	r	82
+327	3013	He is suffering from a strained left shoulder.	He is suffering from a strained left shoulder.	146168	1471939455836	1471939455921	.	190
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146307	1471939460812	1471939460988	SHIFT	16
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146311	1471939460922	1471939461035	I	73
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146314	1471939461051	1471939461153	f	70
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146316	1471939461105	1471939461271	 	32
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146318	1471939461235	1471939461336	y	89
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146326	1471939461318	1471939461524	o	79
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146328	1471939461420	1471939461524	u	85
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146331	1471939461519	1471939461602	 	32
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146332	1471939461649	1471939461767	h	72
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146335	1471939461767	1471939461902	a	65
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146366	1471939461886	1471939462030	v	86
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146367	1471939462002	1471939462123	e	69
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146368	1471939462101	1471939462216	 	32
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146369	1471939462372	1471939462494	q	81
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146370	1471939462479	1471939462586	u	85
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146381	1471939462553	1471939462714	e	69
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146385	1471939462684	1471939462770	s	83
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146388	1471939462801	1471939462931	t	84
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146391	1471939462900	1471939463094	i	73
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146415	1471939462955	1471939463113	o	79
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146417	1471939463055	1471939463176	n	78
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146420	1471939463176	1471939463253	s	83
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146424	1471939463269	1471939463389	,	188
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146425	1471939463337	1471939463436	 	32
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146427	1471939463514	1471939463570	p	80
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146429	1471939463649	1471939463804	l	76
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146440	1471939463735	1471939463853	e	69
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146441	1471939463853	1471939464019	a	65
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146442	1471939463951	1471939464105	s	83
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146443	1471939464064	1471939464182	e	69
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146444	1471939464167	1471939464253	 	32
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146445	1471939464253	1471939464412	s	83
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146458	1471939464399	1471939464503	e	69
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146459	1471939464469	1471939464614	n	78
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146461	1471939464614	1471939464716	d	68
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146465	1471939464702	1471939464786	 	32
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146469	1471939464786	1471939464911	a	65
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146495	1471939464901	1471939465065	n	78
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146497	1471939465064	1471939465152	 	32
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146499	1471939465121	1471939465235	e	69
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146501	1471939465251	1471939465366	m	77
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146505	1471939465366	1471939465505	a	65
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146519	1471939465469	1471939465598	i	73
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146520	1471939465562	1471939465688	l	76
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146521	1471939465637	1471939465770	 	32
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146522	1471939465719	1471939465829	t	84
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146523	1471939465817	1471939465937	o	79
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146538	1471939465871	1471939465979	 	32
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146539	1471939465937	1471939466104	SHIFT	16
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146540	1471939466057	1471939466158	E	69
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146541	1471939466149	1471939466283	n	78
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146542	1471939466283	1471939466396	r	82
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146544	1471939466384	1471939466437	o	79
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146546	1471939466515	1471939466618	n	78
+327	3021	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	146535	1471939466942	1471939467020	.	190

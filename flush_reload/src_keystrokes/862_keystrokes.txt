@@ -1,0 +1,657 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+862	8687	The mud was their idea.	the mud was their idea.	418177	1471946942566	1471946942602	h	72
+862	8687	The mud was their idea.	the mud was their idea.	418179	1471946942828	1471946942935	e	69
+862	8687	The mud was their idea.	the mud was their idea.	418184	1471946943044	1471946943117	 	32
+862	8687	The mud was their idea.	the mud was their idea.	418188	1471946943660	1471946943766	m	77
+862	8687	The mud was their idea.	the mud was their idea.	418191	1471946944443	1471946944551	u	85
+862	8687	The mud was their idea.	the mud was their idea.	418239	1471946944720	1471946944829	d	68
+862	8687	The mud was their idea.	the mud was their idea.	418244	1471946944878	1471946944984	 	32
+862	8687	The mud was their idea.	the mud was their idea.	418248	1471946945656	1471946945726	w	87
+862	8687	The mud was their idea.	the mud was their idea.	418251	1471946945842	1471946945951	a	65
+862	8687	The mud was their idea.	the mud was their idea.	418256	1471946946044	1471946946150	s	83
+862	8687	The mud was their idea.	the mud was their idea.	418331	1471946946361	1471946946592	 	32
+862	8687	The mud was their idea.	the mud was their idea.	418333	1471946947166	1471946947168	t	84
+862	8687	The mud was their idea.	the mud was their idea.	418334	1471946947168	1471946947276	h	72
+862	8687	The mud was their idea.	the mud was their idea.	418335	1471946948357	1471946948502	e	69
+862	8687	The mud was their idea.	the mud was their idea.	418336	1471946948502	1471946948607	i	73
+862	8687	The mud was their idea.	the mud was their idea.	418427	1471946949193	1471946949301	r	82
+862	8687	The mud was their idea.	the mud was their idea.	418428	1471946949326	1471946949434	 	32
+862	8687	The mud was their idea.	the mud was their idea.	418429	1471946949664	1471946949737	i	73
+862	8687	The mud was their idea.	the mud was their idea.	418431	1471946950671	1471946950814	d	68
+862	8687	The mud was their idea.	the mud was their idea.	418433	1471946950843	1471946950951	i	73
+862	8687	The mud was their idea.	the mud was their idea.	418773	1471946951453	1471946951562	a	65
+862	8687	The mud was their idea.	the mud was their idea.	418776	1471946953477	1471946953734	SHIFT	16
+862	8687	The mud was their idea.	the mud was their idea.	418779	1471946953835	1471946953943	.	190
+862	8687	The mud was their idea.	the mud was their idea.	418782	1471946958489	1471946958596	e	69
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	424868	1471947106179	1471947107285	CTRL	17
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	424872	1471947108942	1471947109266	SHIFT	16
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	424870	1471947109123	1471947109195	T	84
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	424875	1471947109464	1471947109570	h	72
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	424879	1471947110127	1471947110242	e	69
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	424882	1471947110304	1471947110373	r	82
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	424885	1471947110447	1471947110518	r	82
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425042	1471947110481	1471947110552	e	69
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425046	1471947111774	1471947111847	BKSP	8
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425051	1471947111990	1471947112062	BKSP	8
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425054	1471947112998	1471947113104	e	69
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425057	1471947113125	1471947113233	s	83
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425060	1471947114137	1471947114280	a	65
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425063	1471947114346	1471947114451	 	32
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425065	1471947115260	1471947115330	,	188
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425137	1471947115488	1471947115557	 	32
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425143	1471947116523	1471947116666	d	68
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425148	1471947116668	1471947116773	o	79
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425152	1471947117024	1471947117093	n	78
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425157	1471947117735	1471947117843	'	222
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425203	1471947118168	1471947118310	t	84
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425205	1471947118369	1471947118469	 	32
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425208	1471947119019	1471947119129	w	87
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425212	1471947119152	1471947119261	o	79
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425214	1471947119577	1471947119647	r	82
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425296	1471947119708	1471947119779	r	82
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425297	1471947120104	1471947120175	y	89
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425299	1471947120317	1471947120422	 	32
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425301	1471947121593	1471947121736	a	65
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425303	1471947121803	1471947121912	b	66
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425370	1471947122456	1471947122558	o	79
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425371	1471947122978	1471947123085	u	85
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425373	1471947123257	1471947123362	t	84
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425374	1471947123452	1471947123544	 	32
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425376	1471947123885	1471947123958	i	73
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425444	1471947124452	1471947124523	t	84
+862	8747	Theresa, don't worry about it.	Theresa , don't worry about it.	425446	1471947125256	1471947125326	.	190
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426484	1471947157293	1471947157615	SHIFT	16
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426482	1471947157437	1471947157544	T	84
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426487	1471947157706	1471947157849	h	72
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426491	1471947157992	1471947158137	e	69
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426494	1471947158162	1471947158231	 	32
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426497	1471947160057	1471947160165	o	79
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426550	1471947160482	1471947160590	f	70
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426551	1471947160626	1471947160735	f	70
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426553	1471947161155	1471947161262	i	73
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426555	1471947162895	1471947163002	c	67
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426557	1471947163070	1471947163177	i	73
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426639	1471947163619	1471947163764	a	65
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426640	1471947164270	1471947164378	l	76
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426642	1471947164542	1471947164685	 	32
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426644	1471947166102	1471947166244	a	65
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426646	1471947166254	1471947166359	g	71
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426728	1471947166630	1471947166738	e	69
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426730	1471947167755	1471947167864	n	78
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426732	1471947168849	1471947168994	c	67
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426734	1471947168997	1471947169099	y	89
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426736	1471947169380	1471947169523	 	32
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426844	1471947170499	1471947172760	SHIFT	16
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426828	1471947170749	1471947170859	S	83
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426830	1471947170929	1471947171038	A	65
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426832	1471947171863	1471947171936	B	66
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426836	1471947172188	1471947172295	A	65
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426850	1471947173011	1471947173118	 	32
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426935	1471947173730	1471947173835	s	83
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426938	1471947173938	1471947174081	a	65
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426941	1471947174619	1471947174691	i	73
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426943	1471947175233	1471947175378	d	68
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	426944	1471947175390	1471947175498	 	32
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427052	1471947176660	1471947177127	SHIFT	16
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427051	1471947176985	1471947177019	W	87
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427054	1471947177481	1471947177586	e	69
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427056	1471947177821	1471947177892	d	68
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427059	1471947178513	1471947178620	n	78
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427062	1471947179231	1471947179339	e	69
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427135	1471947179359	1471947179500	s	83
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427137	1471947180076	1471947180148	d	68
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427140	1471947180236	1471947180378	a	65
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427142	1471947181287	1471947181392	y	89
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427145	1471947181594	1471947181736	 	32
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427268	1471947184127	1471947184233	2	50
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427270	1471947184245	1471947184353	5	53
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427272	1471947184713	1471947184856	 	32
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427274	1471947185915	1471947186057	c	67
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427275	1471947186201	1471947186306	i	73
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427394	1471947186569	1471947186709	v	86
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427396	1471947186760	1471947186869	i	73
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427397	1471947189714	1471947189780	l	76
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427399	1471947189946	1471947190052	i	73
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427401	1471947191042	1471947191188	a	65
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427497	1471947192174	1471947192281	n	78
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427500	1471947192352	1471947192497	s	83
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427504	1471947192736	1471947192877	 	32
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427508	1471947194400	1471947194505	h	72
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427511	1471947194710	1471947194855	a	65
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427560	1471947195313	1471947195421	d	68
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427562	1471947195473	1471947195579	 	32
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427567	1471947196023	1471947196131	b	66
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427570	1471947196781	1471947196890	e	69
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427572	1471947196942	1471947197050	e	69
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427630	1471947197234	1471947197340	n	78
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427631	1471947197418	1471947197492	 	32
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427632	1471947198048	1471947198158	k	75
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427633	1471947198359	1471947198467	i	73
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427634	1471947198840	1471947198914	l	76
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427696	1471947198962	1471947199070	l	76
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427698	1471947199452	1471947199595	e	69
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427700	1471947199613	1471947199722	d	68
+862	8883	The official agency SABA said Wednesday 25 civilians had been killed.	The official agency SABA said Wednesday 25 civilians had been killed.	427702	1471947200618	1471947200689	.	190
+862	8928	Have a good weekend.	Have a good weekend/	427902	1471947206800	1471947207158	SHIFT	16
+862	8928	Have a good weekend.	Have a good weekend/	427900	1471947207016	1471947207087	H	72
+862	8928	Have a good weekend.	Have a good weekend/	427905	1471947207704	1471947207846	a	65
+862	8928	Have a good weekend.	Have a good weekend/	427909	1471947208373	1471947208483	v	86
+862	8928	Have a good weekend.	Have a good weekend/	427912	1471947208483	1471947208591	e	69
+862	8928	Have a good weekend.	Have a good weekend/	427915	1471947208640	1471947208745	 	32
+862	8928	Have a good weekend.	Have a good weekend/	427955	1471947208948	1471947209091	a	65
+862	8928	Have a good weekend.	Have a good weekend/	427958	1471947209159	1471947209268	 	32
+862	8928	Have a good weekend.	Have a good weekend/	427962	1471947209940	1471947210082	g	71
+862	8928	Have a good weekend.	Have a good weekend/	427966	1471947210168	1471947210274	o	79
+862	8928	Have a good weekend.	Have a good weekend/	427968	1471947210303	1471947210409	o	79
+862	8928	Have a good weekend.	Have a good weekend/	428005	1471947210859	1471947210966	d	68
+862	8928	Have a good weekend.	Have a good weekend/	428007	1471947211020	1471947211128	 	32
+862	8928	Have a good weekend.	Have a good weekend/	428009	1471947211546	1471947211651	w	87
+862	8928	Have a good weekend.	Have a good weekend/	428011	1471947212077	1471947212183	e	69
+862	8928	Have a good weekend.	Have a good weekend/	428013	1471947212223	1471947212295	e	69
+862	8928	Have a good weekend.	Have a good weekend/	428163	1471947213277	1471947213386	k	75
+862	8928	Have a good weekend.	Have a good weekend/	428165	1471947214271	1471947214381	e	69
+862	8928	Have a good weekend.	Have a good weekend/	428167	1471947214382	1471947214486	n	78
+862	8928	Have a good weekend.	Have a good weekend/	428168	1471947214862	1471947214977	d	68
+862	8928	Have a good weekend.	Have a good weekend/	428169	1471947215503	1471947215573	/	191
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439186	1471947448056	1471947448342	SHIFT	16
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439185	1471947448201	1471947448310	T	84
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439187	1471947448449	1471947448592	h	72
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439188	1471947448758	1471947448867	e	69
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439189	1471947448909	1471947449018	 	32
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439253	1471947450217	1471947450539	SHIFT	16
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439190	1471947450398	1471947450505	S	83
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439255	1471947450617	1471947450687	e	69
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439258	1471947451513	1471947451622	n	78
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439261	1471947451773	1471947451913	a	65
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439265	1471947452026	1471947452132	t	84
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439271	1471947452326	1471947452470	e	69
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439448	1471947452480	1471947452590	 	32
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439451	1471947453633	1471947453775	d	68
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439452	1471947454677	1471947454784	e	69
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439455	1471947455126	1471947455196	g	71
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439458	1471947455972	1471947456081	BKSP	8
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439460	1471947457234	1471947457341	f	70
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439572	1471947457923	1471947458032	i	73
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439575	1471947459277	1471947459384	d	68
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439578	1471947459386	1471947459525	e	69
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439579	1471947459555	1471947459661	 	32
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439580	1471947460000	1471947460069	t	84
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439906	1471947460195	1471947460300	h	72
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439907	1471947460762	1471947460941	e	69
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439908	1471947460943	1471947461048	 	32
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439909	1471947462200	1471947462270	BKSP	8
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439910	1471947462353	1471947462425	BKSP	8
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439911	1471947462510	1471947462617	BKSP	8
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439913	1471947462862	1471947462970	BKSP	8
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439915	1471947465838	1471947465911	BKSP	8
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439917	1471947465971	1471947466040	BKSP	8
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439921	1471947466111	1471947466181	BKSP	8
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439926	1471947467807	1471947467914	e	69
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	439930	1471947467919	1471947468032	d	68
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440056	1471947468114	1471947468257	 	32
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440058	1471947469917	1471947470023	p	80
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440060	1471947470552	1471947470657	r	82
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440062	1471947471141	1471947471248	e	69
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440063	1471947471348	1471947471455	c	67
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440196	1471947472037	1471947472106	BKSP	8
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440199	1471947472275	1471947472418	s	83
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440204	1471947472760	1471947472902	e	69
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440206	1471947473702	1471947473809	d	68
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440208	1471947474564	1471947474708	e	69
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440210	1471947474708	1471947474779	n	78
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440498	1471947475327	1471947475434	t	84
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440499	1471947475436	1471947475542	 	32
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440500	1471947476278	1471947477185	SHIFT	16
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440501	1471947480086	1471947480190	i	73
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440503	1471947482135	1471947483286	SHIFT	16
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440502	1471947483179	1471947483251	B	66
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440504	1471947483618	1471947483724	i	73
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440601	1471947483937	1471947484046	l	76
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440602	1471947484075	1471947484181	l	76
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440603	1471947484475	1471947484617	 	32
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440604	1471947485439	1471947485512	SHIFT	16
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440606	1471947485519	1471947485951	SHIFT	16
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440605	1471947485843	1471947485913	C	67
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440607	1471947486883	1471947486987	l	76
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440762	1471947487103	1471947487212	i	73
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440767	1471947487523	1471947487630	n	78
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440770	1471947488100	1471947488207	t	84
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440772	1471947489811	1471947489915	o	79
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440776	1471947490184	1471947490291	n	78
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440889	1471947490390	1471947490524	 	32
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440892	1471947491330	1471947491437	o	79
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440895	1471947491700	1471947491807	n	78
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440899	1471947491863	1471947491967	 	32
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	441008	1471947492476	1471947492979	SHIFT	16
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	440902	1471947492800	1471947492872	T	84
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	441010	1471947494218	1471947494324	h	72
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	441012	1471947494833	1471947494938	u	85
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	441014	1471947495282	1471947495392	r	82
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	441016	1471947495443	1471947495588	s	83
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	441018	1471947496103	1471947496211	d	68
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	441112	1471947496284	1471947496389	a	65
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	441114	1471947496931	1471947497000	y	89
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	441119	1471947498076	1471947498183	 	32
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	441124	1471947498376	1471947498448	.	190
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	441228	1471947498412	1471947498453	/	191
+862	8939	The Senate defied President Bill Clinton on Thursday.	The Senate defied president Bill Clinton on Thursday .	441230	1471947499441	1471947499512	BKSP	8
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442130	1471947521512	1471947522085	SHIFT	16
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442127	1471947521907	1471947522014	D	68
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442133	1471947522790	1471947522896	o	79
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442136	1471947523251	1471947523324	n	78
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442139	1471947524224	1471947524331	'	222
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442143	1471947524469	1471947524610	t	84
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442187	1471947524650	1471947524722	 	32
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442190	1471947525128	1471947525201	u	85
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442193	1471947525420	1471947525564	s	83
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442195	1471947525622	1471947525692	e	69
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442198	1471947525939	1471947526008	 	32
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442269	1471947526426	1471947526822	SHIFT	16
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442267	1471947526679	1471947526751	B	66
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442272	1471947528168	1471947528276	e	69
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442276	1471947528528	1471947528599	n	78
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442279	1471947528674	1471947528747	n	78
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442283	1471947529197	1471947529338	e	69
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442333	1471947529385	1471947529456	t	84
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442336	1471947529524	1471947529593	t	84
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442339	1471947529816	1471947529925	 	32
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442343	1471947530581	1471947530652	t	84
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442348	1471947530794	1471947530870	h	72
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442400	1471947531360	1471947531430	i	73
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442402	1471947531731	1471947531839	s	83
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442403	1471947531858	1471947531962	 	32
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442404	1471947532357	1471947532465	w	87
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442405	1471947532612	1471947532717	e	69
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442525	1471947532751	1471947532821	e	69
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442527	1471947533698	1471947533767	k	75
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442530	1471947534570	1471947534679	e	69
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442532	1471947534870	1471947534978	n	78
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442534	1471947535225	1471947535330	d	68
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442587	1471947535856	1471947535960	 	32
+862	9210	Don't use Bennett this week.	Don't use Bennett this weekend .	442589	1471947536111	1471947536180	.	190
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443124	1471947549019	1471947549378	SHIFT	16
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443123	1471947549272	1471947549347	W	87
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443125	1471947549465	1471947549535	e	69
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443126	1471947549778	1471947549922	 	32
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443127	1471947550340	1471947550446	c	67
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443128	1471947552212	1471947552320	l	76
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443193	1471947552789	1471947552931	e	69
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443195	1471947552966	1471947553075	a	65
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443203	1471947553727	1471947553833	n	78
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443206	1471947554292	1471947554437	e	69
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443388	1471947554400	1471947554509	d	68
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443391	1471947554712	1471947554822	 	32
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443394	1471947556305	1471947556413	i	73
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443396	1471947557625	1471947557731	BKSP	8
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443400	1471947558188	1471947558406	h	72
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443406	1471947558885	1471947558994	i	73
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443411	1471947559569	1471947559676	m	77
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443539	1471947559750	1471947559857	 	32
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443542	1471947560238	1471947560348	u	85
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443543	1471947561586	1471947561764	p	80
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443544	1471947561788	1471947561931	 	32
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443545	1471947562672	1471947562817	a	65
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443626	1471947562820	1471947562923	s	83
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443628	1471947563042	1471947563183	 	32
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443629	1471947563516	1471947563660	w	87
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443630	1471947563661	1471947563729	e	69
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443632	1471947564862	1471947564935	l	76
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443678	1471947564979	1471947565085	l	76
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443680	1471947565272	1471947565380	 	32
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443681	1471947565585	1471947565691	a	65
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443682	1471947565727	1471947565834	s	83
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443683	1471947565979	1471947566122	 	32
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443774	1471947566476	1471947566622	w	87
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443775	1471947566623	1471947566729	e	69
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443776	1471947566927	1471947567036	 	32
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443777	1471947568010	1471947568117	c	67
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443780	1471947568131	1471947568238	o	79
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443857	1471947568554	1471947568626	u	85
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443861	1471947569064	1471947569134	l	76
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443865	1471947569487	1471947569629	d	68
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443867	1471947569765	1471947569837	 	32
+862	9235	We cleaned him up as well as we could.	We cleaned him up as well as we could .	443869	1471947570074	1471947570153	.	190
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	444668	1471947588314	1471947588635	SHIFT	16
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	444664	1471947588492	1471947588601	I	73
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	444671	1471947589969	1471947590074	t	84
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	444673	1471947590730	1471947590871	'	222
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	444674	1471947591175	1471947591392	s	83
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	444730	1471947591356	1471947591463	 	32
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	444732	1471947592538	1471947592683	t	84
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	444735	1471947592685	1471947592754	h	72
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	444736	1471947593119	1471947593188	i	73
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	444737	1471947593571	1471947593716	s	83
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	444739	1471947593723	1471947593830	 	32
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	444802	1471947594318	1471947594385	i	73
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	444804	1471947594581	1471947594687	s	83
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	444806	1471947594787	1471947594931	s	83
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	444808	1471947595425	1471947595532	u	85
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	444811	1471947596197	1471947596303	e	69
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	444993	1471947597686	1471947597758	'	222
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	444996	1471947598808	1471947598989	s	83
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	445001	1471947599030	1471947599139	 	32
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	445006	1471947600929	1471947601035	f	70
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	445011	1471947601246	1471947601350	e	69
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	445107	1471947602229	1471947602373	a	65
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	445109	1471947602924	1471947603029	t	84
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	445111	1471947603705	1471947603811	u	85
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	445112	1471947604165	1471947604272	r	82
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	445113	1471947604274	1471947604379	e	69
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	445246	1471947604525	1471947604634	d	68
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	445247	1471947604833	1471947604939	 	32
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	445248	1471947606189	1471947606262	e	69
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	445249	1471947606393	1471947606897	SHIFT	16
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	445250	1471947606860	1471947606898	B	66
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	445251	1471947607400	1471947607468	o	79
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	445310	1471947607515	1471947607623	o	79
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	445312	1471947607860	1471947607931	k	75
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	445315	1471947608408	1471947608480	 	32
+862	9259	It's this issue's featured eBook.	It's this issue's featured eBook .	445318	1471947608696	1471947608765	.	190
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	445791	1471947619347	1471947619666	SHIFT	16
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	445789	1471947619559	1471947619632	W	87
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	445794	1471947619790	1471947619894	e	69
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	445797	1471947620203	1471947620346	 	32
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	445799	1471947620680	1471947620786	h	72
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	445800	1471947621166	1471947621273	o	79
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	445872	1471947621370	1471947621476	p	80
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	445875	1471947621767	1471947621865	e	69
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	445879	1471947621882	1471947621988	 	32
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	445883	1471947622837	1471947622944	y	89
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	445886	1471947622946	1471947623086	o	79
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	445930	1471947623099	1471947623208	u	85
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	445932	1471947623285	1471947623441	 	32
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	445936	1471947623908	1471947624017	f	70
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	445940	1471947624017	1471947624122	i	73
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	445944	1471947624299	1471947624407	n	78
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446025	1471947624895	1471947625036	d	68
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446026	1471947625052	1471947625161	 	32
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446030	1471947625378	1471947625486	t	84
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446033	1471947625608	1471947625714	h	72
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446035	1471947626157	1471947626229	i	73
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446141	1471947626452	1471947626593	s	83
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446143	1471947626671	1471947626776	 	32
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446145	1471947627886	1471947627996	i	73
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446147	1471947628084	1471947628192	n	78
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446151	1471947629170	1471947629276	f	70
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446245	1471947629326	1471947629433	o	79
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446249	1471947629837	1471947629943	r	82
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446252	1471947630011	1471947630119	m	77
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446254	1471947630654	1471947630833	a	65
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446256	1471947631369	1471947631476	t	84
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446412	1471947631509	1471947631581	i	73
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446414	1471947631691	1471947631797	o	79
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446416	1471947632029	1471947632135	n	78
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446418	1471947632236	1471947632345	 	32
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446419	1471947634384	1471947634492	u	85
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446505	1471947634626	1471947634768	s	83
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446506	1471947634865	1471947634971	e	69
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446507	1471947635782	1471947635890	f	70
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446510	1471947636571	1471947636655	u	85
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446511	1471947637162	1471947637233	l	76
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446553	1471947637276	1471947637383	l	76
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446555	1471947638067	1471947638172	 	32
+862	9290	We hope you found this information useful.	We hope you find this information usefull .	446558	1471947638249	1471947638357	.	190
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447245	1471947653303	1471947653659	SHIFT	16
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447242	1471947653520	1471947653624	I	73
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447248	1471947654377	1471947654519	w	87
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447251	1471947654484	1471947654626	o	79
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447253	1471947654756	1471947654865	u	85
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447257	1471947655366	1471947655475	l	76
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447386	1471947655858	1471947656001	d	68
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447388	1471947656016	1471947656125	 	32
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447390	1471947657006	1471947657111	e	69
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447393	1471947657119	1471947657230	x	88
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447395	1471947657645	1471947657750	p	80
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447632	1471947658262	1471947658369	e	69
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447633	1471947658396	1471947658505	c	67
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447634	1471947659117	1471947659226	t	84
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447637	1471947659297	1471947659439	 	32
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447641	1471947663066	1471947663210	 	32
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447778	1471947666236	1471947666382	a	65
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447782	1471947666382	1471947666487	n	78
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447785	1471947666556	1471947666663	 	32
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447788	1471947666842	1471947666983	a	65
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447791	1471947667020	1471947667090	n	78
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447909	1471947668164	1471947668269	s	83
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447912	1471947668717	1471947668826	w	87
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447918	1471947668828	1471947668897	e	69
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447923	1471947668975	1471947669128	r	82
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	447930	1471947669880	1471947669986	 	32
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	448103	1471947670479	1471947672886	SHIFT	16
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	448091	1471947670874	1471947670982	A	65
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	448095	1471947671089	1471947671197	S	83
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	448099	1471947671306	1471947671378	A	65
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	448101	1471947672312	1471947672384	P	80
+862	9315	I would expect an answer ASAP.	I would expect an answer ASAP.	448105	1471947673643	1471947673713	.	190
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449008	1471947692340	1471947692410	SHIFT	16
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449010	1471947692427	1471947692750	SHIFT	16
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449012	1471947692642	1471947692752	H	72
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449014	1471947693134	1471947693278	e	69
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449016	1471947693241	1471947693384	 	32
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449021	1471947695383	1471947695526	d	68
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449024	1471947695529	1471947695632	i	73
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449122	1471947695756	1471947695900	d	68
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449124	1471947696128	1471947696237	 	32
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449126	1471947697388	1471947697536	n	78
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449131	1471947697587	1471947697682	o	79
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449136	1471947698184	1471947698292	t	84
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449228	1471947698308	1471947698416	 	32
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449230	1471947699410	1471947699588	r	82
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449234	1471947699551	1471947699659	e	69
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449238	1471947700103	1471947700175	t	84
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449242	1471947700517	1471947700639	u	85
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449328	1471947700993	1471947701064	r	82
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449330	1471947701575	1471947701720	n	78
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449332	1471947701816	1471947701922	 	32
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449335	1471947702611	1471947702756	t	84
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449338	1471947702757	1471947702825	o	79
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449393	1471947702920	1471947703027	 	32
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449394	1471947703408	1471947703476	t	84
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449395	1471947703608	1471947703715	h	72
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449396	1471947703807	1471947703917	e	69
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449397	1471947703987	1471947704095	 	32
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449508	1471947705570	1471947705676	c	67
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449510	1471947705690	1471947705800	o	79
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449513	1471947705919	1471947706029	n	78
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449515	1471947706333	1471947706440	t	84
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449516	1471947706842	1471947706947	e	69
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449626	1471947707052	1471947707159	s	83
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449630	1471947707721	1471947707827	t	84
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449634	1471947708028	1471947708133	 	32
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449638	1471947709189	1471947709296	BKSP	8
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449643	1471947709520	1471947709632	,	188
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449647	1471947709789	1471947709855	 	32
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449783	1471947710980	1471947711159	a	65
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449787	1471947711119	1471947711194	n	78
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449790	1471947711363	1471947711505	d	68
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449792	1471947711532	1471947711637	 	32
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449796	1471947712468	1471947712575	i	73
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449886	1471947712884	1471947713061	s	83
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449887	1471947713088	1471947713196	 	32
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449888	1471947714400	1471947714507	l	76
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449889	1471947714578	1471947714683	i	73
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449891	1471947715111	1471947715254	s	83
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449960	1471947715275	1471947715383	t	84
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449965	1471947715681	1471947715789	e	69
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449969	1471947716098	1471947716168	d	68
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449973	1471947716326	1471947716436	 	32
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	449976	1471947717221	1471947717361	a	65
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	450078	1471947717379	1471947717486	s	83
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	450079	1471947717614	1471947717721	 	32
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	450080	1471947719265	1471947719370	d	68
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	450081	1471947720397	1471947720539	a	65
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	450082	1471947720539	1471947720645	y	89
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	450173	1471947720665	1471947720810	 	32
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	450174	1471947721664	1471947721771	t	84
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	450175	1471947721811	1471947721920	o	79
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	450176	1471947722003	1471947722147	 	32
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	450177	1471947723798	1471947723905	d	68
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	450249	1471947723908	1471947724011	a	65
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	450252	1471947724549	1471947724606	y	89
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	450255	1471947724747	1471947724818	 	32
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	450257	1471947725193	1471947725376	SHIFT	16
+862	9348	He did not return to the contest, and is listed as day to day.	He did not return to the contest, and is listed as day to day >	450261	1471947725338	1471947725410	>	190
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	450582	1471947733792	1471947734080	SHIFT	16
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	450581	1471947733938	1471947734009	I	73
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	450584	1471947734530	1471947734636	'	222
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	450586	1471947735172	1471947735279	l	76
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	450588	1471947735309	1471947735416	l	76
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	450590	1471947735539	1471947735646	 	32
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	450702	1471947736055	1471947736199	a	65
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	450705	1471947736200	1471947736269	s	83
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	450708	1471947738633	1471947738705	k	75
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	450711	1471947739971	1471947740077	,	188
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	450715	1471947740194	1471947740299	 	32
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	450821	1471947741562	1471947741670	h	72
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	450824	1471947742004	1471947742151	e	69
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	450827	1471947742151	1471947742257	 	32
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	450829	1471947744069	1471947744174	j	74
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	450830	1471947744298	1471947744404	u	85
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	450895	1471947745072	1471947745181	s	83
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	450896	1471947745204	1471947745344	t	84
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	450897	1471947745386	1471947745493	 	32
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	450898	1471947746825	1471947746932	c	67
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	450899	1471947746961	1471947747106	a	65
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	451011	1471947747996	1471947748103	m	77
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	451012	1471947748323	1471947748467	e	69
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	451013	1471947748479	1471947748588	 	32
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	451014	1471947749970	1471947750080	b	66
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	451015	1471947750080	1471947750186	y	89
+862	9394	I'll ask, he just came by.	I'll ask, he just came by.	451082	1471947751215	1471947751322	.	190
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451503	1471947763743	1471947764029	SHIFT	16
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451498	1471947763920	1471947763991	W	87
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451508	1471947764900	1471947765042	o	79
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451514	1471947765096	1471947765204	u	85
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451522	1471947765526	1471947765633	l	76
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451525	1471947766036	1471947766177	d	68
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451552	1471947766180	1471947766284	 	32
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451555	1471947766824	1471947766937	y	89
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451558	1471947766938	1471947767039	o	79
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451561	1471947767137	1471947767277	u	85
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451564	1471947767332	1471947767438	 	32
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451662	1471947767366	1471947767441	n	78
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451663	1471947768521	1471947768587	BKSP	8
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451664	1471947769134	1471947769242	m	77
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451665	1471947769405	1471947769510	i	73
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451666	1471947769935	1471947770046	n	78
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451667	1471947770354	1471947770498	d	68
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451668	1471947770499	1471947770604	 	32
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451750	1471947770813	1471947770921	t	84
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451753	1471947771388	1471947771530	a	65
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451755	1471947771721	1471947771790	k	75
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451756	1471947772063	1471947772171	i	73
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451757	1471947772700	1471947772809	n	78
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451872	1471947773131	1471947773236	g	71
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451876	1471947773342	1471947773483	 	32
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451878	1471947775228	1471947775334	l	76
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451880	1471947775354	1471947775461	e	69
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451881	1471947775992	1471947776139	a	65
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451936	1471947776141	1471947776280	d	68
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451941	1471947776309	1471947776452	 	32
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451943	1471947777105	1471947777211	o	79
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451946	1471947777409	1471947777513	n	78
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	451949	1471947777562	1471947777672	 	32
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	452031	1471947778074	1471947778182	t	84
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	452032	1471947778226	1471947778334	h	72
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	452035	1471947779755	1471947779859	i	73
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	452037	1471947779864	1471947780008	s	83
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	452040	1471947780671	1471947780996	SHIFT	16
+862	9409	Would you mind taking the lead on this?	Would you mind taking lead on this?	452044	1471947780886	1471947780999	?	191
+862	9429	It's really just technicalities.	It's really just technicalities.	452604	1471947798193	1471947798408	SHIFT	16
+862	9429	It's really just technicalities.	It's really just technicalities.	452606	1471947798335	1471947798479	I	73
+862	9429	It's really just technicalities.	It's really just technicalities.	452608	1471947799061	1471947799134	t	84
+862	9429	It's really just technicalities.	It's really just technicalities.	452610	1471947799753	1471947799863	'	222
+862	9429	It's really just technicalities.	It's really just technicalities.	452612	1471947800030	1471947800173	s	83
+862	9429	It's really just technicalities.	It's really just technicalities.	452614	1471947800221	1471947800364	 	32
+862	9429	It's really just technicalities.	It's really just technicalities.	452689	1471947801160	1471947801258	r	82
+862	9429	It's really just technicalities.	It's really just technicalities.	452691	1471947801330	1471947801439	e	69
+862	9429	It's really just technicalities.	It's really just technicalities.	452692	1471947801940	1471947802081	a	65
+862	9429	It's really just technicalities.	It's really just technicalities.	452695	1471947802492	1471947802566	l	76
+862	9429	It's really just technicalities.	It's really just technicalities.	452696	1471947802626	1471947802732	l	76
+862	9429	It's really just technicalities.	It's really just technicalities.	452772	1471947802994	1471947803099	y	89
+862	9429	It's really just technicalities.	It's really just technicalities.	452773	1471947803187	1471947803331	 	32
+862	9429	It's really just technicalities.	It's really just technicalities.	452774	1471947804727	1471947804869	j	74
+862	9429	It's really just technicalities.	It's really just technicalities.	452775	1471947804897	1471947805076	u	85
+862	9429	It's really just technicalities.	It's really just technicalities.	452776	1471947805454	1471947805596	s	83
+862	9429	It's really just technicalities.	It's really just technicalities.	452836	1471947805876	1471947805982	t	84
+862	9429	It's really just technicalities.	It's really just technicalities.	452839	1471947806067	1471947806170	 	32
+862	9429	It's really just technicalities.	It's really just technicalities.	452842	1471947807204	1471947807312	t	84
+862	9429	It's really just technicalities.	It's really just technicalities.	452844	1471947807436	1471947807576	e	69
+862	9429	It's really just technicalities.	It's really just technicalities.	452847	1471947807715	1471947807825	c	67
+862	9429	It's really just technicalities.	It's really just technicalities.	452988	1471947808246	1471947808351	h	72
+862	9429	It's really just technicalities.	It's really just technicalities.	452990	1471947809100	1471947809205	n	78
+862	9429	It's really just technicalities.	It's really just technicalities.	452993	1471947809301	1471947809407	i	73
+862	9429	It's really just technicalities.	It's really just technicalities.	452997	1471947811395	1471947811502	c	67
+862	9429	It's really just technicalities.	It's really just technicalities.	453001	1471947813176	1471947813320	a	65
+862	9429	It's really just technicalities.	It's really just technicalities.	453088	1471947813384	1471947813491	l	76
+862	9429	It's really just technicalities.	It's really just technicalities.	453089	1471947814613	1471947814722	i	73
+862	9429	It's really just technicalities.	It's really just technicalities.	453090	1471947815645	1471947815752	t	84
+862	9429	It's really just technicalities.	It's really just technicalities.	453091	1471947816240	1471947816347	i	73
+862	9429	It's really just technicalities.	It's really just technicalities.	453092	1471947816616	1471947816758	e	69
+862	9429	It's really just technicalities.	It's really just technicalities.	453119	1471947816854	1471947816963	s	83
+862	9429	It's really just technicalities.	It's really just technicalities.	453120	1471947817743	1471947817814	.	190
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	453724	1471947835574	1471947835859	SHIFT	16
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	453719	1471947835754	1471947835825	I	73
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	453729	1471947836248	1471947836355	 	32
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	453733	1471947837291	1471947837398	w	87
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	453737	1471947837405	1471947837514	o	79
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	453741	1471947838392	1471947838499	n	78
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	453900	1471947839120	1471947839226	d	68
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	453906	1471947839330	1471947839476	e	69
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	453909	1471947839476	1471947839581	r	82
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	453912	1471947839726	1471947839870	 	32
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	453915	1471947842717	1471947842825	i	73
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	453964	1471947842868	1471947842977	f	70
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	453965	1471947843067	1471947843172	 	32
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454059	1471947843709	1471947845109	SHIFT	16
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	453966	1471947843960	1471947844032	R	82
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	453967	1471947844247	1471947844320	B	66
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	453968	1471947844750	1471947844821	S	83
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454062	1471947845367	1471947845473	 	32
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454063	1471947846279	1471947846387	i	73
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454064	1471947846422	1471947846566	s	83
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454065	1471947846581	1471947846688	 	32
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454066	1471947847185	1471947847330	a	65
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454124	1471947847361	1471947847470	n	78
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454127	1471947847743	1471947847850	o	79
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454131	1471947848245	1471947848353	t	84
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454135	1471947848378	1471947848485	h	72
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454139	1471947848774	1471947848879	e	69
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454282	1471947848925	1471947849033	r	82
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454284	1471947849410	1471947849515	 	32
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454286	1471947852997	1471947853097	i	73
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454288	1471947853375	1471947853484	n	78
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454290	1471947854011	1471947854144	s	83
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454393	1471947854215	1471947854319	t	84
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454395	1471947854945	1471947855023	i	73
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454398	1471947855252	1471947855321	t	84
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454400	1471947856367	1471947856475	u	85
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454402	1471947856666	1471947856736	t	84
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454585	1471947857185	1471947857254	i	73
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454586	1471947857343	1471947857482	o	79
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454589	1471947857941	1471947858084	n	78
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454592	1471947858095	1471947858242	 	32
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454596	1471947860630	1471947860736	w	87
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454669	1471947860757	1471947860864	h	72
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454672	1471947861233	1471947861340	i	73
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454674	1471947862118	1471947862262	c	67
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454677	1471947862623	1471947862730	h	72
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454683	1471947862767	1471947862909	 	32
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454767	1471947863805	1471947863950	c	67
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454768	1471947863952	1471947864056	o	79
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454769	1471947864566	1471947864637	u	85
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454770	1471947865205	1471947865310	l	76
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454771	1471947865534	1471947865674	d	68
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454932	1471947865711	1471947865818	 	32
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454933	1471947869395	1471947869538	m	77
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454934	1471947869540	1471947869643	o	79
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454935	1471947870064	1471947870170	v	86
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	454936	1471947870373	1471947870479	e	69
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	455016	1471947870501	1471947870655	 	32
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	455018	1471947871775	1471947871916	q	81
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	455022	1471947872037	1471947872146	u	85
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	455025	1471947872349	1471947872455	i	73
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	455029	1471947873182	1471947873289	c	67
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	455126	1471947873373	1471947873477	l	76
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	455127	1471947874555	1471947874660	y	89
+862	9451	I wonder if RBS is another institution which could move quickly.	I wonder if RBS is another institution which could move quicly.	455128	1471947875786	1471947875857	.	190

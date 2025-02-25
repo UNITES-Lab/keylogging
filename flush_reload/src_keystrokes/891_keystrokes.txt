@@ -1,0 +1,684 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430045	1471946700650	1471946701063	SHIFT	16
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430041	1471946700920	1471946701026		68
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430048	1471946701204	1471946701341		79
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430051	1471946701349	1471946701481		78
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430052	1471946701602	1471946701690		79
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430053	1471946701923	1471946702024		67
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430098	1471946702183	1471946702292		65
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430099	1471946702366	1471946702440		78
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430100	1471946702475	1471946702553		32
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430101	1471946702641	1471946703579	SHIFT	16
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430102	1471946703561	1471946703624		77
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430103	1471946703766	1471946703822		67
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430152	1471946704007	1471946704247	SHIFT	16
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430148	1471946704135	1471946704225		78
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430155	1471946704691	1471946704764		65
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430157	1471946705013	1471946705080		66
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430160	1471946705170	1471946705256		66
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430163	1471946705311	1471946705389		32
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430206	1471946705546	1471946705601		85
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430207	1471946705789	1471946705858		83
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430208	1471946705964	1471946706030		32
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430209	1471946706494	1471946706635		73
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430288	1471946706611	1471946706739		78
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430291	1471946706789	1471946706863		69
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430293	1471946707007	1471946707092		32
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430297	1471946708027	1471946708091		79
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430301	1471946708165	1471946708238		70
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430304	1471946708315	1471946708395		32
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430358	1471946708520	1471946708592		77
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430361	1471946708700	1471946708791		89
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430368	1471946708919	1471946708996		32
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430372	1471946709167	1471946709251		83
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430378	1471946709686	1471946709760		84
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430409	1471946709942	1471946709996		65
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430414	1471946710087	1471946710194		82
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430418	1471946710205	1471946710305		84
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430422	1471946710525	1471946710592		69
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430426	1471946710695	1471946710763		82
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430502	1471946710877	1471946710937		83
+891	8971	Donovan McNabb is one of my starters.	Donocan McNabb us ine of my starters.	430505	1471946711337	1471946711406		190
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430745	1471946716341	1471946716673	SHIFT	16
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430746	1471946716590	1471946716682		68
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430748	1471946716790	1471946716850		65
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430750	1471946717017	1471946717081		86
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430755	1471946717135	1471946717196		73
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430759	1471946717431	1471946717501		83
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430810	1471946717768	1471946717846		32
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430811	1471946718056	1471946718142		87
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430812	1471946718295	1471946718377		65
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430813	1471946718494	1471946718559		83
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430814	1471946718710	1471946718813		32
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430835	1471946718990	1471946719116		76
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430837	1471946719100	1471946719169		73
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430839	1471946719219	1471946719282		83
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430840	1471946719419	1471946719482		84
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430841	1471946719585	1471946719657		69
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430885	1471946719787	1471946719865		68
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430888	1471946719969	1471946720043		32
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430892	1471946720205	1471946720286		65
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430895	1471946720409	1471946720485		83
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430897	1471946720628	1471946720716		32
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430945	1471946721112	1471946721190		81
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430947	1471946721405	1471946721483		85
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430949	1471946721568	1471946721642		69
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430953	1471946722100	1471946722189		83
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430957	1471946722349	1471946722419		84
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	430999	1471946722532	1471946722620		73
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431000	1471946722595	1471946722710		79
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431001	1471946722759	1471946722851		78
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431002	1471946722955	1471946723036		65
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431003	1471946723401	1471946723477		66
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431052	1471946723566	1471946723637		76
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431054	1471946723740	1471946723843		69
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431058	1471946724097	1471946724181		32
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431061	1471946724423	1471946724527		79
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431066	1471946724587	1471946724669		78
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431100	1471946724710	1471946724785		32
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431102	1471946724863	1471946724941		84
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431104	1471946725068	1471946725172		72
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431106	1471946725215	1471946725285		69
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431108	1471946725385	1471946725463		32
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431144	1471946725694	1471946725748		87
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431147	1471946725935	1471946726000		69
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431149	1471946726108	1471946726163		69
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431153	1471946726186	1471946726263		75
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431158	1471946726356	1471946726440		76
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431246	1471946726460	1471946726545		89
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431250	1471946727026	1471946727127		32
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431253	1471946727510	1471946727600		73
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431257	1471946727680	1471946727773		78
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431261	1471946727995	1471946728062		74
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431337	1471946728150	1471946728222		85
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431338	1471946728304	1471946728381		82
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431341	1471946728562	1471946728643		89
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431342	1471946728819	1471946728904		32
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431344	1471946729629	1471946729788		76
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431413	1471946729775	1471946729857		73
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431416	1471946730172	1471946730268		8
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431418	1471946730376	1471946730470		8
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431421	1471946730561	1471946730664		82
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431424	1471946730742	1471946730806		69
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431427	1471946730864	1471946730995		80
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431489	1471946731003	1471946731089		79
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431492	1471946731449	1471946731532		82
+891	8988	Davis was listed as questionable on the weekly injury report.	Davis was listed as questionable on the weekly injury report	431495	1471946731645	1471946731748		84
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431692	1471946735275	1471946735606	SHIFT	16
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431696	1471946735546	1471946735622		73
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431701	1471946735712	1471946735816		32
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431704	1471946735922	1471946735996		68
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431712	1471946736105	1471946736217		79
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431723	1471946736225	1471946736320		78
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431850	1471946736936	1471946737462	SHIFT	16
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431842	1471946737339	1471946737418		222
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431860	1471946737745	1471946737821		84
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431866	1471946738121	1471946738192		8
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431874	1471946738278	1471946738370		8
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431879	1471946739199	1471946739267		222
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431923	1471946739351	1471946739425		84
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431926	1471946739517	1471946739593		32
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431929	1471946739660	1471946739765		75
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431932	1471946739736	1471946739849		78
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431934	1471946739914	1471946740004		79
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431982	1471946740045	1471946740121		87
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431984	1471946740243	1471946740315		32
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431985	1471946740684	1471946740772		84
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431986	1471946740827	1471946740931		72
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	431987	1471946740980	1471946741044		65
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432022	1471946741082	1471946741186		84
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432024	1471946741223	1471946741309		32
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432027	1471946741398	1471946741614	SHIFT	16
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432026	1471946741514	1471946741596		73
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432028	1471946741676	1471946741755		32
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432031	1471946741890	1471946741981		87
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432084	1471946742189	1471946742259		73
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432088	1471946742431	1471946742506		76
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432092	1471946742600	1471946742700		76
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432096	1471946742729	1471946742810		32
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432098	1471946742951	1471946743038		66
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432132	1471946743096	1471946743156		69
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432135	1471946743195	1471946743263		32
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432139	1471946743410	1471946743487		66
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432143	1471946743538	1471946743604		65
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432148	1471946743789	1471946743877		67
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432197	1471946743970	1471946744066		75
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432198	1471946744081	1471946744146		32
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432202	1471946744269	1471946744537	SHIFT	16
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432200	1471946744350	1471946744470		77
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432204	1471946744583	1471946744682		79
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432205	1471946744955	1471946745047		78
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432257	1471946745101	1471946745160		68
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432259	1471946745287	1471946745361		65
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432262	1471946745636	1471946745725		89
+891	9005	I don't know that I will be back Monday.	I don't know that I will be back Monday.	432267	1471946745977	1471946746040		190
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432601	1471946751731	1471946752281	SHIFT	16
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432603	1471946752241	1471946752313		72
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432607	1471946752404	1471946752489		69
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432610	1471946752540	1471946752610		32
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432617	1471946752677	1471946752774		73
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432625	1471946752811	1471946752886		83
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432661	1471946753001	1471946753111		32
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432667	1471946753212	1471946753283		65
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432676	1471946753340	1471946753413		76
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432685	1471946753486	1471946753563		82
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432692	1471946754021	1471946754082		69
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432713	1471946754203	1471946754258		65
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432716	1471946754374	1471946754436		68
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432718	1471946754532	1471946754618		89
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432721	1471946754663	1471946754740		32
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432723	1471946755056	1471946755150		79
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432760	1471946755215	1471946755292		78
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432765	1471946755326	1471946755392		32
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432768	1471946755550	1471946755629		84
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432771	1471946755702	1471946755761		72
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432774	1471946755783	1471946755851		69
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432832	1471946755921	1471946756008		32
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432834	1471946756137	1471946756227		74
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432838	1471946756411	1471946756511		79
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432842	1471946756618	1471946756719		66
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432847	1471946756866	1471946756949		32
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432909	1471946757222	1471946757297		65
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432913	1471946757616	1471946757700		78
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432916	1471946757747	1471946757834		68
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432918	1471946757858	1471946757949		32
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432921	1471946758153	1471946758264		72
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432939	1471946758355	1471946758435		65
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432943	1471946758628	1471946758711		82
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432947	1471946758830	1471946758912		68
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432950	1471946759011	1471946759093		32
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	432952	1471946759171	1471946759232		65
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433012	1471946759504	1471946759559		84
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433013	1471946759760	1471946759847		32
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433014	1471946759919	1471946759995		87
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433017	1471946760137	1471946760213		79
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433020	1471946760282	1471946760360		82
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433091	1471946760531	1471946760623		75
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433094	1471946760686	1471946760767		32
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433096	1471946761110	1471946761206		79
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433098	1471946761266	1471946761364		78
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433100	1471946761395	1471946761459		32
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433124	1471946761602	1471946761647		84
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433126	1471946761728	1471946761818		72
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433128	1471946761854	1471946761922		69
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433130	1471946762006	1471946762095		32
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433134	1471946762323	1471946762392		73
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433176	1471946762466	1471946762526		83
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433180	1471946762648	1471946762726		83
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433183	1471946762848	1471946762926		85
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433187	1471946763113	1471946763182		69
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433190	1471946763316	1471946763382		83
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433272	1471946763861	1471946763953		32
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433278	1471946764221	1471946764315		66
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433283	1471946764471	1471946764547		69
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433290	1471946764715	1471946764794		70
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433297	1471946764890	1471946764973		79
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433325	1471946765002	1471946765058		82
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433326	1471946765159	1471946765217		69
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433327	1471946765231	1471946765318		32
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433329	1471946765421	1471946765512		85
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433332	1471946765550	1471946765621		83
+891	9023	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	433368	1471946765893	1471946765987		190
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433547	1471946769944	1471946770309	SHIFT	16
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433543	1471946770219	1471946770295		80
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433551	1471946770437	1471946770505		82
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433557	1471946770535	1471946770613		79
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433561	1471946770744	1471946770797		66
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433566	1471946770897	1471946770937		65
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433653	1471946771099	1471946771169		66
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433654	1471946771302	1471946771377		76
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433655	1471946771422	1471946771490		89
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433656	1471946771561	1471946771664		32
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433657	1471946772101	1471946772172		78
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433698	1471946772313	1471946772399		69
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433700	1471946772501	1471946772593		69
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433705	1471946772664	1471946772738		69
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433710	1471946772886	1471946772960		68
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433716	1471946773082	1471946773159		32
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433799	1471946773233	1471946773280		84
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433802	1471946773736	1471946773815		8
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433806	1471946773915	1471946773987		8
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433808	1471946774084	1471946774165		8
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433809	1471946774270	1471946774353		8
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433859	1471946774557	1471946774633		68
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433864	1471946774737	1471946774821		32
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433867	1471946774934	1471946775025		84
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433871	1471946775119	1471946775214		79
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433877	1471946775233	1471946775299		32
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433929	1471946775525	1471946775618		67
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433932	1471946775693	1471946775750		72
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433935	1471946775789	1471946775874		69
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433938	1471946776012	1471946776102		67
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	433939	1471946776228	1471946776307		75
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434021	1471946776345	1471946776421		32
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434026	1471946777259	1471946777329		87
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434030	1471946777422	1471946777506		73
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434034	1471946777533	1471946777610		82
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434038	1471946777899	1471946777960		72
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434082	1471946778218	1471946778301		8
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434084	1471946778403	1471946778476		8
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434086	1471946778669	1471946778728		84
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434088	1471946779009	1471946779096		72
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434091	1471946779140	1471946779210		32
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434173	1471946779334	1471946780147	SHIFT	16
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434162	1471946779618	1471946779690		72
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434166	1471946779913	1471946779985		82
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434180	1471946780315	1471946780395		32
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434185	1471946780699	1471946780757		71
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434190	1471946780906	1471946780977		82
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434225	1471946781083	1471946781228		79
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434229	1471946781200	1471946781306		85
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434234	1471946781386	1471946781493		80
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434239	1471946781587	1471946781666		32
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434248	1471946781885	1471946781968		80
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434318	1471946782046	1471946782124		82
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434319	1471946782348	1471946782421		79
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434320	1471946783111	1471946783181		86
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434323	1471946783315	1471946783399		73
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434327	1471946783487	1471946783569		68
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434386	1471946783624	1471946783785		73
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434388	1471946783772	1471946783888		78
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434389	1471946783925	1471946784010		71
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434391	1471946784118	1471946784202		32
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434393	1471946784594	1471946784667		83
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434432	1471946784794	1471946784879		69
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434436	1471946784988	1471946785063		82
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434439	1471946785241	1471946785332		86
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434441	1471946785374	1471946785448		73
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434442	1471946785478	1471946785551		67
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434492	1471946785703	1471946785779		69
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434496	1471946785888	1471946785963		83
+891	9045	Probably need to check with HR group providing services.	Probably need to check with HR group providing services.	434501	1471946786162	1471946786242		190
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434711	1471946789792	1471946790020	SHIFT	16
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434713	1471946789951	1471946790030		73
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434715	1471946790084	1471946790206		32
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434719	1471946790286	1471946790359		87
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434721	1471946790505	1471946790570		65
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434724	1471946790680	1471946790739		83
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434763	1471946790838	1471946790933		32
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434769	1471946791188	1471946791267		65
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434775	1471946791343	1471946791431		32
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434780	1471946791701	1471946791810		66
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434783	1471946791918	1471946791996		73
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434802	1471946792041	1471946792098		84
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434803	1471946792185	1471946792264		32
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434804	1471946792352	1471946792424		82
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434805	1471946792497	1471946792590		85
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434808	1471946792603	1471946792674		83
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434891	1471946792843	1471946792930		84
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434892	1471946793096	1471946793202		89
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434893	1471946793672	1471946793792		32
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434894	1471946794160	1471946794283		66
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434895	1471946794575	1471946794692		85
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434938	1471946794741	1471946794819		84
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434943	1471946794904	1471946794996		32
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434949	1471946795148	1471946795429	SHIFT	16
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434947	1471946795280	1471946795373		73
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434952	1471946795512	1471946795596		32
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434953	1471946795765	1471946795860		68
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434994	1471946795905	1471946796028		73
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	434998	1471946796036	1471946796081		68
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435002	1471946796177	1471946796290		78
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435005	1471946796410	1471946796441		84
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435008	1471946797169	1471946797263		8
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435058	1471946797797	1471946797877		222
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435060	1471946797966	1471946798034		84
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435064	1471946798165	1471946798255		32
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435067	1471946798581	1471946798658		87
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435070	1471946798779	1471946798836		65
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435096	1471946798893	1471946798985		78
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435100	1471946799058	1471946799148		84
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435106	1471946799227	1471946799294		32
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435111	1471946799346	1471946799417		84
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435116	1471946799523	1471946799627		79
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435165	1471946799667	1471946799723		32
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435167	1471946800149	1471946800302		77
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435170	1471946800470	1471946800571		85
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435174	1471946800697	1471946800759		83
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435177	1471946800859	1471946800949		83
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435229	1471946801220	1471946801328		8
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435233	1471946801422	1471946801505		8
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435242	1471946801609	1471946801715		8
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435245	1471946802255	1471946802334		73
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435247	1471946802440	1471946802501		83
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435260	1471946802607	1471946802685		83
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435264	1471946802748	1471946802867		32
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435270	1471946802943	1471946803041		84
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435274	1471946803096	1471946803189		72
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435279	1471946803211	1471946803284		69
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435324	1471946803362	1471946803453		32
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435326	1471946803580	1471946803658		69
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435327	1471946803736	1471946803814		76
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435329	1471946803998	1471946804124		67
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435331	1471946804433	1471946804514		84
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435360	1471946804944	1471946805024		8
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435363	1471946805122	1471946805215		8
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435366	1471946805272	1471946805352		69
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435369	1471946805490	1471946805584		67
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435372	1471946805805	1471946805880		84
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435479	1471946806629	1471946806763		73
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435482	1471946806796	1471946806857		79
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435487	1471946807123	1471946807224		8
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435492	1471946807342	1471946807426		8
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435494	1471946807839	1471946807958		73
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435529	1471946807980	1471946808147		79
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435534	1471946808195	1471946808343		78
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435540	1471946808403	1471946808469		83
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435545	1471946808644	1471946808718		32
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435549	1471946808835	1471946808925		66
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435600	1471946808940	1471946809008		65
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435601	1471946809167	1471946809251		67
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435602	1471946809345	1471946809423		75
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435603	1471946809457	1471946809542		32
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435604	1471946810035	1471946810113		72
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435648	1471946810209	1471946810311		79
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435650	1471946810377	1471946810486		77
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435653	1471946810523	1471946810592		69
+891	9066	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435659	1471946811181	1471946811245		190
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436148	1471946819585	1471946819913	SHIFT	16
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436145	1471946819819	1471946819903		73
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436152	1471946820413	1471946820492		222
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436156	1471946820739	1471946820823		76
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436160	1471946820928	1471946821013		76
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436165	1471946821112	1471946821191		32
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436254	1471946821395	1471946821447		70
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436258	1471946822200	1471946822371		85
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436262	1471946822357	1471946822465		66
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436265	1471946822926	1471946823022		8
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436268	1471946823117	1471946823215		8
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436336	1471946823675	1471946823756		85
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436340	1471946824087	1471946824184		8
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436345	1471946824651	1471946824813		73
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436349	1471946824786	1471946824909		78
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436354	1471946824943	1471946824999		68
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436371	1471946825057	1471946825156		32
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436372	1471946825261	1471946825347		83
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436373	1471946825388	1471946825507		73
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436374	1471946825543	1471946825712		77
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436376	1471946825806	1471946825873		69
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436427	1471946826154	1471946826232		8
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436431	1471946826330	1471946826399		8
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436434	1471946826491	1471946826587		8
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436438	1471946827197	1471946827341		79
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436491	1471946827325	1471946827427		78
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436492	1471946827525	1471946827593		69
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436494	1471946827873	1471946828026		79
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436496	1471946828290	1471946828388		8
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436498	1471946828491	1471946828564		8
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436502	1471946828669	1471946828767		8
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436542	1471946829213	1471946829312		77
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436545	1471946829363	1471946829429		69
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436548	1471946829519	1471946829648		79
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436551	1471946829623	1471946829729		78
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436553	1471946829782	1471946829841		69
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436610	1471946829913	1471946830011		32
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436613	1471946830449	1471946830533		84
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436616	1471946830680	1471946830760		79
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436622	1471946831612	1471946831694		32
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436626	1471946831915	1471946831982		68
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436645	1471946832108	1471946832183		79
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436649	1471946832194	1471946832265		32
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436656	1471946832400	1471946832494		73
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436662	1471946832528	1471946832594		84
+891	9094	I'll find someone to do it.	I'll find someone to do it.	436672	1471946832895	1471946832990		190
+891	9113	His return date is unclear.	His return date is unclear.	436867	1471946836361	1471946836568	SHIFT	16
+891	9113	His return date is unclear.	His return date is unclear.	436870	1471946836481	1471946836577		72
+891	9113	His return date is unclear.	His return date is unclear.	436875	1471946836624	1471946836718		73
+891	9113	His return date is unclear.	His return date is unclear.	436878	1471946836790	1471946836862		83
+891	9113	His return date is unclear.	His return date is unclear.	436879	1471946836953	1471946837043		32
+891	9113	His return date is unclear.	His return date is unclear.	436880	1471946837495	1471946837563		82
+891	9113	His return date is unclear.	His return date is unclear.	436904	1471946837681	1471946837737		69
+891	9113	His return date is unclear.	His return date is unclear.	436905	1471946837989	1471946838053		84
+891	9113	His return date is unclear.	His return date is unclear.	436906	1471946838181	1471946838270		85
+891	9113	His return date is unclear.	His return date is unclear.	436907	1471946838321	1471946838378		82
+891	9113	His return date is unclear.	His return date is unclear.	436909	1471946838495	1471946838585		78
+891	9113	His return date is unclear.	His return date is unclear.	436985	1471946838712	1471946838751		32
+891	9113	His return date is unclear.	His return date is unclear.	436988	1471946838938	1471946839013		68
+891	9113	His return date is unclear.	His return date is unclear.	436991	1471946839205	1471946839275		65
+891	9113	His return date is unclear.	His return date is unclear.	436994	1471946839448	1471946839559		84
+891	9113	His return date is unclear.	His return date is unclear.	436995	1471946839708	1471946839788		69
+891	9113	His return date is unclear.	His return date is unclear.	437058	1471946839887	1471946839965		32
+891	9113	His return date is unclear.	His return date is unclear.	437061	1471946840785	1471946840864		73
+891	9113	His return date is unclear.	His return date is unclear.	437064	1471946841021	1471946841089		83
+891	9113	His return date is unclear.	His return date is unclear.	437070	1471946841212	1471946841303		32
+891	9113	His return date is unclear.	His return date is unclear.	437075	1471946841407	1471946841492		85
+891	9113	His return date is unclear.	His return date is unclear.	437165	1471946841709	1471946841811		78
+891	9113	His return date is unclear.	His return date is unclear.	437170	1471946842034	1471946842106		67
+891	9113	His return date is unclear.	His return date is unclear.	437174	1471946842969	1471946843043		76
+891	9113	His return date is unclear.	His return date is unclear.	437177	1471946843096	1471946843165		69
+891	9113	His return date is unclear.	His return date is unclear.	437180	1471946843326	1471946843353		20
+891	9113	His return date is unclear.	His return date is unclear.	437263	1471946844012	1471946844107		8
+891	9113	His return date is unclear.	His return date is unclear.	437265	1471946844471	1471946844568	CAPS_LOCK	20
+891	9113	His return date is unclear.	His return date is unclear.	437268	1471946844860	1471946844929		65
+891	9113	His return date is unclear.	His return date is unclear.	437271	1471946845162	1471946845237		82
+891	9113	His return date is unclear.	His return date is unclear.	437274	1471946845489	1471946845579		190
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437536	1471946849215	1471946849715	SHIFT	16
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437533	1471946849394	1471946849443		89
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437539	1471946849909	1471946850011		8
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437542	1471946850141	1471946850239		8
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437647	1471946850685	1471946851007	SHIFT	16
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437544	1471946850891	1471946850959		84
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437648	1471946851444	1471946851522		72
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437650	1471946851581	1471946851653		69
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437655	1471946851724	1471946851811		89
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437659	1471946851874	1471946851945		32
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437661	1471946852794	1471946852896		76
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437713	1471946852990	1471946853063		79
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437717	1471946853131	1471946853199		83
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437721	1471946853420	1471946853508		84
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437724	1471946853679	1471946853775		32
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437726	1471946853937	1471946854019		84
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437786	1471946854259	1471946854324		79
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437788	1471946854581	1471946854665		32
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437790	1471946854795	1471946855031	SHIFT	16
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437792	1471946854936	1471946855040		78
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437794	1471946855240	1471946855334		65
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437796	1471946855569	1471946855678		78
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437905	1471946856511	1471946856572		84
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437906	1471946856757	1471946856808		69
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437908	1471946857010	1471946857077		83
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437910	1471946857620	1471946857718		32
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437912	1471946858207	1471946858288		65
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437947	1471946858351	1471946858494		70
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437951	1471946858465	1471946858583		84
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437955	1471946858635	1471946858703		69
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437959	1471946858831	1471946858911		82
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	437963	1471946859074	1471946859182		32
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	438043	1471946859592	1471946859680		69
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	438045	1471946859908	1471946859992		88
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	438049	1471946860267	1471946860295		82
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	438052	1471946860771	1471946860869		8
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	438054	1471946861051	1471946861174		84
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	438135	1471946861312	1471946861426		82
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	438136	1471946861640	1471946861714		65
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	438137	1471946862472	1471946862559		173
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	438138	1471946862718	1471946862795		84
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	438139	1471946862960	1471946863103		73
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	438166	1471946863130	1471946863258		77
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	438169	1471946863319	1471946863405		69
+891	9123	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	438171	1471946863663	1471946863764		190
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438333	1471946866619	1471946867242	SHIFT	16
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438331	1471946867122	1471946867208		87
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438335	1471946867458	1471946867533		69
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438338	1471946867701	1471946867810		32
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438342	1471946867915	1471946867990		65
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438348	1471946868207	1471946868277		82
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438386	1471946868448	1471946868514		69
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438388	1471946868659	1471946868767		32
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438390	1471946869408	1471946869525		79
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438394	1471946869540	1471946869628		78
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438397	1471946869647	1471946869741		32
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438402	1471946869825	1471946869906		65
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438405	1471946869937	1471946870019		32
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438408	1471946870179	1471946870360		80
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438411	1471946870311	1471946870435		76
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438414	1471946870476	1471946870550		65
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438467	1471946870674	1471946870738		78
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438469	1471946870864	1471946870964		69
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438471	1471946871164	1471946871253		32
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438473	1471946871558	1471946871655		67
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438475	1471946871682	1471946871836		79
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438517	1471946871877	1471946872037		77
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438519	1471946872094	1471946872296		73
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438521	1471946872253	1471946872394		78
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438523	1471946872531	1471946872642		71
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438525	1471946872725	1471946872820		32
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438617	1471946873126	1471946873250		66
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438621	1471946873339	1471946873423		65
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438624	1471946873606	1471946873712		67
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438628	1471946874157	1471946874250		75
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438632	1471946874884	1471946874953		191
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438693	1471946875398	1471946875490		8
+891	9140	We are on a plane coming back.	We are on a plane coming back.	438696	1471946875924	1471946876026		190
+891	9155	I will likely not be available.	I will likely not be available.	438867	1471946879147	1471946879540	SHIFT	16
+891	9155	I will likely not be available.	I will likely not be available.	438869	1471946879468	1471946879551		73
+891	9155	I will likely not be available.	I will likely not be available.	438875	1471946879657	1471946879729		32
+891	9155	I will likely not be available.	I will likely not be available.	438880	1471946879865	1471946879937		87
+891	9155	I will likely not be available.	I will likely not be available.	438885	1471946879968	1471946880057		73
+891	9155	I will likely not be available.	I will likely not be available.	438889	1471946880203	1471946880277		76
+891	9155	I will likely not be available.	I will likely not be available.	438898	1471946880369	1471946880457		76
+891	9155	I will likely not be available.	I will likely not be available.	438900	1471946880477	1471946880556		32
+891	9155	I will likely not be available.	I will likely not be available.	438904	1471946880759	1471946880875		76
+891	9155	I will likely not be available.	I will likely not be available.	438909	1471946880862	1471946880965		73
+891	9155	I will likely not be available.	I will likely not be available.	438914	1471946881070	1471946881146		75
+891	9155	I will likely not be available.	I will likely not be available.	438995	1471946881499	1471946881587		69
+891	9155	I will likely not be available.	I will likely not be available.	438997	1471946881893	1471946881992		76
+891	9155	I will likely not be available.	I will likely not be available.	438998	1471946882650	1471946882719		89
+891	9155	I will likely not be available.	I will likely not be available.	439000	1471946882959	1471946883050		32
+891	9155	I will likely not be available.	I will likely not be available.	439002	1471946883153	1471946883178		87
+891	9155	I will likely not be available.	I will likely not be available.	439075	1471946883595	1471946883695		8
+891	9155	I will likely not be available.	I will likely not be available.	439076	1471946884012	1471946884121		78
+891	9155	I will likely not be available.	I will likely not be available.	439077	1471946884200	1471946884283		79
+891	9155	I will likely not be available.	I will likely not be available.	439078	1471946884314	1471946884380		84
+891	9155	I will likely not be available.	I will likely not be available.	439079	1471946884472	1471946884559		32
+891	9155	I will likely not be available.	I will likely not be available.	439089	1471946884645	1471946884723		66
+891	9155	I will likely not be available.	I will likely not be available.	439092	1471946884774	1471946884852		69
+891	9155	I will likely not be available.	I will likely not be available.	439095	1471946884906	1471946884998		32
+891	9155	I will likely not be available.	I will likely not be available.	439097	1471946885080	1471946885151		65
+891	9155	I will likely not be available.	I will likely not be available.	439099	1471946885278	1471946885402		86
+891	9155	I will likely not be available.	I will likely not be available.	439194	1471946886159	1471946886242		65
+891	9155	I will likely not be available.	I will likely not be available.	439196	1471946886404	1471946886472		73
+891	9155	I will likely not be available.	I will likely not be available.	439199	1471946886691	1471946886779		76
+891	9155	I will likely not be available.	I will likely not be available.	439201	1471946886924	1471946887001		65
+891	9155	I will likely not be available.	I will likely not be available.	439203	1471946887086	1471946887188		66
+891	9155	I will likely not be available.	I will likely not be available.	439275	1471946887876	1471946887980		76
+891	9155	I will likely not be available.	I will likely not be available.	439282	1471946888111	1471946888174		69
+891	9155	I will likely not be available.	I will likely not be available.	439288	1471946888899	1471946888985		190
+891	9166	Will follow up today.	Will follow up today.	439427	1471946892334	1471946892695	SHIFT	16
+891	9166	Will follow up today.	Will follow up today.	439426	1471946892627	1471946892686		87
+891	9166	Will follow up today.	Will follow up today.	439428	1471946892872	1471946892944		73
+891	9166	Will follow up today.	Will follow up today.	439429	1471946893082	1471946893149		76
+891	9166	Will follow up today.	Will follow up today.	439432	1471946893233	1471946893321		76
+891	9166	Will follow up today.	Will follow up today.	439436	1471946893328	1471946893432		32
+891	9166	Will follow up today.	Will follow up today.	439468	1471946893483	1471946893574		70
+891	9166	Will follow up today.	Will follow up today.	439470	1471946893595	1471946893686		79
+891	9166	Will follow up today.	Will follow up today.	439471	1471946893984	1471946894054		76
+891	9166	Will follow up today.	Will follow up today.	439472	1471946894155	1471946894221		76
+891	9166	Will follow up today.	Will follow up today.	439474	1471946894321	1471946894407		79
+891	9166	Will follow up today.	Will follow up today.	439511	1471946894478	1471946894550		87
+891	9166	Will follow up today.	Will follow up today.	439513	1471946894637	1471946894726		32
+891	9166	Will follow up today.	Will follow up today.	439515	1471946895093	1471946895181		85
+891	9166	Will follow up today.	Will follow up today.	439517	1471946895316	1471946895395		80
+891	9166	Will follow up today.	Will follow up today.	439519	1471946895451	1471946895551		32
+891	9166	Will follow up today.	Will follow up today.	439556	1471946895720	1471946895791		84
+891	9166	Will follow up today.	Will follow up today.	439560	1471946895896	1471946895981		79
+891	9166	Will follow up today.	Will follow up today.	439566	1471946896028	1471946896080		68
+891	9166	Will follow up today.	Will follow up today.	439571	1471946896231	1471946896301		65
+891	9166	Will follow up today.	Will follow up today.	439577	1471946896374	1471946896419		89
+891	9166	Will follow up today.	Will follow up today.	439596	1471946896686	1471946896780		190
+891	9174	I am all over it.	I am all over it.	439804	1471946899988	1471946900898	SHIFT	16
+891	9174	I am all over it.	I am all over it.	439803	1471946900811	1471946900888		73
+891	9174	I am all over it.	I am all over it.	439806	1471946901030	1471946901143		32
+891	9174	I am all over it.	I am all over it.	439810	1471946901307	1471946901388		65
+891	9174	I am all over it.	I am all over it.	439812	1471946901457	1471946901532		77
+891	9174	I am all over it.	I am all over it.	439816	1471946901548	1471946901625		32
+891	9174	I am all over it.	I am all over it.	439836	1471946901738	1471946901794		65
+891	9174	I am all over it.	I am all over it.	439837	1471946901814	1471946901892		76
+891	9174	I am all over it.	I am all over it.	439839	1471946901985	1471946902064		76
+891	9174	I am all over it.	I am all over it.	439841	1471946902150	1471946902222		76
+891	9174	I am all over it.	I am all over it.	439844	1471946902298	1471946902363		32
+891	9174	I am all over it.	I am all over it.	439885	1471946902541	1471946902608		79
+891	9174	I am all over it.	I am all over it.	439890	1471946903030	1471946903100		8
+891	9174	I am all over it.	I am all over it.	439894	1471946903190	1471946903256		8
+891	9174	I am all over it.	I am all over it.	439898	1471946903370	1471946903433		8
+891	9174	I am all over it.	I am all over it.	439901	1471946903932	1471946904020		32
+891	9174	I am all over it.	I am all over it.	439919	1471946904178	1471946904253		79
+891	9174	I am all over it.	I am all over it.	439925	1471946904357	1471946904397		86
+891	9174	I am all over it.	I am all over it.	439929	1471946904688	1471946904748		69
+891	9174	I am all over it.	I am all over it.	439933	1471946904838	1471946904899		82
+891	9174	I am all over it.	I am all over it.	439937	1471946904908	1471946904966		32
+891	9174	I am all over it.	I am all over it.	439952	1471946905047	1471946905150		73
+891	9174	I am all over it.	I am all over it.	439954	1471946905177	1471946905252		84
+891	9174	I am all over it.	I am all over it.	439955	1471946905515	1471946905603		190
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440156	1471946909190	1471946909835	SHIFT	16
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440152	1471946909691	1471946909781		79
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440161	1471946910115	1471946910207		78
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440165	1471946910262	1471946910333		69
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440170	1471946910361	1471946910455		32
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440174	1471946910601	1471946910677		65
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440212	1471946910809	1471946910865		83
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440214	1471946910969	1471946911023		83
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440216	1471946911074	1471946911165		73
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440217	1471946911205	1471946911282		83
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440218	1471946911602	1471946911678		84
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440266	1471946911862	1471946911935		65
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440267	1471946912033	1471946912114		78
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440268	1471946912287	1471946912366		84
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440269	1471946912744	1471946912845		8
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440270	1471946913315	1471946913410		84
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440293	1471946913591	1471946913674		32
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440295	1471946913875	1471946913955		65
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440299	1471946914024	1471946914083		78
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440302	1471946914214	1471946914292		68
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440305	1471946914403	1471946914510		32
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440353	1471946914682	1471946914829		79
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440355	1471946914836	1471946914944		78
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440357	1471946914952	1471946915018		69
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440358	1471946915084	1471946915179		32
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440402	1471946915311	1471946916061	SHIFT	16
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440359	1471946915560	1471946915655		72
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440401	1471946915883	1471946915973		82
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440403	1471946916132	1471946916217		32
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440404	1471946916734	1471946916832		65
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440405	1471946917039	1471946917094		83
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440406	1471946917201	1471946917276		83
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440462	1471946917534	1471946917610		73
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440464	1471946918077	1471946918197		8
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440468	1471946918359	1471946918441		79
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440470	1471946918884	1471946918985		67
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440473	1471946919127	1471946919208		73
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440508	1471946919278	1471946919360		65
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440512	1471946919631	1471946919715		84
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440515	1471946919877	1471946919954		69
+891	9185	One assistant and one HR associate.	One assistant and one HR associate.	440517	1471946920235	1471946920325		190
+891	9195	Let me know when you get this.	Let me know when you get this.	440673	1471946923488	1471946924470	SHIFT	16
+891	9195	Let me know when you get this.	Let me know when you get this.	440679	1471946924423	1471946924494		76
+891	9195	Let me know when you get this.	Let me know when you get this.	440683	1471946924660	1471946924724		69
+891	9195	Let me know when you get this.	Let me know when you get this.	440686	1471946924860	1471946924931		84
+891	9195	Let me know when you get this.	Let me know when you get this.	440690	1471946924981	1471946925071		32
+891	9195	Let me know when you get this.	Let me know when you get this.	440691	1471946925151	1471946925233		77
+891	9195	Let me know when you get this.	Let me know when you get this.	440711	1471946925282	1471946925346		69
+891	9195	Let me know when you get this.	Let me know when you get this.	440715	1471946925430	1471946925507		32
+891	9195	Let me know when you get this.	Let me know when you get this.	440719	1471946925579	1471946925706		75
+891	9195	Let me know when you get this.	Let me know when you get this.	440723	1471946925669	1471946925799		78
+891	9195	Let me know when you get this.	Let me know when you get this.	440727	1471946925833	1471946925934		79
+891	9195	Let me know when you get this.	Let me know when you get this.	440748	1471946925943	1471946926001		87
+891	9195	Let me know when you get this.	Let me know when you get this.	440750	1471946926105	1471946926169		32
+891	9195	Let me know when you get this.	Let me know when you get this.	440754	1471946926304	1471946926366		87
+891	9195	Let me know when you get this.	Let me know when you get this.	440758	1471946926393	1471946926459		72
+891	9195	Let me know when you get this.	Let me know when you get this.	440763	1471946926529	1471946926599		69
+891	9195	Let me know when you get this.	Let me know when you get this.	440795	1471946926687	1471946926764		78
+891	9195	Let me know when you get this.	Let me know when you get this.	440796	1471946926805	1471946926879		32
+891	9195	Let me know when you get this.	Let me know when you get this.	440797	1471946927075	1471946927139		89
+891	9195	Let me know when you get this.	Let me know when you get this.	440798	1471946927202	1471946927324		79
+891	9195	Let me know when you get this.	Let me know when you get this.	440847	1471946927287	1471946927382		85
+891	9195	Let me know when you get this.	Let me know when you get this.	440850	1471946927393	1471946927449		32
+891	9195	Let me know when you get this.	Let me know when you get this.	440855	1471946927650	1471946927724		71
+891	9195	Let me know when you get this.	Let me know when you get this.	440859	1471946927790	1471946927847		69
+891	9195	Let me know when you get this.	Let me know when you get this.	440861	1471946927982	1471946928043		84
+891	9195	Let me know when you get this.	Let me know when you get this.	440862	1471946928087	1471946928180		32
+891	9195	Let me know when you get this.	Let me know when you get this.	440874	1471946928266	1471946928335		84
+891	9195	Let me know when you get this.	Let me know when you get this.	440876	1471946928370	1471946928455		72
+891	9195	Let me know when you get this.	Let me know when you get this.	440878	1471946928470	1471946928580		73
+891	9195	Let me know when you get this.	Let me know when you get this.	440880	1471946928597	1471946928662		83
+891	9195	Let me know when you get this.	Let me know when you get this.	440881	1471946928974	1471946929058		190

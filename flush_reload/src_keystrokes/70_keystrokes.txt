@@ -1,0 +1,662 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+70	548	Travis is in charge.	travis is in charge.	26339	1471935239921	1471935240070	SHIFT	16
+70	548	Travis is in charge.	travis is in charge.	26341	1471935240086	1471935240220	t	84
+70	548	Travis is in charge.	travis is in charge.	26344	1471935240251	1471935240356	r	82
+70	548	Travis is in charge.	travis is in charge.	26347	1471935240450	1471935240555	a	65
+70	548	Travis is in charge.	travis is in charge.	26350	1471935240618	1471935240723	v	86
+70	548	Travis is in charge.	travis is in charge.	26356	1471935240786	1471935240861	i	73
+70	548	Travis is in charge.	travis is in charge.	26430	1471935240908	1471935240972	s	83
+70	548	Travis is in charge.	travis is in charge.	26434	1471935241478	1471935242337	BKSP	8
+70	548	Travis is in charge.	travis is in charge.	26438	1471935242365	1471935242531	SHIFT	16
+70	548	Travis is in charge.	travis is in charge.	26441	1471935242544	1471935242663	t	84
+70	548	Travis is in charge.	travis is in charge.	26443	1471935242692	1471935242779	r	82
+70	548	Travis is in charge.	travis is in charge.	26445	1471935242871	1471935242956	a	65
+70	548	Travis is in charge.	travis is in charge.	26447	1471935243065	1471935243141	v	86
+70	548	Travis is in charge.	travis is in charge.	26459	1471935243236	1471935243325	i	73
+70	548	Travis is in charge.	travis is in charge.	26460	1471935243341	1471935243428	s	83
+70	548	Travis is in charge.	travis is in charge.	26461	1471935243490	1471935243607	 	32
+70	548	Travis is in charge.	travis is in charge.	26462	1471935243638	1471935243731	i	73
+70	548	Travis is in charge.	travis is in charge.	26463	1471935243746	1471935243814	s	83
+70	548	Travis is in charge.	travis is in charge.	26492	1471935243847	1471935243913	 	32
+70	548	Travis is in charge.	travis is in charge.	26494	1471935244022	1471935244082	i	73
+70	548	Travis is in charge.	travis is in charge.	26497	1471935244160	1471935244216	n	78
+70	548	Travis is in charge.	travis is in charge.	26500	1471935244295	1471935244351	 	32
+70	548	Travis is in charge.	travis is in charge.	26504	1471935244776	1471935244853	c	67
+70	548	Travis is in charge.	travis is in charge.	26514	1471935244950	1471935245022	h	72
+70	548	Travis is in charge.	travis is in charge.	26516	1471935245037	1471935245135	a	65
+70	548	Travis is in charge.	travis is in charge.	26518	1471935245198	1471935245304	r	82
+70	548	Travis is in charge.	travis is in charge.	26520	1471935245335	1471935245438	g	71
+70	548	Travis is in charge.	travis is in charge.	26522	1471935245485	1471935245559	e	69
+70	548	Travis is in charge.	travis is in charge.	26598	1471935245950	1471935246044	.	190
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26721	1471935250537	1471935250700	SHIFT	16
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26723	1471935250685	1471935250758	K	75
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26724	1471935251117	1471935251197	BKSP	8
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26726	1471935251275	1471935251376	BKSP	8
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26727	1471935251407	1471935251563	SHIFT	16
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26730	1471935251563	1471935251648	L	76
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26733	1471935251663	1471935251745	e	69
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26736	1471935251808	1471935251897	t	84
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26739	1471935251912	1471935251999	 	32
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26744	1471935252063	1471935252164	m	77
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26745	1471935252179	1471935252251	e	69
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26746	1471935252282	1471935252335	 	32
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26747	1471935252413	1471935252487	k	75
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26748	1471935252534	1471935252618	n	78
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26761	1471935252683	1471935252755	o	79
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26763	1471935252786	1471935252856	w	87
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26765	1471935252919	1471935252992	 	32
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26767	1471935253101	1471935253191	i	73
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26770	1471935253206	1471935253275	f	70
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26788	1471935253338	1471935253408	 	32
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26789	1471935253548	1471935253610	y	89
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26790	1471935253657	1471935253696	o	79
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26791	1471935253852	1471935253913	i	73
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26792	1471935254256	1471935254330	 	32
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26828	1471935254473	1471935254537	BKSP	8
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26830	1471935254646	1471935254719	BKSP	8
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26832	1471935255140	1471935255205	u	85
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26834	1471935255299	1471935255387	 	32
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26837	1471935255465	1471935255523	h	72
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26839	1471935255538	1471935255621	a	65
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26841	1471935255668	1471935255725	v	86
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26845	1471935255789	1471935255839	e	69
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26846	1471935255858	1471935255925	 	32
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26847	1471935256019	1471935256092	m	77
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26848	1471935256154	1471935256243	o	79
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26849	1471935256275	1471935256377	r	82
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26866	1471935256425	1471935256494	e	69
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26869	1471935256572	1471935256676	 	32
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26872	1471935257019	1471935257099	q	81
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26875	1471935257255	1471935257334	u	85
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26878	1471935257412	1471935257485	e	69
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26908	1471935257627	1471935257718	s	83
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26911	1471935257811	1471935257873	t	84
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26914	1471935257951	1471935258041	i	73
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26915	1471935258150	1471935258238	o	79
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	26916	1471935258347	1471935258408	m	77
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	27117	1471935258456	1471935258524	s	83
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	27119	1471935258712	1471935258777	/	191
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	27123	1471935259596	1471935259697	BKSP	8
+70	554	Let me know if you have more questions.	Let me know if you have more questions.	27124	1471935260024	1471935260070	.	190
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27217	1471935266921	1471935267072	SHIFT	16
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27219	1471935267056	1471935267161	O	79
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27221	1471935267270	1471935267348	u	85
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27223	1471935267395	1471935267483	r	82
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27225	1471935267483	1471935267550	 	32
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27227	1471935267660	1471935267735	n	78
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27250	1471935267830	1471935267901	u	85
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27252	1471935267995	1471935268101	m	77
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27254	1471935268147	1471935268222	b	66
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27258	1471935268316	1471935268404	e	69
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27260	1471935268497	1471935268573	r	82
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27274	1471935268715	1471935268776	s	83
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27275	1471935268839	1471935268939	 	32
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27276	1471935268955	1471935269041	a	65
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27277	1471935269119	1471935269199	r	82
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27279	1471935269246	1471935269313	e	69
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27295	1471935269392	1471935269478	 	32
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27298	1471935269494	1471935269579	c	67
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27301	1471935269626	1471935269698	o	79
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27307	1471935269761	1471935269832	r	82
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27312	1471935269896	1471935269967	r	82
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27334	1471935270016	1471935270084	e	69
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27336	1471935270193	1471935270298	c	67
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27341	1471935270408	1471935270471	t	84
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27343	1471935270518	1471935270587	 	32
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27344	1471935270696	1471935270787	i	73
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27356	1471935270834	1471935270920	n	78
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27359	1471935270998	1471935271094	 	32
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27361	1471935271110	1471935271174	t	84
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27364	1471935271206	1471935271259	h	72
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27367	1471935271352	1471935271417	e	69
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27381	1471935271466	1471935271542	 	32
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27383	1471935271652	1471935271711	s	83
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27386	1471935271743	1471935271811	y	89
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27389	1471935271921	1471935272011	s	83
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27392	1471935272104	1471935272164	t	84
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27409	1471935272538	1471935272616	e	69
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27411	1471935272663	1471935272733	m	77
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27415	1471935272827	1471935272902	 	32
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27419	1471935273012	1471935273103	n	78
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27422	1471935273181	1471935273254	o	79
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27467	1471935273317	1471935273372	w	87
+70	561	Our numbers are correct in the system now.	Our numbers are correct in the system now.	27468	1471935273575	1471935273627	.	190
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27558	1471935278059	1471935278219	SHIFT	16
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27560	1471935278168	1471935278269	O	79
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27562	1471935278393	1471935278456	u	85
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27566	1471935278502	1471935278570	t	84
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27568	1471935278589	1471935278671	 	32
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27570	1471935278768	1471935278839	o	79
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27584	1471935278870	1471935278957	f	70
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27586	1471935279019	1471935279106	 	32
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27589	1471935279106	1471935279210	t	84
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27592	1471935279210	1471935279292	h	72
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27595	1471935279388	1471935279429	e	69
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27615	1471935279525	1471935279594	 	32
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27616	1471935279703	1471935279780	o	79
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27617	1471935279920	1471935279981	f	70
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27618	1471935280044	1471935280114	f	70
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27619	1471935280350	1471935280433	i	73
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27657	1471935280466	1471935280550	c	67
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27661	1471935280628	1471935280718	e	69
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27665	1471935280702	1471935280786	 	32
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27666	1471935280958	1471935281053	b	66
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27667	1471935281162	1471935281255	u	85
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27682	1471935281271	1471935281340	t	84
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27684	1471935281387	1471935281458	 	32
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27687	1471935281536	1471935281607	h	72
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27688	1471935281638	1471935281693	a	65
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27689	1471935281896	1471935281992	v	86
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27715	1471935282119	1471935282210	e	69
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27717	1471935282241	1471935282360	 	32
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27719	1471935282673	1471935282795	p	80
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27721	1471935282810	1471935282898	e	69
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27724	1471935282914	1471935282982	o	79
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27744	1471935283062	1471935283150	p	80
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27746	1471935283213	1471935283316	l	76
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27748	1471935283363	1471935283420	e	69
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27750	1471935283498	1471935283587	 	32
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27752	1471935283712	1471935283788	w	87
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27768	1471935283822	1471935283905	o	79
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27769	1471935283983	1471935284044	r	82
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27771	1471935284106	1471935284175	k	75
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27773	1471935284269	1471935284326	i	73
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27775	1471935284389	1471935284459	n	78
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27777	1471935284507	1471935284561	g	71
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27780	1471935284576	1471935284660	 	32
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27782	1471935284755	1471935284844	o	79
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27785	1471935284938	1471935284997	n	78
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27788	1471935285278	1471935285365	 	32
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27806	1471935285537	1471935285632	i	73
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27807	1471935285710	1471935285817	n	78
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27808	1471935285910	1471935285985	f	70
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27809	1471935286019	1471935286103	o	79
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27810	1471935286431	1471935286506	/	191
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27868	1471935286882	1471935286975	BKSP	8
+70	569	Out of office but have people working on info.	Out of the office but have people working on info.	27870	1471935287084	1471935287164	.	190
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	27939	1471935292161	1471935292279	SHIFT	16
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	27943	1471935292239	1471935292326	K	75
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	27946	1471935292388	1471935292477	e	69
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	27950	1471935292524	1471935292564	l	76
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	27954	1471935292626	1471935292698	l	76
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	27957	1471935292761	1471935292814	y	89
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28015	1471935293283	1471935293349	,	188
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28017	1471935293505	1471935293570	 	32
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28019	1471935293960	1471935294124	SHIFT	16
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28021	1471935294054	1471935294140	I	73
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28023	1471935294639	1471935294726	'	222
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28024	1471935294851	1471935294913	m	77
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28048	1471935295007	1471935295078	 	32
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28050	1471935295218	1471935295298	g	71
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28054	1471935295628	1471935295767	o	79
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28055	1471935295891	1471935295984	n	78
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28056	1471935296124	1471935296202	n	78
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28073	1471935296312	1471935296386	a	65
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28075	1471935296464	1471935296553	 	32
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28077	1471935296616	1471935296706	b	66
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28079	1471935296799	1471935296857	e	69
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28080	1471935296919	1471935297022	 	32
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28088	1471935297086	1471935297158	e	69
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28089	1471935297221	1471935297293	a	65
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28090	1471935297371	1471935297459	r	82
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28091	1471935297537	1471935297643	l	76
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28092	1471935297674	1471935297731	y	89
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28099	1471935297826	1471935297931	 	32
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28100	1471935297916	1471935298013	t	84
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28101	1471935298044	1471935298132	h	72
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28103	1471935298195	1471935298281	i	73
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28105	1471935298374	1471935298472	s	83
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28119	1471935298504	1471935298600	 	32
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28120	1471935298616	1471935298684	w	87
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28121	1471935298778	1471935298852	e	69
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28122	1471935298984	1471935299009	e	69
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28123	1471935299141	1471935299377	k	75
+70	575	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	28156	1471935300119	1471935300178	.	190
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28286	1471935305799	1471935305945	SHIFT	16
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28287	1471935305945	1471935306049	H	72
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28288	1471935306127	1471935306216	e	69
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28289	1471935306231	1471935306349	 	32
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28290	1471935306474	1471935306568	w	87
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28293	1471935306740	1471935306835	r	82
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28313	1471935306899	1471935306971	o	79
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28319	1471935306987	1471935307040	t	84
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28324	1471935307118	1471935307175	e	69
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28327	1471935307222	1471935307321	 	32
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28331	1471935307415	1471935307477	n	78
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28336	1471935307540	1471935307626	u	85
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28337	1471935307735	1471935307846	m	77
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28338	1471935307831	1471935307911	e	69
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28339	1471935307989	1471935308047	r	82
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28340	1471935308078	1471935308177	o	79
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28355	1471935308287	1471935308365	u	85
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28357	1471935308459	1471935308516	s	83
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28359	1471935308563	1471935308664	 	32
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28360	1471935308835	1471935308901	b	66
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28362	1471935308979	1471935309037	o	79
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28391	1471935309100	1471935309187	o	79
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28397	1471935309265	1471935309314	j	74
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28400	1471935309698	1471935309786	k	75
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28403	1471935309833	1471935309892	s	83
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28406	1471935309923	1471935309993	 	32
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28440	1471935310072	1471935310143	o	79
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28443	1471935310221	1471935310293	n	78
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28445	1471935310386	1471935310478	 	32
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28449	1471935310869	1471935310978	h	72
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28452	1471935311041	1471935311132	u	85
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28472	1471935311259	1471935311364	m	77
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28475	1471935311411	1471935311485	a	65
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28478	1471935311532	1471935311617	n	78
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28481	1471935311695	1471935311802	 	32
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28484	1471935311958	1471935312038	d	68
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28487	1471935312118	1471935312204	e	69
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28490	1471935312284	1471935312364	v	86
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28494	1471935312379	1471935312459	e	69
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28499	1471935312554	1471935312640	l	76
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28504	1471935312702	1471935312778	o	79
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28519	1471935312843	1471935312912	p	80
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28521	1471935313005	1471935313111	m	77
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28523	1471935313095	1471935313179	e	69
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28525	1471935313273	1471935313330	n	78
+70	584	He wrote numerous books on human development.	He wrote numerous boojks on human development	28530	1471935313346	1471935313399	t	84
+70	590	Is this the only time available?	Is this the only time available?	28714	1471935320287	1471935320412	SHIFT	16
+70	590	Is this the only time available?	Is this the only time available?	28717	1471935320412	1471935320494	I	73
+70	590	Is this the only time available?	Is this the only time available?	28721	1471935320478	1471935320575	s	83
+70	590	Is this the only time available?	Is this the only time available?	28724	1471935320653	1471935320743	 	32
+70	590	Is this the only time available?	Is this the only time available?	28728	1471935320759	1471935320830	t	84
+70	590	Is this the only time available?	Is this the only time available?	28731	1471935320861	1471935320945	h	72
+70	590	Is this the only time available?	Is this the only time available?	28732	1471935321010	1471935321080	i	73
+70	590	Is this the only time available?	Is this the only time available?	28733	1471935321127	1471935321213	s	83
+70	590	Is this the only time available?	Is this the only time available?	28734	1471935321322	1471935321414	 	32
+70	590	Is this the only time available?	Is this the only time available?	28735	1471935321477	1471935321550	t	84
+70	590	Is this the only time available?	Is this the only time available?	28736	1471935321565	1471935321635	h	72
+70	590	Is this the only time available?	Is this the only time available?	28755	1471935321729	1471935321763	e	69
+70	590	Is this the only time available?	Is this the only time available?	28757	1471935321818	1471935321886	 	32
+70	590	Is this the only time available?	Is this the only time available?	28760	1471935321995	1471935322055	o	79
+70	590	Is this the only time available?	Is this the only time available?	28763	1471935322117	1471935322187	n	78
+70	590	Is this the only time available?	Is this the only time available?	28765	1471935322297	1471935322423	l	76
+70	590	Is this the only time available?	Is this the only time available?	28769	1471935322471	1471935322524	y	89
+70	590	Is this the only time available?	Is this the only time available?	28771	1471935322571	1471935322640	 	32
+70	590	Is this the only time available?	Is this the only time available?	28774	1471935322718	1471935322776	t	84
+70	590	Is this the only time available?	Is this the only time available?	28777	1471935322808	1471935322876	i	73
+70	590	Is this the only time available?	Is this the only time available?	28780	1471935322954	1471935323059	m	77
+70	590	Is this the only time available?	Is this the only time available?	28784	1471935323092	1471935323171	e	69
+70	590	Is this the only time available?	Is this the only time available?	28785	1471935323194	1471935323309	 	32
+70	590	Is this the only time available?	Is this the only time available?	28786	1471935323324	1471935323395	a	65
+70	590	Is this the only time available?	Is this the only time available?	28787	1471935323473	1471935323563	v	86
+70	590	Is this the only time available?	Is this the only time available?	28789	1471935323609	1471935323681	a	65
+70	590	Is this the only time available?	Is this the only time available?	28815	1471935323730	1471935323800	i	73
+70	590	Is this the only time available?	Is this the only time available?	28816	1471935323925	1471935324014	l	76
+70	590	Is this the only time available?	Is this the only time available?	28817	1471935324123	1471935324203	a	65
+70	590	Is this the only time available?	Is this the only time available?	28818	1471935324297	1471935324384	b	66
+70	590	Is this the only time available?	Is this the only time available?	28819	1471935324446	1471935324537	l	76
+70	590	Is this the only time available?	Is this the only time available?	28873	1471935324569	1471935324636	e	69
+70	590	Is this the only time available?	Is this the only time available?	28874	1471935324792	1471935325024	SHIFT	16
+70	590	Is this the only time available?	Is this the only time available?	28875	1471935324964	1471935325040	?	191
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29009	1471935331996	1471935332386	SHIFT	16
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29010	1471935332608	1471935332780	SHIFT	16
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29011	1471935332780	1471935332856	T	84
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29012	1471935332856	1471935332956	h	72
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29014	1471935333018	1471935333074	e	69
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29016	1471935333152	1471935333256	 	32
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29018	1471935333256	1471935333310	b	66
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29040	1471935333375	1471935333477	l	76
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29042	1471935333508	1471935333577	a	65
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29046	1471935333623	1471935333741	s	83
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29049	1471935333850	1471935333899	t	84
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29051	1471935333977	1471935334063	 	32
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29059	1471935334142	1471935334229	m	77
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29060	1471935334229	1471935334300	a	65
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29061	1471935334378	1471935334450	r	82
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29062	1471935334544	1471935334632	k	75
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29063	1471935334694	1471935334769	e	69
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29114	1471935335113	1471935335186	d	68
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29116	1471935335280	1471935335354	 	32
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29118	1471935335510	1471935335605	p	80
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29120	1471935335652	1471935335725	r	82
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29122	1471935336245	1471935336326	o	79
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29131	1471935336436	1471935336513	m	77
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29132	1471935336606	1471935336695	i	73
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29133	1471935336773	1471935336879	n	78
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29134	1471935336910	1471935336997	e	69
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29136	1471935337075	1471935337181	n	78
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29174	1471935337244	1471935337349	t	84
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29176	1471935337598	1471935337701	 	32
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29180	1471935337920	1471935338036	c	67
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29183	1471935338052	1471935338107	o	79
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29187	1471935338200	1471935338290	m	77
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29221	1471935338603	1471935338691	m	77
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29224	1471935338756	1471935338845	e	69
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29226	1471935338907	1471935338978	r	82
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29229	1471935339244	1471935339331	c	67
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29231	1471935339456	1471935339547	i	73
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29250	1471935339704	1471935339786	a	65
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29253	1471935339802	1471935339946	l	76
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29257	1471935340040	1471935340135	 	32
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29260	1471935340213	1471935340318	l	76
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29268	1471935340302	1471935340403	a	65
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29271	1471935340449	1471935340529	n	78
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29274	1471935340545	1471935340623	d	68
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29276	1471935340670	1471935340755	 	32
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29279	1471935340802	1471935340906	m	77
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29391	1471935340890	1471935340989	a	65
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29394	1471935341036	1471935341125	r	82
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29397	1471935341156	1471935341245	k	75
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29402	1471935341276	1471935341360	s	83
+70	597	The blasts rocked prominent commercial landmarks.	The blast marked prominent commercial landmarks	29407	1471935344105	1471935344179	BKSP	8
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29523	1471935349967	1471935350119	SHIFT	16
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29525	1471935350065	1471935350135	I	73
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29527	1471935350213	1471935350284	n	78
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29529	1471935350378	1471935350485	 	32
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29530	1471935350501	1471935350570	a	65
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29531	1471935350679	1471935350770	m	77
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29568	1471935351526	1471935351610	BKSP	8
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29570	1471935351766	1471935351861	 	32
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29573	1471935351954	1471935352014	m	77
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29576	1471935352061	1471935352131	e	69
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29579	1471935352209	1471935352282	e	69
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29582	1471935352407	1471935352483	t	84
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29598	1471935352547	1471935352616	i	73
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29599	1471935352679	1471935352767	n	78
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29600	1471935352767	1471935352837	g	71
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29601	1471935352884	1471935352955	 	32
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29602	1471935352986	1471935353069	w	87
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29608	1471935353132	1471935353205	i	73
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29609	1471935353268	1471935353322	t	84
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29610	1471935353354	1471935353424	h	72
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29611	1471935353518	1471935353606	 	32
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29612	1471935353622	1471935353676	y	89
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29641	1471935353709	1471935353792	o	79
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29644	1471935353901	1471935353960	u	85
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29646	1471935354163	1471935354260	 	32
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29648	1471935354796	1471935354880	BKSP	8
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29649	1471935354989	1471935355081	r	82
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29650	1471935355206	1471935355300	 	32
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29660	1471935355622	1471935355688	g	71
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29662	1471935355781	1471935355854	u	85
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29664	1471935355947	1471935356022	y	89
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29666	1471935356037	1471935356119	s	83
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29668	1471935356140	1471935356239	 	32
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29713	1471935356318	1471935356407	n	78
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29714	1471935356485	1471935356575	o	79
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29716	1471935356590	1471935356661	w	87
+70	610	In a meeting with your guys now.	In a meeting with your guys now.	29718	1471935357450	1471935357531	.	190
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29803	1471935361310	1471935361434	SHIFT	16
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29805	1471935361419	1471935361508	H	72
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29808	1471935361571	1471935361673	o	79
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29812	1471935361673	1471935361759	w	87
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29818	1471935361837	1471935361911	e	69
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29823	1471935361989	1471935362076	v	86
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29853	1471935362110	1471935362181	e	69
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29854	1471935362290	1471935362347	r	82
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29855	1471935362440	1471935362520	,	188
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29857	1471935362614	1471935362701	 	32
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29861	1471935363184	1471935363329	SHIFT	16
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29863	1471935363547	1471935363612	h	72
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29889	1471935363706	1471935363760	e	69
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29890	1471935363932	1471935364007	'	222
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29892	1471935364133	1471935364210	s	83
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29894	1471935364288	1471935364390	 	32
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29896	1471935364515	1471935364612	s	83
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29928	1471935364707	1471935364796	t	84
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29930	1471935364874	1471935364969	i	73
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29932	1471935365063	1471935365134	l	76
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29934	1471935365180	1471935365265	l	76
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29935	1471935365358	1471935365448	 	32
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	29998	1471935365464	1471935365534	e	69
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30000	1471935365830	1471935365910	x	88
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30002	1471935366019	1471935366103	c	67
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30004	1471935366213	1471935366289	e	69
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30006	1471935366648	1471935366771	BKSP	8
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30008	1471935366912	1471935366992	BKSP	8
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30011	1471935367101	1471935367224	p	80
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30039	1471935367209	1471935367279	e	69
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30041	1471935367357	1471935367444	c	67
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30042	1471935367600	1471935367681	t	84
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30043	1471935367759	1471935367816	e	69
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30044	1471935367878	1471935367981	d	68
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30046	1471935368028	1471935368134	 	32
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30070	1471935368182	1471935368268	t	84
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30072	1471935368268	1471935368351	o	79
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30076	1471935368461	1471935368583	 	32
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30079	1471935368708	1471935368788	s	83
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30082	1471935368834	1471935368890	t	84
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30111	1471935368986	1471935369141	a	65
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30112	1471935369172	1471935369257	r	82
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30113	1471935369841	1471935369912	t	84
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30114	1471935370037	1471935370082	 	32
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30115	1471935370191	1471935370297	i	73
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30140	1471935370361	1471935370447	n	78
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30145	1471935370572	1471935370683	 	32
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30151	1471935370823	1471935370903	t	84
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30154	1471935370934	1471935371003	h	72
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30156	1471935371112	1471935371171	e	69
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30218	1471935371266	1471935371369	 	32
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30219	1471935371806	1471935371892	4	52
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30220	1471935372126	1471935372194	9	57
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30221	1471935372600	1471935372694	e	69
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30222	1471935372772	1471935372847	r	82
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30249	1471935373005	1471935373067	s	83
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30251	1471935373145	1471935373251	 	32
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30253	1471935373423	1471935373549	n	78
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30257	1471935373596	1471935373686	e	69
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30262	1471935373920	1471935374054	x	88
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30325	1471935375035	1471935375129	t	84
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30328	1471935375223	1471935375296	 	32
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30330	1471935375577	1471935375681	BKSP	8
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30332	1471935375947	1471935376033	g	71
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30334	1471935376345	1471935376421	BKSP	8
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30336	1471935376545	1471935376653	 	32
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30344	1471935376637	1471935376707	g	71
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30345	1471935376754	1471935376841	a	65
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30346	1471935376857	1471935376939	m	77
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30347	1471935377048	1471935377111	e	69
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30348	1471935377158	1471935377228	 	32
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30349	1471935377306	1471935377425	o	79
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30380	1471935377456	1471935377513	n	78
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30383	1471935377606	1471935377694	 	32
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30386	1471935377866	1471935378032	SHIFT	16
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30389	1471935377991	1471935378049	O	79
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30391	1471935378127	1471935378215	c	67
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30394	1471935378371	1471935378420	t	84
+70	617	However, he's still expected to start in the 49ers next game on Oct.	However, he's still expected to start in the 49ers next game on Oct.	30440	1471935378655	1471935378720	.	190
+70	630	Nice weather for it.	Nice weather fori it.	30567	1471935384227	1471935384341	SHIFT	16
+70	630	Nice weather for it.	Nice weather fori it.	30569	1471935384289	1471935384356	N	78
+70	630	Nice weather for it.	Nice weather fori it.	30571	1471935384419	1471935384495	i	73
+70	630	Nice weather for it.	Nice weather fori it.	30573	1471935384465	1471935384540	c	67
+70	630	Nice weather for it.	Nice weather fori it.	30575	1471935384602	1471935384660	e	69
+70	630	Nice weather for it.	Nice weather fori it.	30577	1471935384675	1471935384759	 	32
+70	630	Nice weather for it.	Nice weather fori it.	30601	1471935384870	1471935384944	w	87
+70	630	Nice weather for it.	Nice weather fori it.	30604	1471935385022	1471935385094	e	69
+70	630	Nice weather for it.	Nice weather fori it.	30609	1471935385234	1471935385313	a	65
+70	630	Nice weather for it.	Nice weather fori it.	30616	1471935385423	1471935385519	t	84
+70	630	Nice weather for it.	Nice weather fori it.	30620	1471935385550	1471935385632	h	72
+70	630	Nice weather for it.	Nice weather fori it.	30634	1471935385711	1471935385781	e	69
+70	630	Nice weather for it.	Nice weather fori it.	30635	1471935385828	1471935385883	r	82
+70	630	Nice weather for it.	Nice weather fori it.	30636	1471935385945	1471935386016	 	32
+70	630	Nice weather for it.	Nice weather fori it.	30638	1471935386094	1471935386152	o	70
+70	630	Nice weather for it.	Nice weather fori it.	30666	1471935386561	1471935386622	r	82
+70	630	Nice weather for it.	Nice weather fori it.	30668	1471935386680	1471935386739	i	73
+70	630	Nice weather for it.	Nice weather fori it.	30672	1471935386817	1471935386905	 	32
+70	630	Nice weather for it.	Nice weather fori it.	30676	1471935387046	1471935387126	i	73
+70	630	Nice weather for it.	Nice weather fori it.	30680	1471935387172	1471935387259	t	84
+70	630	Nice weather for it.	Nice weather fori it.	30789	1471935388153	1471935388216	/	191
+70	630	Nice weather for it.	Nice weather fori it.	30792	1471935389399	1471935389472	BKSP	8
+70	630	Nice weather for it.	Nice weather fori it.	30795	1471935389628	1471935389644	.	190
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	30927	1471935394955	1471935395192	SHIFT	16
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	30925	1471935395095	1471935395177	T	84
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	30937	1471935395598	1471935396437	SHIFT	16
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	30929	1471935395745	1471935395846	X	88
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	30933	1471935395940	1471935396016	U	85
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	30941	1471935396707	1471935396771	,	188
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	30943	1471935396865	1471935396954	 	32
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	30974	1471935397283	1471935397340	i	73
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	30977	1471935397387	1471935397457	s	83
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	30980	1471935397535	1471935397610	 	32
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	30986	1471935397860	1471935397943	o	79
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	30991	1471935398006	1471935398062	f	70
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31083	1471935398155	1471935398229	f	70
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31086	1471935398908	1471935398983	,	188
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31089	1471935399295	1471935399387	 	32
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31092	1471935399465	1471935399856	SHIFT	16
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31098	1471935400047	1471935400126	e	69
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31102	1471935400172	1471935400290	v	86
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31145	1471935400322	1471935400378	e	69
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31147	1471935400487	1471935400529	r	82
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31150	1471935400826	1471935400881	u	85
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31153	1471935401133	1471935401230	BKSP	8
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31157	1471935401261	1471935401317	y	89
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31160	1471935401395	1471935401467	o	79
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31187	1471935401530	1471935401603	n	78
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31192	1471935401634	1471935401718	e	69
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31197	1471935401765	1471935401869	 	32
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31201	1471935401931	1471935401987	e	69
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31204	1471935402112	1471935402204	l	76
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31220	1471935402237	1471935402322	s	83
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31223	1471935402416	1471935402474	e	69
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31226	1471935402490	1471935402559	 	32
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31229	1471935402637	1471935402709	i	73
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31231	1471935403068	1471935403145	s	83
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31314	1471935403194	1471935403279	 	32
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31323	1471935403341	1471935403801	SHIFT	16
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31316	1471935403435	1471935403499	O	79
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31319	1471935403546	1471935403645	K	75
+70	636	TXU is off, everyone else OK.	TXU, is off, everyone else is OK.	31326	1471935405108	1471935405160	.	190
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31455	1471935408955	1471935409117	SHIFT	16
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31457	1471935409084	1471935409166	R	82
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31459	1471935409213	1471935409282	o	79
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31461	1471935409364	1471935409436	o	79
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31463	1471935409498	1471935409616	k	75
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31465	1471935409726	1471935409791	i	73
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31482	1471935409840	1471935409921	e	69
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31483	1471935409952	1471935410055	 	32
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31484	1471935410197	1471935410576	SHIFT	16
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31486	1471935410512	1471935410592	K	75
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31489	1471935410639	1471935410725	e	69
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31492	1471935410803	1471935410877	v	86
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31497	1471935411004	1471935411080	i	73
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31499	1471935411142	1471935411212	n	78
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31503	1471935411306	1471935411398	 	32
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31506	1471935411429	1471935411622	SHIFT	16
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31510	1471935411586	1471935411667	S	83
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31514	1471935411776	1471935411841	w	87
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31540	1471935412200	1471935412271	a	65
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31543	1471935412349	1471935412422	y	89
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31549	1471935412578	1471935412675	n	78
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31555	1471935412768	1471935412841	e	69
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31563	1471935413028	1471935413093	w	87
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31599	1471935413593	1471935413708	BKSP	8
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31601	1471935413911	1471935413998	 	32
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31603	1471935414091	1471935414150	w	87
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31604	1471935414166	1471935414265	i	73
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31605	1471935414359	1471935414439	l	76
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31606	1471935414501	1471935414569	l	76
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31636	1471935414664	1471935414752	 	32
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31639	1471935414846	1471935414936	m	77
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31641	1471935414998	1471935415072	o	79
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31643	1471935415165	1471935415254	v	86
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31645	1471935415426	1471935415508	e	69
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31670	1471935415557	1471935415626	 	32
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31673	1471935415938	1471935416026	i	73
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31677	1471935416088	1471935416208	n	78
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31681	1471935416224	1471935416335	t	84
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31685	1471935416335	1471935416413	o	79
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31706	1471935416492	1471935416612	 	32
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31708	1471935416612	1471935416697	t	84
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31710	1471935416712	1471935416782	h	72
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31712	1471935416907	1471935416953	e	69
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31714	1471935417015	1471935417147	 	32
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31734	1471935417212	1471935417292	s	83
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31736	1471935417401	1471935417471	t	84
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31739	1471935417533	1471935417636	a	65
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31743	1471935417667	1471935417754	r	82
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31747	1471935417894	1471935417951	t	84
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31762	1471935418010	1471935418075	i	73
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31763	1471935418138	1471935418229	n	78
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31764	1471935418276	1471935418327	g	71
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31765	1471935418358	1471935418442	 	32
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31767	1471935418505	1471935418577	l	76
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31797	1471935418688	1471935418777	i	73
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31799	1471935418842	1471935418962	n	78
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31800	1471935419071	1471935419134	e	69
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31801	1471935419477	1471935419565	u	85
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31802	1471935419674	1471935419754	p	80
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31911	1471935420320	1471935420375	/	191
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31912	1471935420656	1471935420671	BKSP	8
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31913	1471935420699	1471935420727	BKSP	8
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31915	1471935420820	1471935420861	BKSP	8
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31917	1471935421032	1471935421111	.	190
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31920	1471935421632	1471935421745	BKSP	8
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31922	1471935422251	1471935422319	u	85
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31923	1471935422366	1471935422437	p	80
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31925	1471935422796	1471935422841	,	188
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31964	1471935423409	1471935423492	BKSP	8
+70	648	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	31966	1471935423539	1471935423610	.	190
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32117	1471935429580	1471935429733	SHIFT	16
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32115	1471935429650	1471935429733	M	77
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32120	1471935429779	1471935429851	a	65
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32124	1471935429929	1471935430033	y	89
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32128	1471935430142	1471935430236	b	66
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32137	1471935430283	1471935430354	e	69
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32151	1471935430401	1471935430503	 	32
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32152	1471935430597	1471935430672	t	84
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32153	1471935430768	1471935430825	r	82
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32154	1471935430950	1471935431008	a	65
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32156	1471935431102	1471935431166	f	70
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32181	1471935431230	1471935431294	f	70
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32183	1471935431387	1471935431461	i	73
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32185	1471935431539	1471935431597	c	67
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32186	1471935431675	1471935431777	 	32
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32187	1471935431996	1471935432066	w	87
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32206	1471935432160	1471935432248	i	73
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32207	1471935432389	1471935432453	l	76
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32208	1471935432515	1471935432586	l	76
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32209	1471935432695	1471935432784	 	32
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32210	1471935432847	1471935432937	v	86
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32240	1471935433156	1471935433255	BKSP	8
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32244	1471935433318	1471935433376	b	66
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32248	1471935433454	1471935433527	e	69
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32252	1471935433636	1471935433693	 	32
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32256	1471935433911	1471935433995	l	76
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32259	1471935434104	1471935434210	i	73
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32271	1471935434352	1471935434464	g	71
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32277	1471935434542	1471935434638	h	72
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32282	1471935434934	1471935435001	t	84
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32287	1471935435079	1471935435137	 	32
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32291	1471935435246	1471935435335	o	79
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32317	1471935435398	1471935435478	n	78
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32319	1471935435572	1471935435670	 	32
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32321	1471935435732	1471935435895	SHIFT	16
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32324	1471935435880	1471935435973	T	84
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32327	1471935435989	1471935436088	h	72
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32330	1471935436213	1471935436293	u	85
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32339	1471935436372	1471935436444	r	82
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32341	1471935436772	1471935436861	s	83
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32345	1471935437001	1471935437071	d	68
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32348	1471935437118	1471935437184	a	65
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32352	1471935437262	1471935437348	y	89
+70	662	Maybe traffic will be light on Thursday.	Maybe traffic will be light on Thursday.	32392	1471935438056	1471935438121	.	190
+70	670	Did you differ from me?	Did you differ from me?	32545	1471935444132	1471935444251	SHIFT	16
+70	670	Did you differ from me?	Did you differ from me?	32547	1471935444210	1471935444309	D	68
+70	670	Did you differ from me?	Did you differ from me?	32549	1471935444371	1471935444460	i	73
+70	670	Did you differ from me?	Did you differ from me?	32551	1471935444492	1471935444563	d	68
+70	670	Did you differ from me?	Did you differ from me?	32552	1471935444595	1471935444680	 	32
+70	670	Did you differ from me?	Did you differ from me?	32554	1471935444773	1471935444832	y	89
+70	670	Did you differ from me?	Did you differ from me?	32577	1471935444848	1471935444932	o	79
+70	670	Did you differ from me?	Did you differ from me?	32582	1471935445041	1471935445084	u	85
+70	670	Did you differ from me?	Did you differ from me?	32588	1471935445162	1471935445250	 	32
+70	670	Did you differ from me?	Did you differ from me?	32590	1471935445359	1471935445434	d	68
+70	670	Did you differ from me?	Did you differ from me?	32592	1471935445497	1471935445569	i	73
+70	670	Did you differ from me?	Did you differ from me?	32607	1471935445649	1471935445706	f	70
+70	670	Did you differ from me?	Did you differ from me?	32609	1471935445768	1471935445839	f	70
+70	670	Did you differ from me?	Did you differ from me?	32612	1471935445901	1471935445971	e	69
+70	670	Did you differ from me?	Did you differ from me?	32614	1471935446049	1471935446107	r	82
+70	670	Did you differ from me?	Did you differ from me?	32616	1471935446231	1471935446327	 	32
+70	670	Did you differ from me?	Did you differ from me?	32635	1471935446484	1471935446574	f	70
+70	670	Did you differ from me?	Did you differ from me?	32637	1471935446636	1471935446695	r	82
+70	670	Did you differ from me?	Did you differ from me?	32638	1471935446695	1471935446792	o	79
+70	670	Did you differ from me?	Did you differ from me?	32639	1471935446855	1471935446929	m	77
+70	670	Did you differ from me?	Did you differ from me?	32640	1471935447022	1471935447111	 	32
+70	670	Did you differ from me?	Did you differ from me?	32678	1471935447252	1471935447314	m	77
+70	670	Did you differ from me?	Did you differ from me?	32679	1471935447408	1471935447497	e	69
+70	670	Did you differ from me?	Did you differ from me?	32681	1471935448098	1471935448285	SHIFT	16
+70	670	Did you differ from me?	Did you differ from me?	32680	1471935448176	1471935448254	?	191

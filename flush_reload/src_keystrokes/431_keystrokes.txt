@@ -1,0 +1,623 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+431	4154	We all know that it does exist.	We all knoe that it does exist.	198997	1471941130445	1471941130627	CAPS_LOCK	20
+431	4154	We all know that it does exist.	We all knoe that it does exist.	198999	1471941131302	1471941131425	W	87
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199001	1471941132077	1471941132209	CAPS_LOCK	20
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199002	1471941133023	1471941133183	e	69
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199004	1471941133424	1471941133555	 	32
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199006	1471941133827	1471941133999	a	65
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199008	1471941134211	1471941134336	l	76
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199056	1471941134419	1471941134537	l	76
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199059	1471941134662	1471941134786	 	32
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199060	1471941135865	1471941136002	k	75
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199063	1471941136439	1471941136565	n	78
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199064	1471941136769	1471941136899	o	79
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199057	1471941137044	1471941137226	e	69
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199062	1471941137335	1471941137497	 	32
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199066	1471941138237	1471941138395	t	84
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199068	1471941138442	1471941138612	h	72
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199070	1471941138984	1471941139143	a	65
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199111	1471941139518	1471941139692	t	84
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199112	1471941139766	1471941139892	 	32
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199113	1471941140268	1471941140393	i	73
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199114	1471941141081	1471941141230	t	84
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199115	1471941141487	1471941141656	 	32
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199232	1471941143128	1471941143323	d	68
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199233	1471941143421	1471941143571	o	79
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199234	1471941143906	1471941144068	e	69
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199235	1471941144368	1471941144522	s	83
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199236	1471941144616	1471941144721	 	32
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199338	1471941146615	1471941146751	e	69
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199340	1471941147962	1471941148148	x	88
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199342	1471941148707	1471941148845	i	73
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199344	1471941149641	1471941149823	s	83
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199346	1471941150039	1471941150190	t	84
+431	4154	We all know that it does exist.	We all knoe that it does exist.	199383	1471941151600	1471941151806	.	190
+431	4167	John this message concerns me.	John thes message conderns me	199576	1471941155699	1471941155835	CAPS_LOCK	20
+431	4167	John this message concerns me.	John thes message conderns me	199577	1471941155960	1471941156121	J	74
+431	4167	John this message concerns me.	John thes message conderns me	199578	1471941157262	1471941157439	CAPS_LOCK	20
+431	4167	John this message concerns me.	John thes message conderns me	199579	1471941157664	1471941157813	o	79
+431	4167	John this message concerns me.	John thes message conderns me	199580	1471941158831	1471941158966	h	72
+431	4167	John this message concerns me.	John thes message conderns me	199581	1471941159528	1471941159648	n	78
+431	4167	John this message concerns me.	John thes message conderns me	199582	1471941159847	1471941159961	 	32
+431	4167	John this message concerns me.	John thes message conderns me	199651	1471941160494	1471941160658	t	84
+431	4167	John this message concerns me.	John thes message conderns me	199653	1471941160736	1471941160923	h	72
+431	4167	John this message concerns me.	John thes message conderns me	199655	1471941160964	1471941161111	e	69
+431	4167	John this message concerns me.	John thes message conderns me	199657	1471941162770	1471941162985	s	83
+431	4167	John this message concerns me.	John thes message conderns me	199659	1471941163048	1471941163174	 	32
+431	4167	John this message concerns me.	John thes message conderns me	199667	1471941163874	1471941163973	m	77
+431	4167	John this message concerns me.	John thes message conderns me	199670	1471941164710	1471941164887	e	69
+431	4167	John this message concerns me.	John thes message conderns me	199673	1471941165093	1471941165222	s	83
+431	4167	John this message concerns me.	John thes message conderns me	199676	1471941165336	1471941165455	s	83
+431	4167	John this message concerns me.	John thes message conderns me	199679	1471941165597	1471941165735	a	65
+431	4167	John this message concerns me.	John thes message conderns me	199769	1471941166495	1471941166589	g	71
+431	4167	John this message concerns me.	John thes message conderns me	199770	1471941166835	1471941166979	e	69
+431	4167	John this message concerns me.	John thes message conderns me	199771	1471941167120	1471941167235	 	32
+431	4167	John this message concerns me.	John thes message conderns me	199773	1471941168865	1471941169013	c	67
+431	4167	John this message concerns me.	John thes message conderns me	199775	1471941169186	1471941169329	o	79
+431	4167	John this message concerns me.	John thes message conderns me	199933	1471941170519	1471941170677	n	78
+431	4167	John this message concerns me.	John thes message conderns me	199934	1471941171988	1471941172160	d	68
+431	4167	John this message concerns me.	John thes message conderns me	199935	1471941172946	1471941173138	e	69
+431	4167	John this message concerns me.	John thes message conderns me	199937	1471941173949	1471941174058	r	82
+431	4167	John this message concerns me.	John thes message conderns me	199939	1471941174545	1471941174720	n	78
+431	4167	John this message concerns me.	John thes message conderns me	200032	1471941174918	1471941175087	s	83
+431	4167	John this message concerns me.	John thes message conderns me	200034	1471941175122	1471941175239	 	32
+431	4167	John this message concerns me.	John thes message conderns me	200036	1471941176371	1471941176487	m	77
+431	4167	John this message concerns me.	John thes message conderns me	200038	1471941176897	1471941177064	e	69
+431	4201	Go for the dollars.	Go for the dollars	200940	1471941210452	1471941210603	G	71
+431	4201	Go for the dollars.	Go for the dollars	200944	1471941210875	1471941211020	CAPS_LOCK	20
+431	4201	Go for the dollars.	Go for the dollars	200946	1471941211302	1471941211460	o	79
+431	4201	Go for the dollars.	Go for the dollars	200949	1471941211641	1471941211764	 	32
+431	4201	Go for the dollars.	Go for the dollars	200954	1471941212463	1471941212608	f	70
+431	4201	Go for the dollars.	Go for the dollars	200958	1471941212703	1471941212850	o	79
+431	4201	Go for the dollars.	Go for the dollars	200955	1471941212960	1471941213109	r	82
+431	4201	Go for the dollars.	Go for the dollars	200959	1471941213205	1471941213328	 	32
+431	4201	Go for the dollars.	Go for the dollars	200962	1471941213813	1471941213961	t	84
+431	4201	Go for the dollars.	Go for the dollars	200964	1471941213992	1471941214171	h	72
+431	4201	Go for the dollars.	Go for the dollars	200969	1471941214187	1471941214358	e	69
+431	4201	Go for the dollars.	Go for the dollars	201028	1471941214406	1471941214527	 	32
+431	4201	Go for the dollars.	Go for the dollars	201031	1471941215044	1471941215174	d	68
+431	4201	Go for the dollars.	Go for the dollars	201034	1471941215330	1471941215468	o	79
+431	4201	Go for the dollars.	Go for the dollars	201040	1471941215788	1471941215876	l	76
+431	4201	Go for the dollars.	Go for the dollars	201043	1471941215988	1471941216059	l	76
+431	4201	Go for the dollars.	Go for the dollars	201149	1471941216311	1471941216487	a	65
+431	4201	Go for the dollars.	Go for the dollars	201151	1471941217603	1471941217719	r	82
+431	4201	Go for the dollars.	Go for the dollars	201154	1471941218016	1471941218244	s	83
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201618	1471941228629	1471941228826	CAPS_LOCK	20
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201619	1471941229628	1471941229765	W	87
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201621	1471941230270	1471941230395	CAPS_LOCK	20
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201624	1471941231620	1471941231750	j	74
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201627	1471941231843	1471941231991	a	65
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201632	1471941232614	1471941232745	t	84
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201637	1471941232826	1471941232951	 	32
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201852	1471941234157	1471941234327	[	219
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201853	1471941237366	1471941237522	e	69
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201854	1471941237772	1471941237949	r	82
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201855	1471941238572	1471941238718	o	79
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201856	1471941240744	1471941240967	d	68
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201925	1471941241174	1471941241333	 	32
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201926	1471941242287	1471941242458	d	68
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201927	1471941242521	1471941242664	p	80
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201928	1471941243356	1471941243528	e	69
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201929	1471941245658	1471941245825	e	69
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201975	1471941245955	1471941246107	 	32
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201977	1471941246822	1471941247034	t	84
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201978	1471941247081	1471941247241	h	72
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201980	1471941247235	1471941247414	e	69
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	201982	1471941247476	1471941247605	 	32
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202136	1471941248296	1471941248405	m	77
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202138	1471941248487	1471941248652	a	65
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202139	1471941249648	1471941249763	x	88
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202140	1471941250532	1471941250636	 	32
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202141	1471941251087	1471941251215	r	82
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202190	1471941251509	1471941251652	a	65
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202191	1471941251931	1471941252082	t	84
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202192	1471941252319	1471941252496	 	32
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202193	1471941253237	1471941253411	a	65
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202194	1471941253652	1471941253805	s	83
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202213	1471941254002	1471941254161	a	65
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202214	1471941255617	1471941255712	m	77
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202215	1471941256324	1471941256428	p	80
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202216	1471941256977	1471941257122	t	84
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202217	1471941257550	1471941257674	i	73
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202258	1471941257851	1471941257990	o	79
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202259	1471941258492	1471941258654	n	78
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202260	1471941258766	1471941258907	 	32
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202261	1471941259437	1471941259586	c	67
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202262	1471941259732	1471941259869	o	79
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202509	1471941262066	1471941262211	v	86
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202512	1471941262460	1471941262621	e	69
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202515	1471941262945	1471941263098	r	82
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202517	1471941264695	1471941264938	SHIFT	16
+431	4210	What period does the max rate assumption cover?	Wjat [erod dpee the max rat asamption cover?	202520	1471941264920	1471941265064	?	191
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203225	1471941285115	1471941285250	CAPS_LOCK	20
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203226	1471941287021	1471941287176	H	72
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203227	1471941287743	1471941287901	CAPS_LOCK	20
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203229	1471941288599	1471941288741	e	69
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203233	1471941289070	1471941289192	r	82
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203237	1471941289870	1471941290015	e	69
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203241	1471941291087	1471941291269	s	83
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203228	1471941291296	1471941291421	 	32
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203231	1471941292096	1471941292249	t	84
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203234	1471941292312	1471941292471	h	72
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203239	1471941292487	1471941292637	e	69
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203244	1471941292715	1471941292836	 	32
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203343	1471941294242	1471941294433	CAPS_LOCK	20
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203345	1471941294811	1471941294980	S	83
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203347	1471941295220	1471941295327	CAPS_LOCK	20
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203349	1471941295999	1471941296181	e	69
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203350	1471941296491	1471941296646	p	80
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203352	1471941297256	1471941297413	t	84
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203355	1471941297896	1471941298045	e	69
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203566	1471941299078	1471941299189	m	77
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203568	1471941300466	1471941300559	b	66
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203570	1471941301107	1471941301236	e	69
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203572	1471941301575	1471941301704	r	82
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203573	1471941302057	1471941302188	 	32
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203629	1471941302799	1471941302904	p	80
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203631	1471941303668	1471941303840	u	85
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203633	1471941304669	1471941304810	r	82
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203635	1471941305549	1471941305665	c	67
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203636	1471941306135	1471941306280	h	72
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203663	1471941306460	1471941306644	a	65
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203664	1471941306991	1471941307145	s	83
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203666	1471941307434	1471941307579	e	69
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203668	1471941307946	1471941308109	 	32
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203672	1471941308855	1471941308975	f	70
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203875	1471941309055	1471941309237	o	79
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203876	1471941309369	1471941309517	r	82
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203877	1471941309713	1471941309856	 	32
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203878	1471941310605	1471941310730	CAPS_LOCK	20
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203879	1471941310891	1471941311085	S	83
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203880	1471941311697	1471941311814	CAPS_LOCK	20
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	203881	1471941312509	1471941312668	e	69
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	204007	1471941313107	1471941313254	p	80
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	204011	1471941313769	1471941313899	t	84
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	204015	1471941314464	1471941314597	e	69
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	204020	1471941315199	1471941315302	m	77
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	204024	1471941316092	1471941316214	b	66
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	204008	1471941316406	1471941316564	e	69
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	204012	1471941316907	1471941317047	r	82
+431	4241	Here's the September purchase for September.	Heres the September purchase for September.	204017	1471941317649	1471941317791	.	190
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204414	1471941328444	1471941328605	CAPS_LOCK	20
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204415	1471941329829	1471941329967	H	72
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204416	1471941330351	1471941330492	E	69
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204418	1471941330602	1471941330741	 	32
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204421	1471941331685	1471941331797	CAPS_LOCK	20
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204425	1471941332785	1471941332954	a	65
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204429	1471941334119	1471941334235	g	71
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204462	1471941334467	1471941334600	r	82
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204463	1471941335371	1471941335517	e	69
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204464	1471941335605	1471941335753	e	69
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204465	1471941336110	1471941336184	s	83
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204466	1471941336466	1471941336584	 	32
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204511	1471941336774	1471941336942	t	84
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204513	1471941337034	1471941337180	h	72
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204516	1471941337621	1471941337781	a	65
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204519	1471941338019	1471941338161	t	84
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204521	1471941338255	1471941338365	 	32
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204613	1471941338913	1471941339079	t	84
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204616	1471941339766	1471941339924	h	72
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204622	1471941340033	1471941340180	e	69
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204626	1471941340796	1471941340938	y	89
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204628	1471941341156	1471941341276	 	32
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204820	1471941341617	1471941341805	a	65
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204822	1471941342488	1471941342639	r	82
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204823	1471941342830	1471941342975	e	69
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204825	1471941343122	1471941343267	 	32
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204828	1471941345575	1471941345781	n	78
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204880	1471941346250	1471941346397	o	79
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204882	1471941346606	1471941346765	t	84
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204886	1471941346827	1471941346967	 	32
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204891	1471941347606	1471941347844	s	83
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	204894	1471941348327	1471941348498	h	72
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205067	1471941348399	1471941348513	t	84
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205068	1471941349395	1471941349544	o	79
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205069	1471941350564	1471941350728	w	87
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205070	1471941351156	1471941351289	i	73
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205071	1471941351699	1471941351854	n	78
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205073	1471941352010	1471941352128	g	71
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205132	1471941352173	1471941352306	 	32
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205134	1471941352694	1471941352854	t	84
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205138	1471941352900	1471941353084	h	72
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205141	1471941353055	1471941353202	e	69
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205144	1471941353311	1471941353424	 	32
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205133	1471941354184	1471941354290	c	67
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205136	1471941354468	1471941354587	o	79
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205139	1471941355401	1471941355520	r	82
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205142	1471941355598	1471941355751	r	82
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205145	1471941356047	1471941356182	e	69
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205399	1471941357009	1471941357211	c	67
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205402	1471941357778	1471941357936	t	84
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205404	1471941358085	1471941358214	 	32
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205407	1471941359727	1471941359860	e	69
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205410	1471941361630	1471941361740	q	81
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205461	1471941362147	1471941362291	u	85
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205463	1471941362630	1471941362894	a	65
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205467	1471941363125	1471941363289	t	84
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205471	1471941364173	1471941364304	i	73
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205475	1471941364686	1471941364819	o	79
+431	4272	He agrees that they are not showing the correct equation.	HE agrees that they are not shtowing the correct equation	205462	1471941365701	1471941365771	n	78
+431	4304	I vote for the latter.	Ivote for the letter.	205851	1471941371861	1471941372042	CAPS_LOCK	20
+431	4304	I vote for the latter.	Ivote for the letter.	205854	1471941372476	1471941372624	I	73
+431	4304	I vote for the latter.	Ivote for the letter.	205856	1471941372773	1471941372911	CAPS_LOCK	20
+431	4304	I vote for the latter.	Ivote for the letter.	205858	1471941373854	1471941374020	v	86
+431	4304	I vote for the latter.	Ivote for the letter.	205861	1471941374176	1471941374305	o	79
+431	4304	I vote for the latter.	Ivote for the letter.	205864	1471941374521	1471941374622	t	84
+431	4304	I vote for the latter.	Ivote for the letter.	205868	1471941375059	1471941375155	e	69
+431	4304	I vote for the latter.	Ivote for the letter.	205979	1471941375370	1471941375504	 	32
+431	4304	I vote for the latter.	Ivote for the letter.	205982	1471941375762	1471941375904	f	70
+431	4304	I vote for the latter.	Ivote for the letter.	205985	1471941376029	1471941376158	o	79
+431	4304	I vote for the latter.	Ivote for the letter.	205987	1471941376588	1471941376720	r	82
+431	4304	I vote for the latter.	Ivote for the letter.	205993	1471941376782	1471941376916	 	32
+431	4304	I vote for the latter.	Ivote for the letter.	205989	1471941377297	1471941377433	t	84
+431	4304	I vote for the latter.	Ivote for the letter.	205997	1471941377480	1471941377665	h	72
+431	4304	I vote for the latter.	Ivote for the letter.	206002	1471941377633	1471941377781	e	69
+431	4304	I vote for the latter.	Ivote for the letter.	206007	1471941377897	1471941377985	 	32
+431	4304	I vote for the latter.	Ivote for the letter.	206011	1471941378773	1471941378853	l	76
+431	4304	I vote for the latter.	Ivote for the letter.	206123	1471941379133	1471941379278	e	69
+431	4304	I vote for the latter.	Ivote for the letter.	206128	1471941380618	1471941380749	t	84
+431	4304	I vote for the latter.	Ivote for the letter.	206131	1471941381073	1471941381196	t	84
+431	4304	I vote for the latter.	Ivote for the letter.	206134	1471941381664	1471941381825	e	69
+431	4304	I vote for the latter.	Ivote for the letter.	206137	1471941382890	1471941383041	r	82
+431	4304	I vote for the latter.	Ivote for the letter.	206177	1471941383478	1471941383638	.	190
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	208888	1471941419012	1471941419206	CAPS_LOCK	20
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	208892	1471941428986	1471941429192	CAPS_LOCK	20
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	208897	1471941430030	1471941430197	N	78
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	208903	1471941430886	1471941431081	CAPS_LOCK	20
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	208907	1471941432046	1471941432248	w	87
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	208912	1471941433034	1471941433132	BKSP	8
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	208914	1471941435046	1471941435246	e	69
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	208919	1471941436319	1471941436538	w	87
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	208925	1471941436600	1471941436710	 	32
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209086	1471941437743	1471941437853	y	89
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209091	1471941438796	1471941438920	o	79
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209097	1471941439308	1471941439437	r	82
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209103	1471941440092	1471941440217	k	75
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209112	1471941440503	1471941440689	s	83
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209354	1471941440678	1471941440803	 	32
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209357	1471941441365	1471941441577	s	83
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209362	1471941441777	1471941441897	u	85
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209367	1471941442544	1471941442697	p	80
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209370	1471941442969	1471941443095	r	82
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209374	1471941443431	1471941443566	e	69
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209373	1471941444077	1471941444207	m	77
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209375	1471941444291	1471941444447	e	69
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209378	1471941444528	1471941444647	 	32
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209381	1471941445380	1471941445525	c	67
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209384	1471941445634	1471941445789	o	79
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209717	1471941446557	1471941446660	u	85
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209720	1471941447806	1471941447988	t	84
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209724	1471941449136	1471941449270	 	32
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209730	1471941449835	1471941449950	u	85
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209732	1471941450453	1471941450581	p	80
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209950	1471941451358	1471941451524	h	72
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209954	1471941451939	1471941452095	e	69
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209956	1471941452695	1471941452830	k	75
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209961	1471941453825	1471941454023	d	68
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209964	1471941454091	1471941454202	 	32
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209949	1471941454547	1471941454725	a	65
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209955	1471941454976	1471941455127	 	32
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209962	1471941455413	1471941455513	l	76
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209969	1471941455719	1471941455828	o	79
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	209975	1471941456399	1471941456571	w	87
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	210331	1471941457805	1471941458003	e	69
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	210334	1471941458550	1471941458686	r	82
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	210340	1471941458926	1471941459084	 	32
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	210351	1471941459949	1471941460119	c	67
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	210356	1471941460240	1471941460412	o	79
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	210501	1471941460870	1471941460971	u	85
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	210505	1471941461442	1471941461600	r	82
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	210507	1471941461859	1471941462022	t	84
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	210509	1471941462134	1471941462267	 	32
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	210511	1471941462799	1471941462913	d	68
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	210625	1471941463039	1471941463250	e	69
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	210627	1471941464747	1471941464928	c	67
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	210629	1471941465115	1471941465243	i	73
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	210632	1471941465600	1471941465743	o	79
+431	4350	New York's Supreme Court upheld a lower court decision.	New yorks supreme cout uphekd a lower court decion	210635	1471941467067	1471941467193	n	78
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211310	1471941476091	1471941476257	CAPS_LOCK	20
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211315	1471941476814	1471941476927	M	77
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211323	1471941477140	1471941477292	A	65
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211328	1471941478359	1471941478534	CAPS_LOCK	20
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211331	1471941479876	1471941480015	r	82
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211335	1471941480393	1471941480555	k	75
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211338	1471941481871	1471941482048	e	69
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211431	1471941482452	1471941482599	t	84
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211432	1471941482834	1471941482968	 	32
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211433	1471941483303	1471941483486	a	65
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211434	1471941483802	1471941483932	n	78
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211435	1471941484088	1471941484261	a	65
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211798	1471941485248	1471941485412	k	75
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211800	1471941486946	1471941487013	u	85
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211804	1471941487786	1471941487910	 	32
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211807	1471941488351	1471941488506	a	65
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211809	1471941489869	1471941490006	 	32
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211931	1471941490507	1471941490724	s	83
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211932	1471941490927	1471941491071	a	65
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211933	1471941491344	1471941491543	i	73
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211935	1471941492083	1471941492281	d	68
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211937	1471941492360	1471941492437	 	32
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211942	1471941492722	1471941492937	t	84
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211943	1471941492895	1471941493123	h	72
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211944	1471941493052	1471941493248	e	69
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211945	1471941493280	1471941493433	 	32
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	211946	1471941494402	1471941494596	t	84
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	212039	1471941494645	1471941494840	h	72
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	212040	1471941494796	1471941495006	e	69
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	212041	1471941495057	1471941495195	 	32
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	212042	1471941495888	1471941496089	r	82
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	212043	1471941496837	1471941497055	a	65
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	212160	1471941497434	1471941497618	t	84
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	212164	1471941497846	1471941498009	i	73
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	212174	1471941498181	1471941498337	o	79
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	212183	1471941498764	1471941498877	 	32
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	212186	1471941499458	1471941499592	w	87
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	212305	1471941499735	1471941499842	a	65
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	212307	1471941500045	1471941500269	s	83
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	212312	1471941500646	1471941500758	 	32
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	212316	1471941501744	1471941501887	r	82
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	212322	1471941502174	1471941502269	i	73
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	212493	1471941502837	1471941503032	s	83
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	212495	1471941503160	1471941503287	i	73
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	212497	1471941504077	1471941504269	n	78
+431	4409	Market analysts said that the ratio was rising.	MArket anaku a said the the ratio was rising	212501	1471941504384	1471941504549	g	71
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213317	1471941513456	1471941513660	CAPS_LOCK	20
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213319	1471941514255	1471941514432	P	80
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213321	1471941514936	1471941515108	CAPS_LOCK	20
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213323	1471941516531	1471941516710	o	79
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213327	1471941517190	1471941517334	l	76
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213328	1471941517746	1471941517816	i	73
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213329	1471941519572	1471941519710	c	67
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213445	1471941519989	1471941520140	e	69
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213448	1471941520285	1471941520426	 	32
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213454	1471941520926	1471941521108	a	65
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213459	1471941521401	1471941521555	n	78
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213465	1471941521649	1471941521821	d	68
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213453	1471941521863	1471941521989	 	32
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213456	1471941522327	1471941522508	t	84
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213462	1471941522524	1471941522765	h	72
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213469	1471941522734	1471941522910	e	69
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213508	1471941522903	1471941523052	 	32
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213514	1471941523675	1471941523852	a	65
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213519	1471941524060	1471941524226	l	76
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213526	1471941524302	1471941524430	l	76
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213534	1471941525064	1471941525214	e	69
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213539	1471941525709	1471941525867	g	71
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213671	1471941526132	1471941526297	e	69
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213673	1471941526691	1471941526812	d	68
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213675	1471941526916	1471941527049	 	32
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213677	1471941527890	1471941528014	b	66
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213679	1471941528073	1471941528246	a	65
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213788	1471941528997	1471941529144	n	78
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213791	1471941529287	1471941529395	k	75
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213799	1471941529585	1471941529711	 	32
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213802	1471941530178	1471941530322	r	82
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	213806	1471941530465	1471941530608	o	79
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	214134	1471941532160	1471941532242	b	66
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	214137	1471941532632	1471941532709	b	66
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	214141	1471941533193	1471941533304	e	69
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	214144	1471941533629	1471941533804	r	82
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	214147	1471941533994	1471941534196	s	83
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	214329	1471941534335	1471941534470	 	32
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	214332	1471941535048	1471941535172	e	69
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	214337	1471941536407	1471941536529	x	88
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	214343	1471941537914	1471941538062	c	67
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	214347	1471941538642	1471941538778	h	72
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	214631	1471941538994	1471941539158	a	65
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	214634	1471941542147	1471941542306	b	66
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	214635	1471941543633	1471941543770	g	71
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	214637	1471941543860	1471941544070	e	69
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	214640	1471941545302	1471941545483	d	68
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	214743	1471941545534	1471941545667	 	32
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	214746	1471941546587	1471941546729	f	70
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	214748	1471941546973	1471941547131	i	73
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	214750	1471941547419	1471941547581	r	82
+431	4448	Police and the alleged bank robbers exchanged fire.	Police and the alleged bank robbers exchabged fire	214752	1471941547744	1471941547897	e	69
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215488	1471941556275	1471941556437	CAPS_LOCK	20
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215491	1471941556860	1471941556984	W	87
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215494	1471941557210	1471941557378	CAPS_LOCK	20
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215497	1471941558046	1471941558225	e	69
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215500	1471941558728	1471941558831	 	32
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215502	1471941559594	1471941559727	c	67
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215506	1471941560619	1471941560762	l	76
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215664	1471941561385	1471941561569	e	69
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215667	1471941561980	1471941562025	a	65
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215671	1471941563009	1471941563156	n	78
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215677	1471941563294	1471941563420	e	69
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215682	1471941564331	1471941564482	d	68
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215713	1471941564590	1471941564690	 	32
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215717	1471941565320	1471941565469	h	72
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215721	1471941565660	1471941565803	i	73
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215727	1471941566352	1471941566442	m	77
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215732	1471941566723	1471941566852	 	32
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215979	1471941568076	1471941568184	u	85
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215981	1471941568508	1471941568615	p	80
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215985	1471941568775	1471941568944	 	32
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215988	1471941569260	1471941569397	a	65
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	215989	1471941569541	1471941569757	s	83
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	216078	1471941569928	1471941570045	 	32
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	216079	1471941570494	1471941570643	e	69
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	216081	1471941571817	1471941571880	l	76
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	216083	1471941572274	1471941572393	l	76
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	216084	1471941572521	1471941572658	 	32
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	216093	1471941572858	1471941573008	a	65
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	216097	1471941573211	1471941573413	s	83
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	216101	1471941573507	1471941573621	 	32
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	216105	1471941574220	1471941574367	e	69
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	216108	1471941575356	1471941575529	 	32
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	216418	1471941576205	1471941576333	c	67
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	216421	1471941576505	1471941576652	o	79
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	216429	1471941578451	1471941578536	u	85
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	216434	1471941579132	1471941579279	l	76
+431	4496	We cleaned him up as well as we could.	We cleaned him up as ell as e could	216442	1471941580267	1471941580441	d	68
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	217684	1471941595718	1471941595912	CAPS_LOCK	20
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	217687	1471941596759	1471941596922	CAPS_LOCK	20
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	217690	1471941597945	1471941598069	h	72
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	217692	1471941598147	1471941598330	e	69
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	217694	1471941598361	1471941598481	 	32
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	217697	1471941599262	1471941599429	d	68
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	217700	1471941601321	1471941601443	BKSP	8
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	217703	1471941602759	1471941602884	CAPS_LOCK	20
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	217705	1471941604233	1471941604452	F	70
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	217810	1471941606081	1471941606275	CAPS_LOCK	20
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	217813	1471941606781	1471941606919	e	69
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	217816	1471941607241	1471941607421	d	68
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	217818	1471941607515	1471941607684	 	32
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	217820	1471941608524	1471941608635	w	87
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	217821	1471941608898	1471941609049	i	73
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	217847	1471941609286	1471941609431	l	76
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	217851	1471941609509	1471941609706	l	76
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	217853	1471941609862	1471941609986	 	32
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	217856	1471941610678	1471941610828	c	67
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	217861	1471941610906	1471941611065	o	79
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218191	1471941613270	1471941613426	n	78
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218192	1471941614033	1471941614187	t	84
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218194	1471941615293	1471941615425	i	73
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218197	1471941616189	1471941616339	n	78
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218200	1471941616652	1471941616755	u	85
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218294	1471941617095	1471941617266	e	69
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218295	1471941617366	1471941617504	 	32
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218296	1471941617773	1471941617903	t	84
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218298	1471941618075	1471941618198	o	79
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218302	1471941618298	1471941618451	 	32
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218299	1471941619133	1471941619299	h	72
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218301	1471941619609	1471941619750	a	65
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218304	1471941620516	1471941620650	v	86
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218307	1471941620857	1471941621059	e	69
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218310	1471941621153	1471941621312	 	32
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218555	1471941622175	1471941622313	o	79
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218559	1471941624291	1471941624394	v	86
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218563	1471941624565	1471941624720	e	69
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218566	1471941625511	1471941625645	r	82
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218569	1471941626079	1471941626220	s	83
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218706	1471941626560	1471941626752	i	73
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218710	1471941628064	1471941628216	g	71
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218714	1471941628621	1471941628763	h	72
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218718	1471941629063	1471941629188	t	84
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218722	1471941629350	1471941629453	 	32
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218731	1471941629866	1471941629984	o	79
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218734	1471941630658	1471941630836	v	86
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218736	1471941631108	1471941631234	e	69
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218738	1471941631542	1471941631668	r	82
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	218740	1471941631957	1471941632127	 	32
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	219134	1471941634399	1471941634726	3	51
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	219136	1471941634840	1471941634944	8	56
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	219138	1471941637901	1471941638035	 	32
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	219140	1471941638492	1471941638648	CAPS_LOCK	20
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	219143	1471941639104	1471941639233	U	85
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	219145	1471941640081	1471941640262	S	83
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	219324	1471941640412	1471941640551	 	32
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	219325	1471941640726	1471941640854	CAPS_LOCK	20
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	219326	1471941642371	1471941642465	b	66
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	219327	1471941642927	1471941643200	s	83
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	219328	1471941645232	1471941645376	a	65
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	219329	1471941645828	1471941645975	n	78
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	219353	1471941646112	1471941646276	k	75
+431	4535	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US bsanks	219354	1471941646775	1471941647004	s	83
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	219944	1471941653059	1471941653247	CAPS_LOCK	20
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	219945	1471941659136	1471941659329	CAPS_LOCK	20
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	219949	1471941659569	1471941659732	i	73
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	219953	1471941660403	1471941660551	 	32
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	219956	1471941661418	1471941661649	d	68
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	219961	1471941661824	1471941661903	o	79
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	219964	1471941662512	1471941662605	u	85
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220001	1471941663896	1471941663982	b	66
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220002	1471941664413	1471941664577	t	84
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220005	1471941664643	1471941664776	 	32
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220007	1471941665141	1471941665309	t	84
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220009	1471941665309	1471941665488	h	72
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220269	1471941667198	1471941667372	a	65
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220271	1471941667637	1471941667806	t	84
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220272	1471941667911	1471941668008	 	32
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220273	1471941668293	1471941668423	i	73
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220274	1471941668746	1471941668902	t	84
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220339	1471941669000	1471941669122	 	32
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220342	1471941669391	1471941669506	i	73
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220344	1471941669827	1471941670018	s	83
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220347	1471941670065	1471941670203	 	32
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220348	1471941670689	1471941670865	f	70
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220428	1471941671022	1471941671153	o	79
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220432	1471941671313	1471941671496	r	82
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220435	1471941671858	1471941671999	e	69
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220438	1471941672794	1471941672961	c	67
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220441	1471941673379	1471941673527	a	65
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220520	1471941673788	1471941673990	s	83
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220521	1471941674339	1471941674492	t	84
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220523	1471941674933	1471941675078	e	69
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220526	1471941676204	1471941676390	d	68
+431	4589	I doubt that it is forecasted.	i doubt that it is forecasted.	220529	1471941677686	1471941677778	.	190
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	229976	1471941900618	1471941900770	CAPS_LOCK	20
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	229978	1471941903696	1471941903832	I	73
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	229980	1471941904526	1471941904646	 	32
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	229982	1471941905107	1471941905304	CAPS_LOCK	20
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	229983	1471941906330	1471941906491	w	87
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	229984	1471941906601	1471941906767	o	79
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	229985	1471941907281	1471941907391	u	85
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230099	1471941908263	1471941908361	l	76
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230100	1471941908940	1471941909149	d	68
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230102	1471941909196	1471941909340	 	32
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230103	1471941910359	1471941910472	l	76
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230105	1471941910679	1471941910804	o	79
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230106	1471941911291	1471941911518	v	86
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230107	1471941911850	1471941911985	e	69
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230108	1471941912230	1471941912368	 	32
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230109	1471941912598	1471941912736	t	84
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230110	1471941912877	1471941912994	o	79
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230203	1471941913135	1471941913251	 	32
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230206	1471941913614	1471941913734	t	84
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230208	1471941914081	1471941914232	a	65
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230210	1471941914956	1471941915126	k	75
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230212	1471941915283	1471941915431	e	69
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230483	1471941915550	1471941915684	 	32
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230485	1471941916199	1471941916330	CAPS_LOCK	20
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230487	1471941916658	1471941916873	D	68
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230489	1471941917117	1471941917248	CAPS_LOCK	20
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230490	1471941918128	1471941918307	a	65
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230491	1471941918838	1471941918988	w	87
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230492	1471941919400	1471941919523	n	78
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230577	1471941919666	1471941919800	 	32
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230580	1471941920199	1471941920383	a	65
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230583	1471941920712	1471941920852	n	78
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230588	1471941921499	1471941921668	d	68
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230592	1471941921781	1471941921889	 	32
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230691	1471941922826	1471941922955	CAPS_LOCK	20
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230696	1471941923147	1471941923317	S	83
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230701	1471941923787	1471941923922	CAPS_LOCK	20
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230705	1471941925106	1471941925279	a	65
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230708	1471941925685	1471941925861	r	82
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230711	1471941926176	1471941926314	a	65
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230714	1471941926566	1471941926700	 	32
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230942	1471941928075	1471941928211	r	82
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230944	1471941928525	1471941928661	i	73
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230947	1471941929284	1471941929439	d	68
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230949	1471941929704	1471941929840	i	73
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230952	1471941930420	1471941930572	n	78
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230989	1471941930679	1471941930809	g	71
+431	4790	I would love to take Dawn and Sara riding.	I would love to take Dawn and Sara riding.	230991	1471941931354	1471941931537	.	190
+431	4828	November 14 works for me.	Novemher 14 works for me.	231607	1471941943289	1471941943484	CAPS_LOCK	20
+431	4828	November 14 works for me.	Novemher 14 works for me.	231609	1471941944445	1471941944600	N	78
+431	4828	November 14 works for me.	Novemher 14 works for me.	231612	1471941945117	1471941945279	CAPS_LOCK	20
+431	4828	November 14 works for me.	Novemher 14 works for me.	231614	1471941945669	1471941945783	o	79
+431	4828	November 14 works for me.	Novemher 14 works for me.	231616	1471941946628	1471941946779	v	86
+431	4828	November 14 works for me.	Novemher 14 works for me.	231619	1471941946958	1471941947113	e	69
+431	4828	November 14 works for me.	Novemher 14 works for me.	231622	1471941947660	1471941947733	m	77
+431	4828	November 14 works for me.	Novemher 14 works for me.	231733	1471941948879	1471941949026	h	72
+431	4828	November 14 works for me.	Novemher 14 works for me.	231735	1471941951217	1471941951326	e	69
+431	4828	November 14 works for me.	Novemher 14 works for me.	231737	1471941951724	1471941951851	r	82
+431	4828	November 14 works for me.	Novemher 14 works for me.	231739	1471941952052	1471941952187	 	32
+431	4828	November 14 works for me.	Novemher 14 works for me.	231740	1471941953663	1471941953868	1	49
+431	4828	November 14 works for me.	Novemher 14 works for me.	232093	1471941954657	1471941954788	4	52
+431	4828	November 14 works for me.	Novemher 14 works for me.	232096	1471941955049	1471941955168	 	32
+431	4828	November 14 works for me.	Novemher 14 works for me.	232099	1471941958019	1471941958225	w	87
+431	4828	November 14 works for me.	Novemher 14 works for me.	232102	1471941958434	1471941958611	o	79
+431	4828	November 14 works for me.	Novemher 14 works for me.	232105	1471941959177	1471941959344	r	82
+431	4828	November 14 works for me.	Novemher 14 works for me.	232155	1471941959477	1471941959656	k	75
+431	4828	November 14 works for me.	Novemher 14 works for me.	232157	1471941959923	1471941960095	s	83
+431	4828	November 14 works for me.	Novemher 14 works for me.	232160	1471941960144	1471941960264	 	32
+431	4828	November 14 works for me.	Novemher 14 works for me.	232162	1471941960631	1471941960806	f	70
+431	4828	November 14 works for me.	Novemher 14 works for me.	232163	1471941960938	1471941961075	o	79
+431	4828	November 14 works for me.	Novemher 14 works for me.	232200	1471941961387	1471941961571	r	82
+431	4828	November 14 works for me.	Novemher 14 works for me.	232204	1471941961774	1471941961891	 	32
+431	4828	November 14 works for me.	Novemher 14 works for me.	232208	1471941962360	1471941962472	m	77
+431	4828	November 14 works for me.	Novemher 14 works for me.	232212	1471941962745	1471941962887	e	69
+431	4828	November 14 works for me.	Novemher 14 works for me.	232215	1471941963441	1471941963603	.	190

@@ -1,0 +1,769 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	426910	1471946877239	1471946877609	SHIFT	16
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	426912	1471946877462	1471946877616		73
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	426915	1471946877672	1471946877832		32
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	426921	1471946878144	1471946878287		72
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	426925	1471946878334	1471946878533		65
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	426975	1471946878507	1471946878670		86
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	426977	1471946878778	1471946878949		69
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	426981	1471946879105	1471946879278		32
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	426983	1471946879507	1471946879834		65
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	426986	1471946880166	1471946880281		78
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	426988	1471946880379	1471946880529		32
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427074	1471946881199	1471946882160	SHIFT	16
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427073	1471946881834	1471946882003		65
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427075	1471946882033	1471946882200		77
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427076	1471946882326	1471946882489		32
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427077	1471946883038	1471946883183		68
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427078	1471946883223	1471946883368		79
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427144	1471946883476	1471946883621		67
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427146	1471946883823	1471946884008		84
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427148	1471946884194	1471946884308		79
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427151	1471946884494	1471946884657		82
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427154	1471946885201	1471946885405		222
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427190	1471946885458	1471946885634		83
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427191	1471946885656	1471946885832		32
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427192	1471946885942	1471946886165		65
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427193	1471946886555	1471946886662		80
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427194	1471946886739	1471946886932		80
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427225	1471946886907	1471946887062		79
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427228	1471946887165	1471946887292		73
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427231	1471946887484	1471946887626		78
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427235	1471946887721	1471946887874		84
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427239	1471946888216	1471946888331		77
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427244	1471946888383	1471946888571		69
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427276	1471946888588	1471946888733		78
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427279	1471946888836	1471946889014		84
+886	8908	I have an AM doctor's appointment.	I have an AM doctor's appointment.	427281	1471946889685	1471946889766		190
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427385	1471946892696	1471946892819		87
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427386	1471946892932	1471946893082		69
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427387	1471946893262	1471946893438		32
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427388	1471946894056	1471946894183		72
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427389	1471946894202	1471946894402		65
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427474	1471946894424	1471946894572		86
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427476	1471946894636	1471946894805		69
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427478	1471946895687	1471946895847		78
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427479	1471946896782	1471946896915		222
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427481	1471946897403	1471946897548		84
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427533	1471946897706	1471946897887		32
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427534	1471946898179	1471946898356		83
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427535	1471946898431	1471946898558		79
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427536	1471946898668	1471946898783		76
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427537	1471946898984	1471946899147		68
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427578	1471946899373	1471946899559		32
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427582	1471946899954	1471946900120		84
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427586	1471946900160	1471946900302		72
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427589	1471946900397	1471946900573		69
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427590	1471946900703	1471946900869		32
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427657	1471946901105	1471946902046	SHIFT	16
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427655	1471946901390	1471946901470		85
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427656	1471946901826	1471946902010		83
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427658	1471946902101	1471946902274		32
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427659	1471946902846	1471946902963		66
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427661	1471946903151	1471946903248		85
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427694	1471946903442	1471946903593		83
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427695	1471946903652	1471946903764		73
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427697	1471946903895	1471946904017		78
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427699	1471946904091	1471946904252		69
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427701	1471946904438	1471946904563		83
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427714	1471946904653	1471946904779		83
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427716	1471946904904	1471946905064		32
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427719	1471946905046	1471946905259		65
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427721	1471946905455	1471946905624		83
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427723	1471946905658	1471946905834		32
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427781	1471946906532	1471946906657		89
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427782	1471946906941	1471946907139		69
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427784	1471946907108	1471946907320		84
+886	8919	We haven't sold the US business as yet.	we haven't sold the US business as yet.	427787	1471946908109	1471946908188		190
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	427907	1471946910588	1471946910897	SHIFT	16
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	427904	1471946910797	1471946910890		66
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	427910	1471946911063	1471946911152		85
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	427914	1471946911393	1471946911559		84
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	427916	1471946911671	1471946911829		32
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	427917	1471946912252	1471946912334		84
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	427957	1471946912469	1471946912558		72
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	427961	1471946912787	1471946912978		69
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	427965	1471946913020	1471946913191		32
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	427967	1471946913639	1471946913766		80
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	427969	1471946913788	1471946913952		65
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428001	1471946914090	1471946914228		67
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428003	1471946914383	1471946914620		84
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428006	1471946914819	1471946914982		32
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428010	1471946915433	1471946915539		72
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428014	1471946915564	1471946915743		65
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428109	1471946915833	1471946916002		83
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428114	1471946916120	1471946916293		32
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428118	1471946917021	1471946917123		78
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428123	1471946917258	1471946917388		79
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428127	1471946917930	1471946918103		84
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428191	1471946918163	1471946918326		32
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428195	1471946918698	1471946918861		69
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428197	1471946919269	1471946919333		78
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428200	1471946919491	1471946919657		84
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428201	1471946920077	1471946920184		73
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428304	1471946920776	1471946920949		82
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428308	1471946920981	1471946921154		69
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428311	1471946921603	1471946921692		76
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428314	1471946922657	1471946922743		89
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428316	1471946922985	1471946923112		32
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428342	1471946923467	1471946923609		67
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428343	1471946923727	1471946923896		65
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428345	1471946923946	1471946924058		76
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428348	1471946924214	1471946924330		77
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428350	1471946924448	1471946924627		69
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428383	1471946924782	1471946924960		68
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428386	1471946925086	1471946925249		32
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428388	1471946925616	1471946925700		84
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428391	1471946925836	1471946925932		72
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428393	1471946926078	1471946926256		69
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428409	1471946926341	1471946926494		32
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428411	1471946926909	1471946927027		78
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428413	1471946927048	1471946927210		65
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428418	1471946927355	1471946927525		84
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428495	1471946927500	1471946927635		73
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428499	1471946927591	1471946927770		79
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428502	1471946928228	1471946928294		78
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428504	1471946928586	1471946928741		222
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428506	1471946928791	1471946928975		83
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428507	1471946929194	1471946929352		32
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428582	1471946930012	1471946930086		78
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428585	1471946930251	1471946930420		69
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428588	1471946930530	1471946930670		82
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428592	1471946931042	1471946931231		86
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428595	1471946931947	1471946932064		69
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428637	1471946932257	1471946932434		83
+886	8932	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	428639	1471946932784	1471946932862		190
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	428794	1471946935485	1471946935806	SHIFT	16
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	428791	1471946935680	1471946935760		70
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	428795	1471946936179	1471946936263		85
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	428796	1471946936673	1471946936852		69
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	428797	1471946936855	1471946937024		76
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	428798	1471946937255	1471946937410		32
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	428911	1471946937780	1471946937926		83
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	428914	1471946938165	1471946938239		85
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	428916	1471946938417	1471946938572		82
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	428921	1471946939616	1471946939766		67
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	428926	1471946940129	1471946940190		72
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	428978	1471946940287	1471946940459		65
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	428981	1471946940584	1471946940745		82
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	428984	1471946940900	1471946940997		71
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	428987	1471946941127	1471946941300		69
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	428988	1471946941638	1471946941807		83
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429046	1471946942343	1471946942468		188
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429047	1471946942482	1471946942609		32
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429049	1471946942775	1471946942880		73
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429052	1471946943091	1471946943251		70
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429055	1471946943424	1471946943590		32
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429096	1471946943763	1471946943940		65
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429097	1471946944127	1471946944215		80
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429098	1471946944332	1471946944376		80
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429099	1471946944502	1471946944630		76
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429100	1471946944707	1471946944813		73
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429187	1471946944992	1471946945129		67
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429188	1471946945348	1471946945542		65
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429189	1471946946148	1471946946221		66
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429190	1471946946623	1471946946748		76
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429191	1471946946838	1471946947006		69
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429245	1471946947155	1471946947310		32
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429248	1471946947344	1471946947511		65
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429251	1471946947772	1471946947910		82
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429253	1471946947992	1471946948165		69
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429255	1471946948314	1471946948448		32
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429317	1471946948846	1471946948953		73
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429321	1471946949091	1471946949190		78
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429325	1471946949454	1471946949607		67
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429328	1471946949843	1471946949968		76
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429331	1471946950164	1471946950286		85
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429397	1471946950500	1471946950635		68
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429400	1471946950752	1471946950949		69
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429403	1471946952129	1471946952279		68
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429406	1471946952374	1471946952537		32
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429410	1471946952876	1471946953014		73
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429446	1471946953109	1471946953257		78
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429449	1471946953279	1471946953419		32
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429452	1471946953473	1471946953646		84
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429457	1471946953636	1471946953794		72
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429461	1471946954025	1471946954216		69
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429503	1471946954253	1471946954411		32
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429504	1471946954678	1471946954823		70
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429505	1471946954905	1471946955023		69
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429507	1471946955107	1471946955245		69
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429509	1471946955471	1471946955650		83
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429600	1471946955718	1471946955901		32
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429602	1471946956503	1471946956603		76
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429604	1471946956687	1471946956805		73
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429607	1471946957096	1471946957235		83
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429609	1471946957380	1471946957510		84
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429663	1471946957824	1471946957944		69
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429665	1471946958087	1471946958253		68
+886	8950	Fuel surcharges, if applicable are included in the fees listed.	Fuel surcharges, if applicable are included in the fees listed.	429667	1471946958592	1471946958661		190
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	429819	1471946961127	1471946961425	SHIFT	16
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	429822	1471946961348	1471946961435		84
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	429825	1471946961589	1471946961686		72
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	429828	1471946961793	1471946961979		69
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	429831	1471946962061	1471946962237		32
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	429835	1471946963122	1471946963356	SHIFT	16
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	429897	1471946963320	1471946963420		70
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	429898	1471946963563	1471946963728		69
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	429900	1471946963962	1471946964123		68
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	429903	1471946964190	1471946964343		32
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	429906	1471946964829	1471946964928		72
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	429988	1471946965069	1471946965151		83
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	429989	1471946966383	1471946966478		8
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	429991	1471946966603	1471946966684		8
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	429993	1471946966812	1471946966973		65
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	429995	1471946966990	1471946967172		83
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	429997	1471946967267	1471946967430		32
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430059	1471946967856	1471946967968		78
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430061	1471946968105	1471946968240		79
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430062	1471946968515	1471946968680		84
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430064	1471946968828	1471946968994		32
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430065	1471946969369	1471946969494		84
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430106	1471946969705	1471946969886		65
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430108	1471946970304	1471946970396		75
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430111	1471946970481	1471946970657		69
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430113	1471946970880	1471946971031		78
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430117	1471946971115	1471946971289		32
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430187	1471946971379	1471946971563		65
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430188	1471946971653	1471946971791		78
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430190	1471946971876	1471946972036		32
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430192	1471946972764	1471946972831		79
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430195	1471946973034	1471946973172		70
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430263	1471946973254	1471946973384		70
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430266	1471946973673	1471946973798		73
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430267	1471946974364	1471946974530		67
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430270	1471946974534	1471946974654		73
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430275	1471946974757	1471946974964		65
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430354	1471946975051	1471946975237		76
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430357	1471946975348	1471946975516		32
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430363	1471946976067	1471946976310		80
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430369	1471946976225	1471946976363		79
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430373	1471946976572	1471946976684		73
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430543	1471946976842	1471946977021		83
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430545	1471946979195	1471946979289		8
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430550	1471946979465	1471946979541		8
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430555	1471946980057	1471946980224		83
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430559	1471946980573	1471946980640		73
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430609	1471946980811	1471946980963		84
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430615	1471946981020	1471946981177		73
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430620	1471946981165	1471946981305		79
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430625	1471946981645	1471946981810		78
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430630	1471946981880	1471946982053		32
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430670	1471946982514	1471946982654		79
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430677	1471946982764	1471946982925		78
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430684	1471946982947	1471946983115		32
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430693	1471946983119	1471946983260		84
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430700	1471946983264	1471946983442		72
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430784	1471946983518	1471946983667		69
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430786	1471946983790	1471946983966		32
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430789	1471946984611	1471946984713		73
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430793	1471946984921	1471946985054		83
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430797	1471946985122	1471946985280		83
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430861	1471946985986	1471946986098		85
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430863	1471946986251	1471946986427		69
+886	8969	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	430868	1471946986963	1471946987039		190
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431029	1471946989448	1471946989708	SHIFT	16
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431033	1471946989628	1471946989751		73
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431036	1471946989887	1471946990047		32
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431040	1471946990256	1471946990417		87
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431043	1471946990620	1471946990720		73
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431045	1471946990943	1471946991068		76
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431140	1471946991385	1471946991530		76
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431142	1471946991762	1471946991925		32
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431145	1471946992517	1471946992657		66
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431148	1471946992817	1471946993006		69
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431151	1471946993068	1471946993338		32
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431244	1471946993698	1471946993869		67
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431247	1471946994050	1471946994152		72
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431252	1471946994330	1471946994473		69
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431254	1471946994663	1471946994832		67
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431259	1471946994921	1471946995051		75
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431349	1471946995169	1471946995294		73
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431352	1471946995427	1471946995587		78
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431355	1471946995866	1471946996035		71
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431357	1471946996195	1471946996366		32
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431361	1471946996892	1471946997050		85
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431451	1471946997080	1471946997258		80
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431453	1471946997401	1471946997582		32
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431459	1471946998033	1471946998209		87
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431463	1471946998284	1471946998417		73
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431466	1471946998532	1471946998695		84
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431552	1471946998762	1471946998920		72
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431557	1471946999126	1471946999282		32
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431562	1471946999674	1471946999934	SHIFT	16
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431567	1471946999883	1471947000006		76
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431572	1471947000085	1471947000231		73
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431579	1471947000362	1471947000487		83
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431622	1471947000587	1471947000776		65
+886	8995	I will be checking up with Lisa.	I will be checking up with Lisa.	431624	1471947000992	1471947001148		190
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	431792	1471947004058	1471947004336	SHIFT	16
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	431796	1471947004273	1471947004368		77
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	431799	1471947004441	1471947004617		65
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	431802	1471947004682	1471947004825		78
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	431806	1471947005061	1471947005155		89
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	431811	1471947005492	1471947005643		32
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	431933	1471947006076	1471947006213		69
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	431935	1471947006316	1471947006454		65
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	431936	1471947006577	1471947006740		82
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	431937	1471947006890	1471947007026		76
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	431938	1471947007067	1471947007223		73
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432030	1471947007444	1471947007668		69
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432033	1471947007630	1471947007852		82
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432036	1471947007969	1471947008120		32
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432039	1471947008654	1471947008796		67
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432044	1471947009035	1471947009185		69
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432194	1471947009341	1471947009520		65
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432196	1471947010034	1471947010182		83
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432199	1471947010842	1471947011021		69
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432201	1471947011620	1471947011783		70
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432203	1471947011808	1471947011986		73
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432286	1471947012237	1471947012411		82
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432294	1471947012470	1471947012656		69
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432298	1471947012802	1471947012950		32
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432300	1471947013226	1471947013372		65
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432304	1471947013694	1471947013816		67
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432471	1471947013894	1471947014024		67
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432476	1471947014154	1471947014274		79
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432481	1471947014725	1471947014854		82
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432484	1471947015953	1471947016111		68
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432487	1471947017301	1471947017483		83
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432568	1471947017600	1471947017832		32
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432571	1471947018359	1471947018504		72
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432575	1471947018508	1471947018652		65
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432578	1471947018820	1471947018978		86
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432581	1471947019121	1471947019312		69
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432654	1471947019341	1471947019509		32
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432657	1471947020119	1471947020239		66
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432660	1471947020291	1471947020451		69
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432668	1471947020528	1471947020664		69
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432677	1471947020706	1471947020904		78
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432749	1471947020931	1471947021151		32
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432751	1471947021397	1471947021570		66
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432756	1471947021933	1471947022065		82
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432761	1471947022162	1471947022310		79
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432764	1471947022584	1471947022709		75
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432851	1471947022892	1471947023084		69
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432854	1471947023151	1471947023268		78
+886	9008	Many earlier ceasefire accords have been broken.	Many earlier ceasefire accords have been broken.	432856	1471947023852	1471947023939		190
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433058	1471947026226	1471947026673	SHIFT	16
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433052	1471947026555	1471947026635		84
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433065	1471947026892	1471947026978		72
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433072	1471947027045	1471947027221		69
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433078	1471947027339	1471947027479		32
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433083	1471947027910	1471947028072		76
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433165	1471947028034	1471947028177		79
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433166	1471947028345	1471947028555		65
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433168	1471947028784	1471947028880		78
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433170	1471947029193	1471947029351		83
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433172	1471947029403	1471947029561		32
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433174	1471947029888	1471947030080		87
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433254	1471947030026	1471947030226		69
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433256	1471947030341	1471947030491		82
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433259	1471947030619	1471947030815		69
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433261	1471947030834	1471947030990		32
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433263	1471947031039	1471947031316		65
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433264	1471947031456	1471947031569		76
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433379	1471947031649	1471947031763		76
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433382	1471947032164	1471947032351		87
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433386	1471947033016	1471947033118		8
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433389	1471947033510	1471947033617		8
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433528	1471947034749	1471947034874		69
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433530	1471947035721	1471947035838		71
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433533	1471947036415	1471947036593		69
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433536	1471947037213	1471947037353		68
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433539	1471947037463	1471947037562		76
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433663	1471947037937	1471947038092		89
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433665	1471947038291	1471947038454		32
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433667	1471947038854	1471947038974		77
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433671	1471947039008	1471947039167		65
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433676	1471947039282	1471947039440		68
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433794	1471947039813	1471947039973		69
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433798	1471947040043	1471947040206		32
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433801	1471947040508	1471947040669		84
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433804	1471947040905	1471947041040		79
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433807	1471947041140	1471947041295		32
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433908	1471947041690	1471947041800		80
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433910	1471947041920	1471947042063		76
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433914	1471947042095	1471947042261		65
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433916	1471947042507	1471947042591		89
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433919	1471947042692	1471947042862		69
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433971	1471947042972	1471947043113		82
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433973	1471947043278	1471947043434		83
+886	9035	The loans were allegedly made to players.	The loans were allegedly made to players.	433974	1471947043555	1471947043641		190
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434100	1471947045615	1471947046133	SHIFT	16
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434098	1471947046012	1471947046090		72
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434102	1471947046271	1471947046429		69
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434106	1471947046458	1471947046619		32
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434111	1471947046711	1471947046874		73
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434301	1471947046861	1471947047040		83
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434304	1471947047100	1471947047263		32
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434306	1471947047855	1471947047969		79
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434309	1471947049505	1471947049591		8
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434312	1471947050065	1471947050189		78
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434401	1471947050216	1471947050397		69
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434405	1471947050583	1471947050723		32
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434410	1471947051325	1471947051414		79
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434412	1471947051522	1471947051700		70
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434416	1471947051820	1471947051991		32
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434557	1471947052162	1471947052322		84
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434558	1471947052637	1471947052813		72
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434561	1471947053879	1471947054019		82
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434564	1471947054169	1471947054294		69
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434567	1471947054404	1471947054527		69
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434658	1471947054614	1471947054770		32
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434661	1471947055016	1471947055348	SHIFT	16
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434668	1471947055276	1471947055355		69
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434673	1471947055473	1471947055632		65
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434677	1471947056357	1471947056436		71
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434680	1471947056816	1471947056895		76
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434757	1471947057136	1471947057271		69
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434761	1471947057452	1471947057621		83
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434766	1471947057696	1471947057864		32
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434773	1471947058439	1471947058600		87
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434779	1471947058783	1471947058913		72
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434848	1471947059051	1471947059229		79
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434854	1471947059299	1471947059447		32
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434856	1471947059580	1471947059764		87
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434860	1471947059937	1471947060065		73
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434863	1471947060245	1471947060375		76
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434897	1471947060455	1471947060605		76
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434900	1471947060698	1471947060864		32
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434904	1471947061191	1471947061328		66
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434912	1471947061643	1471947061813		69
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434918	1471947061848	1471947062047		32
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434987	1471947062593	1471947062698		72
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434989	1471947062883	1471947063031		69
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434993	1471947063149	1471947063266		76
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	434996	1471947063689	1471947063855		68
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	435000	1471947063965	1471947064164		32
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	435094	1471947064698	1471947064825		79
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	435098	1471947065150	1471947065279		85
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	435103	1471947065506	1471947065699		84
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	435108	1471947065771	1471947065955		32
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	435112	1471947066439	1471947066571		79
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	435184	1471947066931	1471947067107		70
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	435188	1471947067174	1471947067340		32
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	435193	1471947067558	1471947067665		84
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	435198	1471947067828	1471947067935		72
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	435203	1471947068335	1471947068524		69
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	435250	1471947068581	1471947068762		32
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	435252	1471947069241	1471947069302		71
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	435256	1471947069429	1471947069621		65
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	435262	1471947069744	1471947069811		77
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	435267	1471947069948	1471947070106		69
+886	9055	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	435282	1471947070350	1471947070426		190
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435433	1471947072534	1471947072993	SHIFT	16
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435432	1471947072842	1471947072917		73
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435436	1471947073068	1471947073267		32
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435439	1471947073334	1471947073480		87
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435441	1471947073764	1471947073986		65
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435505	1471947073973	1471947074181		83
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435507	1471947074276	1471947074431		32
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435512	1471947074456	1471947074653		65
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435514	1471947074680	1471947074835		32
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435518	1471947075243	1471947075353		66
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435523	1471947075516	1471947075643		73
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435635	1471947075864	1471947076032		84
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435638	1471947076150	1471947076313		32
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435640	1471947076923	1471947077063		82
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435642	1471947077509	1471947077633		85
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435644	1471947077814	1471947077952		83
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435749	1471947078590	1471947078753		84
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435751	1471947079231	1471947079333		89
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435755	1471947079645	1471947079808		32
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435759	1471947080127	1471947080229		66
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435762	1471947080397	1471947080516		85
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435862	1471947080688	1471947080853		84
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435865	1471947081024	1471947081205		32
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435869	1471947081477	1471947081747	SHIFT	16
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435873	1471947081665	1471947081783		73
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435877	1471947081865	1471947082028		32
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	435883	1471947082454	1471947082602		68
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436084	1471947082833	1471947082950		73
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436087	1471947083154	1471947083324		68
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436091	1471947085727	1471947085930		78
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436095	1471947085920	1471947086114		59
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436097	1471947086804	1471947086904		8
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436260	1471947087950	1471947088090		222
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436263	1471947088818	1471947088991		84
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436266	1471947089308	1471947089464		32
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436271	1471947089894	1471947090042		87
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436272	1471947090142	1471947090329		65
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436326	1471947090351	1471947090502		78
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436331	1471947090614	1471947090777		84
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436337	1471947091019	1471947091166		32
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436342	1471947091557	1471947091717		84
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436346	1471947091756	1471947091922		79
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436396	1471947092058	1471947092226		32
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436398	1471947092560	1471947092672		77
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436402	1471947092777	1471947092930		73
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436405	1471947093043	1471947093199		83
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436409	1471947093287	1471947093430		83
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436454	1471947093616	1471947093784		32
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436457	1471947093983	1471947094133		84
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436462	1471947094152	1471947094328		72
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436464	1471947094413	1471947094581		69
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436467	1471947094719	1471947094882		32
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436526	1471947095199	1471947095347		69
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436531	1471947095596	1471947095733		76
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436535	1471947095808	1471947095969		69
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436538	1471947096122	1471947096282		67
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436540	1471947096433	1471947096614		84
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436572	1471947096658	1471947096836		73
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436574	1471947096795	1471947096966		79
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436577	1471947097165	1471947097300		78
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436580	1471947097682	1471947097861		83
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436583	1471947097949	1471947098140		32
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436669	1471947098750	1471947098859		66
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436675	1471947098924	1471947099098		65
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436679	1471947099488	1471947099659		67
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436681	1471947099792	1471947099973		75
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436684	1471947100002	1471947100170		32
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436756	1471947100808	1471947100917		72
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436758	1471947101025	1471947101172		79
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436761	1471947101348	1471947101488		77
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436765	1471947101540	1471947101706		69
+886	9087	I was a bit rusty but I didn't want to miss the elections back home.	I was a bit rusty but I didn't want to miss the elections back home.	436770	1471947102021	1471947102189		190
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	436962	1471947104252	1471947104800	SHIFT	16
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	436957	1471947104670	1471947104744		72
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	436967	1471947104913	1471947105159		65
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	436972	1471947105133	1471947105363		83
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	436977	1471947105446	1471947105627		32
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437102	1471947105689	1471947106497	SHIFT	16
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	436980	1471947106324	1471947106477		68
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437104	1471947106819	1471947106957		89
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437109	1471947107564	1471947107691		78
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437114	1471947108334	1471947108512		69
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437122	1471947109016	1471947109148		71
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437129	1471947109286	1471947109385		89
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437189	1471947109667	1471947109840		32
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437191	1471947110218	1471947110309		77
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437193	1471947110394	1471947110576		65
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437194	1471947110646	1471947110812		68
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437195	1471947110924	1471947111080		69
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437249	1471947111122	1471947111295		32
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437251	1471947111332	1471947111524		65
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437253	1471947111556	1471947111706		32
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437255	1471947111887	1471947112043		83
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437257	1471947112370	1471947112475		80
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437344	1471947112598	1471947112745		69
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437346	1471947113143	1471947113288		67
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437351	1471947113381	1471947113482		73
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437355	1471947113724	1471947113889		70
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437359	1471947113941	1471947114059		73
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437476	1471947114376	1471947114531		67
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437479	1471947114894	1471947115054		32
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437485	1471947115527	1471947115665		82
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437490	1471947115772	1471947115910		69
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437493	1471947116593	1471947116729		81
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437586	1471947117063	1471947117137		85
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437591	1471947117396	1471947117539		69
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437594	1471947117649	1471947117833		83
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437600	1471947117895	1471947117979		84
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437604	1471947118503	1471947119091	SHIFT	16
+886	9115	Has Dynegy made a specific request?	Has Dynegy made a specific request?	437624	1471947118939	1471947119119		191
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	437824	1471947121225	1471947121842	SHIFT	16
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	437826	1471947121679	1471947121862		67
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	437827	1471947121975	1471947122090		79
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	437830	1471947122424	1471947122496		78
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	437832	1471947122646	1471947122792		83
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	437836	1471947123765	1471947123880		84
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	437920	1471947124348	1471947124491		82
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	437921	1471947124742	1471947124826		85
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	437923	1471947125050	1471947125164		67
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	437924	1471947125365	1471947125505		84
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	437925	1471947125560	1471947125718		73
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438009	1471947125674	1471947125853		79
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438013	1471947126240	1471947126432		78
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438016	1471947126443	1471947126622		32
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438019	1471947127047	1471947127182		79
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438025	1471947127383	1471947127547		78
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438031	1471947127570	1471947127741		32
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438093	1471947127702	1471947127830		84
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438100	1471947127887	1471947128081		72
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438105	1471947128186	1471947128357		69
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438111	1471947128477	1471947128643		32
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438116	1471947129146	1471947129299		67
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438120	1471947129389	1471947129529		79
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438176	1471947129647	1471947129777		77
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438177	1471947129900	1471947130055		80
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438178	1471947130188	1471947130351		76
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438180	1471947130489	1471947130624		69
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438183	1471947131065	1471947131198		88
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438238	1471947131658	1471947131819		32
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438240	1471947132335	1471947132509		87
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438242	1471947132546	1471947132686		73
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438246	1471947132832	1471947132974		76
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438248	1471947133031	1471947133167		76
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438294	1471947133294	1471947133457		32
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438298	1471947133681	1471947133834		66
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438303	1471947133906	1471947134072		69
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438309	1471947134149	1471947134374		73
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438312	1471947134393	1471947134579		78
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438367	1471947134757	1471947134905		71
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438369	1471947135139	1471947135317		32
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438370	1471947135697	1471947135855		84
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438372	1471947135829	1471947136000		72
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438373	1471947136047	1471947136220		73
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438434	1471947136320	1471947136497		83
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438438	1471947136592	1471947136765		32
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438443	1471947137443	1471947137588		89
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438446	1471947137655	1471947137813		69
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438449	1471947137868	1471947138090		65
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438489	1471947138082	1471947138294		82
+886	9130	Construction on the complex will begin this year.	Construction on the complex will being this year.	438491	1471947138873	1471947138950		190
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438646	1471947141085	1471947141453	SHIFT	16
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438647	1471947141357	1471947141468		72
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438650	1471947141722	1471947141872		69
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438653	1471947141884	1471947142037		32
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438656	1471947142157	1471947142338		73
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438722	1471947142297	1471947142479		83
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438724	1471947142541	1471947142709		32
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438726	1471947143057	1471947143241		65
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438728	1471947143260	1471947143375		76
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438730	1471947143576	1471947143703		82
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438732	1471947143783	1471947143928		69
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438797	1471947144084	1471947144240		65
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438800	1471947144400	1471947144556		68
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438805	1471947144833	1471947145001		89
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438809	1471947145346	1471947145511		32
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438812	1471947145884	1471947146006		79
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438860	1471947146172	1471947146329		78
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438861	1471947146349	1471947146517		32
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438864	1471947146617	1471947146769		84
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438868	1471947146744	1471947146910		72
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438873	1471947147047	1471947147205		69
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438954	1471947147253	1471947147418		32
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438956	1471947147791	1471947147898		74
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438958	1471947148015	1471947148143		79
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438961	1471947148878	1471947149049		66
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	438964	1471947149124	1471947149300		32
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439052	1471947149463	1471947149678		65
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439057	1471947149682	1471947149827		78
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439061	1471947149948	1471947150096		68
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439063	1471947150246	1471947150409		32
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439065	1471947150958	1471947151080		72
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439131	1471947151191	1471947151362		65
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439135	1471947151596	1471947151728		82
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439142	1471947152108	1471947152248		68
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439146	1471947152525	1471947152678		32
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439150	1471947152813	1471947152975		65
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439207	1471947153153	1471947153295		84
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439209	1471947153345	1471947153517		32
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439215	1471947153626	1471947153772		87
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439216	1471947154026	1471947154184		79
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439219	1471947154311	1471947154467		82
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439266	1471947154782	1471947154924		75
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439270	1471947155052	1471947155192		32
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439274	1471947155562	1471947155684		79
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439280	1471947155812	1471947155963		78
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439286	1471947155974	1471947156170		32
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439351	1471947156144	1471947156305		84
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439353	1471947156314	1471947156513		72
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439356	1471947156606	1471947156769		69
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439360	1471947156891	1471947157062		32
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439363	1471947157667	1471947157774		73
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439365	1471947157907	1471947158040		83
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439430	1471947158142	1471947158247		83
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439433	1471947158521	1471947158646		85
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439435	1471947159132	1471947159290		69
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439437	1471947160117	1471947160247		83
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439439	1471947160352	1471947160536		32
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439500	1471947161085	1471947161174		66
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439502	1471947161281	1471947161427		69
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439504	1471947161580	1471947161733		70
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439505	1471947161815	1471947161953		79
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439506	1471947162093	1471947162256		82
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439589	1471947162323	1471947162525		69
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439592	1471947162610	1471947162796		32
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439593	1471947163420	1471947163550		85
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439597	1471947163587	1471947163767		83
+886	9149	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	439601	1471947164144	1471947164233		190
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	439794	1471947166795	1471947167249	SHIFT	16
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	439789	1471947167128	1471947167226		80
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	439797	1471947167372	1471947167515		76
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	439800	1471947167637	1471947167767		69
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	439801	1471947167890	1471947168072		65
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	439802	1471947168104	1471947168273		83
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	439853	1471947168360	1471947168564		69
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	439854	1471947168697	1471947168860		32
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	439857	1471947169081	1471947169219		83
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	439861	1471947169279	1471947169463		69
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	439862	1471947169540	1471947169678		78
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	439922	1471947170035	1471947170282		70
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	439927	1471947170730	1471947170827		8
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	439931	1471947170897	1471947171080		68
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	439934	1471947171178	1471947171338		32
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	439938	1471947171837	1471947171975		84
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	440053	1471947171991	1471947172160		79
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	440054	1471947172381	1471947172541		32
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	440057	1471947172661	1471947173502	SHIFT	16
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	440055	1471947173315	1471947173398		71
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	440059	1471947173703	1471947173816		65
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	440061	1471947174781	1471947174908		82
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	440154	1471947175573	1471947175675		89
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	440158	1471947175896	1471947176034		32
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	440163	1471947176578	1471947177118	SHIFT	16
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	440169	1471947176962	1471947177187		83
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	440173	1471947177290	1471947177420		77
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	440176	1471947177535	1471947177711		73
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	440219	1471947177808	1471947177982		84
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	440220	1471947178008	1471947178166		72
+886	9173	Please send to Gary Smith.	Please send to Gary Smith.	440221	1471947178680	1471947178751		190
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440361	1471947180875	1471947181497	SHIFT	16
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440360	1471947181287	1471947181364		84
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440362	1471947181746	1471947181830		72
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440363	1471947181927	1471947182077		69
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440364	1471947182122	1471947182295		32
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440365	1471947182491	1471947182956	SHIFT	16
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440427	1471947182789	1471947183007		65
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440431	1471947183397	1471947183470		76
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440433	1471947183570	1471947183670		76
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440435	1471947184116	1471947184187		173
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440439	1471947184494	1471947185109	SHIFT	16
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440442	1471947184951	1471947185134		69
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440445	1471947185371	1471947185462		77
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440519	1471947185696	1471947185803		80
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440520	1471947185933	1471947186053		76
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440521	1471947186307	1471947186447		79
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440522	1471947187445	1471947187544		89
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440523	1471947187702	1471947187845		69
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440573	1471947187948	1471947188085		69
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440576	1471947188230	1471947188389		32
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440579	1471947188741	1471947188978	SHIFT	16
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440581	1471947188914	1471947189011		77
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440583	1471947189154	1471947189289		69
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440586	1471947189409	1471947189537		69
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440620	1471947189740	1471947189926		84
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440624	1471947189953	1471947190121		73
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440628	1471947190320	1471947190432		78
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440631	1471947190673	1471947190847		71
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440635	1471947190971	1471947191122		32
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440697	1471947191619	1471947191793		87
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440700	1471947191797	1471947191932		73
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440704	1471947192085	1471947192222		76
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440706	1471947192280	1471947192417		76
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440708	1471947192518	1471947192668		32
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440801	1471947192861	1471947193016		66
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440803	1471947193149	1471947193335		69
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440805	1471947193433	1471947193606		32
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440808	1471947194117	1471947194247		72
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440811	1471947194350	1471947194508		69
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440923	1471947194618	1471947194763		76
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440924	1471947195320	1471947195465		68
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440925	1471947195600	1471947195781		32
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440927	1471947196093	1471947196680	SHIFT	16
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440926	1471947196516	1471947196586		84
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440928	1471947197017	1471947197091		85
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440967	1471947197864	1471947198015		69
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440970	1471947198130	1471947198281		83
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440974	1471947198361	1471947198526		68
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440978	1471947198591	1471947198801		65
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	440981	1471947198906	1471947199008		89
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	441078	1471947199837	1471947199926		188
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	441083	1471947200008	1471947200154		32
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	441087	1471947200231	1471947200474	SHIFT	16
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	441092	1471947200391	1471947200481		79
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	441096	1471947200960	1471947201112		67
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	441099	1471947201286	1471947201370		84
+886	9189	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	441159	1471947202640	1471947202714		190

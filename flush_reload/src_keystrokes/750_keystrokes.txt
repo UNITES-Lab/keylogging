@@ -1,0 +1,723 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+750	7497	Neil has been asking around.	Neil has been asking around. 	361197	1471945253620	1471945254142	SHIFT	16
+750	7497	Neil has been asking around.	Neil has been asking around. 	361202	1471945254001	1471945254143		78
+750	7497	Neil has been asking around.	Neil has been asking around. 	361207	1471945254292	1471945254362		69
+750	7497	Neil has been asking around.	Neil has been asking around. 	361212	1471945254419	1471945254491		73
+750	7497	Neil has been asking around.	Neil has been asking around. 	361217	1471945254570	1471945254664		76
+750	7497	Neil has been asking around.	Neil has been asking around. 	361222	1471945254737	1471945254799		32
+750	7497	Neil has been asking around.	Neil has been asking around. 	361241	1471945254916	1471945254979		72
+750	7497	Neil has been asking around.	Neil has been asking around. 	361242	1471945255010	1471945255078		65
+750	7497	Neil has been asking around.	Neil has been asking around. 	361243	1471945255174	1471945255229		83
+750	7497	Neil has been asking around.	Neil has been asking around. 	361244	1471945255264	1471945255318		32
+750	7497	Neil has been asking around.	Neil has been asking around. 	361245	1471945255396	1471945255473		66
+750	7497	Neil has been asking around.	Neil has been asking around. 	361265	1471945255480	1471945255543		69
+750	7497	Neil has been asking around.	Neil has been asking around. 	361272	1471945255667	1471945255693		69
+750	7497	Neil has been asking around.	Neil has been asking around. 	361278	1471945255725	1471945255803		78
+750	7497	Neil has been asking around.	Neil has been asking around. 	361281	1471945255893	1471945255955		32
+750	7497	Neil has been asking around.	Neil has been asking around. 	361284	1471945256023	1471945256146		65
+750	7497	Neil has been asking around.	Neil has been asking around. 	361303	1471945256213	1471945256423		83
+750	7497	Neil has been asking around.	Neil has been asking around. 	361304	1471945256425	1471945256429		75
+750	7497	Neil has been asking around.	Neil has been asking around. 	361305	1471945256458	1471945256521		73
+750	7497	Neil has been asking around.	Neil has been asking around. 	361306	1471945256600	1471945256694		78
+750	7497	Neil has been asking around.	Neil has been asking around. 	361308	1471945256696	1471945256740		71
+750	7497	Neil has been asking around.	Neil has been asking around. 	361348	1471945256806	1471945256884		32
+750	7497	Neil has been asking around.	Neil has been asking around. 	361351	1471945256983	1471945257070		65
+750	7497	Neil has been asking around.	Neil has been asking around. 	361357	1471945257230	1471945257277		82
+750	7497	Neil has been asking around.	Neil has been asking around. 	361363	1471945257342	1471945257412		79
+750	7497	Neil has been asking around.	Neil has been asking around. 	361367	1471945257506	1471945257577		85
+750	7497	Neil has been asking around.	Neil has been asking around. 	361468	1471945257664	1471945257743		78
+750	7497	Neil has been asking around.	Neil has been asking around. 	361469	1471945258005	1471945258076		68
+750	7497	Neil has been asking around.	Neil has been asking around. 	361470	1471945258141	1471945258227		190
+750	7497	Neil has been asking around.	Neil has been asking around. 	361471	1471945258299	1471945258378		32
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362151	1471945270645	1471945271174	SHIFT	16
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362138	1471945270805	1471945270884		69
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362142	1471945270948	1471945271050		78
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362147	1471945271080	1471945271151		65
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362153	1471945271280	1471945271367		32
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362155	1471945271756	1471945271827		73
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362168	1471945271856	1471945271911		83
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362173	1471945271945	1471945272000		32
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362179	1471945272077	1471945272156		78
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362186	1471945272212	1471945272291		79
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362191	1471945272328	1471945272391		84
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362266	1471945272409	1471945272463		32
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362272	1471945272694	1471945272765		80
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362276	1471945272898	1471945272977		85
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362278	1471945273175	1471945273246		82
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362281	1471945273404	1471945273459		67
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362310	1471945273547	1471945273610		72
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362316	1471945273647	1471945273726		65
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362319	1471945273837	1471945273900		83
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362323	1471945273949	1471945274020		73
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362328	1471945274122	1471945274193		78
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362393	1471945274224	1471945274286		71
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362399	1471945274312	1471945274391		32
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362412	1471945274928	1471945275213	SHIFT	16
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362406	1471945275072	1471945275152		87
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362416	1471945275333	1471945275388		69
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362419	1471945275515	1471945275569		83
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362444	1471945275626	1471945275673		84
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362446	1471945275783	1471945275846		69
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362448	1471945276015	1471945276086		80
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362453	1471945276180	1471945276259		79
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362457	1471945276353	1471945276432		82
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362539	1471945276550	1471945276597		84
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362544	1471945276702	1471945276797		222
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362548	1471945276889	1471945276960		83
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362551	1471945277018	1471945277105		32
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362554	1471945278441	1471945278493	!	37
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362588	1471945278449	1471945278497	PG_UP	33
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362592	1471945278564	1471945278651	%	37
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362595	1471945278721	1471945278793	%	37
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362599	1471945278856	1471945278919	%	37
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362602	1471945278990	1471945279068	%	37
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362604	1471945279123	1471945279194	%	37
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362672	1471945279265	1471945279352	%	37
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362675	1471945279916	1471945279979		8
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362678	1471945280410	1471945280473	'	39
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362681	1471945280504	1471945280591	'	39
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362683	1471945280630	1471945280709	'	39
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362751	1471945280788	1471945280866	'	39
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362756	1471945280930	1471945281008	'	39
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362762	1471945281063	1471945281142	'	39
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362767	1471945281221	1471945281316	'	39
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362771	1471945282184	1471945282269		71
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362813	1471945282290	1471945282378		65
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362816	1471945282474	1471945282559		83
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362820	1471945282642	1471945282745		32
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362823	1471945283371	1471945283442		65
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362828	1471945283491	1471945283571		84
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362855	1471945283643	1471945283722		32
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362856	1471945283829	1471945283899		65
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362857	1471945283940	1471945284003		84
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362860	1471945284196	1471945284267		8
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362864	1471945284322	1471945284409		8
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362870	1471945284453	1471945284516		84
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362872	1471945284573	1471945284634		72
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362874	1471945284753	1471945284840		73
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362876	1471945284909	1471945284964		83
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362879	1471945284999	1471945285069		32
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362918	1471945285234	1471945285297		84
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362919	1471945285329	1471945285408		73
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362920	1471945285518	1471945285613		77
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362921	1471945285675	1471945285730		69
+750	7512	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	362922	1471945286466	1471945286523		190
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363245	1471945292654	1471945292866	SHIFT	16
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363241	1471945292759	1471945292830		84
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363249	1471945292965	1471945293067		72
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363251	1471945293105	1471945293152		69
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363253	1471945293218	1471945293289		32
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363258	1471945293373	1471945293444		70
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363299	1471945293509	1471945293595		79
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363304	1471945293649	1471945293736		82
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363307	1471945293855	1471945293958		77
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363310	1471945294094	1471945294165		79
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363313	1471945294365	1471945294436		8
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363340	1471945294480	1471945294567		69
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363343	1471945294662	1471945294725		82
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363347	1471945294774	1471945294853		32
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363351	1471945295234	1471945295321		77
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363354	1471945295400	1471945295487		73
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363399	1471945295605	1471945295644		78
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363402	1471945295700	1471945295771		73
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363403	1471945295944	1471945296007		83
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363404	1471945296062	1471945296157		84
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363405	1471945296196	1471945296283		69
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363437	1471945296402	1471945296465		82
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363438	1471945296530	1471945296593		32
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363441	1471945296934	1471945297005		73
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363448	1471945297066	1471945297129		83
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363454	1471945297148	1471945297239		32
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363553	1471945297261	1471945297348		65
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363554	1471945297484	1471945297547		67
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363555	1471945297626	1471945297697		67
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363556	1471945298616	1471945298703		85
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363557	1471945298764	1471945298851		83
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363618	1471945298939	1471945299009		69
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363621	1471945299120	1471945299199		68
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363624	1471945299265	1471945299336		32
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363626	1471945299750	1471945299844		79
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363628	1471945299890	1471945299945		70
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363679	1471945299978	1471945300057		32
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363683	1471945300293	1471945300380		82
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363687	1471945300483	1471945300546		69
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363690	1471945301040	1471945301111		67
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363693	1471945301158	1471945301245		69
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363713	1471945301293	1471945301372		73
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363716	1471945301777	1471945301840		86
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363719	1471945301888	1471945301967		73
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363724	1471945302077	1471945302156		78
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363730	1471945302195	1471945302258		71
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363790	1471945302307	1471945302402		32
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363792	1471945302981	1471945303060		83
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363794	1471945303163	1471945303226		69
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363798	1471945303361	1471945303425		86
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363800	1471945303487	1471945303567		69
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363829	1471945303606	1471945303668		78
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363830	1471945303766	1471945303869		32
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363831	1471945304296	1471945304367		66
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363832	1471945304487	1471945304558		73
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363833	1471945304669	1471945304732		76
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363865	1471945304795	1471945304867		76
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363869	1471945304961	1471945305078		73
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363872	1471945305024	1471945305149		79
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363874	1471945305211	1471945305306		78
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363877	1471945305387	1471945305498		32
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363938	1471945305881	1471945305966		76
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363939	1471945306053	1471945306139		73
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363940	1471945306210	1471945306289		82
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363941	1471945306686	1471945306756		65
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363942	1471945306822	1471945306886		190
+750	7538	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira. 	363944	1471945306965	1471945307036		32
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364566	1471945317990	1471945318193	SHIFT	16
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364564	1471945318078	1471945318149		84
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364569	1471945318275	1471945318370		72
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364572	1471945318392	1471945318463		69
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364579	1471945318537	1471945318632		32
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364649	1471945318977	1471945319222	SHIFT	16
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364584	1471945319083	1471945319160		65
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364656	1471945319765	1471945319828		90
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364666	1471945319964	1471945320018		69
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364671	1471945320084	1471945320163		82
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364674	1471945320504	1471945320574		66
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364677	1471945320628	1471945320675		65
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364693	1471945320748	1471945320835		73
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364697	1471945321017	1471945321112		74
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364698	1471945321221	1471945321284		65
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364703	1471945321365	1471945321452		78
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364711	1471945321547	1471945321610		73
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364773	1471945322609	1471945322688		32
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364776	1471945322788	1471945322851		69
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364779	1471945322939	1471945323025		78
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364782	1471945323111	1471945323166		67
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364788	1471945323232	1471945323310		76
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364866	1471945323434	1471945323505		65
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364870	1471945323641	1471945323720		86
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364873	1471945323775	1471945323813		69
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364875	1471945323864	1471945323942		32
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364978	1471945324480	1471945324876	SHIFT	16
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364876	1471945324753	1471945324856		78
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364982	1471945325012	1471945325091		65
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364986	1471945325339	1471945325394		71
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364987	1471945325482	1471945325593		79
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364988	1471945326677	1471945326740		82
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	364991	1471945326819	1471945326941		78
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365101	1471945326938	1471945327057		79
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365105	1471945327991	1471945328063		32
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365111	1471945328186	1471945328257		87
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365117	1471945328375	1471945328446		65
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365121	1471945328549	1471945328644		83
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365126	1471945328735	1471945328837		32
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365158	1471945329050	1471945329104		84
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365160	1471945329185	1471945329264		79
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365161	1471945329349	1471945329412		82
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365163	1471945329444	1471945329522		78
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365164	1471945329571	1471945329690		32
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365230	1471945330278	1471945330356		66
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365232	1471945330412	1471945330475		85
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365235	1471945330860	1471945330906		8
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365238	1471945331015	1471945331094		89
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365243	1471945331151	1471945331222		32
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365300	1471945331258	1471945331329		84
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365304	1471945331842	1471945331913		8
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365309	1471945332054	1471945332116		70
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365315	1471945332204	1471945332299		85
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365318	1471945332417	1471945332488		82
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365351	1471945332623	1471945332678		84
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365353	1471945332725	1471945332812		72
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365355	1471945332898	1471945332993		69
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365357	1471945333096	1471945333175		82
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365359	1471945333281	1471945333359		32
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365390	1471945333876	1471945333930		70
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365393	1471945333978	1471945334073		73
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365394	1471945334159	1471945334206		71
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365395	1471945334245	1471945334316		72
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365397	1471945334435	1471945334514		84
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365406	1471945334537	1471945334609		73
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365407	1471945334711	1471945334782		78
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365408	1471945334861	1471945334947		71
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365409	1471945334996	1471945335082		190
+750	7561	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting. 	365410	1471945335178	1471945335258		32
+750	7588	I will try and find out.	I will try and find out, 	365575	1471945337543	1471945337757	SHIFT	16
+750	7588	I will try and find out.	I will try and find out, 	365577	1471945337705	1471945337791		73
+750	7588	I will try and find out.	I will try and find out, 	365581	1471945337840	1471945337902		32
+750	7588	I will try and find out.	I will try and find out, 	365584	1471945338002	1471945338073		87
+750	7588	I will try and find out.	I will try and find out, 	365586	1471945338113	1471945338168		85
+750	7588	I will try and find out.	I will try and find out, 	365588	1471945338401	1471945338479		8
+750	7588	I will try and find out.	I will try and find out, 	365600	1471945338589	1471945338660		73
+750	7588	I will try and find out.	I will try and find out, 	365602	1471945338764	1471945338827		76
+750	7588	I will try and find out.	I will try and find out, 	365604	1471945338897	1471945338968		76
+750	7588	I will try and find out.	I will try and find out, 	365607	1471945339016	1471945339079		32
+750	7588	I will try and find out.	I will try and find out, 	365611	1471945339148	1471945339226		84
+750	7588	I will try and find out.	I will try and find out, 	365631	1471945339329	1471945339384		82
+750	7588	I will try and find out.	I will try and find out, 	365634	1471945339432	1471945339503		89
+750	7588	I will try and find out.	I will try and find out, 	365637	1471945339568	1471945339638		32
+750	7588	I will try and find out.	I will try and find out, 	365640	1471945339697	1471945339772		65
+750	7588	I will try and find out.	I will try and find out, 	365690	1471945339770	1471945339832		78
+750	7588	I will try and find out.	I will try and find out, 	365695	1471945339926	1471945339973		68
+750	7588	I will try and find out.	I will try and find out, 	365700	1471945340015	1471945340078		32
+750	7588	I will try and find out.	I will try and find out, 	365703	1471945340371	1471945340417		70
+750	7588	I will try and find out.	I will try and find out, 	365706	1471945340458	1471945340528		73
+750	7588	I will try and find out.	I will try and find out, 	365708	1471945340647	1471945340701		78
+750	7588	I will try and find out.	I will try and find out, 	365728	1471945340939	1471945340994		68
+750	7588	I will try and find out.	I will try and find out, 	365731	1471945341012	1471945341091		32
+750	7588	I will try and find out.	I will try and find out, 	365734	1471945341192	1471945341256		79
+750	7588	I will try and find out.	I will try and find out, 	365738	1471945341310	1471945341411		85
+750	7588	I will try and find out.	I will try and find out, 	365746	1471945341412	1471945341473		84
+750	7588	I will try and find out.	I will try and find out, 	365795	1471945341453	1471945341514		32
+750	7588	I will try and find out.	I will try and find out, 	365798	1471945341616	1471945341727		188
+750	7588	I will try and find out.	I will try and find out, 	365800	1471945341724	1471945341743	CTRL	17
+750	7588	I will try and find out.	I will try and find out, 	365804	1471945341726	1471945341744	ALT	18
+750	7588	I will try and find out.	I will try and find out, 	365807	1471945342003	1471945342074		8
+750	7588	I will try and find out.	I will try and find out, 	365813	1471945342144	1471945342224		8
+750	7588	I will try and find out.	I will try and find out, 	365817	1471945342325	1471945342444		188
+750	7588	I will try and find out.	I will try and find out, 	365822	1471945342476	1471945342563		32
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	365967	1471945345448	1471945345637	SHIFT	16
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	365965	1471945345538	1471945345608		84
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	365969	1471945345687	1471945345790		72
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	365973	1471945345812	1471945345875		69
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	365976	1471945345949	1471945346020		32
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	365984	1471945346248	1471945346319		82
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366099	1471945346421	1471945346468		69
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366101	1471945346627	1471945346690		83
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366104	1471945346762	1471945346833		85
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366108	1471945347457	1471945347528		8
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366112	1471945348396	1471945348459		85
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366150	1471945348555	1471945348650		76
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366153	1471945348823	1471945348902		84
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366158	1471945348964	1471945349011		83
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366164	1471945349061	1471945349124		32
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366168	1471945349480	1471945349566		87
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366217	1471945349646	1471945349709		69
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366221	1471945349796	1471945349875		82
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366222	1471945349977	1471945350040		69
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366223	1471945350146	1471945350217		32
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366224	1471945350653	1471945350715		69
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366246	1471945350954	1471945351024		88
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366248	1471945351130	1471945351201		80
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366250	1471945351285	1471945351356		69
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366254	1471945351491	1471945351538		68
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366261	1471945351827	1471945351890		8
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366296	1471945351966	1471945352037		67
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366298	1471945352172	1471945352251		84
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366301	1471945352298	1471945352376		69
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366304	1471945352479	1471945352542		68
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366307	1471945352640	1471945352710		32
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366356	1471945353195	1471945353265		66
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366357	1471945353295	1471945353366		65
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366358	1471945353526	1471945353588		67
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366359	1471945353629	1471945353700		75
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366361	1471945353773	1471945353835		32
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366432	1471945353912	1471945353975		84
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366434	1471945355030	1471945355118		8
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366439	1471945355256	1471945355428	SHIFT	16
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366436	1471945355337	1471945355400		84
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366442	1471945355534	1471945355629		85
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366445	1471945355763	1471945355834		69
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366471	1471945355945	1471945356039		83
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366473	1471945356167	1471945356245		68
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366475	1471945356435	1471945356522		65
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366477	1471945356659	1471945356698		85
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366480	1471945356987	1471945357098		8
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366501	1471945357150	1471945357221		89
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366503	1471945357262	1471945357340		190
+750	7594	The results were expected back Tuesday.	The results were expected back Tuesday. 	366506	1471945357436	1471945357491		32
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366726	1471945361287	1471945361539	SHIFT	16
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366721	1471945361401	1471945361455		84
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366732	1471945361638	1471945361724		72
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366734	1471945361778	1471945361833		69
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366736	1471945362366	1471945362415		65
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366737	1471945362439	1471945362548		78
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366760	1471945362517	1471945362668		75
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366763	1471945362716	1471945362787		32
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366766	1471945362808	1471945362863		89
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366769	1471945362895	1471945362974		79
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366771	1471945363028	1471945363083		85
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366773	1471945363124	1471945363211		32
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366836	1471945363575	1471945363630		70
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366841	1471945363646	1471945363717		79
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366844	1471945363787	1471945363841		82
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366847	1471945363866	1471945363938		32
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366850	1471945364445	1471945364508		67
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366867	1471945364573	1471945364652		79
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366870	1471945364794	1471945364863		80
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366873	1471945365224	1471945365294		8
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366878	1471945365389	1471945365444		8
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366919	1471945365531	1471945365602		8
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366920	1471945365736	1471945365863		8
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366921	1471945366125	1471945366213		80
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366923	1471945366296	1471945366360		65
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366927	1471945366479	1471945366542		82
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366954	1471945366621	1471945366692		84
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366956	1471945367004	1471945367082		73
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366961	1471945367152	1471945367223		67
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366965	1471945367272	1471945367342		73
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366969	1471945367598	1471945367677		80
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366992	1471945367872	1471945367935		65
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366995	1471945367976	1471945368070		84
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	366999	1471945368190	1471945368270		73
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367003	1471945368380	1471945368451		79
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367010	1471945368570	1471945368648		78
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367058	1471945368737	1471945368848		32
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367059	1471945369151	1471945369230		8
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367061	1471945369355	1471945369434		188
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367063	1471945369522	1471945369610		32
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367065	1471945370053	1471945370108		67
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367089	1471945370181	1471945370259		79
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367091	1471945370355	1471945370425		79
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367095	1471945370513	1471945370567		79
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367100	1471945370591	1471945370678		80
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367105	1471945370826	1471945370913		69
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367128	1471945371001	1471945371056		82
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367130	1471945371253	1471945371315		65
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367132	1471945371525	1471945371585		84
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367134	1471945371556	1471945371712		73
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367159	1471945371642	1471945371744		79
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367162	1471945371838	1471945371916		78
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367165	1471945372022	1471945372125		32
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367169	1471945372456	1471945372527		65
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367173	1471945372575	1471945372653		78
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367178	1471945372684	1471945372738		68
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367199	1471945372789	1471945372883		32
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367202	1471945372974	1471945373061		83
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367206	1471945373230	1471945373309		85
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367210	1471945373437	1471945373500		80
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367215	1471945373587	1471945373642		80
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367250	1471945373760	1471945373831		79
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367256	1471945373901	1471945373987		82
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367261	1471945374114	1471945374177		84
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367266	1471945374225	1471945374304		190
+750	7611	Thank you for participation, cooperation and support.	Theank you for participation, coooperation and support. 	367268	1471945374401	1471945374479		32
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367416	1471945376507	1471945376547	"	16
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367417	1471945376508	1471945376640	PG_DOWN	34
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367419	1471945376721	1471945376917	SHIFT	16
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367418	1471945376788	1471945376898		79
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367420	1471945377974	1471945378061		85
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367421	1471945378180	1471945378242		82
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367423	1471945378300	1471945378362		32
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367463	1471945378503	1471945378582		82
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367466	1471945378660	1471945378723		69
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367474	1471945379354	1471945379424		70
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367478	1471945379465	1471945379536		79
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367484	1471945379581	1471945379652		82
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367541	1471945379779	1471945379858		77
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367544	1471945379971	1471945380066		32
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367548	1471945380325	1471945380403		65
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367552	1471945380477	1471945380555		78
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367555	1471945380577	1471945380640		68
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367609	1471945380674	1471945380777		32
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367612	1471945381102	1471945381244		79
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367616	1471945381174	1471945381307		80
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367619	1471945381504	1471945381583		69
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367624	1471945381631	1471945381780		78
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367669	1471945381742	1471945381923		73
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367670	1471945381875	1471945382024		78
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367671	1471945381985	1471945382047		71
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367672	1471945382160	1471945382271		32
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367673	1471945382621	1471945382747		80
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367674	1471945382793	1471945382847		82
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367723	1471945382920	1471945382991		79
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367726	1471945383212	1471945383307		71
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367731	1471945383418	1471945383488		82
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367736	1471945383670	1471945383733		65
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367740	1471945383773	1471945383828		78
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367794	1471945384060	1471945384107		8
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367795	1471945384239	1471945384309		77
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367799	1471945384380	1471945384459		77
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367804	1471945384877	1471945384946		8
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367828	1471945385017	1471945385080		8
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367831	1471945385159	1471945385238		8
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367834	1471945385378	1471945385458		77
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367836	1471945385545	1471945385615		77
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367838	1471945385709	1471945385788		69
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367866	1471945385886	1471945385981		32
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367868	1471945386401	1471945386496		72
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367870	1471945386549	1471945386636		65
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367872	1471945386739	1471945386810		83
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367874	1471945386893	1471945387019		32
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367927	1471945387415	1471945387502		70
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367928	1471945387558	1471945387653		79
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367929	1471945387699	1471945387762		82
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367930	1471945387865	1471945387935		71
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367932	1471945388030	1471945388085		69
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367989	1471945388236	1471945388322		68
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367991	1471945388420	1471945388515		32
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	367995	1471945388630	1471945388709		65
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	368000	1471945388813	1471945388876		71
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	368006	1471945389094	1471945389180		8
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	368054	1471945389305	1471945389392		72
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	368057	1471945389438	1471945389517		69
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	368059	1471945389659	1471945389737		65
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	368061	1471945389929	1471945390024		68
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	368063	1471945390160	1471945390240		190
+750	7627	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead. 	368068	1471945390335	1471945390390		32
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368165	1471945392037	1471945392272	SHIFT	16
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368164	1471945392141	1471945392204		68
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368167	1471945392363	1471945392442		73
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368170	1471945392479	1471945392558		83
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368176	1471945392638	1471945392733		78
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368181	1471945392763	1471945392826		69
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368239	1471945392961	1471945393040		84
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368244	1471945393297	1471945393384		8
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368248	1471945393765	1471945393851		89
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368254	1471945393925	1471945394011		32
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368259	1471945394407	1471945394485		87
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368277	1471945394588	1471945394675		65
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368279	1471945394762	1471945394826		83
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368281	1471945394843	1471945394914		32
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368283	1471945395014	1471945395101		71
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368284	1471945395132	1471945395211		82
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368305	1471945395306	1471945395377		69
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368308	1471945395528	1471945395613		65
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368312	1471945395654	1471945395708		84
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368316	1471945395806	1471945395901		32
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368320	1471945396160	1471945396246		65
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368352	1471945396295	1471945396374		78
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368355	1471945396412	1471945396483		68
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368360	1471945396524	1471945396572		32
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368364	1471945396694	1471945397042	SHIFT	16
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368362	1471945396848	1471945396943		73
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368365	1471945397270	1471945397325		222
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368383	1471945397434	1471945397520		86
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368386	1471945397615	1471945397693		69
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368388	1471945397767	1471945397870		32
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368390	1471945398274	1471945398345		66
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368392	1471945398391	1471945398463		69
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368432	1471945398542	1471945398628		69
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368436	1471945398644	1471945398723		78
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368440	1471945398828	1471945398938		32
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368442	1471945399342	1471945399413		84
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368443	1471945399446	1471945399541		79
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368464	1471945399597	1471945399691		32
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368466	1471945399879	1471945399966		69
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368468	1471945400070	1471945400149		73
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368470	1471945400211	1471945400274		71
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368471	1471945400306	1471945400377		72
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368502	1471945400423	1471945400486		84
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368504	1471945400559	1471945400638		32
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368508	1471945401122	1471945401193		66
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368510	1471945401263	1471945401349		65
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368513	1471945401445	1471945401516		83
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368527	1471945401627	1471945401674		69
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368528	1471945401771	1471945401848		66
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368529	1471945401925	1471945401989		65
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368530	1471945402046	1471945402125		76
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368531	1471945402196	1471945402275		76
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368570	1471945402787	1471945402857		32
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368572	1471945403022	1471945403092		71
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368576	1471945403113	1471945403200		65
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368580	1471945403274	1471945403361		77
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368584	1471945403399	1471945403493		69
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368615	1471945403620	1471945403691		83
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368616	1471945404132	1471945404187		190
+750	7639	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games. 	368619	1471945404282	1471945404345		32
+750	7655	What is the mood?	What is the mood? 	368707	1471945406191	1471945406507	SHIFT	16
+750	7655	What is the mood?	What is the mood? 	368704	1471945406383	1471945406478		87
+750	7655	What is the mood?	What is the mood? 	368713	1471945406590	1471945406676		72
+750	7655	What is the mood?	What is the mood? 	368719	1471945406713	1471945406776		65
+750	7655	What is the mood?	What is the mood? 	368724	1471945406809	1471945406879		84
+750	7655	What is the mood?	What is the mood? 	368730	1471945406921	1471945406984		32
+750	7655	What is the mood?	What is the mood? 	368753	1471945407061	1471945407148		73
+750	7655	What is the mood?	What is the mood? 	368755	1471945407169	1471945407224		83
+750	7655	What is the mood?	What is the mood? 	368759	1471945407275	1471945407353		32
+750	7655	What is the mood?	What is the mood? 	368762	1471945407446	1471945407525		84
+750	7655	What is the mood?	What is the mood? 	368767	1471945407564	1471945407651		72
+750	7655	What is the mood?	What is the mood? 	368812	1471945407713	1471945407776		69
+750	7655	What is the mood?	What is the mood? 	368813	1471945407850	1471945407937		32
+750	7655	What is the mood?	What is the mood? 	368814	1471945408341	1471945408420		77
+750	7655	What is the mood?	What is the mood? 	368815	1471945408508	1471945408563		79
+750	7655	What is the mood?	What is the mood? 	368816	1471945408650	1471945408721		79
+750	7655	What is the mood?	What is the mood? 	368832	1471945408822	1471945408909		68
+750	7655	What is the mood?	What is the mood? 	368835	1471945409001	1471945409235	SHIFT	16
+750	7655	What is the mood?	What is the mood? 	368837	1471945409100	1471945409235		191
+750	7655	What is the mood?	What is the mood? 	368840	1471945409338	1471945409409		32
+750	7660	Are you going to call?	Are you going to call?	368963	1471945411670	1471945411987	SHIFT	16
+750	7660	Are you going to call?	Are you going to call?	368960	1471945411846	1471945411948		65
+750	7660	Are you going to call?	Are you going to call?	368968	1471945412140	1471945412225		82
+750	7660	Are you going to call?	Are you going to call?	368971	1471945412202	1471945412272		69
+750	7660	Are you going to call?	Are you going to call?	368974	1471945412338	1471945412409		32
+750	7660	Are you going to call?	Are you going to call?	368978	1471945412590	1471945412660		89
+750	7660	Are you going to call?	Are you going to call?	368998	1471945412725	1471945412763		79
+750	7660	Are you going to call?	Are you going to call?	368999	1471945412873	1471945412944		85
+750	7660	Are you going to call?	Are you going to call?	369000	1471945413001	1471945413072		32
+750	7660	Are you going to call?	Are you going to call?	369001	1471945413221	1471945413284		71
+750	7660	Are you going to call?	Are you going to call?	369002	1471945413316	1471945413387		79
+750	7660	Are you going to call?	Are you going to call?	369015	1471945413473	1471945413544		73
+750	7660	Are you going to call?	Are you going to call?	369019	1471945413630	1471945413701		78
+750	7660	Are you going to call?	Are you going to call?	369024	1471945413732	1471945413787		71
+750	7660	Are you going to call?	Are you going to call?	369029	1471945413804	1471945413875		32
+750	7660	Are you going to call?	Are you going to call?	369036	1471945413952	1471945414006		84
+750	7660	Are you going to call?	Are you going to call?	369055	1471945414031	1471945414118		79
+750	7660	Are you going to call?	Are you going to call?	369058	1471945414166	1471945414245		32
+750	7660	Are you going to call?	Are you going to call?	369061	1471945414313	1471945414383		67
+750	7660	Are you going to call?	Are you going to call?	369064	1471945414501	1471945414585		65
+750	7660	Are you going to call?	Are you going to call?	369077	1471945414582	1471945414637		76
+750	7660	Are you going to call?	Are you going to call?	369079	1471945414700	1471945414771		76
+750	7660	Are you going to call?	Are you going to call?	369081	1471945414862	1471945415019	SHIFT	16
+750	7660	Are you going to call?	Are you going to call?	369083	1471945414961	1471945415095		191
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369172	1471945417029	1471945417250	SHIFT	16
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369173	1471945417215	1471945417309		73
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369174	1471945417350	1471945417428		32
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369175	1471945417504	1471945417567		87
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369176	1471945417584	1471945417654		73
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369177	1471945417758	1471945417813		76
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369205	1471945417892	1471945417955		76
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369207	1471945418018	1471945418081		32
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369212	1471945418175	1471945418245		72
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369215	1471945418274	1471945418353		65
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369219	1471945418410	1471945418488		66
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369242	1471945418745	1471945418824		8
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369243	1471945418989	1471945419084		78
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369244	1471945419170	1471945419225		68
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369245	1471945419291	1471945419377		76
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369247	1471945419430	1471945419500		69
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369268	1471945419519	1471945419589		32
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369269	1471945419682	1471945419755		84
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369270	1471945419753	1471945419862		72
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369272	1471945419832	1471945419941		73
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369274	1471945420026	1471945420081		83
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369289	1471945420108	1471945420194		32
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369291	1471945420253	1471945420332		65
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369295	1471945420477	1471945420548		70
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369299	1471945420675	1471945420738		84
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369302	1471945420896	1471945420983		69
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369334	1471945421070	1471945421141		82
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369339	1471945421220	1471945421315		78
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369344	1471945421347	1471945421418		79
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369349	1471945421569	1471945421632		79
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369353	1471945421694	1471945421789		78
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369356	1471945421917	1471945421972		190
+750	7663	I will handle this afternoon.	I will handle this afternoon. 	369358	1471945422035	1471945422146		32
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369539	1471945427124	1471945427410	SHIFT	16
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369544	1471945427350	1471945427428		73
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369549	1471945427493	1471945427571		32
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369553	1471945427694	1471945427757		65
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369557	1471945427998	1471945428077		77
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369560	1471945428174	1471945428245		32
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369584	1471945428338	1471945428408		78
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369587	1471945428449	1471945428535		79
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369590	1471945428572	1471945428628		84
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369594	1471945428717	1471945428804		32
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369597	1471945428904	1471945428970		67
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369636	1471945428968	1471945429046		79
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369638	1471945429156	1471945429251		78
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369640	1471945429354	1471945429425		86
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369641	1471945429634	1471945429705		8
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369642	1471945429757	1471945429844		67
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369643	1471945429845	1471945430017		69
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369667	1471945429980	1471945430073		82
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369671	1471945430208	1471945430312		78
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369676	1471945430374	1471945430452		69
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369681	1471945430579	1471945430634		68
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369686	1471945430716	1471945430795		32
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369692	1471945430863	1471945430933		87
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369700	1471945430990	1471945431069		73
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369704	1471945431139	1471945431194		84
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369708	1471945431209	1471945431280		72
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369712	1471945431322	1471945431384		32
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369718	1471945431437	1471945431494		84
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369787	1471945431492	1471945431562		72
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369789	1471945431664	1471945431727		69
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369792	1471945431841	1471945431895		32
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369798	1471945431986	1471945432390	SHIFT	16
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369795	1471945432203	1471945432274		66
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369800	1471945432522	1471945432617		8
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369802	1471945433018	1471945433319	SHIFT	16
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369839	1471945433252	1471945433345		66
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369842	1471945433472	1471945433551		82
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369844	1471945433664	1471945433742		79
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369846	1471945433994	1471945434065		87
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369849	1471945434106	1471945434185		78
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369852	1471945434274	1471945434352		32
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369868	1471945434613	1471945434692		77
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369869	1471945434788	1471945434851		79
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369871	1471945434921	1471945435016		78
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369873	1471945435078	1471945435156		69
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369876	1471945435205	1471945435275		89
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369902	1471945435515	1471945435586		190
+750	7672	I am not concerned with the Brown money.	I am not concerned with the Brown money. 	369904	1471945435674	1471945435753		32
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370011	1471945437255	1471945437500	SHIFT	16
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370014	1471945437441	1471945437534		72
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370019	1471945437598	1471945437701		79
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370020	1471945437802	1471945437880		87
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370021	1471945437976	1471945438031		86
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370023	1471945438336	1471945438423		8
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370030	1471945438523	1471945438610		69
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370034	1471945438689	1471945438768		86
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370039	1471945438894	1471945438997		69
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370049	1471945439077	1471945439203		82
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370056	1471945439316	1471945439378		188
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370095	1471945439482	1471945439554		32
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370100	1471945440067	1471945440146	SHIFT	16
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370103	1471945440419	1471945440466		72
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370107	1471945440640	1471945440727		69
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370112	1471945440880	1471945440975		222
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370114	1471945441067	1471945441146		83
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370156	1471945441220	1471945441307		32
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370157	1471945442127	1471945442296		78
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370160	1471945442294	1471945442438		79
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370163	1471945442419	1471945442505		84
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370165	1471945442571	1471945442673		32
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370208	1471945443068	1471945443139		87
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370209	1471945443221	1471945443339		79
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370212	1471945443481	1471945443559		84
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370215	1471945443785	1471945443896		8
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370218	1471945443932	1471945444043		82
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370253	1471945444146	1471945444224		84
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370254	1471945444194	1471945444287		72
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370255	1471945444360	1471945444495		32
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370256	1471945444978	1471945445040		83
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370257	1471945445096	1471945445168		84
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370281	1471945445229	1471945445293		65
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370285	1471945445309	1471945445441		82
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370289	1471945445419	1471945445560		84
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370292	1471945446128	1471945446206		73
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370295	1471945446277	1471945446372		78
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370323	1471945446402	1471945446465		71
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370324	1471945446515	1471945446601		32
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370326	1471945447175	1471945447253		79
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370328	1471945447371	1471945447442		78
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370331	1471945447539	1471945447634		32
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370370	1471945447727	1471945447798		89
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370371	1471945447821	1471945447909		79
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370374	1471945447987	1471945448089		85
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370376	1471945448151	1471945448223		82
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370379	1471945448320	1471945448382		32
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370448	1471945449032	1471945449429	SHIFT	16
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370445	1471945449289	1471945449344		70
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370452	1471945449629	1471945449731		65
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370455	1471945449748	1471945449827		78
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370459	1471945449978	1471945450048		84
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370461	1471945450118	1471945450197		65
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370498	1471945450316	1471945450403		83
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370502	1471945450467	1471945450530		89
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370506	1471945450635	1471945450730		32
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370511	1471945451198	1471945451284		84
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370512	1471945451347	1471945451418		69
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370534	1471945451591	1471945451678		65
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370535	1471945451911	1471945451974		77
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370536	1471945452102	1471945452181		190
+750	7685	However, he's not worth starting on your Fantasy team.	However, he's not worth starting on your Fantasy team. 	370537	1471945452277	1471945452339		32
+750	7698	Are you being a baby?	Are you being a baby?	370619	1471945454313	1471945454581	SHIFT	16
+750	7698	Are you being a baby?	Are you being a baby?	370621	1471945454465	1471945454582		65
+750	7698	Are you being a baby?	Are you being a baby?	370625	1471945454735	1471945454812		82
+750	7698	Are you being a baby?	Are you being a baby?	370628	1471945454781	1471945454851		69
+750	7698	Are you being a baby?	Are you being a baby?	370630	1471945454917	1471945455004		32
+750	7698	Are you being a baby?	Are you being a baby?	370634	1471945455201	1471945455263		89
+750	7698	Are you being a baby?	Are you being a baby?	370639	1471945455351	1471945455390		79
+750	7698	Are you being a baby?	Are you being a baby?	370641	1471945455420	1471945455483		85
+750	7698	Are you being a baby?	Are you being a baby?	370644	1471945455588	1471945455667		32
+750	7698	Are you being a baby?	Are you being a baby?	370646	1471945455799	1471945455886		66
+750	7698	Are you being a baby?	Are you being a baby?	370648	1471945455949	1471945456011		69
+750	7698	Are you being a baby?	Are you being a baby?	370673	1471945456052	1471945456123		73
+750	7698	Are you being a baby?	Are you being a baby?	370675	1471945456241	1471945456344		78
+750	7698	Are you being a baby?	Are you being a baby?	370677	1471945456382	1471945456453		71
+750	7698	Are you being a baby?	Are you being a baby?	370679	1471945456502	1471945456613		32
+750	7698	Are you being a baby?	Are you being a baby?	370681	1471945456713	1471945456799		65
+750	7698	Are you being a baby?	Are you being a baby?	370729	1471945456850	1471945456962		32
+750	7698	Are you being a baby?	Are you being a baby?	370734	1471945457373	1471945457460		66
+750	7698	Are you being a baby?	Are you being a baby?	370738	1471945457481	1471945457544		65
+750	7698	Are you being a baby?	Are you being a baby?	370742	1471945457593	1471945457671		66
+750	7698	Are you being a baby?	Are you being a baby?	370745	1471945457790	1471945457870		89
+750	7698	Are you being a baby?	Are you being a baby?	370751	1471945458058	1471945458207	SHIFT	16
+750	7698	Are you being a baby?	Are you being a baby?	370754	1471945458157	1471945458298		191

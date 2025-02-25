@@ -1,0 +1,620 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+733	8302	I have a request.	I have a request.	398502	1471946351191	1471946351535	SHIFT	16
+733	8302	I have a request.	I have a request.	398503	1471946351466	1471946351558	I	73
+733	8302	I have a request.	I have a request.	398505	1471946351626	1471946351719	 	32
+733	8302	I have a request.	I have a request.	398507	1471946351751	1471946351854	h	72
+733	8302	I have a request.	I have a request.	398511	1471946351871	1471946352000	a	65
+733	8302	I have a request.	I have a request.	398525	1471946351985	1471946352079	v	86
+733	8302	I have a request.	I have a request.	398529	1471946352109	1471946352198	e	69
+733	8302	I have a request.	I have a request.	398533	1471946352239	1471946352324	 	32
+733	8302	I have a request.	I have a request.	398536	1471946352357	1471946352491	a	65
+733	8302	I have a request.	I have a request.	398540	1471946352509	1471946352586	 	32
+733	8302	I have a request.	I have a request.	398543	1471946352629	1471946352690	r	82
+733	8302	I have a request.	I have a request.	398584	1471946352806	1471946352896	e	69
+733	8302	I have a request.	I have a request.	398588	1471946353067	1471946353218	q	81
+733	8302	I have a request.	I have a request.	398594	1471946353252	1471946353344	u	85
+733	8302	I have a request.	I have a request.	398598	1471946353379	1471946353456	e	69
+733	8302	I have a request.	I have a request.	398600	1471946353546	1471946353661	s	83
+733	8302	I have a request.	I have a request.	398620	1471946353650	1471946353734	t	84
+733	8302	I have a request.	I have a request.	398622	1471946354311	1471946354392	.	190
+733	8310	The troops just walked in.	The troops just walked in.	398936	1471946360010	1471946360309	SHIFT	16
+733	8310	The troops just walked in.	The troops just walked in.	398940	1471946360236	1471946360319	T	84
+733	8310	The troops just walked in.	The troops just walked in.	398943	1471946360410	1471946360517	h	72
+733	8310	The troops just walked in.	The troops just walked in.	398945	1471946360540	1471946360635	e	69
+733	8310	The troops just walked in.	The troops just walked in.	398947	1471946360698	1471946360791	 	32
+733	8310	The troops just walked in.	The troops just walked in.	398948	1471946360805	1471946360879	t	84
+733	8310	The troops just walked in.	The troops just walked in.	398981	1471946360975	1471946361065	r	82
+733	8310	The troops just walked in.	The troops just walked in.	398986	1471946361150	1471946361218	o	79
+733	8310	The troops just walked in.	The troops just walked in.	398991	1471946361301	1471946361372	o	79
+733	8310	The troops just walked in.	The troops just walked in.	398995	1471946361464	1471946361551	p	80
+733	8310	The troops just walked in.	The troops just walked in.	399000	1471946361625	1471946361733	s	83
+733	8310	The troops just walked in.	The troops just walked in.	399054	1471946361788	1471946361880	 	32
+733	8310	The troops just walked in.	The troops just walked in.	399055	1471946362106	1471946362139	j	74
+733	8310	The troops just walked in.	The troops just walked in.	399058	1471946363331	1471946363412	u	85
+733	8310	The troops just walked in.	The troops just walked in.	399061	1471946363492	1471946363567	s	83
+733	8310	The troops just walked in.	The troops just walked in.	399064	1471946363610	1471946363729	t	84
+733	8310	The troops just walked in.	The troops just walked in.	399099	1471946363709	1471946363799	 	32
+733	8310	The troops just walked in.	The troops just walked in.	399103	1471946363865	1471946363944	w	87
+733	8310	The troops just walked in.	The troops just walked in.	399109	1471946364094	1471946364221	a	65
+733	8310	The troops just walked in.	The troops just walked in.	399111	1471946364261	1471946364352	l	76
+733	8310	The troops just walked in.	The troops just walked in.	399115	1471946364627	1471946364710	k	75
+733	8310	The troops just walked in.	The troops just walked in.	399119	1471946364749	1471946364829	e	69
+733	8310	The troops just walked in.	The troops just walked in.	399178	1471946365318	1471946365420	d	68
+733	8310	The troops just walked in.	The troops just walked in.	399181	1471946365479	1471946365589	 	32
+733	8310	The troops just walked in.	The troops just walked in.	399185	1471946365599	1471946365681	i	73
+733	8310	The troops just walked in.	The troops just walked in.	399191	1471946365757	1471946365857	n	78
+733	8310	The troops just walked in.	The troops just walked in.	399199	1471946366254	1471946366338	.	190
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399560	1471946371471	1471946371760	SHIFT	16
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399555	1471946371675	1471946371751	I	73
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399564	1471946372181	1471946372250	'	222
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399568	1471946372445	1471946372550	m	77
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399578	1471946372632	1471946372722	 	32
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399581	1471946372772	1471946372859	w	87
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399614	1471946372909	1471946372989	o	79
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399616	1471946373066	1471946373141	r	82
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399618	1471946373252	1471946373334	k	75
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399619	1471946373427	1471946373493	i	73
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399621	1471946373630	1471946373718	n	78
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399719	1471946373793	1471946373875	g	71
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399721	1471946373933	1471946374020	 	32
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399723	1471946374082	1471946374172	i	73
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399726	1471946375016	1471946375100	BKSP	8
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399731	1471946375218	1471946375291	BKSP	8
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399735	1471946375495	1471946375572	o	79
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399738	1471946375679	1471946375795	n	78
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399752	1471946375844	1471946375930	 	32
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399754	1471946375944	1471946376027	t	84
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399758	1471946376079	1471946376166	h	72
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399762	1471946376213	1471946376310	e	69
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399768	1471946376319	1471946376401	 	32
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399814	1471946376463	1471946376570	l	76
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399820	1471946376631	1471946376702	i	73
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399824	1471946376861	1471946376955	q	81
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399829	1471946377034	1471946377102	u	85
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399831	1471946377167	1471946377250	i	73
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399883	1471946377405	1471946377482	d	68
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399888	1471946377541	1471946377629	i	73
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399892	1471946378253	1471946378322	t	84
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399895	1471946378392	1471946378477	y	89
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399897	1471946378653	1471946378722	 	32
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399951	1471946379208	1471946379294	f	70
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399955	1471946379355	1471946379430	o	79
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399963	1471946379508	1471946379572	r	82
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399973	1471946379684	1471946379752	e	69
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	399978	1471946379897	1471946380004	c	67
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	400001	1471946380132	1471946380241	a	65
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	400002	1471946380278	1471946380357	s	83
+733	8326	I'm working on a liquidity forecast.	I'm workingon the liquidity forecast	400003	1471946380377	1471946380449	t	84
+733	8340	What is the stock price doing?	What is the stock price doing?	400354	1471946385774	1471946386239	SHIFT	16
+733	8340	What is the stock price doing?	What is the stock price doing?	400356	1471946386105	1471946386247	W	87
+733	8340	What is the stock price doing?	What is the stock price doing?	400358	1471946386271	1471946386361	h	72
+733	8340	What is the stock price doing?	What is the stock price doing?	400360	1471946386395	1471946386518	a	65
+733	8340	What is the stock price doing?	What is the stock price doing?	400363	1471946386504	1471946386586	t	84
+733	8340	What is the stock price doing?	What is the stock price doing?	400367	1471946386644	1471946386736	 	32
+733	8340	What is the stock price doing?	What is the stock price doing?	400395	1471946386759	1471946386860	i	73
+733	8340	What is the stock price doing?	What is the stock price doing?	400398	1471946386849	1471946386946	s	83
+733	8340	What is the stock price doing?	What is the stock price doing?	400400	1471946386953	1471946387037	 	32
+733	8340	What is the stock price doing?	What is the stock price doing?	400404	1471946387105	1471946387182	t	84
+733	8340	What is the stock price doing?	What is the stock price doing?	400406	1471946387229	1471946387319	h	72
+733	8340	What is the stock price doing?	What is the stock price doing?	400426	1471946387345	1471946387433	e	69
+733	8340	What is the stock price doing?	What is the stock price doing?	400428	1471946387482	1471946387565	 	32
+733	8340	What is the stock price doing?	What is the stock price doing?	400430	1471946387618	1471946387719	s	83
+733	8340	What is the stock price doing?	What is the stock price doing?	400432	1471946387736	1471946387793	t	84
+733	8340	What is the stock price doing?	What is the stock price doing?	400436	1471946387918	1471946387988	o	79
+733	8340	What is the stock price doing?	What is the stock price doing?	400533	1471946388918	1471946388996	k	75
+733	8340	What is the stock price doing?	What is the stock price doing?	400536	1471946389369	1471946389432	BKSP	8
+733	8340	What is the stock price doing?	What is the stock price doing?	400538	1471946389693	1471946389764	c	67
+733	8340	What is the stock price doing?	What is the stock price doing?	400541	1471946389827	1471946389925	k	75
+733	8340	What is the stock price doing?	What is the stock price doing?	400545	1471946389974	1471946390061	 	32
+733	8340	What is the stock price doing?	What is the stock price doing?	400548	1471946390083	1471946390166	p	80
+733	8340	What is the stock price doing?	What is the stock price doing?	400593	1471946390267	1471946390333	r	82
+733	8340	What is the stock price doing?	What is the stock price doing?	400596	1471946390450	1471946390516	i	73
+733	8340	What is the stock price doing?	What is the stock price doing?	400602	1471946390774	1471946390856	c	67
+733	8340	What is the stock price doing?	What is the stock price doing?	400610	1471946390988	1471946391055	e	69
+733	8340	What is the stock price doing?	What is the stock price doing?	400616	1471946391142	1471946391232	 	32
+733	8340	What is the stock price doing?	What is the stock price doing?	400641	1471946391250	1471946391324	d	68
+733	8340	What is the stock price doing?	What is the stock price doing?	400642	1471946391390	1471946391496	o	79
+733	8340	What is the stock price doing?	What is the stock price doing?	400643	1471946391558	1471946391636	i	73
+733	8340	What is the stock price doing?	What is the stock price doing?	400644	1471946391760	1471946391824	n	78
+733	8340	What is the stock price doing?	What is the stock price doing?	400645	1471946391924	1471946391988	g	71
+733	8340	What is the stock price doing?	What is the stock price doing?	400650	1471946392100	1471946392318	SHIFT	16
+733	8340	What is the stock price doing?	What is the stock price doing?	400652	1471946392237	1471946392359	?	191
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	400941	1471946396732	1471946397084	SHIFT	16
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	400933	1471946396986	1471946397076	I	73
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	400945	1471946397158	1471946397258	 	32
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	400947	1471946397346	1471946397444	a	65
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	400949	1471946397484	1471946397602	m	77
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	400950	1471946397646	1471946397740	 	32
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401012	1471946397824	1471946397910	s	83
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401016	1471946397972	1471946398059	u	85
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401021	1471946398136	1471946398197	r	82
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401026	1471946398282	1471946398383	p	80
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401033	1471946398804	1471946398879	r	82
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401089	1471946398965	1471946399033	i	73
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401096	1471946399196	1471946399297	s	83
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401105	1471946399410	1471946399481	e	69
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401114	1471946399588	1471946399675	d	68
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401122	1471946400202	1471946400294	 	32
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401149	1471946400451	1471946400536	s	83
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401154	1471946400616	1471946400691	u	85
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401158	1471946400760	1471946400835	c	67
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401161	1471946400884	1471946401003	h	72
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401184	1471946400989	1471946401090	 	32
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401188	1471946401099	1471946401178	i	73
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401193	1471946401270	1471946401377	n	78
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401201	1471946401402	1471946401488	c	67
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401206	1471946401546	1471946401589	i	73
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401212	1471946401656	1471946401756	d	68
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401254	1471946401835	1471946401925	e	69
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401257	1471946402001	1471946402087	n	78
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401264	1471946402158	1471946402228	t	84
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401269	1471946402587	1471946402662	 	32
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401272	1471946402821	1471946402898	c	67
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401390	1471946403184	1471946403268	u	85
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401392	1471946403550	1471946403603	BKSP	8
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401393	1471946403710	1471946403775	BKSP	8
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401396	1471946404442	1471946404526	c	67
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401402	1471946404582	1471946404689	o	79
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401405	1471946404771	1471946404854	u	85
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401408	1471946404975	1471946405062	l	76
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401488	1471946405144	1471946405221	d	68
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401493	1471946405521	1471946405609	 	32
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401497	1471946405849	1471946405927	n	78
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401502	1471946406017	1471946406104	o	79
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401506	1471946406143	1471946406216	t	84
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401523	1471946406259	1471946406341	 	32
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401526	1471946406432	1471946406511	h	72
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401530	1471946406572	1471946406678	a	65
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401534	1471946406745	1471946406810	v	86
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401540	1471946406897	1471946406978	e	69
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401656	1471946407130	1471946407210	 	32
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401663	1471946407397	1471946407476	b	66
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401667	1471946407531	1471946407595	e	69
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401670	1471946407687	1471946407762	e	69
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401674	1471946407839	1471946407943	n	78
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401660	1471946408040	1471946408126	 	32
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401665	1471946408341	1471946408429	p	80
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401668	1471946408520	1471946408579	r	82
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401671	1471946408699	1471946408772	e	69
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401675	1471946408979	1471946409058	v	86
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401717	1471946409105	1471946409184	e	69
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401721	1471946409212	1471946409287	n	78
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401725	1471946409429	1471946409492	t	84
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401727	1471946409562	1471946409638	e	69
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401730	1471946409772	1471946409835	d	68
+733	8355	I am surprised such an incident could not have been prevented.	I am surprised such incident could not have been prevented.	401738	1471946409960	1471946410036	.	190
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402141	1471946415629	1471946416106	SHIFT	16
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402137	1471946415953	1471946416097	R	82
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402144	1471946416164	1471946416238	o	79
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402148	1471946416536	1471946416620	b	66
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402150	1471946416650	1471946416732	e	69
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402152	1471946416802	1471946416874	r	82
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402280	1471946416931	1471946417028	t	84
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402281	1471946417604	1471946417686	,	188
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402282	1471946417827	1471946417922	 	32
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402285	1471946418122	1471946418477	SHIFT	16
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402283	1471946418359	1471946418438	I	73
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402287	1471946419590	1471946419659	'	222
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402333	1471946420063	1471946420190	m	77
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402334	1471946420247	1471946420334	 	32
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402336	1471946420385	1471946420471	w	87
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402341	1471946420513	1471946420601	o	79
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402345	1471946420672	1471946420743	r	82
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402429	1471946421193	1471946421269	k	75
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402435	1471946421367	1471946421431	i	73
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402444	1471946421572	1471946421673	n	78
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402451	1471946421681	1471946421770	g	71
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402455	1471946421807	1471946421901	 	32
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402548	1471946421981	1471946422058	t	84
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402555	1471946422659	1471946422727	BKSP	8
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402560	1471946422954	1471946423025	o	79
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402564	1471946423141	1471946423256	n	78
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402567	1471946423291	1471946423381	 	32
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402570	1471946423396	1471946423464	t	84
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402596	1471946423543	1471946423636	h	72
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402597	1471946423625	1471946423744	i	73
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402598	1471946423795	1471946423877	s	83
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402599	1471946423916	1471946424007	 	32
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402600	1471946424104	1471946424160	r	82
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402644	1471946424256	1471946424334	i	73
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402647	1471946424444	1471946424522	g	71
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402650	1471946424568	1471946424654	h	72
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402653	1471946424696	1471946424766	t	84
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402655	1471946424812	1471946424883	 	32
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402774	1471946424958	1471946425058	n	78
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402777	1471946425104	1471946425177	o	79
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402782	1471946425242	1471946425301	w	87
+733	8374	Robert ,I'm working on this right now.	Robert, I'm working on this right now.	402787	1471946426456	1471946426532	.	190
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403131	1471946430956	1471946431284	SHIFT	16
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403130	1471946431208	1471946431275	T	84
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403134	1471946431384	1471946431476	h	72
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403137	1471946431499	1471946431577	e	69
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403141	1471946431657	1471946431742	 	32
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403146	1471946431764	1471946431856	c	67
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403142	1471946431893	1471946431982	h	72
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403147	1471946432020	1471946432090	i	73
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403154	1471946432195	1471946432279	l	76
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403158	1471946432299	1471946432388	d	68
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403163	1471946432502	1471946432560	r	82
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403225	1471946432668	1471946432749	e	69
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403227	1471946433322	1471946433402	n	78
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403229	1471946433596	1471946433669	 	32
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403232	1471946433910	1471946433980	w	87
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403236	1471946434046	1471946434111	i	73
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403266	1471946434224	1471946434286	l	76
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403269	1471946434366	1471946434470	l	76
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403272	1471946434505	1471946434597	 	32
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403275	1471946434660	1471946434741	e	69
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403278	1471946434788	1471946434867	n	78
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403302	1471946434939	1471946435005	t	84
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403306	1471946435137	1471946435241	e	69
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403309	1471946435332	1471946435413	r	82
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403313	1471946435496	1471946435568	t	84
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403317	1471946435630	1471946435734	a	65
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403438	1471946435758	1471946435825	i	73
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403440	1471946435934	1471946436055	n	78
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403442	1471946436099	1471946436182	 	32
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403444	1471946436363	1471946436431	y	89
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403448	1471946436498	1471946436570	o	79
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403431	1471946436679	1471946436756	u	85
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403437	1471946436931	1471946437014	 	32
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403441	1471946437285	1471946437371	w	87
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403443	1471946437444	1471946437536	h	72
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403446	1471946437563	1471946437648	i	73
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403502	1471946437765	1471946437853	l	76
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403505	1471946437924	1471946438000	e	69
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403508	1471946438100	1471946438168	 	32
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403510	1471946438696	1471946438759	y	89
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403513	1471946438868	1471946438977	o	79
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403539	1471946439023	1471946439135	u	85
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403546	1471946439146	1471946439233	 	32
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403556	1471946439284	1471946439389	w	87
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403560	1471946439476	1471946439608	a	65
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403608	1471946439597	1471946439668	i	73
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403610	1471946439786	1471946439855	t	84
+733	8396	The children will entertain you while you wait.	The children will entertain you while you wait.	403612	1471946440051	1471946440128	.	190
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	403998	1471946444490	1471946444863	SHIFT	16
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	403990	1471946444745	1471946444810	I	73
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404003	1471946445180	1471946445251	'	222
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404011	1471946445582	1471946445644	v	86
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404018	1471946445712	1471946445789	e	69
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404024	1471946445850	1471946445937	 	32
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404085	1471946446875	1471946446935	n	78
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404091	1471946447002	1471946447081	e	69
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404096	1471946447150	1471946447217	v	86
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404100	1471946447281	1471946447367	e	69
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404103	1471946447479	1471946447549	r	82
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404125	1471946447623	1471946447698	 	32
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404127	1471946447770	1471946447857	b	66
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404132	1471946447895	1471946447966	e	69
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404135	1471946448050	1471946448136	e	69
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404139	1471946448179	1471946448297	n	78
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404173	1471946448364	1471946448444	 	32
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404175	1471946448606	1471946448691	t	84
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404181	1471946448741	1471946448877	o	79
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404185	1471946448894	1471946448990	 	32
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404187	1471946449014	1471946449093	t	84
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404253	1471946449182	1471946449248	h	72
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404257	1471946449362	1471946449454	e	69
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404258	1471946449547	1471946449629	 	32
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404259	1471946449893	1471946449990	s	83
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404260	1471946450085	1471946450151	p	80
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404298	1471946450259	1471946450321	e	69
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404300	1471946450405	1471946450483	e	69
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404302	1471946450578	1471946450673	d	68
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404304	1471946450822	1471946450919	w	87
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404306	1471946451057	1471946451181	a	65
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404398	1471946451267	1471946451324	y	89
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404403	1471946451747	1471946451828	,	188
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404409	1471946452336	1471946452415	 	32
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404413	1471946452812	1471946452889	b	66
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404416	1471946452989	1471946453064	u	85
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404501	1471946453157	1471946453212	t	84
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404502	1471946454160	1471946454271	 	32
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404503	1471946454375	1471946454462	i	73
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404505	1471946454930	1471946455030	f	70
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404509	1471946455069	1471946455152	 	32
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404582	1471946455194	1471946455267	t	84
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404585	1471946455343	1471946455431	h	72
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404588	1471946455483	1471946455563	e	69
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404590	1471946456164	1471946456262	y	89
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404592	1471946456300	1471946456383	 	32
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404654	1471946456470	1471946456554	c	67
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404658	1471946456626	1471946456690	o	79
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404662	1471946456836	1471946456920	m	77
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404668	1471946457014	1471946457095	e	69
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404674	1471946457574	1471946457652	,	188
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404746	1471946458076	1471946458165	 	32
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404748	1471946458269	1471946458482	SHIFT	16
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404750	1471946458409	1471946458504	I	73
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404752	1471946458564	1471946458637	 	32
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404754	1471946458678	1471946458756	w	87
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404759	1471946458790	1471946458860	i	73
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404825	1471946458984	1471946459048	l	76
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404828	1471946459148	1471946459257	l	76
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404834	1471946459311	1471946459389	 	32
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404840	1471946459841	1471946459910	g	71
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404846	1471946459998	1471946460151	o	79
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404878	1471946460190	1471946460283	 	32
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404881	1471946460379	1471946460452	t	84
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404884	1471946460516	1471946460585	h	72
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404888	1471946460663	1471946460785	e	69
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404890	1471946460851	1471946460937	r	82
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404921	1471946461021	1471946461116	e	69
+733	8416	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	404925	1471946461409	1471946461476	.	190
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405149	1471946464579	1471946464876	SHIFT	16
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405154	1471946464823	1471946464897	T	84
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405161	1471946464985	1471946465086	h	72
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405166	1471946465100	1471946465181	e	69
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405172	1471946465224	1471946465315	y	89
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405180	1471946465350	1471946465438	 	32
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405207	1471946465598	1471946465690	m	77
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405208	1471946465727	1471946465822	a	65
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405210	1471946465868	1471946465977	y	89
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405214	1471946465984	1471946466069	 	32
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405219	1471946466155	1471946466256	w	87
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405294	1471946466363	1471946466507	a	65
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405298	1471946466539	1471946466610	n	78
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405303	1471946466690	1471946466786	t	84
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405307	1471946467081	1471946467145	 	32
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405311	1471946467279	1471946467340	t	84
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405364	1471946467440	1471946467531	o	79
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405366	1471946467595	1471946467674	 	32
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405371	1471946467819	1471946467887	d	68
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405376	1471946467961	1471946468023	i	73
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405381	1471946468261	1471946468335	c	67
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405552	1471946469692	1471946469779	BKSP	8
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405556	1471946470205	1471946470290	s	83
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405558	1471946470477	1471946470560	c	67
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405563	1471946470650	1471946470719	u	85
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405567	1471946470859	1471946470941	s	83
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405571	1471946471019	1471946471137	s	83
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405602	1471946471282	1471946471376	 	32
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405605	1471946471522	1471946471603	w	87
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405610	1471946471654	1471946471736	i	73
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405621	1471946471813	1471946471874	t	84
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405628	1471946471943	1471946472087	h	72
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405678	1471946472077	1471946472171	 	32
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405680	1471946472262	1471946472333	y	89
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405682	1471946472426	1471946472561	o	79
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405685	1471946472573	1471946472672	u	85
+733	8441	They may want to discuss with you.	They may want to discuss with you.	405689	1471946473286	1471946473361	.	190
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	405900	1471946476279	1471946476616	SHIFT	16
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	405896	1471946476533	1471946476607	I	73
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	405906	1471946476759	1471946476848	f	70
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	405911	1471946476894	1471946476991	 	32
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	405916	1471946477083	1471946477145	y	89
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	405922	1471946477242	1471946477401	o	79
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	405979	1471946477376	1471946477518	u	85
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	405984	1471946477487	1471946477591	 	32
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	405987	1471946477733	1471946477823	h	72
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	405989	1471946477850	1471946477986	a	65
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	405993	1471946478029	1471946478127	v	86
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	405996	1471946478150	1471946478238	e	69
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406080	1471946478328	1471946478412	 	32
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406083	1471946479110	1471946479206	q	81
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406087	1471946479250	1471946479320	u	85
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406094	1471946479403	1471946479473	e	69
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406101	1471946479576	1471946479663	s	83
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406197	1471946479652	1471946479724	t	84
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406200	1471946479857	1471946479916	i	73
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406203	1471946480035	1471946480119	o	79
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406207	1471946480246	1471946480329	n	78
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406209	1471946480793	1471946480872	s	83
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406212	1471946481381	1471946481493	,	188
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406255	1471946481558	1471946481654	 	32
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406260	1471946481700	1471946481789	p	80
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406266	1471946481880	1471946481970	l	76
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406272	1471946481997	1471946482091	e	69
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406277	1471946482206	1471946482378	a	65
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406330	1471946482360	1471946482488	s	83
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406333	1471946482596	1471946482668	e	69
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406337	1471946482745	1471946482825	 	32
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406342	1471946482925	1471946483035	s	83
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406344	1471946483150	1471946483203	e	69
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406349	1471946483306	1471946483382	n	78
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406429	1471946483459	1471946483541	d	68
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406431	1471946483630	1471946483718	 	32
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406433	1471946484200	1471946484300	a	65
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406437	1471946484330	1471946484453	n	78
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406441	1471946484485	1471946484575	 	32
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406466	1471946484642	1471946484715	e	69
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406472	1471946484764	1471946484880	m	77
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406477	1471946484919	1471946484995	a	65
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406480	1471946485044	1471946485112	i	73
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406484	1471946485215	1471946485325	l	76
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406554	1471946485451	1471946485537	 	32
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406556	1471946485796	1471946485868	t	84
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406558	1471946485964	1471946486061	o	79
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406560	1471946486120	1471946486215	 	32
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406586	1471946486315	1471946486833	SHIFT	16
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406562	1471946486671	1471946486799	E	69
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406587	1471946486914	1471946487003	n	78
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406588	1471946487079	1471946487151	r	82
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406589	1471946487213	1471946487296	o	79
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406591	1471946487397	1471946487475	n	78
+733	8459	If you have questions, please send an email to Enron.	If you have questions, please send an email to Enron.	406594	1471946487855	1471946487933	.	190
+733	8472	Let me know when you get this.	Let me know when you get this.	406801	1471946490819	1471946491136	SHIFT	16
+733	8472	Let me know when you get this.	Let me know when you get this.	406804	1471946491087	1471946491171	L	76
+733	8472	Let me know when you get this.	Let me know when you get this.	406810	1471946491269	1471946491313	e	69
+733	8472	Let me know when you get this.	Let me know when you get this.	406814	1471946491466	1471946491549	t	84
+733	8472	Let me know when you get this.	Let me know when you get this.	406817	1471946491628	1471946491711	 	32
+733	8472	Let me know when you get this.	Let me know when you get this.	406819	1471946491828	1471946491935	m	77
+733	8472	Let me know when you get this.	Let me know when you get this.	406850	1471946492005	1471946492081	e	69
+733	8472	Let me know when you get this.	Let me know when you get this.	406853	1471946492337	1471946492437	 	32
+733	8472	Let me know when you get this.	Let me know when you get this.	406856	1471946492498	1471946492595	k	75
+733	8472	Let me know when you get this.	Let me know when you get this.	406858	1471946492649	1471946492777	n	78
+733	8472	Let me know when you get this.	Let me know when you get this.	406861	1471946492817	1471946492904	o	79
+733	8472	Let me know when you get this.	Let me know when you get this.	406949	1471946492992	1471946493076	w	87
+733	8472	Let me know when you get this.	Let me know when you get this.	406952	1471946493473	1471946493547	 	32
+733	8472	Let me know when you get this.	Let me know when you get this.	406956	1471946494123	1471946494208	w	87
+733	8472	Let me know when you get this.	Let me know when you get this.	406959	1471946494395	1471946494477	h	72
+733	8472	Let me know when you get this.	Let me know when you get this.	406964	1471946494540	1471946494616	e	69
+733	8472	Let me know when you get this.	Let me know when you get this.	407006	1471946494687	1471946494793	n	78
+733	8472	Let me know when you get this.	Let me know when you get this.	407010	1471946494879	1471946494965	 	32
+733	8472	Let me know when you get this.	Let me know when you get this.	407013	1471946495265	1471946495330	y	89
+733	8472	Let me know when you get this.	Let me know when you get this.	407015	1471946495444	1471946495549	o	79
+733	8472	Let me know when you get this.	Let me know when you get this.	407020	1471946495586	1471946495706	u	85
+733	8472	Let me know when you get this.	Let me know when you get this.	407091	1471946495689	1471946495766	 	32
+733	8472	Let me know when you get this.	Let me know when you get this.	407094	1471946496134	1471946496217	g	71
+733	8472	Let me know when you get this.	Let me know when you get this.	407097	1471946496269	1471946496353	e	69
+733	8472	Let me know when you get this.	Let me know when you get this.	407101	1471946496432	1471946496523	t	84
+733	8472	Let me know when you get this.	Let me know when you get this.	407103	1471946496588	1471946496674	 	32
+733	8472	Let me know when you get this.	Let me know when you get this.	407106	1471946496877	1471946496946	t	84
+733	8472	Let me know when you get this.	Let me know when you get this.	407147	1471946497013	1471946497117	h	72
+733	8472	Let me know when you get this.	Let me know when you get this.	407149	1471946497153	1471946497233	i	73
+733	8472	Let me know when you get this.	Let me know when you get this.	407151	1471946497347	1471946497391	s	83
+733	8472	Let me know when you get this.	Let me know when you get this.	407153	1471946497615	1471946497683	.	190
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407338	1471946499768	1471946500066	SHIFT	16
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407342	1471946499982	1471946500087	L	76
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407349	1471946500240	1471946500298	y	89
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407354	1471946500702	1471946500767	n	78
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407359	1471946500846	1471946500911	n	78
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407364	1471946501108	1471946501199	,	188
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407442	1471946501617	1471946501679	 	32
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407448	1471946502219	1471946502288	g	71
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407456	1471946502388	1471946502493	o	79
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407463	1471946502573	1471946502644	t	84
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407467	1471946502759	1471946502865	 	32
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407514	1471946503242	1471946503318	t	84
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407517	1471946503361	1471946503489	o	79
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407520	1471946503513	1471946503602	 	32
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407523	1471946503644	1471946503721	t	84
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407525	1471946503787	1471946503861	h	72
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407572	1471946503896	1471946503992	e	69
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407575	1471946504091	1471946504167	 	32
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407579	1471946504467	1471946504544	o	79
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407582	1471946504645	1471946504719	f	70
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407585	1471946504793	1471946504882	f	70
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407612	1471946504934	1471946505006	i	73
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407615	1471946505013	1471946505123	c	67
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407619	1471946505225	1471946505319	e	69
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407623	1471946505365	1471946505447	 	32
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407625	1471946505528	1471946505636	b	66
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407812	1471946505690	1471946505733	o	79
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407816	1471946506156	1471946506253	x	88
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407820	1471946507207	1471946507294	.	190
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407824	1471946507650	1471946507711	BKSP	8
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407828	1471946507813	1471946507890	BKSP	8
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407832	1471946507974	1471946508056	BKSP	8
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407833	1471946508147	1471946508235	BKSP	8
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407838	1471946509330	1471946509639	SHIFT	16
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407835	1471946509518	1471946509599	O	79
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407879	1471946509705	1471946510342	SHIFT	16
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407841	1471946510116	1471946510188	K	75
+733	8487	Lynn, got to the office OK.	Lynn, got to the office OK.	407882	1471946510902	1471946510988	.	190
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408103	1471946514296	1471946514587	SHIFT	16
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408106	1471946514518	1471946514603	H	72
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408109	1471946514677	1471946514754	e	69
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408111	1471946514808	1471946514903	 	32
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408114	1471946514925	1471946515016	c	67
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408118	1471946515119	1471946515254	a	65
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408144	1471946515228	1471946515354	n	78
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408149	1471946515342	1471946515435	 	32
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408152	1471946515502	1471946515594	b	66
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408155	1471946515634	1471946515714	e	69
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408157	1471946515750	1471946515832	 	32
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408160	1471946515883	1471946515955	e	69
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408177	1471946516106	1471946516222	x	88
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408179	1471946516305	1471946516366	p	80
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408182	1471946516465	1471946516554	l	76
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408184	1471946516635	1471946516714	o	79
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408187	1471946516800	1471946516893	s	83
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408248	1471946516960	1471946517036	i	73
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408249	1471946517271	1471946517345	v	86
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408250	1471946517424	1471946517514	e	69
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408251	1471946518227	1471946518344	,	188
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408252	1471946518432	1471946518529	 	32
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408313	1471946518607	1471946518684	b	66
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408317	1471946518801	1471946518891	u	85
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408324	1471946519003	1471946519076	t	84
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408327	1471946519164	1471946519252	 	32
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408330	1471946519655	1471946519744	h	72
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408375	1471946519790	1471946519870	e	69
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408379	1471946519921	1471946520020	 	32
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408384	1471946520065	1471946520166	i	73
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408388	1471946520212	1471946520300	s	83
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408390	1471946520356	1471946520435	 	32
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408457	1471946520572	1471946520683	a	65
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408461	1471946520748	1471946520827	l	76
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408465	1471946521113	1471946521218	s	83
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408467	1471946521358	1471946521445	o	79
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408471	1471946521589	1471946521664	 	32
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408515	1471946522061	1471946522132	e	69
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408518	1471946522316	1471946522377	r	82
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408520	1471946522448	1471946522539	r	82
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408523	1471946522690	1471946522840	a	65
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408571	1471946522825	1471946522899	t	84
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408575	1471946522987	1471946523058	i	73
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408578	1471946523143	1471946523201	c	67
+733	8500	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	408582	1471946523546	1471946523622	.	190
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408716	1471946525929	1471946526284	SHIFT	16
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408719	1471946526231	1471946526319	M	77
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408723	1471946526389	1471946526490	a	65
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408727	1471946526589	1471946526656	y	89
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408731	1471946526805	1471946526888	b	66
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408734	1471946526941	1471946527021	e	69
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408760	1471946527103	1471946527190	 	32
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408761	1471946527500	1471946527582	y	89
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408763	1471946527672	1471946527797	o	79
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408765	1471946527820	1471946527947	u	85
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408805	1471946527937	1471946528035	 	32
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408808	1471946528070	1471946528167	c	67
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408812	1471946528250	1471946528355	a	65
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408814	1471946528378	1471946528489	n	78
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408818	1471946528516	1471946528619	 	32
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408823	1471946528936	1471946529059	l	76
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408852	1471946529048	1471946529134	e	69
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408854	1471946529237	1471946529395	a	65
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408855	1471946529402	1471946529489	v	86
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408857	1471946529528	1471946529586	e	69
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408858	1471946529682	1471946529766	 	32
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408860	1471946529834	1471946529923	e	69
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408884	1471946530079	1471946530186	a	65
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408888	1471946530246	1471946530311	r	82
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408893	1471946530470	1471946530549	l	76
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408897	1471946530652	1471946530714	y	89
+733	8516	Maybe you can leave early.	Maybe you can leave early.	408902	1471946530914	1471946530984	.	190
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409047	1471946532864	1471946533117	SHIFT	16
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409050	1471946533050	1471946533138	I	73
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409054	1471946533220	1471946533303	 	32
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409058	1471946533417	1471946533449	h	72
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409061	1471946533867	1471946533996	a	65
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409064	1471946534017	1471946534100	v	86
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409127	1471946534146	1471946534222	e	69
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409128	1471946534312	1471946534388	 	32
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409129	1471946534526	1471946534635	a	65
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409131	1471946534673	1471946534753	l	76
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409133	1471946534862	1471946534931	r	82
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409138	1471946535039	1471946535137	e	69
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409140	1471946535250	1471946535366	a	65
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409142	1471946535382	1471946535468	d	68
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409144	1471946535533	1471946535613	y	89
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409146	1471946535737	1471946535819	 	32
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409165	1471946535936	1471946536045	a	65
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409167	1471946536107	1471946536175	p	80
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409171	1471946536263	1471946536350	p	80
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409175	1471946536418	1471946536490	r	82
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409179	1471946536604	1471946536687	o	79
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409217	1471946536943	1471946537020	v	86
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409219	1471946537113	1471946537200	e	69
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409221	1471946537329	1471946537410	d	68
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409223	1471946537869	1471946537954	 	32
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409225	1471946538037	1471946538150	a	65
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409250	1471946538179	1471946538259	n	78
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409253	1471946538344	1471946538434	d	68
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409256	1471946538484	1471946538554	 	32
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409260	1471946538619	1471946538705	f	70
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409265	1471946538912	1471946538997	o	79
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409313	1471946539108	1471946539187	r	82
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409318	1471946539468	1471946539570	w	87
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409321	1471946539738	1471946539867	a	65
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409329	1471946539953	1471946540025	r	82
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409333	1471946540123	1471946540215	d	68
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409465	1471946540316	1471946540385	e	69
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409466	1471946540655	1471946540735	.	190
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409467	1471946541546	1471946541612	BKSP	8
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409468	1471946541707	1471946541772	BKSP	8
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409469	1471946542552	1471946542621	e	69
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409471	1471946542722	1471946542805	d	68
+733	8521	I have already approved and forwarded.	I have already approved and forwarded.	409472	1471946543199	1471946543274	.	190

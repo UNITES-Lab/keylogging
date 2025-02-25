@@ -1,0 +1,898 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471665	1471947998045	1471947999106	SHIFT	16
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471660	1471947998986	1471947999067	T	84
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471668	1471947999170	1471947999258	h	72
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471672	1471947999267	1471947999371	e	69
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471675	1471947999458	1471947999554	r	82
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471677	1471947999674	1471947999738	e	69
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471759	1471948000531	1471948000603	=	187
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471763	1471948000551	1471948000618	BKSP	8
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471767	1471948000650	1471948000738	s	83
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471772	1471948000819	1471948000947	a	65
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471778	1471948001043	1471948001075	BKSP	8
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471783	1471948001346	1471948001434	BKSP	8
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471787	1471948001611	1471948001787	s	83
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471893	1471948001683	1471948001859	a	65
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471896	1471948001933	1471948002002	 	32
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471897	1471948002859	1471948002923	-	189
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471899	1471948003083	1471948003155	 	32
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471902	1471948004083	1471948004387	SHIFT	16
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471900	1471948004259	1471948004330	P	80
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471904	1471948004451	1471948004514	l	76
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471958	1471948004498	1471948004611	e	69
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471961	1471948005034	1471948005154	a	65
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471964	1471948005259	1471948005330	s	83
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471968	1471948005435	1471948005538	w	69
+959	9845	Theresa - Please resend.	Theresa - Please resend.	471973	1471948005546	1471948005626	 	32
+959	9845	Theresa - Please resend.	Theresa - Please resend.	472112	1471948006075	1471948006171	BKSP	8
+959	9845	Theresa - Please resend.	Theresa - Please resend.	472113	1471948006251	1471948006447	BKSP	8
+959	9845	Theresa - Please resend.	Theresa - Please resend.	472114	1471948006459	1471948006571	e	69
+959	9845	Theresa - Please resend.	Theresa - Please resend.	472116	1471948006692	1471948006747	 	32
+959	9845	Theresa - Please resend.	Theresa - Please resend.	472119	1471948006939	1471948007043	BKSP	8
+959	9845	Theresa - Please resend.	Theresa - Please resend.	472123	1471948007515	1471948007587	BKSP	8
+959	9845	Theresa - Please resend.	Theresa - Please resend.	472128	1471948007763	1471948007826	 	32
+959	9845	Theresa - Please resend.	Theresa - Please resend.	472131	1471948008194	1471948008267	r	82
+959	9845	Theresa - Please resend.	Theresa - Please resend.	472132	1471948008323	1471948008435	e	69
+959	9845	Theresa - Please resend.	Theresa - Please resend.	472207	1471948008955	1471948009067	s	83
+959	9845	Theresa - Please resend.	Theresa - Please resend.	472211	1471948009186	1471948009267	e	69
+959	9845	Theresa - Please resend.	Theresa - Please resend.	472215	1471948009331	1471948009402	n	78
+959	9845	Theresa - Please resend.	Theresa - Please resend.	472217	1471948009442	1471948009538	d	68
+959	9845	Theresa - Please resend.	Theresa - Please resend.	472219	1471948010491	1471948010578	.	190
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472370	1471948013675	1471948014138	SHIFT	16
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472373	1471948014042	1471948014171	E	69
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472375	1471948014195	1471948014266	v	86
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472378	1471948014299	1471948014410	e	69
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472381	1471948014554	1471948014643	r	82
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472383	1471948014739	1471948014818	y	89
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472429	1471948014963	1471948015035	 	32
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472433	1471948015331	1471948015643	SHIFT	16
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472437	1471948015571	1471948015690	E	69
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472440	1471948015795	1471948015875	r	82
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472443	1471948015963	1471948016034	o	79
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472445	1471948016170	1471948016243	n	78
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472636	1471948016347	1471948016443	 	32
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472640	1471948017187	1471948017355	BKSP	8
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472643	1471948017819	1471948017899	 	32
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472646	1471948018379	1471948018451	BKSP	8
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472648	1471948018531	1471948018803	BKSP	8
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472649	1471948018947	1471948019018	BKSP	8
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472650	1471948019116	1471948019195	BKSP	8
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472652	1471948019699	1471948019779	n	78
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472654	1471948019970	1471948020058	r	82
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472656	1471948020099	1471948020194	o	79
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472713	1471948020354	1471948020418	n	78
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472717	1471948020530	1471948020610	 	32
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472721	1471948021003	1471948021291	SHIFT	16
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472722	1471948021451	1471948021546	e	69
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472724	1471948021562	1471948021642	m	77
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472725	1471948022227	1471948022330	p	80
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472888	1471948023514	1471948023626	l	76
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472892	1471948023779	1471948023819	o	57
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472894	1471948024378	1471948024498	BKSP	8
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472897	1471948024563	1471948024634	BKSP	8
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472900	1471948024714	1471948024794	BKSP	8
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472903	1471948025618	1471948025706	l	76
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473133	1471948025859	1471948025930	i	73
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	472907	1471948025882	1471948025890	o	79
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473135	1471948026355	1471948026467	BKSP	8
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473137	1471948026539	1471948026634	BKSP	8
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473139	1471948026707	1471948026810	BKSP	8
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473142	1471948026835	1471948026923	BKSP	8
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473147	1471948028875	1471948028946	p	80
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473150	1471948029059	1471948029131	l	76
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473152	1471948029268	1471948029339	i	73
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473154	1471948029803	1471948029939	BKSP	8
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473155	1471948030147	1471948030219	o	79
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473156	1471948031611	1471948031683	y	89
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473188	1471948031747	1471948031843	e	69
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473190	1471948031931	1471948032051	e	69
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473192	1471948032091	1471948032163	 	32
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473193	1471948032691	1471948032779	h	72
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473195	1471948032795	1471948032915	a	65
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473236	1471948033044	1471948033146	s	83
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473237	1471948033139	1471948033211	 	32
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473238	1471948033411	1471948033539	a	65
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473239	1471948033587	1471948033683	n	78
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473241	1471948033771	1471948033891	 	32
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473309	1471948034187	1471948034267	i	73
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473310	1471948034627	1471948034747	n	78
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473313	1471948035683	1471948035771	t	84
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473316	1471948035779	1471948035883	e	69
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473319	1471948035980	1471948036067	r	82
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473401	1471948036291	1471948036379	n	78
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473403	1471948036507	1471948036619	e	69
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473406	1471948036867	1471948036955	r	82
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473409	1471948037163	1471948037243	 	32
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473413	1471948038027	1471948038147	e	69
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473519	1471948038195	1471948038282	m	77
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473522	1471948038436	1471948038555	a	65
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473528	1471948038779	1471948038875	BKSP	8
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473531	1471948038971	1471948039050	BKSP	8
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473537	1471948039171	1471948039251	BKSP	8
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473542	1471948039283	1471948039355	BKSP	8
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473546	1471948039459	1471948039523	BKSP	8
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473550	1471948040203	1471948040283	t	84
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473557	1471948040290	1471948040355	 	32
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473560	1471948041258	1471948041339	e	69
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473623	1471948041355	1471948041451	m	77
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473627	1471948042331	1471948042410	n	78
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473631	1471948042658	1471948042787	a	65
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473637	1471948042955	1471948043051	BKSP	8
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473642	1471948043115	1471948043211	BKSP	8
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473645	1471948043235	1471948043346	a	65
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473698	1471948043331	1471948043427	i	73
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473703	1471948043547	1471948043643	l	76
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473709	1471948043795	1471948043867	 	32
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473713	1471948044203	1471948044323	a	65
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473715	1471948044467	1471948044557	d	68
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473717	1471948044643	1471948044747	d	68
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473761	1471948044907	1471948045002	r	82
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473765	1471948045107	1471948045211	e	69
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473768	1471948045459	1471948045546	s	83
+959	9861	Every Enron employee has an internet email address.	Every Enron employee has an internet email address	473770	1471948045635	1471948045723	s	83
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	473911	1471948048771	1471948049171	SHIFT	16
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	473908	1471948049075	1471948049146	T	84
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	473914	1471948049219	1471948049314	a	65
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	473917	1471948049331	1471948049411	l	76
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	473920	1471948049540	1471948049602	k	75
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	473921	1471948049723	1471948049810	 	32
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	473999	1471948050211	1471948050323	y	89
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474002	1471948050347	1471948050418	o	79
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474007	1471948050603	1471948050675	 	32
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474013	1471948051059	1471948051203	t	84
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474023	1471948051483	1471948051586	BKSP	8
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474027	1471948051667	1471948051787	BKSP	8
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474031	1471948051803	1471948051898	BKSP	8
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474035	1471948052003	1471948052139	BKSP	8
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474039	1471948052531	1471948052651	t	84
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474087	1471948052659	1471948052731	o	79
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474090	1471948052876	1471948052947	 	32
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474091	1471948053051	1471948053147	y	89
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474094	1471948053243	1471948053347	o	79
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474097	1471948053930	1471948054002	u	85
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474143	1471948054170	1471948054242	 	32
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474145	1471948054474	1471948054578	s	83
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474147	1471948054690	1471948054803	o	79
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474149	1471948054875	1471948054954	o	79
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474151	1471948055099	1471948055163	n	78
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474299	1471948055787	1471948055850	 	32
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474300	1471948056250	1471948056330	,	188
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474301	1471948056483	1471948056555	 	32
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474302	1471948056771	1471948056874	BKSP	8
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474303	1471948057083	1471948057154	BKSP	8
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474304	1471948057235	1471948057323	BKSP	8
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474305	1471948058180	1471948058267	,	188
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474306	1471948058403	1471948058475	 	32
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474371	1471948058986	1471948059595	SHIFT	16
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474369	1471948059435	1471948059554	T	84
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474373	1471948059698	1471948059802	h	72
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474375	1471948059859	1471948060042	e	69
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474378	1471948060139	1471948060243	r	82
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474381	1471948060425	1471948060610	e	69
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474524	1471948062274	1471948062449	s	83
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474526	1471948062410	1471948062538	a	65
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474529	1471948062931	1471948063594	SHIFT	16
+959	9894	Talk to you soon, Theresa.	Talk to you soon, Theresa>	474527	1471948063489	1471948063578	>	190
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	474689	1471948066698	1471948067281	SHIFT	16
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	474694	1471948067217	1471948067313	D	68
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	474699	1471948067426	1471948067514	r	82
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	474704	1471948067682	1471948067770	o	79
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	474710	1471948067857	1471948067954	p	80
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	474713	1471948068106	1471948068186	 	32
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	474927	1471948068650	1471948068713	h	72
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	474930	1471948068841	1471948068921	i	73
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	474932	1471948069090	1471948069138	m	77
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	474934	1471948069346	1471948069418	 	32
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	474936	1471948072458	1471948072522	u	85
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475038	1471948072850	1471948072914	b	66
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475040	1471948073058	1471948073146	l	76
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475044	1471948073506	1471948073649	e	69
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475048	1471948073722	1471948073801	BKSP	8
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475051	1471948073858	1471948073969	BKSP	8
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475056	1471948074066	1471948074138	BKSP	8
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475060	1471948074938	1471948075009	n	78
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475063	1471948075146	1471948075210	l	76
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475143	1471948075233	1471948075337	e	69
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475146	1471948075514	1471948075610	BKSP	8
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475149	1471948075714	1471948075769	BKSP	8
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475153	1471948076779	1471948076898	l	76
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475159	1471948076938	1471948077050	e	69
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475161	1471948077194	1471948077289	s	83
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475167	1471948077394	1471948077498	s	83
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475217	1471948077522	1471948077634	 	32
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475222	1471948078266	1471948078378	y	89
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475229	1471948078386	1471948078490	o	79
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475236	1471948078498	1471948078610	u	85
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475242	1471948078691	1471948078770	 	32
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475278	1471948079011	1471948079122	p	80
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475282	1471948079219	1471948079314	l	76
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475283	1471948079346	1471948079450	a	65
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475285	1471948079514	1471948079618	y	89
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475286	1471948079771	1471948079866	 	32
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475332	1471948080283	1471948080434	i	73
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475334	1471948080426	1471948080514	n	78
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475337	1471948080618	1471948080714	 	32
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475340	1471948080778	1471948080906	a	65
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475344	1471948080930	1471948081018	 	32
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475402	1471948081713	1471948081786	k	75
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475406	1471948081858	1471948081954	e	69
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475411	1471948082051	1471948082146	e	69
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475416	1471948082202	1471948082306	p	80
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475420	1471948082483	1471948082578	e	69
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475472	1471948082666	1471948082778	r	82
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475478	1471948082794	1471948082890	 	32
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475482	1471948083035	1471948083153	l	76
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475486	1471948083306	1471948083385	e	69
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475489	1471948083811	1471948083946	a	65
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475587	1471948084787	1471948084985	g	71
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475595	1471948084962	1471948085098	u	85
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475600	1471948085138	1471948085242	e	69
+959	9913	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	475604	1471948085633	1471948085706	.	190
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475814	1471948088810	1471948089226	SHIFT	16
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475819	1471948089138	1471948089242	T	84
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475825	1471948089346	1471948089433	h	72
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475828	1471948089449	1471948089569	e	69
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475830	1471948089562	1471948089650	 	32
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475832	1471948090177	1471948090257	l	76
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475858	1471948090354	1471948090442	o	79
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475863	1471948090506	1471948090594	c	67
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475868	1471948090722	1471948090866	a	65
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475871	1471948090874	1471948090953	l	76
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475873	1471948091106	1471948091178	 	32
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475930	1471948091666	1471948091746	d	68
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475933	1471948091922	1471948092026	BKSP	8
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475937	1471948092082	1471948092161	f	70
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475943	1471948092226	1471948092330	o	79
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475947	1471948092370	1471948092465	r	82
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475950	1471948092570	1471948092649	e	69
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475977	1471948092794	1471948092882	c	67
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475979	1471948093018	1471948093097	a	65
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475980	1471948093386	1471948093514	s	83
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475981	1471948093522	1471948093602	t	84
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	475982	1471948093650	1471948093770	e	69
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476069	1471948093866	1471948093961	r	82
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476070	1471948094778	1471948094921	s	83
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476072	1471948094978	1471948095050	 	32
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476073	1471948095338	1471948095449	a	65
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476074	1471948095514	1471948095586	r	82
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476130	1471948095666	1471948095769	e	69
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476133	1471948095809	1471948095890	 	32
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476135	1471948096497	1471948096593	s	83
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476138	1471948096586	1471948096762	h	72
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476163	1471948096746	1471948096898	o	79
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476166	1471948096866	1471948096946	w	87
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476169	1471948097098	1471948097234	i	73
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476172	1471948097290	1471948097394	n	78
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476175	1471948097442	1471948097529	g	71
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476178	1471948097546	1471948097642	 	32
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476215	1471948098154	1471948098242	r	82
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476217	1471948098330	1471948098426	i	73
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476221	1471948098515	1471948098594	a	65
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476223	1471948098666	1471948098721	 	78
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476304	1471948099146	1471948099226	 	32
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476306	1471948099434	1471948099530	BKSP	8
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476309	1471948099578	1471948099858	BKSP	8
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476312	1471948099890	1471948100002	BKSP	8
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476316	1471948100082	1471948100162	BKSP	8
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476320	1471948100250	1471948100298	BKSP	8
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476324	1471948100529	1471948100666	a	65
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476327	1471948100802	1471948100881	i	73
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476329	1471948101034	1471948101074	n	78
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476331	1471948101338	1471948101418	 	32
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476403	1471948101794	1471948101914	f	70
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476408	1471948101906	1471948101994	o	79
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476412	1471948102050	1471948102138	r	82
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476415	1471948102161	1471948102250	 	32
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476499	1471948102746	1471948103026	SHIFT	16
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476420	1471948102906	1471948102994	T	84
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476503	1471948103106	1471948103202	h	72
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476507	1471948103266	1471948103370	a	65
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476511	1471948103378	1471948103577	n	78
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476517	1471948103538	1471948103682	k	75
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476522	1471948103689	1471948103809	s	83
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476578	1471948104706	1471948104826	h	71
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476584	1471948104898	1471948105066	i	73
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476592	1471948105339	1471948105457	BKSP	8
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476597	1471948105547	1471948105650	BKSP	8
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476601	1471948106362	1471948106458	i	73
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476603	1471948106546	1471948106666	v	86
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476632	1471948106698	1471948106762	i	73
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476636	1471948106882	1471948106970	n	78
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476643	1471948107074	1471948107169	g	71
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476648	1471948107306	1471948107393	 	32
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476652	1471948107978	1471948108081	h	72
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476794	1471948108105	1471948108202	e	69
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476797	1471948108321	1471948108385	r	82
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476805	1471948108857	1471948108858	e	69
+959	9932	The local forecasters are showing rain for Thanksgiving here.	The local forecasters are showing rain for Thanksgiving here.	476814	1471948108905	1471948108994	.	190
+959	9963	What a crazy day.	What a crazy day>	477164	1471948119409	1471948119969	SHIFT	16
+959	9963	What a crazy day.	What a crazy day>	477169	1471948119889	1471948120002	W	87
+959	9963	What a crazy day.	What a crazy day>	477177	1471948120090	1471948120178	h	72
+959	9963	What a crazy day.	What a crazy day>	477182	1471948120217	1471948120337	a	65
+959	9963	What a crazy day.	What a crazy day>	477186	1471948120345	1471948120401	t	84
+959	9963	What a crazy day.	What a crazy day>	477194	1471948120546	1471948120625	 	32
+959	9963	What a crazy day.	What a crazy day>	477227	1471948120730	1471948120873	a	65
+959	9963	What a crazy day.	What a crazy day>	477231	1471948120905	1471948120977	 	32
+959	9963	What a crazy day.	What a crazy day>	477235	1471948121146	1471948121249	c	67
+959	9963	What a crazy day.	What a crazy day>	477239	1471948121314	1471948121385	r	82
+959	9963	What a crazy day.	What a crazy day>	477245	1471948121449	1471948121577	a	65
+959	9963	What a crazy day.	What a crazy day>	477288	1471948121714	1471948121809	z	90
+959	9963	What a crazy day.	What a crazy day>	477292	1471948121858	1471948121945	y	89
+959	9963	What a crazy day.	What a crazy day>	477296	1471948122081	1471948122161	 	32
+959	9963	What a crazy day.	What a crazy day>	477300	1471948122257	1471948122337	d	68
+959	9963	What a crazy day.	What a crazy day>	477303	1471948122474	1471948122562	a	65
+959	9963	What a crazy day.	What a crazy day>	477334	1471948122586	1471948122657	y	89
+959	9963	What a crazy day.	What a crazy day>	477344	1471948122769	1471948123313	SHIFT	16
+959	9963	What a crazy day.	What a crazy day>	477338	1471948123129	1471948123226	>	190
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	477548	1471948126561	1471948127073	SHIFT	16
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	477552	1471948127001	1471948127113	H	72
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	477556	1471948127146	1471948127249	e	69
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	477564	1471948127346	1471948127425	r	82
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	477569	1471948127633	1471948127649	e	69
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	477575	1471948128105	1471948128250	s	83
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	477978	1471948128930	1471948129025	INSERT	45
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	477980	1471948129705	1471948129794	;	186
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	477981	1471948130281	1471948130385	INSERT	45
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	477982	1471948130586	1471948130690	HOME	36
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	477984	1471948131513	1471948131617	BKSP	8
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	477986	1471948131714	1471948131810	BKSP	8
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	477989	1471948132546	1471948132642	ARW_RIGHT	39
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	477991	1471948132746	1471948132817	ARW_RIGHT	39
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	477995	1471948132897	1471948133002	ARW_RIGHT	39
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	477999	1471948133082	1471948133170	ARW_RIGHT	39
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478003	1471948133266	1471948133362	ARW_RIGHT	39
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478011	1471948133433	1471948133521	ARW_RIGHT	39
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478015	1471948133594	1471948133674	ARW_RIGHT	39
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478017	1471948133874	1471948133961	BKSP	8
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478022	1471948134057	1471948134137	BKSP	8
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478029	1471948134234	1471948134289	BKSP	8
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478032	1471948134377	1471948134449	BKSP	8
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478039	1471948134553	1471948134617	BKSP	8
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478044	1471948135538	1471948135641	e	69
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478047	1471948135737	1471948135817	r	82
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478049	1471948135978	1471948136074	e	69
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478051	1471948137137	1471948137273	'	222
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478076	1471948138026	1471948138122	s	83
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478082	1471948138161	1471948138241	 	32
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478089	1471948138345	1471948138450	t	84
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478093	1471948138482	1471948138577	h	72
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478097	1471948138650	1471948138737	e	69
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478233	1471948138786	1471948138849	 	32
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478236	1471948139321	1471948139585	SHIFT	16
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478238	1471948139514	1471948139641	S	83
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478239	1471948140498	1471948140649	m	77
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478240	1471948140617	1471948140769	p	80
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478241	1471948141073	1471948141161	BKSP	8
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478242	1471948141242	1471948141337	BKSP	8
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478243	1471948141394	1471948141489	e	69
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478292	1471948141577	1471948141690	,	77
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478294	1471948141929	1471948142025	BKSP	8
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478297	1471948142105	1471948142193	BKSP	8
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478301	1471948142434	1471948142553	p	80
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478304	1471948143130	1471948143209	t	84
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478307	1471948143258	1471948143345	e	69
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478347	1471948143522	1471948143625	m	77
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478350	1471948143770	1471948143849	b	66
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478356	1471948143889	1471948143985	e	69
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478362	1471948144081	1471948144178	r	82
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478367	1471948144218	1471948144305	 	32
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478475	1471948144882	1471948145033	p	80
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478479	1471948145209	1471948145313	u	85
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478484	1471948145378	1471948145450	r	82
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478489	1471948146505	1471948146609	c	67
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478492	1471948146642	1471948146729	h	72
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478536	1471948146786	1471948146898	a	65
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478543	1471948147025	1471948147121	s	83
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478550	1471948147242	1471948147338	e	69
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478558	1471948147402	1471948147489	 	32
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478562	1471948147930	1471948148025	f	70
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478679	1471948148017	1471948148113	o	79
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478682	1471948148186	1471948148258	r	82
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478685	1471948148305	1471948148417	 	32
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478687	1471948148945	1471948149218	SHIFT	16
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478690	1471948149161	1471948149289	S	83
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478694	1471948149338	1471948149449	p	80
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478696	1471948150530	1471948150665	BKSP	8
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478699	1471948150762	1471948150866	e	69
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478751	1471948150938	1471948151025	p	80
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478752	1471948152089	1471948152177	t	84
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478753	1471948152273	1471948152369	e	69
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478754	1471948152441	1471948152521	m	77
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478755	1471948152689	1471948152753	b	66
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478793	1471948152778	1471948152874	e	69
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478796	1471948152970	1471948153057	r	82
+959	9970	Here's the September purchase for September.	Here's the September purchase for September.	478799	1471948153842	1471948153913	.	190
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	478995	1471948157609	1471948158809	SHIFT	16
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	478993	1471948157970	1471948158065	R	82
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479001	1471948159049	1471948159113	BKSP	8
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479011	1471948159225	1471948159576	SHIFT	16
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479006	1471948159450	1471948159521	T	84
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479015	1471948159633	1471948159730	h	72
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479017	1471948159762	1471948159849	e	69
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479021	1471948159889	1471948159961	 	32
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479056	1471948160258	1471948160362	a	65
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479064	1471948160505	1471948160585	d	68
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479068	1471948160673	1471948160745	v	86
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479071	1471948160801	1471948160896	a	65
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479073	1471948160977	1471948161056	n	78
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479096	1471948161201	1471948161268	t	84
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479097	1471948161418	1471948161529	a	65
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479098	1471948161577	1471948161649	g	71
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479099	1471948161681	1471948161753	e	69
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479100	1471948161817	1471948161889	 	32
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479158	1471948162929	1471948163016	i	73
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479161	1471948163049	1471948163145	s	83
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479166	1471948163169	1471948163241	 	32
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479170	1471948163377	1471948163464	e	69
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479175	1471948163497	1471948163593	n	78
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479218	1471948163769	1471948163913	o	79
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479219	1471948164241	1471948164329	u	85
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479220	1471948164489	1471948164545	g	71
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479221	1471948164641	1471948164722	h	72
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479222	1471948164938	1471948165017	 	32
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479291	1471948165857	1471948165969	f	70
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479293	1471948166001	1471948166097	o	79
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479296	1471948166121	1471948166209	r	82
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479299	1471948166289	1471948166361	 	32
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479303	1471948167145	1471948167553	SHIFT	16
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479373	1471948167473	1471948167585	F	70
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479375	1471948167593	1471948167697	o	79
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479377	1471948167778	1471948167865	r	82
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479379	1471948168128	1471948168249	d	68
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479381	1471948168289	1471948168369	 	32
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479383	1471948168913	1471948169025	m	77
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479420	1471948169033	1471948169217	o	79
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479424	1471948169577	1471948169705	t	84
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479425	1471948169753	1471948169857	o	79
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479427	1471948169913	1471948170017	t	84
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479431	1471948170209	1471948170296	 	32
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479553	1471948171465	1471948171577	BKSP	8
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479559	1471948171657	1471948171761	BKSP	8
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479563	1471948172328	1471948172425	r	82
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479565	1471948172449	1471948172552	 	32
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479568	1471948173208	1471948173288	r	82
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479570	1471948173424	1471948173529	a	65
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479572	1471948173657	1471948173745	c	67
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479589	1471948173761	1471948173849	i	73
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479592	1471948173977	1471948174049	n	78
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479596	1471948174145	1471948174225	f	71
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479600	1471948174273	1471948174345	 	32
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479749	1471948174785	1471948174881	BKSP	8
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479752	1471948174937	1471948175033	BKSP	8
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479756	1471948175313	1471948175385	 	32
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479762	1471948175993	1471948176122	SHIFT	16
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479768	1471948176328	1471948176449	d	68
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479777	1471948176441	1471948176537	i	73
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479784	1471948177553	1471948177633	r	82
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479790	1471948177665	1471948177753	e	69
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479814	1471948178073	1471948178225	c	67
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479818	1471948178249	1471948178353	t	84
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479821	1471948178609	1471948178705	o	79
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479824	1471948178769	1471948178856	r	82
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479828	1471948178913	1471948178993	 	32
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479915	1471948179440	1471948179905	SHIFT	16
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479911	1471948179801	1471948179881	D	68
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479918	1471948179985	1471948180089	a	65
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479925	1471948180169	1471948180257	n	78
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479929	1471948180377	1471948180464	 	32
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479933	1471948180632	1471948180712	SHIFT	16
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	480018	1471948180728	1471948181489	SHIFT	16
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	479936	1471948181369	1471948181441	R	82
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	480022	1471948181665	1471948181777	i	73
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	480026	1471948181952	1471948182024	v	86
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	480029	1471948182065	1471948182160	a	65
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	480032	1471948182336	1471948182392	r	82
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	480034	1471948183616	1471948183728	d	68
+959	10001	The advantage is enough for Ford motor racing director Dan Rivard.	The advantage is enough for Ford motor racing director Dan Rivard.	480046	1471948183912	1471948183992	.	190
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480217	1471948186929	1471948187432	SHIFT	16
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480214	1471948187336	1471948187424	T	84
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480219	1471948187528	1471948187616	h	72
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480220	1471948187665	1471948187776	e	69
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480222	1471948187769	1471948187848	 	32
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480279	1471948188185	1471948188265	s	68
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480283	1471948188696	1471948188800	BKSP	8
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480287	1471948188888	1471948188960	BKSP	8
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480289	1471948189224	1471948189328	s	83
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480292	1471948189480	1471948189609	a	65
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480296	1471948189673	1471948189745	m	77
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480298	1471948189777	1471948189881	e	69
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480301	1471948189897	1471948189977	 	32
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480370	1471948190273	1471948190320	o	80
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480372	1471948190696	1471948190792	BKSP	8
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480374	1471948190929	1471948190968	BKSP	8
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480379	1471948191425	1471948191537	p	80
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480383	1471948191593	1471948191681	r	82
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480388	1471948191752	1471948191809	i	73
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480441	1471948192185	1471948192303	z	90
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480442	1471948192435	1471948192505	e	69
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480443	1471948192569	1471948192640	 	32
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480445	1471948193081	1471948193169	w	87
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480448	1471948193321	1471948193393	a	65
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480496	1471948193497	1471948193593	s	83
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480497	1471948193633	1471948193729	 	32
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480498	1471948194336	1471948194457	o	79
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480499	1471948194545	1471948194616	f	70
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480500	1471948194713	1471948194792	f	70
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480611	1471948194937	1471948195033	e	69
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480615	1471948195121	1471948195225	r	82
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480618	1471948196177	1471948196280	e	69
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480620	1471948196385	1471948196473	d	68
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480622	1471948196545	1471948196625	 	32
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480685	1471948196841	1471948196960	f	70
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480688	1471948196993	1471948197113	o	79
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480692	1471948197217	1471948197345	r	82
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480696	1471948197336	1471948197457	 	32
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480698	1471948198121	1471948198201	t	84
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480745	1471948198232	1471948198304	h	72
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480747	1471948198377	1471948198481	e	69
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480748	1471948198544	1471948198616	 	32
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480749	1471948198985	1471948199081	a	65
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480752	1471948199225	1471948199328	r	82
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480784	1471948199473	1471948199553	r	82
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480787	1471948199689	1471948199816	e	69
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480789	1471948199937	1471948200024	s	83
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480793	1471948200032	1471948200120	t	84
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480799	1471948200265	1471948200360	 	32
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480936	1471948201041	1471948201137	o	79
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480938	1471948201177	1471948201273	f	70
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480939	1471948201297	1471948201385	 	32
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480942	1471948202529	1471948202753	SHIFT	16
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480943	1471948202673	1471948202833	A	65
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480946	1471948203217	1471948203328	d	68
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480985	1471948203865	1471948203961	BKSP	8
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480986	1471948204105	1471948204185	b	66
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480988	1471948204360	1471948204441	d	68
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480990	1471948204489	1471948204577	u	85
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	480992	1471948204905	1471948204985	k	76
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481154	1471948205265	1471948205369	BKSP	8
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481156	1471948205657	1471948205752	l	76
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481160	1471948206321	1471948206425	BKSP	8
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481163	1471948206648	1471948206720	 	32
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481168	1471948207281	1471948207561	SHIFT	16
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481165	1471948207464	1471948207553	R	82
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481172	1471948207593	1471948207697	a	65
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481173	1471948208801	1471948208969	z	90
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481284	1471948208937	1471948209072	a	65
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481288	1471948209104	1471948209200	k	75
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481291	1471948209337	1471948209408	 	32
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481295	1471948209521	1471948209712	SHIFT	16
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481303	1471948210216	1471948210320	BKSP	8
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481309	1471948210425	1471948210537	BKSP	8
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481314	1471948210576	1471948210696	BKSP	8
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481321	1471948212233	1471948212337	a	65
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481325	1471948212312	1471948212400	k	75
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481326	1471948212529	1471948212608	 	32
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481404	1471948213097	1471948213425	SHIFT	16
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481402	1471948213264	1471948213408	M	77
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481406	1471948213905	1471948214025	e	69
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481408	1471948214433	1471948214504	m	77
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481409	1471948214872	1471948214984	e	69
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481411	1471948215393	1471948215488	o	79
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481546	1471948215617	1471948215681	 	78
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481550	1471948216058	1471948216176	BKSP	8
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481552	1471948216297	1471948216385	BKSP	8
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481554	1471948216480	1471948216576	BKSP	8
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481555	1471948216785	1471948216864	BKSP	8
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481557	1471948217808	1471948217872	o	79
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481560	1471948218016	1471948218088	n	78
+959	10027	The same prize was offered for the arrest of Abdul Razak Memon.	The same prize was offered for the arrest of Abdul Razak Memon.	481566	1471948219129	1471948219208	.	190
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	481739	1471948222249	1471948222728	SHIFT	16
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	481742	1471948222689	1471948222761	H	72
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	481743	1471948222841	1471948222936	e	69
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	481746	1471948222961	1471948223065	 	32
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	481747	1471948223377	1471948223488	o	79
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	481750	1471948223536	1471948223632	n	78
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	481800	1471948223777	1471948223872	l	76
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	481802	1471948224201	1471948224297	y	89
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	481805	1471948224345	1471948224425	 	32
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	481807	1471948224665	1471948224737	g	71
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	481809	1471948224825	1471948224928	a	65
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	481845	1471948224945	1471948225025	i	73
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	481848	1471948225192	1471948225256	n	78
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	481851	1471948225360	1471948225456	e	69
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	481855	1471948225624	1471948225720	d	68
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	481858	1471948225801	1471948225872	 	32
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	481948	1471948227025	1471948227160	1	49
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	481952	1471948227177	1471948227265	7	55
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	481955	1471948227409	1471948227488	 	32
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	481959	1471948228200	1471948228296	y	89
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	481964	1471948228320	1471948228432	a	65
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482021	1471948228569	1471948228640	r	82
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482022	1471948228800	1471948228936	d	68
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482024	1471948229041	1471948229176	s	83
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482028	1471948229224	1471948229328	 	32
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482031	1471948229720	1471948229848	o	79
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482068	1471948229880	1471948229960	n	78
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482069	1471948230113	1471948230176	 	32
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482070	1471948230288	1471948230480	n	78
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482072	1471948230456	1471948230584	i	73
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482075	1471948230928	1471948231048	n	78
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482100	1471948231072	1471948231160	e	69
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482103	1471948231201	1471948231280	 	32
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482107	1471948231832	1471948231944	c	67
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482114	1471948232000	1471948232089	a	65
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482117	1471948232137	1471948232216	r	82
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482156	1471948232624	1471948232728	r	82
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482158	1471948232801	1471948232880	i	73
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482162	1471948232936	1471948233024	e	69
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482167	1471948233153	1471948233232	s	83
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482173	1471948233304	1471948233391	 	32
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482253	1471948234041	1471948234183	i	73
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482254	1471948234216	1471948234288	n	78
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482258	1471948234392	1471948234480	 	32
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482262	1471948234680	1471948234791	t	84
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482265	1471948234808	1471948234928	h	72
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482350	1471948235009	1471948235120	e	69
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482353	1471948235128	1471948235224	 	32
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482357	1471948235409	1471948236208	SHIFT	16
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482355	1471948236080	1471948236168	J	74
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482359	1471948236216	1471948236336	a	65
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482362	1471948237304	1471948237400	g	71
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482388	1471948237488	1471948237616	u	85
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482392	1471948237664	1471948237768	a	65
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482397	1471948237912	1471948237991	r	82
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482403	1471948238175	1471948238272	s	83
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482408	1471948238328	1471948238408	 	32
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482518	1471948239000	1471948239136	p	80
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482524	1471948239167	1471948239288	r	82
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482529	1471948239408	1471948239527	e	69
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482534	1471948240584	1471948240680	v	86
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482538	1471948240728	1471948240808	i	73
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482582	1471948240920	1471948241007	o	79
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482584	1471948241135	1471948241199	u	85
+959	10062	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars previous	482587	1471948241288	1471948241416	s	83
+959	10082	A gift isn't necessary.	A gift isn't necessary.	482739	1471948245241	1471948245553	SHIFT	16
+959	10082	A gift isn't necessary.	A gift isn't necessary.	482741	1471948245464	1471948245625	A	65
+959	10082	A gift isn't necessary.	A gift isn't necessary.	482742	1471948245665	1471948245736	 	32
+959	10082	A gift isn't necessary.	A gift isn't necessary.	482744	1471948245881	1471948245968	g	71
+959	10082	A gift isn't necessary.	A gift isn't necessary.	482747	1471948246128	1471948246232	i	73
+959	10082	A gift isn't necessary.	A gift isn't necessary.	482751	1471948246305	1471948246400	f	70
+959	10082	A gift isn't necessary.	A gift isn't necessary.	482819	1471948246527	1471948246608	t	84
+959	10082	A gift isn't necessary.	A gift isn't necessary.	482821	1471948246697	1471948246784	 	32
+959	10082	A gift isn't necessary.	A gift isn't necessary.	482823	1471948247047	1471948247177	i	73
+959	10082	A gift isn't necessary.	A gift isn't necessary.	482825	1471948247217	1471948247344	s	83
+959	10082	A gift isn't necessary.	A gift isn't necessary.	482827	1471948248904	1471948248975	n	78
+959	10082	A gift isn't necessary.	A gift isn't necessary.	482901	1471948249833	1471948249944	'	222
+959	10082	A gift isn't necessary.	A gift isn't necessary.	482905	1471948250000	1471948250095	t	84
+959	10082	A gift isn't necessary.	A gift isn't necessary.	482908	1471948250160	1471948250232	 	32
+959	10082	A gift isn't necessary.	A gift isn't necessary.	482912	1471948250592	1471948250688	n	78
+959	10082	A gift isn't necessary.	A gift isn't necessary.	482916	1471948250769	1471948250872	e	69
+959	10082	A gift isn't necessary.	A gift isn't necessary.	483016	1471948251064	1471948251136	c	67
+959	10082	A gift isn't necessary.	A gift isn't necessary.	483018	1471948251384	1471948251480	BKSP	8
+959	10082	A gift isn't necessary.	A gift isn't necessary.	483019	1471948251816	1471948251927	c	67
+959	10082	A gift isn't necessary.	A gift isn't necessary.	483020	1471948252095	1471948252192	s	83
+959	10082	A gift isn't necessary.	A gift isn't necessary.	483023	1471948252504	1471948252608	BKSP	8
+959	10082	A gift isn't necessary.	A gift isn't necessary.	483026	1471948252880	1471948253016	e	69
+959	10082	A gift isn't necessary.	A gift isn't necessary.	483028	1471948253568	1471948253679	s	83
+959	10082	A gift isn't necessary.	A gift isn't necessary.	483084	1471948253760	1471948253832	s	83
+959	10082	A gift isn't necessary.	A gift isn't necessary.	483088	1471948253976	1471948254072	a	65
+959	10082	A gift isn't necessary.	A gift isn't necessary.	483093	1471948254120	1471948254200	r	82
+959	10082	A gift isn't necessary.	A gift isn't necessary.	483097	1471948254368	1471948254464	y	89
+959	10082	A gift isn't necessary.	A gift isn't necessary.	483101	1471948255184	1471948255256	.	190
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483267	1471948258064	1471948258343	SHIFT	16
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483271	1471948258304	1471948258448	S	83
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483274	1471948258440	1471948258583	h	72
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483277	1471948258599	1471948258768	o	79
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483280	1471948258848	1471948258928	u	85
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483282	1471948259079	1471948259176	l	76
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483430	1471948259216	1471948259328	d	68
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483434	1471948261208	1471948261287	'	222
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483437	1471948261592	1471948261688	n	78
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483440	1471948262088	1471948262159	BKSP	8
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483443	1471948262640	1471948262752	t	84
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483447	1471948262784	1471948262872	 	32
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483612	1471948263529	1471948263624	b	66
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483614	1471948263672	1471948263768	e	69
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483619	1471948263800	1471948263880	 	32
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483623	1471948265208	1471948265288	BKSP	8
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483628	1471948265408	1471948265480	BKSP	8
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483635	1471948265593	1471948265680	BKSP	8
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483640	1471948265768	1471948265832	BKSP	8
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483644	1471948265960	1471948266007	BKSP	8
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483648	1471948266128	1471948266208	BKSP	8
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483651	1471948266280	1471948266352	BKSP	8
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483653	1471948267712	1471948267800	d	68
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483655	1471948267824	1471948267895	n	78
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483714	1471948268527	1471948268608	'	222
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483718	1471948268776	1471948268832	t	84
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483724	1471948268912	1471948269024	 	32
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483731	1471948269665	1471948269776	b	66
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483735	1471948269800	1471948269912	e	69
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483763	1471948269920	1471948270000	 	32
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483765	1471948270384	1471948270472	t	84
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483767	1471948270528	1471948270624	o	79
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483771	1471948270696	1471948270792	o	79
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483775	1471948270928	1471948271016	 	32
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483824	1471948271576	1471948271688	h	72
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483826	1471948271752	1471948271872	a	65
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483829	1471948271920	1471948272008	r	82
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483832	1471948272274	1471948272407	d	68
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483906	1471948272400	1471948272503	 	32
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483909	1471948272840	1471948272944	t	84
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483912	1471948272968	1471948273135	h	72
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483914	1471948273192	1471948273360	o	79
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483918	1471948273432	1471948273567	u	85
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	483921	1471948273720	1471948273800	h	72
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	484055	1471948273928	1471948274048	j	74
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	484057	1471948274328	1471948274443	BKSP	8
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	484060	1471948274512	1471948274615	BKSP	8
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	484062	1471948275191	1471948275231	g	71
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	484063	1471948275248	1471948275327	h	72
+959	10094	Shouldn't be too hard though.	Shouldn't be too hard though.	484064	1471948276463	1471948276583	.	190
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484375	1471948280296	1471948280688	SHIFT	16
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484371	1471948280560	1471948280648	I	73
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484377	1471948280928	1471948281008	BKSP	8
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484380	1471948281383	1471948281671	SHIFT	16
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484382	1471948281600	1471948281679	I	73
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484385	1471948283128	1471948283192	,	188
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484388	1471948283600	1471948283720	BKSP	8
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484391	1471948284561	1471948284647	'	222
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484395	1471948285112	1471948285191	l	76
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484421	1471948285288	1471948285367	l	76
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484423	1471948285528	1471948285599	 	32
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484424	1471948285769	1471948285856	f	70
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484425	1471948285904	1471948286047	i	73
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484451	1471948286032	1471948286111	n	78
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484453	1471948286336	1471948286447	d	68
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484455	1471948286496	1471948286584	 	32
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484457	1471948286912	1471948287000	s	83
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484460	1471948287032	1471948287191	o	79
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484571	1471948287160	1471948287247	n	78
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484575	1471948287488	1471948287592	BKSP	8
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484578	1471948288400	1471948288455	m	77
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484581	1471948288568	1471948288664	e	69
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484585	1471948288920	1471948289095	o	79
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484591	1471948289072	1471948289176	n	78
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484598	1471948289232	1471948289311	e	69
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484652	1471948289336	1471948289504	 	32
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484656	1471948289880	1471948289968	t	84
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484663	1471948289992	1471948290096	o	79
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484670	1471948290184	1471948290312	 	32
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484675	1471948290392	1471948290504	d	68
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484772	1471948290544	1471948290656	o	79
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484773	1471948290744	1471948290848	 	32
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484775	1471948290952	1471948291048	i	73
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484777	1471948291152	1471948291240	t	84
+959	10111	I'll find someone to do it.	I'll find someone to do it.	484781	1471948292336	1471948292407	.	190
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	484958	1471948295328	1471948296183	SHIFT	16
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	484953	1471948295592	1471948295663	T	82
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	484956	1471948296024	1471948296096	+	187
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	484960	1471948296216	1471948296312	BKSP	8
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	484963	1471948296384	1471948296448	BKSP	8
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	484966	1471948296528	1471948296624	BKSP	8
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	484970	1471948296840	1471948297152	SHIFT	16
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	484968	1471948297008	1471948297096	T	84
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	484974	1471948297184	1471948297280	h	72
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485032	1471948297335	1471948297432	e	69
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485035	1471948297440	1471948297520	 	32
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485038	1471948298480	1471948298591	a	65
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485040	1471948298607	1471948298704	m	77
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485042	1471948298920	1471948299024	e	69
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485156	1471948299105	1471948299184	n	78
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485160	1471948299304	1471948299424	d	68
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485166	1471948301456	1471948301551	m	77
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485171	1471948301568	1471948301664	e	69
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485176	1471948301768	1471948301864	n	78
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485225	1471948301928	1471948302023	t	84
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485228	1471948302096	1471948302175	 	32
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485232	1471948302736	1471948302823	h	72
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485235	1471948302815	1471948302911	a	65
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485241	1471948303032	1471948303119	s	83
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485313	1471948303136	1471948303199	 	32
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485315	1471948303256	1471948303367	a	65
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485317	1471948303455	1471948303528	 	32
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485318	1471948304127	1471948304223	INSERT	45
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485319	1471948304344	1471948304448	BKSP	8
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485323	1471948304519	1471948304615	BKSP	8
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485327	1471948305063	1471948305167	l	76
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485331	1471948305296	1471948305367	i	73
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485381	1471948305455	1471948305568	t	84
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485384	1471948305639	1471948305759	t	84
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485390	1471948306224	1471948306320	l	76
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485394	1471948306383	1471948306511	e	69
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485399	1471948306576	1471948306663	 	32
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485452	1471948307048	1471948307136	c	67
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485455	1471948307400	1471948307479	h	72
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485460	1471948307543	1471948307631	a	65
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485465	1471948307679	1471948307776	n	78
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485470	1471948307832	1471948307975	c	67
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485484	1471948307991	1471948308112	e	69
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485485	1471948308152	1471948308239	 	32
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485488	1471948308464	1471948308576	o	79
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485490	1471948308607	1471948308727	f	70
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485492	1471948308744	1471948308823	 	32
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485562	1471948309063	1471948309143	b	78
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485564	1471948309400	1471948309463	=	8
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485567	1471948309775	1471948309856	BKSP	8
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485570	1471948309944	1471948310000	BKSP	8
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485573	1471948310656	1471948310751	b	66
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485576	1471948310807	1471948310895	e	69
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485609	1471948311031	1471948311111	c	67
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485611	1471948311159	1471948311263	o	79
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485613	1471948311375	1471948311471	m	77
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485614	1471948311575	1471948311663	i	73
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485615	1471948311776	1471948311855	n	78
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485684	1471948311903	1471948311991	g	71
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485686	1471948312031	1471948312111	 	32
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485689	1471948313120	1471948313232	l	76
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485692	1471948313280	1471948313407	a	65
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485694	1471948313688	1471948313783	w	87
+959	10127	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	485720	1471948314113	1471948314200	.	190
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	485893	1471948317136	1471948317519	SHIFT	16
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	485891	1471948317367	1471948317475	O	73
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	485895	1471948317663	1471948317752	f	70
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	485898	1471948317767	1471948317847	 	32
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	485900	1471948318040	1471948318152	BKSP	8
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	485902	1471948318216	1471948318271	BKSP	8
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	485904	1471948318360	1471948318415	BKSP	8
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	485906	1471948318464	1471948318511	BKSP	8
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	485908	1471948319095	1471948319183	f	70
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	485949	1471948319200	1471948319270	 	32
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	485950	1471948319407	1471948319566	m	77
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	485951	1471948319535	1471948319671	p	80
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	485952	1471948320031	1471948320135	BKSP	8
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	485953	1471948320383	1471948320480	BKSP	8
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	485954	1471948320552	1471948320615	BKSP	8
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486098	1471948320663	1471948321111	SHIFT	16
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	485955	1471948320808	1471948321055	M	77
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486102	1471948321048	1471948321183	O	79
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486106	1471948321360	1471948321471	BKSP	8
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486112	1471948321528	1471948321607	BKSP	8
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486115	1471948322031	1471948322135	BKSP	8
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486118	1471948322408	1471948322512	i	73
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486122	1471948323240	1471948323336	BKSP	8
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486135	1471948323368	1471948324471	SHIFT	16
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486124	1471948323552	1471948323639	O	79
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486128	1471948323872	1471948323952	BKSP	8
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486132	1471948324120	1471948324199	I	73
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486137	1471948324935	1471948325023	f	70
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486183	1471948325015	1471948325095	 	32
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486185	1471948325256	1471948325359	m	77
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486187	1471948325792	1471948325903	BKSP	8
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486192	1471948325959	1471948326294	SHIFT	16
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486189	1471948326103	1471948326278	M	77
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486196	1471948326255	1471948326374	O	79
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486198	1471948326479	1471948326551	n	78
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486201	1471948327239	1471948327351	BKSP	8
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486207	1471948327503	1471948327623	t	84
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486285	1471948328144	1471948328240	BKSP	8
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486290	1471948328336	1471948328424	BKSP	8
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486294	1471948328992	1471948329080	o	79
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486299	1471948329616	1471948329744	t	84
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486302	1471948329768	1471948329880	l	76
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486305	1471948329896	1471948330000	y	89
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486307	1471948330088	1471948330168	 	32
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486421	1471948330376	1471948330439	BKSP	8
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486425	1471948330536	1471948330615	BKSP	8
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486426	1471948331496	1471948331599	e	69
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486428	1471948331568	1471948331639	y	89
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486429	1471948331776	1471948331855	 	32
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486431	1471948332311	1471948332456	i	73
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486432	1471948332512	1471948332623	s	83
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486526	1471948332600	1471948332679	 	32
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486527	1471948332864	1471948333008	i	73
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486528	1471948333768	1471948333896	n	78
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486529	1471948334000	1471948334096	 	32
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486530	1471948334496	1471948334600	w	87
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486531	1471948334696	1471948334792	e	69
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486563	1471948334815	1471948334896	 	32
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486568	1471948334968	1471948335087	a	65
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486572	1471948335128	1471948335232	r	82
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486576	1471948335296	1471948335399	e	69
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486580	1471948335456	1471948335528	 	32
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486631	1471948336040	1471948336128	o	79
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486634	1471948336256	1471948336335	u	85
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486636	1471948336408	1471948336512	t	84
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486638	1471948336560	1471948336743	 	32
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486670	1471948336712	1471948336832	o	79
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486673	1471948336928	1471948337055	f	70
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486678	1471948337087	1471948337183	 	32
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486681	1471948337384	1471948337512	m	77
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486685	1471948337536	1471948337672	o	79
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486688	1471948337720	1471948337864	n	78
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486790	1471948337936	1471948338032	e	69
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486793	1471948338088	1471948338134	y	84
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486798	1471948338536	1471948338607	BKSP	8
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486802	1471948338720	1471948338799	BKSP	8
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486805	1471948339320	1471948339390	y	89
+959	10150	If Motley is in we are out of money.	If Motley is in we are out of money.	486808	1471948340048	1471948340135	.	190

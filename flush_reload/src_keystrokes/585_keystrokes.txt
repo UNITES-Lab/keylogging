@@ -1,0 +1,626 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280040	1471943130254	1471943130834	SHIFT	16
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280041	1471943130756	1471943130863	H	72
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280042	1471943130863	1471943131072	a	65
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280043	1471943131034	1471943131161	s	83
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280044	1471943131073	1471943131161	 	32
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280045	1471943131473	1471943131576	y	89
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280073	1471943131591	1471943131792	o	79
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280074	1471943131756	1471943131844	u	85
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280076	1471943131969	1471943132025	r	82
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280078	1471943132072	1471943132191	 	32
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280081	1471943132771	1471943132860	4	52
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280131	1471943133429	1471943133496	t	84
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280135	1471943133543	1471943133607	h	72
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280141	1471943133732	1471943133828	 	32
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280146	1471943134516	1471943134627	q	81
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280153	1471943134939	1471943135028	u	85
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280242	1471943135263	1471943135438	a	65
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280245	1471943136002	1471943136110	r	82
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280248	1471943136251	1471943136356	t	84
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280251	1471943136371	1471943136507	e	69
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280256	1471943137322	1471943137455	e	69
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280310	1471943138100	1471943138195	BKSP	8
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280311	1471943138273	1471943138360	r	82
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280313	1471943138454	1471943138559	 	32
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280315	1471943139186	1471943139324	c	67
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280320	1471943139387	1471943139504	h	72
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280371	1471943139461	1471943139638	a	65
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280374	1471943139638	1471943139790	n	78
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280377	1471943140070	1471943140172	g	71
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280379	1471943140172	1471943140244	e	69
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280380	1471943140400	1471943140493	d	68
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280381	1471943140744	1471943140976	SHIFT	16
+585	5834	Has your 4th quarter changed?	Has your 4th quarter changed?	280392	1471943140900	1471943141042	?	191
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280619	1471943146729	1471943147029	SHIFT	16
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280622	1471943146951	1471943147045	P	80
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280626	1471943147138	1471943147260	l	76
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280632	1471943147307	1471943147405	e	69
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280636	1471943147499	1471943147712	a	65
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280680	1471943147671	1471943147760	s	83
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280684	1471943147853	1471943147923	e	69
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280686	1471943148064	1471943148176	 	32
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280688	1471943148425	1471943148522	s	83
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280691	1471943148615	1471943148726	e	69
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280695	1471943148788	1471943148877	n	78
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280707	1471943148987	1471943149076	d	68
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280708	1471943149107	1471943149205	 	32
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280709	1471943149409	1471943149521	m	77
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280710	1471943149552	1471943149626	e	69
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280711	1471943149642	1471943149739	 	32
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280749	1471943149803	1471943149971	a	65
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280750	1471943149971	1471943150028	n	78
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280751	1471943150153	1471943150227	 	32
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280752	1471943150368	1471943150471	e	69
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280754	1471943150580	1471943150662	m	77
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280786	1471943150708	1471943150820	a	65
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280789	1471943150867	1471943150944	i	73
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280792	1471943151069	1471943151152	l	76
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280796	1471943151281	1471943151392	 	32
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280800	1471943151423	1471943151522	y	89
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280878	1471943152076	1471943152157	BKSP	8
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280880	1471943152250	1471943152375	t	84
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280883	1471943152422	1471943152509	o	79
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280888	1471943152651	1471943152743	 	32
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280893	1471943153729	1471943153824	l	76
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280896	1471943154199	1471943154325	e	69
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280944	1471943154403	1471943154494	y	89
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280947	1471943154791	1471943154889	BKSP	8
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280950	1471943154921	1471943154993	t	84
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280952	1471943155118	1471943155194	 	32
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280954	1471943155350	1471943155439	m	77
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	280955	1471943155564	1471943155659	e	69
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	281009	1471943155644	1471943155739	 	32
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	281010	1471943156004	1471943156120	k	75
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	281011	1471943156151	1471943156354	n	78
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	281012	1471943156306	1471943156420	o	79
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	281013	1471943156592	1471943156736	w	87
+585	5850	Please send me an email to let me know.	Please send me an email to let me know.	281014	1471943157178	1471943157249	.	190
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281169	1471943163076	1471943163504	SHIFT	16
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281171	1471943163422	1471943163589	T	84
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281172	1471943163604	1471943163706	o	79
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281173	1471943163862	1471943163972	n	78
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281174	1471943164035	1471943164190	i	73
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281175	1471943164504	1471943164593	g	71
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281211	1471943164626	1471943164722	h	72
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281214	1471943164847	1471943164942	t	84
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281216	1471943165004	1471943165077	 	32
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281219	1471943165373	1471943165456	i	73
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281221	1471943165566	1471943165696	s	83
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281242	1471943165655	1471943165758	 	32
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281243	1471943165836	1471943165972	m	77
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281245	1471943166253	1471943166311	y	89
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281246	1471943166453	1471943166542	 	32
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281247	1471943166667	1471943166822	a	65
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281249	1471943166994	1471943167087	n	78
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281262	1471943167164	1471943167275	n	78
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281265	1471943167306	1471943167436	i	73
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281268	1471943167607	1471943167727	v	86
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281271	1471943167774	1471943167917	e	69
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281273	1471943167917	1471943167973	r	82
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281293	1471943168145	1471943168176	s	87
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281296	1471943168866	1471943169022	a	65
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281299	1471943169193	1471943169308	r	82
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281301	1471943169370	1471943169428	y	89
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281488	1471943169865	1471943169920	.	190
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281491	1471943173266	1471943173349	BKSP	8
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281495	1471943173428	1471943173510	BKSP	8
+585	5862	Tonight is my anniversary.	Tonight is my anniversary.	281499	1471943173997	1471943174073	s	83
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281709	1471943181767	1471943181957	SHIFT	16
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281711	1471943181894	1471943182036	T	84
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281712	1471943182083	1471943182207	 	32
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281714	1471943182317	1471943182424	h	72
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281716	1471943182424	1471943182537	e	69
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281718	1471943182537	1471943182703	 	32
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281763	1471943182938	1471943183025	i	73
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281765	1471943183119	1471943183236	n	78
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281766	1471943183423	1471943183550	f	70
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281767	1471943183628	1471943183720	o	79
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281768	1471943183814	1471943183904	r	82
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281799	1471943184029	1471943184120	m	77
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281802	1471943184120	1471943184278	a	65
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281805	1471943184528	1471943184652	l	76
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281807	1471943184762	1471943184901	 	32
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281810	1471943184901	1471943185053	c	67
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281835	1471943185000	1471943185151	a	65
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281837	1471943185385	1471943185514	s	83
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281840	1471943185795	1471943185884	t	84
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281843	1471943185869	1471943185935	 	32
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281846	1471943186060	1471943186202	h	72
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281889	1471943186135	1471943186343	a	65
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281890	1471943186343	1471943186450	v	86
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281891	1471943186481	1471943186617	e	69
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281892	1471943186679	1471943186755	 	32
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281893	1471943187625	1471943187720	t	84
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281896	1471943187736	1471943187818	o	79
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281914	1471943187975	1471943188098	 	32
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281916	1471943188192	1471943188304	d	68
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281918	1471943188429	1471943188500	i	73
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281920	1471943188595	1471943188672	s	83
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	281922	1471943188843	1471943188937	a	65
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	282031	1471943189094	1471943189187	a	65
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	282033	1471943189265	1471943189354	p	80
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	282035	1471943190499	1471943190589	BKSP	8
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	282037	1471943190682	1471943190772	BKSP	8
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	282038	1471943191193	1471943191256	p	80
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	282039	1471943191349	1471943191469	p	80
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	282040	1471943191578	1471943191655	e	69
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	282074	1471943191734	1471943191990	a	65
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	282076	1471943191959	1471943192069	r	82
+585	5874	The informal costs have to disappear.	T he informal cast have to disappear.	282078	1471943192459	1471943192522	.	190
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282280	1471943196814	1471943197203	SHIFT	16
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282276	1471943197095	1471943197172	E	69
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282284	1471943197296	1471943197387	d	68
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282289	1471943197605	1471943197685	 	32
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282296	1471943197841	1471943198330	SHIFT	16
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282293	1471943197936	1471943198033	T	84
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282298	1471943198567	1471943198620	e	69
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282358	1471943198717	1471943198815	e	69
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282361	1471943198831	1471943198936	r	82
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282363	1471943199580	1471943199650	BKSP	8
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282366	1471943199744	1471943199852	BKSP	8
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282369	1471943200464	1471943200569	r	82
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282374	1471943200647	1471943200721	r	82
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282379	1471943200814	1471943200901	y	89
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282400	1471943201135	1471943201217	 	32
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282402	1471943201593	1471943201668	i	73
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282403	1471943201777	1471943201933	s	83
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282404	1471943201870	1471943201982	 	32
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282405	1471943202154	1471943202235	i	73
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282422	1471943202329	1471943202401	n	78
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282424	1471943202510	1471943202633	 	32
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282427	1471943202664	1471943202753	t	84
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282431	1471943202753	1471943202864	h	72
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282435	1471943202927	1471943203078	e	69
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282465	1471943203078	1471943203202	r	82
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282467	1471943203218	1471943203347	e	69
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282470	1471943203347	1471943203434	 	32
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282473	1471943203480	1471943203554	t	84
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282474	1471943203919	1471943204016	w	87
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282505	1471943204157	1471943204222	i	73
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282507	1471943204425	1471943204520	c	67
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282510	1471943204583	1471943204682	e	69
+585	5885	Ed Terry is in there twice.	Ed Terry is in there twice.	282513	1471943204947	1471943205021	.	190
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	282751	1471943213100	1471943213683	SHIFT	16
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	282753	1471943213618	1471943213847	M	77
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	282756	1471943213847	1471943213981	o	79
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	282760	1471943214121	1471943214203	n	78
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	282762	1471943214391	1471943214460	t	84
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	282764	1471943214859	1471943214953	p	80
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	282834	1471943215063	1471943215169	e	69
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	282836	1471943215247	1471943215337	l	76
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	282838	1471943216698	1471943216765	l	76
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	282839	1471943217115	1471943217187	i	73
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	282841	1471943217234	1471943217364	e	69
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	282877	1471943217420	1471943217514	r	82
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	282878	1471943217826	1471943217905	 	32
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	282879	1471943218185	1471943218314	w	87
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	282880	1471943218377	1471943218454	o	79
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	282882	1471943218578	1471943218666	n	78
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	282966	1471943218792	1471943218887	 	32
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	282969	1471943218934	1471943219063	t	84
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	282972	1471943219063	1471943219137	h	72
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	282973	1471943221158	1471943221266	e	69
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	282974	1471943221360	1471943221436	 	32
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283049	1471943221794	1471943222221	SHIFT	16
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283052	1471943222155	1471943222299	C	67
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283054	1471943222393	1471943222471	u	85
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283055	1471943222596	1471943222670	o	80
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283056	1471943223609	1471943223671	BKSP	8
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283058	1471943223874	1471943223954	 	32
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283121	1471943225067	1471943225277	a	65
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283122	1471943225232	1471943225316	t	84
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283123	1471943225441	1471943225533	 	32
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283124	1471943225642	1471943225719	t	84
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283125	1471943225829	1471943225919	h	72
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283137	1471943225950	1471943226049	e	69
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283139	1471943226112	1471943226202	i	73
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283141	1471943226373	1471943226453	r	82
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283143	1471943226500	1471943226619	 	32
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283144	1471943226698	1471943226800	f	70
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283174	1471943226910	1471943226986	o	79
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283176	1471943227080	1471943227138	r	82
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283178	1471943227419	1471943227535	s	83
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283179	1471943227582	1471943227654	t	84
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283180	1471943227779	1471943227914	 	32
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283202	1471943227914	1471943228033	a	65
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283204	1471943228095	1471943228171	t	84
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283205	1471943228265	1471943228357	t	84
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283206	1471943228468	1471943228580	e	69
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283207	1471943228955	1471943229037	m	77
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283377	1471943229303	1471943229387	p	80
+585	5893	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their forst attemp.	283378	1471943230437	1471943230509	.	190
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283619	1471943240533	1471943240787	SHIFT	16
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283622	1471943240689	1471943240865	W	87
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283626	1471943240865	1471943240937	e	69
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283629	1471943240984	1471943241143	 	32
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283631	1471943241253	1471943241379	u	85
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283632	1471943241395	1471943241645	s	83
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283668	1471943241610	1471943241701	e	69
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283672	1471943242313	1471943242464	 	32
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283675	1471943242667	1471943242764	t	84
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283677	1471943242764	1471943242950	h	72
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283678	1471943242883	1471943243012	i	73
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283679	1471943243153	1471943243279	s	83
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283731	1471943243295	1471943243370	 	32
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283735	1471943244073	1471943244198	f	70
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283738	1471943244292	1471943244364	i	73
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283741	1471943244833	1471943244908	BKSP	8
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283744	1471943245184	1471943245259	u	85
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283746	1471943245406	1471943245485	n	78
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283776	1471943245611	1471943245733	c	67
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283779	1471943246092	1471943246200	t	84
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283782	1471943246278	1471943246383	i	73
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283785	1471943246367	1471943246480	o	79
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283787	1471943246621	1471943246702	n	78
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283807	1471943246750	1471943246941	a	65
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283809	1471943246972	1471943247113	l	76
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283813	1471943247451	1471943247562	i	73
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283816	1471943247609	1471943247731	t	84
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283820	1471943247731	1471943247814	y	89
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283847	1471943248205	1471943248300	 	32
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283849	1471943248643	1471943248860	a	65
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283851	1471943248808	1471943248900	 	32
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283853	1471943249398	1471943249558	o	79
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283855	1471943249699	1471943249813	t	84
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283953	1471943249875	1471943249980	 	32
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283956	1471943250921	1471943250972	BKSP	8
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283958	1471943251077	1471943251136	BKSP	8
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283960	1471943251260	1471943251317	BKSP	8
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283961	1471943251785	1471943251851	l	76
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283962	1471943251962	1471943252019	o	79
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283963	1471943252190	1471943252316	t	84
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	283964	1471943252503	1471943252616	 	32
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	284001	1471943253085	1471943253262	w	87
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	284002	1471943253324	1471943253435	h	72
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	284003	1471943253529	1471943253648	e	69
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	284004	1471943253726	1471943253802	n	78
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	284005	1471943254134	1471943254246	 	32
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	284037	1471943254542	1471943254701	p	80
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	284039	1471943254666	1471943254841	a	65
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	284041	1471943255044	1471943255180	t	84
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	284045	1471943255180	1471943255326	h	72
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	284091	1471943255295	1471943255411	i	73
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	284092	1471943255536	1471943255649	n	78
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	284093	1471943255680	1471943255810	g	71
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	284094	1471943256123	1471943256228	 	32
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	284096	1471943256571	1471943256746	p	80
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	284127	1471943256730	1471943256812	o	79
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	284129	1471943256939	1471943257002	o	79
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	284131	1471943257516	1471943257616	l	76
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	284133	1471943257819	1471943257963	s	83
+585	5912	We use this functionality a lot when pathing pools.	We use this functionality a lot when pathing pools.	284135	1471943258103	1471943258185	.	190
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284265	1471943262777	1471943262987	SHIFT	16
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284268	1471943262918	1471943263060	T	84
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284271	1471943263138	1471943263319	h	72
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284273	1471943263261	1471943263382	i	73
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284276	1471943263491	1471943263614	n	78
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284279	1471943264037	1471943264146	g	71
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284297	1471943264239	1471943264364	s	83
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284298	1471943264333	1471943264431	 	32
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284299	1471943264477	1471943264678	a	65
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284300	1471943264849	1471943264930	r	82
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284301	1471943264961	1471943265051	e	69
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284358	1471943265099	1471943265196	 	32
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284360	1471943265289	1471943265430	c	67
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284361	1471943265680	1471943265764	r	82
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284363	1471943265826	1471943265963	a	65
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284365	1471943266528	1471943266613	x	88
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284446	1471943266972	1471943267082	BKSP	8
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284448	1471943267145	1471943267280	z	90
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284454	1471943267844	1471943267929	y	89
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284458	1471943268070	1471943268179	 	32
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284463	1471943268288	1471943268395	f	70
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284469	1471943268443	1471943268529	o	79
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284557	1471943268794	1471943268884	 	32
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284559	1471943269619	1471943269729	s	83
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284562	1471943269807	1471943269962	u	85
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284564	1471943270071	1471943270198	r	82
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284566	1471943270198	1471943270326	e	69
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284734	1471943270483	1471943271332	SHIFT	16
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284736	1471943271269	1471943271356	!	49
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284740	1471943274783	1471943274859	BKSP	8
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284745	1471943274943	1471943275030	BKSP	8
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284749	1471943275108	1471943275199	r	82
+585	5930	Things are crazy for sure!	Things are crazy fr sure!	284752	1471943275340	1471943275432	 	32
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285146	1471943282688	1471943283202	SHIFT	16
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285148	1471943283112	1471943283233	S	83
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285151	1471943283560	1471943283728	a	65
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285153	1471943283712	1471943283786	n	78
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285154	1471943283926	1471943283984	 	32
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285195	1471943284144	1471943284428	SHIFT	16
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285155	1471943284332	1471943284397	F	70
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285197	1471943284554	1471943284606	r	82
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285199	1471943284774	1471943284928	a	65
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285201	1471943284912	1471943284980	n	78
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285203	1471943285198	1471943285295	c	67
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285205	1471943285407	1471943285500	i	73
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285283	1471943285610	1471943285715	s	83
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285286	1471943286152	1471943286265	c	67
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285291	1471943286436	1471943286514	o	79
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285295	1471943287034	1471943287144	 	32
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285299	1471943287471	1471943287551	w	87
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285361	1471943287676	1471943287855	a	65
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285366	1471943287839	1471943287934	s	83
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285370	1471943288027	1471943288115	 	32
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285373	1471943288490	1471943288834	SHIFT	16
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285376	1471943288774	1471943288880	I	73
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285377	1471943289083	1471943289183	n	78
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285431	1471943289385	1471943289478	t	84
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285434	1471943289540	1471943289664	e	69
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285436	1471943289664	1471943289762	r	82
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285437	1471943290342	1471943290479	c	67
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285460	1471943290464	1471943290546	o	79
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285463	1471943290717	1471943290764	n	78
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285465	1471943290862	1471943290997	n	78
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285469	1471943291076	1471943291149	e	69
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285473	1471943291305	1471943291452	c	67
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285480	1471943291514	1471943291610	t	84
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285624	1471943291861	1471943291965	 	32
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285625	1471943292435	1471943292492	,	188
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285626	1471943293736	1471943293845	BKSP	8
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285627	1471943294395	1471943294494	m	77
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285628	1471943294572	1471943294633	e	69
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285629	1471943294727	1471943294846	e	69
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285672	1471943294956	1471943295079	t	84
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285676	1471943295173	1471943295243	i	73
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285682	1471943295387	1471943295467	n	78
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285686	1471943295529	1471943295644	g	71
+585	5945	San Francisco was Interconnect meeting.	San Francisco was Interconnect meeting.	285690	1471943295878	1471943295948	.	190
+585	5959	Can you help me here?	Can you help me here?	286133	1471943306066	1471943306345	SHIFT	16
+585	5959	Can you help me here?	Can you help me here?	286135	1471943306237	1471943306439	C	67
+585	5959	Can you help me here?	Can you help me here?	286136	1471943306423	1471943306562	a	65
+585	5959	Can you help me here?	Can you help me here?	286137	1471943306562	1471943306630	n	78
+585	5959	Can you help me here?	Can you help me here?	286138	1471943306739	1471943306906	 	32
+585	5959	Can you help me here?	Can you help me here?	286139	1471943307172	1471943307275	y	89
+585	5959	Can you help me here?	Can you help me here?	286164	1471943307289	1471943307516	o	79
+585	5959	Can you help me here?	Can you help me here?	286165	1471943307482	1471943307561	u	85
+585	5959	Can you help me here?	Can you help me here?	286167	1471943307702	1471943307811	 	32
+585	5959	Can you help me here?	Can you help me here?	286170	1471943307936	1471943308033	h	72
+585	5959	Can you help me here?	Can you help me here?	286173	1471943308079	1471943308192	e	69
+585	5959	Can you help me here?	Can you help me here?	286234	1471943308458	1471943308532	l	76
+585	5959	Can you help me here?	Can you help me here?	286238	1471943308626	1471943308699	p	80
+585	5959	Can you help me here?	Can you help me here?	286246	1471943308839	1471943308917	 	32
+585	5959	Can you help me here?	Can you help me here?	286249	1471943309448	1471943309545	m	77
+585	5959	Can you help me here?	Can you help me here?	286252	1471943309623	1471943309714	e	69
+585	5959	Can you help me here?	Can you help me here?	286303	1471943309698	1471943309809	 	32
+585	5959	Can you help me here?	Can you help me here?	286305	1471943309983	1471943310094	h	72
+585	5959	Can you help me here?	Can you help me here?	286306	1471943310172	1471943310244	e	69
+585	5959	Can you help me here?	Can you help me here?	286307	1471943310322	1471943310383	r	82
+585	5959	Can you help me here?	Can you help me here?	286308	1471943310508	1471943310581	e	69
+585	5959	Can you help me here?	Can you help me here?	286309	1471943310846	1471943311182	SHIFT	16
+585	5959	Can you help me here?	Can you help me here?	286310	1471943311147	1471943311244	?	191
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286637	1471943318869	1471943319433	SHIFT	16
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286639	1471943319417	1471943319643	H	72
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286643	1471943319605	1471943319710	i	73
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286647	1471943319851	1471943319929	s	83
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286650	1471943319885	1471943319980	 	32
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286654	1471943320027	1471943320099	s	83
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286722	1471943321228	1471943321308	t	84
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286724	1471943321378	1471943321564	a	65
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286726	1471943321497	1471943321580	t	84
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286728	1471943321879	1471943321963	u	85
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286731	1471943322072	1471943322227	s	83
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286780	1471943322242	1471943322332	 	32
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286782	1471943323049	1471943323147	f	70
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286783	1471943323179	1471943323246	o	79
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286785	1471943323511	1471943323597	 	32
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286879	1471943323542	1471943323628	r	82
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286882	1471943324226	1471943324299	BKSP	8
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286884	1471943324424	1471943324476	BKSP	8
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286886	1471943325078	1471943325193	r	82
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286887	1471943325193	1471943325265	 	32
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286889	1471943325374	1471943325616	SHIFT	16
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286891	1471943325530	1471943325632	T	84
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286893	1471943325772	1471943325979	h	72
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286941	1471943325926	1471943326078	u	85
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286944	1471943326173	1471943326247	r	82
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286946	1471943326465	1471943326544	s	83
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286948	1471943326952	1471943327047	d	68
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286950	1471943327078	1471943327207	a	65
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286952	1471943327300	1471943327399	y	89
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286992	1471943328226	1471943328316	'	222
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286994	1471943328378	1471943328522	s	83
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286996	1471943328884	1471943328977	 	32
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	286998	1471943329399	1471943329492	g	71
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287001	1471943329508	1471943329660	a	65
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287085	1471943329692	1471943329780	n	78
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287087	1471943330217	1471943330285	BKSP	8
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287092	1471943330582	1471943330677	m	77
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287097	1471943330724	1471943330830	e	69
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287101	1471943330908	1471943330997	 	32
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287106	1471943331624	1471943331739	a	65
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287169	1471943331974	1471943332048	g	71
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287170	1471943332111	1471943332261	a	65
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287172	1471943332386	1471943332462	i	73
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287174	1471943332957	1471943333094	s	83
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287176	1471943333188	1471943333308	n	78
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287265	1471943333545	1471943333627	t	84
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287269	1471943334004	1471943334095	 	32
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287271	1471943334453	1471943334742	SHIFT	16
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287275	1471943334630	1471943334758	D	68
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287279	1471943334883	1471943334982	s	65
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287373	1471943335747	1471943335762	BKSP	8
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287376	1471943336337	1471943336396	l	76
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287379	1471943336494	1471943336613	l	76
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287380	1471943336613	1471943336740	a	65
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287381	1471943336833	1471943336927	s	83
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287382	1471943337317	1471943337432	 	32
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287443	1471943337839	1471943337928	i	73
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287446	1471943338053	1471943338163	d	68
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287449	1471943338506	1471943338597	BKSP	8
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287451	1471943338644	1471943338774	s	83
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287454	1471943338914	1471943338988	 	32
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287458	1471943339167	1471943339281	i	73
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287552	1471943339405	1471943339497	n	78
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287555	1471943340324	1471943340395	BKSP	8
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287556	1471943340504	1471943340598	BKSP	8
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287557	1471943340847	1471943340924	u	85
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287559	1471943341100	1471943341196	n	78
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287561	1471943341368	1471943341491	c	67
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287563	1471943341616	1471943341746	l	76
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287803	1471943341824	1471943341926	e	69
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287806	1471943342051	1471943342194	a	65
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287812	1471943342256	1471943342348	r	82
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287819	1471943346092	1471943346140	BKSP	8
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287825	1471943346228	1471943346295	BKSP	8
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287829	1471943346747	1471943346815	n	78
+585	5972	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear	287830	1471943346893	1471943347012	s	83
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288192	1471943353912	1471943354395	SHIFT	16
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288194	1471943354349	1471943354432	I	73
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288197	1471943354635	1471943354745	 	32
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288200	1471943354776	1471943354938	c	67
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288203	1471943355000	1471943355096	h	72
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288207	1471943355143	1471943355304	a	65
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288239	1471943355353	1471943355477	n	78
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288243	1471943355774	1471943355880	g	71
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288248	1471943355942	1471943356014	e	69
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288254	1471943356217	1471943356268	d	68
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288258	1471943356297	1471943356396	d	68
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288380	1471943356349	1471943356432	 	32
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288383	1471943356619	1471943356682	t	84
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288387	1471943356713	1471943356855	h	72
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288391	1471943356965	1471943357084	t	84
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288395	1471943357036	1471943357196	a	65
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288399	1471943358165	1471943359116	BKSP	8
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288404	1471943359372	1471943359820	SHIFT	16
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288420	1471943359743	1471943359827	I	73
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288423	1471943360015	1471943360114	 	32
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288426	1471943360207	1471943360297	c	67
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288431	1471943360359	1471943360426	h	72
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288438	1471943360489	1471943360667	a	65
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288505	1471943360610	1471943360759	n	78
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288508	1471943361009	1471943361112	g	71
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288510	1471943361128	1471943361194	e	69
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288512	1471943361319	1471943361428	d	68
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288514	1471943361552	1471943361662	 	32
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288516	1471943362021	1471943362091	t	84
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288534	1471943362203	1471943362405	h	72
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288537	1471943362261	1471943362421	a	65
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288540	1471943362405	1471943362481	t	84
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288543	1471943362653	1471943362731	 	32
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288546	1471943362934	1471943363045	i	73
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288570	1471943363139	1471943363226	n	78
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288573	1471943363335	1471943363414	 	32
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288576	1471943363507	1471943363690	o	79
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288580	1471943363769	1471943363878	n	78
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288585	1471943363909	1471943364039	e	69
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288665	1471943364023	1471943364112	 	32
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288668	1471943364943	1471943365105	p	80
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288671	1471943365417	1471943365508	r	82
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288674	1471943365773	1471943365835	i	73
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288679	1471943365942	1471943366041	o	79
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288685	1471943366244	1471943366342	r	82
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288745	1471943366405	1471943366511	 	32
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288748	1471943367578	1471943367742	d	68
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288753	1471943367711	1471943367814	r	82
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288758	1471943367845	1471943367972	a	65
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288763	1471943368331	1471943368398	f	70
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288787	1471943368446	1471943368543	t	84
+585	6008	I changed that in one prior draft.	I changed that in one prior draft.	288788	1471943369027	1471943369053	.	190
+585	6027	I have an electric knife.	I have an electric knife.	289030	1471943373708	1471943374086	SHIFT	16
+585	6027	I have an electric knife.	I have an electric knife.	289035	1471943374039	1471943374124	I	73
+585	6027	I have an electric knife.	I have an electric knife.	289039	1471943374282	1471943374378	 	32
+585	6027	I have an electric knife.	I have an electric knife.	289043	1471943374487	1471943374652	h	72
+585	6027	I have an electric knife.	I have an electric knife.	289061	1471943374594	1471943374842	a	65
+585	6027	I have an electric knife.	I have an electric knife.	289044	1471943374707	1471943374811	v	86
+585	6027	I have an electric knife.	I have an electric knife.	289063	1471943374935	1471943375012	e	69
+585	6027	I have an electric knife.	I have an electric knife.	289066	1471943375060	1471943375188	 	32
+585	6027	I have an electric knife.	I have an electric knife.	289070	1471943375188	1471943375325	a	65
+585	6027	I have an electric knife.	I have an electric knife.	289073	1471943375481	1471943375590	n	78
+585	6027	I have an electric knife.	I have an electric knife.	289077	1471943375652	1471943375777	 	32
+585	6027	I have an electric knife.	I have an electric knife.	289120	1471943375964	1471943376047	e	69
+585	6027	I have an electric knife.	I have an electric knife.	289123	1471943376218	1471943376308	l	76
+585	6027	I have an electric knife.	I have an electric knife.	289126	1471943376527	1471943376625	e	69
+585	6027	I have an electric knife.	I have an electric knife.	289127	1471943376812	1471943376897	c	67
+585	6027	I have an electric knife.	I have an electric knife.	289128	1471943377147	1471943377230	t	84
+585	6027	I have an electric knife.	I have an electric knife.	289150	1471943377387	1471943377474	r	82
+585	6027	I have an electric knife.	I have an electric knife.	289151	1471943377599	1471943377681	i	73
+585	6027	I have an electric knife.	I have an electric knife.	289152	1471943377884	1471943377943	c	67
+585	6027	I have an electric knife.	I have an electric knife.	289153	1471943378130	1471943378241	 	32
+585	6027	I have an electric knife.	I have an electric knife.	289154	1471943378430	1471943378541	k	75
+585	6027	I have an electric knife.	I have an electric knife.	289206	1471943378620	1471943378803	n	78
+585	6027	I have an electric knife.	I have an electric knife.	289209	1471943378788	1471943378864	o	79
+585	6027	I have an electric knife.	I have an electric knife.	289212	1471943380007	1471943380107	BKSP	8
+585	6027	I have an electric knife.	I have an electric knife.	289215	1471943380442	1471943380510	i	73
+585	6027	I have an electric knife.	I have an electric knife.	289221	1471943380604	1471943380694	f	70
+585	6027	I have an electric knife.	I have an electric knife.	289227	1471943380818	1471943380897	e	69
+585	6027	I have an electric knife.	I have an electric knife.	289239	1471943381334	1471943381412	.	190
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289536	1471943387528	1471943387788	SHIFT	16
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289540	1471943387715	1471943387888	W	87
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289544	1471943387903	1471943387995	e	69
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289546	1471943388026	1471943388186	 	32
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289548	1471943388217	1471943388342	a	65
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289549	1471943388389	1471943388624	r	82
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289590	1471943388587	1471943388695	e	69
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289595	1471943388900	1471943388991	 	32
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289600	1471943389179	1471943389311	a	65
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289605	1471943389624	1471943389724	l	76
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289607	1471943389819	1471943389938	s	83
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289610	1471943389938	1471943390010	o	79
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289657	1471943390151	1471943390261	 	32
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289659	1471943390526	1471943390608	i	73
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289661	1471943390717	1471943390874	n	78
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289662	1471943391030	1471943391143	t	84
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289664	1471943391143	1471943391349	o	79
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289749	1471943391349	1471943391430	u	85
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289751	1471943391586	1471943391705	c	67
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289753	1471943391783	1471943391847	h	72
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289755	1471943391988	1471943392090	 	32
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289758	1471943392706	1471943392823	w	87
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289764	1471943392932	1471943393013	i	73
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289766	1471943393184	1471943393294	t	84
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289767	1471943393294	1471943393326	h	72
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289768	1471943393484	1471943393574	 	32
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289770	1471943393668	1471943393788	t	84
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289945	1471943393748	1471943393828	h	72
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289946	1471943393938	1471943394055	e	69
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289947	1471943394024	1471943394112	 	32
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289950	1471943394785	1471943395061	SHIFT	16
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289948	1471943394972	1471943395046	U	85
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289953	1471943396565	1471943396709	.	190
+585	6037	We are also in touch with the U.	We are also in touch with the U.	289956	1471943399031	1471943399144	 	32
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290181	1471943404543	1471943405053	SHIFT	16
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290183	1471943404990	1471943405083	I	73
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290185	1471943405268	1471943405361	 	32
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290187	1471943405361	1471943405463	w	87
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290189	1471943405572	1471943405739	a	65
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290192	1471943405770	1471943405888	n	78
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290211	1471943406013	1471943406111	t	84
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290214	1471943406111	1471943406191	 	32
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290217	1471943406285	1471943406368	t	84
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290220	1471943406368	1471943406461	o	79
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290224	1471943406617	1471943406710	 	32
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290234	1471943406726	1471943406812	t	84
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290236	1471943406859	1471943406957	h	72
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290237	1471943407051	1471943407099	a	81
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290239	1471943407130	1471943407208	t	84
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290353	1471943407713	1471943407792	n	78
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290355	1471943408244	1471943408324	k	75
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290357	1471943408969	1471943409029	BKSP	8
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290361	1471943409138	1471943409196	BKSP	8
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290364	1471943409306	1471943409378	BKSP	8
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290366	1471943409472	1471943409560	BKSP	8
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290370	1471943409685	1471943409758	BKSP	8
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290373	1471943409992	1471943410168	a	65
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290375	1471943410418	1471943410557	n	78
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290377	1471943410573	1471943410660	k	75
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290418	1471943410771	1471943410907	 	32
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290421	1471943411220	1471943411370	e	69
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290423	1471943412095	1471943412257	v	86
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290426	1471943412288	1471943412452	e	69
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290428	1471943412514	1471943412555	r	82
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290488	1471943413408	1471943413495	y	89
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290493	1471943413902	1471943413979	o	79
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290498	1471943414120	1471943414210	n	78
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290500	1471943414319	1471943414443	e	69
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290503	1471943414443	1471943414513	 	32
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290526	1471943414622	1471943414742	i	73
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290527	1471943414820	1471943414910	n	78
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290528	1471943415175	1471943415321	v	86
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290529	1471943415368	1471943415429	o	79
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290530	1471943415819	1471943415926	l	76
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290613	1471943416693	1471943416790	v	86
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290615	1471943416806	1471943416940	e	69
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290617	1471943416956	1471943417074	d	68
+585	6048	I want to thank everyone involved.	I want to thank everyone involved.	290618	1471943417483	1471943417548	.	190

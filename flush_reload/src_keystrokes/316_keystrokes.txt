@@ -1,0 +1,826 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+316	2813	If not can I call you?	If not can I call you?	136562	1471939210794	1471939210982	SHIFT	16
+316	2813	If not can I call you?	If not can I call you?	136563	1471939210887	1471939210982	I	73
+316	2813	If not can I call you?	If not can I call you?	136564	1471939211263	1471939211334	f	70
+316	2813	If not can I call you?	If not can I call you?	136565	1471939211412	1471939211493	 	32
+316	2813	If not can I call you?	If not can I call you?	136566	1471939213247	1471939213337	n	78
+316	2813	If not can I call you?	If not can I call you?	136567	1471939213353	1471939213484	o	79
+316	2813	If not can I call you?	If not can I call you?	136604	1471939213531	1471939213606	t	84
+316	2813	If not can I call you?	If not can I call you?	136606	1471939213731	1471939213837	 	32
+316	2813	If not can I call you?	If not can I call you?	136609	1471939214621	1471939214737	c	67
+316	2813	If not can I call you?	If not can I call you?	136612	1471939214753	1471939214869	a	65
+316	2813	If not can I call you?	If not can I call you?	136617	1471939214916	1471939215007	n	78
+316	2813	If not can I call you?	If not can I call you?	136731	1471939215131	1471939215211	 	32
+316	2813	If not can I call you?	If not can I call you?	136732	1471939216115	1471939216663	SHIFT	16
+316	2813	If not can I call you?	If not can I call you?	136733	1471939216591	1471939216663	I	73
+316	2813	If not can I call you?	If not can I call you?	136734	1471939216819	1471939216912	 	32
+316	2813	If not can I call you?	If not can I call you?	136735	1471939217131	1471939217230	c	67
+316	2813	If not can I call you?	If not can I call you?	136876	1471939217165	1471939217230	a	65
+316	2813	If not can I call you?	If not can I call you?	136879	1471939217345	1471939217382	a	65
+316	2813	If not can I call you?	If not can I call you?	136880	1471939217947	1471939218060	BKSP	8
+316	2813	If not can I call you?	If not can I call you?	136883	1471939218697	1471939218750	l	76
+316	2813	If not can I call you?	If not can I call you?	136884	1471939218829	1471939218899	l	76
+316	2813	If not can I call you?	If not can I call you?	136887	1471939219056	1471939219132	 	32
+316	2813	If not can I call you?	If not can I call you?	136888	1471939219886	1471939219984	y	89
+316	2813	If not can I call you?	If not can I call you?	136961	1471939220028	1471939220117	o	79
+316	2813	If not can I call you?	If not can I call you?	136962	1471939220195	1471939220269	u	85
+316	2813	If not can I call you?	If not can I call you?	136963	1471939220850	1471939221122	SHIFT	16
+316	2813	If not can I call you?	If not can I call you?	136964	1471939221048	1471939221122	?	191
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137136	1471939226115	1471939226464	CAPS_LOCK	20
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137137	1471939226381	1471939226464	D	68
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137140	1471939226573	1471939226652	O	79
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137142	1471939226871	1471939226949	 	32
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137146	1471939227545	1471939227647	W	87
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137149	1471939227679	1471939227751	E	69
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137224	1471939227827	1471939227901	 	32
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137226	1471939228779	1471939228854	H	72
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137228	1471939228963	1471939229053	A	65
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137230	1471939229459	1471939229537	V	86
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137233	1471939229615	1471939229687	E	69
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137325	1471939229771	1471939229843	 	32
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137326	1471939230653	1471939230740	A	65
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137327	1471939231335	1471939231424	N	78
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137328	1471939231705	1471939231775	Y	89
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137329	1471939232274	1471939232327	T	84
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137334	1471939232411	1471939232494	H	72
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137337	1471939233200	1471939233261	I	73
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137342	1471939233433	1471939233528	N	78
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137346	1471939233606	1471939233680	G	71
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137351	1471939233774	1471939233831	 	32
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137454	1471939234817	1471939234882	I	73
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137456	1471939235039	1471939235114	N	78
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137459	1471939235176	1471939235249	 	32
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137464	1471939236256	1471939236516	SHIFT	16
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137462	1471939236410	1471939236500	p	80
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137467	1471939236594	1471939236684	O	79
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137828	1471939237203	1471939237287	R	82
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137829	1471939238953	1471939239086	BKSP	8
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137830	1471939239712	1471939239790	CAPS_LOCK	20
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137831	1471939240953	1471939242521	BKSP	8
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137832	1471939244862	1471939245435	SHIFT	16
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137833	1471939245343	1471939245466	D	68
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137834	1471939245497	1471939245601	o	79
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137836	1471939245857	1471939245920	 	32
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137839	1471939247270	1471939247386	w	87
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137875	1471939247401	1471939247458	e	69
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137877	1471939247536	1471939247624	 	32
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137880	1471939248046	1471939248109	h	72
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137884	1471939248141	1471939248241	a	65
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137886	1471939248569	1471939248626	v	86
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137983	1471939248711	1471939248778	e	87
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137986	1471939248825	1471939248880	 	32
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137991	1471939249359	1471939249443	BKSP	8
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	137996	1471939249521	1471939249594	BKSP	8
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138000	1471939249688	1471939249762	BKSP	8
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138005	1471939249918	1471939249964	BKSP	8
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138009	1471939251235	1471939251377	v	86
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138012	1471939251377	1471939251464	e	69
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138058	1471939251537	1471939251631	 	32
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138060	1471939252438	1471939252550	a	65
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138062	1471939252862	1471939252950	n	78
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138064	1471939253107	1471939253201	y	89
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138070	1471939253689	1471939253754	t	84
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138125	1471939253937	1471939253988	h	72
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138127	1471939254474	1471939254555	i	73
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138129	1471939254738	1471939254821	n	78
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138131	1471939254883	1471939254972	g	71
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138132	1471939255340	1471939255453	 	32
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138206	1471939256361	1471939256428	i	73
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138208	1471939256584	1471939256658	n	78
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138210	1471939256721	1471939256809	 	32
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138217	1471939257204	1471939257443	SHIFT	16
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138213	1471939257342	1471939257411	P	80
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138223	1471939257724	1471939257800	o	79
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138313	1471939259002	1471939259080	r	82
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138315	1471939259142	1471939259214	t	84
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138318	1471939259608	1471939259713	l	76
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138320	1471939259776	1471939259865	a	65
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138322	1471939260161	1471939260233	n	78
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138396	1471939260408	1471939260467	d	68
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138398	1471939261754	1471939262189	SHIFT	16
+316	2828	Do we have anyone in Portland?	Do we have anything in Portland?	138401	1471939262132	1471939262204	?	191
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138575	1471939264799	1471939265423	SHIFT	16
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138576	1471939265334	1471939265423	T	84
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138577	1471939265470	1471939265575	h	72
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138578	1471939265653	1471939265711	e	69
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138579	1471939265805	1471939265867	 	32
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138580	1471939266755	1471939266864	s	83
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138686	1471939266924	1471939267012	n	78
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138688	1471939267058	1471939267116	e	87
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138690	1471939267695	1471939267749	BKSP	8
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138691	1471939268282	1471939268380	BKSP	8
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138693	1471939269242	1471939269379	BKSP	8
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138695	1471939270008	1471939270085	e	69
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138698	1471939270147	1471939270218	n	78
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138792	1471939270648	1471939270735	t	84
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138795	1471939271614	1471939271719	BKSP	8
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138797	1471939272426	1471939272570	a	65
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138798	1471939272757	1471939272860	t	84
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138799	1471939272921	1471939272989	e	69
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138800	1471939273098	1471939273174	 	32
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138856	1471939274183	1471939274261	w	87
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138858	1471939274386	1471939274476	o	79
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138860	1471939274746	1471939274810	u	85
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138862	1471939274976	1471939275059	l	76
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138865	1471939275184	1471939275246	d	68
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138941	1471939275342	1471939275413	 	32
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138944	1471939276715	1471939276782	r	82
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138949	1471939276860	1471939276916	e	69
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138952	1471939277424	1471939277485	q	81
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	138954	1471939277641	1471939277717	i	73
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139027	1471939277839	1471939277917	u	85
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139029	1471939279281	1471939279353	BKSP	8
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139033	1471939279447	1471939279505	BKSP	8
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139037	1471939280320	1471939280389	u	85
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139040	1471939280467	1471939280541	i	73
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139043	1471939280775	1471939280840	r	82
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139046	1471939280983	1471939281041	e	69
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139094	1471939281246	1471939281328	 	32
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139095	1471939282062	1471939282142	t	84
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139097	1471939282189	1471939282275	h	72
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139100	1471939282431	1471939282493	e	69
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139103	1471939282728	1471939282810	m	77
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139201	1471939282935	1471939283011	 	32
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139204	1471939283655	1471939283713	t	84
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139205	1471939283760	1471939283860	o	79
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139209	1471939284001	1471939284092	 	32
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139213	1471939285445	1471939285516	c	67
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139246	1471939285873	1471939285964	r	82
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139248	1471939286042	1471939286117	e	69
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139251	1471939286305	1471939286385	a	65
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139254	1471939286416	1471939286501	t	84
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139259	1471939286751	1471939286804	 	32
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139324	1471939287680	1471939287769	a	65
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139325	1471939287864	1471939287934	 	32
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139327	1471939288315	1471939288404	u	85
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139330	1471939288545	1471939288607	s	83
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139333	1471939288716	1471939288789	 	32
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139527	1471939290201	1471939290305	BKSP	8
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139529	1471939290399	1471939290475	BKSP	8
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139531	1471939290568	1471939290643	BKSP	8
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139540	1471939290974	1471939292089	SHIFT	16
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139533	1471939291647	1471939291713	U	85
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139537	1471939291916	1471939292011	S	83
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139543	1471939292226	1471939292298	 	32
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139545	1471939293616	1471939293699	s	83
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139547	1471939293745	1471939293848	u	85
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139672	1471939294948	1471939295003	b	66
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139674	1471939295440	1471939295521	s	83
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139677	1471939295583	1471939295669	i	73
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139683	1471939297553	1471939297639	d	68
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139686	1471939298112	1471939298175	i	73
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139821	1471939299160	1471939299289	a	65
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139826	1471939299793	1471939299879	r	82
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139833	1471939299973	1471939300062	y	89
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139840	1471939301789	1471939301868	,	188
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139844	1471939302359	1471939302449	BKSP	8
+316	2856	The senate would require them to create a US subsidiary.	The senate would require them to creat a US subsidiary.	139848	1471939302730	1471939302787	.	190
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140046	1471939305921	1471939306363	SHIFT	16
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140047	1471939306249	1471939306363	O	79
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140048	1471939306503	1471939306591	u	85
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140049	1471939306685	1471939306759	r	82
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140050	1471939306811	1471939306892	 	32
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140051	1471939308510	1471939308579	n	78
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140100	1471939308696	1471939308764	u	85
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140102	1471939308927	1471939308998	m	77
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140104	1471939309702	1471939309781	b	66
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140107	1471939309875	1471939309967	e	69
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140112	1471939310021	1471939310083	r	82
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140167	1471939310349	1471939310415	 	32
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140168	1471939310966	1471939311081	BKSP	8
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140169	1471939311694	1471939311768	s	83
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140170	1471939311831	1471939311902	 	32
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140172	1471939312012	1471939312123	a	65
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140175	1471939312279	1471939312352	r	82
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140223	1471939312411	1471939312472	e	69
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140224	1471939312518	1471939312588	 	32
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140225	1471939314077	1471939314141	c	67
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140226	1471939314188	1471939314273	o	79
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140227	1471939314616	1471939314691	r	82
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140272	1471939314769	1471939314815	r	82
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140275	1471939314792	1471939314843	e	69
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140278	1471939314876	1471939314942	e	69
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140280	1471939315388	1471939315443	c	67
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140282	1471939315740	1471939315826	t	84
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140419	1471939317097	1471939317195	BKSP	8
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140421	1471939317287	1471939317367	BKSP	8
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140424	1471939317770	1471939317847	BKSP	8
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140427	1471939320063	1471939320119	c	67
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140431	1471939320275	1471939320353	t	84
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140437	1471939320586	1471939320639	 	32
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140441	1471939321438	1471939321505	i	73
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140445	1471939321661	1471939321739	n	78
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140463	1471939321801	1471939321892	 	32
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140465	1471939322066	1471939322139	t	84
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140467	1471939322186	1471939322287	h	72
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140469	1471939322397	1471939322458	e	69
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140470	1471939322552	1471939322626	 	32
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140526	1471939323724	1471939323811	s	83
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140527	1471939323858	1471939323943	y	89
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140528	1471939324130	1471939324194	s	83
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140529	1471939324554	1471939324643	t	84
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140530	1471939324707	1471939324777	e	69
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140625	1471939324959	1471939325029	n	78
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140626	1471939325451	1471939325560	BKSP	8
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140627	1471939326173	1471939326248	m	77
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140628	1471939326938	1471939327000	 	32
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140629	1471939327219	1471939327300	n	78
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140631	1471939327695	1471939327767	o	79
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140703	1471939328286	1471939328337	w	87
+316	2884	Our numbers are correct in the system now.	Our numbers are correct in the system now.	140705	1471939328908	1471939328953	.	190
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	140851	1471939333718	1471939333998	SHIFT	16
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	140853	1471939333940	1471939334045	S	83
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	140854	1471939334232	1471939334313	o	79
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	140855	1471939334407	1471939334445	o	79
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	140856	1471939334889	1471939334985	BKSP	8
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	140857	1471939335219	1471939335268	r	82
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	140858	1471939335362	1471939335417	r	82
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	140897	1471939335488	1471939335567	y	89
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	140898	1471939335755	1471939335818	 	32
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	140900	1471939336571	1471939336634	f	70
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	140901	1471939336696	1471939336800	o	79
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	140902	1471939336849	1471939336935	r	82
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	140960	1471939336993	1471939337063	 	32
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	140961	1471939337815	1471939337935	a	65
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	140962	1471939337951	1471939338039	n	78
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	140963	1471939338164	1471939338223	t	84
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	140965	1471939338599	1471939338695	BKSP	8
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	140968	1471939338777	1471939338848	y	89
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	141043	1471939338944	1471939339008	 	32
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	141045	1471939340201	1471939340261	i	73
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	141047	1471939340386	1471939340461	n	78
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	141048	1471939340855	1471939340896	c	67
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	141049	1471939340974	1471939341044	o	79
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	141227	1471939342394	1471939342464	n	78
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	141229	1471939345213	1471939345272	v	86
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	141233	1471939345366	1471939345437	e	69
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	141236	1471939345812	1471939345856	i	73
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	141237	1471939346987	1471939347087	BKSP	8
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	141239	1471939347700	1471939347774	n	78
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	141274	1471939347864	1471939347942	i	73
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	141276	1471939348176	1471939348242	e	69
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	141277	1471939348617	1471939348692	n	78
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	141278	1471939348847	1471939348925	c	67
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	141279	1471939348988	1471939349061	e	69
+316	2904	Sorry for any inconvenience.	Sorry for any inconvenience.	141339	1471939350098	1471939350179	.	190
+316	2917	They really must get the money together.	They really must get the money together.	141503	1471939354453	1471939355025	SHIFT	16
+316	2917	They really must get the money together.	They really must get the money together.	141506	1471939354956	1471939355056	T	84
+316	2917	They really must get the money together.	They really must get the money together.	141509	1471939355119	1471939355221	h	72
+316	2917	They really must get the money together.	They really must get the money together.	141512	1471939355283	1471939355357	e	69
+316	2917	They really must get the money together.	They really must get the money together.	141514	1471939355357	1471939355440	y	89
+316	2917	They really must get the money together.	They really must get the money together.	141516	1471939355625	1471939355707	 	32
+316	2917	They really must get the money together.	They really must get the money together.	141550	1471939356505	1471939356577	r	82
+316	2917	They really must get the money together.	They really must get the money together.	141553	1471939356640	1471939356725	e	69
+316	2917	They really must get the money together.	They really must get the money together.	141557	1471939356854	1471939356973	a	65
+316	2917	They really must get the money together.	They really must get the money together.	141562	1471939357207	1471939357245	l	76
+316	2917	They really must get the money together.	They really must get the money together.	141564	1471939357323	1471939357379	l	76
+316	2917	They really must get the money together.	They really must get the money together.	141611	1471939357590	1471939357646	y	89
+316	2917	They really must get the money together.	They really must get the money together.	141617	1471939357755	1471939357829	 	32
+316	2917	They really must get the money together.	They really must get the money together.	141620	1471939358798	1471939358865	m	77
+316	2917	They really must get the money together.	They really must get the money together.	141624	1471939359084	1471939359147	u	85
+316	2917	They really must get the money together.	They really must get the money together.	141629	1471939359681	1471939359732	s	83
+316	2917	They really must get the money together.	They really must get the money together.	141654	1471939359785	1471939359864	t	84
+316	2917	They really must get the money together.	They really must get the money together.	141656	1471939360098	1471939360166	 	32
+316	2917	They really must get the money together.	They really must get the money together.	141658	1471939361198	1471939361270	g	71
+316	2917	They really must get the money together.	They really must get the money together.	141660	1471939361364	1471939361436	e	69
+316	2917	They really must get the money together.	They really must get the money together.	141662	1471939361452	1471939361550	t	84
+316	2917	They really must get the money together.	They really must get the money together.	141693	1471939361719	1471939361777	 	32
+316	2917	They really must get the money together.	They really must get the money together.	141696	1471939362680	1471939362754	t	84
+316	2917	They really must get the money together.	They really must get the money together.	141699	1471939362798	1471939362879	h	72
+316	2917	They really must get the money together.	They really must get the money together.	141700	1471939362957	1471939363039	e	69
+316	2917	They really must get the money together.	They really must get the money together.	141701	1471939363086	1471939363140	 	32
+316	2917	They really must get the money together.	They really must get the money together.	141727	1471939363861	1471939363940	m	77
+316	2917	They really must get the money together.	They really must get the money together.	141728	1471939364034	1471939364122	o	79
+316	2917	They really must get the money together.	They really must get the money together.	141729	1471939364279	1471939364374	n	78
+316	2917	They really must get the money together.	They really must get the money together.	141730	1471939364546	1471939364611	e	69
+316	2917	They really must get the money together.	They really must get the money together.	141731	1471939364673	1471939364758	y	89
+316	2917	They really must get the money together.	They really must get the money together.	141770	1471939364951	1471939365010	 	32
+316	2917	They really must get the money together.	They really must get the money together.	141772	1471939366095	1471939366162	t	84
+316	2917	They really must get the money together.	They really must get the money together.	141774	1471939366194	1471939366293	o	79
+316	2917	They really must get the money together.	They really must get the money together.	141776	1471939366621	1471939366681	g	71
+316	2917	They really must get the money together.	They really must get the money together.	141778	1471939366790	1471939366848	e	69
+316	2917	They really must get the money together.	They really must get the money together.	141804	1471939367187	1471939367263	t	84
+316	2917	They really must get the money together.	They really must get the money together.	141807	1471939367325	1471939367399	h	72
+316	2917	They really must get the money together.	They really must get the money together.	141808	1471939367461	1471939367548	e	69
+316	2917	They really must get the money together.	They really must get the money together.	141810	1471939367595	1471939367650	r	82
+316	2917	They really must get the money together.	They really must get the money together.	141811	1471939368433	1471939368500	.	190
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	141995	1471939372368	1471939372590	SHIFT	16
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	141997	1471939372524	1471939372590	L	76
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	141999	1471939372699	1471939372775	i	73
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142000	1471939374581	1471939374659	v	86
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142001	1471939374738	1471939374828	e	69
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142002	1471939374879	1471939374964	r	82
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142038	1471939376078	1471939376148	p	80
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142041	1471939376273	1471939376334	o	79
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142044	1471939376396	1471939376478	o	79
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142046	1471939376565	1471939376632	l	76
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142048	1471939376911	1471939376998	 	32
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142080	1471939377736	1471939377802	f	70
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142083	1471939377908	1471939377985	a	65
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142085	1471939378032	1471939378104	i	73
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142088	1471939378416	1471939378501	l	76
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142091	1471939378595	1471939378670	e	69
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142140	1471939378948	1471939379022	d	68
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142142	1471939379131	1471939379205	 	32
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142146	1471939380005	1471939380119	a	65
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142149	1471939380400	1471939380473	g	71
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142153	1471939380598	1471939380658	a	65
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142252	1471939380885	1471939380958	i	73
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142254	1471939381052	1471939381110	s	83
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142256	1471939382081	1471939382206	BKSP	8
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142258	1471939382944	1471939383011	n	78
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142260	1471939383089	1471939383162	 	32
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142262	1471939384174	1471939384234	i	73
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142308	1471939384383	1471939384450	n	78
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142311	1471939384528	1471939384600	 	32
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142314	1471939385761	1471939385834	w	87
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142317	1471939385897	1471939385984	h	72
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142319	1471939386219	1471939386287	e	69
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142341	1471939386478	1471939386552	n	78
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142342	1471939386661	1471939386720	 	32
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142343	1471939387977	1471939388055	t	84
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142344	1471939388117	1471939388220	h	72
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142345	1471939388377	1471939388440	e	69
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142422	1471939388513	1471939388606	y	89
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142423	1471939388778	1471939388858	 	32
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142424	1471939390616	1471939390694	w	87
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142425	1471939390864	1471939390927	r	82
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142426	1471939391448	1471939391528	BKSP	8
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142428	1471939391653	1471939391745	e	69
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142466	1471939391817	1471939391897	r	82
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142467	1471939391969	1471939392047	e	69
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142468	1471939392274	1471939392364	 	32
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142469	1471939393667	1471939393719	b	66
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142470	1471939393944	1471939394016	e	69
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142493	1471939394104	1471939394216	a	65
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142496	1471939394374	1471939394451	t	84
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142499	1471939394954	1471939395004	e	69
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142502	1471939395067	1471939395153	n	78
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142507	1471939395450	1471939395505	 	32
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142585	1471939396101	1471939396186	a	65
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142587	1471939396374	1471939396439	t	84
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142590	1471939396589	1471939396641	 	32
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142593	1471939397597	1471939397910	SHIFT	16
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142596	1471939397846	1471939397941	W	87
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142601	1471939398066	1471939398127	e	69
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142692	1471939399446	1471939399511	m	77
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142694	1471939401459	1471939401549	b	66
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142697	1471939401581	1471939401681	l	76
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142699	1471939401775	1471939401866	e	69
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142700	1471939402027	1471939402117	y	89
+316	2926	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	142753	1471939402838	1471939402889	.	190
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	142911	1471939409287	1471939409615	SHIFT	16
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	142914	1471939409584	1471939409664	W	87
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	142919	1471939409774	1471939409834	e	69
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	142923	1471939409928	1471939410015	 	32
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	142928	1471939410801	1471939410884	h	72
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	142934	1471939411009	1471939411101	a	65
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143009	1471939411807	1471939411874	v	86
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143011	1471939411999	1471939412070	e	69
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143014	1471939412133	1471939412205	 	32
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143017	1471939413476	1471939413558	l	76
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143022	1471939413637	1471939413723	o	79
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143087	1471939414190	1471939414243	t	84
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143088	1471939414493	1471939414545	s	83
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143089	1471939414654	1471939414695	 	32
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143090	1471939415495	1471939415578	o	79
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143091	1471939415734	1471939415796	f	70
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143151	1471939415833	1471939415912	 	32
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143153	1471939417371	1471939417439	f	70
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143155	1471939417455	1471939417548	o	79
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143157	1471939417704	1471939417798	r	82
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143158	1471939418110	1471939418151	k	75
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143236	1471939419861	1471939419921	,	188
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143238	1471939420046	1471939420089	 	32
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143241	1471939420811	1471939420998	SHIFT	16
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143244	1471939421707	1471939421774	t	84
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143247	1471939422196	1471939422305	BKSP	8
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143250	1471939422446	1471939422540	e	69
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143253	1471939422634	1471939422709	t	84
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143291	1471939423058	1471939423111	c	67
+316	2950	We have lots of forks, etc.	We have lots of fork, etc.	143292	1471939424135	1471939424202	.	190
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143458	1471939427582	1471939428115	SHIFT	16
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143457	1471939427993	1471939428084	M	77
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143460	1471939428178	1471939428269	o	79
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143463	1471939428581	1471939428638	r	82
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143466	1471939428700	1471939428754	r	82
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143471	1471939429130	1471939429221	e	69
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143542	1471939429787	1471939429898	BKSP	8
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143544	1471939429960	1471939430055	BKSP	8
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143546	1471939430620	1471939430691	e	69
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143548	1471939430722	1471939430793	 	32
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143550	1471939430887	1471939430975	t	84
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143554	1471939431045	1471939431140	h	72
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143558	1471939431203	1471939431307	a	65
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143643	1471939432422	1471939432510	n	78
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143644	1471939432635	1471939432726	 	32
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143645	1471939433765	1471939433833	m	77
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143646	1471939433939	1471939434013	i	73
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143648	1471939434185	1471939434250	l	76
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143680	1471939434305	1471939434398	l	76
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143681	1471939434492	1471939434566	i	73
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143683	1471939434660	1471939434731	o	79
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143685	1471939434984	1471939435050	n	78
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143687	1471939435160	1471939435219	 	32
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143778	1471939436631	1471939436720	l	76
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143781	1471939436798	1471939436886	a	65
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143783	1471939437623	1471939437706	n	78
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143785	1471939437800	1471939437867	d	68
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143790	1471939439379	1471939439443	m	77
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143833	1471939439552	1471939439625	i	73
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143837	1471939439782	1471939439860	n	78
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143841	1471939440016	1471939440094	e	69
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143844	1471939440266	1471939440328	s	83
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143848	1471939440661	1471939440728	 	32
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143959	1471939441326	1471939441396	l	76
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143962	1471939441490	1471939441581	i	73
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143965	1471939441721	1471939441814	e	69
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143967	1471939441876	1471939441933	 	32
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	143969	1471939443660	1471939443719	u	85
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144073	1471939443870	1471939443952	n	78
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144074	1471939444923	1471939444986	e	69
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144075	1471939445630	1471939445687	x	88
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144076	1471939447098	1471939447174	p	80
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144078	1471939447283	1471939447390	l	76
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144205	1471939448740	1471939448812	o	79
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144207	1471939449331	1471939449414	d	68
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144210	1471939449492	1471939449580	e	69
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144212	1471939449673	1471939449732	e	69
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144215	1471939450422	1471939450529	BKSP	8
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144217	1471939450888	1471939450982	d	68
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144256	1471939451151	1471939451218	 	32
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144257	1471939451735	1471939451802	i	73
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144259	1471939451990	1471939452053	n	78
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144261	1471939452115	1471939452202	 	32
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144263	1471939452406	1471939452533	a	65
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144299	1471939452702	1471939452762	y	84
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144300	1471939452840	1471939452922	 	32
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144301	1471939453549	1471939453622	BKSP	8
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144302	1471939453700	1471939453789	BKSP	8
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144303	1471939454217	1471939454306	 	32
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144304	1471939454894	1471939454960	l	76
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144319	1471939455189	1471939455249	e	69
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144320	1471939455374	1471939455474	a	65
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144322	1471939455740	1471939455809	s	83
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144325	1471939455903	1471939455977	t	84
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144328	1471939456196	1471939456270	 	32
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144408	1471939457673	1471939457750	6	102
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144410	1471939457859	1471939457931	2	98
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144412	1471939458669	1471939458765	 	32
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144414	1471939459687	1471939459762	c	67
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144415	1471939459825	1471939459917	o	79
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144556	1471939460391	1471939460452	u	85
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144559	1471939460702	1471939460754	n	78
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144561	1471939461523	1471939461603	t	84
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144565	1471939461713	1471939461789	r	82
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144569	1471939463406	1471939463492	i	73
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144626	1471939463740	1471939463809	e	69
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144627	1471939464302	1471939464361	s	83
+316	2962	More than million landmines lie unexploded in at least 62 countries.	More than million landmines lie unexploded in at least 62 countries.	144628	1471939464815	1471939464879	.	190
+316	2990	Thank you for your call.	Thank you for your call	144842	1471939469836	1471939470520	SHIFT	16
+316	2990	Thank you for your call.	Thank you for your call	144843	1471939470417	1471939470520	T	84
+316	2990	Thank you for your call.	Thank you for your call	144844	1471939470582	1471939470654	h	72
+316	2990	Thank you for your call.	Thank you for your call	144845	1471939470732	1471939470807	a	65
+316	2990	Thank you for your call.	Thank you for your call	144848	1471939471042	1471939471106	m	77
+316	2990	Thank you for your call.	Thank you for your call	144852	1471939471544	1471939471656	BKSP	8
+316	2990	Thank you for your call.	Thank you for your call	144858	1471939471734	1471939471793	n	78
+316	2990	Thank you for your call.	Thank you for your call	144906	1471939471880	1471939471944	k	75
+316	2990	Thank you for your call.	Thank you for your call	144907	1471939472163	1471939472210	 	32
+316	2990	Thank you for your call.	Thank you for your call	144908	1471939473012	1471939473079	y	89
+316	2990	Thank you for your call.	Thank you for your call	144910	1471939473110	1471939473209	o	79
+316	2990	Thank you for your call.	Thank you for your call	144913	1471939473224	1471939473296	u	85
+316	2990	Thank you for your call.	Thank you for your call	144937	1471939473376	1471939473463	 	32
+316	2990	Thank you for your call.	Thank you for your call	144940	1471939473915	1471939473978	f	70
+316	2990	Thank you for your call.	Thank you for your call	144943	1471939474010	1471939474096	o	79
+316	2990	Thank you for your call.	Thank you for your call	144946	1471939474175	1471939474216	r	82
+316	2990	Thank you for your call.	Thank you for your call	144948	1471939474310	1471939474382	 	32
+316	2990	Thank you for your call.	Thank you for your call	145058	1471939476580	1471939476668	y	89
+316	2990	Thank you for your call.	Thank you for your call	145060	1471939476715	1471939476818	o	79
+316	2990	Thank you for your call.	Thank you for your call	145064	1471939476880	1471939476958	u	85
+316	2990	Thank you for your call.	Thank you for your call	145067	1471939477237	1471939477302	r	82
+316	2990	Thank you for your call.	Thank you for your call	145069	1471939477365	1471939477438	 	32
+316	2990	Thank you for your call.	Thank you for your call	145094	1471939478064	1471939478154	c	67
+316	2990	Thank you for your call.	Thank you for your call	145099	1471939478232	1471939478320	a	65
+316	2990	Thank you for your call.	Thank you for your call	145105	1471939478523	1471939478573	l	76
+316	2990	Thank you for your call.	Thank you for your call	145108	1471939478651	1471939478724	l	76
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145250	1471939482493	1471939483275	SHIFT	16
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145251	1471939483159	1471939483275	H	72
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145252	1471939483353	1471939483432	e	69
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145253	1471939483557	1471939483615	 	32
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145324	1471939483897	1471939483969	c	67
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145254	1471939483920	1471939483950	v	86
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145328	1471939484047	1471939484133	a	65
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145331	1471939484243	1471939484333	n	78
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145335	1471939484426	1471939484488	 	32
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145338	1471939485632	1471939485719	BKSP	8
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145341	1471939485797	1471939485871	BKSP	8
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145343	1471939485933	1471939486005	BKSP	8
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145347	1471939486064	1471939486122	BKSP	8
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145351	1471939486736	1471939486822	a	65
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145353	1471939486884	1471939486956	n	78
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145396	1471939487032	1471939487107	 	32
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145397	1471939487513	1471939487590	b	66
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145398	1471939487637	1471939487709	e	69
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145399	1471939487774	1471939487826	 	32
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145400	1471939488987	1471939489044	e	69
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145463	1471939489300	1471939489345	x	88
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145466	1471939489793	1471939489862	p	80
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145468	1471939489956	1471939490028	l	76
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145469	1471939491818	1471939491914	s	83
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145470	1471939491976	1471939492049	i	73
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145519	1471939492426	1471939492500	v	86
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145523	1471939492609	1471939492684	e	69
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145528	1471939492793	1471939492849	 	32
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145532	1471939494122	1471939494236	BKSP	8
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145535	1471939494538	1471939494606	,	188
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145538	1471939494715	1471939494790	 	32
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145630	1471939495270	1471939495354	b	66
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145632	1471939495432	1471939495507	u	85
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145634	1471939495585	1471939495656	t	84
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145636	1471939495750	1471939495828	 	32
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145638	1471939497488	1471939497560	h	72
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145679	1471939497640	1471939497710	e	69
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145680	1471939497773	1471939497846	 	32
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145681	1471939498295	1471939498379	i	73
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145682	1471939498441	1471939498497	s	83
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145683	1471939498575	1471939498648	 	32
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145724	1471939499353	1471939499445	a	65
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145726	1471939499711	1471939499783	l	76
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145729	1471939500123	1471939500198	s	83
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145732	1471939500214	1471939500283	o	79
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145734	1471939500564	1471939500619	 	32
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145787	1471939501921	1471939502002	e	69
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145788	1471939502299	1471939502354	r	82
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145791	1471939502432	1471939502489	r	82
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145794	1471939502692	1471939502756	a	65
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145797	1471939503174	1471939503227	t	84
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145842	1471939503265	1471939503354	i	73
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145844	1471939503698	1471939503757	c	67
+316	2997	He can be explosive, but he is also erratic.	He can be explsive, but he is also erratic.	145848	1471939504713	1471939504776	.	190
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	145992	1471939508188	1471939508417	SHIFT	16
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	145995	1471939508365	1471939508432	L	76
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	145997	1471939508926	1471939508983	a	65
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	145999	1471939509445	1471939509517	d	68
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146001	1471939509596	1471939509668	i	73
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146003	1471939509746	1471939509822	e	69
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146058	1471939509943	1471939510004	s	83
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146060	1471939511197	1471939511271	,	188
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146062	1471939511380	1471939511455	 	32
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146065	1471939511625	1471939511906	SHIFT	16
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146068	1471939511859	1471939511906	I	73
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146070	1471939512110	1471939512174	 	32
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146132	1471939512939	1471939512992	a	65
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146136	1471939513070	1471939513142	m	77
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146139	1471939513236	1471939513310	 	32
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146141	1471939514486	1471939514545	f	70
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146143	1471939514592	1471939514677	i	73
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146190	1471939515010	1471939515078	n	78
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146193	1471939515141	1471939515228	i	73
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146197	1471939515997	1471939516080	s	83
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146200	1471939516142	1471939516231	h	72
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146203	1471939516717	1471939516768	e	69
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146240	1471939516911	1471939516983	d	68
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146241	1471939517720	1471939517817	 	32
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146242	1471939518351	1471939518451	w	87
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146243	1471939518545	1471939518635	i	73
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146244	1471939518854	1471939518928	t	84
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146344	1471939518977	1471939519054	h	72
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146346	1471939519273	1471939519353	 	32
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146347	1471939521254	1471939521474	SHIFT	16
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146351	1471939521394	1471939521474	J	74
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146355	1471939521583	1471939521659	u	85
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146359	1471939521909	1471939521977	l	76
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146481	1471939522299	1471939522361	y	89
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146484	1471939522507	1471939522577	 	32
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146487	1471939524083	1471939524162	0	96
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146491	1471939524241	1471939524298	1	97
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146493	1471939524878	1471939525011	 	32
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146549	1471939526346	1471939526434	e	69
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146551	1471939526528	1471939526618	v	86
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146553	1471939526821	1471939526902	e	69
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146555	1471939527215	1471939527287	r	82
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146557	1471939527350	1471939527437	y	89
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146711	1471939528437	1471939528523	 	32
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146712	1471939530483	1471939530591	BKSP	8
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146713	1471939530794	1471939530865	t	84
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146714	1471939530943	1471939531028	h	72
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146715	1471939531153	1471939531244	i	73
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146716	1471939531463	1471939531544	n	78
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146759	1471939531717	1471939531779	g	71
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146760	1471939531863	1471939531931	 	32
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146761	1471939533107	1471939533183	t	84
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146763	1471939533214	1471939533314	i	73
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146765	1471939533439	1471939533501	e	69
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146784	1471939533740	1471939533801	s	83
+316	3012	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 everything ties.	146785	1471939534295	1471939534352	.	190
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	146929	1471939539741	1471939540329	SHIFT	16
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	146930	1471939540260	1471939540345	H	72
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	146931	1471939540423	1471939540513	e	69
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	146932	1471939540545	1471939540629	 	32
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	146933	1471939541730	1471939541784	e	69
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	146934	1471939542190	1471939542251	x	88
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	146955	1471939542848	1471939542934	t	84
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	146956	1471939542981	1471939543069	e	69
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	146957	1471939543602	1471939543656	n	78
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	146958	1471939544144	1471939544206	d	68
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	146959	1471939544315	1471939544389	e	69
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147033	1471939544487	1471939544541	e	69
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147035	1471939544745	1471939544792	d	68
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147038	1471939545238	1471939545353	BKSP	8
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147041	1471939545431	1471939545491	BKSP	8
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147043	1471939547021	1471939547061	BKSP	8
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147045	1471939547753	1471939547828	e	69
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147047	1471939547922	1471939548012	d	68
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147051	1471939548153	1471939548215	 	32
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147162	1471939549028	1471939549599	SHIFT	16
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147164	1471939549548	1471939549646	F	70
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147167	1471939549907	1471939549982	r	82
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147168	1471939550061	1471939550134	e	69
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147169	1471939551465	1471939551536	u	85
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147170	1471939553467	1471939553556	d	68
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147188	1471939553597	1471939553703	i	73
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147190	1471939553735	1471939553840	a	65
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147192	1471939553996	1471939554059	n	78
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147194	1471939554194	1471939554258	 	32
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147195	1471939555420	1471939555493	t	84
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147207	1471939555545	1471939555642	h	72
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147209	1471939555735	1471939555781	e	69
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147210	1471939556310	1471939556380	o	79
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147211	1471939556661	1471939556729	r	82
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147212	1471939556865	1471939556931	y	89
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147248	1471939557699	1471939557797	 	32
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147251	1471939558346	1471939558417	i	73
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147254	1471939558651	1471939558732	n	78
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147257	1471939558896	1471939558968	t	84
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147261	1471939558999	1471939559101	o	79
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147284	1471939559311	1471939559385	 	32
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147286	1471939560279	1471939560383	a	65
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147288	1471939560555	1471939560637	d	68
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147397	1471939560715	1471939560792	o	80
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147399	1471939561290	1471939561386	BKSP	8
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147401	1471939561730	1471939561822	BKSP	8
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147403	1471939563172	1471939563243	o	79
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147405	1471939563341	1471939563410	l	76
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147406	1471939565137	1471939565198	e	69
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147408	1471939565495	1471939565596	s	83
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147410	1471939567244	1471939567349	c	67
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147464	1471939567564	1471939567650	w	87
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147466	1471939568170	1471939568294	BKSP	8
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147469	1471939569368	1471939569453	e	69
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147472	1471939570348	1471939570439	n	78
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147474	1471939570611	1471939570721	c	67
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147476	1471939570737	1471939570840	e	69
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147488	1471939571311	1471939571425	 	32
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147489	1471939571816	1471939571939	a	65
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147491	1471939572018	1471939572111	n	78
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147494	1471939572236	1471939572310	d	68
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147497	1471939572389	1471939572461	 	32
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147529	1471939573461	1471939573561	a	65
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147530	1471939574030	1471939574115	d	68
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147531	1471939574255	1471939574332	u	85
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147532	1471939574488	1471939574566	l	76
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147533	1471939574816	1471939574908	t	84
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147596	1471939576486	1471939576554	h	72
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147597	1471939576726	1471939576803	o	79
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147598	1471939577089	1471939577154	o	79
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147599	1471939577435	1471939577489	d	68
+316	3030	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adulthood.	147600	1471939578413	1471939578473	.	190
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147754	1471939581386	1471939582801	SHIFT	16
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147755	1471939582735	1471939582863	W	87
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147756	1471939584227	1471939584302	h	72
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147757	1471939584410	1471939584501	e	69
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147758	1471939584579	1471939584637	n	78
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147759	1471939584809	1471939584887	 	32
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147802	1471939585800	1471939585884	i	73
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147804	1471939586025	1471939586088	t	84
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147805	1471939586135	1471939586206	 	32
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147807	1471939586363	1471939586456	i	73
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147808	1471939586628	1471939586707	s	83
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147843	1471939586783	1471939586865	 	32
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147845	1471939588422	1471939588494	u	85
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147847	1471939588572	1471939588675	s	83
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147849	1471939588785	1471939588861	e	69
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147851	1471939588954	1471939589029	d	68
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147903	1471939589096	1471939589162	 	32
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147904	1471939590402	1471939590466	w	87
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147905	1471939590606	1471939590693	e	69
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147906	1471939590835	1471939590885	 	32
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147907	1471939591715	1471939591798	t	84
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147931	1471939592083	1471939592135	r	82
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147933	1471939592182	1471939592267	y	89
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147936	1471939592517	1471939592585	 	32
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147939	1471939593479	1471939593568	a	65
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147942	1471939593646	1471939593736	n	78
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147974	1471939594189	1471939594255	d	68
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147975	1471939594333	1471939594389	 	32
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147976	1471939595345	1471939595422	d	68
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147977	1471939595516	1471939595605	o	79
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	147978	1471939595777	1471939595861	 	32
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148010	1471939596877	1471939596943	a	65
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148012	1471939597037	1471939597111	s	83
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148016	1471939597189	1471939597262	 	32
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148020	1471939598501	1471939598611	m	77
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148023	1471939598643	1471939598745	a	65
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148064	1471939598776	1471939598864	n	78
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148066	1471939599060	1471939599131	t	84
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148070	1471939599522	1471939599646	BKSP	8
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148074	1471939599709	1471939599768	y	89
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148078	1471939599893	1471939599951	 	32
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148081	1471939601004	1471939601101	p	80
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148107	1471939601113	1471939601219	a	65
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148108	1471939601469	1471939601544	t	84
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148109	1471939601575	1471939601654	h	72
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148110	1471939602391	1471939602471	s	83
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148111	1471939602565	1471939602638	 	32
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148136	1471939602797	1471939602904	a	65
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148137	1471939603032	1471939603109	s	83
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148138	1471939603167	1471939603240	 	32
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148141	1471939604246	1471939604310	p	80
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148144	1471939604419	1471939604492	o	79
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148189	1471939604875	1471939604928	s	83
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148191	1471939605021	1471939605079	s	83
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148196	1471939605438	1471939605528	i	73
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148201	1471939606062	1471939606128	b	66
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148205	1471939606191	1471939606263	l	76
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148227	1471939606366	1471939606447	e	69
+316	3050	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	148229	1471939607404	1471939607463	.	190
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148416	1471939610446	1471939610690	SHIFT	16
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148417	1471939610634	1471939610705	I	73
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148418	1471939611049	1471939611121	a	65
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148419	1471939611309	1471939611373	 	32
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148421	1471939611757	1471939611823	BKSP	8
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148423	1471939611916	1471939611976	BKSP	8
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148425	1471939612463	1471939612542	 	32
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148427	1471939612620	1471939612740	a	65
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148457	1471939612870	1471939612942	m	77
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148460	1471939613060	1471939613142	 	32
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148463	1471939614414	1471939614481	t	84
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148466	1471939614543	1471939614630	o	79
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148469	1471939614739	1471939614813	o	79
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148527	1471939615473	1471939615548	,	188
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148529	1471939615658	1471939615732	 	32
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148532	1471939616578	1471939616666	a	65
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148536	1471939616806	1471939616900	n	78
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148538	1471939617119	1471939617170	s	83
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148600	1471939618379	1471939618486	BKSP	8
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148602	1471939618642	1471939618737	d	68
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148605	1471939618799	1471939618871	 	32
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148607	1471939619199	1471939619272	w	87
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148609	1471939619383	1471939619440	e	69
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148611	1471939619487	1471939619573	 	32
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148685	1471939620204	1471939620290	a	65
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148687	1471939620522	1471939620592	r	82
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148688	1471939620717	1471939620778	e	32
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148689	1471939621607	1471939621678	BKSP	8
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148690	1471939621757	1471939621844	BKSP	8
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148691	1471939622502	1471939622580	e	69
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148767	1471939622654	1471939622730	 	32
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148768	1471939624157	1471939624217	w	87
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148770	1471939624217	1471939624331	o	79
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148772	1471939624627	1471939624660	f	70
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148775	1471939626097	1471939626186	BKSP	8
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148778	1471939626295	1471939626386	r	82
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148849	1471939626951	1471939627021	k	75
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148851	1471939627111	1471939627188	i	73
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148853	1471939627422	1471939627506	n	78
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148855	1471939628023	1471939628170	BKSP	8
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148857	1471939628514	1471939628590	n	78
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148859	1471939629313	1471939629423	BKSP	8
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148860	1471939630223	1471939630294	n	78
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148924	1471939630382	1471939630445	g	71
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148927	1471939630445	1471939630528	 	32
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148931	1471939632239	1471939632331	v	86
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148935	1471939632848	1471939632932	e	69
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148938	1471939633073	1471939633150	r	82
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148988	1471939633245	1471939633333	y	89
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148990	1471939633596	1471939633651	 	32
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148993	1471939634513	1471939634617	h	72
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148996	1471939634632	1471939634734	a	65
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	148999	1471939635062	1471939635136	r	82
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149043	1471939635385	1471939635438	d	68
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149044	1471939635563	1471939635638	 	32
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149045	1471939636659	1471939636738	t	84
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149046	1471939636769	1471939636862	o	79
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149047	1471939637018	1471939637092	 	32
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149171	1471939637640	1471939637710	r	82
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149172	1471939637850	1471939637925	u	85
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149173	1471939638238	1471939638309	n	78
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149175	1471939639674	1471939639792	 	32
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149177	1471939641489	1471939641582	BKSP	8
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149179	1471939641644	1471939641718	BKSP	8
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149181	1471939641780	1471939641866	BKSP	8
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149183	1471939641913	1471939642001	BKSP	8
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149184	1471939642941	1471939643018	t	84
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149215	1471939643070	1471939643168	u	85
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149217	1471939643262	1471939643337	r	82
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149220	1471939643778	1471939643838	n	78
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149223	1471939643909	1471939643988	 	32
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149227	1471939644254	1471939644353	i	73
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149270	1471939644453	1471939644522	t	84
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149271	1471939644585	1471939644671	 	32
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149272	1471939645614	1471939645706	a	65
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149273	1471939646081	1471939646158	r	82
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149274	1471939646236	1471939646325	o	79
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149291	1471939646445	1471939646509	u	85
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149292	1471939646771	1471939646858	n	78
+316	3061	I am too, and we are working very hard to turn it around.	I am too, and we are working very hard to turn it around	149294	1471939647121	1471939647180	d	68

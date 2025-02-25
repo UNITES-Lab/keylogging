@@ -1,0 +1,633 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104745	1471995464331	1471995464633	SHIFT	16
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104747	1471995464553	1471995464656	a	65
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104749	1471995465049	1471995465200	V	86
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104751	1471995465209	1471995465400	A	65
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104752	1471995466072	1471995466152	BKSP	8
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104753	1471995466264	1471995466328	BKSP	8
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104754	1471995466440	1471995466504	BKSP	8
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104755	1471995466585	1471995466776	CAPS_LOCK	20
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104756	1471995466977	1471995467272	SHIFT	16
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104757	1471995467153	1471995467328	A	65
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104758	1471995467728	1471995467904	v	86
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104792	1471995467928	1471995468104	a	65
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104799	1471995468128	1471995468264	 	32
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104802	1471995468624	1471995468688	p	80
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104804	1471995468824	1471995468904	l	76
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104805	1471995468905	1471995469016	e	69
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104833	1471995469112	1471995469232	a	65
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104837	1471995469288	1471995469472	s	83
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104840	1471995469456	1471995469624	e	69
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104842	1471995469592	1471995469728	 	32
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104847	1471995469944	1471995470016	p	80
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104855	1471995470168	1471995470265	u	85
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104857	1471995470360	1471995470488	t	84
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104860	1471995470496	1471995470664	 	32
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104864	1471995470672	1471995470752	i	73
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104872	1471995470856	1471995470984	t	84
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104894	1471995471121	1471995471257	 	32
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104896	1471995471393	1471995471473	o	79
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104900	1471995471617	1471995471697	n	78
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104902	1471995471745	1471995471873	 	32
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104905	1471995471881	1471995471977	m	77
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104939	1471995472537	1471995472617	y	89
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104942	1471995472697	1471995472889	 	32
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104945	1471995472913	1471995473033	c	67
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104948	1471995473105	1471995473273	a	65
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104966	1471995473249	1471995473313	l	76
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104968	1471995473361	1471995473489	e	69
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104969	1471995473577	1471995473649	n	78
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104971	1471995473833	1471995473969	d	68
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104973	1471995474049	1471995474217	a	65
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	104975	1471995474225	1471995474417	r	82
+253	2151	Ava please put it on my calendar.	Ava please put it on my calendar.	105056	1471995475121	1471995475225	.	190
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105174	1471995480265	1471995480505	SHIFT	16
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105176	1471995480433	1471995480608	R	82
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105181	1471995480745	1471995480840	i	73
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105183	1471995480873	1471995480968	o	79
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105186	1471995481113	1471995481280	 	32
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105188	1471995481529	1471995481640	d	68
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105223	1471995481745	1471995481897	e	69
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105227	1471995481897	1471995482072	 	32
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105233	1471995482689	1471995482864	SHIFT	16
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105237	1471995482832	1471995482912	J	74
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105241	1471995483032	1471995483192	a	65
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105293	1471995483176	1471995483304	n	78
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105295	1471995483481	1471995483648	e	69
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105297	1471995483696	1471995483808	i	73
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105299	1471995483824	1471995483992	r	82
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105301	1471995484520	1471995484584	o	79
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105304	1471995484712	1471995484848	 	32
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105323	1471995484992	1471995485072	p	80
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105327	1471995485208	1471995485248	o	79
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105331	1471995485368	1471995485432	l	76
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105336	1471995485568	1471995485656	i	73
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105340	1471995485672	1471995485800	c	67
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105366	1471995485920	1471995486088	e	69
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105368	1471995486112	1471995486264	 	32
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105370	1471995486528	1471995486632	f	70
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105372	1471995486744	1471995486889	r	82
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105420	1471995486880	1471995487032	e	69
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105421	1471995487112	1471995487232	e	69
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105422	1471995487336	1471995487496	d	68
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105423	1471995487528	1471995487688	 	32
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105424	1471995488080	1471995488184	h	72
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105425	1471995488360	1471995488520	i	73
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105436	1471995488665	1471995488786	m	77
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105438	1471995489049	1471995489185	 	32
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105441	1471995489225	1471995489433	a	65
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105444	1471995489721	1471995489841	f	70
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105446	1471995489937	1471995490041	t	84
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105456	1471995490081	1471995490225	e	69
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105458	1471995490193	1471995490361	r	82
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105460	1471995490417	1471995490569	 	32
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105464	1471995490601	1471995490801	a	65
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105469	1471995490802	1471995490937	 	32
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105495	1471995491321	1471995491425	m	77
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105498	1471995491441	1471995491562	a	65
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105500	1471995491673	1471995491769	s	83
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105503	1471995491873	1471995491977	s	83
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105506	1471995491993	1471995492089	i	73
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105539	1471995492161	1471995492313	v	86
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105541	1471995492377	1471995492537	e	69
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105543	1471995492513	1471995492665	 	32
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105544	1471995493025	1471995493113	m	77
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105545	1471995493121	1471995493305	a	65
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105579	1471995493257	1471995493361	n	78
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105582	1471995493601	1471995493729	h	72
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105585	1471995493730	1471995493833	u	85
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105588	1471995493929	1471995494049	n	78
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105592	1471995494281	1471995494449	t	84
+253	2163	Rio de Janeiro police freed him after a massive manhunt.	Rio de Janeiro police freed him after a massive manhunt.	105596	1471995494569	1471995494673	.	190
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105786	1471995499713	1471995499936	SHIFT	16
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105785	1471995499825	1471995499904	I	73
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105787	1471995501072	1471995501144	'	222
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105788	1471995501416	1471995501480	l	76
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105789	1471995501576	1471995501664	l	76
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105790	1471995502000	1471995502120	 	32
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105816	1471995502488	1471995502624	f	70
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105817	1471995502656	1471995502712	o	73
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105818	1471995502864	1471995502952	n	78
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105819	1471995503000	1471995503184	d	68
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105859	1471995503144	1471995503304	 	32
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105860	1471995503360	1471995503528	s	83
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105862	1471995504024	1471995504096	o	79
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105864	1471995504240	1471995504368	m	77
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105866	1471995504400	1471995504584	e	69
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105868	1471995504880	1471995504952	o	79
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105897	1471995505288	1471995505432	n	78
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105899	1471995505528	1471995505720	e	69
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105900	1471995505832	1471995506032	 	32
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105901	1471995506169	1471995506337	t	84
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105902	1471995506337	1471995506441	o	79
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105909	1471995506473	1471995506628	 	32
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105912	1471995506617	1471995506793	d	68
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105915	1471995506778	1471995506849	o	79
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105919	1471995506929	1471995507065	 	32
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105923	1471995507113	1471995507185	i	73
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105939	1471995507233	1471995507409	t	84
+253	2175	I'll find someone to do it.	I'll fiond someone to do it.	105944	1471995507665	1471995507729	.	190
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106081	1471995510833	1471995511017	SHIFT	16
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106082	1471995510993	1471995511153	T	84
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106083	1471995511457	1471995511561	h	72
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106084	1471995511577	1471995511729	e	69
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106086	1471995511705	1471995511785	y	89
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106088	1471995511897	1471995512073	 	32
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106121	1471995512057	1471995512265	a	65
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106122	1471995512193	1471995512393	r	82
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106123	1471995512361	1471995512537	e	69
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106124	1471995512545	1471995512729	 	32
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106125	1471995512785	1471995512993	s	83
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106126	1471995513273	1471995513369	p	80
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106191	1471995514577	1471995514705	e	69
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106192	1471995515089	1471995515241	c	67
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106195	1471995515289	1471995515377	i	73
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106198	1471995515641	1471995515769	f	70
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106235	1471995515753	1471995515840	i	73
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106238	1471995515913	1471995516064	c	67
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106244	1471995516161	1471995516345	a	65
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106247	1471995516729	1471995516776	l	76
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106250	1471995516873	1471995516952	l	76
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106252	1471995517136	1471995517216	y	89
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106274	1471995517305	1471995517456	 	32
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106276	1471995517920	1471995518040	c	67
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106275	1471995517968	1471995518032	o	79
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106277	1471995518168	1471995518248	n	78
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106278	1471995518296	1471995518392	c	67
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106306	1471995518504	1471995518632	e	69
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106309	1471995518712	1471995518890	r	82
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106312	1471995518880	1471995518976	n	78
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106315	1471995519000	1471995519136	e	69
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106317	1471995519232	1471995519392	d	68
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106363	1471995519376	1471995519544	 	32
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106364	1471995519560	1471995519720	a	65
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106365	1471995520056	1471995520216	b	66
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106366	1471995520256	1471995520344	o	79
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106367	1471995520448	1471995520536	u	85
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106369	1471995520560	1471995520720	t	84
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106405	1471995520800	1471995520960	 	32
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106407	1471995521016	1471995521160	t	84
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106409	1471995521448	1471995521528	h	72
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106411	1471995521624	1471995521785	e	69
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106438	1471995521776	1471995521936	 	32
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106440	1471995522384	1471995522456	i	73
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106443	1471995522576	1471995522664	n	78
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106445	1471995522705	1471995522856	t	84
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106447	1471995522872	1471995523040	e	69
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106477	1471995523000	1471995523176	r	82
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106480	1471995523761	1471995523905	c	67
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106487	1471995523873	1471995523945	o	79
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106494	1471995524033	1471995524105	m	77
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106497	1471995524185	1471995524257	p	80
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106502	1471995524297	1471995524473	a	65
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106522	1471995524481	1471995524569	n	78
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106524	1471995524729	1471995524801	y	89
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106527	1471995525081	1471995525217	 	32
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106530	1471995525409	1471995525489	n	78
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106534	1471995525601	1471995525673	o	79
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106563	1471995525745	1471995525897	t	84
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106565	1471995526041	1471995526201	e	69
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106567	1471995526313	1471995526481	s	83
+253	2182	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	106569	1471995526649	1471995526729	.	190
+253	2195	Sorry it took so long.	Sorry it took so long.	106754	1471995533536	1471995533792	SHIFT	16
+253	2195	Sorry it took so long.	Sorry it took so long.	106755	1471995533689	1471995533880	S	83
+253	2195	Sorry it took so long.	Sorry it took so long.	106756	1471995534089	1471995534152	o	79
+253	2195	Sorry it took so long.	Sorry it took so long.	106757	1471995534393	1471995534496	r	82
+253	2195	Sorry it took so long.	Sorry it took so long.	106758	1471995534585	1471995534704	r	82
+253	2195	Sorry it took so long.	Sorry it took so long.	106759	1471995534720	1471995534792	y	89
+253	2195	Sorry it took so long.	Sorry it took so long.	106781	1471995534865	1471995534992	 	32
+253	2195	Sorry it took so long.	Sorry it took so long.	106783	1471995535193	1471995535256	i	73
+253	2195	Sorry it took so long.	Sorry it took so long.	106785	1471995535304	1471995535448	t	84
+253	2195	Sorry it took so long.	Sorry it took so long.	106789	1471995535536	1471995535696	 	32
+253	2195	Sorry it took so long.	Sorry it took so long.	106793	1471995535832	1471995535992	t	84
+253	2195	Sorry it took so long.	Sorry it took so long.	106820	1471995535994	1471995536064	o	79
+253	2195	Sorry it took so long.	Sorry it took so long.	106821	1471995536160	1471995536232	o	79
+253	2195	Sorry it took so long.	Sorry it took so long.	106822	1471995536360	1471995536432	k	75
+253	2195	Sorry it took so long.	Sorry it took so long.	106823	1471995536544	1471995536688	 	32
+253	2195	Sorry it took so long.	Sorry it took so long.	106824	1471995536720	1471995536896	s	83
+253	2195	Sorry it took so long.	Sorry it took so long.	106847	1471995536864	1471995536936	o	79
+253	2195	Sorry it took so long.	Sorry it took so long.	106849	1471995537008	1471995537136	 	32
+253	2195	Sorry it took so long.	Sorry it took so long.	106851	1471995537200	1471995537248	l	76
+253	2195	Sorry it took so long.	Sorry it took so long.	106853	1471995537360	1471995537424	o	79
+253	2195	Sorry it took so long.	Sorry it took so long.	106855	1471995537577	1471995537648	n	78
+253	2195	Sorry it took so long.	Sorry it took so long.	106857	1471995537728	1471995537880	g	71
+253	2195	Sorry it took so long.	Sorry it took so long.	106946	1471995538568	1471995538672	.	190
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107140	1471995546833	1471995547089	SHIFT	16
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107141	1471995547025	1471995547161	B	66
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107143	1471995547313	1471995547402	u	85
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107145	1471995547425	1471995547577	t	84
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107147	1471995547593	1471995547777	 	32
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107167	1471995547753	1471995547913	t	84
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107169	1471995547825	1471995547913	h	72
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107171	1471995548033	1471995548217	e	69
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107173	1471995548337	1471995548497	 	32
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107175	1471995548713	1471995548849	c	67
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107177	1471995548921	1471995549017	h	72
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107221	1471995549105	1471995549201	i	73
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107223	1471995549281	1471995549449	e	69
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107224	1471995549889	1471995550041	f	70
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107225	1471995550337	1471995550505	s	83
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107226	1471995550513	1471995550656	 	32
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107246	1471995550897	1471995551000	m	77
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107248	1471995551105	1471995551192	i	73
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107251	1471995551313	1471995551464	g	71
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107255	1471995551481	1471995551560	h	72
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107257	1471995551601	1471995551768	t	84
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107289	1471995552017	1471995552176	 	32
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107290	1471995552264	1471995552392	d	68
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107291	1471995552497	1471995552600	e	69
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107292	1471995552697	1471995552792	p	80
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107293	1471995552824	1471995552936	e	69
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107324	1471995552984	1471995553072	n	78
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107325	1471995553160	1471995553304	d	68
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107327	1471995553480	1471995553608	 	32
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107329	1471995553904	1471995553984	o	79
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107331	1471995554128	1471995554200	n	78
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107350	1471995554224	1471995554400	 	32
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107352	1471995554368	1471995554529	t	84
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107355	1471995554488	1471995554560	h	72
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107357	1471995554600	1471995554784	e	69
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107360	1471995554800	1471995554928	 	32
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107413	1471995555232	1471995555368	r	82
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107415	1471995555408	1471995555480	u	85
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107417	1471995555616	1471995555696	n	78
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107418	1471995557000	1471995557096	,	188
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107419	1471995557256	1471995557408	 	32
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107427	1471995557912	1471995558064	s	83
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107428	1471995558065	1471995558128	o	79
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107429	1471995558160	1471995558288	 	32
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107430	1471995558328	1471995558432	h	72
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107431	1471995558464	1471995558561	i	73
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107462	1471995558625	1471995558793	s	83
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107463	1471995558777	1471995558905	 	32
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107464	1471995559409	1471995559481	n	78
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107465	1471995559601	1471995559657	u	85
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107466	1471995559793	1471995559881	m	77
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107476	1471995559883	1471995559985	b	66
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107478	1471995560081	1471995560241	e	69
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107482	1471995560209	1471995560385	r	82
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107487	1471995560409	1471995560593	s	83
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107492	1471995560753	1471995560889	 	32
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107516	1471995561105	1471995561217	m	77
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107518	1471995561265	1471995561433	a	65
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107520	1471995561473	1471995561545	y	89
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107522	1471995561577	1471995561737	 	32
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107524	1471995561777	1471995561889	b	66
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107547	1471995561993	1471995562145	e	69
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107550	1471995562145	1471995562282	 	32
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107553	1471995562273	1471995562361	l	76
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107556	1471995562441	1471995562505	i	73
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107559	1471995562625	1471995562713	m	77
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107586	1471995562817	1471995562897	i	73
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107587	1471995562969	1471995563121	t	84
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107588	1471995563145	1471995563289	e	69
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107589	1471995563449	1471995563585	d	68
+253	2202	But the Chiefs might depend on the run, so his numbers may be limited.	But the chiefs might depend on the run, so his numbers may be limited.	107590	1471995563857	1471995563945	.	190
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107723	1471995569640	1471995570024	SHIFT	16
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107724	1471995569929	1471995570112	W	87
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107725	1471995570704	1471995570848	e	69
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107727	1471995571456	1471995571552	'	222
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107729	1471995571632	1471995571777	r	82
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107756	1471995571768	1471995571936	e	69
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107758	1471995572000	1471995572144	 	32
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107761	1471995572520	1471995572600	n	78
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107763	1471995572728	1471995572800	o	79
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107764	1471995572952	1471995573096	t	84
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107765	1471995573248	1471995573376	 	32
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107820	1471995573880	1471995574024	a	65
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107823	1471995574336	1471995574440	d	68
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107827	1471995574536	1471995574672	v	86
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107831	1471995574848	1471995575016	e	69
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107836	1471995575248	1471995575376	r	82
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107952	1471995577001	1471995577169	s	83
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107955	1471995577137	1471995577369	a	65
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107962	1471995577617	1471995577753	r	82
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107966	1471995577754	1471995577841	i	73
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107970	1471995577881	1471995578049	a	65
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107924	1471995578081	1471995578177	l	76
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107928	1471995578625	1471995578777	 	32
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107930	1471995579145	1471995579209	i	73
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107933	1471995579321	1471995579401	n	78
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107936	1471995579417	1471995579569	 	32
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107949	1471995579545	1471995579689	t	84
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107953	1471995579633	1471995579721	h	72
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107959	1471995579777	1471995579865	i	73
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107963	1471995579897	1471995580057	s	83
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107968	1471995580393	1471995580473	,	188
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107971	1471995580585	1471995580729	 	32
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107997	1471995581185	1471995581305	b	66
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107998	1471995581393	1471995581481	u	85
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	107999	1471995581513	1471995581657	t	84
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108000	1471995581769	1471995581905	 	32
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108001	1471995582193	1471995582377	w	87
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108026	1471995582473	1471995582625	e	69
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108027	1471995582657	1471995582809	 	32
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108028	1471995582865	1471995583009	e	69
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108029	1471995583121	1471995583321	a	65
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108047	1471995583297	1471995583385	n	78
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108048	1471995583473	1471995583641	t	84
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108049	1471995583785	1471995583921	 	32
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108050	1471995584121	1471995584273	t	84
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108051	1471995584289	1471995584385	o	79
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108052	1471995584473	1471995584577	 	32
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108063	1471995584657	1471995584729	k	75
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108064	1471995584857	1471995584913	n	78
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108065	1471995585009	1471995585105	o	79
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108066	1471995585153	1471995585337	w	87
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108067	1471995585345	1471995585481	 	32
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108088	1471995585729	1471995585864	w	87
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108090	1471995585889	1471995585960	h	72
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108093	1471995586001	1471995586176	a	65
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108096	1471995586201	1471995586336	t	84
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108099	1471995586768	1471995586840	;	186
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108138	1471995587665	1471995587736	BKSP	8
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108140	1471995588432	1471995588488	'	222
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108142	1471995588552	1471995588720	s	83
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108143	1471995588680	1471995588856	 	32
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108144	1471995589496	1471995589632	g	71
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108171	1471995589600	1471995589688	o	79
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108173	1471995589768	1471995589848	i	73
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108175	1471995589992	1471995590072	n	78
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108177	1471995590128	1471995590288	g	71
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108180	1471995590264	1471995590424	 	32
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108183	1471995590480	1471995590552	o	79
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108204	1471995590673	1471995590752	n	78
+253	2215	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we eant to know what's going on.	108206	1471995591176	1471995591240	.	190
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108606	1471995599561	1471995609608	BKSP	8
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108501	1471995604409	1471995604632	SHIFT	16
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108500	1471995604553	1471995604624	I	73
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108502	1471995604761	1471995604920	 	32
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108503	1471995604944	1471995605072	d	68
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108505	1471995605168	1471995605256	e	69
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108507	1471995605392	1471995605504	c	67
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108528	1471995605472	1471995605536	i	73
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108532	1471995605625	1471995605744	d	68
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108534	1471995605856	1471995605952	e	69
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108537	1471995606064	1471995606208	d	68
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108540	1471995606408	1471995606568	 	32
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108543	1471995606624	1471995606768	t	84
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108561	1471995606784	1471995606856	h	72
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108562	1471995606872	1471995607056	a	65
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108563	1471995607024	1471995607184	t	84
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108564	1471995607248	1471995607408	 	32
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108600	1471995607928	1471995608144	SHIFT	16
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108565	1471995607936	1471995607960	CAPS_LOCK	20
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108566	1471995608040	1471995608120	i	73
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108602	1471995608320	1471995608496	 	32
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108604	1471995608544	1471995608704	A	65
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108608	1471995609728	1471995609800	BKSP	8
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108610	1471995609904	1471995609968	BKSP	8
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108611	1471995610112	1471995610128	BKSP	8
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108612	1471995610176	1471995610392	CAPS_LOCK	20
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108613	1471995610408	1471995610544	 	32
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108614	1471995610880	1471995610944	i	73
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108615	1471995611505	1471995611601	BKSP	8
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108616	1471995611746	1471995612137	SHIFT	16
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108617	1471995612089	1471995612153	I	73
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108618	1471995612249	1471995612401	 	32
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108619	1471995612441	1471995612610	a	65
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108620	1471995612601	1471995612689	m	77
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108621	1471995612753	1471995612897	 	32
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108622	1471995613489	1471995613665	g	71
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108639	1471995613657	1471995613737	o	79
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108641	1471995613817	1471995613897	i	73
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108643	1471995614033	1471995614113	n	78
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108644	1471995614177	1471995614377	g	71
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108645	1471995614345	1471995614513	 	32
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108646	1471995614857	1471995614993	t	84
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108657	1471995615057	1471995615121	o	79
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108659	1471995615169	1471995615305	 	32
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108661	1471995615409	1471995615585	s	83
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108663	1471995615649	1471995615777	t	84
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108665	1471995615913	1471995616081	a	65
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108669	1471995616169	1471995616233	y	89
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108671	1471995616265	1471995616393	 	32
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108673	1471995616449	1471995616521	h	72
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108675	1471995616537	1471995616697	e	69
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108677	1471995616697	1471995616897	r	82
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108718	1471995616873	1471995617033	e	69
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108720	1471995617273	1471995618601	SHIFT	16
+253	2229	I decided that I am going to stay here!	I decided that I am going to stay here!	108719	1471995618457	1471995618537	!	49
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108785	1471995624120	1471995624424	SHIFT	16
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108786	1471995624384	1471995624520	T	84
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108787	1471995624608	1471995624680	h	72
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108788	1471995624752	1471995624832	i	73
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108789	1471995624888	1471995625072	s	83
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108805	1471995625040	1471995625176	 	32
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108806	1471995625288	1471995625408	t	84
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108807	1471995625496	1471995625632	r	82
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108808	1471995625680	1471995625816	a	65
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108809	1471995626160	1471995626328	c	67
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108810	1471995626376	1471995626448	k	75
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108823	1471995626600	1471995626728	 	32
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108824	1471995626816	1471995626992	s	83
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108825	1471995627056	1471995627168	t	84
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108826	1471995627232	1471995627392	a	65
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108827	1471995627400	1471995627488	n	78
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108846	1471995627560	1471995627696	d	68
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108849	1471995627872	1471995628072	s	83
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108852	1471995628104	1471995628256	 	32
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108855	1471995628376	1471995628537	a	65
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108856	1471995628689	1471995628761	l	76
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108873	1471995628865	1471995628937	o	79
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108874	1471995629065	1471995629161	n	78
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108875	1471995629633	1471995629793	e	69
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108876	1471995629889	1471995630041	 	32
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108877	1471995630257	1471995630417	a	65
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108890	1471995630473	1471995630625	s	83
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108893	1471995630577	1471995630729	 	32
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108896	1471995630905	1471995631121	SHIFT	16
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108895	1471995631025	1471995631097	K	75
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108897	1471995631209	1471995631273	i	73
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108898	1471995631385	1471995631473	n	78
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108942	1471995631602	1471995631761	g	71
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108944	1471995631841	1471995631977	 	32
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108946	1471995632817	1471995632897	BKSP	8
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108948	1471995633009	1471995633065	BKSP	8
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108950	1471995633177	1471995633233	BKSP	8
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108952	1471995633345	1471995633385	BKSP	8
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108954	1471995633505	1471995633561	BKSP	8
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108958	1471995634409	1471995634481	k	75
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108960	1471995634593	1471995634657	i	73
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108963	1471995634801	1471995634897	n	78
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108933	1471995634945	1471995635113	g	71
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108935	1471995635073	1471995635201	 	32
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108938	1471995635625	1471995635705	o	79
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108940	1471995635809	1471995635969	f	70
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108961	1471995635937	1471995636121	 	32
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108964	1471995636089	1471995636225	t	84
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108966	1471995636185	1471995636265	h	72
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108967	1471995636313	1471995636465	e	69
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108968	1471995636425	1471995636561	 	32
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108969	1471995636849	1471995636985	c	67
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108975	1471995637049	1471995637129	i	73
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108976	1471995637185	1471995637353	r	82
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108977	1471995637681	1471995637809	c	67
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108978	1471995637809	1471995637921	u	85
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108980	1471995637961	1471995638049	i	73
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	108999	1471995638033	1471995638176	t	84
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	109000	1471995638273	1471995638440	s	83
+253	2235	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	109001	1471995638945	1471995639008	.	190
+253	2240	I will be thinking of you.	I will be thinking of you.	109051	1471995643160	1471995643440	SHIFT	16
+253	2240	I will be thinking of you.	I will be thinking of you.	109052	1471995643376	1471995643464	I	73
+253	2240	I will be thinking of you.	I will be thinking of you.	109053	1471995643536	1471995643680	 	32
+253	2240	I will be thinking of you.	I will be thinking of you.	109054	1471995643704	1471995643896	w	87
+253	2240	I will be thinking of you.	I will be thinking of you.	109055	1471995643888	1471995643953	i	73
+253	2240	I will be thinking of you.	I will be thinking of you.	109056	1471995644120	1471995644192	l	76
+253	2240	I will be thinking of you.	I will be thinking of you.	109057	1471995644280	1471995644352	l	76
+253	2240	I will be thinking of you.	I will be thinking of you.	109059	1471995644360	1471995644520	 	32
+253	2240	I will be thinking of you.	I will be thinking of you.	109062	1471995644745	1471995644864	b	66
+253	2240	I will be thinking of you.	I will be thinking of you.	109067	1471995644952	1471995645096	e	69
+253	2240	I will be thinking of you.	I will be thinking of you.	109081	1471995645072	1471995645232	 	32
+253	2240	I will be thinking of you.	I will be thinking of you.	109082	1471995645288	1471995645440	t	84
+253	2240	I will be thinking of you.	I will be thinking of you.	109083	1471995645472	1471995645552	h	72
+253	2240	I will be thinking of you.	I will be thinking of you.	109084	1471995645608	1471995645688	i	73
+253	2240	I will be thinking of you.	I will be thinking of you.	109085	1471995645784	1471995645872	n	78
+253	2240	I will be thinking of you.	I will be thinking of you.	109087	1471995645920	1471995646041	k	75
+253	2240	I will be thinking of you.	I will be thinking of you.	109107	1471995646177	1471995646233	i	73
+253	2240	I will be thinking of you.	I will be thinking of you.	109108	1471995646385	1471995646465	n	78
+253	2240	I will be thinking of you.	I will be thinking of you.	109109	1471995646537	1471995646697	g	71
+253	2240	I will be thinking of you.	I will be thinking of you.	109110	1471995646737	1471995646905	 	32
+253	2240	I will be thinking of you.	I will be thinking of you.	109111	1471995647225	1471995647297	o	79
+253	2240	I will be thinking of you.	I will be thinking of you.	109125	1471995647433	1471995647593	f	70
+253	2240	I will be thinking of you.	I will be thinking of you.	109127	1471995647577	1471995647721	 	32
+253	2240	I will be thinking of you.	I will be thinking of you.	109129	1471995647851	1471995647921	y	89
+253	2240	I will be thinking of you.	I will be thinking of you.	109131	1471995648009	1471995648097	o	79
+253	2240	I will be thinking of you.	I will be thinking of you.	109132	1471995648201	1471995648273	u	85
+253	2240	I will be thinking of you.	I will be thinking of you.	109138	1471995648705	1471995648777	.	190
+253	2244	I am at the lake.	I am at the lake.	109194	1471995651913	1471995652145	SHIFT	16
+253	2244	I am at the lake.	I am at the lake.	109195	1471995652113	1471995652169	I	73
+253	2244	I am at the lake.	I am at the lake.	109196	1471995652225	1471995652401	 	32
+253	2244	I am at the lake.	I am at the lake.	109197	1471995652449	1471995652633	a	65
+253	2244	I am at the lake.	I am at the lake.	109198	1471995652617	1471995652689	m	77
+253	2244	I am at the lake.	I am at the lake.	109199	1471995652745	1471995652889	 	32
+253	2244	I am at the lake.	I am at the lake.	109210	1471995653017	1471995653241	a	65
+253	2244	I am at the lake.	I am at the lake.	109211	1471995653777	1471995653897	t	84
+253	2244	I am at the lake.	I am at the lake.	109212	1471995653993	1471995654201	 	32
+253	2244	I am at the lake.	I am at the lake.	109213	1471995654169	1471995654337	t	84
+253	2244	I am at the lake.	I am at the lake.	109226	1471995654281	1471995654353	h	72
+253	2244	I am at the lake.	I am at the lake.	109228	1471995654441	1471995654593	e	69
+253	2244	I am at the lake.	I am at the lake.	109230	1471995654593	1471995654721	 	32
+253	2244	I am at the lake.	I am at the lake.	109232	1471995655081	1471995655153	l	76
+253	2244	I am at the lake.	I am at the lake.	109234	1471995655265	1471995655448	a	65
+253	2244	I am at the lake.	I am at the lake.	109235	1471995655673	1471995655753	k	75
+253	2244	I am at the lake.	I am at the lake.	109236	1471995655817	1471995655977	e	69
+253	2244	I am at the lake.	I am at the lake.	109237	1471995656233	1471995656288	.	190
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109291	1471995659288	1471995659736	SHIFT	16
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109289	1471995659624	1471995659712	J	74
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109292	1471995659824	1471995659896	u	85
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109293	1471995659976	1471995660184	s	83
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109294	1471995660168	1471995660328	t	84
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109295	1471995660392	1471995660576	 	32
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109301	1471995660536	1471995660688	t	84
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109302	1471995660640	1471995660704	h	72
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109303	1471995660808	1471995660880	o	79
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109304	1471995660984	1471995661064	u	85
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109305	1471995661112	1471995661248	g	71
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109306	1471995661280	1471995661360	h	72
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109308	1471995661384	1471995661592	t	84
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109313	1471995661816	1471995661960	 	32
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109316	1471995662184	1471995662264	y	89
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109320	1471995662376	1471995662464	o	79
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109324	1471995662576	1471995662648	u	85
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109335	1471995662712	1471995662840	 	32
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109337	1471995663104	1471995663168	o	79
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109339	1471995663785	1471995663897	u	85
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109341	1471995664953	1471995665074	g	71
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109347	1471995665065	1471995665145	h	72
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109348	1471995665185	1471995665313	t	84
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109349	1471995665369	1471995665537	a	65
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109350	1471995665561	1471995665721	 	32
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109351	1471995665841	1471995665905	k	75
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109352	1471995666001	1471995666081	n	78
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109403	1471995666161	1471995666241	o	79
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109404	1471995666265	1471995666457	w	87
+253	2247	Just thought you oughta know.	Just thought you oughta know.	109405	1471995668401	1471995668505	.	190
+253	2250	Travis is in charge.	Travis is in charge.	109450	1471995674776	1471995675064	SHIFT	16
+253	2250	Travis is in charge.	Travis is in charge.	109451	1471995675032	1471995675120	T	84
+253	2250	Travis is in charge.	Travis is in charge.	109452	1471995675224	1471995675312	r	82
+253	2250	Travis is in charge.	Travis is in charge.	109453	1471995675384	1471995675552	a	65
+253	2250	Travis is in charge.	Travis is in charge.	109454	1471995675792	1471995675912	v	86
+253	2250	Travis is in charge.	Travis is in charge.	109455	1471995675945	1471995676024	i	73
+253	2250	Travis is in charge.	Travis is in charge.	109462	1471995676064	1471995676248	s	83
+253	2250	Travis is in charge.	Travis is in charge.	109463	1471995676424	1471995676600	 	32
+253	2250	Travis is in charge.	Travis is in charge.	109464	1471995676816	1471995676896	i	73
+253	2250	Travis is in charge.	Travis is in charge.	109465	1471995677208	1471995677386	s	83
+253	2250	Travis is in charge.	Travis is in charge.	109471	1471995677353	1471995677488	 	32
+253	2250	Travis is in charge.	Travis is in charge.	109472	1471995677528	1471995677600	i	73
+253	2250	Travis is in charge.	Travis is in charge.	109473	1471995677696	1471995677784	n	78
+253	2250	Travis is in charge.	Travis is in charge.	109474	1471995677808	1471995677976	 	32
+253	2250	Travis is in charge.	Travis is in charge.	109475	1471995678032	1471995678176	c	67
+253	2250	Travis is in charge.	Travis is in charge.	109476	1471995678200	1471995678288	h	72
+253	2250	Travis is in charge.	Travis is in charge.	109482	1471995678320	1471995678528	a	65
+253	2250	Travis is in charge.	Travis is in charge.	109483	1471995678496	1471995678648	r	82
+253	2250	Travis is in charge.	Travis is in charge.	109485	1471995678776	1471995678912	g	71
+253	2250	Travis is in charge.	Travis is in charge.	109488	1471995678960	1471995679144	e	69
+253	2250	Travis is in charge.	Travis is in charge.	109490	1471995679776	1471995679848	.	190
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109546	1471995683993	1471995684425	SHIFT	16
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109547	1471995684473	1471995684785	SHIFT	16
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109548	1471995684729	1471995684793	I	73
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109549	1471995684953	1471995685113	 	32
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109550	1471995685193	1471995685385	w	87
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109620	1471995685345	1471995685417	p	79
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109622	1471995685553	1471995685633	u	85
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109624	1471995685801	1471995685897	l	76
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109626	1471995685977	1471995686169	d	68
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109628	1471995686401	1471995686481	BKSP	8
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109629	1471995686601	1471995686657	BKSP	8
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109630	1471995686769	1471995686825	BKSP	8
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109631	1471995686929	1471995687009	BKSP	8
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109632	1471995687521	1471995687593	o	79
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109633	1471995687697	1471995687777	u	85
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109609	1471995687913	1471995687993	l	76
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109610	1471995688057	1471995688233	d	68
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109611	1471995688185	1471995688329	 	32
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109612	1471995688473	1471995688617	a	65
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109613	1471995688721	1471995688833	s	83
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109634	1471995688937	1471995689073	s	83
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109636	1471995689089	1471995689161	u	85
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109638	1471995689297	1471995689385	m	77
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109641	1471995689433	1471995689577	e	69
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109663	1471995689561	1471995689769	 	32
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109664	1471995690121	1471995690264	t	84
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109665	1471995690249	1471995690345	h	72
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109666	1471995690377	1471995690481	i	73
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109667	1471995690457	1471995690648	s	83
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109694	1471995690601	1471995690769	 	32
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109696	1471995690881	1471995691056	w	87
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109700	1471995691417	1471995691528	e	69
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109703	1471995691625	1471995691784	e	69
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109709	1471995691817	1471995691904	k	75
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109712	1471995692000	1471995692144	 	32
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109726	1471995692216	1471995692392	s	83
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109729	1471995692400	1471995692456	o	79
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109732	1471995692584	1471995692664	m	77
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109735	1471995692728	1471995692865	e	69
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109740	1471995692968	1471995693096	t	84
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109760	1471995693144	1471995693216	i	73
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109762	1471995693304	1471995693376	m	77
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109768	1471995693456	1471995693608	e	69
+253	2255	I would assume this week sometime.	I woould assume this week sometime.	109771	1471995693864	1471995693936	.	190
+253	2366	Need to watch closely.	Need to watch closely.	115015	1471995911667	1471995911946	SHIFT	16
+253	2366	Need to watch closely.	Need to watch closely.	115016	1471995911817	1471995911946	N	78
+253	2366	Need to watch closely.	Need to watch closely.	115017	1471995912355	1471995912441	e	69
+253	2366	Need to watch closely.	Need to watch closely.	115018	1471995912521	1471995912617	e	69
+253	2366	Need to watch closely.	Need to watch closely.	115019	1471995912729	1471995912889	d	68
+253	2366	Need to watch closely.	Need to watch closely.	115021	1471995912929	1471995913097	 	32
+253	2366	Need to watch closely.	Need to watch closely.	115041	1471995913305	1471995913417	t	84
+253	2366	Need to watch closely.	Need to watch closely.	115042	1471995913418	1471995913497	o	79
+253	2366	Need to watch closely.	Need to watch closely.	115044	1471995913553	1471995913713	 	32
+253	2366	Need to watch closely.	Need to watch closely.	115046	1471995914009	1471995914129	w	87
+253	2366	Need to watch closely.	Need to watch closely.	115048	1471995914225	1471995914393	a	65
+253	2366	Need to watch closely.	Need to watch closely.	115067	1471995914425	1471995914553	t	84
+253	2366	Need to watch closely.	Need to watch closely.	115070	1471995914913	1471995915049	c	67
+253	2366	Need to watch closely.	Need to watch closely.	115074	1471995915137	1471995915225	h	72
+253	2366	Need to watch closely.	Need to watch closely.	115076	1471995915361	1471995915513	 	32
+253	2366	Need to watch closely.	Need to watch closely.	115078	1471995915921	1471995916041	c	67
+253	2366	Need to watch closely.	Need to watch closely.	115090	1471995916043	1471995916129	l	76
+253	2366	Need to watch closely.	Need to watch closely.	115092	1471995916241	1471995916305	o	79
+253	2366	Need to watch closely.	Need to watch closely.	115095	1471995916321	1471995916537	s	83
+253	2366	Need to watch closely.	Need to watch closely.	115097	1471995916489	1471995916657	e	69
+253	2366	Need to watch closely.	Need to watch closely.	115099	1471995916833	1471995916937	l	76
+253	2366	Need to watch closely.	Need to watch closely.	115116	1471995917121	1471995917201	y	89
+253	2366	Need to watch closely.	Need to watch closely.	115118	1471995917633	1471995917713	.	190

@@ -1,0 +1,645 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+470	4490	This is the limit.	This is the limit.	214821	1471941500179	1471941500435	SHIFT	16
+470	4490	This is the limit.	This is the limit.	214817	1471941500325	1471941500404	T	84
+470	4490	This is the limit.	This is the limit.	214825	1471941500513	1471941500604	h	72
+470	4490	This is the limit.	This is the limit.	214831	1471941500931	1471941500987	i	73
+470	4490	This is the limit.	This is the limit.	214836	1471941501160	1471941501251	s	83
+470	4490	This is the limit.	This is the limit.	214840	1471941501314	1471941501398	 	32
+470	4490	This is the limit.	This is the limit.	214904	1471941501586	1471941501654	i	73
+470	4490	This is the limit.	This is the limit.	214906	1471941501779	1471941501869	s	83
+470	4490	This is the limit.	This is the limit.	214910	1471941502103	1471941502171	 	32
+470	4490	This is the limit.	This is the limit.	214913	1471941502654	1471941502736	t	84
+470	4490	This is the limit.	This is the limit.	214918	1471941502877	1471941502954	h	72
+470	4490	This is the limit.	This is the limit.	214963	1471941503078	1471941503184	e	69
+470	4490	This is the limit.	This is the limit.	214968	1471941503265	1471941503352	 	32
+470	4490	This is the limit.	This is the limit.	214974	1471941503523	1471941503617	l	76
+470	4490	This is the limit.	This is the limit.	214981	1471941503758	1471941503821	i	73
+470	4490	This is the limit.	This is the limit.	214986	1471941503961	1471941504052	m	77
+470	4490	This is the limit.	This is the limit.	215019	1471941504177	1471941504253	i	73
+470	4490	This is the limit.	This is the limit.	215020	1471941504441	1471941504500	t	84
+470	4490	This is the limit.	This is the limit.	215021	1471941504894	1471941504964	.	190
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215205	1471941507135	1471941507787	SHIFT	16
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215201	1471941507698	1471941507779	I	73
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215209	1471941507943	1471941508021	 	32
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215212	1471941508380	1471941508468	h	72
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215214	1471941508656	1471941508721	o	79
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215215	1471941508845	1471941508919	p	80
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215300	1471941509107	1471941509202	e	69
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215303	1471941509499	1471941509569	 	32
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215306	1471941509990	1471941510100	t	84
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215308	1471941510163	1471941510268	h	72
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215310	1471941510393	1471941510469	i	73
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215346	1471941510610	1471941510702	s	83
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215347	1471941510764	1471941510867	 	32
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215348	1471941511023	1471941511102	i	73
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215349	1471941511211	1471941511270	s	83
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215350	1471941511489	1471941511554	 	32
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215397	1471941511851	1471941511919	t	84
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215399	1471941512044	1471941512120	h	72
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215402	1471941512276	1471941512368	e	69
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215404	1471941512446	1471941512535	 	32
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215406	1471941512893	1471941512969	l	76
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215475	1471941513078	1471941513170	a	65
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215477	1471941513295	1471941513401	s	83
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215480	1471941513572	1471941513651	t	84
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215483	1471941514119	1471941514203	 	32
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215486	1471941514704	1471941514801	r	82
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215632	1471941514895	1471941515001	e	69
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215637	1471941515204	1471941515285	v	86
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215643	1471941515536	1471941515619	u	85
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215644	1471941516748	1471941516811	BKSP	8
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215649	1471941517308	1471941517370	i	73
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215650	1471941517604	1471941517685	s	83
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215774	1471941517827	1471941517904	i	73
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215776	1471941518060	1471941518119	o	79
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215778	1471941518307	1471941518370	n	78
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215780	1471941519027	1471941519102	 	32
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215782	1471941519586	1471941519653	f	70
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215883	1471941519888	1471941519970	o	79
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215884	1471941520141	1471941520204	r	82
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215885	1471941520625	1471941520703	 	32
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215888	1471941521124	1471941521418	SHIFT	16
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215891	1471941521328	1471941521434	S	83
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215893	1471941521559	1471941521651	e	69
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215967	1471941522105	1471941522217	p	80
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215968	1471941522482	1471941522564	t	84
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215970	1471941522862	1471941522951	e	69
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215973	1471941523827	1471941523883	m	77
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	215976	1471941524245	1471941524336	b	66
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	216000	1471941524492	1471941524584	e	69
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	216002	1471941524724	1471941524770	r	82
+470	4503	I hope this is the last revision for September.	I hope this is the last revision for September.	216004	1471941524990	1471941525006	.	190
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216279	1471941527846	1471941528249	SHIFT	16
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216280	1471941528112	1471941528249	W	87
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216281	1471941528390	1471941528459	e	69
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216282	1471941530178	1471941530228	'	222
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216283	1471941531191	1471941531269	v	86
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216285	1471941531441	1471941531519	e	69
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216345	1471941531769	1471941531867	 	32
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216347	1471941532304	1471941532416	a	65
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216348	1471941532525	1471941532617	l	76
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216349	1471941532835	1471941532917	r	82
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216350	1471941533026	1471941533148	e	69
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216449	1471941533321	1471941533432	a	65
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216450	1471941533557	1471941533667	d	68
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216451	1471941533854	1471941533935	y	89
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216452	1471941534387	1471941534499	 	32
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216456	1471941535032	1471941535130	e	69
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216526	1471941535365	1471941535464	l	76
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216528	1471941535652	1471941535735	i	73
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216530	1471941535922	1471941536017	m	77
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216532	1471941536173	1471941536252	i	73
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216534	1471941536392	1471941536500	n	78
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216577	1471941536641	1471941536736	a	65
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216580	1471941536783	1471941536865	t	84
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216582	1471941537022	1471941537117	e	69
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216585	1471941537258	1471941537336	d	68
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216587	1471941537790	1471941537900	 	32
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216665	1471941538197	1471941538286	h	72
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216668	1471941538489	1471941538553	i	73
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216672	1471941538740	1471941538818	s	83
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216677	1471941539162	1471941539250	 	32
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216681	1471941539437	1471941539502	s	83
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216759	1471941540128	1471941540217	p	80
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216764	1471941540404	1471941540500	e	69
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216769	1471941540594	1471941540668	e	69
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216773	1471941540888	1471941540984	c	67
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216777	1471941541203	1471941541218	h	72
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216887	1471941541738	1471941541834	 	32
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216888	1471941542336	1471941542434	t	84
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216890	1471941542558	1471941542665	h	72
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216894	1471941542977	1471941543082	e	69
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	216898	1471941543631	1471941543701	r	82
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	217024	1471941544123	1471941544204	a	65
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	217028	1471941544519	1471941544601	p	80
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	217032	1471941545118	1471941545185	y	89
+470	4524	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	217034	1471941545796	1471941545852	.	190
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217213	1471941548253	1471941548650	SHIFT	16
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217211	1471941548535	1471941548635	I	73
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217215	1471941548806	1471941548886	n	78
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217217	1471941549011	1471941549114	 	32
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217220	1471941549255	1471941549334	h	72
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217225	1471941549506	1471941549584	i	73
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217326	1471941549788	1471941549852	s	83
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217330	1471941550634	1471941550692	 	32
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217336	1471941551185	1471941551283	l	76
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217339	1471941551408	1471941551516	a	65
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217342	1471941551687	1471941551783	s	83
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217395	1471941552018	1471941552117	t	84
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217397	1471941552275	1471941552367	 	32
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217398	1471941552632	1471941552729	y	89
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217401	1471941552963	1471941553050	e	69
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217402	1471941553206	1471941553300	a	65
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217493	1471941553441	1471941553517	r	82
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217497	1471941554001	1471941554085	s	83
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217500	1471941554381	1471941554464	 	32
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217503	1471941554876	1471941554936	h	72
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217504	1471941555170	1471941555267	e	69
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217537	1471941555361	1471941555449	 	32
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217540	1471941555668	1471941555732	h	72
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217544	1471941555844	1471941555949	a	65
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217547	1471941556167	1471941556234	d	68
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217550	1471941556546	1471941556617	 	32
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217626	1471941557008	1471941557100	b	66
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217629	1471941557444	1471941557517	e	69
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217633	1471941557643	1471941557733	e	69
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217638	1471941558014	1471941558112	n	78
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217641	1471941558361	1471941558434	 	32
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217696	1471941558793	1471941558899	l	76
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217699	1471941559039	1471941559133	i	73
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217702	1471941559367	1471941559466	v	86
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217704	1471941559560	1471941559650	i	73
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217707	1471941559806	1471941559899	n	78
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217778	1471941560072	1471941560150	g	71
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217781	1471941560524	1471941560631	 	32
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217784	1471941561037	1471941561148	a	65
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217787	1471941561258	1471941561334	t	84
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217792	1471941561522	1471941561616	 	32
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217880	1471941561882	1471941561951	t	84
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217883	1471941562077	1471941562166	h	72
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217887	1471941562322	1471941562401	e	69
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217891	1471941562838	1471941562979	 	32
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217893	1471941563638	1471941563717	n	78
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217947	1471941563984	1471941564063	u	85
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217951	1471941564297	1471941564379	r	82
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217955	1471941564896	1471941564979	s	83
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217959	1471941565104	1471941565183	i	73
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	217964	1471941565324	1471941565432	n	78
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	218051	1471941565635	1471941565702	g	71
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	218053	1471941566107	1471941566188	 	32
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	218055	1471941566659	1471941566735	h	72
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	218058	1471941566907	1471941566999	o	79
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	218062	1471941567313	1471941567428	m	77
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	218099	1471941567568	1471941567651	e	69
+470	4542	In his last years he had been living at the nursing home.	In his last years he had been living at the nursing home.	218101	1471941567931	1471941567999	.	190
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218249	1471941570467	1471941571066	SHIFT	16
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218245	1471941570970	1471941571035	I	73
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218253	1471941571519	1471941571618	 	32
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218257	1471941572305	1471941572383	w	87
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218261	1471941572508	1471941572630	a	65
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218262	1471941572755	1471941572849	s	83
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218361	1471941573240	1471941573323	n	78
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218365	1471941573991	1471941574075	'	222
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218371	1471941574600	1471941574668	t	84
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218378	1471941575216	1471941575312	 	32
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218385	1471941575546	1471941575645	s	83
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218427	1471941575787	1471941575882	u	85
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218428	1471941576070	1471941576197	r	82
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218429	1471941576338	1471941576447	e	69
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218430	1471941576619	1471941576716	 	32
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218431	1471941576950	1471941577065	t	84
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218493	1471941577191	1471941577298	h	72
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218496	1471941577847	1471941577929	a	65
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218498	1471941578023	1471941578116	t	84
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218502	1471941578334	1471941578417	 	32
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218506	1471941578745	1471941578848	y	89
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218572	1471941579068	1471941579149	o	79
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218574	1471941579352	1471941579433	u	85
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218577	1471941579823	1471941579932	 	32
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218579	1471941580573	1471941580665	r	82
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218581	1471941580806	1471941580899	e	69
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218657	1471941581275	1471941581349	c	67
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218660	1471941581521	1471941581631	e	69
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218663	1471941582005	1471941582084	v	86
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218666	1471941582396	1471941582497	i	73
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218670	1471941582638	1471941582747	e	69
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218746	1471941582889	1471941582982	d	68
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218750	1471941583403	1471941583530	 	32
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218752	1471941583889	1471941583998	t	84
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218753	1471941584107	1471941584199	h	72
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218755	1471941584355	1471941584468	e	69
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218795	1471941584547	1471941584618	 	32
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218798	1471941584821	1471941584915	f	70
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218800	1471941585058	1471941585149	i	73
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218802	1471941585305	1471941585384	r	82
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218809	1471941585680	1471941585778	s	83
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218951	1471941585997	1471941586079	t	84
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218955	1471941586439	1471941586594	 	32
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218963	1471941588521	1471941588631	e	69
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218969	1471941588834	1471941588924	-	189
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	218973	1471941589355	1471941589432	m	77
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	219277	1471941589792	1471941589898	a	65
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	219279	1471941590023	1471941590083	i	73
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	219281	1471941590208	1471941590283	l	76
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	219285	1471941591238	1471941591331	.	190
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	219288	1471941596060	1471941596133	BKSP	8
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	219293	1471941596682	1471941596810	ARW_LEFT	37
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	219297	1471941597594	1471941597699	e	69
+470	4564	I wasn't sure that you received the first e-mail.	I wasn't sure that you receeved the first e-mail.	219356	1471941599389	1471941599450	END	35
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219495	1471941602208	1471941602665	SHIFT	16
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219498	1471941602556	1471941602681	D	68
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219500	1471941602993	1471941603099	i	73
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219505	1471941603271	1471941603350	s	83
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219508	1471941603944	1471941604062	n	78
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219515	1471941604172	1471941604265	e	69
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219598	1471941605093	1471941605181	y	89
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219599	1471941605555	1471941605680	 	32
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219602	1471941606257	1471941606348	w	87
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219606	1471941606472	1471941606579	a	65
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219608	1471941606673	1471941606795	s	83
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219651	1471941606968	1471941607079	 	32
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219653	1471941607300	1471941607413	g	71
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219654	1471941607539	1471941607646	r	82
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219655	1471941607787	1471941607864	e	69
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219656	1471941608020	1471941608083	a	65
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219715	1471941608366	1471941608448	t	84
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219717	1471941608870	1471941608964	 	32
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219719	1471941609213	1471941609279	a	65
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219721	1471941609499	1471941609613	n	78
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219725	1471941609754	1471941609832	d	68
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219850	1471941609989	1471941610065	 	32
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219855	1471941610237	1471941610516	SHIFT	16
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219860	1471941610439	1471941610521	I	73
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219862	1471941611815	1471941611883	'	222
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219865	1471941612603	1471941612698	v	86
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219868	1471941612870	1471941612964	e	69
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219913	1471941613292	1471941613412	 	32
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219915	1471941614038	1471941614131	b	66
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219917	1471941614350	1471941614432	e	69
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219919	1471941614541	1471941614616	e	69
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219920	1471941614787	1471941614864	n	78
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219985	1471941615067	1471941615164	 	32
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219987	1471941615790	1471941615882	t	84
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219988	1471941616084	1471941616166	o	79
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219990	1471941616384	1471941616481	 	32
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	219992	1471941616684	1471941616781	e	69
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220057	1471941616955	1471941617031	i	73
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220061	1471941617343	1471941617431	g	71
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220066	1471941617697	1471941617793	h	72
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220069	1471941618043	1471941618131	t	84
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220071	1471941618867	1471941619010	 	32
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220159	1471941619808	1471941619912	b	66
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220162	1471941620006	1471941620130	a	65
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220164	1471941620239	1471941620346	s	83
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220167	1471941620487	1471941620581	e	69
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220168	1471941621270	1471941621333	b	66
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220223	1471941621474	1471941621564	a	65
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220226	1471941621751	1471941621816	l	76
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220228	1471941621909	1471941621999	l	76
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220231	1471941622171	1471941622248	 	32
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220236	1471941622514	1471941622596	g	71
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220331	1471941622705	1471941622797	a	65
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220334	1471941622937	1471941622982	n	78
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220337	1471941623956	1471941624061	BKSP	8
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220340	1471941624861	1471941624955	m	77
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220343	1471941625137	1471941625229	e	69
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220346	1471941625370	1471941625464	s	83
+470	4588	Disney was great and I've been to eight baseball games.	Disney was great and I've been to eight baseball games.	220369	1471941625761	1471941625815	.	190
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220582	1471941629028	1471941629266	SHIFT	16
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220584	1471941629184	1471941629266	I	73
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220586	1471941629970	1471941630027	'	222
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220588	1471941630314	1471941630380	m	77
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220592	1471941630962	1471941631060	 	32
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220594	1471941631481	1471941631549	i	73
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220649	1471941631737	1471941631799	n	78
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220650	1471941632049	1471941632131	 	32
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220651	1471941632568	1471941632932	SHIFT	16
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220652	1471941632851	1471941632963	S	83
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220653	1471941633197	1471941633262	t	84
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220654	1471941633449	1471941633531	a	65
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220734	1471941633751	1471941633831	n	78
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220736	1471941634488	1471941634580	'	222
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220741	1471941634752	1471941634816	s	83
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220745	1471941635222	1471941635298	 	32
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220748	1471941636190	1471941636264	o	79
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220769	1471941636498	1471941636581	f	70
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220771	1471941636691	1471941636764	f	70
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220773	1471941636858	1471941636932	i	73
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220774	1471941637088	1471941637196	c	67
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220776	1471941637301	1471941637397	e	69
+470	4608	I'm in Stan's office.	I'm in Stan's office.	220802	1471941637819	1471941637898	.	190
+470	4616	If you need John speak up now.	If you need John speak up now.	220936	1471941640767	1471941640981	SHIFT	16
+470	4616	If you need John speak up now.	If you need John speak up now.	220933	1471941640892	1471941640980	I	73
+470	4616	If you need John speak up now.	If you need John speak up now.	220938	1471941641184	1471941641264	f	70
+470	4616	If you need John speak up now.	If you need John speak up now.	220940	1471941641529	1471941641642	 	32
+470	4616	If you need John speak up now.	If you need John speak up now.	220942	1471941642302	1471941642396	y	89
+470	4616	If you need John speak up now.	If you need John speak up now.	220943	1471941642521	1471941642644	o	79
+470	4616	If you need John speak up now.	If you need John speak up now.	220961	1471941642786	1471941642864	u	85
+470	4616	If you need John speak up now.	If you need John speak up now.	220962	1471941643051	1471941643146	 	32
+470	4616	If you need John speak up now.	If you need John speak up now.	220963	1471941643271	1471941643379	n	78
+470	4616	If you need John speak up now.	If you need John speak up now.	220964	1471941643519	1471941643613	e	69
+470	4616	If you need John speak up now.	If you need John speak up now.	220965	1471941643706	1471941643796	e	69
+470	4616	If you need John speak up now.	If you need John speak up now.	221059	1471941643953	1471941644030	d	68
+470	4616	If you need John speak up now.	If you need John speak up now.	221062	1471941644296	1471941644408	 	32
+470	4616	If you need John speak up now.	If you need John speak up now.	221066	1471941644829	1471941645265	SHIFT	16
+470	4616	If you need John speak up now.	If you need John speak up now.	221070	1471941645174	1471941645265	J	74
+470	4616	If you need John speak up now.	If you need John speak up now.	221072	1471941645639	1471941645730	o	79
+470	4616	If you need John speak up now.	If you need John speak up now.	221074	1471941645902	1471941646011	h	72
+470	4616	If you need John speak up now.	If you need John speak up now.	221110	1471941646153	1471941646230	n	78
+470	4616	If you need John speak up now.	If you need John speak up now.	221112	1471941646589	1471941646680	 	32
+470	4616	If you need John speak up now.	If you need John speak up now.	221116	1471941646977	1471941647075	s	83
+470	4616	If you need John speak up now.	If you need John speak up now.	221118	1471941647231	1471941647356	p	80
+470	4616	If you need John speak up now.	If you need John speak up now.	221121	1471941647465	1471941647563	e	69
+470	4616	If you need John speak up now.	If you need John speak up now.	221180	1471941647736	1471941647860	a	65
+470	4616	If you need John speak up now.	If you need John speak up now.	221182	1471941647985	1471941648095	k	75
+470	4616	If you need John speak up now.	If you need John speak up now.	221186	1471941648314	1471941648413	 	32
+470	4616	If you need John speak up now.	If you need John speak up now.	221191	1471941648945	1471941649026	u	85
+470	4616	If you need John speak up now.	If you need John speak up now.	221195	1471941649385	1471941649464	p	80
+470	4616	If you need John speak up now.	If you need John speak up now.	221220	1471941649667	1471941649761	 	32
+470	4616	If you need John speak up now.	If you need John speak up now.	221222	1471941649886	1471941649991	n	78
+470	4616	If you need John speak up now.	If you need John speak up now.	221224	1471941650163	1471941650244	o	79
+470	4616	If you need John speak up now.	If you need John speak up now.	221227	1471941650603	1471941650696	w	87
+470	4616	If you need John speak up now.	If you need John speak up now.	221230	1471941650946	1471941650998	.	190
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221383	1471941653598	1471941653863	SHIFT	16
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221381	1471941653770	1471941653847	I	73
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221385	1471941654707	1471941654788	'	222
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221388	1471941655501	1471941655627	v	86
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221390	1471941655783	1471941655863	e	69
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221392	1471941656191	1471941656342	 	32
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221434	1471941657627	1471941657694	s	83
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221436	1471941657850	1471941657946	o	79
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221438	1471941658102	1471941658211	r	82
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221440	1471941658351	1471941658446	t	84
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221442	1471941658908	1471941659011	 	32
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221484	1471941660311	1471941660396	o	79
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221488	1471941660630	1471941660727	f	70
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221491	1471941660836	1471941660945	 	32
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221496	1471941661070	1471941661177	l	76
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221500	1471941661286	1471941661394	o	79
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221583	1471941661505	1471941661596	s	83
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221586	1471941661798	1471941661865	t	84
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221587	1471941663572	1471941663664	 	32
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221588	1471941664116	1471941664212	t	84
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221589	1471941664337	1471941664414	r	82
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221656	1471941664539	1471941664629	a	65
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221657	1471941664925	1471941665028	c	67
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221658	1471941665654	1471941665776	k	75
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221659	1471941665994	1471941666063	 	32
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221660	1471941667049	1471941667177	o	79
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221705	1471941667318	1471941667412	f	70
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221707	1471941667835	1471941667975	 	32
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221709	1471941668476	1471941668575	w	87
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221710	1471941668762	1471941668859	h	72
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221711	1471941669171	1471941669262	a	65
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221736	1471941669357	1471941669429	t	84
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221737	1471941669741	1471941669813	 	32
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221739	1471941670188	1471941670263	a	65
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221743	1471941670482	1471941670548	l	76
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221748	1471941670657	1471941670745	l	76
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221827	1471941671466	1471941671562	 	32
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221830	1471941672140	1471941672609	SHIFT	16
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221828	1471941672468	1471941672547	I	73
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221831	1471941673572	1471941673647	'	222
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221832	1471941673897	1471941673995	v	86
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221833	1471941674234	1471941674328	e	69
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221889	1471941674969	1471941675094	 	32
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221891	1471941675579	1471941675663	r	82
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221896	1471941675788	1471941675862	e	69
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221900	1471941676128	1471941676240	c	67
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221904	1471941676552	1471941676645	e	69
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221983	1471941677757	1471941677843	i	73
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221986	1471941678079	1471941678174	v	86
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221988	1471941678392	1471941678491	e	69
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221989	1471941678616	1471941678697	d	68
+470	4626	I've sort of lost track of what all I've received.	I've sort of lost track of what all I've received.	221991	1471941679056	1471941679129	.	190
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222120	1471941681988	1471941682245	SHIFT	16
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222117	1471941682122	1471941682214	T	84
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222123	1471941682354	1471941682429	h	72
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222126	1471941682570	1471941682661	e	69
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222129	1471941682895	1471941682975	 	32
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222132	1471941683684	1471941683793	f	70
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222161	1471941683935	1471941684043	i	73
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222165	1471941684215	1471941684296	r	82
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222169	1471941684452	1471941684545	s	83
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222172	1471941684732	1471941684811	t	84
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222174	1471941685091	1471941685158	 	32
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222262	1471941685439	1471941685760	SHIFT	16
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222261	1471941685642	1471941685729	V	86
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222263	1471941686370	1471941686428	i	73
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222265	1471941686617	1471941686711	e	69
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222267	1471941687634	1471941687761	t	84
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222270	1471941688510	1471941688607	n	78
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222381	1471941688733	1471941688828	a	65
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222383	1471941689000	1471941689112	m	77
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222382	1471941689015	1471941689091	,	188
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222384	1471941690271	1471941690378	BKSP	8
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222385	1471941691535	1471941691644	e	69
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222386	1471941691769	1471941691859	s	83
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222450	1471941691968	1471941692030	e	69
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222452	1471941692467	1471941692553	 	32
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222454	1471941693078	1471941693175	t	84
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222456	1471941693315	1471941693378	r	82
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222458	1471941693752	1471941693844	a	65
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222509	1471941694093	1471941694190	i	73
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222511	1471941694442	1471941694528	n	78
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222516	1471941695233	1471941695343	e	69
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222518	1471941695421	1471941695513	e	69
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222520	1471941695778	1471941695858	 	32
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222593	1471941696379	1471941696445	p	80
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222595	1471941696633	1471941696712	i	73
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222596	1471941696962	1471941697028	l	76
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222597	1471941697169	1471941697230	o	79
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222598	1471941697934	1471941698011	t	84
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222676	1471941698215	1471941698259	s	83
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222677	1471941698998	1471941699109	 	32
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222678	1471941699515	1471941699627	w	87
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222680	1471941699767	1471941699876	e	69
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222682	1471941700001	1471941700079	r	82
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222744	1471941700235	1471941700327	e	69
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222748	1471941700986	1471941701124	 	32
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222751	1471941701342	1471941701424	d	68
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222754	1471941701643	1471941701725	u	85
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222756	1471941701865	1471941701976	e	69
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222808	1471941702102	1471941702194	 	32
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222809	1471941702303	1471941702426	t	84
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222810	1471941702615	1471941702695	o	79
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222811	1471941703260	1471941703376	 	32
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222813	1471941703844	1471941703927	a	65
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222853	1471941704194	1471941704290	r	82
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222854	1471941704384	1471941704461	r	82
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222855	1471941704979	1471941705108	i	73
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222857	1471941705201	1471941705326	v	86
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222860	1471941705466	1471941705576	e	69
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222939	1471941706404	1471941706509	 	32
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222940	1471941706868	1471941706960	i	73
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222941	1471941707116	1471941707179	n	78
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222942	1471941707350	1471941707444	 	32
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222989	1471941707993	1471941708325	SHIFT	16
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222943	1471941708180	1471941708277	J	74
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222992	1471941708403	1471941708478	u	85
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222994	1471941708634	1471941708712	n	78
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222996	1471941708915	1471941708979	e	69
+470	4646	The first Vietnamese trainee pilots were due to arrive in June.	The first Vietnamese trainee pilots were due to arrive in June.	222998	1471941709323	1471941709394	.	190
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223080	1471941711755	1471941712141	SHIFT	16
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223078	1471941712020	1471941712110	T	84
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223081	1471941712250	1471941712313	h	72
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223082	1471941712407	1471941712525	e	69
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223083	1471941712665	1471941712729	r	82
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223084	1471941712838	1471941712944	e	69
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223123	1471941713225	1471941713308	 	32
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223127	1471941713495	1471941713609	a	65
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223129	1471941713797	1471941713893	r	82
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223131	1471941714018	1471941714095	e	69
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223133	1471941714204	1471941714308	 	32
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223171	1471941714450	1471941714558	s	83
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223172	1471941714636	1471941714727	o	79
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223173	1471941714915	1471941715010	m	77
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223174	1471941715166	1471941715260	e	69
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223176	1471941715746	1471941715874	 	32
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223229	1471941716296	1471941716393	i	73
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223232	1471941716533	1471941716627	s	83
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223234	1471941716720	1471941716810	s	83
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223236	1471941716890	1471941716979	u	85
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223238	1471941717119	1471941717210	e	69
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223304	1471941717383	1471941717477	s	83
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223306	1471941717947	1471941718027	 	32
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223308	1471941718339	1471941718411	o	79
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223310	1471941718599	1471941718659	n	78
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223312	1471941718989	1471941719062	 	32
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223367	1471941719359	1471941719457	w	87
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223369	1471941719644	1471941719712	h	72
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223371	1471941719883	1471941719961	i	73
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223375	1471941720164	1471941720260	c	67
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223377	1471941720478	1471941720562	h	72
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223430	1471941720921	1471941720994	 	32
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223432	1471941721559	1471941721671	w	87
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223435	1471941721781	1471941721861	e	69
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223438	1471941721986	1471941722060	 	32
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223442	1471941722278	1471941722376	a	65
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223493	1471941722704	1471941722794	g	71
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223498	1471941723153	1471941723243	r	82
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223503	1471941723383	1471941723445	e	69
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223508	1471941723538	1471941723611	e	69
+470	4665	There are some issues on which we agree.	There are some issues on which we agree.	223512	1471941724003	1471941724077	.	190
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	223748	1471941726185	1471941726841	SHIFT	16
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	223751	1471941726704	1471941726857	E	69
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	223755	1471941727075	1471941727189	m	77
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	223758	1471941727725	1471941727822	e	69
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	223760	1471941728009	1471941728108	r	82
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	223763	1471941729145	1471941729241	s	83
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	223865	1471941729429	1471941729512	o	79
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	223870	1471941729699	1471941729762	n	78
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	223873	1471941730074	1471941730141	 	32
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	223877	1471941730421	1471941730893	SHIFT	16
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	223881	1471941730798	1471941730940	F	70
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	223884	1471941731268	1471941731343	i	73
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	224011	1471941731780	1471941731890	t	84
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	224012	1471941731983	1471941732092	t	84
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	224013	1471941732827	1471941732893	i	73
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	224014	1471941733473	1471941733571	p	80
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	224015	1471941734155	1471941734288	a	65
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	224091	1471941734477	1471941734606	l	76
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	224093	1471941734777	1471941734875	d	68
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	224095	1471941735078	1471941735144	i	73
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	224096	1471941735518	1471941735592	 	32
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	224097	1471941735998	1471941736107	h	72
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	224766	1471941736202	1471941736308	a	65
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	224770	1471941736401	1471941736523	s	83
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	224773	1471941746785	1471941747173	SHIFT	16
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	224780	1471941747083	1471941747235	F	70
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	224786	1471941747864	1471941748006	i	73
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	224793	1471941748817	1471941748939	t	84
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	224949	1471941749065	1471941749174	t	84
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	224953	1471941749955	1471941750084	i	73
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	224957	1471941751007	1471941751108	p	80
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	224963	1471941751389	1471941751507	a	65
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	224969	1471941752024	1471941752171	l	76
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225263	1471941753392	1471941753504	d	68
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225266	1471941753738	1471941753806	i	73
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225269	1471941755015	1471941755108	ARW_RIGHT	39
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225271	1471941755624	1471941755689	ARW_RIGHT	39
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225273	1471941755830	1471941755876	ARW_RIGHT	39
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225277	1471941756001	1471941756043	ARW_RIGHT	39
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225283	1471941756920	1471941757010	 	32
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225293	1471941757182	1471941757260	n	78
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225298	1471941757463	1471941757572	e	69
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225472	1471941757901	1471941758007	v	86
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225475	1471941758070	1471941758188	e	69
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225478	1471941758297	1471941758375	r	82
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225482	1471941761447	1471941761605	 	32
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225486	1471941762432	1471941762541	h	72
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225548	1471941762604	1471941762724	a	65
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225552	1471941762896	1471941762975	d	68
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225555	1471941763225	1471941763325	 	32
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225557	1471941763497	1471941763606	a	65
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225558	1471941763778	1471941763874	n	78
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225592	1471941764015	1471941764107	 	32
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225597	1471941764247	1471941764356	e	69
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225601	1471941764543	1471941764656	n	78
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225838	1471941764907	1471941764970	f	71
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225841	1471941766571	1471941766674	BKSP	8
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225845	1471941766768	1471941766850	BKSP	8
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225850	1471941767969	1471941768059	g	71
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225853	1471941768215	1471941768290	i	73
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225855	1471941768417	1471941768523	n	78
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225856	1471941768679	1471941768774	e	69
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225859	1471941769197	1471941769307	 	32
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225912	1471941769823	1471941769936	t	84
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225918	1471941769983	1471941770105	h	72
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225925	1471941770246	1471941770340	i	73
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225927	1471941770450	1471941770540	s	83
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	225932	1471941770666	1471941770742	 	32
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	226010	1471941772527	1471941772640	g	71
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	226013	1471941772843	1471941772923	o	79
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	226016	1471941773051	1471941773125	o	79
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	226020	1471941773265	1471941773342	d	68
+470	4678	Emerson Fittipaldi has never had an engine this good.	Emerson Fittipaldi has never had an engine this good.	226024	1471941773685	1471941773759	.	190
+470	4729	We will get you a copy.	We will get you a copy.	226195	1471941775946	1471941776371	SHIFT	16
+470	4729	We will get you a copy.	We will get you a copy.	226198	1471941776228	1471941776371	W	87
+470	4729	We will get you a copy.	We will get you a copy.	226202	1471941776496	1471941776591	e	69
+470	4729	We will get you a copy.	We will get you a copy.	226207	1471941776841	1471941776939	 	32
+470	4729	We will get you a copy.	We will get you a copy.	226212	1471941777095	1471941777190	w	87
+470	4729	We will get you a copy.	We will get you a copy.	226218	1471941777393	1471941777451	i	73
+470	4729	We will get you a copy.	We will get you a copy.	226293	1471941777636	1471941777707	l	76
+470	4729	We will get you a copy.	We will get you a copy.	226296	1471941777816	1471941777891	l	76
+470	4729	We will get you a copy.	We will get you a copy.	226300	1471941778141	1471941778205	 	32
+470	4729	We will get you a copy.	We will get you a copy.	226305	1471941778579	1471941778672	g	71
+470	4729	We will get you a copy.	We will get you a copy.	226310	1471941779078	1471941779158	e	69
+470	4729	We will get you a copy.	We will get you a copy.	226404	1471941779299	1471941779375	t	84
+470	4729	We will get you a copy.	We will get you a copy.	226406	1471941779719	1471941779807	 	32
+470	4729	We will get you a copy.	We will get you a copy.	226410	1471941780512	1471941780621	y	89
+470	4729	We will get you a copy.	We will get you a copy.	226414	1471941780887	1471941780957	o	79
+470	4729	We will get you a copy.	We will get you a copy.	226421	1471941781114	1471941781175	u	85
+470	4729	We will get you a copy.	We will get you a copy.	226482	1471941781393	1471941781450	 	32
+470	4729	We will get you a copy.	We will get you a copy.	226487	1471941781599	1471941781706	a	65
+470	4729	We will get you a copy.	We will get you a copy.	226491	1471941781799	1471941781891	 	32
+470	4729	We will get you a copy.	We will get you a copy.	226495	1471941782081	1471941782178	c	67
+470	4729	We will get you a copy.	We will get you a copy.	226499	1471941782382	1471941782442	o	79
+470	4729	We will get you a copy.	We will get you a copy.	226544	1471941782568	1471941782640	p	80
+470	4729	We will get you a copy.	We will get you a copy.	226547	1471941782968	1471941783025	y	89
+470	4729	We will get you a copy.	We will get you a copy.	226551	1471941783417	1471941783475	.	190
+470	4738	Sorry it took so long.	Sorry it took so long.	226668	1471941785780	1471941786058	SHIFT	16
+470	4738	Sorry it took so long.	Sorry it took so long.	226670	1471941785983	1471941786104	S	83
+470	4738	Sorry it took so long.	Sorry it took so long.	226674	1471941786307	1471941786390	o	79
+470	4738	Sorry it took so long.	Sorry it took so long.	226678	1471941786593	1471941786688	r	82
+470	4738	Sorry it took so long.	Sorry it took so long.	226683	1471941786782	1471941786857	r	82
+470	4738	Sorry it took so long.	Sorry it took so long.	226688	1471941786966	1471941787040	y	89
+470	4738	Sorry it took so long.	Sorry it took so long.	226763	1471941787306	1471941787386	 	32
+470	4738	Sorry it took so long.	Sorry it took so long.	226766	1471941787714	1471941787790	i	73
+470	4738	Sorry it took so long.	Sorry it took so long.	226771	1471941788039	1471941788107	t	84
+470	4738	Sorry it took so long.	Sorry it took so long.	226775	1471941788279	1471941788357	 	32
+470	4738	Sorry it took so long.	Sorry it took so long.	226779	1471941788560	1471941788655	t	84
+470	4738	Sorry it took so long.	Sorry it took so long.	226863	1471941788860	1471941788940	o	79
+470	4738	Sorry it took so long.	Sorry it took so long.	226868	1471941789034	1471941789123	o	79
+470	4738	Sorry it took so long.	Sorry it took so long.	226875	1471941789248	1471941789324	k	75
+470	4738	Sorry it took so long.	Sorry it took so long.	226877	1471941789683	1471941789773	 	32
+470	4738	Sorry it took so long.	Sorry it took so long.	226883	1471941790268	1471941790340	s	83
+470	4738	Sorry it took so long.	Sorry it took so long.	226939	1471941790435	1471941790492	o	79
+470	4738	Sorry it took so long.	Sorry it took so long.	226941	1471941790679	1471941790757	 	32
+470	4738	Sorry it took so long.	Sorry it took so long.	226944	1471941790913	1471941790975	l	76
+470	4738	Sorry it took so long.	Sorry it took so long.	226948	1471941791084	1471941791158	o	79
+470	4738	Sorry it took so long.	Sorry it took so long.	226955	1471941791314	1471941791390	n	78
+470	4738	Sorry it took so long.	Sorry it took so long.	226971	1471941791577	1471941791673	g	71
+470	4738	Sorry it took so long.	Sorry it took so long.	226972	1471941791829	1471941791891	.	190
+470	4744	Or let's get creative.	or let's get active.	227157	1471941794436	1471941794507	o	79
+470	4744	Or let's get creative.	or let's get active.	227160	1471941794836	1471941794923	r	82
+470	4744	Or let's get creative.	or let's get active.	227163	1471941795519	1471941795607	 	32
+470	4744	Or let's get creative.	or let's get active.	227166	1471941795934	1471941796024	l	76
+470	4744	Or let's get creative.	or let's get active.	227170	1471941796180	1471941796273	e	69
+470	4744	Or let's get creative.	or let's get active.	227289	1471941796492	1471941796558	t	84
+470	4744	Or let's get creative.	or let's get active.	227295	1471941797217	1471941797307	'	222
+470	4744	Or let's get creative.	or let's get active.	227305	1471941797855	1471941797953	s	83
+470	4744	Or let's get creative.	or let's get active.	227311	1471941798187	1471941798257	 	32
+470	4744	Or let's get creative.	or let's get active.	227319	1471941798694	1471941798778	g	71
+470	4744	Or let's get creative.	or let's get active.	227349	1471941798951	1471941799040	e	69
+470	4744	Or let's get creative.	or let's get active.	227352	1471941799134	1471941799209	t	84
+470	4744	Or let's get creative.	or let's get active.	227356	1471941799412	1471941799476	 	32
+470	4744	Or let's get creative.	or let's get active.	227361	1471941799554	1471941799656	a	65
+470	4744	Or let's get creative.	or let's get active.	227366	1471941799829	1471941799907	c	67
+470	4744	Or let's get creative.	or let's get active.	227448	1471941800111	1471941800192	t	84
+470	4744	Or let's get creative.	or let's get active.	227451	1471941800504	1471941800575	i	73
+470	4744	Or let's get creative.	or let's get active.	227455	1471941800762	1471941800857	v	86
+470	4744	Or let's get creative.	or let's get active.	227459	1471941801654	1471941801757	e	69
+470	4744	Or let's get creative.	or let's get active.	227464	1471941801991	1471941802022	,	188
+470	4744	Or let's get creative.	or let's get active.	227531	1471941802701	1471941802774	BKSP	8
+470	4744	Or let's get creative.	or let's get active.	227535	1471941803024	1471941803055	.	190

@@ -1,0 +1,758 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75430	1471937120153	1471937120536	SHIFT	16
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75425	1471937120328	1471937120488	I	73
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75433	1471937120856	1471937120968	 	32
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75435	1471937121048	1471937121223	a	65
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75436	1471937121176	1471937121272	m	77
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75438	1471937121304	1471937121448	 	32
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75457	1471937121592	1471937121720	n	78
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75458	1471937121672	1471937121847	o	79
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75459	1471937121832	1471937121959	w	87
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75460	1471937121944	1471937122120	 	32
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75461	1471937122456	1471937122567	o	79
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75495	1471937122680	1471937122727	f	70
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75498	1471937122808	1471937122935	f	70
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75500	1471937122952	1471937123048	i	73
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75502	1471937123063	1471937123208	c	67
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75503	1471937123351	1471937123431	i	73
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75509	1471937123464	1471937123655	a	65
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75511	1471937123703	1471937123767	l	76
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75516	1471937123847	1471937123911	l	76
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75519	1471937124023	1471937124167	y	89
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75595	1471937124152	1471937124279	 	32
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75598	1471937124535	1471937124663	a	65
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75601	1471937124648	1471937124791	 	32
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75604	1471937124935	1471937125080	b	66
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75606	1471937125143	1471937125207	l	76
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75608	1471937125511	1471937125575	BKSP	8
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75609	1471937125639	1471937125719	BKSP	8
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75610	1471937125848	1471937125991	SHIFT	16
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75683	1471937125943	1471937126055	B	66
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75685	1471937126103	1471937126199	l	76
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75689	1471937126183	1471937126327	a	65
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75694	1471937126311	1471937126487	c	67
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75699	1471937126423	1471937126504	k	75
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75703	1471937127527	1471937127687	b	66
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75726	1471937127895	1471937128007	e	69
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75728	1471937128103	1471937128183	r	82
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75730	1471937128247	1471937128343	r	82
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75732	1471937128423	1471937128551	y	89
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75774	1471937128519	1471937128647	 	32
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75779	1471937128759	1471937128935	a	65
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75781	1471937128951	1471937129079	d	68
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75783	1471937129175	1471937129303	d	68
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75787	1471937129623	1471937129719	i	73
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75791	1471937129735	1471937129879	c	67
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75897	1471937129975	1471937129991	k	75
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75898	1471937130135	1471937130311	t	84
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75900	1471937130519	1471937130583	BKSP	8
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75904	1471937130647	1471937130743	BKSP	8
+187	1541	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	75908	1471937130695	1471937130839	t	84
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76122	1471937136760	1471937136856	i	73
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76124	1471937136888	1471937137048	 	32
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76126	1471937137080	1471937137304	SHIFT	16
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76128	1471937137752	1471937137816	BKSP	8
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76130	1471937137896	1471937137960	BKSP	8
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76135	1471937138088	1471937138440	SHIFT	16
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76132	1471937138248	1471937138376	I	73
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76137	1471937138552	1471937138696	 	32
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76139	1471937138776	1471937138888	b	66
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76162	1471937139000	1471937139096	e	69
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76164	1471937139192	1471937139287	t	84
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76168	1471937139272	1471937139384	 	32
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76174	1471937139512	1471937139575	y	89
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76178	1471937139688	1471937139816	o	79
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76204	1471937139768	1471937139912	u	85
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76207	1471937139864	1471937140007	 	32
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76210	1471937140055	1471937140135	i	73
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76213	1471937140151	1471937140263	t	84
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76215	1471937140232	1471937140376	 	32
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76216	1471937140791	1471937140951	w	87
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76231	1471937140953	1471937141015	i	73
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76234	1471937141127	1471937141191	l	76
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76238	1471937141256	1471937141351	l	76
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76240	1471937141335	1471937141447	 	32
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76243	1471937141496	1471937141591	b	66
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76269	1471937141688	1471937141799	e	69
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76272	1471937141783	1471937141895	 	32
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76275	1471937141943	1471937142056	a	65
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76276	1471937142056	1471937142183	 	32
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76277	1471937142535	1471937142663	s	83
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76295	1471937142743	1471937142839	t	84
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76297	1471937142919	1471937143047	r	82
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76301	1471937143095	1471937143175	o	79
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76305	1471937143287	1471937143351	n	78
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76309	1471937143351	1471937143463	g	71
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76344	1471937143432	1471937143575	 	32
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76346	1471937143799	1471937143928	m	77
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76348	1471937143895	1471937144040	o	79
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76350	1471937144040	1471937144183	t	84
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76353	1471937144184	1471937144263	o	79
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76355	1471937144295	1471937144423	r	82
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76372	1471937144455	1471937144584	 	32
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76373	1471937144647	1471937144775	a	65
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76375	1471937144775	1471937144839	l	76
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76377	1471937144903	1471937144967	l	76
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76379	1471937144967	1471937145095	 	32
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76434	1471937145255	1471937145383	d	68
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76437	1471937145399	1471937145559	a	65
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76439	1471937145639	1471937145767	y	89
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76441	1471937145863	1471937145959	 	32
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76442	1471937145991	1471937146087	m	77
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76544	1471937146135	1471937146295	 	32
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76547	1471937146503	1471937146567	BKSP	8
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76551	1471937146647	1471937146711	BKSP	8
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76554	1471937146935	1471937147015	,	188
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76557	1471937147047	1471937147223	 	32
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76560	1471937147943	1471937148055	t	84
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76563	1471937148151	1471937148279	h	72
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76599	1471937148327	1471937148487	o	79
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76600	1471937148455	1471937148567	u	85
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76601	1471937148823	1471937148999	g	71
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76602	1471937149431	1471937149607	h	72
+187	1552	I bet you it will be a strong motor all day, though.	I bet you it will be a strong motor all day , though.	76603	1471937149831	1471937149975	.	190
+187	1567	See you on the third.	See you on the third.	76802	1471937153448	1471937153608	s	83
+187	1567	See you on the third.	See you on the third.	76806	1471937153528	1471937153624	e	69
+187	1567	See you on the third.	See you on the third.	76811	1471937153736	1471937153800	e	69
+187	1567	See you on the third.	See you on the third.	76815	1471937153896	1471937153960	BKSP	8
+187	1567	See you on the third.	See you on the third.	76819	1471937154040	1471937154104	BKSP	8
+187	1567	See you on the third.	See you on the third.	76822	1471937154168	1471937154248	BKSP	8
+187	1567	See you on the third.	See you on the third.	76825	1471937154440	1471937154600	SHIFT	16
+187	1567	See you on the third.	See you on the third.	76828	1471937154536	1471937154664	S	83
+187	1567	See you on the third.	See you on the third.	76848	1471937154600	1471937154696	e	69
+187	1567	See you on the third.	See you on the third.	76851	1471937154776	1471937154872	e	69
+187	1567	See you on the third.	See you on the third.	76854	1471937154856	1471937155000	 	32
+187	1567	See you on the third.	See you on the third.	76856	1471937155176	1471937155256	y	89
+187	1567	See you on the third.	See you on the third.	76927	1471937155368	1471937155496	o	79
+187	1567	See you on the third.	See you on the third.	76860	1471937155400	1471937155432	i	73
+187	1567	See you on the third.	See you on the third.	76930	1471937155448	1471937155576	u	85
+187	1567	See you on the third.	See you on the third.	76933	1471937156024	1471937156087	BKSP	8
+187	1567	See you on the third.	See you on the third.	76936	1471937156168	1471937156232	BKSP	8
+187	1567	See you on the third.	See you on the third.	76938	1471937156360	1471937156424	u	85
+187	1567	See you on the third.	See you on the third.	76941	1471937156504	1471937156664	 	32
+187	1567	See you on the third.	See you on the third.	76945	1471937156936	1471937157048	o	79
+187	1567	See you on the third.	See you on the third.	76949	1471937157160	1471937157256	n	78
+187	1567	See you on the third.	See you on the third.	76960	1471937157257	1471937157368	 	32
+187	1567	See you on the third.	See you on the third.	76964	1471937157400	1471937157511	t	84
+187	1567	See you on the third.	See you on the third.	76967	1471937157495	1471937157576	h	72
+187	1567	See you on the third.	See you on the third.	76970	1471937157624	1471937157735	e	69
+187	1567	See you on the third.	See you on the third.	77059	1471937157688	1471937157832	 	32
+187	1567	See you on the third.	See you on the third.	77061	1471937158056	1471937158215	t	84
+187	1567	See you on the third.	See you on the third.	77065	1471937158568	1471937158663	h	72
+187	1567	See you on the third.	See you on the third.	77068	1471937158808	1471937158967	r	82
+187	1567	See you on the third.	See you on the third.	77070	1471937158951	1471937159015	i	73
+187	1567	See you on the third.	See you on the third.	77073	1471937159704	1471937159767	BKSP	8
+187	1567	See you on the third.	See you on the third.	77075	1471937159879	1471937159959	i	73
+187	1567	See you on the third.	See you on the third.	77154	1471937160119	1471937160167	BKSP	8
+187	1567	See you on the third.	See you on the third.	77157	1471937160231	1471937160311	BKSP	8
+187	1567	See you on the third.	See you on the third.	77165	1471937160407	1471937160504	i	73
+187	1567	See you on the third.	See you on the third.	77171	1471937160504	1471937160583	r	82
+187	1567	See you on the third.	See you on the third.	77177	1471937160647	1471937160808	d	68
+187	1567	See you on the third.	See you on the third.	77182	1471937161575	1471937161687	.	190
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77342	1471937164759	1471937164935	SHIFT	16
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77344	1471937164871	1471937164983	C	67
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77346	1471937164983	1471937165159	a	65
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77348	1471937165159	1471937165239	n	78
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77356	1471937165303	1471937165447	 	32
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77358	1471937165575	1471937165655	y	89
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77375	1471937165751	1471937165895	o	79
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77379	1471937165831	1471937165959	u	85
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77382	1471937165959	1471937166055	 	32
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77386	1471937166215	1471937166311	h	72
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77390	1471937166407	1471937166535	e	69
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77414	1471937166599	1471937166711	l	76
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77416	1471937166679	1471937166823	p	80
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77418	1471937166839	1471937166999	 	32
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77420	1471937167175	1471937167271	g	71
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77423	1471937167351	1471937167463	e	69
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77465	1471937167623	1471937167735	t	84
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77466	1471937167767	1471937167959	 	32
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77468	1471937168328	1471937168440	t	84
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77471	1471937168520	1471937168649	h	72
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77474	1471937168696	1471937168776	i	73
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77509	1471937168808	1471937168968	s	83
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77512	1471937168936	1471937169096	 	32
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77516	1471937169224	1471937169368	c	67
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77519	1471937169352	1471937169432	l	76
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77524	1471937169432	1471937169624	a	65
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77608	1471937169608	1471937169768	r	82
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77609	1471937170104	1471937170120	BKSP	8
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77611	1471937170712	1471937170808	e	69
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77613	1471937170888	1471937171000	a	65
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77617	1471937171048	1471937171112	BKSP	8
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77619	1471937171192	1471937171240	BKSP	8
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77623	1471937171320	1471937171384	BKSP	8
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77626	1471937171368	1471937171464	e	69
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77629	1471937171432	1471937171592	a	65
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77684	1471937171544	1471937171656	r	82
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77689	1471937171736	1471937171896	d	68
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77694	1471937172104	1471937172168	BKSP	8
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77698	1471937172200	1471937172280	e	69
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77703	1471937172344	1471937172488	d	68
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77706	1471937172472	1471937172696	 	32
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77709	1471937173000	1471937173160	u	85
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77787	1471937173144	1471937173304	p	80
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77790	1471937173384	1471937173528	 	32
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77805	1471937173528	1471937173783	SHIFT	16
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77798	1471937173576	1471937173768	?	191
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77812	1471937173720	1471937173864	 	32
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77816	1471937174168	1471937174232	BKSP	8
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77822	1471937174296	1471937174360	BKSP	8
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77831	1471937174440	1471937174535	BKSP	8
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77834	1471937174904	1471937175143	SHIFT	16
+187	1576	Can you help get this cleared up?	Can you help get this cleared up?	77839	1471937175015	1471937175159	?	191
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78033	1471937178872	1471937179127	SHIFT	16
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78036	1471937179047	1471937179175	N	78
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78040	1471937179335	1471937179511	e	69
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78042	1471937179447	1471937179607	w	87
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78045	1471937179607	1471937179783	 	32
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78048	1471937180215	1471937180311	BKSP	8
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78054	1471937180471	1471937180615	l	76
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78211	1471937180599	1471937180759	y	89
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78217	1471937181255	1471937181431	-	189
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78224	1471937181623	1471937181783	 	32
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78230	1471937182663	1471937182791	BKSP	8
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78235	1471937182919	1471937183095	s	83
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78242	1471937183079	1471937183175	i	73
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78245	1471937184727	1471937184855	g	71
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78300	1471937184839	1471937184935	n	78
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78307	1471937185191	1471937185303	e	69
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78313	1471937185367	1471937185543	d	68
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78321	1471937185608	1471937185832	 	32
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78327	1471937186360	1471937186536	SHIFT	16
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78332	1471937186472	1471937186632	T	84
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78336	1471937186680	1471937186776	o	79
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78383	1471937186904	1471937186968	n	78
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78386	1471937187096	1471937187256	y	89
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78390	1471937187240	1471937187400	 	32
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78392	1471937187656	1471937187816	SHIFT	16
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78395	1471937187768	1471937187944	S	83
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78397	1471937187960	1471937188040	i	73
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78461	1471937188168	1471937188232	m	77
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78466	1471937188344	1471937188408	m	77
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78470	1471937188680	1471937188824	o	79
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78471	1471937189016	1471937189128	n	78
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78473	1471937189272	1471937189464	s	83
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78574	1471937190088	1471937190264	 	32
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78577	1471937190360	1471937190440	SHIFT	16
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78582	1471937190680	1471937190840	m	77
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78588	1471937190808	1471937190952	o	79
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78592	1471937191448	1471937191512	BKSP	8
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78595	1471937191640	1471937191736	i	73
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78598	1471937191992	1471937192087	h	72
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78628	1471937192136	1471937192263	g	71
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78635	1471937192344	1471937192519	t	84
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78642	1471937192712	1471937192759	BKSP	8
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78648	1471937192841	1471937192903	BKSP	8
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78653	1471937192984	1471937193063	BKSP	8
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78658	1471937193128	1471937193255	g	71
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78661	1471937193256	1471937193383	h	72
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78663	1471937193447	1471937193607	t	84
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78686	1471937194007	1471937194183	 	32
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78687	1471937194328	1471937194471	w	87
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78688	1471937194439	1471937194535	o	79
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78690	1471937194551	1471937194695	r	82
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78694	1471937194696	1471937194775	k	75
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78753	1471937194792	1471937194952	 	32
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78756	1471937195031	1471937195239	a	65
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78760	1471937195111	1471937195271	s	83
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78765	1471937195255	1471937195480	 	32
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78771	1471937195751	1471937195879	t	84
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78824	1471937195882	1471937195975	h	72
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78827	1471937195991	1471937196119	e	69
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78830	1471937196071	1471937196263	 	32
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78832	1471937196376	1471937196487	t	84
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78834	1471937196695	1471937196807	h	72
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78902	1471937197048	1471937197159	i	73
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78903	1471937197192	1471937197335	r	82
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78904	1471937197399	1471937197511	n	78
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78905	1471937197799	1471937197863	BKSP	8
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78906	1471937197879	1471937198007	d	68
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78907	1471937198183	1471937198375	 	32
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78989	1471937198599	1471937198695	r	82
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78991	1471937198759	1471937198855	e	69
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78992	1471937198967	1471937199079	c	67
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78994	1471937199191	1471937199351	e	69
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	78996	1471937199767	1471937199863	i	73
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	79047	1471937200135	1471937200231	v	86
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	79051	1471937200327	1471937200407	e	69
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	79053	1471937200487	1471937200599	r	82
+187	1593	Newly-signed Tony Simmons might work as the third receiver.	Newly-signed Tony Simmons might work as the third receiver.	79057	1471937200615	1471937200727	.	190
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79235	1471937203720	1471937204008	SHIFT	16
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79236	1471937203912	1471937204023	H	72
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79238	1471937204136	1471937204264	e	69
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79240	1471937204248	1471937204392	 	32
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79243	1471937204520	1471937204648	s	83
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79246	1471937204712	1471937204808	t	84
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79293	1471937204840	1471937205000	a	65
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79295	1471937204936	1471937205112	r	82
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79297	1471937205624	1471937205704	e	69
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79299	1471937205800	1471937205960	d	68
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79302	1471937206184	1471937206232	BKSP	8
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79305	1471937206296	1471937206376	BKSP	8
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79329	1471937206360	1471937206456	t	84
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79330	1471937206536	1471937206600	e	69
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79331	1471937206680	1471937206824	d	68
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79333	1471937206920	1471937207144	 	32
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79336	1471937207592	1471937207720	SHIFT	16
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79339	1471937207688	1471937207864	S	83
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79344	1471937207864	1471937207944	u	85
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79407	1471937208040	1471937208136	n	78
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79411	1471937209032	1471937209191	d	68
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79415	1471937209128	1471937209320	a	65
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79418	1471937209864	1471937209959	y	89
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79423	1471937210647	1471937210728	`	192
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79482	1471937211720	1471937211799	BKSP	8
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79483	1471937211991	1471937212167	'	222
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79484	1471937212759	1471937212887	s	83
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79485	1471937213095	1471937213271	 	32
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79487	1471937213495	1471937213575	g	71
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79489	1471937213639	1471937213783	a	65
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79514	1471937213735	1471937213799	m	77
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79515	1471937213831	1471937213959	e	69
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79516	1471937213960	1471937214151	 	32
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79517	1471937214791	1471937214951	a	65
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79518	1471937214919	1471937214999	n	78
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79519	1471937214999	1471937215127	d	68
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79542	1471937215095	1471937215271	 	32
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79543	1471937215383	1471937215479	h	72
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79545	1471937215575	1471937215767	a	65
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79547	1471937215719	1471937215863	d	68
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79549	1471937215863	1471937216007	 	32
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79551	1471937216023	1471937216167	t	84
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79614	1471937216311	1471937216487	w	87
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79617	1471937216551	1471937216631	o	79
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79621	1471937216823	1471937217015	 	32
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79623	1471937217719	1471937217847	c	67
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79626	1471937218343	1471937218439	a	65
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79667	1471937218503	1471937218631	t	84
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79668	1471937218807	1471937218903	h	72
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79669	1471937219143	1471937219223	BKSP	8
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79670	1471937219255	1471937219383	c	67
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79671	1471937219495	1471937219623	h	72
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79672	1471937219991	1471937220039	e	69
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79732	1471937220279	1471937220455	s	83
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79734	1471937220760	1471937220968	 	32
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79738	1471937221256	1471937221384	f	70
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79740	1471937221384	1471937221464	o	79
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79742	1471937221480	1471937221608	r	82
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79849	1471937221576	1471937221736	 	32
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79850	1471937222328	1471937222408	9	57
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79851	1471937222680	1471937222760	BKSP	8
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79852	1471937223672	1471937223832	7	103
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79853	1471937223960	1471937224040	0	96
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79854	1471937224648	1471937224792	 	32
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79855	1471937225032	1471937225144	y	89
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79866	1471937225208	1471937225384	a	65
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79868	1471937225352	1471937225464	r	82
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79874	1471937225560	1471937225752	e	69
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79871	1471937225624	1471937225736	d	68
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79923	1471937225736	1471937225832	s	83
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79925	1471937226088	1471937226152	BKSP	8
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79927	1471937226232	1471937226295	BKSP	8
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79929	1471937226376	1471937226440	BKSP	8
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79931	1471937226472	1471937226568	d	68
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79932	1471937226520	1471937226631	s	83
+187	1617	He started Sunday's game and had two catches for 70 yards.	He started Sunday's game and had two catches for 70 yards.	79933	1471937226616	1471937226695	.	190
+187	1633	Do you have it yet?.	Do you have it yet?.	80048	1471937230168	1471937230343	SHIFT	16
+187	1633	Do you have it yet?.	Do you have it yet?.	80049	1471937230263	1471937230423	D	68
+187	1633	Do you have it yet?.	Do you have it yet?.	80050	1471937230711	1471937230839	o	79
+187	1633	Do you have it yet?.	Do you have it yet?.	80051	1471937230919	1471937231111	 	32
+187	1633	Do you have it yet?.	Do you have it yet?.	80052	1471937231543	1471937231639	y	89
+187	1633	Do you have it yet?.	Do you have it yet?.	80053	1471937231783	1471937231943	o	79
+187	1633	Do you have it yet?.	Do you have it yet?.	80083	1471937231959	1471937232023	u	85
+187	1633	Do you have it yet?.	Do you have it yet?.	80085	1471937232679	1471937232871	 	32
+187	1633	Do you have it yet?.	Do you have it yet?.	80089	1471937233095	1471937233175	h	72
+187	1633	Do you have it yet?.	Do you have it yet?.	80093	1471937233255	1471937233367	a	65
+187	1633	Do you have it yet?.	Do you have it yet?.	80096	1471937233431	1471937233543	v	86
+187	1633	Do you have it yet?.	Do you have it yet?.	80134	1471937233655	1471937233815	e	69
+187	1633	Do you have it yet?.	Do you have it yet?.	80137	1471937233767	1471937233959	 	32
+187	1633	Do you have it yet?.	Do you have it yet?.	80141	1471937234055	1471937234151	i	73
+187	1633	Do you have it yet?.	Do you have it yet?.	80145	1471937234167	1471937234311	t	84
+187	1633	Do you have it yet?.	Do you have it yet?.	80151	1471937234311	1471937234471	 	32
+187	1633	Do you have it yet?.	Do you have it yet?.	80223	1471937234759	1471937234871	y	89
+187	1633	Do you have it yet?.	Do you have it yet?.	80226	1471937234967	1471937235063	e	69
+187	1633	Do you have it yet?.	Do you have it yet?.	80229	1471937235143	1471937235319	t	84
+187	1633	Do you have it yet?.	Do you have it yet?.	80233	1471937235463	1471937235575	 	32
+187	1633	Do you have it yet?.	Do you have it yet?.	80234	1471937235879	1471937235991	BKSP	8
+187	1633	Do you have it yet?.	Do you have it yet?.	80237	1471937236503	1471937236711	SHIFT	16
+187	1633	Do you have it yet?.	Do you have it yet?.	80281	1471937236567	1471937236759	?	191
+187	1633	Do you have it yet?.	Do you have it yet?.	80282	1471937237031	1471937237175	/	191
+187	1633	Do you have it yet?.	Do you have it yet?.	80286	1471937237463	1471937237527	BKSP	8
+187	1633	Do you have it yet?.	Do you have it yet?.	80291	1471937237671	1471937237735	.	190
+187	1644	Probably will be working.	Probably will be working.	80418	1471937240664	1471937241000	SHIFT	16
+187	1644	Probably will be working.	Probably will be working.	80419	1471937240872	1471937241032	P	80
+187	1644	Probably will be working.	Probably will be working.	80420	1471937241015	1471937241176	r	82
+187	1644	Probably will be working.	Probably will be working.	80421	1471937241176	1471937241272	o	79
+187	1644	Probably will be working.	Probably will be working.	80422	1471937241560	1471937241720	b	66
+187	1644	Probably will be working.	Probably will be working.	80423	1471937242504	1471937242616	a	65
+187	1644	Probably will be working.	Probably will be working.	80457	1471937242728	1471937242872	b	66
+187	1644	Probably will be working.	Probably will be working.	80461	1471937243064	1471937243208	l	76
+187	1644	Probably will be working.	Probably will be working.	80465	1471937243208	1471937243384	y	89
+187	1644	Probably will be working.	Probably will be working.	80468	1471937243560	1471937243736	 	32
+187	1644	Probably will be working.	Probably will be working.	80469	1471937243992	1471937244136	w	87
+187	1644	Probably will be working.	Probably will be working.	80495	1471937244137	1471937244199	i	73
+187	1644	Probably will be working.	Probably will be working.	80497	1471937244328	1471937244375	l	76
+187	1644	Probably will be working.	Probably will be working.	80500	1471937244456	1471937244520	l	76
+187	1644	Probably will be working.	Probably will be working.	80502	1471937244584	1471937244760	 	32
+187	1644	Probably will be working.	Probably will be working.	80506	1471937244872	1471937244968	b	66
+187	1644	Probably will be working.	Probably will be working.	80530	1471937245064	1471937245207	e	69
+187	1644	Probably will be working.	Probably will be working.	80531	1471937245144	1471937245303	 	32
+187	1644	Probably will be working.	Probably will be working.	80532	1471937245367	1471937245513	w	87
+187	1644	Probably will be working.	Probably will be working.	80534	1471937245480	1471937245575	o	79
+187	1644	Probably will be working.	Probably will be working.	80536	1471937245576	1471937245704	r	82
+187	1644	Probably will be working.	Probably will be working.	80557	1471937245735	1471937245815	k	75
+187	1644	Probably will be working.	Probably will be working.	80559	1471937245911	1471937245991	i	73
+187	1644	Probably will be working.	Probably will be working.	80562	1471937246072	1471937246168	n	78
+187	1644	Probably will be working.	Probably will be working.	80565	1471937246136	1471937246263	g	71
+187	1644	Probably will be working.	Probably will be working.	80568	1471937246375	1471937246391	 	32
+187	1644	Probably will be working.	Probably will be working.	80601	1471937246759	1471937246839	BKSP	8
+187	1644	Probably will be working.	Probably will be working.	80602	1471937246983	1471937247047	.	190
+187	1649	Get with David Lund.	Get with David Lund.	80749	1471937249943	1471937250087	SHIFT	16
+187	1649	Get with David Lund.	Get with David Lund.	80748	1471937250007	1471937250055	G	71
+187	1649	Get with David Lund.	Get with David Lund.	80751	1471937250631	1471937250759	e	69
+187	1649	Get with David Lund.	Get with David Lund.	80755	1471937250855	1471937251015	t	84
+187	1649	Get with David Lund.	Get with David Lund.	80758	1471937250983	1471937251143	 	32
+187	1649	Get with David Lund.	Get with David Lund.	80760	1471937251447	1471937251591	w	87
+187	1649	Get with David Lund.	Get with David Lund.	80772	1471937251559	1471937251639	i	73
+187	1649	Get with David Lund.	Get with David Lund.	80774	1471937251703	1471937251847	t	84
+187	1649	Get with David Lund.	Get with David Lund.	80776	1471937251831	1471937251943	h	72
+187	1649	Get with David Lund.	Get with David Lund.	80778	1471937251991	1471937252135	 	32
+187	1649	Get with David Lund.	Get with David Lund.	80781	1471937252391	1471937252583	SHIFT	16
+187	1649	Get with David Lund.	Get with David Lund.	80785	1471937252503	1471937252631	D	68
+187	1649	Get with David Lund.	Get with David Lund.	80817	1471937252599	1471937252743	a	65
+187	1649	Get with David Lund.	Get with David Lund.	80818	1471937252871	1471937252999	v	86
+187	1649	Get with David Lund.	Get with David Lund.	80820	1471937252983	1471937253079	i	73
+187	1649	Get with David Lund.	Get with David Lund.	80823	1471937253127	1471937253287	d	68
+187	1649	Get with David Lund.	Get with David Lund.	80826	1471937253559	1471937253703	 	32
+187	1649	Get with David Lund.	Get with David Lund.	80895	1471937253879	1471937254119	SHIFT	16
+187	1649	Get with David Lund.	Get with David Lund.	80830	1471937254055	1471937254103	L	75
+187	1649	Get with David Lund.	Get with David Lund.	80896	1471937254327	1471937254407	u	85
+187	1649	Get with David Lund.	Get with David Lund.	80900	1471937254695	1471937254743	BKSP	8
+187	1649	Get with David Lund.	Get with David Lund.	80903	1471937254823	1471937254887	BKSP	8
+187	1649	Get with David Lund.	Get with David Lund.	80905	1471937254967	1471937255031	BKSP	8
+187	1649	Get with David Lund.	Get with David Lund.	80908	1471937255159	1471937255399	SHIFT	16
+187	1649	Get with David Lund.	Get with David Lund.	80910	1471937255271	1471937255431	L	76
+187	1649	Get with David Lund.	Get with David Lund.	80912	1471937255592	1471937255672	u	85
+187	1649	Get with David Lund.	Get with David Lund.	80913	1471937255800	1471937255896	n	78
+187	1649	Get with David Lund.	Get with David Lund.	80914	1471937256408	1471937256520	d	68
+187	1649	Get with David Lund.	Get with David Lund.	80921	1471937256776	1471937256888	.	190
+187	1659	I'll give him 10.	I'll give him 10.	81093	1471937259576	1471937259896	SHIFT	16
+187	1659	I'll give him 10.	I'll give him 10.	81096	1471937260136	1471937260168	i	73
+187	1659	I'll give him 10.	I'll give him 10.	81099	1471937260392	1471937260472	BKSP	8
+187	1659	I'll give him 10.	I'll give him 10.	81102	1471937260728	1471937261128	SHIFT	16
+187	1659	I'll give him 10.	I'll give him 10.	81105	1471937261032	1471937261143	I	73
+187	1659	I'll give him 10.	I'll give him 10.	81108	1471937261608	1471937261768	'	222
+187	1659	I'll give him 10.	I'll give him 10.	81109	1471937262280	1471937262359	l	76
+187	1659	I'll give him 10.	I'll give him 10.	81111	1471937262568	1471937262631	l	76
+187	1659	I'll give him 10.	I'll give him 10.	81148	1471937263096	1471937263255	 	32
+187	1659	I'll give him 10.	I'll give him 10.	81149	1471937263272	1471937263415	SHIFT	16
+187	1659	I'll give him 10.	I'll give him 10.	81150	1471937263383	1471937263543	G	71
+187	1659	I'll give him 10.	I'll give him 10.	81151	1471937263575	1471937263655	i	73
+187	1659	I'll give him 10.	I'll give him 10.	81152	1471937263719	1471937263832	v	86
+187	1659	I'll give him 10.	I'll give him 10.	81153	1471937263928	1471937264103	e	69
+187	1659	I'll give him 10.	I'll give him 10.	81213	1471937264247	1471937264311	BKSP	8
+187	1659	I'll give him 10.	I'll give him 10.	81216	1471937264391	1471937264471	BKSP	8
+187	1659	I'll give him 10.	I'll give him 10.	81218	1471937264535	1471937264615	BKSP	8
+187	1659	I'll give him 10.	I'll give him 10.	81220	1471937264679	1471937264775	BKSP	8
+187	1659	I'll give him 10.	I'll give him 10.	81222	1471937264791	1471937264919	g	71
+187	1659	I'll give him 10.	I'll give him 10.	81224	1471937264920	1471937264999	i	73
+187	1659	I'll give him 10.	I'll give him 10.	81228	1471937265031	1471937265127	v	86
+187	1659	I'll give him 10.	I'll give him 10.	81230	1471937265223	1471937265415	e	69
+187	1659	I'll give him 10.	I'll give him 10.	81233	1471937265943	1471937266103	 	32
+187	1659	I'll give him 10.	I'll give him 10.	81258	1471937266295	1471937266535	SHIFT	16
+187	1659	I'll give him 10.	I'll give him 10.	81260	1471937266423	1471937266551	H	72
+187	1659	I'll give him 10.	I'll give him 10.	81262	1471937266791	1471937266823	i	73
+187	1659	I'll give him 10.	I'll give him 10.	81264	1471937266983	1471937267047	BKSP	8
+187	1659	I'll give him 10.	I'll give him 10.	81267	1471937267111	1471937267223	BKSP	8
+187	1659	I'll give him 10.	I'll give him 10.	81269	1471937267224	1471937267367	h	72
+187	1659	I'll give him 10.	I'll give him 10.	81271	1471937267351	1471937267415	u	85
+187	1659	I'll give him 10.	I'll give him 10.	81273	1471937267511	1471937267607	m	77
+187	1659	I'll give him 10.	I'll give him 10.	81342	1471937267767	1471937267943	 	32
+187	1659	I'll give him 10.	I'll give him 10.	81344	1471937268183	1471937268359	1	49
+187	1659	I'll give him 10.	I'll give him 10.	81346	1471937268295	1471937268407	0	48
+187	1659	I'll give him 10.	I'll give him 10.	81349	1471937268503	1471937268583	BKSP	8
+187	1659	I'll give him 10.	I'll give him 10.	81352	1471937268647	1471937268727	BKSP	8
+187	1659	I'll give him 10.	I'll give him 10.	81354	1471937268807	1471937268871	BKSP	8
+187	1659	I'll give him 10.	I'll give him 10.	81355	1471937268935	1471937269015	BKSP	8
+187	1659	I'll give him 10.	I'll give him 10.	81357	1471937269079	1471937269175	BKSP	8
+187	1659	I'll give him 10.	I'll give him 10.	81359	1471937269543	1471937269607	m	77
+187	1659	I'll give him 10.	I'll give him 10.	81361	1471937269943	1471937270071	BKSP	8
+187	1659	I'll give him 10.	I'll give him 10.	81363	1471937270247	1471937270327	i	73
+187	1659	I'll give him 10.	I'll give him 10.	81398	1471937270407	1471937270503	m	77
+187	1659	I'll give him 10.	I'll give him 10.	81402	1471937271127	1471937271239	 	32
+187	1659	I'll give him 10.	I'll give him 10.	81406	1471937271351	1471937271511	1	49
+187	1659	I'll give him 10.	I'll give him 10.	81410	1471937271463	1471937271559	0	48
+187	1659	I'll give him 10.	I'll give him 10.	81413	1471937271703	1471937271847	.	190
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81529	1471937274425	1471937274617	SHIFT	16
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81531	1471937274505	1471937274617	T	84
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81533	1471937274713	1471937274825	h	72
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81534	1471937274857	1471937274953	i	73
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81536	1471937275017	1471937275241	s	83
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81537	1471937275417	1471937275577	 	32
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81571	1471937275593	1471937275737	SHIFT	16
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81572	1471937275673	1471937275817	T	84
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81575	1471937275865	1471937275945	i	73
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81578	1471937276233	1471937276281	BKSP	8
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81581	1471937276345	1471937276441	BKSP	8
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81584	1471937276441	1471937276601	t	84
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81587	1471937276585	1471937276649	i	73
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81589	1471937276745	1471937276825	m	77
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81622	1471937276826	1471937276985	e	69
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81624	1471937276969	1471937277161	 	32
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81628	1471937277481	1471937277817	SHIFT	16
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81626	1471937277657	1471937277785	I	73
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81630	1471937278409	1471937278569	'	222
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81632	1471937279193	1471937279305	m	77
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81664	1471937279385	1471937279544	 	32
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81665	1471937279753	1471937279865	m	77
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81666	1471937279833	1471937279976	o	79
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81667	1471937279944	1471937280137	r	82
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81680	1471937280008	1471937280168	e	69
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81681	1471937280201	1471937280344	 	32
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81682	1471937280504	1471937280665	c	67
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81684	1471937280632	1471937280696	o	79
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81686	1471937280793	1471937280905	m	77
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81688	1471937281176	1471937281320	f	70
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81735	1471937281304	1471937281384	o	79
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81737	1471937281416	1471937281545	r	82
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81739	1471937282440	1471937282536	t	84
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81740	1471937282584	1471937282760	a	65
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81741	1471937282888	1471937283000	b	66
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81742	1471937283001	1471937283080	l	76
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81760	1471937283129	1471937283272	e	69
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81761	1471937283256	1471937283400	 	32
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81762	1471937283480	1471937283640	a	65
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81763	1471937283624	1471937283704	n	78
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81764	1471937283705	1471937283816	d	68
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81795	1471937283784	1471937283928	 	32
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81799	1471937284104	1471937284248	a	65
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81803	1471937284440	1471937284584	w	87
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81807	1471937284552	1471937284696	a	65
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81815	1471937284760	1471937284968	r	82
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81839	1471937284888	1471937285064	e	69
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81840	1471937285080	1471937285208	 	32
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81841	1471937285480	1471937285592	o	79
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81842	1471937285656	1471937285784	f	70
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81843	1471937285752	1471937285928	 	32
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81844	1471937286072	1471937286200	a	65
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81855	1471937286202	1471937286360	 	32
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81857	1471937286488	1471937286552	l	76
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81858	1471937286632	1471937286744	o	79
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81859	1471937286712	1471937286840	t	84
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81897	1471937286792	1471937286936	 	32
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81899	1471937287096	1471937287224	m	77
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81901	1471937287176	1471937287352	o	79
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81902	1471937287272	1471937287464	r	82
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81903	1471937287368	1471937287496	e	69
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81904	1471937288088	1471937288200	 	32
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81939	1471937288328	1471937288536	SHIFT	16
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81941	1471937288792	1471937288968	s	83
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81946	1471937288920	1471937289000	i	73
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81948	1471937289192	1471937289352	t	84
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81952	1471937289432	1471937289544	u	85
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81955	1471937289624	1471937289816	a	65
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81967	1471937290184	1471937290264	t	84
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81969	1471937290264	1471937290360	i	73
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81972	1471937290328	1471937290440	o	79
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81974	1471937290473	1471937290569	n	78
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81976	1471937290585	1471937290713	s	83
+187	1670	This time I'm more comfortable and aware of a lot more situations.	This time I'm more comfortable and aware of a lot more situations.	81985	1471937290761	1471937290889	.	190
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82081	1471937293801	1471937294073	SHIFT	16
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82082	1471937293961	1471937294105	L	76
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82083	1471937294073	1471937294201	e	69
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82084	1471937294281	1471937294409	t	84
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82085	1471937294393	1471937294537	 	32
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82086	1471937295129	1471937295241	m	77
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82107	1471937295242	1471937295417	e	69
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82110	1471937295641	1471937295816	 	32
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82115	1471937296105	1471937296233	k	75
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82122	1471937296345	1471937296505	n	78
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82148	1471937296457	1471937296616	o	79
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82150	1471937296553	1471937296761	w	87
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82151	1471937296825	1471937297016	 	32
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82152	1471937297144	1471937297240	i	73
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82153	1471937297241	1471937297400	f	70
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82168	1471937297337	1471937297496	 	32
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82171	1471937297577	1471937297688	t	84
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82174	1471937297768	1471937297848	h	72
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82177	1471937297929	1471937298024	e	69
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82179	1471937298120	1471937298313	r	82
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82232	1471937298200	1471937298424	e	69
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82233	1471937298536	1471937298696	 	32
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82234	1471937298760	1471937298952	a	65
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82235	1471937298937	1471937299048	r	82
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82236	1471937299128	1471937299256	e	69
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82237	1471937299272	1471937299448	 	32
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82266	1471937299672	1471937299816	a	65
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82267	1471937299817	1471937299896	n	78
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82268	1471937299912	1471937300040	y	89
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82270	1471937299992	1471937300136	 	32
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82273	1471937300584	1471937300728	o	79
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82302	1471937300730	1471937300872	t	84
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82305	1471937300920	1471937301016	h	72
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82307	1471937301032	1471937301128	e	69
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82311	1471937301208	1471937301368	r	82
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82315	1471937301704	1471937301864	 	32
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82325	1471937301992	1471937302168	p	80
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82326	1471937302152	1471937302280	r	82
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82327	1471937302264	1471937302376	o	79
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82328	1471937302424	1471937302552	b	66
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82329	1471937302584	1471937302664	l	76
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82384	1471937302712	1471937302872	e	69
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82386	1471937302984	1471937303064	m	77
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82388	1471937303080	1471937303224	s	83
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82390	1471937303848	1471937304008	 	32
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82392	1471937304216	1471937304392	w	87
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82420	1471937304394	1471937304504	i	73
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82421	1471937304520	1471937304648	t	84
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82423	1471937304632	1471937304728	h	72
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82425	1471937304824	1471937304984	 	32
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82427	1471937305192	1471937305320	t	84
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82453	1471937305416	1471937305528	h	72
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82455	1471937305576	1471937305640	i	73
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82456	1471937305656	1471937305800	s	83
+187	1681	Let me know if there are any other problems with this.	Let me know if there are any other problems with this.	82457	1471937305800	1471937305864	.	190
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82619	1471937308729	1471937309257	SHIFT	16
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82617	1471937308969	1471937309097	O	79
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82621	1471937309417	1471937309481	BKSP	8
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82624	1471937309609	1471937310025	SHIFT	16
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82623	1471937309769	1471937309945	I	73
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82625	1471937310249	1471937310425	 	32
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82626	1471937310553	1471937310713	SHIFT	16
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82627	1471937310649	1471937310841	A	65
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82628	1471937311433	1471937311513	BKSP	8
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82629	1471937311625	1471937311817	a	65
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82670	1471937312073	1471937312169	g	71
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82671	1471937312265	1471937312377	r	82
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82673	1471937312473	1471937312553	e	69
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82675	1471937312617	1471937312777	e	69
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82678	1471937313113	1471937313289	d	68
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82728	1471937313433	1471937313609	 	32
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82732	1471937314008	1471937314104	t	84
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82736	1471937314200	1471937314345	e	69
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82739	1471937314345	1471937314536	a	65
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82823	1471937314457	1471937314616	r	82
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82825	1471937314985	1471937315032	BKSP	8
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82828	1471937315097	1471937315209	BKSP	8
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82830	1471937315224	1471937315352	r	82
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82832	1471937315368	1471937315465	m	77
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82834	1471937315465	1471937315592	s	83
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82836	1471937316104	1471937316216	 	32
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82838	1471937316265	1471937316440	w	87
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82886	1471937316393	1471937316472	i	73
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82888	1471937316520	1471937316664	t	84
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82890	1471937316632	1471937316728	h	72
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82891	1471937316808	1471937316984	 	32
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82892	1471937318280	1471937318473	SHIFT	16
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82893	1471937318376	1471937318488	G	71
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82894	1471937318584	1471937318697	r	82
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82908	1471937318776	1471937318904	e	69
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82910	1471937319160	1471937319288	g	71
+187	1695	I agreed terms with Greg.	I agreed terms with Greg.	82912	1471937319304	1471937319448	.	190
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83106	1471937322264	1471937322424	SHIFT	16
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83109	1471937322376	1471937322552	A	65
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83111	1471937322680	1471937322744	l	76
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83113	1471937323048	1471937323144	l	76
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83114	1471937323224	1471937323336	o	79
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83116	1471937324760	1471937324872	c	67
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83132	1471937324824	1471937324952	a	65
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83137	1471937325016	1471937325144	t	84
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83141	1471937325112	1471937325224	i	73
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83144	1471937325176	1471937325272	o	79
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83147	1471937325336	1471937325432	n	78
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83166	1471937325416	1471937325529	s	83
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83168	1471937325513	1471937325625	 	32
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83171	1471937325657	1471937325801	w	87
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83174	1471937325769	1471937325849	i	73
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83178	1471937325945	1471937325993	l	76
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83182	1471937326073	1471937326153	l	76
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83200	1471937326154	1471937326249	 	32
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83202	1471937326313	1471937326409	b	66
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83208	1471937326505	1471937326649	e	69
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83213	1471937326633	1471937326745	 	32
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83216	1471937326889	1471937326969	b	66
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83229	1471937327049	1471937327225	a	65
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83233	1471937327145	1471937327353	s	83
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83238	1471937327337	1471937327433	e	69
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83243	1471937327513	1471937327673	d	68
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83293	1471937327657	1471937327865	 	32
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83295	1471937328057	1471937328121	o	79
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83297	1471937328233	1471937328313	n	78
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83298	1471937328313	1471937328457	 	32
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83335	1471937328697	1471937330137	SHIFT	16
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83300	1471937329129	1471937329289	W	87
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83302	1471937329289	1471937329465	I	73
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83336	1471937329961	1471937330137	C	67
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83337	1471937330233	1471937330425	 	32
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83338	1471937330601	1471937330761	a	65
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83339	1471937330745	1471937330809	l	76
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83340	1471937330873	1471937330969	l	76
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83503	1471937331913	1471937331976	BKSP	8
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83506	1471937332073	1471937332137	BKSP	8
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83508	1471937332233	1471937332296	BKSP	8
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83509	1471937332393	1471937332440	BKSP	8
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83510	1471937332697	1471937332761	BKSP	8
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83511	1471937333703	1471937333959	SHIFT	16
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83513	1471937333831	1471937334007	C	67
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83515	1471937334215	1471937334375	 	32
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83518	1471937334456	1471937334679	SHIFT	16
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83521	1471937334647	1471937334823	A	65
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83524	1471937334983	1471937335079	BKSP	8
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83526	1471937335847	1471937336023	a	65
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83529	1471937336024	1471937336071	l	76
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83551	1471937336151	1471937336215	l	76
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83554	1471937336343	1471937336456	o	79
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83557	1471937336951	1471937337063	c	67
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83560	1471937337031	1471937337143	a	65
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83563	1471937337223	1471937337351	t	84
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83574	1471937337303	1471937337399	i	73
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83575	1471937337367	1471937337463	o	79
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83577	1471937337511	1471937337607	n	78
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83579	1471937337575	1471937337719	s	83
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83581	1471937337720	1471937337895	 	32
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83583	1471937338007	1471937338103	m	77
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83626	1471937338087	1471937338199	e	69
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83627	1471937338295	1471937338407	t	84
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83628	1471937338519	1471937338647	h	72
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83629	1471937338711	1471937338775	o	79
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83630	1471937339575	1471937339719	d	68
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83647	1471937339687	1471937339847	s	83
+187	1701	Allocations will be based on WIC allocations methods.	Allocations will be based on WIC allocations methods.	83648	1471937339943	1471937340055	.	190
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83805	1471937342503	1471937342903	SHIFT	16
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83804	1471937342727	1471937342871	I	73
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83806	1471937343064	1471937343240	;	186
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83808	1471937343640	1471937343720	BKSP	8
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83810	1471937343848	1471937343976	;	186
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83813	1471937344360	1471937344456	BKSP	8
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83816	1471937344584	1471937344744	'	222
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83818	1471937345672	1471937345752	l	76
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83848	1471937345816	1471937345928	l	76
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83849	1471937346584	1471937346728	 	32
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83850	1471937346888	1471937347000	g	71
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83851	1471937346984	1471937347064	i	73
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83852	1471937347128	1471937347160	v	66
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83885	1471937347592	1471937347656	BKSP	8
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83886	1471937347704	1471937347816	BKSP	8
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83887	1471937347768	1471937347864	v	86
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83888	1471937347960	1471937348088	e	69
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83889	1471937348056	1471937348232	 	32
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83890	1471937348328	1471937348424	i	73
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83891	1471937348424	1471937348536	t	84
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83922	1471937348537	1471937348680	 	32
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83925	1471937348760	1471937348887	t	84
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83929	1471937348856	1471937348936	o	79
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83931	1471937348951	1471937349064	 	32
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83933	1471937349320	1471937349399	y	89
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83963	1471937349496	1471937349623	o	79
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83965	1471937349576	1471937349687	u	85
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83967	1471937349672	1471937349799	 	32
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83969	1471937349944	1471937350087	t	84
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	83972	1471937350232	1471937350327	o	79
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	84035	1471937351031	1471937351175	m	77
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	84036	1471937351144	1471937351303	o	79
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	84037	1471937351447	1471937351527	r	82
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	84039	1471937351607	1471937351735	r	82
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	84041	1471937351799	1471937351879	o	79
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	84052	1471937351881	1471937352039	w	87
+187	1716	I'll give it to you tomorrow.	I'll give it to you tomorrow.	84054	1471937352456	1471937352583	.	190

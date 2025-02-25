@@ -1,0 +1,740 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437037	1471947102551	1471947103218	SHIFT	16
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437031	1471947102756	1471947102802	B	66
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437034	1471947102786	1471947102971	V	86
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437039	1471947103588	1471947103666	BKSP	8
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437041	1471947104316	1471947104378	o	79
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437043	1471947104556	1471947104650	y	89
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437045	1471947105460	1471947105538	,	188
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437098	1471947105644	1471947105723	 	32
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437103	1471947106186	1471947106451	SHIFT	16
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437101	1471947106356	1471947106419	I	73
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437108	1471947106563	1471947106642	 	32
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437115	1471947106955	1471947107051	c	67
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437123	1471947107082	1471947107195	o	79
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437303	1471947107307	1471947107387	u	85
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437306	1471947107515	1471947107578	n	78
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437311	1471947108258	1471947108346	l	76
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437318	1471947108403	1471947108539	d	68
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437323	1471947109314	1471947109378	INSERT	45
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437328	1471947109507	1471947109571	BKSP	8
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437334	1471947109651	1471947109723	BKSP	8
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437337	1471947109804	1471947109882	BKSP	8
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437341	1471947111458	1471947111530	l	76
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437402	1471947111626	1471947111722	d	68
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437406	1471947111852	1471947111939	n	78
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437411	1471947112604	1471947112690	'	222
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437417	1471947112939	1471947113050	t	84
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437422	1471947113083	1471947113170	 	32
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437506	1471947113835	1471947113899	w	87
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437507	1471947114236	1471947114315	r	82
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437508	1471947114379	1471947114491	o	79
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437510	1471947114587	1471947114691	t	84
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437512	1471947114923	1471947115034	e	69
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437615	1471947115066	1471947115146	 	32
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437618	1471947115444	1471947115539	BKSP	8
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437621	1471947115619	1471947115674	BKSP	8
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437623	1471947115755	1471947115819	BKSP	8
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437626	1471947115883	1471947115954	BKSP	8
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437630	1471947116747	1471947116826	i	73
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437635	1471947116923	1471947117043	t	84
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437639	1471947117067	1471947117194	e	69
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437641	1471947117211	1471947117290	 	32
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437707	1471947118090	1471947118162	t	84
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437709	1471947118291	1471947118355	o	79
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437714	1471947118435	1471947118507	o	79
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437719	1471947118555	1471947118618	 	32
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437722	1471947118755	1471947118786	m	78
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437846	1471947119779	1471947119891	BKSP	8
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437852	1471947120155	1471947120267	BKSP	8
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437859	1471947120722	1471947120794	m	77
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437866	1471947120980	1471947121058	u	85
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437871	1471947121123	1471947121234	c	67
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437876	1471947121786	1471947121866	h	72
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437879	1471947121915	1471947122018	 	32
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437935	1471947122754	1471947122826	o	79
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437938	1471947122915	1471947122994	n	78
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437942	1471947123227	1471947123306	 	32
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437949	1471947123644	1471947123762	t	84
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	437953	1471947123778	1471947123874	h	72
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	438063	1471947123859	1471947123946	i	73
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	438064	1471947124043	1471947124106	s	65
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	438065	1471947124884	1471947124962	BKSP	8
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	438066	1471947125027	1471947125114	BKSP	8
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	438067	1471947125179	1471947125226	BKSP	8
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	438069	1471947126059	1471947126122	i	73
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	438070	1471947126170	1471947126283	s	83
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	438071	1471947126307	1471947126418	 	32
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	438187	1471947127035	1471947127187	t	84
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	438188	1471947127388	1471947127458	h	72
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	438189	1471947127482	1471947127578	i	73
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	438190	1471947127675	1471947127723	h	72
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	438191	1471947128283	1471947128410	BKSP	8
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	438192	1471947129154	1471947129290	n	78
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	438243	1471947129275	1471947129386	g	71
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	438247	1471947130458	1471947131003	SHIFT	16
+901	9100	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	438245	1471947130802	1471947130955	!	49
+901	9143	I have some more data coming.	I have some more data coming.	439731	1471947133778	1471947134642	SHIFT	16
+901	9143	I have some more data coming.	I have some more data coming.	439739	1471947163397	1471947164058	SHIFT	16
+901	9143	I have some more data coming.	I have some more data coming.	439735	1471947163843	1471947163946	I	73
+901	9143	I have some more data coming.	I have some more data coming.	439743	1471947164186	1471947164258	 	32
+901	9143	I have some more data coming.	I have some more data coming.	439747	1471947164322	1471947164402	h	72
+901	9143	I have some more data coming.	I have some more data coming.	439752	1471947164515	1471947164610	a	65
+901	9143	I have some more data coming.	I have some more data coming.	439755	1471947164954	1471947165034	v	86
+901	9143	I have some more data coming.	I have some more data coming.	439805	1471947165378	1471947165506	e	69
+901	9143	I have some more data coming.	I have some more data coming.	439807	1471947165539	1471947165634	 	32
+901	9143	I have some more data coming.	I have some more data coming.	439809	1471947166163	1471947166234	s	83
+901	9143	I have some more data coming.	I have some more data coming.	439813	1471947166258	1471947166338	o	79
+901	9143	I have some more data coming.	I have some more data coming.	439815	1471947166435	1471947166530	m	77
+901	9143	I have some more data coming.	I have some more data coming.	439863	1471947166594	1471947166714	e	69
+901	9143	I have some more data coming.	I have some more data coming.	439864	1471947166779	1471947166842	 	32
+901	9143	I have some more data coming.	I have some more data coming.	439865	1471947167147	1471947167226	m	77
+901	9143	I have some more data coming.	I have some more data coming.	439866	1471947167338	1471947167418	o	79
+901	9143	I have some more data coming.	I have some more data coming.	439867	1471947167762	1471947167858	r	82
+901	9143	I have some more data coming.	I have some more data coming.	439935	1471947167874	1471947167994	e	69
+901	9143	I have some more data coming.	I have some more data coming.	439939	1471947168026	1471947168106	 	32
+901	9143	I have some more data coming.	I have some more data coming.	439940	1471947169418	1471947169538	d	68
+901	9143	I have some more data coming.	I have some more data coming.	439941	1471947169555	1471947169634	a	65
+901	9143	I have some more data coming.	I have some more data coming.	439942	1471947169946	1471947170002	t	84
+901	9143	I have some more data coming.	I have some more data coming.	440016	1471947170379	1471947170474	BKSP	8
+901	9143	I have some more data coming.	I have some more data coming.	440019	1471947171234	1471947171298	t	84
+901	9143	I have some more data coming.	I have some more data coming.	440025	1471947171346	1471947171442	a	65
+901	9143	I have some more data coming.	I have some more data coming.	440031	1471947171475	1471947171562	 	32
+901	9143	I have some more data coming.	I have some more data coming.	440036	1471947172083	1471947172154	c	67
+901	9143	I have some more data coming.	I have some more data coming.	440042	1471947172186	1471947172258	o	79
+901	9143	I have some more data coming.	I have some more data coming.	440100	1471947172379	1471947172474	m	77
+901	9143	I have some more data coming.	I have some more data coming.	440101	1471947172562	1471947172634	i	73
+901	9143	I have some more data coming.	I have some more data coming.	440102	1471947172819	1471947172890	n	78
+901	9143	I have some more data coming.	I have some more data coming.	440103	1471947172922	1471947172986	g	71
+901	9143	I have some more data coming.	I have some more data coming.	440104	1471947173417	1471947173555	SHIFT	16
+901	9143	I have some more data coming.	I have some more data coming.	440106	1471947173818	1471947173898	.	190
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440243	1471947176378	1471947177146	SHIFT	16
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440238	1471947177017	1471947177082	I	73
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440249	1471947177251	1471947177338	 	32
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440256	1471947177507	1471947177602	a	65
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440261	1471947177667	1471947177714	m	77
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440264	1471947177827	1471947177906	 	32
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440287	1471947178523	1471947178569	m	77
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440288	1471947178699	1471947178778	e	69
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440290	1471947178874	1471947178953	e	69
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440294	1471947179034	1471947179130	t	84
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440298	1471947179194	1471947179273	i	73
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440373	1471947179378	1471947179450	n	78
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440376	1471947179514	1471947179578	g	71
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440377	1471947179658	1471947179738	 	32
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440378	1471947180451	1471947180530	w	87
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440379	1471947181194	1471947181265	i	73
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440416	1471947181322	1471947181418	t	84
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440418	1471947181474	1471947181538	h	72
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440420	1471947181618	1471947181714	 	32
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440422	1471947182794	1471947182890	y	89
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440424	1471947182906	1471947183026	m	77
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440652	1471947188066	1471947188145	m	77
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440654	1471947188224	1471947188328	y	89
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440658	1471947188376	1471947188440	 	32
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440663	1471947189514	1471947189593	d	68
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440666	1471947189625	1471947189713	i	73
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440714	1471947189946	1471947190009	r	82
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440716	1471947190113	1471947190209	e	69
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440720	1471947190305	1471947190401	c	67
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440724	1471947190529	1471947190625	t	84
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440728	1471947190721	1471947190817	 	32
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440883	1471947192674	1471947192745	r	82
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440884	1471947192809	1471947192889	e	69
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440885	1471947193105	1471947193233	p	80
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440887	1471947193290	1471947193361	o	79
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440890	1471947193986	1471947194089	r	82
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440940	1471947194153	1471947194249	t	84
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440941	1471947194561	1471947194665	s	83
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440942	1471947194729	1471947194841	 	32
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440943	1471947195457	1471947195585	a	65
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440944	1471947195616	1471947195737	t	84
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	440998	1471947195801	1471947195921	 	32
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441000	1471947196370	1471947196473	1	49
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441002	1471947196506	1471947196624	 	32
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441004	1471947197073	1471947197137	t	84
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441006	1471947197217	1471947197314	o	79
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441116	1471947197409	1471947197497	 	32
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441118	1471947197664	1471947197761	w	87
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441122	1471947198720	1471947198817	o	79
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441128	1471947198874	1471947198969	r	82
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441133	1471947199697	1471947199833	k	75
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441199	1471947200001	1471947200153	 	32
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441202	1471947200169	1471947200354	o	79
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441206	1471947200697	1471947200801	n	78
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441212	1471947200881	1471947201009	 	32
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441215	1471947201737	1471947201832	r	82
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441246	1471947201848	1471947202017	e	69
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441249	1471947202450	1471947202585	c	67
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441252	1471947202601	1471947202681	o	79
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441255	1471947202800	1471947202888	m	77
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441258	1471947202952	1471947203049	m	77
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441369	1471947203593	1471947203696	e	69
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441371	1471947204113	1471947204193	n	78
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441374	1471947204258	1471947204385	d	68
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441376	1471947205795	1471947205873	a	65
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441377	1471947205954	1471947206049	t	84
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441481	1471947206065	1471947206153	i	73
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441486	1471947206521	1471947206593	n	78
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441491	1471947207274	1471947207401	BKSP	8
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441495	1471947208081	1471947208233	o	79
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441498	1471947208344	1471947208441	n	78
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441499	1471947208754	1471947208881	s	83
+901	9187	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	441520	1471947209737	1471947209809	.	190
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	441761	1471947212752	1471947215201	SHIFT	16
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	441758	1471947215025	1471947215121	Y	89
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	441763	1471947215465	1471947215569	o	79
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	441765	1471947215665	1471947215753	u	85
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	441767	1471947215833	1471947215897	 	32
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	441769	1471947216082	1471947216160	a	65
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	441799	1471947216225	1471947216297	r	82
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	441801	1471947216321	1471947216433	e	69
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	441802	1471947216465	1471947216568	 	32
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	441803	1471947217001	1471947217081	w	87
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	441804	1471947217112	1471947217201	e	69
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	441830	1471947217362	1471947217489	l	76
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	441833	1471947217848	1471947217944	c	67
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	441835	1471947217960	1471947218072	o	79
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	441838	1471947218177	1471947218249	m	77
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	441841	1471947218401	1471947218496	e	69
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	441923	1471947218578	1471947218641	 	32
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	441925	1471947219241	1471947219321	i	73
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	441926	1471947219441	1471947219512	n	78
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	441930	1471947219560	1471947219665	 	32
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442021	1471947219753	1471947220856	SHIFT	16
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	441931	1471947220705	1471947220776	P	80
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442024	1471947221026	1471947221105	l	76
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442028	1471947221169	1471947221265	a	65
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442032	1471947221914	1471947221992	BKSP	8
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442037	1471947222171	1471947222264	BKSP	8
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442039	1471947222610	1471947222688	a	65
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442041	1471947222753	1471947222832	l	76
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442042	1471947222912	1471947222992	a	65
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442118	1471947224018	1471947224104	c	67
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442119	1471947224217	1471947224265	i	73
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442121	1471947224465	1471947224553	o	79
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442123	1471947225081	1471947225209	s	83
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442125	1471947225257	1471947225360	 	32
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442154	1471947225937	1471947226017	t	84
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442157	1471947226049	1471947226145	h	72
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442158	1471947226193	1471947226256	i	73
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442161	1471947226304	1471947226416	s	83
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442163	1471947226449	1471947226545	 	32
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442201	1471947227128	1471947227209	w	87
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442202	1471947227289	1471947227369	e	69
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442203	1471947227425	1471947227504	e	69
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442204	1471947227880	1471947227976	k	75
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442205	1471947228193	1471947228272	e	69
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442251	1471947228353	1471947228408	n	78
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442253	1471947229024	1471947229137	d	68
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442256	1471947229848	1471947229896	,	188
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442259	1471947230008	1471947230121	 	32
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442262	1471947230264	1471947230360	o	79
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442298	1471947230554	1471947230665	f	70
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442304	1471947230697	1471947230793	 	32
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442309	1471947231025	1471947231128	c	67
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442318	1471947231504	1471947231594	o	79
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442323	1471947231689	1471947231752	u	85
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442456	1471947233562	1471947233664	r	82
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442460	1471947233681	1471947233825	s	83
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442465	1471947234224	1471947234328	e	69
+901	9216	You are welcome in Palacios this weekend, of course.	You are welcome in Palacios this weekend, of course.	442472	1471947235057	1471947235153	.	190
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442602	1471947237546	1471947238353	SHIFT	16
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442601	1471947238176	1471947238272	P	80
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442603	1471947238416	1471947238512	l	76
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442604	1471947238577	1471947238672	e	69
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442605	1471947238753	1471947238832	a	65
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442606	1471947238928	1471947239000	s	83
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442708	1471947239112	1471947239216	e	69
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442710	1471947239369	1471947239473	 	32
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442712	1471947239834	1471947239912	a	65
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442714	1471947240424	1471947240512	INSERT	45
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442715	1471947240992	1471947241048	\	220
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442716	1471947241008	1471947241072	BKSP	8
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442717	1471947241649	1471947241720	BKSP	8
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442719	1471947242289	1471947242384	c	67
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442765	1471947242433	1471947242512	a	65
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442768	1471947242592	1471947242656	l	76
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442771	1471947242721	1471947242792	l	76
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442774	1471947242857	1471947242936	 	32
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442776	1471947243466	1471947243528	m	77
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442810	1471947243593	1471947243657	e	69
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442811	1471947243738	1471947243816	 	32
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442812	1471947244592	1471947244671	i	73
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442813	1471947244769	1471947244865	f	70
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442814	1471947244897	1471947244992	 	32
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442881	1471947245025	1471947245152	t	84
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442886	1471947245528	1471947245672	BKSP	8
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442890	1471947246513	1471947246584	y	89
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442895	1471947246632	1471947246728	o	79
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442899	1471947246793	1471947246872	u	85
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442902	1471947246967	1471947247048	 	32
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442947	1471947247529	1471947247584	s	83
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442948	1471947247705	1471947247800	e	69
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442949	1471947247890	1471947247968	e	69
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442950	1471947248033	1471947248120	 	32
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442951	1471947248633	1471947248696	a	65
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442985	1471947248736	1471947248808	n	78
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442987	1471947248952	1471947249031	y	89
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442991	1471947249112	1471947249208	 	32
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442994	1471947249481	1471947249576	p	80
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	442998	1471947249761	1471947249832	r	82
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	443052	1471947249913	1471947249968	o	79
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	443053	1471947250617	1471947250688	b	66
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	443055	1471947250777	1471947250848	l	76
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	443059	1471947251489	1471947251592	e	69
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	443062	1471947251841	1471947251937	m	77
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	443108	1471947252529	1471947252576	s	83
+901	9233	Please call me if you see any problems.	Please call me if you see any problems.	443110	1471947253000	1471947253080	.	190
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443261	1471947255913	1471947256256	SHIFT	16
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443257	1471947256112	1471947256175	I	73
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443264	1471947256369	1471947256464	 	32
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443267	1471947256608	1471947256680	h	72
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443269	1471947256729	1471947256824	o	79
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443273	1471947257040	1471947257136	e	69
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443320	1471947257232	1471947257304	 	32
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443325	1471947257752	1471947257808	t	84
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443329	1471947257865	1471947257936	h	72
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443336	1471947258120	1471947258216	i	73
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443341	1471947258313	1471947258497	s	83
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443430	1471947258609	1471947258712	 	32
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443429	1471947258640	1471947258688	i	73
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443431	1471947259353	1471947259449	BKSP	8
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443433	1471947259521	1471947259584	BKSP	8
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443435	1471947259649	1471947259720	BKSP	8
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443437	1471947259809	1471947259872	BKSP	8
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443439	1471947259969	1471947260000	BKSP	8
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443440	1471947260080	1471947260144	BKSP	8
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443442	1471947260257	1471947260304	BKSP	8
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443445	1471947260392	1471947260464	BKSP	8
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443448	1471947260529	1471947260592	BKSP	8
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443449	1471947261624	1471947261721	o	79
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443450	1471947261768	1471947261840	p	80
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443451	1471947261888	1471947261976	e	69
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443487	1471947262057	1471947262136	 	32
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443490	1471947262713	1471947262816	t	84
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443493	1471947262832	1471947262912	h	72
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443497	1471947262960	1471947263040	i	73
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443502	1471947263072	1471947263176	s	83
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443516	1471947263192	1471947263280	 	32
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443518	1471947263345	1471947263408	i	73
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443520	1471947263440	1471947263536	s	83
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443524	1471947263569	1471947263648	 	32
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443528	1471947263705	1471947263768	a	65
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443584	1471947263784	1471947263864	 	32
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443587	1471947264096	1471947264207	BKSP	8
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443591	1471947264289	1471947264360	BKSP	8
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443594	1471947265008	1471947265064	t	84
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443598	1471947265177	1471947265248	h	72
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443603	1471947265327	1471947265431	e	69
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443606	1471947265463	1471947265576	 	32
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443701	1471947265953	1471947266032	l	76
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443704	1471947266112	1471947266192	a	65
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443709	1471947266521	1471947266616	t	84
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443713	1471947266680	1471947266776	 	32
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443715	1471947267119	1471947267207	BKSP	8
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443719	1471947267272	1471947267344	BKSP	8
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443721	1471947267962	1471947268071	s	83
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443779	1471947268144	1471947268280	t	84
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443781	1471947268313	1471947268440	 	32
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443784	1471947269200	1471947269304	r	82
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443786	1471947269320	1471947269432	e	69
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443788	1471947269609	1471947269704	v	86
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443840	1471947269784	1471947269864	i	73
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443841	1471947269912	1471947270008	s	83
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443842	1471947270601	1471947270680	i	73
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443843	1471947270712	1471947270816	o	79
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443844	1471947270961	1471947271040	n	78
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443898	1471947271600	1471947271681	 	32
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443900	1471947272681	1471947272760	f	70
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443902	1471947272840	1471947272904	o	79
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443907	1471947272953	1471947273064	r	82
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443911	1471947273096	1471947273208	 	32
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443962	1471947273576	1471947273992	SHIFT	16
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443957	1471947273792	1471947273928	S	83
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443966	1471947274360	1471947274432	e	69
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443971	1471947274496	1471947274584	p	80
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443977	1471947274776	1471947274872	t	84
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	443982	1471947275416	1471947275496	e	69
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	444049	1471947275743	1471947275831	m	77
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	444052	1471947276129	1471947276192	b	66
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	444055	1471947276290	1471947276360	e	69
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	444058	1471947276416	1471947276512	r	82
+901	9247	I hope this is the last revision for September.	I hope this is the last revision for September.	444061	1471947277368	1471947277480	.	190
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444228	1471947279648	1471947280488	SHIFT	16
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444226	1471947280375	1471947280424	I	73
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444230	1471947280624	1471947280672	t	84
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444232	1471947281760	1471947281832	'	222
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444234	1471947281977	1471947282081	s	83
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444235	1471947282113	1471947282224	 	32
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444290	1471947282952	1471947283032	t	84
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444293	1471947283177	1471947283224	o	79
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444296	1471947283312	1471947283384	o	79
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444300	1471947283440	1471947283536	 	32
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444305	1471947283985	1471947284096	i	73
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444384	1471947284160	1471947284231	n	78
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444386	1471947284624	1471947284704	v	86
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444389	1471947284817	1471947284928	o	79
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444392	1471947285105	1471947285192	l	76
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444394	1471947286337	1471947286448	v	86
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444478	1471947286480	1471947286576	e	69
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444481	1471947286872	1471947286976	s	83
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444484	1471947287033	1471947287136	 	32
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444490	1471947287569	1471947287688	BKSP	8
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444496	1471947287768	1471947287864	BKSP	8
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444500	1471947288464	1471947288576	d	68
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444503	1471947288656	1471947288752	 	32
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444596	1471947289248	1471947289320	o	79
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444597	1471947289664	1471947289736	u	85
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444599	1471947289793	1471947289920	t	84
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444602	1471947289952	1471947290048	 	32
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444604	1471947290960	1471947291040	h	72
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444650	1471947291120	1471947291223	e	69
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444651	1471947291279	1471947291376	r	82
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444653	1471947291441	1471947291552	e	69
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444655	1471947291680	1471947291776	 	32
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444659	1471947292401	1471947292488	o	79
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444702	1471947292600	1471947292664	n	78
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444704	1471947292744	1471947292832	 	32
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444709	1471947293096	1471947293471	SHIFT	16
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444707	1471947293295	1471947293439	S	83
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444714	1471947294367	1471947294463	a	65
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444717	1471947294520	1471947294600	t	84
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444765	1471947295584	1471947295648	u	85
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444766	1471947295712	1471947295792	r	82
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444767	1471947296105	1471947296192	d	68
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444768	1471947296240	1471947296320	a	65
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444769	1471947296352	1471947296439	y	89
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444826	1471947296840	1471947296944	 	32
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444829	1471947297392	1471947297447	w	87
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444831	1471947297689	1471947297760	i	73
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444834	1471947297824	1471947297896	t	84
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444837	1471947297960	1471947298056	h	72
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444893	1471947298144	1471947298256	 	32
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444894	1471947299040	1471947299144	e	69
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444895	1471947299241	1471947299327	v	86
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444897	1471947299520	1471947299632	e	69
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444900	1471947299728	1471947299832	r	82
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444953	1471947299864	1471947299944	y	89
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444954	1471947300577	1471947300648	b	66
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444955	1471947300696	1471947300776	o	79
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444956	1471947301121	1471947301216	d	68
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	444957	1471947301584	1471947301648	 	32
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	445091	1471947301617	1471947301687	y	89
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	445095	1471947302200	1471947302264	BKSP	8
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	445098	1471947302359	1471947302447	BKSP	8
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	445100	1471947302992	1471947303056	y	89
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	445103	1471947303121	1471947303224	 	32
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	445106	1471947304257	1471947304344	q	81
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	445108	1471947304392	1471947304448	u	85
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	445110	1471947305312	1471947305448	a	65
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	445185	1471947306288	1471947306384	l	76
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	445188	1471947306816	1471947306879	i	73
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	445192	1471947307288	1471947307375	f	70
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	445196	1471947307455	1471947307559	y	89
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	445201	1471947307680	1471947307760	i	73
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	445265	1471947307904	1471947307976	n	78
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	445266	1471947308088	1471947308135	g	71
+901	9266	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying.	445267	1471947309144	1471947309240	.	190
+901	9289	We are all fragile.	We are all fragile.	445436	1471947311623	1471947312615	SHIFT	16
+901	9289	We are all fragile.	We are all fragile.	445431	1471947312471	1471947312567	W	87
+901	9289	We are all fragile.	We are all fragile.	445440	1471947312768	1471947312880	e	69
+901	9289	We are all fragile.	We are all fragile.	445444	1471947312944	1471947313047	 	32
+901	9289	We are all fragile.	We are all fragile.	445447	1471947313377	1471947313431	a	65
+901	9289	We are all fragile.	We are all fragile.	445450	1471947313528	1471947313648	r	82
+901	9289	We are all fragile.	We are all fragile.	445485	1471947313680	1471947313775	e	69
+901	9289	We are all fragile.	We are all fragile.	445488	1471947313823	1471947313928	 	32
+901	9289	We are all fragile.	We are all fragile.	445490	1471947314105	1471947314184	a	65
+901	9289	We are all fragile.	We are all fragile.	445493	1471947314616	1471947314680	l	76
+901	9289	We are all fragile.	We are all fragile.	445496	1471947314760	1471947314832	l	76
+901	9289	We are all fragile.	We are all fragile.	445580	1471947314961	1471947315056	 	32
+901	9289	We are all fragile.	We are all fragile.	445582	1471947315984	1471947316080	f	70
+901	9289	We are all fragile.	We are all fragile.	445584	1471947316200	1471947316328	r	82
+901	9289	We are all fragile.	We are all fragile.	445586	1471947316409	1471947316511	e	69
+901	9289	We are all fragile.	We are all fragile.	445588	1471947317041	1471947317184	BKSP	8
+901	9289	We are all fragile.	We are all fragile.	445591	1471947317303	1471947317431	a	65
+901	9289	We are all fragile.	We are all fragile.	445673	1471947317896	1471947317967	g	71
+901	9289	We are all fragile.	We are all fragile.	445674	1471947318129	1471947318216	i	73
+901	9289	We are all fragile.	We are all fragile.	445675	1471947318562	1471947318655	l	76
+901	9289	We are all fragile.	We are all fragile.	445676	1471947318841	1471947318992	e	69
+901	9289	We are all fragile.	We are all fragile.	445677	1471947319704	1471947319832	.	190
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	445898	1471947322328	1471947322855	SHIFT	16
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	445896	1471947322655	1471947322823	O	79
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	445900	1471947323104	1471947323175	n	78
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	445902	1471947323289	1471947323375	 	32
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	445904	1471947323783	1471947324551	SHIFT	16
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	445903	1471947324392	1471947324472	F	70
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	445906	1471947324801	1471947324879	r	82
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	445990	1471947325840	1471947325935	i	73
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	445993	1471947326353	1471947326471	d	68
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	445998	1471947326519	1471947326615	a	65
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446001	1471947326647	1471947326719	y	89
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446004	1471947326815	1471947326943	 	32
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446078	1471947327559	1471947327632	t	84
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446080	1471947327695	1471947327775	h	72
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446085	1471947327839	1471947327935	e	69
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446090	1471947327999	1471947328064	 	32
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446094	1471947329271	1471947329367	c	67
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446155	1471947329400	1471947329495	o	79
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446157	1471947329616	1471947329687	m	77
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446161	1471947330728	1471947330815	p	80
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446167	1471947330927	1471947331023	e	69
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446173	1471947331104	1471947331200	t	84
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446368	1471947331479	1471947331559	i	73
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446370	1471947333335	1471947333431	BKSP	8
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446375	1471947334313	1471947334359	i	73
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446378	1471947334472	1471947334551	t	84
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446381	1471947334848	1471947334927	i	73
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446384	1471947334968	1471947335072	o	79
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446457	1471947335368	1471947335431	n	78
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446458	1471947335568	1471947335663	 	32
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446460	1471947336456	1471947336551	p	80
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446464	1471947336631	1471947336711	r	82
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446466	1471947336791	1471947336863	o	79
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446556	1471947338110	1471947338175	p	80
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446559	1471947338504	1471947338591	e	69
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446561	1471947338687	1471947338808	r	82
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446564	1471947339504	1471947339583	 	32
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446569	1471947339953	1471947340031	g	71
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446649	1471947340361	1471947340471	e	69
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446651	1471947340503	1471947340599	t	84
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446653	1471947340848	1471947340999	s	83
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446654	1471947341024	1471947341119	 	32
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446657	1471947341663	1471947341751	u	85
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446695	1471947341848	1471947341922	n	78
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446697	1471947342072	1471947342175	d	68
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446699	1471947342273	1471947342351	e	69
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446701	1471947342407	1471947342519	r	82
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446706	1471947342623	1471947342727	 	32
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446808	1471947343160	1471947343288	w	87
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446810	1471947343409	1471947343519	a	65
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446815	1471947343599	1471947343695	s	83
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446819	1471947344592	1471947344727	BKSP	8
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446822	1471947344743	1471947344855	y	89
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446825	1471947345599	1471947345647	/	191
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446873	1471947346639	1471947346687	BKSP	8
+901	9301	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	446875	1471947346783	1471947346847	.	190
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447087	1471947350513	1471947351583	SHIFT	16
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447084	1471947351384	1471947351471	H	72
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447090	1471947351850	1471947351943	e	69
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447092	1471947351983	1471947352080	r	82
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447093	1471947352127	1471947352239	e	69
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447095	1471947352353	1471947352479	 	32
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447157	1471947352912	1471947353055	BKSP	8
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447161	1471947353416	1471947353495	'	222
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447164	1471947353575	1471947353679	s	83
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447170	1471947353727	1471947353839	 	32
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447173	1471947354320	1471947354399	t	84
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447177	1471947354432	1471947354487	h	72
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447301	1471947354535	1471947354647	e	69
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447305	1471947354663	1471947354783	 	32
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447311	1471947354927	1471947356143	SHIFT	16
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447307	1471947355927	1471947356080	S	83
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447314	1471947356360	1471947356423	e	69
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447317	1471947357432	1471947357503	p	80
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447401	1471947357951	1471947358039	t	84
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447404	1471947358136	1471947358199	e	69
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447408	1471947358263	1471947358359	m	77
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447415	1471947359119	1471947359199	b	66
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447420	1471947359296	1471947359392	e	69
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447510	1471947359456	1471947359543	r	82
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447512	1471947359951	1471947360063	 	32
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447515	1471947361391	1471947361487	p	80
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447520	1471947361648	1471947361711	u	85
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447525	1471947361871	1471947361967	r	82
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447663	1471947362775	1471947362871	s	83
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447668	1471947363663	1471947363751	BKSP	8
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447672	1471947364415	1471947364495	c	67
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447676	1471947364576	1471947364655	h	72
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447681	1471947364735	1471947364831	a	65
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447684	1471947365024	1471947365119	s	83
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447712	1471947365232	1471947365311	e	69
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447714	1471947365392	1471947365463	 	32
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447716	1471947366360	1471947366415	f	70
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447717	1471947366495	1471947366568	o	79
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447718	1471947366624	1471947366727	r	82
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447825	1471947366775	1471947366871	 	32
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447827	1471947367223	1471947367759	SHIFT	16
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447826	1471947367560	1471947367687	S	83
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447828	1471947368768	1471947368830	e	69
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447829	1471947368911	1471947368983	p	80
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447832	1471947369414	1471947369511	t	84
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447867	1471947369559	1471947369647	e	69
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447870	1471947369704	1471947369767	m	77
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447873	1471947370152	1471947370247	b	66
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447876	1471947370376	1471947370439	e	69
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447880	1471947370527	1471947370607	r	82
+901	9321	Here's the September purchase for September.	Here's the September purchase for September.	447926	1471947371304	1471947371383	.	190
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448150	1471947373014	1471947374391	SHIFT	16
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448148	1471947374240	1471947374319	B	66
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448153	1471947374799	1471947374870	u	85
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448156	1471947374935	1471947375031	t	84
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448159	1471947375096	1471947375183	 	32
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448164	1471947376032	1471947376130	b	66
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448230	1471947376175	1471947376271	o	79
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448232	1471947376520	1471947376583	t	84
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448234	1471947376631	1471947376711	h	72
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448236	1471947376759	1471947376855	 	32
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448238	1471947377616	1471947377727	r	82
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448273	1471947377743	1471947377878	e	69
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448275	1471947378175	1471947378311	p	80
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448277	1471947378327	1471947378423	o	79
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448279	1471947378720	1471947378823	r	82
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448282	1471947378855	1471947378942	t	84
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448314	1471947379247	1471947379351	s	83
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448315	1471947379415	1471947379527	 	32
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448316	1471947380191	1471947380287	w	87
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448317	1471947380351	1471947380431	e	69
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448318	1471947380552	1471947380631	r	82
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448366	1471947380711	1471947380791	e	69
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448369	1471947380974	1471947381086	 	32
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448373	1471947381800	1471947381879	d	68
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448377	1471947381942	1471947382031	e	69
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448380	1471947382142	1471947382215	n	78
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448475	1471947383271	1471947383335	i	73
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448478	1471947383399	1471947383479	e	69
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448480	1471947383559	1471947383655	d	68
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448481	1471947383776	1471947383879	 	32
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448482	1471947384703	1471947384799	b	66
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448535	1471947384847	1471947384983	y	89
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448538	1471947385015	1471947385127	 	32
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448539	1471947385768	1471947385855	t	84
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448541	1471947385888	1471947385943	h	72
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448544	1471947386022	1471947386118	e	69
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448627	1471947386158	1471947386255	 	32
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448632	1471947387168	1471947387295	s	83
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448636	1471947387422	1471947387543	o	79
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448637	1471947387655	1471947387727	u	85
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448638	1471947387960	1471947388022	t	84
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448694	1471947388071	1471947388134	h	72
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448698	1471947388279	1471947388351	e	69
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448703	1471947389760	1471947389830	r	82
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448709	1471947389886	1471947389958	n	78
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448716	1471947390038	1471947390158	 	32
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448820	1471947390735	1471947390831	l	76
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448822	1471947390895	1471947391007	e	69
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448824	1471947391936	1471947392038	a	65
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448826	1471947392551	1471947392647	d	68
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448831	1471947392695	1471947392775	e	69
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448913	1471947392839	1471947392927	r	82
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448915	1471947393503	1471947393567	s	83
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448919	1471947393631	1471947393727	h	72
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448923	1471947393791	1471947393935	i	73
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448926	1471947394279	1471947394375	p	80
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448981	1471947394983	1471947395062	,	188
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448983	1471947395823	1471947395887	BKSP	8
+901	9343	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	448986	1471947395927	1471947396030	.	190
+901	9368	In a couple of weeks.	In a couple of weeks.	449191	1471947398559	1471947399230	SHIFT	16
+901	9368	In a couple of weeks.	In a couple of weeks.	449187	1471947399094	1471947399166	I	73
+901	9368	In a couple of weeks.	In a couple of weeks.	449195	1471947399446	1471947399519	 	32
+901	9368	In a couple of weeks.	In a couple of weeks.	449200	1471947399919	1471947400071	BKSP	8
+901	9368	In a couple of weeks.	In a couple of weeks.	449202	1471947400414	1471947400495	n	78
+901	9368	In a couple of weeks.	In a couple of weeks.	449205	1471947400575	1471947400671	 	32
+901	9368	In a couple of weeks.	In a couple of weeks.	449208	1471947400783	1471947400887	a	65
+901	9368	In a couple of weeks.	In a couple of weeks.	449289	1471947400918	1471947401007	 	32
+901	9368	In a couple of weeks.	In a couple of weeks.	449291	1471947401719	1471947401815	c	67
+901	9368	In a couple of weeks.	In a couple of weeks.	449293	1471947402711	1471947402839	o	79
+901	9368	In a couple of weeks.	In a couple of weeks.	449295	1471947402935	1471947403023	u	85
+901	9368	In a couple of weeks.	In a couple of weeks.	449298	1471947403271	1471947403367	p	80
+901	9368	In a couple of weeks.	In a couple of weeks.	449363	1471947403467	1471947403526	l	76
+901	9368	In a couple of weeks.	In a couple of weeks.	449368	1471947403623	1471947403703	e	69
+901	9368	In a couple of weeks.	In a couple of weeks.	449372	1471947403751	1471947403847	 	32
+901	9368	In a couple of weeks.	In a couple of weeks.	449377	1471947404640	1471947404703	o	79
+901	9368	In a couple of weeks.	In a couple of weeks.	449383	1471947404799	1471947404895	f	70
+901	9368	In a couple of weeks.	In a couple of weeks.	449415	1471947404975	1471947405039	 	32
+901	9368	In a couple of weeks.	In a couple of weeks.	449418	1471947405351	1471947405431	w	87
+901	9368	In a couple of weeks.	In a couple of weeks.	449423	1471947405527	1471947405614	e	69
+901	9368	In a couple of weeks.	In a couple of weeks.	449428	1471947405695	1471947405775	e	69
+901	9368	In a couple of weeks.	In a couple of weeks.	449431	1471947406016	1471947406062	k	75
+901	9368	In a couple of weeks.	In a couple of weeks.	449485	1471947406182	1471947406278	s	83
+901	9368	In a couple of weeks.	In a couple of weeks.	449490	1471947407126	1471947407215	.	190
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	449772	1471947409974	1471947411246	SHIFT	16
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	449767	1471947411047	1471947411134	W	87
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	449778	1471947412160	1471947412255	e	69
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	449785	1471947412287	1471947412367	'	222
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	449789	1471947413440	1471947413559	v	86
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	449791	1471947413607	1471947413734	e	69
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	449830	1471947413766	1471947413887	 	32
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	449831	1471947414647	1471947414726	a	65
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	449833	1471947414775	1471947414854	l	76
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	449839	1471947415126	1471947415222	r	82
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	449845	1471947415255	1471947415366	e	69
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	449930	1471947415415	1471947415527	a	65
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	449933	1471947416238	1471947416367	d	68
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	449935	1471947416414	1471947416518	y	89
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	449938	1471947416671	1471947416791	 	32
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	449940	1471947417863	1471947417943	e	69
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450044	1471947418070	1471947418143	l	76
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450045	1471947418264	1471947418367	i	73
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450046	1471947420175	1471947420262	m	77
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450047	1471947420326	1471947420447	i	73
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450048	1471947420679	1471947420815	n	78
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450083	1471947421261	1471947421358	a	65
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450084	1471947421471	1471947421550	t	84
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450085	1471947421590	1471947421718	e	69
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450088	1471947421807	1471947421935	d	68
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450095	1471947422032	1471947422126	 	32
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450162	1471947423190	1471947423269	h	72
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450163	1471947423334	1471947423398	i	73
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450164	1471947423495	1471947423590	s	83
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450165	1471947423639	1471947423726	 	32
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450166	1471947424551	1471947424638	s	83
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450248	1471947425135	1471947425231	p	80
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450251	1471947425343	1471947425446	e	69
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450254	1471947425910	1471947426038	e	69
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450258	1471947426198	1471947426254	c	67
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450262	1471947426816	1471947426886	h	72
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450316	1471947426999	1471947427103	 	32
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450317	1471947427895	1471947427982	t	84
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450318	1471947428374	1471947428438	h	72
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450319	1471947428719	1471947428798	r	82
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450320	1471947428863	1471947428942	e	69
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450452	1471947430398	1471947430566	a	65
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450455	1471947431016	1471947431094	p	80
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450458	1471947431191	1471947431286	y	89
+901	9379	We've already eliminated his speech therapy.	We've already eliminated his speech threapy.	450460	1471947432079	1471947432191	.	190
+901	9396	I'll give him 10.	I'll give him 10.	450585	1471947434678	1471947435807	SHIFT	16
+901	9396	I'll give him 10.	I'll give him 10.	450583	1471947435638	1471947435702	I	73
+901	9396	I'll give him 10.	I'll give him 10.	450587	1471947436287	1471947436350	'	222
+901	9396	I'll give him 10.	I'll give him 10.	450589	1471947436649	1471947436710	l	76
+901	9396	I'll give him 10.	I'll give him 10.	450591	1471947436775	1471947436838	l	76
+901	9396	I'll give him 10.	I'll give him 10.	450592	1471947436952	1471947437046	 	32
+901	9396	I'll give him 10.	I'll give him 10.	450630	1471947437775	1471947437846	g	71
+901	9396	I'll give him 10.	I'll give him 10.	450631	1471947437895	1471947437966	i	73
+901	9396	I'll give him 10.	I'll give him 10.	450632	1471947438215	1471947438310	v	86
+901	9396	I'll give him 10.	I'll give him 10.	450633	1471947438398	1471947438478	e	69
+901	9396	I'll give him 10.	I'll give him 10.	450634	1471947438542	1471947438630	 	32
+901	9396	I'll give him 10.	I'll give him 10.	450680	1471947439039	1471947439118	h	72
+901	9396	I'll give him 10.	I'll give him 10.	450681	1471947439166	1471947439246	i	73
+901	9396	I'll give him 10.	I'll give him 10.	450682	1471947439333	1471947439430	m	77
+901	9396	I'll give him 10.	I'll give him 10.	450683	1471947439551	1471947439647	 	32
+901	9396	I'll give him 10.	I'll give him 10.	450684	1471947440687	1471947440766	1	49
+901	9396	I'll give him 10.	I'll give him 10.	450706	1471947440782	1471947440862	0	48
+901	9396	I'll give him 10.	I'll give him 10.	450709	1471947441526	1471947441606	.	190
+901	9402	I am monitoring email.	I am monitoring email.	450852	1471947444429	1471947445342	SHIFT	16
+901	9402	I am monitoring email.	I am monitoring email.	450851	1471947445230	1471947445262	I	73
+901	9402	I am monitoring email.	I am monitoring email.	450853	1471947445326	1471947445373	I	73
+901	9402	I am monitoring email.	I am monitoring email.	450854	1471947445551	1471947445638	 	32
+901	9402	I am monitoring email.	I am monitoring email.	450855	1471947446152	1471947446230	BKSP	8
+901	9402	I am monitoring email.	I am monitoring email.	450856	1471947446294	1471947446366	BKSP	8
+901	9402	I am monitoring email.	I am monitoring email.	450857	1471947446519	1471947446615	 	32
+901	9402	I am monitoring email.	I am monitoring email.	450858	1471947446791	1471947446870	a	65
+901	9402	I am monitoring email.	I am monitoring email.	450900	1471947446902	1471947446950	m	77
+901	9402	I am monitoring email.	I am monitoring email.	450901	1471947447055	1471947447126	 	32
+901	9402	I am monitoring email.	I am monitoring email.	450902	1471947447590	1471947447686	m	77
+901	9402	I am monitoring email.	I am monitoring email.	450905	1471947448351	1471947448486	o	79
+901	9402	I am monitoring email.	I am monitoring email.	450909	1471947448582	1471947448678	n	78
+901	9402	I am monitoring email.	I am monitoring email.	450968	1471947448734	1471947448854	i	73
+901	9402	I am monitoring email.	I am monitoring email.	450970	1471947449445	1471947449526	t	84
+901	9402	I am monitoring email.	I am monitoring email.	450973	1471947449623	1471947449704	o	79
+901	9402	I am monitoring email.	I am monitoring email.	450976	1471947449798	1471947449886	r	82
+901	9402	I am monitoring email.	I am monitoring email.	450978	1471947450046	1471947450118	i	73
+901	9402	I am monitoring email.	I am monitoring email.	451064	1471947450262	1471947450334	n	78
+901	9402	I am monitoring email.	I am monitoring email.	451067	1471947450398	1471947450486	g	71
+901	9402	I am monitoring email.	I am monitoring email.	451070	1471947450622	1471947450718	 	32
+901	9402	I am monitoring email.	I am monitoring email.	451073	1471947452278	1471947452373	e	69
+901	9402	I am monitoring email.	I am monitoring email.	451075	1471947452453	1471947452526	m	77
+901	9402	I am monitoring email.	I am monitoring email.	451127	1471947452582	1471947452662	a	65
+901	9402	I am monitoring email.	I am monitoring email.	451130	1471947452694	1471947452774	i	73
+901	9402	I am monitoring email.	I am monitoring email.	451131	1471947453023	1471947453126	l	76
+901	9402	I am monitoring email.	I am monitoring email.	451133	1471947453766	1471947453862	.	190

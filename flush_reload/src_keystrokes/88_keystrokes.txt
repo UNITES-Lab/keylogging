@@ -1,0 +1,967 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+88	747	Call me if you have any questions.	Call me if you have any questions.	36339	1471935688518	1471935688654	CAPS_LOCK	20
+88	747	Call me if you have any questions.	Call me if you have any questions.	36341	1471935688724	1471935688903	C	67
+88	747	Call me if you have any questions.	Call me if you have any questions.	36344	1471935688884	1471935688984	CAPS_LOCK	20
+88	747	Call me if you have any questions.	Call me if you have any questions.	36350	1471935688943	1471935689137	a	65
+88	747	Call me if you have any questions.	Call me if you have any questions.	36354	1471935689083	1471935689143	;	186
+88	747	Call me if you have any questions.	Call me if you have any questions.	36358	1471935689213	1471935689313	;	186
+88	747	Call me if you have any questions.	Call me if you have any questions.	36359	1471935689348	1471935689488	 	32
+88	747	Call me if you have any questions.	Call me if you have any questions.	36380	1471935689793	1471935689853	BKSP	8
+88	747	Call me if you have any questions.	Call me if you have any questions.	36382	1471935689943	1471935690003	BKSP	8
+88	747	Call me if you have any questions.	Call me if you have any questions.	36384	1471935690078	1471935690138	BKSP	8
+88	747	Call me if you have any questions.	Call me if you have any questions.	36386	1471935690997	1471935691117	l	76
+88	747	Call me if you have any questions.	Call me if you have any questions.	36388	1471935691172	1471935691272	l	76
+88	747	Call me if you have any questions.	Call me if you have any questions.	36390	1471935691337	1471935691501	 	32
+88	747	Call me if you have any questions.	Call me if you have any questions.	36392	1471935691498	1471935691577	m	77
+88	747	Call me if you have any questions.	Call me if you have any questions.	36393	1471935691607	1471935691750	e	69
+88	747	Call me if you have any questions.	Call me if you have any questions.	36403	1471935691747	1471935691867	 	32
+88	747	Call me if you have any questions.	Call me if you have any questions.	36404	1471935691947	1471935692087	i	73
+88	747	Call me if you have any questions.	Call me if you have any questions.	36405	1471935692177	1471935692319	f	70
+88	747	Call me if you have any questions.	Call me if you have any questions.	36406	1471935692316	1471935692437	 	32
+88	747	Call me if you have any questions.	Call me if you have any questions.	36407	1471935692626	1471935692707	y	89
+88	747	Call me if you have any questions.	Call me if you have any questions.	36408	1471935692751	1471935692891	y	89
+88	747	Call me if you have any questions.	Call me if you have any questions.	36409	1471935692981	1471935693101	o	79
+88	747	Call me if you have any questions.	Call me if you have any questions.	36411	1471935693121	1471935693201	u	85
+88	747	Call me if you have any questions.	Call me if you have any questions.	36413	1471935693401	1471935693499	BKSP	8
+88	747	Call me if you have any questions.	Call me if you have any questions.	36415	1471935693536	1471935693675	BKSP	8
+88	747	Call me if you have any questions.	Call me if you have any questions.	36417	1471935693881	1471935693964	BKSP	8
+88	747	Call me if you have any questions.	Call me if you have any questions.	36419	1471935694410	1471935694530	o	79
+88	747	Call me if you have any questions.	Call me if you have any questions.	36421	1471935694560	1471935694701	u	85
+88	747	Call me if you have any questions.	Call me if you have any questions.	36422	1471935694702	1471935694880	 	32
+88	747	Call me if you have any questions.	Call me if you have any questions.	36440	1471935694860	1471935695000	h	72
+88	747	Call me if you have any questions.	Call me if you have any questions.	36442	1471935694965	1471935695120	a	65
+88	747	Call me if you have any questions.	Call me if you have any questions.	36443	1471935695140	1471935695280	v	86
+88	747	Call me if you have any questions.	Call me if you have any questions.	36444	1471935695350	1471935695470	e	69
+88	747	Call me if you have any questions.	Call me if you have any questions.	36445	1471935695450	1471935695549	 	32
+88	747	Call me if you have any questions.	Call me if you have any questions.	36446	1471935695735	1471935695896	a	65
+88	747	Call me if you have any questions.	Call me if you have any questions.	36459	1471935695874	1471935695974	n	78
+88	747	Call me if you have any questions.	Call me if you have any questions.	36465	1471935696099	1471935696259	y	89
+88	747	Call me if you have any questions.	Call me if you have any questions.	36469	1471935696279	1471935696439	 	32
+88	747	Call me if you have any questions.	Call me if you have any questions.	36472	1471935696864	1471935697004	q	81
+88	747	Call me if you have any questions.	Call me if you have any questions.	36476	1471935697034	1471935697159	u	85
+88	747	Call me if you have any questions.	Call me if you have any questions.	36479	1471935697214	1471935697334	e	69
+88	747	Call me if you have any questions.	Call me if you have any questions.	36486	1471935697409	1471935697549	s	83
+88	747	Call me if you have any questions.	Call me if you have any questions.	36490	1471935697624	1471935697744	t	84
+88	747	Call me if you have any questions.	Call me if you have any questions.	36493	1471935697763	1471935697844	i	73
+88	747	Call me if you have any questions.	Call me if you have any questions.	36495	1471935697934	1471935698034	o	79
+88	747	Call me if you have any questions.	Call me if you have any questions.	36497	1471935698119	1471935698258	n	78
+88	747	Call me if you have any questions.	Call me if you have any questions.	36527	1471935698534	1471935698653	s	83
+88	747	Call me if you have any questions.	Call me if you have any questions.	36528	1471935699158	1471935699238	.	190
+88	753	If you need John speak up now.	If you need John speak up now.	36570	1471935703056	1471935703196	CAPS_LOCK	20
+88	753	If you need John speak up now.	If you need John speak up now.	36571	1471935703176	1471935703316	I	73
+88	753	If you need John speak up now.	If you need John speak up now.	36573	1471935703276	1471935703415	CAPS_LOCK	20
+88	753	If you need John speak up now.	If you need John speak up now.	36575	1471935703476	1471935703596	f	70
+88	753	If you need John speak up now.	If you need John speak up now.	36577	1471935703575	1471935703695	 	32
+88	753	If you need John speak up now.	If you need John speak up now.	36579	1471935703910	1471935704011	y	89
+88	753	If you need John speak up now.	If you need John speak up now.	36581	1471935704030	1471935704130	o	79
+88	753	If you need John speak up now.	If you need John speak up now.	36582	1471935704160	1471935704300	u	85
+88	753	If you need John speak up now.	If you need John speak up now.	36583	1471935704280	1471935704420	 	32
+88	753	If you need John speak up now.	If you need John speak up now.	36585	1471935704711	1471935704851	n	78
+88	753	If you need John speak up now.	If you need John speak up now.	36587	1471935704831	1471935704950	e	69
+88	753	If you need John speak up now.	If you need John speak up now.	36590	1471935705001	1471935705081	e	69
+88	753	If you need John speak up now.	If you need John speak up now.	36618	1471935705176	1471935705316	d	68
+88	753	If you need John speak up now.	If you need John speak up now.	36619	1471935705275	1471935705396	 	32
+88	753	If you need John speak up now.	If you need John speak up now.	36620	1471935705520	1471935705648	CAPS_LOCK	20
+88	753	If you need John speak up now.	If you need John speak up now.	36621	1471935705641	1471935705741	H	72
+88	753	If you need John speak up now.	If you need John speak up now.	36622	1471935705742	1471935705840	CAPS_LOCK	20
+88	753	If you need John speak up now.	If you need John speak up now.	36624	1471935706040	1471935706160	BKSP	8
+88	753	If you need John speak up now.	If you need John speak up now.	36626	1471935706245	1471935706365	CAPS_LOCK	20
+88	753	If you need John speak up now.	If you need John speak up now.	36629	1471935706396	1471935706555	J	74
+88	753	If you need John speak up now.	If you need John speak up now.	36632	1471935706515	1471935706635	CAPS_LOCK	20
+88	753	If you need John speak up now.	If you need John speak up now.	36635	1471935706665	1471935706765	o	79
+88	753	If you need John speak up now.	If you need John speak up now.	36652	1471935706840	1471935706960	h	72
+88	753	If you need John speak up now.	If you need John speak up now.	36654	1471935707350	1471935707469	n	78
+88	753	If you need John speak up now.	If you need John speak up now.	36657	1471935707499	1471935707639	 	32
+88	753	If you need John speak up now.	If you need John speak up now.	36660	1471935708129	1471935708292	s	83
+88	753	If you need John speak up now.	If you need John speak up now.	36676	1471935708290	1471935708409	p	80
+88	753	If you need John speak up now.	If you need John speak up now.	36677	1471935708389	1471935708509	e	69
+88	753	If you need John speak up now.	If you need John speak up now.	36678	1471935708539	1471935708639	a	65
+88	753	If you need John speak up now.	If you need John speak up now.	36679	1471935708659	1471935708819	k	75
+88	753	If you need John speak up now.	If you need John speak up now.	36680	1471935708820	1471935708899	 	32
+88	753	If you need John speak up now.	If you need John speak up now.	36681	1471935708959	1471935709079	u	85
+88	753	If you need John speak up now.	If you need John speak up now.	36697	1471935709214	1471935709314	p	80
+88	753	If you need John speak up now.	If you need John speak up now.	36698	1471935709549	1471935709690	 	32
+88	753	If you need John speak up now.	If you need John speak up now.	36699	1471935709743	1471935709863	n	78
+88	753	If you need John speak up now.	If you need John speak up now.	36700	1471935709933	1471935710053	o	79
+88	753	If you need John speak up now.	If you need John speak up now.	36701	1471935710103	1471935710243	w	87
+88	753	If you need John speak up now.	If you need John speak up now.	36702	1471935710358	1471935710440	.	190
+88	753	If you need John speak up now.	If you need John speak up now.	36703	1471935710989	1471935711131	CAPS_LOCK	20
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36794	1471935714112	1471935714232	CAPS_LOCK	20
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36796	1471935714252	1471935714351	l	76
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36798	1471935714332	1471935714431	CAPS_LOCK	20
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36800	1471935714461	1471935714561	O	79
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36802	1471935714640	1471935714720	O	79
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36804	1471935714988	1471935715080	BKSP	8
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36806	1471935715135	1471935715215	BKSP	8
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36808	1471935715270	1471935715350	BKSP	8
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36810	1471935715806	1471935715886	L	76
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36812	1471935715886	1471935716025	CAPS_LOCK	20
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36813	1471935716055	1471935716115	o	79
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36824	1471935716216	1471935716276	o	79
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36825	1471935716370	1471935716470	k	75
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36826	1471935716540	1471935716680	 	32
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36827	1471935716795	1471935716915	f	70
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36828	1471935717059	1471935717219	o	79
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36849	1471935717179	1471935717300	r	82
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36850	1471935717319	1471935717459	 	32
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36851	1471935717619	1471935717739	h	72
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36853	1471935717824	1471935717964	i	73
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36855	1471935718034	1471935718194	m	77
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36857	1471935718214	1471935718334	 	32
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36873	1471935718354	1471935718457	t	84
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36874	1471935718454	1471935718575	o	79
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36875	1471935718576	1471935718694	 	32
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36876	1471935718754	1471935718894	t	84
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36877	1471935719099	1471935719179	h	72
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36917	1471935719839	1471935720019	r	82
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36918	1471935720039	1471935720158	o	79
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36919	1471935720160	1471935720278	w	87
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36921	1471935720298	1471935720398	 	32
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36923	1471935720853	1471935720953	t	84
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36944	1471935721218	1471935721358	BKSP	8
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36946	1471935721388	1471935721488	f	70
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36948	1471935721683	1471935721763	r	82
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36950	1471935721723	1471935721843	o	79
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36952	1471935722048	1471935722129	BKSP	8
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36954	1471935722219	1471935722259	BKSP	8
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36956	1471935722394	1471935722515	o	79
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36958	1471935722516	1471935722614	r	82
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36969	1471935722594	1471935722717	 	32
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36970	1471935722714	1471935722834	o	79
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36971	1471935723163	1471935723283	v	86
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36974	1471935723358	1471935723600	e	69
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36977	1471935723478	1471935723638	r	82
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36992	1471935723618	1471935723738	 	32
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36993	1471935724223	1471935724363	2	50
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36994	1471935724408	1471935724488	0	48
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36995	1471935724568	1471935724648	0	48
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36997	1471935724693	1471935724833	 	32
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	36999	1471935725008	1471935725148	y	89
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	37024	1471935725128	1471935725272	a	65
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	37026	1471935725268	1471935725408	r	82
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	37028	1471935725723	1471935725863	d	68
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	37030	1471935725933	1471935726052	s	83
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	37032	1471935726092	1471935726252	 	32
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	37034	1471935726348	1471935726471	a	65
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	37051	1471935726468	1471935726607	n	78
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	37053	1471935726567	1471935726668	d	68
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	37055	1471935726687	1471935726807	 	32
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	37057	1471935726837	1471935726981	a	65
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	37059	1471935726977	1471935727077	 	32
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	37060	1471935727352	1471935727452	s	83
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	37082	1471935727667	1471935727707	c	67
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	37084	1471935727772	1471935727912	o	79
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	37086	1471935727914	1471935728052	r	82
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	37089	1471935728053	1471935728192	e	69
+88	762	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	37092	1471935728442	1471935728582	.	190
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37195	1471935732305	1471935732426	CAPS_LOCK	20
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37197	1471935732445	1471935732545	J	74
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37199	1471935732525	1471935732649	CAPS_LOCK	20
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37201	1471935732645	1471935732745	o	79
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37203	1471935732830	1471935732970	n	78
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37205	1471935732930	1471935733030	e	69
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37206	1471935733110	1471935733250	s	83
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37241	1471935733230	1471935733370	 	32
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37242	1471935733610	1471935733710	e	69
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37243	1471935733805	1471935733905	e	69
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37244	1471935734460	1471935734559	BKSP	8
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37245	1471935734561	1471935734659	c	67
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37246	1471935734755	1471935734934	e	69
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37248	1471935735120	1471935735179	BKSP	8
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37250	1471935735414	1471935735515	x	88
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37259	1471935735624	1471935735924	e	69
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37263	1471935736119	1471935736219	BKSP	8
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37265	1471935736284	1471935736384	BKSP	8
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37269	1471935736584	1471935736704	BKSP	8
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37273	1471935736829	1471935736949	x	88
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37277	1471935736969	1471935737129	e	69
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37281	1471935737184	1471935737347	c	67
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37300	1471935737344	1471935737484	u	85
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37301	1471935737519	1471935737699	t	84
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37302	1471935737718	1471935737818	i	73
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37303	1471935737948	1471935738108	v	86
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37304	1471935738181	1471935738378	e	69
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37305	1471935738399	1471935738538	 	32
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37329	1471935738803	1471935738943	c	67
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37332	1471935738978	1471935739158	i	73
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37335	1471935739434	1471935739514	BKSP	8
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37337	1471935739594	1471935739674	BKSP	8
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37339	1471935739704	1471935739824	v	86
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37340	1471935739914	1471935740034	i	73
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37359	1471935739974	1471935740194	c	67
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37361	1471935740174	1471935740354	e	69
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37363	1471935740334	1471935740474	 	32
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37365	1471935740734	1471935740894	p	80
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37368	1471935740895	1471935741033	r	82
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37370	1471935741068	1471935741188	e	69
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37381	1471935741498	1471935741638	s	83
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37384	1471935741673	1471935741793	i	73
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37387	1471935741873	1471935741993	d	68
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37390	1471935742063	1471935742223	e	69
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37393	1471935742243	1471935742383	n	78
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37422	1471935742443	1471935742663	c	67
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37423	1471935742863	1471935743003	BKSP	8
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37424	1471935742983	1471935743103	t	84
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37425	1471935743203	1471935743323	 	32
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37426	1471935743783	1471935743963	a	65
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37445	1471935743943	1471935744103	n	78
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37446	1471935744142	1471935744282	d	68
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37447	1471935744302	1471935744422	 	32
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37448	1471935744672	1471935744832	c	67
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37449	1471935744812	1471935744933	h	72
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37450	1471935744992	1471935745152	i	73
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37471	1471935745112	1471935745272	e	69
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37474	1471935745702	1471935745862	f	70
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37477	1471935745822	1471935745962	 	32
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37480	1471935746047	1471935746187	o	79
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37483	1471935746277	1471935746417	p	80
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37485	1471935746418	1471935746657	e	69
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37498	1471935746617	1471935746737	r	82
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37500	1471935746842	1471935747103	a	65
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37502	1471935747122	1471935747282	t	84
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37505	1471935747203	1471935747302	i	73
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37508	1471935747412	1471935747512	o	79
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37511	1471935747577	1471935747737	n	78
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37545	1471935747997	1471935748057	BKSP	8
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37547	1471935748117	1471935748197	BKSP	8
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37549	1471935748342	1471935748525	n	78
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37550	1471935748462	1471935748601	g	71
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37551	1471935748621	1471935748762	 	32
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37552	1471935748956	1471935749096	o	79
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37553	1471935749281	1471935749381	f	70
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37559	1471935749426	1471935749532	f	70
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37560	1471935749528	1471935749666	i	73
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37561	1471935749697	1471935749836	c	67
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37562	1471935749866	1471935750146	e	69
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37597	1471935750067	1471935750206	r	82
+88	767	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	37598	1471935750453	1471935750581	.	190
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37737	1471935754100	1471935754300	CAPS_LOCK	20
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37739	1471935754330	1471935754550	E	69
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37958	1471935754490	1471935764324	CAPS_LOCK	20
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37908	1471935754690	1471935761279	v	86
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37740	1471935756794	1471935756954	e	69
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37741	1471935757145	1471935757306	n	78
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37742	1471935757325	1471935757505	 	32
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37797	1471935757485	1471935757625	i	73
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37799	1471935757645	1471935757765	f	70
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37801	1471935757705	1471935757825	 	32
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37802	1471935758080	1471935758220	t	84
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37803	1471935758310	1471935758390	i	73
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37804	1471935758545	1471935758625	BKSP	8
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37806	1471935758685	1471935758745	BKSP	8
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37808	1471935758885	1471935759025	i	73
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37824	1471935758985	1471935759085	t	84
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37825	1471935759105	1471935759205	 	32
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37826	1471935759355	1471935759515	w	87
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37827	1471935759567	1471935759805	e	69
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37829	1471935759824	1471935759985	r	82
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37833	1471935759986	1471935760144	e	69
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37842	1471935760164	1471935760244	 	32
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37844	1471935760319	1471935760463	a	65
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37846	1471935760460	1471935760544	p	80
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37847	1471935760609	1471935760729	p	80
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37848	1471935760795	1471935760894	r	82
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37905	1471935760915	1471935760994	o	79
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37912	1471935761349	1471935761469	e	69
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37914	1471935761624	1471935761724	d	68
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37917	1471935761844	1471935761908	BKSP	8
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37919	1471935761979	1471935762040	BKSP	8
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37921	1471935762114	1471935762198	BKSP	8
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37923	1471935762334	1471935762414	o	79
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37925	1471935762769	1471935762889	v	86
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37954	1471935762974	1471935763074	e	69
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37955	1471935763164	1471935763304	d	68
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37956	1471935763459	1471935763539	,	188
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37957	1471935763634	1471935763773	 	32
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37959	1471935764353	1471935764513	C	67
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37971	1471935764473	1471935764613	CAPS_LOCK	20
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37973	1471935764554	1471935764653	l	76
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37975	1471935764913	1471935765073	i	73
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37977	1471935765158	1471935765303	n	78
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37979	1471935765298	1471935765418	t	84
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	37981	1471935765449	1471935765548	i	73
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38011	1471935765653	1471935765753	o	79
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38013	1471935765828	1471935765988	n	78
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38016	1471935766193	1471935766233	BKSP	8
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38019	1471935766313	1471935766393	BKSP	8
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38022	1471935766463	1471935766508	BKSP	8
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38025	1471935766648	1471935766768	o	79
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38029	1471935766863	1471935767023	n	78
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38037	1471935767003	1471935767123	 	32
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38038	1471935767283	1471935767483	c	67
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38039	1471935767443	1471935767562	o	79
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38040	1471935767628	1471935767747	u	85
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38041	1471935767832	1471935767993	l	76
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38042	1471935768012	1471935768172	d	68
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38064	1471935768152	1471935768272	 	32
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38066	1471935768952	1471935769072	v	86
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38069	1471935769152	1471935769335	e	69
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38072	1471935769332	1471935769532	t	84
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38075	1471935769472	1471935769612	o	79
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38092	1471935769593	1471935769712	 	32
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38093	1471935769767	1471935769887	t	84
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38094	1471935769888	1471935770007	h	72
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38096	1471935769967	1471935770207	e	69
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38098	1471935770127	1471935770227	 	32
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38100	1471935770487	1471935770647	m	77
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38113	1471935770627	1471935770747	e	69
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38114	1471935770812	1471935770952	s	83
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38115	1471935770932	1471935771132	a	65
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38116	1471935771217	1471935771277	BKSP	8
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38117	1471935771347	1471935771447	BKSP	8
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38118	1471935771427	1471935771507	a	65
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38119	1471935771487	1471935771707	s	83
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38120	1471935771726	1471935771887	u	85
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38176	1471935771847	1471935771987	r	82
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38180	1471935771988	1471935772167	e	69
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38184	1471935772246	1471935772326	,	188
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38188	1471935772371	1471935772431	.	190
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38192	1471935772786	1471935772866	BKSP	8
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38196	1471935772916	1471935772996	BKSP	8
+88	778	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	38200	1471935773321	1471935773441	.	190
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38318	1471935776686	1471935776806	CAPS_LOCK	20
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38320	1471935776876	1471935776996	T	84
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38322	1471935776976	1471935777064	CAPS_LOCK	20
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38324	1471935777060	1471935777179	a	65
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38326	1471935777176	1471935777316	i	73
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38327	1471935777736	1471935777856	w	87
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38328	1471935778141	1471935778281	a	65
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38344	1471935778261	1471935778441	n	78
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38345	1471935778442	1471935778566	 	32
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38346	1471935778561	1471935778701	i	73
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38347	1471935778702	1471935778820	s	83
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38348	1471935778906	1471935779006	 	32
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38349	1471935779221	1471935779340	t	84
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38366	1471935779426	1471935779586	o	79
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38367	1471935779566	1471935779726	 	32
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38368	1471935779756	1471935779895	c	67
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38369	1471935779915	1471935780035	u	85
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38370	1471935780095	1471935780255	t	84
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38384	1471935780258	1471935780395	 	32
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38385	1471935780500	1471935780620	t	84
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38388	1471935780920	1471935781100	a	65
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38391	1471935781190	1471935781330	r	82
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38393	1471935781535	1471935781715	i	73
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38408	1471935781735	1471935781855	d	68
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38410	1471935781925	1471935782067	d	68
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38412	1471935782210	1471935782310	BKSP	8
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38414	1471935782375	1471935782475	BKSP	8
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38416	1471935782476	1471935782575	f	70
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38418	1471935782635	1471935782755	f	70
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38420	1471935782870	1471935783030	s	83
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38442	1471935783185	1471935783345	 	32
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38443	1471935783490	1471935783630	o	79
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38444	1471935783695	1471935783856	n	78
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38446	1471935783835	1471935783975	 	32
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38448	1471935783995	1471935784135	i	73
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38503	1471935784115	1471935784235	t	84
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38504	1471935784300	1471935784440	e	69
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38505	1471935784420	1471935784540	m	77
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38506	1471935784776	1471935784915	.	190
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38508	1471935785229	1471935785329	BKSP	8
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38510	1471935785369	1471935785489	s	83
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38512	1471935785669	1471935785789	.	190
+88	787	Taiwan is to cut tariffs on items.	Taiwan is to cut tariffs on items. 	38528	1471935786044	1471935786144	 	32
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38672	1471935789339	1471935789459	CAPS_LOCK	20
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38677	1471935789438	1471935789579	B	66
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38680	1471935789558	1471935789678	CAPS_LOCK	20
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38684	1471935789699	1471935789819	u	85
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38685	1471935789820	1471935789939	t	84
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38688	1471935789940	1471935790059	 	32
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38690	1471935790060	1471935790158	CAPS_LOCK	20
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38691	1471935790188	1471935790308	I	73
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38727	1471935790288	1471935790409	CAPS_LOCK	20
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38728	1471935790389	1471935790508	 	32
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38729	1471935790794	1471935790914	w	87
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38730	1471935790853	1471935790974	o	79
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38731	1471935791173	1471935791353	u	85
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38732	1471935791548	1471935791708	l	76
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38754	1471935791728	1471935791868	d	68
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38756	1471935791898	1471935792059	 	32
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38758	1471935792109	1471935792269	s	83
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38761	1471935792249	1471935792409	u	85
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38819	1471935792389	1471935792549	s	83
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38823	1471935792634	1471935792774	p	80
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38828	1471935792989	1471935793129	e	69
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38832	1471935793209	1471935793389	c	67
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38835	1471935793494	1471935793654	t	84
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38837	1471935793655	1471935793774	 	32
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38844	1471935793794	1471935793914	t	84
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38847	1471935793894	1471935794034	h	72
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38850	1471935794063	1471935794244	a	65
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38851	1471935794204	1471935794344	t	84
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38872	1471935794324	1471935794464	 	32
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38873	1471935794809	1471935794989	w	87
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38875	1471935794948	1471935795108	e	69
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38877	1471935795089	1471935795188	h	72
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38879	1471935795303	1471935795515	n	78
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38926	1471935795463	1471935795603	 	32
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38928	1471935795918	1471935795978	BKSP	8
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38931	1471935796063	1471935796123	BKSP	8
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38934	1471935796203	1471935796283	BKSP	8
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38937	1471935796333	1471935796413	BKSP	8
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38940	1471935796758	1471935796958	h	72
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38942	1471935796959	1471935797098	e	69
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38944	1471935797118	1471935797278	n	78
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38946	1471935797280	1471935797418	 	32
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38947	1471935797838	1471935797998	CAPS_LOCK	20
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38948	1471935798020	1471935798158	R	82
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38983	1471935798118	1471935798298	CAPS_LOCK	20
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38985	1471935798423	1471935798563	i	73
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38987	1471935798678	1471935798838	c	67
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38989	1471935798908	1471935799068	k	75
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38990	1471935799183	1471935799343	y	89
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	38991	1471935800023	1471935800162	 	32
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39022	1471935800418	1471935800598	c	67
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39024	1471935800577	1471935800721	a	65
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39026	1471935800718	1471935800897	n	78
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39028	1471935800857	1471935800977	 	32
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39029	1471935801207	1471935801347	p	80
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39054	1471935801458	1471935801618	l	76
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39057	1471935801619	1471935801697	a	65
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39058	1471935801717	1471935801897	u	85
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39060	1471935801927	1471935801987	 	32
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39062	1471935802212	1471935802292	BKSP	8
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39064	1471935802372	1471935802472	BKSP	8
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39066	1471935802642	1471935802762	u	85
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39118	1471935803002	1471935803142	BKSP	8
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39122	1471935803322	1471935803502	y	89
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39124	1471935803482	1471935803602	,	188
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39126	1471935803677	1471935803797	 	32
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39128	1471935804262	1471935804421	h	72
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39186	1471935804322	1471935804481	e	69
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39188	1471935805122	1471935805201	'	222
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39190	1471935805571	1471935805651	l	76
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39194	1471935805726	1471935805806	l	76
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39197	1471935805931	1471935806051	 	32
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39199	1471935806696	1471935806876	p	80
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39212	1471935806981	1471935807141	l	76
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39214	1471935807161	1471935807281	a	65
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39217	1471935807241	1471935807381	y	89
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39220	1471935807361	1471935807481	 	32
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39225	1471935807631	1471935807771	a	65
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39263	1471935807731	1471935807851	g	71
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39266	1471935807881	1471935808021	a	65
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39270	1471935808001	1471935808121	i	73
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39274	1471935808201	1471935808321	n	78
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39280	1471935808446	1471935808585	,	188
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39288	1471935809101	1471935809200	BKSP	8
+88	796	But I would suspect that when Ricky can play, he'll play again.	But I would suspect that when Ricky can play, he'll play again.	39297	1471935809430	1471935809511	.	190
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39416	1471935812881	1471935813142	CAPS_LOCK	20
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39418	1471935813103	1471935813280	W	87
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39420	1471935813260	1471935813460	CAPS_LOCK	20
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39422	1471935813400	1471935813541	h	72
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39424	1471935813542	1471935813704	e	69
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39427	1471935813701	1471935813840	n	78
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39451	1471935813802	1471935813900	 	32
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39453	1471935813920	1471935814060	i	73
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39455	1471935814080	1471935814221	t	84
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39456	1471935814222	1471935814340	 	32
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39457	1471935814430	1471935814611	i	73
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39458	1471935814675	1471935814835	s	83
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39507	1471935814890	1471935814970	i	73
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39512	1471935814990	1471935815110	 	32
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39517	1471935815275	1471935815395	u	85
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39519	1471935815560	1471935815640	BKSP	8
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39521	1471935815702	1471935815780	BKSP	8
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39524	1471935815840	1471935815940	BKSP	8
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39527	1471935815970	1471935815990	BKSP	8
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39530	1471935816115	1471935816255	 	32
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39533	1471935816590	1471935816730	BKSP	8
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39536	1471935816850	1471935816995	s	83
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39568	1471935816990	1471935817111	 	32
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39571	1471935817090	1471935817210	i	73
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39575	1471935817460	1471935817580	BKSP	8
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39580	1471935817715	1471935817875	u	85
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39583	1471935817855	1471935817975	d	68
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39587	1471935818055	1471935818175	e	69
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39590	1471935818530	1471935818590	BKSP	8
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39591	1471935818670	1471935818770	BKSP	8
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39592	1471935818790	1471935818950	s	83
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39601	1471935818889	1471935819010	e	69
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39603	1471935819085	1471935819225	d	68
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39607	1471935819205	1471935819364	 	32
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39611	1471935819619	1471935819788	w	87
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39614	1471935819780	1471935819943	e	69
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39642	1471935819940	1471935820059	 	32
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39644	1471935820140	1471935820300	t	84
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39645	1471935820375	1471935820518	r	82
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39648	1471935820515	1471935820674	y	89
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39649	1471935820654	1471935820774	 	32
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39651	1471935820805	1471935820944	a	65
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39667	1471935820979	1471935821120	n	78
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39670	1471935821099	1471935821219	d	68
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39674	1471935821199	1471935821360	 	32
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39679	1471935821361	1471935821539	d	68
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39709	1471935821520	1471935821659	o	79
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39712	1471935821640	1471935821780	 	32
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39715	1471935821809	1471935821973	a	65
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39718	1471935821970	1471935822189	s	83
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39722	1471935822089	1471935822209	 	32
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39727	1471935822359	1471935822560	m	77
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39751	1471935822520	1471935822660	a	65
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39754	1471935822789	1471935822909	n	78
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39758	1471935823050	1471935823249	y	89
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39760	1471935823269	1471935823409	 	32
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39762	1471935823630	1471935823829	p	80
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39791	1471935823789	1471935823990	a	65
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39792	1471935823949	1471935824069	t	84
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39794	1471935824089	1471935824209	h	72
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39795	1471935824229	1471935824329	s	83
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39797	1471935824349	1471935824469	 	32
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39798	1471935824616	1471935824754	a	65
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39831	1471935824825	1471935824969	s	83
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39832	1471935824965	1471935825125	 	32
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39833	1471935825214	1471935825334	p	80
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39834	1471935825414	1471935825534	o	79
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39835	1471935825554	1471935825734	s	83
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39848	1471935825819	1471935825983	s	83
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39850	1471935825979	1471935826079	i	73
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39852	1471935826155	1471935826294	b	66
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39854	1471935826359	1471935826499	l	76
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39902	1471935826479	1471935826599	e	69
+88	810	When it is used we try and do as many paths as possible.	When it is used we try and do as many paths as possible.	39904	1471935826779	1471935826939	.	190
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40026	1471935830725	1471935831025	CAPS_LOCK	20
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40029	1471935831055	1471935831215	T	84
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40033	1471935831216	1471935831375	CAPS_LOCK	20
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40035	1471935831355	1471935831455	h	72
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40037	1471935831496	1471935831656	i	73
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40039	1471935831635	1471935831779	s	83
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40108	1471935831775	1471935831874	 	32
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40112	1471935832085	1471935832229	t	84
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40113	1471935832225	1471935832365	o	79
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40117	1471935832829	1471935832909	BKSP	8
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40118	1471935832970	1471935833070	BKSP	8
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40121	1471935833596	1471935833754	t	84
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40123	1471935833735	1471935833835	i	73
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40124	1471935833915	1471935834055	m	77
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40137	1471935834059	1471935834195	e	69
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40140	1471935834765	1471935834864	,	188
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40142	1471935834985	1471935835127	 	32
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40145	1471935835399	1471935835503	CAPS_LOCK	20
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40149	1471935835500	1471935835639	N	78
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40153	1471935835619	1471935835743	CAPS_LOCK	20
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40170	1471935835740	1471935835919	i	73
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40172	1471935836049	1471935836209	g	71
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40174	1471935836190	1471935836349	e	69
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40176	1471935836329	1471935836470	l	76
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40178	1471935836449	1471935836609	 	32
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40179	1471935836634	1471935836730	CAPS_LOCK	20
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40180	1471935836759	1471935836900	M	77
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40208	1471935836840	1471935836963	CAPS_LOCK	20
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40211	1471935836960	1471935837059	a	65
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40214	1471935837040	1471935837160	n	78
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40217	1471935837370	1471935837510	s	83
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40219	1471935838039	1471935838160	e	69
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40223	1471935838235	1471935838355	l	76
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40242	1471935838385	1471935838565	l	76
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40245	1471935838545	1471935838685	 	32
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40247	1471935838849	1471935838990	w	87
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40249	1471935838969	1471935839090	i	73
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40250	1471935839205	1471935839305	l	76
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40281	1471935839405	1471935839505	l	76
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40282	1471935839650	1471935839791	 	32
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40283	1471935840435	1471935840574	n	78
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40284	1471935840679	1471935840819	o	79
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40285	1471935840840	1471935840979	t	84
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40336	1471935840939	1471935841080	 	32
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40337	1471935841419	1471935841559	l	76
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40338	1471935841520	1471935841683	e	69
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40339	1471935841680	1471935841819	t	84
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40340	1471935842014	1471935842074	BKSP	8
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40341	1471935842155	1471935842234	BKSP	8
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40342	1471935842283	1471935842364	BKSP	8
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40343	1471935842528	1471935842688	b	66
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40368	1471935842648	1471935842769	e	69
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40369	1471935842748	1471935842848	 	32
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40370	1471935842924	1471935843084	l	76
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40372	1471935843023	1471935843124	e	69
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40374	1471935843300	1471935843338	f	70
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40377	1471935843589	1471935843637	t	84
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40434	1471935843799	1471935843878	 	32
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40438	1471935844413	1471935844594	b	66
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40441	1471935844534	1471935844654	e	69
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40445	1471935845070	1471935845189	h	72
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40448	1471935845259	1471935845399	i	73
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40483	1471935845465	1471935845599	n	78
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40484	1471935845619	1471935845721	d	68
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40485	1471935845784	1471935845964	 	32
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40486	1471935846144	1471935846284	o	79
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40487	1471935846349	1471935846509	n	78
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40528	1471935846490	1471935846609	 	32
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40532	1471935846640	1471935846804	a	65
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40536	1471935846781	1471935846925	 	32
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40540	1471935846994	1471935847174	r	82
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40544	1471935847204	1471935847304	e	69
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40546	1471935847680	1471935847779	BKSP	8
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40548	1471935848264	1471935848384	e	69
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40572	1471935848434	1471935848644	s	83
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40576	1471935848640	1471935848794	t	84
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40581	1471935848939	1471935849143	a	65
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40589	1471935849169	1471935849409	r	82
+88	820	This time, Nigel Mansell will not be left behind on a restart.	This time, Nigel Mansell will not be left behind on a restart	40593	1471935849504	1471935849644	t	84
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40696	1471935852753	1471935852868	CAPS_LOCK	20
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40697	1471935852898	1471935853038	I	73
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40698	1471935852998	1471935853118	CAPS_LOCK	20
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40699	1471935853138	1471935853279	 	32
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40700	1471935853280	1471935853399	d	68
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40701	1471935853358	1471935853458	o	79
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40702	1471935853528	1471935853649	n	78
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40745	1471935854368	1471935854469	'	222
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40746	1471935854568	1471935854728	t	84
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40747	1471935854758	1471935854898	 	32
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40748	1471935855063	1471935855183	k	75
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40750	1471935855228	1471935855348	n	78
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40784	1471935855393	1471935855513	o	79
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40785	1471935855543	1471935855703	w	87
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40787	1471935855663	1471935855803	 	32
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40788	1471935855982	1471935856098	t	84
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40837	1471935856078	1471935856218	h	72
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40839	1471935856237	1471935856398	a	65
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40841	1471935856378	1471935856518	t	84
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40843	1471935856538	1471935856658	 	32
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40844	1471935857008	1471935857143	CAPS_LOCK	20
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40845	1471935857128	1471935857230	I	73
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40846	1471935857231	1471935857368	CAPS_LOCK	20
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40873	1471935857348	1471935857447	 	32
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40880	1471935857582	1471935857723	w	87
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40886	1471935857752	1471935857873	i	73
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40894	1471935857938	1471935858057	l	76
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40900	1471935858107	1471935858228	l	76
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40904	1471935858247	1471935858407	 	32
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40919	1471935858477	1471935858597	b	66
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40923	1471935858577	1471935858741	e	69
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40926	1471935858738	1471935858838	 	32
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40930	1471935858868	1471935859028	b	66
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40981	1471935858988	1471935859128	a	65
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40983	1471935859157	1471935859378	c	67
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40984	1471935859297	1471935859458	k	75
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40986	1471935859460	1471935859638	 	32
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40987	1471935859837	1471935859897	m	77
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40988	1471935859952	1471935860092	CAPS_LOCK	20
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40989	1471935860273	1471935860332	BKSP	8
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	40990	1471935860412	1471935860536	CAPS_LOCK	20
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	41093	1471935860533	1471935860652	m	77
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	41094	1471935860632	1471935860753	CAPS_LOCK	20
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	41095	1471935860733	1471935860852	O	79
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	41096	1471935860927	1471935861047	N	78
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	41097	1471935861237	1471935861317	BKSP	8
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	41099	1471935861387	1471935861468	BKSP	8
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	41101	1471935861818	1471935861917	BKSP	8
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	41104	1471935862243	1471935862443	M	77
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	41107	1471935862583	1471935862723	CAPS_LOCK	20
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	41111	1471935862828	1471935862948	o	79
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	41113	1471935863033	1471935863155	n	78
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	41141	1471935863199	1471935863358	d	68
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	41146	1471935863298	1471935863458	a	65
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	41149	1471935863478	1471935863578	y	89
+88	836	I don't know that I will be back Monday.	I don't know that I will be back Monday.	41152	1471935863844	1471935863983	.	190
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41267	1471935867214	1471935867413	CAPS_LOCK	20
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41270	1471935867453	1471935867613	W	87
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41273	1471935867593	1471935867793	CAPS_LOCK	20
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41276	1471935867813	1471935867975	e	69
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41280	1471935868218	1471935868318	'	222
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41285	1471935868348	1471935868508	r	82
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41331	1471935868488	1471935868588	e	69
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41333	1471935868878	1471935869038	CAPS_LOCK	20
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41335	1471935868918	1471935869063	 	32
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41336	1471935869698	1471935869838	H	72
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41337	1471935869798	1471935870018	E	69
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41338	1471935869978	1471935870118	R	82
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41339	1471935870120	1471935870278	E	69
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41387	1471935870298	1471935870338	 	32
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41390	1471935870518	1471935870578	BKSP	8
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41394	1471935870653	1471935870733	BKSP	8
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41399	1471935870799	1471935870898	BKSP	8
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41405	1471935870958	1471935871038	BKSP	8
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41410	1471935871098	1471935871166	BKSP	8
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41414	1471935871167	1471935871298	CAPS_LOCK	20
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41418	1471935871698	1471935871838	h	72
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41423	1471935871818	1471935871998	e	69
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41426	1471935871938	1471935872098	r	82
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41430	1471935872101	1471935872262	e	69
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41472	1471935872258	1471935872358	 	32
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41474	1471935872433	1471935872593	t	84
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41477	1471935872513	1471935872654	o	79
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41479	1471935872655	1471935872753	 	32
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41481	1471935873199	1471935873339	w	87
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41482	1471935873653	1471935873791	BKSP	8
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41483	1471935873792	1471935873893	q	81
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41512	1471935874000	1471935874147	u	85
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41514	1471935874176	1471935874288	a	65
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41516	1471935874498	1471935874737	l	76
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41519	1471935875238	1471935875378	i	73
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41523	1471935875433	1471935875596	f	70
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41553	1471935875593	1471935875733	y	89
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41554	1471935875753	1471935875833	 	32
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41555	1471935876128	1471935876268	i	73
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41556	1471935876310	1471935876448	n	78
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41557	1471935876467	1471935876573	 	32
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41564	1471935876568	1471935876688	t	84
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41565	1471935876674	1471935876788	h	72
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41567	1471935876808	1471935876908	e	69
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41569	1471935876888	1471935876988	 	32
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41571	1471935877093	1471935877253	s	83
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41612	1471935877213	1471935877333	e	69
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41617	1471935877624	1471935877763	c	67
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41620	1471935877783	1471935877903	o	79
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41626	1471935877968	1471935878108	n	78
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41632	1471935878148	1471935878288	d	68
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41637	1471935878898	1471935879038	 	32
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41650	1471935879198	1471935879358	o	79
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41651	1471935879359	1471935879519	r	82
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41652	1471935879459	1471935879599	 	32
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41654	1471935879694	1471935879834	t	84
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41714	1471935879814	1471935879934	h	72
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41716	1471935879989	1471935880149	i	73
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41717	1471935880459	1471935880599	r	82
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41719	1471935880719	1471935880859	d	68
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41723	1471935880879	1471935880999	 	32
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41726	1471935881229	1471935881349	n	78
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41739	1471935881449	1471935881569	o	79
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41742	1471935881724	1471935881784	BKSP	8
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41747	1471935881854	1471935881954	BKSP	8
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41754	1471935881974	1471935882114	r	82
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41758	1471935882094	1471935882234	o	79
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41762	1471935882254	1471935882398	w	87
+88	847	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	41776	1471935882394	1471935882554	.	190
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	41939	1471935885619	1471935885799	CAPS_LOCK	20
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	41942	1471935885829	1471935885989	S	83
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	41946	1471935885949	1471935886229	CAPS_LOCK	20
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	41950	1471935886369	1471935886569	e	69
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	41956	1471935886599	1471935886639	o	79
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	41961	1471935886749	1471935886889	i	73
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	41963	1471935887099	1471935887159	BKSP	8
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	41965	1471935887229	1471935887309	BKSP	8
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	41966	1471935887479	1471935887639	i	73
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42001	1471935887715	1471935887854	f	70
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42003	1471935887834	1471935887954	i	73
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42005	1471935888059	1471935888159	e	69
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42007	1471935888624	1471935888704	BKSP	8
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42009	1471935888784	1471935888904	BKSP	8
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42012	1471935888884	1471935889164	e	69
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42038	1471935889024	1471935889204	r	82
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42040	1471935889284	1471935889484	t	84
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42042	1471935889514	1471935889674	 	32
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42044	1471935890050	1471935890229	s	83
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42045	1471935890189	1471935890349	a	65
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42061	1471935890309	1471935890429	i	73
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42063	1471935890409	1471935890549	d	68
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42067	1471935890570	1471935890669	 	32
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42072	1471935891079	1471935891199	h	72
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42077	1471935891200	1471935891342	e	69
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42147	1471935891339	1471935891439	 	32
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42149	1471935891724	1471935891864	d	68
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42153	1471935891884	1471935892004	i	73
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42156	1471935892005	1471935892124	d	68
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42159	1471935893134	1471935893234	n	78
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42161	1471935893859	1471935893919	'	222
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42195	1471935894139	1471935894281	t	84
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42198	1471935894259	1471935894379	 	32
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42200	1471935894574	1471935894694	k	75
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42202	1471935894729	1471935894849	n	78
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42205	1471935894904	1471935895069	o	79
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42290	1471935895044	1471935895168	w	87
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42293	1471935895164	1471935895304	 	32
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42296	1471935895404	1471935895564	i	73
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42298	1471935895565	1471935895744	f	70
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42299	1471935895704	1471935895864	 	32
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42301	1471935896549	1471935896749	CAPS_LOCK	20
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42304	1471935896769	1471935896950	W	87
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42351	1471935896954	1471935897110	CAPS_LOCK	20
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42353	1471935897090	1471935897250	e	69
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42356	1471935897230	1471935897310	i	73
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42360	1471935897410	1471935897550	k	75
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42364	1471935898151	1471935898250	BKSP	8
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42369	1471935898581	1471935898721	n	78
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42373	1471935898740	1471935898900	k	75
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42444	1471935898920	1471935899100	 	32
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42445	1471935899670	1471935899770	BKSP	8
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42446	1471935899751	1471935899890	e	69
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42447	1471935899910	1471935900050	 	32
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42448	1471935900415	1471935900555	w	87
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42449	1471935900760	1471935900880	o	79
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42482	1471935900980	1471935901100	u	85
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42486	1471935901175	1471935901295	l	76
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42492	1471935901315	1471935901444	d	68
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42494	1471935901440	1471935901575	 	32
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42497	1471935901680	1471935901720	 	32
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42557	1471935902165	1471935902285	BKSP	8
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42560	1471935902430	1471935902570	p	80
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42563	1471935902590	1471935902730	r	82
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42568	1471935902796	1471935902955	a	65
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42571	1471935903005	1471935903145	c	67
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42573	1471935903255	1471935903435	t	84
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42604	1471935903395	1471935903495	i	73
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42605	1471935903635	1471935903755	v	86
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42606	1471935903915	1471935904016	e	69
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42607	1471935904145	1471935904226	BKSP	8
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42608	1471935904305	1471935904425	BKSP	8
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42609	1471935904352	1471935904505	c	67
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42611	1471935904445	1471935904625	e	69
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42650	1471935904585	1471935904796	 	32
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42652	1471935905190	1471935905310	CAPS_LOCK	20
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42656	1471935905366	1471935905485	T	84
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42658	1471935905446	1471935905565	CAPS_LOCK	20
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42660	1471935905626	1471935905726	h	72
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42662	1471935905901	1471935906041	u	85
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42664	1471935906021	1471935906161	r	82
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42667	1471935906290	1471935906451	s	83
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42714	1471935906390	1471935906471	a	65
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42717	1471935906761	1471935906881	BKSP	8
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42719	1471935906861	1471935906980	d	68
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42721	1471935906961	1471935907121	a	65
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42722	1471935907906	1471935908046	y	89
+88	860	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	42723	1471935908406	1471935908486	.	190
+88	876	It is not surprising.	It is not surprising. 	42855	1471935912240	1471935912381	CAPS_LOCK	20
+88	876	It is not surprising.	It is not surprising. 	42859	1471935912361	1471935912520	I	73
+88	876	It is not surprising.	It is not surprising. 	42862	1471935912481	1471935912645	CAPS_LOCK	20
+88	876	It is not surprising.	It is not surprising. 	42864	1471935912641	1471935912760	t	84
+88	876	It is not surprising.	It is not surprising. 	42866	1471935912780	1471935912920	 	32
+88	876	It is not surprising.	It is not surprising. 	42868	1471935912970	1471935913151	i	73
+88	876	It is not surprising.	It is not surprising. 	42870	1471935913152	1471935913270	s	83
+88	876	It is not surprising.	It is not surprising. 	42902	1471935913250	1471935913370	 	32
+88	876	It is not surprising.	It is not surprising. 	42905	1471935913440	1471935913560	n	78
+88	876	It is not surprising.	It is not surprising. 	42909	1471935913636	1471935913775	o	79
+88	876	It is not surprising.	It is not surprising. 	42912	1471935913736	1471935913876	t	84
+88	876	It is not surprising.	It is not surprising. 	42916	1471935913877	1471935913995	 	32
+88	876	It is not surprising.	It is not surprising. 	42919	1471935914315	1471935914457	s	83
+88	876	It is not surprising.	It is not surprising. 	42928	1471935914437	1471935914536	u	85
+88	876	It is not surprising.	It is not surprising. 	42931	1471935914636	1471935914777	p	80
+88	876	It is not surprising.	It is not surprising. 	42933	1471935914778	1471935914896	r	82
+88	876	It is not surprising.	It is not surprising. 	42934	1471935914996	1471935915136	i	73
+88	876	It is not surprising.	It is not surprising. 	42936	1471935915156	1471935915300	s	83
+88	876	It is not surprising.	It is not surprising. 	43058	1471935915297	1471935915396	i	73
+88	876	It is not surprising.	It is not surprising. 	43060	1471935915526	1471935915586	n	78
+88	876	It is not surprising.	It is not surprising. 	43063	1471935915641	1471935915801	g	71
+88	876	It is not surprising.	It is not surprising. 	43066	1471935915981	1471935916121	.	190
+88	876	It is not surprising.	It is not surprising. 	43069	1471935916287	1471935916406	 	32
+88	876	It is not surprising.	It is not surprising. 	43072	1471935917610	1471935917728	ARW_LEFT	37
+88	876	It is not surprising.	It is not surprising. 	43074	1471935917785	1471935917883	ARW_LEFT	37
+88	876	It is not surprising.	It is not surprising. 	43075	1471935917965	1471935918062	ARW_LEFT	37
+88	876	It is not surprising.	It is not surprising. 	43076	1471935918145	1471935918243	ARW_LEFT	37
+88	876	It is not surprising.	It is not surprising. 	43077	1471935918335	1471935918433	ARW_LEFT	37
+88	876	It is not surprising.	It is not surprising. 	43078	1471935918525	1471935918603	ARW_LEFT	37
+88	876	It is not surprising.	It is not surprising. 	43079	1471935918705	1471935918783	ARW_LEFT	37
+88	876	It is not surprising.	It is not surprising. 	43080	1471935918870	1471935918948	ARW_LEFT	37
+88	876	It is not surprising.	It is not surprising. 	43081	1471935919040	1471935919118	ARW_LEFT	37
+88	876	It is not surprising.	It is not surprising. 	43083	1471935919161	1471935919301	r	82
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43206	1471935922297	1471935922476	CAPS_LOCK	20
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43209	1471935922546	1471935922606	G	71
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43211	1471935922856	1471935923060	CAPS_LOCK	20
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43214	1471935923057	1471935923176	i	73
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43217	1471935923196	1471935923356	a	65
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43220	1471935923376	1471935923576	n	78
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43333	1471935923556	1471935923696	t	84
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43336	1471935923786	1471935923926	s	83
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43339	1471935924641	1471935924761	 	32
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43342	1471935924987	1471935925066	 	32
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43343	1471935925286	1471935925446	d	68
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43344	1471935926261	1471935926361	BKSP	8
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43345	1471935926437	1471935926576	BKSP	8
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43346	1471935927341	1471935927501	d	68
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43359	1471935927481	1471935927622	u	85
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43362	1471935927603	1471935927762	e	69
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43364	1471935927701	1471935927841	 	32
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43367	1471935928146	1471935928293	t	84
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43370	1471935928287	1471935928427	o	79
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43373	1471935928428	1471935928566	 	32
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43417	1471935928617	1471935928737	a	65
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43418	1471935928716	1471935928836	n	78
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43419	1471935928907	1471935929047	k	75
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43420	1471935929172	1471935929312	e	69
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43421	1471935929767	1471935929907	BKSP	8
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43422	1471935930082	1471935930302	l	76
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43562	1471935930492	1471935930652	e	69
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43565	1471935931095	1471935931213	ARW_LEFT	37
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43569	1471935931250	1471935931348	ARW_LEFT	37
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43571	1471935931395	1471935931493	ARW_LEFT	37
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43573	1471935931535	1471935931633	ARW_LEFT	37
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43574	1471935931695	1471935931793	ARW_LEFT	37
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43575	1471935932298	1471935932418	a	65
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43577	1471935932378	1471935932478	n	78
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43578	1471935932553	1471935932673	 	32
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43580	1471935933092	1471935933750	ARW_RIGHT	39
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43581	1471935934138	1471935934298	 	32
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43594	1471935934318	1471935934418	i	73
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43595	1471935934503	1471935934623	n	78
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43596	1471935934703	1471935934803	j	74
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43598	1471935934878	1471935934998	u	85
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43600	1471935935018	1471935935158	r	82
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43609	1471935935138	1471935935258	y	89
+88	882	Giants due to an ankle injury.	Giants due to an ankle injury.	43610	1471935935583	1471935935703	.	190
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43709	1471935938632	1471935938755	CAPS_LOCK	20
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43710	1471935938752	1471935938892	N	78
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43711	1471935938852	1471935938991	CAPS_LOCK	20
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43713	1471935939012	1471935939112	o	79
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43716	1471935939147	1471935939267	t	84
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43719	1471935939287	1471935939387	h	72
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43722	1471935939632	1471935939731	BKSP	8
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43725	1471935939762	1471935939902	r	82
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43749	1471935940172	1471935940272	BKSP	8
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43751	1471935940317	1471935940437	BKSP	8
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43753	1471935940467	1471935940612	r	82
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43756	1471935940607	1471935940687	h	72
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43759	1471935940727	1471935940807	t	84
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43762	1471935940922	1471935941002	BKSP	8
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43765	1471935941067	1471935941167	BKSP	8
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43767	1471935941197	1471935941337	t	84
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43814	1471935941317	1471935941458	h	72
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43815	1471935941459	1471935941630	e	69
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43816	1471935941537	1471935941677	r	82
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43818	1471935941867	1471935942027	n	78
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43822	1471935942087	1471935942227	 	32
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43827	1471935942722	1471935942846	f	70
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43880	1471935942842	1471935942962	o	79
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43882	1471935943047	1471935943248	r	82
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43887	1471935943632	1471935943812	c	67
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43891	1471935943842	1471935944002	e	69
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43893	1471935944078	1471935944238	s	83
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43934	1471935944217	1471935944357	 	32
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43936	1471935944532	1471935944732	h	72
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43938	1471935944672	1471935944836	a	65
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43939	1471935944833	1471935944972	d	68
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43940	1471935944912	1471935945072	 	32
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43941	1471935945312	1471935945492	c	67
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43982	1471935945522	1471935945642	a	65
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43984	1471935945622	1471935945702	p	80
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43987	1471935946122	1471935946251	t	84
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43991	1471935946423	1471935946502	i	73
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	43995	1471935946533	1471935946673	r	82
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44055	1471935946928	1471935947008	BKSP	8
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44056	1471935947068	1471935947168	BKSP	8
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44057	1471935947270	1471935947448	u	85
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44058	1471935947408	1471935947528	r	82
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44059	1471935947529	1471935947648	e	69
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44060	1471935948254	1471935948388	d	68
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44061	1471935948423	1471935948583	 	32
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44094	1471935948929	1471935949089	a	65
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44096	1471935949048	1471935949168	 	32
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44098	1471935949243	1471935949405	s	83
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44099	1471935949479	1471935949620	o	79
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44100	1471935949689	1471935949829	u	85
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44128	1471935949949	1471935950070	t	84
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44129	1471935950109	1471935950259	h	72
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44131	1471935950230	1471935950429	e	69
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44133	1471935950350	1471935950489	r	82
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44136	1471935950660	1471935950840	n	78
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44170	1471935950844	1471935950980	 	32
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44172	1471935951290	1471935951450	m	77
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44174	1471935951451	1471935951550	e	69
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44176	1471935951965	1471935952105	c	67
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44178	1471935952125	1471935952245	h	72
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44179	1471935952249	1471935952386	a	65
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44181	1471935952435	1471935952555	n	78
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44182	1471935952635	1471935952775	i	73
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44184	1471935952776	1471935952939	s	83
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44204	1471935952935	1471935953055	e	69
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44205	1471935953155	1471935953295	d	68
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44206	1471935953345	1471935953505	 	32
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44207	1471935953900	1471935954061	b	66
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44208	1471935954062	1471935954200	r	82
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44210	1471935954230	1471935954370	i	73
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44232	1471935954946	1471935955085	g	71
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44238	1471935955045	1471935955266	a	65
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44244	1471935955245	1471935955385	d	68
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44249	1471935955466	1471935955606	e	69
+88	896	Northern forces had captured a southern mechanised brigade.	Northern forces had captured a southern mechanised brigade.	44252	1471935955626	1471935955767	.	190

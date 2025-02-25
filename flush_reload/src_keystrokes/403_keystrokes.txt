@@ -1,0 +1,678 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+403	3724	That s all I have to say.	That s all I have to say.	179049	1471940455612	1471940455902	SHIFT	16
+403	3724	That s all I have to say.	That s all I have to say.	179051	1471940455809	1471940455959	T	84
+403	3724	That s all I have to say.	That s all I have to say.	179053	1471940456350	1471940456453	h	72
+403	3724	That s all I have to say.	That s all I have to say.	179057	1471940456554	1471940456705	a	65
+403	3724	That s all I have to say.	That s all I have to say.	179059	1471940456737	1471940456888	t	84
+403	3724	That s all I have to say.	That s all I have to say.	179062	1471940456962	1471940457073	 	32
+403	3724	That s all I have to say.	That s all I have to say.	179106	1471940457472	1471940457527	BKSP	8
+403	3724	That s all I have to say.	That s all I have to say.	179109	1471940458085	1471940458196	 	32
+403	3724	That s all I have to say.	That s all I have to say.	179111	1471940458287	1471940458365	s	83
+403	3724	That s all I have to say.	That s all I have to say.	179114	1471940458464	1471940458591	 	32
+403	3724	That s all I have to say.	That s all I have to say.	179117	1471940458698	1471940458825	a	65
+403	3724	That s all I have to say.	That s all I have to say.	179121	1471940458899	1471940458946	l	76
+403	3724	That s all I have to say.	That s all I have to say.	179174	1471940459033	1471940459104	l	76
+403	3724	That s all I have to say.	That s all I have to say.	179177	1471940459184	1471940459318	 	32
+403	3724	That s all I have to say.	That s all I have to say.	179183	1471940459480	1471940459798	SHIFT	16
+403	3724	That s all I have to say.	That s all I have to say.	179190	1471940459699	1471940459833	I	73
+403	3724	That s all I have to say.	That s all I have to say.	179194	1471940460138	1471940460256	 	32
+403	3724	That s all I have to say.	That s all I have to say.	179199	1471940460341	1471940460444	h	72
+403	3724	That s all I have to say.	That s all I have to say.	179218	1471940460488	1471940460567	a	65
+403	3724	That s all I have to say.	That s all I have to say.	179219	1471940460600	1471940460664	m	77
+403	3724	That s all I have to say.	That s all I have to say.	179220	1471940460897	1471940460944	BKSP	8
+403	3724	That s all I have to say.	That s all I have to say.	179221	1471940461003	1471940461090	v	86
+403	3724	That s all I have to say.	That s all I have to say.	179222	1471940461153	1471940461282	e	69
+403	3724	That s all I have to say.	That s all I have to say.	179251	1471940461279	1471940461377	 	32
+403	3724	That s all I have to say.	That s all I have to say.	179254	1471940461582	1471940461707	t	84
+403	3724	That s all I have to say.	That s all I have to say.	179256	1471940461670	1471940461827	o	79
+403	3724	That s all I have to say.	That s all I have to say.	179260	1471940461788	1471940461914	 	32
+403	3724	That s all I have to say.	That s all I have to say.	179265	1471940461958	1471940462060	s	83
+403	3724	That s all I have to say.	That s all I have to say.	179269	1471940462131	1471940462242	a	65
+403	3724	That s all I have to say.	That s all I have to say.	179303	1471940462292	1471940462346	y	89
+403	3724	That s all I have to say.	That s all I have to say.	179307	1471940462810	1471940462857	.	190
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179434	1471940465702	1471940466067	SHIFT	16
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179435	1471940466032	1471940466150	I	73
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179436	1471940466298	1471940466392	s	83
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179437	1471940466370	1471940466455	h	72
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179438	1471940466425	1471940466559	o	79
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179439	1471940466848	1471940466902	BKSP	8
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179440	1471940466997	1471940467044	BKSP	8
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179441	1471940467115	1471940467202	BKSP	8
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179442	1471940467344	1471940467456	 	32
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179474	1471940467810	1471940467949	s	83
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179476	1471940467946	1471940468024	h	72
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179478	1471940468040	1471940468173	o	79
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179480	1471940468142	1471940468174	u	85
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179482	1471940468708	1471940468819	l	76
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179524	1471940469175	1471940469319	d	68
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179527	1471940469361	1471940469471	 	32
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179530	1471940469628	1471940469771	h	72
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179533	1471940469936	1471940470054	a	65
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179536	1471940470199	1471940470278	v	86
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179548	1471940470357	1471940470466	e	69
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179550	1471940470446	1471940470572	 	32
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179554	1471940470714	1471940470848	m	77
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179556	1471940470889	1471940471013	o	79
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179591	1471940470989	1471940471130	r	82
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179593	1471940471131	1471940471240	e	69
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179594	1471940471307	1471940471433	 	32
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179596	1471940471519	1471940471621	i	73
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179597	1471940471684	1471940471803	n	78
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179598	1471940471945	1471940472051	f	70
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179633	1471940472049	1471940472137	o	79
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179635	1471940472271	1471940472406	 	32
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179638	1471940472515	1471940472667	b	66
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179642	1471940472665	1471940472761	y	89
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179646	1471940472849	1471940472975	 	32
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179649	1471940473046	1471940473180	o	79
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179708	1471940473124	1471940473258	u	85
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179710	1471940473344	1471940473463	r	82
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179715	1471940473824	1471940473935	 	32
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179718	1471940474243	1471940474378	m	77
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179720	1471940474440	1471940474535	e	69
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179722	1471940474662	1471940474727	e	69
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179738	1471940474909	1471940475062	t	84
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179739	1471940475060	1471940475170	i	73
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179740	1471940475217	1471940475335	n	78
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179741	1471940475271	1471940475365	g	71
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179742	1471940475430	1471940475541	 	32
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179764	1471940475721	1471940475865	t	84
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179767	1471940475863	1471940475949	h	72
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179770	1471940475927	1471940476061	i	73
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179772	1471940476250	1471940476337	s	83
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179775	1471940476435	1471940476554	 	32
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179821	1471940476829	1471940476955	a	65
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179824	1471940477124	1471940477259	f	70
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179830	1471940477458	1471940477577	t	84
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179833	1471940477695	1471940477827	e	69
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179883	1471940477789	1471940477924	r	82
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179885	1471940478244	1471940478371	m	77
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179886	1471940478571	1471940478626	BKSP	8
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179888	1471940478782	1471940478892	n	78
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179889	1471940479004	1471940479067	o	79
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179891	1471940479321	1471940479407	n	78
+403	3730	I should have more info by our meeting this afternoon.	I should have more info by our meeting this afternon.	179893	1471940479871	1471940479933	.	190
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180028	1471940483005	1471940483378	SHIFT	16
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180030	1471940483302	1471940483420	I	73
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180034	1471940483578	1471940483729	n	78
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180037	1471940483986	1471940484097	 	32
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180041	1471940484212	1471940484346	a	65
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180044	1471940484373	1471940484518	 	32
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180070	1471940484658	1471940484776	m	77
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180073	1471940484870	1471940484933	e	69
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180076	1471940485036	1471940485132	e	69
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180079	1471940485211	1471940485313	t	84
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180082	1471940485369	1471940485480	i	73
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180100	1471940485527	1471940485652	n	78
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180105	1471940485597	1471940485731	g	71
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180111	1471940485852	1471940485971	 	32
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180116	1471940486198	1471940486365	w	87
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180119	1471940486390	1471940486517	i	73
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180165	1471940486538	1471940486657	e	69
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180169	1471940487060	1471940487106	BKSP	8
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180172	1471940487215	1471940487343	t	84
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180176	1471940487341	1471940487444	h	72
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180180	1471940487541	1471940487707	 	32
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180183	1471940487929	1471940488071	o	79
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180225	1471940487991	1471940488125	u	85
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180226	1471940488391	1471940488453	BKSP	8
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180227	1471940488556	1471940488626	BKSP	8
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180229	1471940488775	1471940488917	y	89
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180231	1471940488887	1471940489069	o	79
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180233	1471940489099	1471940489226	u	85
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180237	1471940489512	1471940489607	r	82
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180241	1471940489863	1471940489983	 	32
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180280	1471940490171	1471940490316	g	71
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180283	1471940490314	1471940490424	u	85
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180287	1471940490599	1471940490686	y	89
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180290	1471940490884	1471940490995	s	83
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180293	1471940491045	1471940491195	 	32
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180319	1471940491448	1471940491582	n	78
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180325	1471940491545	1471940491686	o	79
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180330	1471940491770	1471940491858	w	87
+403	3742	In a meeting with your guys now.	In a meeting with your guys now.	180332	1471940492251	1471940492290	.	190
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180432	1471940494792	1471940495086	SHIFT	16
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180435	1471940495041	1471940495190	T	84
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180439	1471940495214	1471940495372	h	72
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180442	1471940495350	1471940495491	i	73
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180443	1471940495610	1471940495649	n	78
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180444	1471940495978	1471940496016	BKSP	8
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180446	1471940496116	1471940496195	s	83
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180479	1471940496237	1471940496364	 	32
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180484	1471940496497	1471940496624	h	72
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180493	1471940496693	1471940496804	a	65
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180499	1471940497220	1471940497275	v	86
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180503	1471940497540	1471940497579	BKSP	8
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180507	1471940497662	1471940497765	s	83
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180528	1471940497831	1471940497966	 	32
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180531	1471940498067	1471940498209	n	78
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180534	1471940498187	1471940498337	o	79
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180536	1471940498337	1471940498420	w	87
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180539	1471940498503	1471940498613	 	32
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180563	1471940498890	1471940499008	b	66
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180567	1471940499111	1471940499205	e	69
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180571	1471940499397	1471940499490	c	67
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180575	1471940499461	1471940499642	o	79
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180579	1471940499642	1471940499807	m	77
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180607	1471940500005	1471940500125	e	69
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180610	1471940500285	1471940500395	 	32
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180611	1471940500552	1471940500686	t	84
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180612	1471940500648	1471940500756	h	72
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180614	1471940500757	1471940500867	e	69
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180643	1471940500934	1471940501044	 	32
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180645	1471940501168	1471940501332	m	77
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180648	1471940501329	1471940501491	o	79
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180652	1471940501492	1471940501594	s	83
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180658	1471940501690	1471940501816	t	84
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180692	1471940501834	1471940501961	 	32
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180696	1471940502256	1471940502391	p	80
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180701	1471940502563	1471940502682	r	82
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180704	1471940502784	1471940502878	e	69
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180708	1471940503069	1471940503132	s	83
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180726	1471940503227	1471940503314	s	83
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180727	1471940503339	1471940503450	i	73
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180728	1471940503496	1471940503606	n	78
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180729	1471940503535	1471940503660	g	71
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180730	1471940503870	1471940503989	 	32
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180742	1471940504191	1471940504311	s	83
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180743	1471940504407	1471940504494	t	84
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180744	1471940504559	1471940504678	o	79
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180745	1471940504728	1471940504801	r	82
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180748	1471940504889	1471940505000	y	89
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180802	1471940505137	1471940505255	 	32
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180804	1471940505309	1471940505444	i	73
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180809	1471940505481	1471940505646	n	78
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180812	1471940505643	1471940505705	 	32
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180822	1471940506204	1471940506357	t	84
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180861	1471940506355	1471940506466	h	72
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180864	1471940506520	1471940506646	e	69
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180868	1471940506728	1471940506855	 	32
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180871	1471940507091	1471940507210	c	67
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180874	1471940507288	1471940507407	a	65
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180875	1471940507465	1471940507568	p	80
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180919	1471940507614	1471940507782	i	73
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180922	1471940507835	1471940507946	t	84
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180925	1471940508143	1471940508220	a	65
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180927	1471940508201	1471940508303	l	76
+403	3753	This has now become the most pressing story in the capital.	This has now become the most pressing story in the capital.	180929	1471940509116	1471940509180	.	190
+403	3766	Following are my comments.	Following are my comments.	181034	1471940511562	1471940511792	SHIFT	16
+403	3766	Following are my comments.	Following are my comments.	181036	1471940511731	1471940511883	F	70
+403	3766	Following are my comments.	Following are my comments.	181038	1471940512266	1471940512360	o	79
+403	3766	Following are my comments.	Following are my comments.	181039	1471940512519	1471940512566	l	76
+403	3766	Following are my comments.	Following are my comments.	181040	1471940512645	1471940512724	l	76
+403	3766	Following are my comments.	Following are my comments.	181042	1471940512882	1471940512994	o	79
+403	3766	Following are my comments.	Following are my comments.	181065	1471940513277	1471940513400	w	87
+403	3766	Following are my comments.	Following are my comments.	181068	1471940513398	1471940513516	i	73
+403	3766	Following are my comments.	Following are my comments.	181072	1471940513586	1471940513695	g	78
+403	3766	Following are my comments.	Following are my comments.	181075	1471940513768	1471940513887	 	32
+403	3766	Following are my comments.	Following are my comments.	181114	1471940514289	1471940514425	a	65
+403	3766	Following are my comments.	Following are my comments.	181116	1471940514665	1471940514783	r	82
+403	3766	Following are my comments.	Following are my comments.	181118	1471940514830	1471940514957	e	69
+403	3766	Following are my comments.	Following are my comments.	181120	1471940514992	1471940515110	 	32
+403	3766	Following are my comments.	Following are my comments.	181122	1471940515283	1471940515386	m	77
+403	3766	Following are my comments.	Following are my comments.	181133	1471940515504	1471940515607	y	89
+403	3766	Following are my comments.	Following are my comments.	181135	1471940515680	1471940515824	 	32
+403	3766	Following are my comments.	Following are my comments.	181137	1471940515956	1471940516092	c	67
+403	3766	Following are my comments.	Following are my comments.	181139	1471940516090	1471940516179	o	79
+403	3766	Following are my comments.	Following are my comments.	181141	1471940516344	1471940516407	m	77
+403	3766	Following are my comments.	Following are my comments.	181157	1471940516486	1471940516580	m	77
+403	3766	Following are my comments.	Following are my comments.	181158	1471940516850	1471940516978	e	69
+403	3766	Following are my comments.	Following are my comments.	181159	1471940517033	1471940517167	n	78
+403	3766	Following are my comments.	Following are my comments.	181160	1471940517152	1471940517293	t	84
+403	3766	Following are my comments.	Following are my comments.	181161	1471940517475	1471940517634	s	83
+403	3766	Following are my comments.	Following are my comments.	181174	1471940517947	1471940518010	.	190
+403	3772	I was planning to attend.	I was planning to attend.	181302	1471940520353	1471940520726	SHIFT	16
+403	3772	I was planning to attend.	I was planning to attend.	181307	1471940520619	1471940520752	I	73
+403	3772	I was planning to attend.	I was planning to attend.	181311	1471940520918	1471940520996	w	87
+403	3772	I was planning to attend.	I was planning to attend.	181314	1471940521271	1471940521325	BKSP	8
+403	3772	I was planning to attend.	I was planning to attend.	181318	1471940521492	1471940521589	 	32
+403	3772	I was planning to attend.	I was planning to attend.	181322	1471940521663	1471940521758	w	87
+403	3772	I was planning to attend.	I was planning to attend.	181326	1471940521876	1471940521971	a	65
+403	3772	I was planning to attend.	I was planning to attend.	181381	1471940522138	1471940522233	s	83
+403	3772	I was planning to attend.	I was planning to attend.	181383	1471940522259	1471940522387	 	32
+403	3772	I was planning to attend.	I was planning to attend.	181385	1471940522896	1471940523031	p	80
+403	3772	I was planning to attend.	I was planning to attend.	181388	1471940523214	1471940523308	l	76
+403	3772	I was planning to attend.	I was planning to attend.	181390	1471940523512	1471940523631	a	65
+403	3772	I was planning to attend.	I was planning to attend.	181399	1471940523752	1471940523815	n	78
+403	3772	I was planning to attend.	I was planning to attend.	181401	1471940523894	1471940523947	n	78
+403	3772	I was planning to attend.	I was planning to attend.	181404	1471940523925	1471940524051	i	73
+403	3772	I was planning to attend.	I was planning to attend.	181407	1471940524098	1471940524198	n	78
+403	3772	I was planning to attend.	I was planning to attend.	181433	1471940524175	1471940524301	g	71
+403	3772	I was planning to attend.	I was planning to attend.	181435	1471940524455	1471940524574	 	32
+403	3772	I was planning to attend.	I was planning to attend.	181436	1471940524739	1471940524873	t	84
+403	3772	I was planning to attend.	I was planning to attend.	181437	1471940524826	1471940524929	o	79
+403	3772	I was planning to attend.	I was planning to attend.	181439	1471940525017	1471940525136	 	32
+403	3772	I was planning to attend.	I was planning to attend.	181441	1471940525282	1471940525401	a	65
+403	3772	I was planning to attend.	I was planning to attend.	181463	1471940525578	1471940525688	t	84
+403	3772	I was planning to attend.	I was planning to attend.	181464	1471940525760	1471940525862	t	84
+403	3772	I was planning to attend.	I was planning to attend.	181465	1471940525933	1471940526035	e	69
+403	3772	I was planning to attend.	I was planning to attend.	181466	1471940526203	1471940526314	n	78
+403	3772	I was planning to attend.	I was planning to attend.	181467	1471940526355	1471940526440	d	68
+403	3772	I was planning to attend.	I was planning to attend.	181481	1471940527008	1471940527063	.	190
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181596	1471940529504	1471940529803	SHIFT	16
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181598	1471940529718	1471940529844	D	68
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181600	1471940529908	1471940529995	i	73
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181604	1471940530208	1471940530263	d	68
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181608	1471940530497	1471940530624	 	32
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181611	1471940530772	1471940530842	y	89
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181641	1471940530811	1471940530961	o	79
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181642	1471940530913	1471940530998	u	85
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181643	1471940531199	1471940531342	 	32
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181645	1471940531553	1471940531650	s	83
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181647	1471940531753	1471940531825	e	69
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181650	1471940531911	1471940531982	e	69
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181712	1471940532016	1471940532158	 	32
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181713	1471940532305	1471940532726	SHIFT	16
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181714	1471940532659	1471940532777	L	76
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181715	1471940532893	1471940533020	a	65
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181716	1471940533117	1471940533227	u	85
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181717	1471940533482	1471940533577	r	82
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181757	1471940533678	1471940533773	a	65
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181759	1471940534335	1471940534406	'	222
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181761	1471940534682	1471940534776	s	83
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181765	1471940534923	1471940535026	 	32
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181768	1471940535430	1471940535533	m	77
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181831	1471940535922	1471940536024	a	65
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181833	1471940536260	1471940536330	BKSP	8
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181836	1471940536431	1471940536533	e	69
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181839	1471940536763	1471940536802	a	65
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181841	1471940536937	1471940536984	s	83
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181848	1471940537212	1471940537265	BKSP	8
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181853	1471940537352	1471940537423	BKSP	8
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181858	1471940537443	1471940537554	s	83
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181886	1471940537784	1471940537855	a	65
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181891	1471940537958	1471940538061	a	65
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181895	1471940538229	1471940538347	g	71
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181899	1471940538403	1471940538513	e	69
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181901	1471940539030	1471940539268	SHIFT	16
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181956	1471940539169	1471940539303	?	191
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181960	1471940539918	1471940539988	BKSP	8
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181965	1471940540483	1471940540562	.	190
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181969	1471940540731	1471940540906	SHIFT	16
+403	3780	Did you see Laura's message.?	Did you see Laura's mesaage.?	181972	1471940540816	1471940540949	?	191
+403	3791	Good to know it exists.	Good to know it exists.	182079	1471940543971	1471940544273	SHIFT	16
+403	3791	Good to know it exists.	Good to know it exists.	182081	1471940544195	1471940544330	G	71
+403	3791	Good to know it exists.	Good to know it exists.	182083	1471940544658	1471940544729	o	79
+403	3791	Good to know it exists.	Good to know it exists.	182085	1471940544800	1471940544887	o	79
+403	3791	Good to know it exists.	Good to know it exists.	182087	1471940544964	1471940545083	d	68
+403	3791	Good to know it exists.	Good to know it exists.	182089	1471940545158	1471940545284	 	32
+403	3791	Good to know it exists.	Good to know it exists.	182120	1471940545480	1471940545582	t	84
+403	3791	Good to know it exists.	Good to know it exists.	182122	1471940545537	1471940545638	o	79
+403	3791	Good to know it exists.	Good to know it exists.	182123	1471940545703	1471940545813	 	32
+403	3791	Good to know it exists.	Good to know it exists.	182124	1471940546226	1471940546330	k	75
+403	3791	Good to know it exists.	Good to know it exists.	182127	1471940546440	1471940546535	n	78
+403	3791	Good to know it exists.	Good to know it exists.	182155	1471940546654	1471940546725	o	79
+403	3791	Good to know it exists.	Good to know it exists.	182157	1471940546937	1471940547041	w	87
+403	3791	Good to know it exists.	Good to know it exists.	182160	1471940547067	1471940547169	 	32
+403	3791	Good to know it exists.	Good to know it exists.	182161	1471940547311	1471940547422	i	73
+403	3791	Good to know it exists.	Good to know it exists.	182162	1471940547492	1471940547630	t	84
+403	3791	Good to know it exists.	Good to know it exists.	182208	1471940547628	1471940547739	 	32
+403	3791	Good to know it exists.	Good to know it exists.	182210	1471940547943	1471940548061	e	69
+403	3791	Good to know it exists.	Good to know it exists.	182212	1471940548292	1471940548411	x	88
+403	3791	Good to know it exists.	Good to know it exists.	182213	1471940548475	1471940548602	i	73
+403	3791	Good to know it exists.	Good to know it exists.	182214	1471940548832	1471940548950	s	83
+403	3791	Good to know it exists.	Good to know it exists.	182215	1471940549022	1471940549117	t	84
+403	3791	Good to know it exists.	Good to know it exists.	182250	1471940549371	1471940549474	s	83
+403	3791	Good to know it exists.	Good to know it exists.	182252	1471940549771	1471940549810	.	190
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182341	1471940552097	1471940552278	SHIFT	16
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182342	1471940552242	1471940552362	T	84
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182343	1471940552360	1471940552500	h	72
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182344	1471940552501	1471940552603	e	69
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182345	1471940552685	1471940552836	 	32
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182347	1471940553087	1471940553190	s	83
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182380	1471940553311	1471940553422	t	84
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182382	1471940553524	1471940553643	r	82
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182384	1471940553753	1471940553863	a	65
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182387	1471940554040	1471940554135	t	84
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182391	1471940554252	1471940554371	e	69
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182434	1471940554563	1471940554650	g	71
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182436	1471940554794	1471940554865	y	89
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182439	1471940554961	1471940555104	 	32
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182442	1471940555227	1471940555370	w	87
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182445	1471940555563	1471940555634	i	73
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182491	1471940555817	1471940555858	l	76
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182493	1471940555928	1471940556006	l	76
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182495	1471940556070	1471940556197	 	32
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182497	1471940556481	1471940556536	e	69
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182502	1471940556898	1471940556944	BKSP	8
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182506	1471940557061	1471940557164	b	66
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182542	1471940557226	1471940557361	e	69
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182544	1471940557387	1471940557538	 	32
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182548	1471940557806	1471940557917	v	86
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182552	1471940558044	1471940558187	e	69
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182556	1471940558250	1471940558330	r	82
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182611	1471940558400	1471940558495	y	89
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182613	1471940559002	1471940559143	 	32
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182615	1471940559404	1471940559491	m	77
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182617	1471940559585	1471940559672	u	85
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182619	1471940559734	1471940559855	c	67
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182644	1471940559853	1471940559924	h	72
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182646	1471940560069	1471940560195	 	32
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182647	1471940560352	1471940560486	t	84
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182651	1471940560455	1471940560509	h	72
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182653	1471940560531	1471940560666	e	69
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182655	1471940560684	1471940560803	 	32
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182680	1471940560911	1471940561014	s	83
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182681	1471940561124	1471940561231	a	65
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182682	1471940561229	1471940561324	m	77
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182683	1471940561376	1471940561495	e	69
+403	3797	The strategy will be very much the same.	The strategy will be very much the same.	182684	1471940561840	1471940561895	.	190
+403	3807	Can we have them until we move?	Can we have them until we move?	182786	1471940564230	1471940564444	SHIFT	16
+403	3807	Can we have them until we move?	Can we have them until we move?	182788	1471940564367	1471940564516	C	67
+403	3807	Can we have them until we move?	Can we have them until we move?	182790	1471940564682	1471940564813	a	65
+403	3807	Can we have them until we move?	Can we have them until we move?	182792	1471940564811	1471940564937	n	78
+403	3807	Can we have them until we move?	Can we have them until we move?	182794	1471940564994	1471940565144	 	32
+403	3807	Can we have them until we move?	Can we have them until we move?	182795	1471940565429	1471940565634	w	87
+403	3807	Can we have them until we move?	Can we have them until we move?	182811	1471940565588	1471940565750	e	69
+403	3807	Can we have them until we move?	Can we have them until we move?	182812	1471940565747	1471940565882	 	32
+403	3807	Can we have them until we move?	Can we have them until we move?	182813	1471940565967	1471940566070	h	72
+403	3807	Can we have them until we move?	Can we have them until we move?	182814	1471940566099	1471940566178	a	65
+403	3807	Can we have them until we move?	Can we have them until we move?	182815	1471940566282	1471940566393	v	86
+403	3807	Can we have them until we move?	Can we have them until we move?	182816	1471940566456	1471940566598	e	69
+403	3807	Can we have them until we move?	Can we have them until we move?	182852	1471940566625	1471940566800	 	32
+403	3807	Can we have them until we move?	Can we have them until we move?	182855	1471940567004	1471940567125	t	84
+403	3807	Can we have them until we move?	Can we have them until we move?	182858	1471940567123	1471940567209	h	72
+403	3807	Can we have them until we move?	Can we have them until we move?	182861	1471940567209	1471940567309	e	69
+403	3807	Can we have them until we move?	Can we have them until we move?	182863	1471940567398	1471940567501	m	77
+403	3807	Can we have them until we move?	Can we have them until we move?	182879	1471940567558	1471940567676	 	32
+403	3807	Can we have them until we move?	Can we have them until we move?	182882	1471940567953	1471940568024	u	85
+403	3807	Can we have them until we move?	Can we have them until we move?	182886	1471940568143	1471940568286	n	78
+403	3807	Can we have them until we move?	Can we have them until we move?	182890	1471940568373	1471940568491	t	84
+403	3807	Can we have them until we move?	Can we have them until we move?	182930	1471940568460	1471940568546	i	73
+403	3807	Can we have them until we move?	Can we have them until we move?	182932	1471940568690	1471940568824	l	76
+403	3807	Can we have them until we move?	Can we have them until we move?	182935	1471940568848	1471940568975	 	32
+403	3807	Can we have them until we move?	Can we have them until we move?	182937	1471940569234	1471940569425	w	87
+403	3807	Can we have them until we move?	Can we have them until we move?	182939	1471940569362	1471940569496	e	69
+403	3807	Can we have them until we move?	Can we have them until we move?	182941	1471940569521	1471940569633	 	32
+403	3807	Can we have them until we move?	Can we have them until we move?	182977	1471940569797	1471940569924	m	77
+403	3807	Can we have them until we move?	Can we have them until we move?	182980	1471940569940	1471940570051	o	79
+403	3807	Can we have them until we move?	Can we have them until we move?	182987	1471940570113	1471940570184	v	86
+403	3807	Can we have them until we move?	Can we have them until we move?	182993	1471940570262	1471940570397	e	69
+403	3807	Can we have them until we move?	Can we have them until we move?	182997	1471940570761	1471940570979	SHIFT	16
+403	3807	Can we have them until we move?	Can we have them until we move?	183003	1471940570885	1471940570981	?	191
+403	3811	You have 15 active players.	You have 15 active players.	183131	1471940573648	1471940573942	SHIFT	16
+403	3811	You have 15 active players.	You have 15 active players.	183134	1471940573915	1471940574016	Y	89
+403	3811	You have 15 active players.	You have 15 active players.	183136	1471940574113	1471940574254	o	79
+403	3811	You have 15 active players.	You have 15 active players.	183138	1471940574190	1471940574300	u	85
+403	3811	You have 15 active players.	You have 15 active players.	183140	1471940574453	1471940574564	 	32
+403	3811	You have 15 active players.	You have 15 active players.	183141	1471940574697	1471940574783	h	72
+403	3811	You have 15 active players.	You have 15 active players.	183193	1471940574829	1471940574956	a	65
+403	3811	You have 15 active players.	You have 15 active players.	183196	1471940575244	1471940575347	v	86
+403	3811	You have 15 active players.	You have 15 active players.	183199	1471940575410	1471940575544	e	69
+403	3811	You have 15 active players.	You have 15 active players.	183205	1471940575586	1471940575721	 	32
+403	3811	You have 15 active players.	You have 15 active players.	183207	1471940576220	1471940576338	1	49
+403	3811	You have 15 active players.	You have 15 active players.	183234	1471940576587	1471940576689	5	53
+403	3811	You have 15 active players.	You have 15 active players.	183237	1471940576907	1471940577033	 	32
+403	3811	You have 15 active players.	You have 15 active players.	183238	1471940577188	1471940577315	a	65
+403	3811	You have 15 active players.	You have 15 active players.	183239	1471940577451	1471940577562	c	67
+403	3811	You have 15 active players.	You have 15 active players.	183240	1471940577706	1471940577823	t	84
+403	3811	You have 15 active players.	You have 15 active players.	183256	1471940577802	1471940577927	i	73
+403	3811	You have 15 active players.	You have 15 active players.	183259	1471940577999	1471940578102	v	86
+403	3811	You have 15 active players.	You have 15 active players.	183261	1471940578154	1471940578288	e	69
+403	3811	You have 15 active players.	You have 15 active players.	183262	1471940578237	1471940578378	 	32
+403	3811	You have 15 active players.	You have 15 active players.	183263	1471940578601	1471940578687	p	80
+403	3811	You have 15 active players.	You have 15 active players.	183264	1471940578813	1471940578933	l	76
+403	3811	You have 15 active players.	You have 15 active players.	183279	1471940579040	1471940579193	a	65
+403	3811	You have 15 active players.	You have 15 active players.	183280	1471940579191	1471940579271	y	89
+403	3811	You have 15 active players.	You have 15 active players.	183281	1471940579727	1471940579874	e	69
+403	3811	You have 15 active players.	You have 15 active players.	183282	1471940579836	1471940579994	r	82
+403	3811	You have 15 active players.	You have 15 active players.	183284	1471940580160	1471940580246	s	83
+403	3811	You have 15 active players.	You have 15 active players.	183291	1471940580512	1471940580615	.	190
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183365	1471940582806	1471940583004	SHIFT	16
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183366	1471940582960	1471940583111	T	84
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183368	1471940583109	1471940583266	h	72
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183370	1471940583267	1471940583377	e	69
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183372	1471940583410	1471940583554	 	32
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183374	1471940583980	1471940584122	a	65
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183390	1471940584196	1471940584331	m	77
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183392	1471940584369	1471940584471	e	69
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183394	1471940584592	1471940584724	n	78
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183396	1471940584860	1471940584939	d	68
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183398	1471940585066	1471940585121	d	68
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183440	1471940585484	1471940585530	BKSP	8
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183442	1471940585687	1471940585820	m	77
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183447	1471940585821	1471940585953	e	69
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183449	1471940585932	1471940586056	n	78
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183450	1471940586017	1471940586127	t	84
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183451	1471940586272	1471940586398	 	32
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183500	1471940586483	1471940586594	h	72
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183504	1471940586903	1471940587061	a	65
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183507	1471940587229	1471940587355	s	83
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183511	1471940587374	1471940587477	 	32
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183514	1471940587635	1471940587777	l	76
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183528	1471940587779	1471940587871	i	73
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183529	1471940588053	1471940588100	t	84
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183530	1471940588235	1471940588273	t	84
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183531	1471940588338	1471940588439	l	76
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183534	1471940588440	1471940588570	e	69
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183588	1471940588567	1471940588678	 	32
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183590	1471940588929	1471940589056	c	67
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183594	1471940589033	1471940589111	h	72
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183597	1471940589172	1471940589306	a	65
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183600	1471940589270	1471940589379	n	78
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183604	1471940589601	1471940589680	c	67
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183620	1471940589783	1471940589900	e	69
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183622	1471940589864	1471940589982	 	32
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183624	1471940590108	1471940590218	o	79
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183626	1471940590202	1471940590319	f	70
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183628	1471940590337	1471940590440	 	32
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183699	1471940591012	1471940591162	b	66
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183704	1471940591273	1471940591392	e	69
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183708	1471940591766	1471940591933	c	67
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183713	1471940591879	1471940592005	o	79
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183717	1471940592027	1471940592194	m	77
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183757	1471940592313	1471940592408	i	73
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183761	1471940592463	1471940592581	n	78
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183765	1471940592525	1471940592619	g	71
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183770	1471940592717	1471940592819	 	32
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183774	1471940592937	1471940593032	l	76
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183800	1471940593068	1471940593179	a	65
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183802	1471940593290	1471940593425	w	87
+403	3820	The amendment has little chance of becoming law.	The amendment has little chance of becoming law.	183804	1471940593731	1471940593817	.	190
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	183906	1471940596216	1471940596438	SHIFT	16
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	183907	1471940596368	1471940596502	W	87
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	183908	1471940596519	1471940596622	h	72
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	183909	1471940596748	1471940596850	e	69
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	183910	1471940596914	1471940597057	n	78
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	183911	1471940597114	1471940597249	 	32
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	183928	1471940597502	1471940597628	t	84
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	183930	1471940597715	1471940597836	h	72
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	183932	1471940597834	1471940597969	i	73
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	183933	1471940598039	1471940598141	n	78
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	183975	1471940598069	1471940598203	g	71
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	183978	1471940598569	1471940598680	s	83
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	183984	1471940598898	1471940599041	 	32
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	183990	1471940599182	1471940599323	g	71
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	183994	1471940599324	1471940599465	e	69
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	183997	1471940599513	1471940599640	r	82
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184030	1471940600138	1471940600240	BKSP	8
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184034	1471940600326	1471940600419	t	84
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184036	1471940600445	1471940600595	 	32
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184038	1471940600687	1471940600854	s	83
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184040	1471940600959	1471940601095	p	80
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184042	1471940601211	1471940601306	e	69
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184073	1471940601465	1471940601577	c	67
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184077	1471940601575	1471940601646	u	85
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184080	1471940601774	1471940601886	l	76
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184083	1471940601922	1471940602058	a	65
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184088	1471940602152	1471940602270	t	84
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184123	1471940602240	1471940602334	i	73
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184127	1471940602428	1471940602531	v	86
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184129	1471940602593	1471940602728	e	69
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184132	1471940602770	1471940602874	 	32
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184135	1471940603109	1471940603244	t	84
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184174	1471940603197	1471940603291	h	72
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184176	1471940603313	1471940603431	e	69
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184182	1471940603498	1471940603608	 	32
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184188	1471940603694	1471940603813	l	76
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184192	1471940603842	1471940603945	a	65
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184195	1471940604311	1471940604447	n	78
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184220	1471940604542	1471940604661	g	71
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184221	1471940604724	1471940604811	u	85
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184224	1471940604945	1471940605089	a	65
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184227	1471940605263	1471940605405	g	71
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184231	1471940605406	1471940605523	e	69
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184273	1471940605542	1471940605683	 	32
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184277	1471940605832	1471940605950	s	83
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184281	1471940605991	1471940606087	l	76
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184283	1471940606299	1471940606402	w	87
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184284	1471940606544	1471940606647	a	65
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184321	1471940606672	1471940606774	y	89
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184322	1471940606997	1471940607107	s	83
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184323	1471940607149	1471940607284	 	32
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184324	1471940607433	1471940607568	g	71
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184325	1471940608093	1471940608252	e	69
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184396	1471940608428	1471940608586	t	84
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184397	1471940608848	1471940608959	s	83
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184398	1471940609034	1471940609160	 	32
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184399	1471940609516	1471940609619	s	83
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184400	1471940609817	1471940609920	c	67
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184500	1471940610014	1471940610133	a	65
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184502	1471940610245	1471940610348	r	82
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184503	1471940610380	1471940610459	y	89
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184504	1471940611010	1471940611097	.	190
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184505	1471940611387	1471940612089	ARW_LEFT	37
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184506	1471940612304	1471940612367	ARW_LEFT	37
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184508	1471940612454	1471940613109	ARW_LEFT	37
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184510	1471940613283	1471940613347	ARW_LEFT	37
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184513	1471940613449	1471940613528	ARW_LEFT	37
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184516	1471940613877	1471940613915	BKSP	8
+403	3825	When things get speculative the language always gets scary.	When things get speculative the language always gets scary.	184520	1471940614022	1471940614101	a	65
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184673	1471940616654	1471940617124	SHIFT	16
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184674	1471940617057	1471940617151	O	79
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184675	1471940617317	1471940617419	u	85
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184676	1471940617489	1471940617616	w	87
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184677	1471940617924	1471940617969	BKSP	8
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184678	1471940618037	1471940618148	r	82
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184680	1471940618166	1471940618284	 	32
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184728	1471940618642	1471940618791	r	82
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184730	1471940618775	1471940618901	e	69
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184732	1471940619324	1471940619443	f	70
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184736	1471940619580	1471940619690	o	79
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184740	1471940619816	1471940619942	r	82
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184773	1471940619991	1471940620117	m	77
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184774	1471940620174	1471940620309	 	32
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184775	1471940620528	1471940620647	a	65
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184776	1471940620720	1471940620861	n	78
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184838	1471940620838	1471940620931	d	68
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184840	1471940620997	1471940621124	 	32
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184841	1471940621569	1471940621673	o	79
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184843	1471940621792	1471940621903	p	80
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184845	1471940622059	1471940622185	e	69
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184897	1471940622140	1471940622273	n	78
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184901	1471940622455	1471940622526	d	68
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184899	1471940622487	1471940622525	i	73
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184903	1471940622958	1471940623004	BKSP	8
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184905	1471940623083	1471940623122	BKSP	8
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184906	1471940623575	1471940623654	i	73
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184908	1471940623756	1471940623842	g	78
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184934	1471940624098	1471940624225	 	32
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184935	1471940624512	1471940624630	p	80
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184936	1471940624730	1471940624843	r	82
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184937	1471940624841	1471940624905	o	79
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184938	1471940625334	1471940625477	g	71
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184963	1471940625604	1471940625731	r	82
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184964	1471940625872	1471940625983	a	65
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184965	1471940626113	1471940626151	m	77
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184966	1471940626238	1471940626333	m	77
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	184967	1471940626362	1471940626474	e	69
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185029	1471940626572	1471940626658	 	32
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185031	1471940626792	1471940626878	h	72
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185034	1471940627523	1471940627642	s	83
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185036	1471940628253	1471940628307	BKSP	8
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185038	1471940628430	1471940628599	a	65
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185076	1471940628597	1471940628826	s	83
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185078	1471940629101	1471940629227	 	32
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185080	1471940629641	1471940629774	f	70
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185082	1471940629815	1471940629949	o	79
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185084	1471940629950	1471940630066	r	82
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185085	1471940630361	1471940630488	g	71
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185126	1471940630534	1471940630669	e	69
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185128	1471940630820	1471940630922	d	68
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185131	1471940631069	1471940631187	 	32
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185134	1471940631487	1471940631605	a	65
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185137	1471940631782	1471940631884	h	72
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185188	1471940631955	1471940632049	e	69
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185194	1471940632200	1471940632247	d	68
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185201	1471940632594	1471940632640	BKSP	8
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185206	1471940632732	1471940632876	a	65
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185212	1471940632874	1471940632979	s	83
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185405	1471940632976	1471940633167	d	68
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185406	1471940633345	1471940633375	BKSP	8
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185407	1471940633454	1471940633530	BKSP	8
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185408	1471940633530	1471940633656	d	68
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185409	1471940633985	1471940634080	.	190
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185410	1471940634457	1471940635271	ARW_LEFT	37
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185411	1471940635462	1471940635533	ARW_LEFT	37
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185413	1471940635620	1471940635707	ARW_LEFT	37
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185415	1471940635762	1471940635881	ARW_LEFT	37
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185418	1471940635991	1471940636071	ARW_LEFT	37
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185422	1471940636165	1471940636276	ARW_LEFT	37
+403	3843	Our reform and opening programme has forged ahead.	Our reform and opening programme has forged ahead.	185426	1471940636299	1471940636962	ARW_LEFT	37
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185597	1471940640787	1471940641009	SHIFT	16
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185599	1471940642185	1471940642270	SHIFT	16
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185602	1471940642525	1471940643026	SHIFT	16
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185605	1471940642966	1471940643060	H	72
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185608	1471940643442	1471940643553	e	69
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185613	1471940643674	1471940643793	 	32
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185619	1471940644077	1471940644205	s	83
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185640	1471940644204	1471940644318	h	72
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185641	1471940644316	1471940644457	o	79
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185642	1471940644417	1471940644495	u	85
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185643	1471940644631	1471940644709	l	76
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185644	1471940644802	1471940644913	d	68
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185645	1471940644955	1471940645082	 	32
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185679	1471940645245	1471940645388	s	83
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185681	1471940645484	1471940645602	t	84
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185683	1471940645564	1471940645673	i	73
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185685	1471940645801	1471940645856	l	76
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185687	1471940645927	1471940646049	l	76
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185724	1471940646047	1471940646180	 	32
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185728	1471940646233	1471940646336	b	66
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185730	1471940646415	1471940646543	e	69
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185732	1471940646584	1471940646703	 	32
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185734	1471940646794	1471940646905	a	65
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185735	1471940647017	1471940647129	b	66
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185767	1471940647144	1471940647295	l	76
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185768	1471940647340	1471940647451	e	69
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185769	1471940647494	1471940647620	 	32
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185770	1471940647721	1471940647862	t	84
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185819	1471940647777	1471940647898	o	79
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185823	1471940647943	1471940648046	 	32
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185826	1471940648125	1471940648220	p	80
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185828	1471940648354	1471940648473	l	76
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185831	1471940648844	1471940648979	a	65
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185834	1471940649252	1471940649347	y	89
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185865	1471940649428	1471940649563	 	32
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185866	1471940649600	1471940649703	i	73
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185870	1471940649750	1471940649900	n	78
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185874	1471940650011	1471940650140	t	84
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185926	1471940650138	1471940650208	h	72
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185928	1471940650262	1471940650364	e	69
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185932	1471940650552	1471940650591	BKSP	8
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185937	1471940650685	1471940650723	BKSP	8
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185943	1471940650795	1471940650850	BKSP	8
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185948	1471940651008	1471940651119	 	32
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185950	1471940651315	1471940651427	t	84
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185954	1471940651442	1471940651521	h	72
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185957	1471940651543	1471940651661	e	69
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185968	1471940651735	1471940651862	 	32
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185973	1471940652147	1471940652265	t	84
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185978	1471940652352	1471940652471	e	69
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185982	1471940652693	1471940652795	a	65
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	185986	1471940652852	1471940652995	m	77
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	186031	1471940653484	1471940653546	'	222
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	186033	1471940653829	1471940653916	s	83
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	186034	1471940653991	1471940654110	 	32
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	186035	1471940654394	1471940654537	n	78
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	186036	1471940654538	1471940654622	e	69
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	186064	1471940654805	1471940654899	x	88
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	186066	1471940654987	1471940655126	t	84
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	186068	1471940655124	1471940655242	 	32
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	186070	1471940655422	1471940655557	g	71
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	186072	1471940655579	1471940655698	a	65
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	186105	1471940655731	1471940655833	m	77
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	186107	1471940655880	1471940656001	e	69
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	186109	1471940656025	1471940656079	 	32
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	186112	1471940656478	1471940656541	BKSP	8
+403	3861	He should still be able to play in the team's next game.	He should still be able to play in the team's next game.	186117	1471940656728	1471940656785	.	190

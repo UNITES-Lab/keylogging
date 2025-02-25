@@ -1,0 +1,734 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+907	9196	Joel will handle this.	Joel will handle this.	440935	1471947191744	1471947192203	SHIFT	16
+907	9196	Joel will handle this.	Joel will handle this.	440934	1471947192091	1471947192179		74
+907	9196	Joel will handle this.	Joel will handle this.	440936	1471947192203	1471947192314		79
+907	9196	Joel will handle this.	Joel will handle this.	440937	1471947192451	1471947192539		69
+907	9196	Joel will handle this.	Joel will handle this.	440938	1471947192635	1471947192690		76
+907	9196	Joel will handle this.	Joel will handle this.	440939	1471947192835	1471947192922		32
+907	9196	Joel will handle this.	Joel will handle this.	440955	1471947193019	1471947193114		87
+907	9196	Joel will handle this.	Joel will handle this.	440956	1471947193187	1471947193250		73
+907	9196	Joel will handle this.	Joel will handle this.	440957	1471947193410	1471947193474		76
+907	9196	Joel will handle this.	Joel will handle this.	440958	1471947193563	1471947193626		76
+907	9196	Joel will handle this.	Joel will handle this.	440959	1471947193771	1471947193842		32
+907	9196	Joel will handle this.	Joel will handle this.	441011	1471947193970	1471947194034		72
+907	9196	Joel will handle this.	Joel will handle this.	441013	1471947194197	1471947194314		65
+907	9196	Joel will handle this.	Joel will handle this.	441015	1471947194426	1471947194514		78
+907	9196	Joel will handle this.	Joel will handle this.	441017	1471947194770	1471947194842		68
+907	9196	Joel will handle this.	Joel will handle this.	441019	1471947194955	1471947195042		76
+907	9196	Joel will handle this.	Joel will handle this.	441053	1471947195091	1471947195194		69
+907	9196	Joel will handle this.	Joel will handle this.	441056	1471947195243	1471947195331		32
+907	9196	Joel will handle this.	Joel will handle this.	441059	1471947195498	1471947195562		84
+907	9196	Joel will handle this.	Joel will handle this.	441060	1471947195732	1471947195806		72
+907	9196	Joel will handle this.	Joel will handle this.	441061	1471947195891	1471947195970		73
+907	9196	Joel will handle this.	Joel will handle this.	441129	1471947196164	1471947196283		83
+907	9196	Joel will handle this.	Joel will handle this.	441134	1471947196644	1471947196690		190
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441407	1471947202563	1471947203410	SHIFT	16
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441410	1471947203315	1471947203434		67
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441412	1471947203547	1471947203626		76
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441414	1471947203731	1471947203778		73
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441416	1471947203978	1471947204050		78
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441418	1471947204242	1471947204314		84
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441437	1471947204386	1471947204458		79
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441440	1471947204794	1471947204834		78
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441443	1471947204962	1471947205042		32
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441446	1471947205146	1471947205186		83
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441449	1471947205330	1471947205410		65
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441574	1471947205416	1471947205505		73
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441576	1471947205642	1471947205739		68
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441580	1471947205882	1471947205931		32
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441584	1471947207218	1471947207754	SHIFT	16
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441582	1471947207570	1471947207722		84
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441586	1471947208602	1471947208682		85
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441602	1471947208754	1471947208818		69
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441603	1471947208978	1471947209051		83
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441604	1471947209242	1471947209298		68
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441605	1471947209426	1471947209634		65
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441606	1471947209634	1471947209698		89
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441783	1471947210362	1471947210466		32
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441785	1471947211138	1471947211194		72
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441787	1471947211314	1471947211402		69
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441788	1471947211554	1471947211628		32
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441789	1471947214130	1471947214211		87
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441810	1471947214394	1471947214451		79
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441813	1471947214547	1471947214619		85
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441816	1471947214778	1471947214850		76
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441818	1471947214955	1471947215042		68
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441819	1471947215043	1471947215122		32
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441825	1471947215211	1471947215282		77
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441826	1471947215322	1471947215426		65
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441827	1471947215450	1471947215531		75
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441829	1471947215630	1471947215706		69
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441832	1471947215772	1471947215810		32
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441903	1471947215979	1471947216082		65
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441907	1471947216194	1471947216242		32
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441911	1471947216362	1471947216491		65
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441915	1471947217506	1471947217562		78
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441919	1471947217667	1471947217731		78
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441967	1471947217834	1471947217962		79
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441971	1471947217995	1471947218058		85
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441976	1471947218522	1471947218608		78
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441978	1471947218826	1471947218914		67
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	441980	1471947219003	1471947219090		69
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	442012	1471947219154	1471947219234		77
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	442014	1471947219274	1471947219387		69
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	442016	1471947219362	1471947219434		78
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	442017	1471947219706	1471947219778		84
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	442019	1471947220123	1471947220186		32
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	442067	1471947220707	1471947220770		66
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	442070	1471947220836	1471947220922		89
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	442073	1471947221090	1471947221178		32
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	442079	1471947221210	1471947221474	SHIFT	16
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	442076	1471947221354	1471947221418		84
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	442081	1471947221563	1471947221642		72
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	442129	1471947221706	1471947221826		85
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	442132	1471947222298	1471947222362		82
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	442134	1471947222818	1471947222938		83
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	442137	1471947223202	1471947223258		68
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	442140	1471947223330	1471947223466		65
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	442170	1471947223570	1471947223643		89
+907	9207	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make a announcement by Thursday.	442173	1471947224090	1471947224162		190
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442360	1471947228658	1471947228882	SHIFT	16
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442362	1471947228810	1471947228883		84
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442364	1471947229010	1471947229130		72
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442366	1471947229226	1471947229322		69
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442368	1471947229378	1471947229458		32
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442371	1471947230122	1471947230418	SHIFT	16
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442453	1471947230330	1471947230482		65
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442458	1471947231179	1471947231242		90
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442462	1471947231394	1471947231466		69
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442468	1471947231586	1471947231666		82
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442473	1471947232338	1471947232417		66
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442478	1471947232498	1471947232610		65
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442521	1471947232667	1471947232746		73
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442523	1471947232922	1471947232978		72
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442524	1471947233402	1471947233482		8
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442526	1471947233674	1471947233730		74
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442529	1471947233810	1471947233938		65
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442567	1471947233954	1471947234042		78
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442569	1471947234106	1471947234203		73
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442571	1471947234450	1471947234514		32
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442574	1471947234996	1471947235106		69
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442578	1471947235227	1471947235290		78
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442607	1471947235882	1471947235986		67
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442610	1471947236003	1471947236106		76
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442616	1471947236258	1471947236386		65
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442620	1471947236426	1471947236498		86
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442626	1471947236594	1471947236730		69
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442721	1471947236858	1471947236914		32
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442725	1471947237262	1471947238018	SHIFT	16
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442723	1471947237874	1471947237987		78
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442727	1471947238906	1471947238978		65
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442729	1471947239626	1471947239746		71
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442730	1471947240042	1471947240138		79
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442816	1471947240674	1471947240786		82
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442818	1471947241402	1471947241482		78
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442820	1471947241603	1471947241682		79
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442822	1471947242178	1471947242250		32
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442824	1471947242651	1471947242722		87
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442861	1471947242818	1471947242914		65
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442862	1471947243042	1471947243162		83
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442864	1471947243314	1471947243389		32
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442866	1471947243675	1471947243755		84
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442867	1471947243818	1471947243930		79
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442926	1471947244130	1471947244210		82
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442927	1471947244450	1471947244522		78
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442931	1471947244762	1471947244802		32
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442935	1471947245162	1471947245227		66
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	442937	1471947245362	1471947245450		89
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	443010	1471947245859	1471947245930		32
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	443011	1471947246978	1471947247114		70
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	443012	1471947247186	1471947247258		85
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	443013	1471947247730	1471947247834		82
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	443109	1471947247954	1471947248058		84
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	443111	1471947249362	1471947249466		69
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	443112	1471947249506	1471947249578		82
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	443114	1471947249898	1471947249962		32
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	443116	1471947250306	1471947250362		70
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	443118	1471947250546	1471947250626		73
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	443158	1471947250882	1471947250938		71
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	443161	1471947251026	1471947251123		72
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	443163	1471947251235	1471947251331		84
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	443164	1471947251466	1471947251530		73
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	443165	1471947251714	1471947251778		78
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	443208	1471947252170	1471947252234		71
+907	9229	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorno was torn by further fighting.	443210	1471947253244	1471947253314		190
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443483	1471947258186	1471947258586	SHIFT	16
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443485	1471947258523	1471947258634		67
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443488	1471947258747	1471947258818		72
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443491	1471947258940	1471947259018		73
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443495	1471947259314	1471947259402		78
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443499	1471947260426	1471947260498		69
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443601	1471947260610	1471947260722		83
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443604	1471947260754	1471947260826		69
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443610	1471947261587	1471947262138	SHIFT	16
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443607	1471947261674	1471947261794		80
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443613	1471947262522	1471947262543		82
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443616	1471947263123	1471947263202	$	36
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443758	1471947263306	1471947263370	$	36
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443759	1471947265347	1471947265410		8
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443760	1471947265531	1471947265594		8
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443761	1471947265946	1471947266010		32
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443809	1471947266242	1471947266586	SHIFT	16
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443763	1471947266379	1471947266482		80
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443814	1471947266738	1471947266810		82
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443818	1471947266890	1471947266970		69
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443822	1471947267122	1471947267242		83
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443826	1471947267266	1471947267346		73
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443830	1471947267666	1471947267728		68
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443896	1471947267834	1471947267954		69
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443899	1471947268123	1471947268171		78
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443901	1471947269330	1471947269402		84
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443904	1471947269548	1471947269603		32
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443908	1471947269963	1471947270218	SHIFT	16
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443913	1471947270498	1471947270594		68
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443934	1471947270706	1471947270770		69
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443935	1471947270938	1471947271018		70
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443936	1471947271122	1471947271227		69
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443937	1471947271371	1471947271435		78
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443938	1471947271650	1471947271714		68
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443988	1471947271818	1471947271954		69
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443990	1471947272490	1471947272546		68
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443992	1471947273170	1471947273242		32
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443995	1471947273434	1471947273490		84
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	443999	1471947273626	1471947273690		72
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444027	1471947273738	1471947273834		69
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444029	1471947273858	1471947273922		32
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444031	1471947274066	1471947274130		77
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444035	1471947274250	1471947274298		73
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444039	1471947274434	1471947274498		76
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444073	1471947274595	1471947274658		73
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444074	1471947274842	1471947274906		84
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444075	1471947274978	1471947275075		65
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444076	1471947275242	1471947275322		82
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444077	1471947275362	1471947275434		89
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444165	1471947275690	1471947275738		32
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444168	1471947276306	1471947276371		67
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444172	1471947276562	1471947276634		69
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444178	1471947277290	1471947277362		8
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444181	1471947277614	1471947277675		82
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444264	1471947277770	1471947277912		65
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444265	1471947279115	1471947279203		67
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444266	1471947279514	1471947279578		75
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444268	1471947279995	1471947280114		68
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444271	1471947280490	1471947280562		79
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444344	1471947280650	1471947280770		87
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444346	1471947280858	1471947280922		78
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444348	1471947281215	1471947281258		32
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444349	1471947281746	1471947281818		79
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444350	1471947282594	1471947282658		78
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444419	1471947282931	1471947282994		32
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444423	1471947283434	1471947283506		80
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444426	1471947283762	1471947283842		82
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444429	1471947283995	1471947284066		79
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444431	1471947284347	1471947284411		84
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444447	1471947284458	1471947284554		69
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444449	1471947284714	1471947284835		83
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444451	1471947284898	1471947284994		84
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444456	1471947285058	1471947285162		69
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444460	1471947285211	1471947285274		82
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444466	1471947285394	1471947285514		83
+907	9250	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	444467	1471947285714	1471947285778		190
+907	9270	I won't be home until 6.	I won't be home until 6.	444721	1471947290739	1471947291037	SHIFT	16
+907	9270	I won't be home until 6.	I won't be home until 6.	444723	1471947290970	1471947291038		73
+907	9270	I won't be home until 6.	I won't be home until 6.	444725	1471947291266	1471947291346		32
+907	9270	I won't be home until 6.	I won't be home until 6.	444727	1471947291442	1471947291586		87
+907	9270	I won't be home until 6.	I won't be home until 6.	444729	1471947291683	1471947291778		73
+907	9270	I won't be home until 6.	I won't be home until 6.	444733	1471947292307	1471947292394		8
+907	9270	I won't be home until 6.	I won't be home until 6.	444850	1471947293316	1471947293394		79
+907	9270	I won't be home until 6.	I won't be home until 6.	444852	1471947293851	1471947293914		78
+907	9270	I won't be home until 6.	I won't be home until 6.	444856	1471947295306	1471947295410		222
+907	9270	I won't be home until 6.	I won't be home until 6.	444858	1471947295474	1471947295562		84
+907	9270	I won't be home until 6.	I won't be home until 6.	444861	1471947295851	1471947295946		32
+907	9270	I won't be home until 6.	I won't be home until 6.	444920	1471947296427	1471947296490		66
+907	9270	I won't be home until 6.	I won't be home until 6.	444923	1471947296651	1471947296746		69
+907	9270	I won't be home until 6.	I won't be home until 6.	444926	1471947297539	1471947297603		32
+907	9270	I won't be home until 6.	I won't be home until 6.	444931	1471947297811	1471947297874		72
+907	9270	I won't be home until 6.	I won't be home until 6.	444933	1471947298019	1471947298090		73
+907	9270	I won't be home until 6.	I won't be home until 6.	444973	1471947298594	1471947298682		8
+907	9270	I won't be home until 6.	I won't be home until 6.	444978	1471947299227	1471947299290		79
+907	9270	I won't be home until 6.	I won't be home until 6.	444983	1471947299474	1471947299538		77
+907	9270	I won't be home until 6.	I won't be home until 6.	444988	1471947299666	1471947299778		69
+907	9270	I won't be home until 6.	I won't be home until 6.	445027	1471947299746	1471947299810		32
+907	9270	I won't be home until 6.	I won't be home until 6.	445030	1471947299978	1471947300051		85
+907	9270	I won't be home until 6.	I won't be home until 6.	445034	1471947300194	1471947300314		78
+907	9270	I won't be home until 6.	I won't be home until 6.	445040	1471947300570	1471947300682		84
+907	9270	I won't be home until 6.	I won't be home until 6.	445046	1471947301218	1471947301274		73
+907	9270	I won't be home until 6.	I won't be home until 6.	445049	1471947301434	1471947301498		76
+907	9270	I won't be home until 6.	I won't be home until 6.	445085	1471947301650	1471947301738		32
+907	9270	I won't be home until 6.	I won't be home until 6.	445088	1471947302218	1471947302306		54
+907	9270	I won't be home until 6.	I won't be home until 6.	445092	1471947302546	1471947302618		190
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445366	1471947307490	1471947307794	SHIFT	16
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445367	1471947307690	1471947307794		87
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445370	1471947307810	1471947307922		69
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445373	1471947308130	1471947308202		32
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445376	1471947308330	1471947308426		71
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445379	1471947308858	1471947308930		8
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445397	1471947309186	1471947309258		72
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445399	1471947309339	1471947309482		65
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445402	1471947309498	1471947309562		86
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445405	1471947309690	1471947309778		69
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445407	1471947309779	1471947309842		32
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445438	1471947310011	1471947310106		76
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445441	1471947310154	1471947310242		79
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445446	1471947310482	1471947310571		83
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445448	1471947310674	1471947310746		84
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445451	1471947311059	1471947311138		32
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445513	1471947311634	1471947311698		78
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445516	1471947311810	1471947311906		79
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445519	1471947312018	1471947312130		84
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445522	1471947312242	1471947312314		32
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445524	1471947312754	1471947312810		74
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445553	1471947312922	1471947312994		85
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445556	1471947313178	1471947313266		83
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445558	1471947313426	1471947313490		84
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445561	1471947313802	1471947313867		32
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445564	1471947314042	1471947314194		65
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445599	1471947314198	1471947314258		32
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445601	1471947314434	1471947314506		71
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445605	1471947314642	1471947314698		82
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445609	1471947314931	1471947314986		69
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445616	1471947315194	1471947315322		65
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445678	1471947315778	1471947315834		89
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445679	1471947316530	1471947316602		8
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445681	1471947316690	1471947316802		84
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445686	1471947316986	1471947317066		32
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445694	1471947317502	1471947317602		70
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445730	1471947317746	1471947317826		82
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445732	1471947317906	1471947317994		73
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445735	1471947318090	1471947318170		69
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445736	1471947318306	1471947318370		78
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445738	1471947318715	1471947318802		68
+907	9286	We have lost not just a great friend.	We have lost not just a great friend.	445801	1471947319690	1471947319754		190
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446201	1471947326274	1471947328346	SHIFT	16
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446197	1471947326874	1471947326995		70
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446198	1471947327386	1471947327458		89
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446199	1471947328210	1471947328333		73
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446203	1471947328826	1471947328898		188
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446206	1471947329050	1471947329122		32
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446261	1471947329266	1471947329394		87
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446264	1471947329474	1471947329554		79
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446267	1471947329675	1471947329739		85
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446272	1471947330178	1471947330306		76
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446275	1471947330426	1471947330554		68
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446326	1471947330998	1471947331000		32
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446330	1471947331282	1471947331370		83
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446333	1471947331418	1471947331482		72
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446337	1471947331570	1471947331666		69
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446340	1471947331706	1471947331778		32
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446390	1471947331883	1471947331962		77
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446391	1471947332042	1471947332114		69
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446394	1471947332234	1471947332338		69
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446397	1471947332418	1471947332490		84
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446400	1471947332738	1471947332818		32
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446452	1471947333210	1471947333298		77
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446454	1471947333442	1471947333506		89
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446456	1471947333666	1471947333746		32
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446459	1471947333890	1471947333962		82
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446462	1471947334058	1471947334186		69
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446500	1471947334695	1471947334715		81
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446501	1471947334866	1471947334939		85
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446502	1471947335026	1471947335123		73
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446503	1471947335274	1471947335338		82
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446504	1471947335434	1471947335563		69
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446536	1471947335675	1471947335754		77
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446540	1471947335826	1471947335946		69
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446545	1471947335947	1471947336183		78
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446547	1471947336204	1471947336258		84
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446550	1471947336466	1471947336578		83
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446626	1471947337149	1471947337218		190
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446630	1471947337906	1471947337970		8
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446633	1471947338186	1471947338426	SHIFT	16
+907	9304	FYI, would she meet my requirements?	FYI, would she meet my requirements?	446636	1471947338362	1471947338490		191
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	446938	1471947345122	1471947345426	SHIFT	16
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	446936	1471947345322	1471947345394		73
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	446940	1471947345570	1471947345658		32
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	446943	1471947345722	1471947345852		65
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	446948	1471947345979	1471947346050		77
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	446952	1471947346178	1471947346258		32
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447006	1471947346394	1471947346498		87
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447008	1471947346642	1471947346738		79
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447011	1471947347202	1471947347290		82
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447013	1471947347875	1471947347939		75
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447016	1471947348080	1471947348097		73
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447060	1471947348250	1471947348314		78
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447062	1471947348444	1471947348546		71
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447065	1471947348674	1471947348746		32
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447069	1471947349139	1471947349295		69
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447074	1471947349295	1471947349370		73
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447099	1471947349490	1471947349634		84
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447101	1471947349666	1471947349722		72
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447103	1471947349898	1471947349986		32
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447106	1471947350042	1471947350274	SHIFT	16
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447109	1471947350522	1471947350581		8
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447114	1471947350690	1471947350747		8
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447166	1471947350853	1471947350898		8
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447171	1471947350988	1471947351050		8
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447174	1471947351155	1471947351223		8
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447176	1471947351666	1471947351788		87
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447179	1471947351914	1471947352010		73
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447210	1471947352082	1471947352202		84
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447211	1471947352234	1471947352297		72
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447213	1471947352419	1471947352498		32
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447219	1471947352555	1471947353380	SHIFT	16
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447215	1471947353123	1471947353204		77
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447316	1471947353298	1471947353442		65
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447318	1471947354186	1471947354258		8
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447323	1471947354354	1471947354458		65
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447325	1471947354610	1471947354722		82
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447331	1471947354794	1471947354882		89
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447335	1471947355050	1471947355154		32
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447407	1471947355158	1471947355435	SHIFT	16
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447412	1471947355346	1471947355436		74
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447417	1471947355498	1471947355593		79
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447421	1471947356269	1471947356270		89
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447428	1471947356538	1471947356626		67
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447432	1471947356770	1471947356906		69
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447473	1471947357090	1471947357162		32
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447475	1471947357682	1471947357730		79
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447477	1471947357906	1471947357938		78
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447479	1471947358058	1471947358130		32
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447481	1471947358282	1471947358331		84
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447523	1471947358458	1471947358530		72
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447526	1471947358627	1471947358770		65
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447529	1471947358771	1471947358834		84
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447533	1471947359140	1471947359210		32
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447535	1471947359450	1471947359539		82
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447555	1471947359650	1471947359722		73
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447558	1471947359859	1471947359922		71
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447562	1471947359995	1471947360082		72
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447566	1471947360186	1471947360306		84
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447568	1471947360308	1471947360378		32
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447666	1471947360498	1471947360570		78
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447669	1471947360667	1471947360754		79
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447674	1471947361370	1471947361474		87
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447678	1471947361658	1471947361730		188
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447682	1471947362482	1471947362554		8
+907	9316	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	447695	1471947363386	1471947363450		190
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448040	1471947368931	1471947369578	SHIFT	16
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448039	1471947369450	1471947369522		70
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448042	1471947369842	1471947369938		79
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448044	1471947370266	1471947370410		82
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448046	1471947371114	1471947371234		69
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448048	1471947371362	1471947371434		73
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448118	1471947371738	1471947371794		71
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448121	1471947372170	1471947372250		78
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448124	1471947372514	1471947372618		69
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448127	1471947372674	1471947372762		82
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448129	1471947372922	1471947373050		83
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448213	1471947373642	1471947373730		32
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448214	1471947374122	1471947374234		72
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448215	1471947374290	1471947374427		65
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448216	1471947374450	1471947374530		86
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448217	1471947374658	1471947374762		69
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448246	1471947374842	1471947374914		32
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448250	1471947375058	1471947375138		78
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448254	1471947375266	1471947375378		79
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448258	1471947375530	1471947375618		69
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448264	1471947375738	1471947375834		32
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448343	1471947376082	1471947376210		70
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448344	1471947376252	1471947376362		76
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448345	1471947376788	1471947376890		69
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448346	1471947376946	1471947377042		68
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448347	1471947379050	1471947379107	%	37
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448383	1471947379214	1471947379266	%	37
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448385	1471947379354	1471947379402	%	37
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448388	1471947379498	1471947379546	%	37
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448390	1471947379642	1471947379674	%	37
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448395	1471947379778	1471947379865	%	37
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448456	1471947380538	1471947380618	'	39
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448459	1471947380818	1471947380874		8
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448462	1471947381122	1471947381218		87
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448464	1471947381371	1471947381410	(	40
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448466	1471947381546	1471947381626	'	39
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448489	1471947381730	1471947381786	'	39
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448493	1471947381874	1471947381922	'	39
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448501	1471947382018	1471947382082	'	39
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448507	1471947382202	1471947382282	'	39
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448513	1471947382762	1471947382818		32
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448581	1471947382994	1471947383050		84
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448587	1471947383218	1471947383322		72
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448591	1471947383594	1471947383698		69
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448593	1471947383978	1471947384058		32
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448596	1471947384314	1471947384410		67
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448640	1471947384522	1471947384618		79
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448642	1471947384658	1471947384738		85
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448646	1471947384922	1471947384994		78
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448654	1471947385506	1471947385594		84
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448660	1471947385683	1471947385794		82
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448739	1471947385851	1471947385962		89
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448740	1471947386203	1471947386274		32
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448741	1471947386523	1471947386618		83
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448742	1471947387282	1471947387402		8
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448743	1471947388074	1471947388194		83
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448777	1471947388226	1471947388298		73
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448780	1471947388482	1471947388546		78
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448784	1471947388722	1471947388802		67
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448788	1471947388930	1471947389058		69
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448792	1471947389298	1471947389362		32
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448886	1471947389794	1471947389874		70
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448892	1471947389994	1471947390058		73
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448899	1471947390227	1471947390290		71
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448904	1471947390619	1471947390682		72
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448908	1471947391378	1471947391474		84
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448997	1471947391546	1471947391594		73
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448998	1471947391826	1471947391874		78
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	448999	1471947392178	1471947392258		71
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	449000	1471947392970	1471947393026		32
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	449001	1471947393849	1471947393955		69
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	449054	1471947394114	1471947394202		82
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	449057	1471947394322	1471947394386		85
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	449059	1471947394722	1471947394786		80
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	449062	1471947395002	1471947395058		84
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	449065	1471947395451	1471947395522		82
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	449176	1471947396626	1471947396698		8
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	449179	1471947396842	1471947396931		69
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	449182	1471947397122	1471947397194		68
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	449183	1471947397818	1471947397915		68
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	449184	1471947397970	1471947398050		190
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	449273	1471947398627	1471947398682		8
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	449275	1471947398786	1471947398858		8
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	449277	1471947398954	1471947398994		8
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	449279	1471947399970	1471947400098		68
+907	9341	Foreigners have now fled the country since fighting erupted.	Foreigners have now fled the country since fighting erupted.	449281	1471947400282	1471947400354		190
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449570	1471947405866	1471947406434	SHIFT	16
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449572	1471947406306	1471947406435		89
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449573	1471947406523	1471947406711		79
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449574	1471947406690	1471947406770		85
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449575	1471947407034	1471947407106		32
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449576	1471947407402	1471947407466		72
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449734	1471947407546	1471947407674		65
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449737	1471947407914	1471947407978		86
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449739	1471947408139	1471947408243		69
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449741	1471947408403	1471947408474		78
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449743	1471947410378	1471947410450		222
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449793	1471947410619	1471947410699		84
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449795	1471947410818	1471947410882		32
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449800	1471947411050	1471947411157		83
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449804	1471947411282	1471947411314		69
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449808	1471947411410	1471947411498		69
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449842	1471947411602	1471947411682		78
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449847	1471947411882	1471947411955		32
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449852	1471947412430	1471947412506		49
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449856	1471947412658	1471947412738		50
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449859	1471947412874	1471947412954		48
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449900	1471947413250	1471947413314		32
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449904	1471947413770	1471947413842		73
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449908	1471947414010	1471947414042		78
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449910	1471947414162	1471947414250		32
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449913	1471947414338	1471947414459		83
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449995	1471947414442	1471947414529		79
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	449997	1471947414658	1471947414730		77
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	450000	1471947414794	1471947414906		69
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	450002	1471947414946	1471947415042		32
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	450004	1471947415322	1471947415435		84
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	450006	1471947416761	1471947416802		73
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	450036	1471947416938	1471947417002		77
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	450037	1471947417205	1471947417274		69
+907	9374	You haven't seen 120 in some time.	You haven't seen 120 in some time.	450039	1471947417619	1471947417682		190
+907	9391	Probably will be working.	Probably will be working.	450222	1471947421907	1471947422178	SHIFT	16
+907	9391	Probably will be working.	Probably will be working.	450224	1471947422106	1471947422181		80
+907	9391	Probably will be working.	Probably will be working.	450228	1471947422427	1471947422538		82
+907	9391	Probably will be working.	Probably will be working.	450232	1471947422674	1471947422762		79
+907	9391	Probably will be working.	Probably will be working.	450236	1471947423050	1471947423119		66
+907	9391	Probably will be working.	Probably will be working.	450240	1471947423696	1471947423794		65
+907	9391	Probably will be working.	Probably will be working.	450329	1471947423851	1471947423914		66
+907	9391	Probably will be working.	Probably will be working.	450331	1471947424684	1471947424763		76
+907	9391	Probably will be working.	Probably will be working.	450332	1471947425371	1471947425451		89
+907	9391	Probably will be working.	Probably will be working.	450334	1471947426282	1471947426331		32
+907	9391	Probably will be working.	Probably will be working.	450335	1471947426579	1471947426666		87
+907	9391	Probably will be working.	Probably will be working.	450404	1471947426778	1471947426810		85
+907	9391	Probably will be working.	Probably will be working.	450405	1471947427611	1471947427682		8
+907	9391	Probably will be working.	Probably will be working.	450407	1471947427874	1471947427930		73
+907	9391	Probably will be working.	Probably will be working.	450409	1471947428082	1471947428147		76
+907	9391	Probably will be working.	Probably will be working.	450411	1471947428250	1471947428322		76
+907	9391	Probably will be working.	Probably will be working.	450450	1471947428538	1471947428610		32
+907	9391	Probably will be working.	Probably will be working.	450453	1471947429083	1471947429154		66
+907	9391	Probably will be working.	Probably will be working.	450456	1471947429290	1471947429354		69
+907	9391	Probably will be working.	Probably will be working.	450459	1471947429426	1471947429498		32
+907	9391	Probably will be working.	Probably will be working.	450461	1471947429594	1471947429714		87
+907	9391	Probably will be working.	Probably will be working.	450472	1471947429746	1471947429858		79
+907	9391	Probably will be working.	Probably will be working.	450476	1471947430146	1471947430258		82
+907	9391	Probably will be working.	Probably will be working.	450479	1471947430274	1471947430330		75
+907	9391	Probably will be working.	Probably will be working.	450481	1471947430442	1471947430506		73
+907	9391	Probably will be working.	Probably will be working.	450483	1471947430666	1471947430722		78
+907	9391	Probably will be working.	Probably will be working.	450501	1471947430937	1471947431065		71
+907	9391	Probably will be working.	Probably will be working.	450503	1471947431138	1471947431217		190
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450733	1471947437482	1471947437898	SHIFT	16
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450735	1471947437834	1471947437986		82
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450738	1471947438178	1471947438258		85
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450741	1471947438346	1471947438491		84
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450745	1471947438578	1471947438626		72
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450748	1471947439650	1471947439706		188
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450813	1471947439874	1471947439946		32
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450818	1471947440034	1471947440745	SHIFT	16
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450816	1471947440266	1471947440410		73
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450820	1471947441033	1471947441089		32
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450823	1471947441953	1471947442026		222
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450826	1471947442874	1471947442954		8
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450864	1471947443058	1471947443146		8
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450865	1471947443962	1471947444026		222
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450866	1471947444458	1471947444514		76
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450868	1471947444618	1471947444678		76
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450870	1471947444973	1471947445018		32
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450918	1471947445212	1471947445346	SHIFT	16
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450922	1471947445578	1471947445706		83
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450926	1471947445826	1471947445914		69
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450931	1471947445915	1471947445970		78
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450936	1471947446138	1471947446250		68
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450944	1471947446362	1471947446450		32
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450991	1471947446915	1471947446986		84
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450993	1471947447163	1471947447234		72
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450994	1471947447451	1471947447523		69
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450997	1471947447706	1471947447794		83
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	450998	1471947448194	1471947448266		8
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451055	1471947448370	1471947448458		8
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451058	1471947448924	1471947448994		73
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451061	1471947449106	1471947449202		83
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451065	1471947449290	1471947449354		32
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451069	1471947449482	1471947449802	SHIFT	16
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451134	1471947449722	1471947449914		83
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451137	1471947450162	1471947450290		80
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451139	1471947450658	1471947450737		8
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451141	1471947450826	1471947450922		8
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451144	1471947451322	1471947451418		83
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451146	1471947451651	1471947451730		80
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451166	1471947452058	1471947452122		82
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451167	1471947452194	1471947452274		69
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451168	1471947452450	1471947452586		65
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451170	1471947452626	1471947452706		68
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451172	1471947452826	1471947452954		83
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451215	1471947453098	1471947453162		72
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451216	1471947453242	1471947453330		69
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451217	1471947453435	1471947453570		69
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451218	1471947453571	1471947453650		84
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451219	1471947453946	1471947453994		32
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451244	1471947454226	1471947454306		65
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451245	1471947454434	1471947454538		83
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451246	1471947454562	1471947454626		32
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451247	1471947454770	1471947455042	SHIFT	16
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451248	1471947454922	1471947455043		73
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451249	1471947455314	1471947455362		32
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451297	1471947456066	1471947456138		85
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451298	1471947456906	1471947456978		80
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451299	1471947456930	1471947456979		79
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451300	1471947457442	1471947457522		68
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451301	1471947457586	1471947457690		65
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451327	1471947457730	1471947457834		84
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451328	1471947458530	1471947458586		8
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451329	1471947458698	1471947458762		8
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451331	1471947458858	1471947458914		8
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451334	1471947459002	1471947459098		8
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451354	1471947459530	1471947459610		68
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451355	1471947459611	1471947459730		65
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451356	1471947459771	1471947459882		84
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451357	1471947459922	1471947460050		69
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451358	1471947460282	1471947460362		32
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451429	1471947460594	1471947460682		73
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451430	1471947460922	1471947461034		84
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451431	1471947461162	1471947461258		191
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451432	1471947462314	1471947462394		8
+907	9398	Ruth, I'll send this spreadsheet as I update it.	Ruth, I'll send this spreadsheet as I update it.	451433	1471947462587	1471947462650		190
+907	9419	We will keep trying.	We will keep trying.	451656	1471947466570	1471947466898	SHIFT	16
+907	9419	We will keep trying.	We will keep trying.	451657	1471947466850	1471947466994		87
+907	9419	We will keep trying.	We will keep trying.	451658	1471947467162	1471947467274		69
+907	9419	We will keep trying.	We will keep trying.	451659	1471947467898	1471947467962		32
+907	9419	We will keep trying.	We will keep trying.	451660	1471947468178	1471947468306		87
+907	9419	We will keep trying.	We will keep trying.	451661	1471947468802	1471947468863		73
+907	9419	We will keep trying.	We will keep trying.	451682	1471947469026	1471947469090		76
+907	9419	We will keep trying.	We will keep trying.	451686	1471947469178	1471947469234		76
+907	9419	We will keep trying.	We will keep trying.	451690	1471947469386	1471947469466		32
+907	9419	We will keep trying.	We will keep trying.	451693	1471947469594	1471947469666		75
+907	9419	We will keep trying.	We will keep trying.	451696	1471947469778	1471947469850		69
+907	9419	We will keep trying.	We will keep trying.	451710	1471947469970	1471947470082		69
+907	9419	We will keep trying.	We will keep trying.	451712	1471947470114	1471947470170		80
+907	9419	We will keep trying.	We will keep trying.	451714	1471947470370	1471947470434		32
+907	9419	We will keep trying.	We will keep trying.	451716	1471947470626	1471947470690		84
+907	9419	We will keep trying.	We will keep trying.	451719	1471947470826	1471947470938		82
+907	9419	We will keep trying.	We will keep trying.	451794	1471947470986	1471947471042		89
+907	9419	We will keep trying.	We will keep trying.	451797	1471947471139	1471947471218		85
+907	9419	We will keep trying.	We will keep trying.	451800	1471947471722	1471947471810		8
+907	9419	We will keep trying.	We will keep trying.	451804	1471947472314	1471947472386		73
+907	9419	We will keep trying.	We will keep trying.	451807	1471947472954	1471947473011		78
+907	9419	We will keep trying.	We will keep trying.	451850	1471947473090	1471947473194		71
+907	9419	We will keep trying.	We will keep trying.	451853	1471947473938	1471947474018		190
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452090	1471947479708	1471947480026	SHIFT	16
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452092	1471947479962	1471947480114		87
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452094	1471947480218	1471947480362		69
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452095	1471947480842	1471947480922		32
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452097	1471947481218	1471947481290		79
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452099	1471947481442	1471947481506		78
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452125	1471947481650	1471947481738		76
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452127	1471947481858	1471947482035		84
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452129	1471947482690	1471947482754		8
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452131	1471947482866	1471947482986		89
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452132	1471947483034	1471947483106		32
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452159	1471947483250	1471947483314		74
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452161	1471947483362	1471947483506		65
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452164	1471947483523	1471947483618		86
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452166	1471947483715	1471947483818		69
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452176	1471947483938	1471947484018		32
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452179	1471947484298	1471947484412		8
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452188	1471947484483	1471947484553		8
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452193	1471947484642	1471947484697		8
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452196	1471947484786	1471947484835		8
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452228	1471947484922	1471947484976		8
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452230	1471947485058	1471947485154		8
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452232	1471947485764	1471947485827		72
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452234	1471947485898	1471947486018		65
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452236	1471947486058	1471947486130		86
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452264	1471947486474	1471947486594		69
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452266	1471947486778	1471947486850		32
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452268	1471947487026	1471947487090		84
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452270	1471947487219	1471947487282		72
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452271	1471947487362	1471947487498		69
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452317	1471947487458	1471947487530		32
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452318	1471947487754	1471947487882		80
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452319	1471947487843	1471947487955		79
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452320	1471947489314	1471947489427		87
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452322	1471947489498	1471947489618		69
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452324	1471947489642	1471947489770		82
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452365	1471947490098	1471947490178		32
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452366	1471947490810	1471947490906		79
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452367	1471947490978	1471947491091		70
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452368	1471947491179	1471947491250		32
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452369	1471947491523	1471947491594		80
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452428	1471947491810	1471947491914		69
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452430	1471947492026	1471947492122		82
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452434	1471947492530	1471947492642		83
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452437	1471947493038	1471947493098		85
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452440	1471947493218	1471947493346		65
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452487	1471947493826	1471947493898		82
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452489	1471947494450	1471947494521		8
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452494	1471947494681	1471947494802		83
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452500	1471947495219	1471947495282		73
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452504	1471947495386	1471947495482		79
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452554	1471947495650	1471947495778		78
+907	9426	We only have the power of persuasion.	We only have the power of persuasion.	452555	1471947496906	1471947496978		190
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452732	1471947501666	1471947502050	SHIFT	16
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452733	1471947502002	1471947502066		84
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452734	1471947502234	1471947502298		72
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452735	1471947502410	1471947502490		73
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452737	1471947502650	1471947502723		78
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452740	1471947502874	1471947502949		71
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452751	1471947503106	1471947503186		83
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452754	1471947503242	1471947503306		32
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452755	1471947503418	1471947503522		65
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452757	1471947503523	1471947503610		82
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452759	1471947503738	1471947503842		69
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452797	1471947503874	1471947503938		32
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452803	1471947504058	1471947504122		67
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452810	1471947504226	1471947504298		82
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452816	1471947504474	1471947504578		65
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452821	1471947505116	1471947505250		90
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452833	1471947505298	1471947505378		89
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452835	1471947505754	1471947505818		32
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452838	1471947506133	1471947506234		70
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452841	1471947506314	1471947506386		79
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452845	1471947506418	1471947506514		82
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452866	1471947506682	1471947506754		32
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452867	1471947506970	1471947507018		83
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452868	1471947507157	1471947507234		85
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452870	1471947507370	1471947507442		82
+907	9441	Things are crazy for sure!	Things are crazy for sure!	452872	1471947507546	1471947507666		69
+907	9441	Things are crazy for sure!	Things are crazy for sure!	453014	1471947508746	1471947510618	SHIFT	16
+907	9441	Things are crazy for sure!	Things are crazy for sure!	453011	1471947510458	1471947510522		49

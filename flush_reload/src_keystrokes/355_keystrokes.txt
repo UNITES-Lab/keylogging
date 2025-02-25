@@ -1,0 +1,644 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154680	1471939812699	1471939812859	SHIFT	16
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154683	1471939812788	1471939812899	N	78
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154684	1471939812919	1471939813038	e	69
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154691	1471939813011	1471939813119	a	65
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154687	1471939813038	1471939813109	l	76
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154694	1471939813193	1471939813329	,	188
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154710	1471939813299	1471939813409	 	32
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154712	1471939813477	1471939813615	c	67
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154716	1471939813573	1471939813693	a	65
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154718	1471939813603	1471939813723	n	78
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154722	1471939813683	1471939813800	 	32
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154728	1471939813825	1471939813889	y	89
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154731	1471939813925	1471939814065	o	79
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154734	1471939814001	1471939814088	u	85
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154737	1471939814040	1471939814127	 	32
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154739	1471939814185	1471939814267	h	72
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154741	1471939814331	1471939814419	e	69
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154787	1471939814381	1471939814457	l	76
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154789	1471939814525	1471939814651	e	69
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154790	1471939814681	1471939814743	BKSP	8
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154791	1471939814814	1471939814904	BKSP	8
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154793	1471939814967	1471939815049	e	69
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154795	1471939815019	1471939815079	l	76
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154797	1471939815415	1471939815475	BKSP	8
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154802	1471939815541	1471939815619	BKSP	8
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154807	1471939815701	1471939815771	l	76
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154806	1471939815749	1471939815879	p	80
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154810	1471939815915	1471939816009	 	32
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154814	1471939815953	1471939816091	w	87
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154819	1471939816101	1471939816183	i	73
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154822	1471939816159	1471939816261	t	84
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154829	1471939816233	1471939816331	h	72
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154830	1471939816320	1471939816389	 	32
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154831	1471939816503	1471939816608	t	84
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154832	1471939816555	1471939816637	h	72
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154833	1471939816669	1471939816753	i	73
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154834	1471939816745	1471939816869	s	83
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154836	1471939816913	1471939817061	SHIFT	16
+355	3197	Neal, can you help with this?	Neal, can you help with this?	154838	1471939816969	1471939817068	?	191
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	154968	1471939820173	1471939820313	SHIFT	16
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	154969	1471939820265	1471939820383	E	69
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	154970	1471939820371	1471939820437	r	82
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	154971	1471939820395	1471939820444	n	78
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	154972	1471939820515	1471939820599	i	73
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	154973	1471939820621	1471939820699	e	69
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	154987	1471939820871	1471939820943	 	32
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	154989	1471939820981	1471939821113	SHIFT	16
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	154990	1471939821093	1471939821179	E	69
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	154993	1471939821189	1471939821267	l	76
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	154994	1471939821307	1471939821391	s	83
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	154997	1471939821423	1471939821489	 	32
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155029	1471939821513	1471939821641	w	87
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155031	1471939821783	1471939821960	a	65
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155036	1471939821895	1471939822029	s	83
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155039	1471939821995	1471939822097	 	32
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155042	1471939822163	1471939822345	a	65
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155051	1471939822317	1471939822437	c	67
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155053	1471939822409	1471939822488	k	75
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155055	1471939822455	1471939822561	 	32
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155058	1471939822565	1471939822665	t	84
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155061	1471939822639	1471939822723	o	79
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155064	1471939822879	1471939822935	BKSP	8
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155068	1471939823009	1471939823079	BKSP	8
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155073	1471939823149	1471939823215	BKSP	8
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155077	1471939823291	1471939823355	BKSP	8
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155080	1471939823424	1471939823487	BKSP	8
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155085	1471939823579	1471939823615	BKSP	8
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155088	1471939823713	1471939823793	b	66
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155082	1471939823799	1471939823921	a	65
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155084	1471939823871	1471939823964	c	67
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155087	1471939823921	1471939824004	k	75
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155089	1471939823999	1471939824061	 	32
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155090	1471939824085	1471939824194	t	84
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155091	1471939824137	1471939824218	o	79
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155093	1471939824191	1471939824242	 	32
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155095	1471939824305	1471939824379	h	72
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155097	1471939824427	1471939824511	i	73
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155099	1471939824481	1471939824613	s	83
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155101	1471939824589	1471939824655	 	32
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155103	1471939824689	1471939824792	b	66
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155114	1471939824827	1471939824875	e	69
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155116	1471939824957	1471939825087	s	83
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155119	1471939825049	1471939825155	t	84
+355	3201	Ernie Els was back to his best.	Ernie Els was back to his best.	155122	1471939825157	1471939825217	.	190
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155248	1471939828801	1471939829095	SHIFT	16
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155244	1471939829019	1471939829072	I	73
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155252	1471939829123	1471939829191	f	70
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155257	1471939829277	1471939829373	 	32
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155260	1471939829477	1471939829546	y	89
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155262	1471939829599	1471939829705	o	79
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155265	1471939829655	1471939829749	u	85
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155267	1471939829867	1471939829959	r	82
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155271	1471939830017	1471939830089	 	32
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155274	1471939830157	1471939830268	r	82
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155277	1471939830217	1471939830309	e	69
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155279	1471939830289	1471939830528	a	65
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155283	1471939830437	1471939830583	s	83
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155281	1471939830485	1471939830566	o	79
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155286	1471939830623	1471939830702	n	78
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155289	1471939830706	1471939830840	a	65
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155300	1471939830778	1471939830843	b	66
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155303	1471939830918	1471939830983	l	76
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155305	1471939830966	1471939831037	e	69
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155308	1471939831096	1471939831195	,	188
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155311	1471939831158	1471939831259	 	32
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155324	1471939831328	1471939831463	SHIFT	16
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155313	1471939831368	1471939831431	I	73
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155326	1471939831514	1471939831585	'	222
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155328	1471939831680	1471939831743	l	76
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155330	1471939831804	1471939831890	l	76
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155332	1471939831896	1471939831996	 	32
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155334	1471939832000	1471939832090	b	66
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155348	1471939832098	1471939832176	e	69
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155350	1471939832177	1471939832251	 	32
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155353	1471939832448	1471939832519	BKSP	8
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155356	1471939832564	1471939832697	r	82
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155361	1471939832626	1471939832747	e	69
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155362	1471939832674	1471939832907	a	65
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155363	1471939832828	1471939832961	s	83
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155364	1471939832918	1471939832989	o	79
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155366	1471939833098	1471939833159	n	78
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155369	1471939833148	1471939833291	a	65
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155388	1471939833280	1471939833352	b	66
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155390	1471939833452	1471939833522	l	76
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155394	1471939833508	1471939833581	e	69
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155396	1471939833612	1471939833691	.	190
+355	3206	If your reasonable, I'll bereasonable.	If your reasonable, I'll bereasonable. 	155399	1471939833695	1471939833757	 	32
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155521	1471939837345	1471939837503	SHIFT	16
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155522	1471939837550	1471939837613	n	78
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155524	1471939837778	1471939838099	SHIFT	16
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155523	1471939837970	1471939838031	BKSP	8
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155525	1471939838140	1471939838281	i	73
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155526	1471939838212	1471939838323	n	78
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155527	1471939838279	1471939838359	t	84
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155528	1471939838420	1471939838518	e	69
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155538	1471939838476	1471939838617	r	82
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155540	1471939838615	1471939838729	e	69
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155542	1471939838850	1471939839011	s	83
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155544	1471939838978	1471939839094	t	84
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155545	1471939839071	1471939839161	i	73
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155556	1471939839101	1471939839211	n	78
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155560	1471939839194	1471939839263	g	71
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155562	1471939839311	1471939839409	,	188
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155563	1471939839390	1471939839495	 	32
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155564	1471939839457	1471939839569	SHIFT	16
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155565	1471939839762	1471939839889	a	65
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155573	1471939839842	1471939839993	r	82
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155576	1471939839968	1471939840083	e	69
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155578	1471939840007	1471939840159	 	32
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155583	1471939840100	1471939840167	y	89
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155586	1471939840208	1471939840343	o	79
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155624	1471939840272	1471939840387	u	85
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155627	1471939840334	1471939840431	 	32
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155630	1471939840374	1471939840492	r	82
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155633	1471939840552	1471939840734	a	65
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155635	1471939840612	1471939840799	o	79
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155637	1471939840712	1471939840822	u	85
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155641	1471939841116	1471939841165	BKSP	8
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155644	1471939841235	1471939841307	BKSP	8
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155649	1471939841392	1471939841439	BKSP	8
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155656	1471939841519	1471939841605	BKSP	8
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155639	1471939841556	1471939841721	a	65
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155642	1471939841624	1471939841725	r	82
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155647	1471939841766	1471939841865	o	79
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155651	1471939841814	1471939841893	u	85
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155653	1471939841980	1471939842055	n	78
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155679	1471939842026	1471939842097	d	68
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155683	1471939842128	1471939842203	 	32
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155686	1471939842192	1471939842262	f	70
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155688	1471939842260	1471939842347	o	79
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155690	1471939842375	1471939842455	r	82
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155693	1471939842456	1471939842507	 	32
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155696	1471939842510	1471939842649	a	65
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155699	1471939842620	1471939842687	 	32
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155702	1471939842774	1471939842863	l	76
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155705	1471939842816	1471939842965	a	65
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155719	1471939842895	1471939843029	t	84
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155721	1471939842986	1471939843105	e	69
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155724	1471939843043	1471939843115	 	32
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155727	1471939843196	1471939843313	l	76
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155730	1471939843380	1471939843429	u	85
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155734	1471939843578	1471939843653	u	85
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155788	1471939843926	1471939843991	BKSP	8
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155790	1471939844156	1471939844265	c	67
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155792	1471939844462	1471939844513	BKSP	8
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155793	1471939844632	1471939844709	n	78
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155794	1471939844733	1471939844863	c	67
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155795	1471939844776	1471939844865	h	72
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155796	1471939845015	1471939845157	SHIFT	16
+355	3212	Interesting, are you around for a late lunch?	interesting, are you around for a late lunch?	155778	1471939845082	1471939845167	?	191
+355	3222	Mostly a social call.	Mostly a social call.	155909	1471939847975	1471939848129	SHIFT	16
+355	3222	Mostly a social call.	Mostly a social call.	155906	1471939848042	1471939848105	M	77
+355	3222	Mostly a social call.	Mostly a social call.	155912	1471939848153	1471939848249	o	79
+355	3222	Mostly a social call.	Mostly a social call.	155916	1471939848251	1471939848357	s	83
+355	3222	Mostly a social call.	Mostly a social call.	155920	1471939848332	1471939848415	t	84
+355	3222	Mostly a social call.	Mostly a social call.	155925	1471939848445	1471939848509	l	76
+355	3222	Mostly a social call.	Mostly a social call.	155936	1471939848606	1471939848730	y	89
+355	3222	Mostly a social call.	Mostly a social call.	155937	1471939848677	1471939848783	 	32
+355	3222	Mostly a social call.	Mostly a social call.	155938	1471939848783	1471939848885	a	65
+355	3222	Mostly a social call.	Mostly a social call.	155939	1471939848890	1471939848960	 	32
+355	3222	Mostly a social call.	Mostly a social call.	155940	1471939848978	1471939849074	s	83
+355	3222	Mostly a social call.	Mostly a social call.	155953	1471939849065	1471939849134	o	79
+355	3222	Mostly a social call.	Mostly a social call.	155955	1471939849152	1471939849236	c	67
+355	3222	Mostly a social call.	Mostly a social call.	155958	1471939849225	1471939849280	i	73
+355	3222	Mostly a social call.	Mostly a social call.	155960	1471939849302	1471939849418	a	65
+355	3222	Mostly a social call.	Mostly a social call.	155961	1471939849366	1471939849486	l	76
+355	3222	Mostly a social call.	Mostly a social call.	155962	1471939849430	1471939849526	 	32
+355	3222	Mostly a social call.	Mostly a social call.	155963	1471939849555	1471939849678	c	67
+355	3222	Mostly a social call.	Mostly a social call.	155967	1471939849655	1471939849788	a	65
+355	3222	Mostly a social call.	Mostly a social call.	155965	1471939849682	1471939849736	l	76
+355	3222	Mostly a social call.	Mostly a social call.	155969	1471939849806	1471939849888	l	76
+355	3222	Mostly a social call.	Mostly a social call.	155973	1471939849942	1471939850018	.	190
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156047	1471939852300	1471939852432	SHIFT	16
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156050	1471939852390	1471939852461	L	76
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156052	1471939852498	1471939852644	a	65
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156054	1471939852614	1471939852750	d	68
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156056	1471939852677	1471939852754	i	73
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156058	1471939852800	1471939852864	e	69
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156063	1471939852920	1471939853002	s	83
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156064	1471939852966	1471939853068	,	188
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156065	1471939853044	1471939853116	 	32
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156066	1471939853090	1471939853238	SHIFT	16
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156067	1471939853193	1471939853288	I	73
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156068	1471939853306	1471939853397	 	32
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156087	1471939853389	1471939853488	a	65
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156090	1471939853502	1471939853618	m	77
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156095	1471939853611	1471939853710	 	32
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156098	1471939853712	1471939853792	f	70
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156100	1471939853796	1471939853922	i	73
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156114	1471939853902	1471939853970	n	78
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156115	1471939854069	1471939854088	s	73
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156116	1471939854171	1471939854258	h	72
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156117	1471939854290	1471939854352	e	69
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156119	1471939854437	1471939854516	d	68
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156134	1471939854511	1471939854592	 	32
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156137	1471939854636	1471939854738	w	87
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156142	1471939854682	1471939854754	i	73
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156145	1471939854776	1471939854866	t	84
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156148	1471939854829	1471939854944	h	72
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156176	1471939854911	1471939855008	 	32
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156178	1471939855077	1471939855230	SHIFT	16
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156177	1471939855135	1471939855182	K	75
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156179	1471939855266	1471939855326	u	85
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156180	1471939855640	1471939855720	BKSP	8
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156181	1471939855740	1471939855898	SHIFT	16
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156182	1471939855828	1471939855928	J	74
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156184	1471939855918	1471939856002	u	85
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156189	1471939856107	1471939856160	l	76
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156236	1471939856256	1471939856378	y	89
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156238	1471939856328	1471939856442	 	32
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156241	1471939856810	1471939857320	BKSP	8
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156244	1471939857564	1471939857621	BKSP	8
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156246	1471939857708	1471939857774	BKSP	8
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156247	1471939857813	1471939857968	SHIFT	16
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156248	1471939857910	1471939857981	J	74
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156250	1471939858024	1471939858106	u	85
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156254	1471939858221	1471939858280	l	76
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156287	1471939858686	1471939858771	y	89
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156289	1471939858832	1471939858917	 	32
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156291	1471939859052	1471939859114	0	48
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156296	1471939859214	1471939859284	1	49
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156301	1471939859472	1471939859546	 	32
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156311	1471939859584	1471939859706	a	65
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156313	1471939859638	1471939859714	n	78
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156316	1471939859724	1471939859814	d	68
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156318	1471939859812	1471939859896	 	32
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156320	1471939859924	1471939860050	e	69
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156333	1471939860072	1471939860136	v	86
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156336	1471939860208	1471939860328	e	69
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156341	1471939860268	1471939860360	r	82
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156344	1471939860318	1471939860396	y	89
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156347	1471939860450	1471939860530	t	84
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156359	1471939860496	1471939860578	h	72
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156361	1471939860622	1471939860728	i	73
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156364	1471939860680	1471939860782	n	78
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156366	1471939860720	1471939860786	g	71
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156368	1471939860828	1471939860916	 	32
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156383	1471939860912	1471939861000	e	69
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156385	1471939861268	1471939861334	BKSP	8
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156387	1471939861336	1471939861418	t	84
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156388	1471939861434	1471939861534	i	73
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156389	1471939861512	1471939861658	e	69
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156392	1471939861614	1471939861724	s	83
+355	3225	Ladies, I am finished with July 01 and everything ties.	Ladies, I am finished with July 01 and everything ties.	156394	1471939861728	1471939861788	.	190
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156483	1471939864840	1471939864958	SHIFT	16
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156486	1471939864902	1471939865024	W	87
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156489	1471939864978	1471939865068	e	69
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156492	1471939865130	1471939865190	 	32
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156494	1471939865214	1471939865304	h	72
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156524	1471939865358	1471939865514	a	65
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156496	1471939865420	1471939865488	b	66
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156525	1471939865510	1471939865572	e	69
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156526	1471939865930	1471939865998	BKSP	8
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156528	1471939866058	1471939866176	v	86
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156527	1471939866066	1471939866132	BKSP	8
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156529	1471939866130	1471939866236	e	69
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156530	1471939866272	1471939866360	n	78
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156531	1471939866653	1471939866707	BKSP	8
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156532	1471939866781	1471939866849	BKSP	8
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156533	1471939866927	1471939867013	BKSP	8
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156537	1471939867017	1471939867145	v	86
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156568	1471939867087	1471939867244	e	69
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156569	1471939867467	1471939867529	n	78
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156571	1471939867601	1471939867681	'	222
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156574	1471939867713	1471939867805	t	84
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156577	1471939867811	1471939867909	 	32
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156580	1471939868053	1471939868105	m	77
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156599	1471939868177	1471939868253	m	77
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156602	1471939868451	1471939868523	BKSP	8
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156606	1471939868540	1471939868641	a	65
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156608	1471939868621	1471939868761	d	68
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156610	1471939868721	1471939868867	e	69
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156628	1471939868780	1471939868931	 	32
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156633	1471939868889	1471939868967	t	84
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156637	1471939868919	1471939869011	h	72
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156640	1471939869037	1471939869155	a	65
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156643	1471939869116	1471939869225	t	84
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156647	1471939869157	1471939869236	 	32
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156648	1471939869369	1471939869507	d	68
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156649	1471939869463	1471939869529	e	69
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156651	1471939869620	1471939869659	s	83
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156673	1471939869729	1471939869821	i	67
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156674	1471939870037	1471939870107	BKSP	8
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156675	1471939870181	1471939870253	BKSP	8
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156676	1471939870321	1471939870393	BKSP	8
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156678	1471939870383	1471939870477	c	67
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156680	1471939870501	1471939870565	i	73
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156682	1471939870561	1471939870663	s	83
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156686	1471939870649	1471939870715	i	73
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156689	1471939870801	1471939870871	o	79
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156696	1471939870911	1471939871047	n	78
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156699	1471939871005	1471939871091	 	32
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156701	1471939871173	1471939871273	h	72
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156703	1471939871298	1471939871397	e	69
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156714	1471939871373	1471939871507	r	82
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156719	1471939871475	1471939871615	e	69
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156717	1471939871540	1471939871612	 	32
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156722	1471939871617	1471939871708	t	84
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156723	1471939871663	1471939871719	h	72
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156727	1471939871757	1471939871903	o	79
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156733	1471939871835	1471939871915	u	85
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156736	1471939871891	1471939872005	g	71
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156738	1471939871991	1471939872065	h	72
+355	3233	We haven't made that decision here though.	We haven't made that decision here though.	156739	1471939872159	1471939872251	.	190
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156885	1471939875299	1471939875513	SHIFT	16
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156889	1471939875473	1471939875537	I	73
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156891	1471939875567	1471939875681	f	70
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156894	1471939875661	1471939875765	 	32
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156896	1471939875817	1471939875959	s	83
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156913	1471939875971	1471939876081	o	79
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156897	1471939876001	1471939876063	 	73
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156915	1471939876211	1471939876273	h	72
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156917	1471939876471	1471939876527	BKSP	8
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156919	1471939876583	1471939876665	BKSP	8
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156921	1471939876741	1471939876817	BKSP	8
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156923	1471939876829	1471939876887	 	32
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156925	1471939876911	1471939877003	h	72
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156928	1471939876983	1471939877065	e	69
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156931	1471939877071	1471939877129	 	32
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156938	1471939877175	1471939877263	p	80
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156940	1471939877246	1471939877353	r	82
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156942	1471939877285	1471939877387	o	79
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156943	1471939877499	1471939877563	b	66
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156953	1471939877621	1471939877739	b	65
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156957	1471939877823	1471939877885	l	76
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156960	1471939877975	1471939878085	y	89
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156964	1471939878063	1471939878129	 	32
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	156968	1471939878131	1471939878237	w	87
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157001	1471939878209	1471939878277	i	73
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157003	1471939878385	1471939878419	k	75
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157005	1471939878527	1471939878583	l	76
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157007	1471939878771	1471939878817	BKSP	8
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157009	1471939878883	1471939878957	BKSP	8
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157010	1471939879061	1471939879125	l	76
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157011	1471939879193	1471939879249	l	76
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157013	1471939879241	1471939879311	 	32
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157016	1471939879343	1471939879401	h	72
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157024	1471939879417	1471939879556	a	65
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157019	1471939879483	1471939879553	v	86
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157029	1471939879518	1471939879587	e	69
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157034	1471939879673	1471939879721	 	32
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157049	1471939879943	1471939880031	t	84
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157052	1471939880035	1471939880163	o	79
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157055	1471939880119	1471939880193	 	32
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157058	1471939880279	1471939880365	p	80
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157063	1471939880367	1471939880515	a	65
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157071	1471939880469	1471939880565	y	89
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157074	1471939880585	1471939880647	 	32
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157079	1471939880689	1471939880778	b	66
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157082	1471939880739	1471939880869	a	65
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157083	1471939880815	1471939880937	c	67
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157093	1471939880913	1471939880959	l	75
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157095	1471939881309	1471939881381	BKSP	8
+355	3239	If so he probably will have to pay back.	If so he probably will have to pay back.	157098	1471939881517	1471939881579	.	190
+355	3246	That would be great.	That would be great.	157230	1471939884221	1471939884337	SHIFT	16
+355	3246	That would be great.	That would be great.	157232	1471939884311	1471939884405	T	84
+355	3246	That would be great.	That would be great.	157236	1471939884379	1471939884450	h	72
+355	3246	That would be great.	That would be great.	157238	1471939884469	1471939884582	a	65
+355	3246	That would be great.	That would be great.	157241	1471939884545	1471939884675	t	84
+355	3246	That would be great.	That would be great.	157262	1471939884626	1471939884752	 	32
+355	3246	That would be great.	That would be great.	157265	1471939885038	1471939885151	w	87
+355	3246	That would be great.	That would be great.	157270	1471939885134	1471939885255	o	79
+355	3246	That would be great.	That would be great.	157273	1471939885196	1471939885285	u	85
+355	3246	That would be great.	That would be great.	157278	1471939885352	1471939885454	l	76
+355	3246	That would be great.	That would be great.	157315	1471939885408	1471939885496	d	68
+355	3246	That would be great.	That would be great.	157320	1471939885476	1471939885608	 	32
+355	3246	That would be great.	That would be great.	157325	1471939885588	1471939885679	b	66
+355	3246	That would be great.	That would be great.	157330	1471939885642	1471939885723	e	69
+355	3246	That would be great.	That would be great.	157338	1471939885820	1471939885932	g	71
+355	3246	That would be great.	That would be great.	157344	1471939886324	1471939886420	BKSP	8
+355	3246	That would be great.	That would be great.	157346	1471939886548	1471939886644	 	32
+355	3246	That would be great.	That would be great.	157332	1471939886694	1471939886803	g	71
+355	3246	That would be great.	That would be great.	157337	1471939886902	1471939887038	r	82
+355	3246	That would be great.	That would be great.	157342	1471939886948	1471939887138	e	69
+355	3246	That would be great.	That would be great.	157349	1471939887026	1471939887191	a	65
+355	3246	That would be great.	That would be great.	157352	1471939887104	1471939887223	t	84
+355	3246	That would be great.	That would be great.	157354	1471939887211	1471939887278	.	190
+355	3252	I have a request.	I  have a request.	157484	1471939890715	1471939890865	SHIFT	16
+355	3252	I have a request.	I  have a request.	157487	1471939890766	1471939890893	I	73
+355	3252	I have a request.	I  have a request.	157490	1471939890850	1471939890917	 	32
+355	3252	I have a request.	I  have a request.	157495	1471939890935	1471939890954	h	32
+355	3252	I have a request.	I  have a request.	157508	1471939891020	1471939891117	a	65
+355	3252	I have a request.	I  have a request.	157513	1471939891126	1471939891189	v	86
+355	3252	I have a request.	I  have a request.	157519	1471939891178	1471939891249	e	69
+355	3252	I have a request.	I  have a request.	157522	1471939891286	1471939891347	 	32
+355	3252	I have a request.	I  have a request.	157527	1471939891344	1471939891506	a	65
+355	3252	I have a request.	I  have a request.	157553	1471939891456	1471939891545	 	32
+355	3252	I have a request.	I  have a request.	157556	1471939891648	1471939891872	r	82
+355	3252	I have a request.	I  have a request.	157558	1471939891696	1471939891895	e	69
+355	3252	I have a request.	I  have a request.	157560	1471939891852	1471939891997	q	81
+355	3252	I have a request.	I  have a request.	157564	1471939891942	1471939892027	u	85
+355	3252	I have a request.	I  have a request.	157568	1471939892068	1471939892151	e	69
+355	3252	I have a request.	I  have a request.	157562	1471939892282	1471939892427	s	83
+355	3252	I have a request.	I  have a request.	157565	1471939892388	1471939892499	t	84
+355	3252	I have a request.	I  have a request.	157569	1471939892482	1471939892555	.	190
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157656	1471939895354	1471939895495	SHIFT	16
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157658	1471939895430	1471939895573	I	73
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157660	1471939895540	1471939895671	 	32
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157662	1471939895632	1471939895711	t	84
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157665	1471939895675	1471939895745	h	72
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157666	1471939895784	1471939895867	i	73
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157673	1471939895844	1471939895971	n	78
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157676	1471939895940	1471939896035	k	75
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157681	1471939896008	1471939896117	 	32
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157685	1471939896144	1471939896229	i	73
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157691	1471939896226	1471939896313	t	84
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157695	1471939896336	1471939896395	 	32
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157697	1471939896394	1471939896543	s	83
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157696	1471939896436	1471939896491	h	72
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157698	1471939896530	1471939896655	o	79
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157699	1471939896592	1471939896663	u	85
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157700	1471939896736	1471939896841	l	76
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157720	1471939896780	1471939896857	d	68
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157724	1471939896846	1471939896985	 	32
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157726	1471939896956	1471939897043	b	66
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157729	1471939897006	1471939897137	e	69
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157735	1471939897166	1471939897253	 	32
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157771	1471939897244	1471939897349	f	70
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157774	1471939897316	1471939897403	e	69
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157777	1471939897678	1471939897749	BKSP	8
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157783	1471939897858	1471939897935	i	73
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157784	1471939897902	1471939898001	x	88
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157785	1471939898110	1471939898171	e	69
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157786	1471939898268	1471939898361	d	68
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157787	1471939898366	1471939898447	 	32
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157788	1471939898478	1471939898559	n	78
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157789	1471939898624	1471939898707	o	79
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157791	1471939898654	1471939898761	w	87
+355	3258	I think it should be fixed now.	I think it should be fixed now.	157793	1471939898798	1471939898871	.	190
+355	3262	I'll send you minutes.	I'll send you minutes.	157905	1471939901486	1471939901617	SHIFT	16
+355	3262	I'll send you minutes.	I'll send you minutes.	157908	1471939901544	1471939901617	I	73
+355	3262	I'll send you minutes.	I'll send you minutes.	157915	1471939901718	1471939901781	'	222
+355	3262	I'll send you minutes.	I'll send you minutes.	157921	1471939901870	1471939901921	l	76
+355	3262	I'll send you minutes.	I'll send you minutes.	157926	1471939901998	1471939902063	l	76
+355	3262	I'll send you minutes.	I'll send you minutes.	157933	1471939902048	1471939902131	 	32
+355	3262	I'll send you minutes.	I'll send you minutes.	157936	1471939902154	1471939902265	s	83
+355	3262	I'll send you minutes.	I'll send you minutes.	157938	1471939902224	1471939902313	e	69
+355	3262	I'll send you minutes.	I'll send you minutes.	157940	1471939902297	1471939902371	n	78
+355	3262	I'll send you minutes.	I'll send you minutes.	157942	1471939902397	1471939902485	d	68
+355	3262	I'll send you minutes.	I'll send you minutes.	157932	1471939902476	1471939902606	 	32
+355	3262	I'll send you minutes.	I'll send you minutes.	157934	1471939902591	1471939902658	y	89
+355	3262	I'll send you minutes.	I'll send you minutes.	157992	1471939902715	1471939902844	o	73
+355	3262	I'll send you minutes.	I'll send you minutes.	157996	1471939902757	1471939902852	u	85
+355	3262	I'll send you minutes.	I'll send you minutes.	158000	1471939902815	1471939902914	 	32
+355	3262	I'll send you minutes.	I'll send you minutes.	158003	1471939903085	1471939903138	BKSP	8
+355	3262	I'll send you minutes.	I'll send you minutes.	158007	1471939903209	1471939903282	BKSP	8
+355	3262	I'll send you minutes.	I'll send you minutes.	158009	1471939903356	1471939903426	BKSP	8
+355	3262	I'll send you minutes.	I'll send you minutes.	158010	1471939903487	1471939903542	BKSP	8
+355	3262	I'll send you minutes.	I'll send you minutes.	158012	1471939903671	1471939903836	o	79
+355	3262	I'll send you minutes.	I'll send you minutes.	158014	1471939903751	1471939903846	u	85
+355	3262	I'll send you minutes.	I'll send you minutes.	158017	1471939903962	1471939904033	 	32
+355	3262	I'll send you minutes.	I'll send you minutes.	158021	1471939904027	1471939904108	m	77
+355	3262	I'll send you minutes.	I'll send you minutes.	158027	1471939904159	1471939904270	i	73
+355	3262	I'll send you minutes.	I'll send you minutes.	158011	1471939904229	1471939904342	n	78
+355	3262	I'll send you minutes.	I'll send you minutes.	158013	1471939904366	1471939904446	u	85
+355	3262	I'll send you minutes.	I'll send you minutes.	158015	1471939904411	1471939904496	t	84
+355	3262	I'll send you minutes.	I'll send you minutes.	158018	1471939904462	1471939904572	e	69
+355	3262	I'll send you minutes.	I'll send you minutes.	158023	1471939904573	1471939904686	s	83
+355	3262	I'll send you minutes.	I'll send you minutes.	158005	1471939904675	1471939904734	.	190
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158099	1471939906974	1471939907144	SHIFT	16
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158101	1471939907082	1471939907158	J	74
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158103	1471939907188	1471939907326	u	85
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158105	1471939907298	1471939907422	a	65
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158107	1471939907454	1471939907508	n	78
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158111	1471939907579	1471939907628	o	79
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158154	1471939907854	1471939907914	BKSP	8
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158156	1471939908085	1471939908152	BKSP	8
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158158	1471939908265	1471939908378	n	78
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158161	1471939908578	1471939908648	BKSP	8
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158164	1471939908698	1471939908762	BKSP	8
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158168	1471939908842	1471939908938	n	78
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158172	1471939908935	1471939909040	t	84
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158175	1471939909052	1471939909208	a	65
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158179	1471939909210	1471939909306	o	79
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158184	1471939909290	1471939909364	 	32
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158185	1471939909441	1471939909512	i	73
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158186	1471939909506	1471939909628	s	83
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158187	1471939909595	1471939909674	 	32
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158188	1471939909706	1471939909886	i	73
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158199	1471939909771	1471939909916	n	78
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158200	1471939909871	1471939909976	 	32
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158201	1471939909966	1471939910059	SHIFT	16
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158202	1471939910051	1471939910198	W	87
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158203	1471939910159	1471939910338	a	65
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158204	1471939910285	1471939910428	s	83
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158205	1471939910358	1471939910434	h	72
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158206	1471939910476	1471939910618	i	73
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158222	1471939910550	1471939910666	n	78
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158224	1471939910629	1471939910718	g	71
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158226	1471939910841	1471939910954	t	84
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158227	1471939910922	1471939910996	o	79
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158228	1471939911041	1471939911161	n	78
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158243	1471939911138	1471939911226	 	32
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158245	1471939911306	1471939911396	t	84
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158249	1471939911367	1471939911452	h	72
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158251	1471939911454	1471939911617	i	73
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158254	1471939911581	1471939911662	s	83
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158271	1471939911642	1471939911761	 	32
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158273	1471939911794	1471939911918	w	87
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158275	1471939911850	1471939911974	e	69
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158277	1471939912030	1471939912112	e	69
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158280	1471939912111	1471939912226	k	75
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158292	1471939912177	1471939912252	 	32
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158295	1471939912335	1471939912438	m	77
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158297	1471939912412	1471939912490	e	69
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158300	1471939912571	1471939912702	e	69
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158302	1471939912663	1471939912768	t	84
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158310	1471939912706	1471939912832	i	73
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158313	1471939912749	1471939912886	n	78
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158317	1471939912852	1471939912964	g	71
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158319	1471939912974	1471939913060	 	32
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158321	1471939913072	1471939913124	w	87
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158324	1471939913142	1471939913184	i	73
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158326	1471939913201	1471939913264	w	87
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158347	1471939913770	1471939913844	BKSP	8
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158349	1471939913930	1471939914020	t	84
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158352	1471939913980	1471939914126	h	72
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158356	1471939914128	1471939914182	 	32
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158358	1471939914238	1471939914374	l	76
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158369	1471939914321	1471939914458	a	65
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158373	1471939914343	1471939914534	w	87
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158376	1471939914536	1471939914628	m	77
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158379	1471939914638	1471939914770	a	65
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158382	1471939914739	1471939914824	k	75
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158385	1471939914846	1471939914936	e	69
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158371	1471939914911	1471939915032	r	82
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158374	1471939915002	1471939915130	s	83
+355	3267	Juntao is in Washington this week  meeting with lawmakers.	Juntao is in Washington this week meeting with lawmakers.	158377	1471939915099	1471939915156	.	190
+355	3275	I heard it was at 5?	I heard it was at 5?	158502	1471939917664	1471939917818	SHIFT	16
+355	3275	I heard it was at 5?	I heard it was at 5?	158503	1471939917734	1471939917820	I	73
+355	3275	I heard it was at 5?	I heard it was at 5?	158504	1471939917864	1471939917930	 	32
+355	3275	I heard it was at 5?	I heard it was at 5?	158506	1471939917994	1471939918132	h	72
+355	3275	I heard it was at 5?	I heard it was at 5?	158508	1471939918138	1471939918306	e	69
+355	3275	I heard it was at 5?	I heard it was at 5?	158510	1471939918360	1471939918526	a	65
+355	3275	I heard it was at 5?	I heard it was at 5?	158534	1471939918465	1471939918588	r	82
+355	3275	I heard it was at 5?	I heard it was at 5?	158537	1471939918568	1471939918668	 	32
+355	3275	I heard it was at 5?	I heard it was at 5?	158542	1471939918864	1471939918948	BKSP	8
+355	3275	I heard it was at 5?	I heard it was at 5?	158546	1471939918930	1471939919022	d	68
+355	3275	I heard it was at 5?	I heard it was at 5?	158548	1471939919002	1471939919098	 	32
+355	3275	I heard it was at 5?	I heard it was at 5?	158550	1471939919097	1471939919178	i	73
+355	3275	I heard it was at 5?	I heard it was at 5?	158552	1471939919180	1471939919272	t	84
+355	3275	I heard it was at 5?	I heard it was at 5?	158536	1471939919273	1471939919370	 	32
+355	3275	I heard it was at 5?	I heard it was at 5?	158541	1471939919326	1471939919453	w	87
+355	3275	I heard it was at 5?	I heard it was at 5?	158545	1471939919450	1471939919636	a	65
+355	3275	I heard it was at 5?	I heard it was at 5?	158576	1471939919548	1471939919646	s	83
+355	3275	I heard it was at 5?	I heard it was at 5?	158577	1471939919628	1471939919742	 	32
+355	3275	I heard it was at 5?	I heard it was at 5?	158580	1471939919750	1471939919876	a	65
+355	3275	I heard it was at 5?	I heard it was at 5?	158583	1471939919810	1471939919956	t	84
+355	3275	I heard it was at 5?	I heard it was at 5?	158586	1471939919916	1471939920076	 	32
+355	3275	I heard it was at 5?	I heard it was at 5?	158589	1471939920274	1471939920350	5	53
+355	3275	I heard it was at 5?	I heard it was at 5?	158592	1471939920420	1471939920589	SHIFT	16
+355	3275	I heard it was at 5?	I heard it was at 5?	158570	1471939920524	1471939920625	?	191
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158676	1471939922729	1471939923363	SHIFT	16
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158674	1471939923001	1471939923081	U	85
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158679	1471939923279	1471939923400	S	83
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158682	1471939923424	1471939923507	 	32
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158685	1471939923529	1471939923649	v	86
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158698	1471939923623	1471939923699	e	69
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158701	1471939923801	1471939923869	s	83
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158705	1471939923930	1471939924077	s	83
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158708	1471939924087	1471939924161	e	69
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158710	1471939924185	1471939924275	l	76
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158751	1471939924235	1471939924312	s	83
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158755	1471939924377	1471939924459	 	32
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158759	1471939924456	1471939924559	w	87
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158762	1471939924531	1471939924609	i	73
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158765	1471939924603	1471939924665	t	84
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158767	1471939924936	1471939924993	BKSP	8
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158769	1471939925091	1471939925161	l	76
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158771	1471939925221	1471939925303	l	76
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158774	1471939925263	1471939925347	 	32
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158778	1471939925380	1471939925435	f	70
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158782	1471939925447	1471939925513	o	79
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158802	1471939925513	1471939925581	r	82
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158803	1471939925597	1471939925709	m	77
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158805	1471939925680	1471939925789	 	32
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158807	1471939925875	1471939926007	t	84
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158809	1471939925959	1471939926112	w	87
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158832	1471939926021	1471939926155	o	79
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158836	1471939926099	1471939926208	 	32
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158839	1471939926205	1471939926376	s	83
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158841	1471939926339	1471939926453	e	69
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158845	1471939926461	1471939926555	p	80
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158847	1471939926549	1471939926715	a	65
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158846	1471939926665	1471939926797	r	82
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158848	1471939926779	1471939926901	a	65
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158850	1471939926869	1471939926989	t	84
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158852	1471939926931	1471939927057	e	69
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158855	1471939927043	1471939927149	 	32
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158858	1471939927307	1471939927385	t	84
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158876	1471939927495	1471939927619	r	82
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158878	1471939927552	1471939927697	a	65
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158880	1471939927648	1471939927733	i	73
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158882	1471939927701	1471939927789	n	78
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158885	1471939927823	1471939927957	i	73
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158897	1471939927885	1471939927993	n	78
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158902	1471939927917	1471939928008	g	71
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158906	1471939928029	1471939928129	 	32
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158911	1471939928152	1471939928241	u	85
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158917	1471939928281	1471939928368	n	78
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158924	1471939928392	1471939928451	t	73
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158900	1471939928501	1471939928608	s	83
+355	3279	US vessels will form two separate training units.	US vessels will form two separate training units.	158903	1471939928610	1471939928673	.	190

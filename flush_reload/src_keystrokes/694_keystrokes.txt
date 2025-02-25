@@ -1,0 +1,811 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+694	6871	Below is the intended version.	Below is the intended version	330319	1471944493860	1471944493990	SHIFT	16
+694	6871	Below is the intended version.	Below is the intended version	330323	1471944493913	1471944494007	B	66
+694	6871	Below is the intended version.	Below is the intended version	330327	1471944494104	1471944494224	e	69
+694	6871	Below is the intended version.	Below is the intended version	330328	1471944494215	1471944494333	l	76
+694	6871	Below is the intended version.	Below is the intended version	330331	1471944494442	1471944494545	o	79
+694	6871	Below is the intended version.	Below is the intended version	330335	1471944494621	1471944494780	w	87
+694	6871	Below is the intended version.	Below is the intended version	330370	1471944495038	1471944495152	 	32
+694	6871	Below is the intended version.	Below is the intended version	330373	1471944495563	1471944495677	i	73
+694	6871	Below is the intended version.	Below is the intended version	330380	1471944495741	1471944495822	s	83
+694	6871	Below is the intended version.	Below is the intended version	330385	1471944495830	1471944495930	 	32
+694	6871	Below is the intended version.	Below is the intended version	330392	1471944496094	1471944496166	t	84
+694	6871	Below is the intended version.	Below is the intended version	330417	1471944496277	1471944496377	h	72
+694	6871	Below is the intended version.	Below is the intended version	330420	1471944496299	1471944496383	e	69
+694	6871	Below is the intended version.	Below is the intended version	330423	1471944496481	1471944496563	 	32
+694	6871	Below is the intended version.	Below is the intended version	330426	1471944496728	1471944496839	i	73
+694	6871	Below is the intended version.	Below is the intended version	330432	1471944496932	1471944497038	n	78
+694	6871	Below is the intended version.	Below is the intended version	330475	1471944497316	1471944497430	t	84
+694	6871	Below is the intended version.	Below is the intended version	330480	1471944497454	1471944497531	e	69
+694	6871	Below is the intended version.	Below is the intended version	330482	1471944497605	1471944497723	n	78
+694	6871	Below is the intended version.	Below is the intended version	330486	1471944497773	1471944497909	s	83
+694	6871	Below is the intended version.	Below is the intended version	330488	1471944498033	1471944498156	e	69
+694	6871	Below is the intended version.	Below is the intended version	330531	1471944498379	1471944498451	BKSP	8
+694	6871	Below is the intended version.	Below is the intended version	330534	1471944498520	1471944498591	BKSP	8
+694	6871	Below is the intended version.	Below is the intended version	330536	1471944498855	1471944498962	d	68
+694	6871	Below is the intended version.	Below is the intended version	330538	1471944498954	1471944499083	e	69
+694	6871	Below is the intended version.	Below is the intended version	330541	1471944499120	1471944499209	d	68
+694	6871	Below is the intended version.	Below is the intended version	330544	1471944499237	1471944499339	 	32
+694	6871	Below is the intended version.	Below is the intended version	330548	1471944499802	1471944499867	c	67
+694	6871	Below is the intended version.	Below is the intended version	330620	1471944500221	1471944500338	v	86
+694	6871	Below is the intended version.	Below is the intended version	330624	1471944500879	1471944501037	e	69
+694	6871	Below is the intended version.	Below is the intended version	330627	1471944501068	1471944501154	r	82
+694	6871	Below is the intended version.	Below is the intended version	330629	1471944501402	1471944501502	s	83
+694	6871	Below is the intended version.	Below is the intended version	330801	1471944501467	1471944501575	i	73
+694	6871	Below is the intended version.	Below is the intended version	330803	1471944501632	1471944501726	o	79
+694	6871	Below is the intended version.	Below is the intended version	330806	1471944501784	1471944501885	n	78
+694	6871	Below is the intended version.	Below is the intended version	330810	1471944502279	1471944502420	BKSP	8
+694	6871	Below is the intended version.	Below is the intended version	330815	1471944502494	1471944502574	BKSP	8
+694	6871	Below is the intended version.	Below is the intended version	330817	1471944502648	1471944502711	BKSP	8
+694	6871	Below is the intended version.	Below is the intended version	330822	1471944502772	1471944502834	BKSP	8
+694	6871	Below is the intended version.	Below is the intended version	330828	1471944502893	1471944502964	BKSP	8
+694	6871	Below is the intended version.	Below is the intended version	330833	1471944503042	1471944503108	BKSP	8
+694	6871	Below is the intended version.	Below is the intended version	330839	1471944503192	1471944503241	BKSP	8
+694	6871	Below is the intended version.	Below is the intended version	330841	1471944503676	1471944503780	BKSP	8
+694	6871	Below is the intended version.	Below is the intended version	330842	1471944504005	1471944504057	v	86
+694	6871	Below is the intended version.	Below is the intended version	330843	1471944504088	1471944504229	e	69
+694	6871	Below is the intended version.	Below is the intended version	330844	1471944504276	1471944504354	r	82
+694	6871	Below is the intended version.	Below is the intended version	330874	1471944504542	1471944504663	s	83
+694	6871	Below is the intended version.	Below is the intended version	330878	1471944504621	1471944504734	i	73
+694	6871	Below is the intended version.	Below is the intended version	330882	1471944504746	1471944504858	o	79
+694	6871	Below is the intended version.	Below is the intended version	330885	1471944504929	1471944505037	n	78
+694	6892	Go for the dollars.	Go for the dollars.	331097	1471944509659	1471944509914	SHIFT	16
+694	6892	Go for the dollars.	Go for the dollars.	331095	1471944509812	1471944509903	G	71
+694	6892	Go for the dollars.	Go for the dollars.	331100	1471944509986	1471944510090	o	79
+694	6892	Go for the dollars.	Go for the dollars.	331103	1471944510168	1471944510261	 	32
+694	6892	Go for the dollars.	Go for the dollars.	331106	1471944510337	1471944510467	f	70
+694	6892	Go for the dollars.	Go for the dollars.	331141	1471944510403	1471944510565	o	79
+694	6892	Go for the dollars.	Go for the dollars.	331143	1471944510557	1471944510670	r	82
+694	6892	Go for the dollars.	Go for the dollars.	331144	1471944510691	1471944510790	 	32
+694	6892	Go for the dollars.	Go for the dollars.	331146	1471944511067	1471944511171	t	84
+694	6892	Go for the dollars.	Go for the dollars.	331149	1471944511254	1471944511321	e	72
+694	6892	Go for the dollars.	Go for the dollars.	331232	1471944511426	1471944511516	 	32
+694	6892	Go for the dollars.	Go for the dollars.	331235	1471944511913	1471944512008	d	68
+694	6892	Go for the dollars.	Go for the dollars.	331240	1471944511988	1471944512068	o	79
+694	6892	Go for the dollars.	Go for the dollars.	331244	1471944512185	1471944512246	l	76
+694	6892	Go for the dollars.	Go for the dollars.	331250	1471944512307	1471944512390	l	76
+694	6892	Go for the dollars.	Go for the dollars.	331353	1471944512359	1471944512445	a	65
+694	6892	Go for the dollars.	Go for the dollars.	331355	1471944512614	1471944512692	r	82
+694	6892	Go for the dollars.	Go for the dollars.	331358	1471944512836	1471944512944	s	83
+694	6892	Go for the dollars.	Go for the dollars.	331360	1471944513793	1471944513869	.	190
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331584	1471944517700	1471944518003	SHIFT	16
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331587	1471944517950	1471944518054	S	83
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331591	1471944518021	1471944518102	u	85
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331594	1471944518181	1471944518285	n	78
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331597	1471944518514	1471944518630	a	65
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331639	1471944518582	1471944518715	y	89
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331641	1471944518837	1471944518928	 	32
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331644	1471944519556	1471944519640	t	84
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331647	1471944519629	1471944519733	i	73
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331648	1471944519801	1471944519902	c	67
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331724	1471944519895	1471944519995	k	75
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331728	1471944520518	1471944520626	t	84
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331733	1471944520649	1471944520738	s	83
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331735	1471944520824	1471944520920	 	32
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331738	1471944521393	1471944521493	h	72
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331741	1471944521526	1471944521589	a	65
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331748	1471944521646	1471944521743	v	86
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331751	1471944521769	1471944521875	e	69
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331754	1471944521858	1471944521940	 	32
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331756	1471944522026	1471944522103	b	66
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331786	1471944522087	1471944522162	e	69
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331791	1471944522238	1471944522319	e	69
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331794	1471944522328	1471944522403	n	78
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331799	1471944522490	1471944522581	 	32
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331802	1471944522875	1471944522968	o	79
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331807	1471944523032	1471944523092	n	78
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331853	1471944523172	1471944523251	 	32
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331857	1471944523233	1471944523319	s	83
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331863	1471944523345	1471944523418	l	76
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331866	1471944523410	1471944523526	a	65
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331868	1471944523819	1471944523915	l	76
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331935	1471944524236	1471944524311	BKSP	8
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331937	1471944524362	1471944524863	BKSP	8
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331939	1471944525237	1471944525342	BKSP	8
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331941	1471944525399	1471944525514	a	65
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331943	1471944525563	1471944525641	l	76
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331946	1471944525682	1471944525764	e	69
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331951	1471944525765	1471944526048	 	32
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331955	1471944526588	1471944526682	f	70
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331976	1471944526634	1471944526724	o	79
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331977	1471944526990	1471944527077	r	82
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331978	1471944527118	1471944527215	 	32
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331979	1471944527272	1471944527347	w	87
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331980	1471944527527	1471944527587	e	69
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	331982	1471944527661	1471944527736	e	69
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	332028	1471944527763	1471944527894	k	75
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	332030	1471944528099	1471944528185	s	83
+694	6897	Sunday tickets have been on sale for weeks.	Sunay tickts have been on sale for weeks.	332033	1471944528624	1471944528692	.	190
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332362	1471944535872	1471944536106	SHIFT	16
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332363	1471944536025	1471944536115	T	84
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332364	1471944536211	1471944536257	e	72
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332366	1471944536339	1471944536404	y	89
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332369	1471944536518	1471944536588	 	32
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332405	1471944536922	1471944537017	t	84
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332407	1471944537029	1471944537128	e	69
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332412	1471944537163	1471944537260	n	78
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332414	1471944537270	1471944537361	d	68
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332417	1471944537424	1471944537510	 	32
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332467	1471944538140	1471944538263	t	84
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332473	1471944538244	1471944538315	o	79
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332475	1471944538392	1471944538479	 	32
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332479	1471944538516	1471944538619	k	75
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332483	1471944538787	1471944538894	i	73
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332592	1471944538889	1471944538974	w	87
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332596	1471944539032	1471944539123	 	32
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332597	1471944539777	1471944539857	BKSP	8
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332598	1471944539928	1471944539989	BKSP	8
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332599	1471944540044	1471944540097	BKSP	8
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332600	1471944540158	1471944540196	BKSP	8
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332601	1471944540761	1471944540828	k	75
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332603	1471944540908	1471944540969	n	78
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332605	1471944541001	1471944541109	o	79
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332607	1471944541117	1471944541218	w	87
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332640	1471944541487	1471944541572	 	32
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332641	1471944541787	1471944541879	h	87
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332643	1471944541982	1471944542092	o	79
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332645	1471944542180	1471944542265	 	32
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332674	1471944542656	1471944542776	h	72
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332675	1471944542879	1471944542949	o	79
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332676	1471944543014	1471944543068	o	79
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332677	1471944543146	1471944543225	l	76
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332679	1471944543315	1471944543386	i	73
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332738	1471944544091	1471944544172	g	71
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332739	1471944544285	1471944544394	a	65
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332740	1471944544378	1471944544477	n	78
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332741	1471944544636	1471944544727	s	83
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332743	1471944544759	1471944544843	 	32
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332791	1471944545436	1471944545536	a	65
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332794	1471944545501	1471944545607	r	82
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332799	1471944545673	1471944545744	e	69
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332803	1471944545797	1471944545885	 	32
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332810	1471944546251	1471944546359	a	65
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332839	1471944546329	1471944546424	n	78
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332841	1471944546544	1471944546629	d	68
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332843	1471944546642	1471944546738	 	32
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332845	1471944547130	1471944547220	d	68
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332847	1471944547158	1471944547248	o	79
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332849	1471944547322	1471944547395	n	78
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332885	1471944547935	1471944548040	'	222
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332886	1471944548042	1471944548117	t	84
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332888	1471944548157	1471944548235	 	32
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332889	1471944548748	1471944548841	s	83
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332890	1471944548914	1471944548980	e	69
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332903	1471944549016	1471944549096	l	76
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332905	1471944549161	1471944549229	l	76
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332908	1471944549343	1471944549454	 	32
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332911	1471944549573	1471944549679	t	84
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332942	1471944549651	1471944549739	o	79
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332944	1471944549812	1471944549904	 	32
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332946	1471944550022	1471944550098	t	84
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332949	1471944550163	1471944550250	h	72
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332956	1471944550220	1471944550304	e	69
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332961	1471944550358	1471944550445	m	77
+694	6913	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	332970	1471944550686	1471944550757	.	190
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333151	1471944554777	1471944554918	SHIFT	16
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333149	1471944554800	1471944554896	I	73
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333153	1471944554964	1471944555017	n	78
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333155	1471944555098	1471944555165	 	32
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333156	1471944555271	1471944555365	h	72
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333157	1471944555388	1471944555505	i	73
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333172	1471944555487	1471944555562	s	83
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333176	1471944555636	1471944555711	 	32
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333180	1471944556121	1471944556230	t	84
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333185	1471944556181	1471944556275	h	72
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333189	1471944556302	1471944556436	i	73
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333192	1471944556509	1471944556610	r	82
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333298	1471944556716	1471944556797	e	69
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333302	1471944556962	1471944557061	d	68
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333305	1471944557277	1471944557365	,	188
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333309	1471944557924	1471944557994	BKSP	8
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333312	1471944558354	1471944558425	BKSP	8
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333314	1471944558832	1471944558900	BKSP	8
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333316	1471944559563	1471944559638	d	68
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333317	1471944559653	1471944559750	 	32
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333331	1471944559783	1471944559884	s	83
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333335	1471944559982	1471944560049	e	69
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333338	1471944560169	1471944560251	a	65
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333340	1471944560343	1471944560432	s	83
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333434	1471944560414	1471944560512	o	79
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333436	1471944560575	1471944560661	n	78
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333438	1471944561631	1471944561706	,	188
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333440	1471944561808	1471944561894	 	32
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333443	1471944562090	1471944562423	SHIFT	16
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333442	1471944562332	1471944562419	B	66
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333444	1471944562516	1471944562586	o	79
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333461	1471944562649	1471944562703	o	79
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333464	1471944562776	1471944562865	k	75
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333466	1471944562878	1471944563024	e	69
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333469	1471944563061	1471944563137	r	82
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333473	1471944563216	1471944563278	 	32
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333516	1471944563687	1471944563795	h	72
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333518	1471944563776	1471944563874	a	65
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333520	1471944564155	1471944564253	s	83
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333522	1471944564233	1471944564328	 	32
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333524	1471944564442	1471944564545	b	66
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333532	1471944564554	1471944564680	e	69
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333535	1471944564782	1471944564919	o	79
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333540	1471944564833	1471944564925	c	67
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333546	1471944564985	1471944565098	m	77
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333664	1471944565064	1471944565162	e	69
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333666	1471944565385	1471944565488	 	32
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333668	1471944565740	1471944565793	BKSP	8
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333671	1471944566151	1471944566213	BKSP	8
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333674	1471944566282	1471944566340	BKSP	8
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333676	1471944566397	1471944566443	BKSP	8
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333679	1471944566520	1471944566578	BKSP	8
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333682	1471944567065	1471944567135	c	67
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333684	1471944567148	1471944567178	i	73
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333685	1471944567754	1471944567792	=	187
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333687	1471944567933	1471944568052	BKSP	8
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333688	1471944568224	1471944568324	BKSP	8
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333690	1471944569062	1471944569129	o	79
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333691	1471944569218	1471944569305	m	77
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333692	1471944569291	1471944569405	e	69
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333693	1471944569395	1471944569493	 	32
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333694	1471944569637	1471944569751	a	65
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333730	1471944569724	1471944569832	 	32
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333732	1471944570133	1471944570231	s	83
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333734	1471944570299	1471944570397	u	85
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333736	1471944570576	1471944570667	p	80
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333738	1471944570794	1471944570927	e	69
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333743	1471944570998	1471944571107	r	82
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333870	1471944572898	1471944572991	b	66
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333871	1471944573304	1471944573399	 	32
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333875	1471944573813	1471944574312	SHIFT	16
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333873	1471944574106	1471944574200	G	71
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333877	1471944574459	1471944574554	BKSP	8
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333881	1471944574625	1471944574775	SHIFT	16
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333887	1471944574731	1471944574812	F	70
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333893	1471944574903	1471944575011	a	65
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333939	1471944575024	1471944575115	n	78
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333942	1471944575660	1471944575764	t	84
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333945	1471944575789	1471944575888	a	65
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333949	1471944575920	1471944576024	y	89
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	333954	1471944576079	1471944576202	s	83
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	334169	1471944577558	1471944577639	y	89
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	334172	1471944577791	1471944577851	 	32
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	334175	1471944579455	1471944579516	BKSP	8
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	334176	1471944579608	1471944579916	BKSP	8
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	334177	1471944579982	1471944580063	BKSP	8
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	334178	1471944580134	1471944580209	BKSP	8
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	334179	1471944580668	1471944580817	s	83
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	334181	1471944580797	1471944580893	y	89
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	334184	1471944581187	1471944581219	 	32
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	334280	1471944581396	1471944581764	SHIFT	16
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	334282	1471944582041	1471944582165	w	87
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	334289	1471944582204	1471944582302	i	73
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	334294	1471944583186	1471944583266	d	68
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	334299	1471944583249	1471944583372	e	69
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	334306	1471944583933	1471944584094	o	79
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	334343	1471944584149	1471944584240	u	85
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	334346	1471944584286	1471944584361	t	84
+694	6930	In his third season, Booker has become a superb Fantasy wideout.	In his third season, Booker has become a superb Fantasy wideout.	334351	1471944584672	1471944584743	.	190
+694	6957	But thank you for the offer.	But thank you for the offer.	334520	1471944588993	1471944589235	SHIFT	16
+694	6957	But thank you for the offer.	But thank you for the offer.	334522	1471944589137	1471944589243	B	66
+694	6957	But thank you for the offer.	But thank you for the offer.	334525	1471944589295	1471944589391	u	85
+694	6957	But thank you for the offer.	But thank you for the offer.	334529	1471944589465	1471944589538	t	84
+694	6957	But thank you for the offer.	But thank you for the offer.	334534	1471944589641	1471944589731	 	32
+694	6957	But thank you for the offer.	But thank you for the offer.	334540	1471944589835	1471944589899	t	84
+694	6957	But thank you for the offer.	But thank you for the offer.	334552	1471944589969	1471944590060	h	72
+694	6957	But thank you for the offer.	But thank you for the offer.	334555	1471944590071	1471944590183	a	65
+694	6957	But thank you for the offer.	But thank you for the offer.	334559	1471944590126	1471944590224	n	78
+694	6957	But thank you for the offer.	But thank you for the offer.	334563	1471944590263	1471944590388	k	75
+694	6957	But thank you for the offer.	But thank you for the offer.	334617	1471944590378	1471944590428	s	83
+694	6957	But thank you for the offer.	But thank you for the offer.	334620	1471944590931	1471944591012	BKSP	8
+694	6957	But thank you for the offer.	But thank you for the offer.	334622	1471944591168	1471944591253	 	32
+694	6957	But thank you for the offer.	But thank you for the offer.	334624	1471944591927	1471944592018	y	89
+694	6957	But thank you for the offer.	But thank you for the offer.	334626	1471944591983	1471944592081	o	79
+694	6957	But thank you for the offer.	But thank you for the offer.	334629	1471944592117	1471944592194	u	85
+694	6957	But thank you for the offer.	But thank you for the offer.	334632	1471944592278	1471944592373	 	32
+694	6957	But thank you for the offer.	But thank you for the offer.	334678	1471944592487	1471944592591	f	70
+694	6957	But thank you for the offer.	But thank you for the offer.	334679	1471944592520	1471944592633	o	79
+694	6957	But thank you for the offer.	But thank you for the offer.	334682	1471944592636	1471944592758	r	82
+694	6957	But thank you for the offer.	But thank you for the offer.	334685	1471944592765	1471944592860	 	32
+694	6957	But thank you for the offer.	But thank you for the offer.	334687	1471944593515	1471944593577	t	84
+694	6957	But thank you for the offer.	But thank you for the offer.	334700	1471944593653	1471944593728	h	72
+694	6957	But thank you for the offer.	But thank you for the offer.	334703	1471944593789	1471944593850	e	69
+694	6957	But thank you for the offer.	But thank you for the offer.	334706	1471944594125	1471944594215	o	79
+694	6957	But thank you for the offer.	But thank you for the offer.	334710	1471944594306	1471944594374	f	70
+694	6957	But thank you for the offer.	But thank you for the offer.	334712	1471944594460	1471944594502	f	70
+694	6957	But thank you for the offer.	But thank you for the offer.	334803	1471944594561	1471944594703	e	69
+694	6957	But thank you for the offer.	But thank you for the offer.	334804	1471944594755	1471944594844	r	82
+694	6957	But thank you for the offer.	But thank you for the offer.	334806	1471944595080	1471944595163	BKSP	8
+694	6957	But thank you for the offer.	But thank you for the offer.	334807	1471944595230	1471944595284	BKSP	8
+694	6957	But thank you for the offer.	But thank you for the offer.	334809	1471944595350	1471944595416	BKSP	8
+694	6957	But thank you for the offer.	But thank you for the offer.	334813	1471944595474	1471944595545	BKSP	8
+694	6957	But thank you for the offer.	But thank you for the offer.	334816	1471944595616	1471944595674	BKSP	8
+694	6957	But thank you for the offer.	But thank you for the offer.	334822	1471944595933	1471944596038	 	32
+694	6957	But thank you for the offer.	But thank you for the offer.	334824	1471944596182	1471944596219	o	79
+694	6957	But thank you for the offer.	But thank you for the offer.	334826	1471944596562	1471944596655	f	70
+694	6957	But thank you for the offer.	But thank you for the offer.	334881	1471944596698	1471944596760	e	69
+694	6957	But thank you for the offer.	But thank you for the offer.	334886	1471944596837	1471944596988	e	69
+694	6957	But thank you for the offer.	But thank you for the offer.	334889	1471944596976	1471944597064	r	82
+694	6957	But thank you for the offer.	But thank you for the offer.	334893	1471944597558	1471944597612	BKSP	8
+694	6957	But thank you for the offer.	But thank you for the offer.	334898	1471944597690	1471944597750	BKSP	8
+694	6957	But thank you for the offer.	But thank you for the offer.	334902	1471944597937	1471944598023	BKSP	8
+694	6957	But thank you for the offer.	But thank you for the offer.	334905	1471944598250	1471944598338	f	70
+694	6957	But thank you for the offer.	But thank you for the offer.	334910	1471944598416	1471944598528	e	69
+694	6957	But thank you for the offer.	But thank you for the offer.	334933	1471944598585	1471944598669	r	82
+694	6957	But thank you for the offer.	But thank you for the offer.	334935	1471944599223	1471944599289	.	190
+694	6972	We will keep you posted.	We will keep you posted.	335298	1471944603055	1471944603279	SHIFT	16
+694	6972	We will keep you posted.	We will keep you posted.	335301	1471944603844	1471944604241	SHIFT	16
+694	6972	We will keep you posted.	We will keep you posted.	335304	1471944604178	1471944604281	W	87
+694	6972	We will keep you posted.	We will keep you posted.	335306	1471944604365	1471944604450	e	69
+694	6972	We will keep you posted.	We will keep you posted.	335309	1471944604428	1471944604468	d	68
+694	6972	We will keep you posted.	We will keep you posted.	335314	1471944604630	1471944604743	 	32
+694	6972	We will keep you posted.	We will keep you posted.	335319	1471944606185	1471944606287	BKSP	8
+694	6972	We will keep you posted.	We will keep you posted.	335324	1471944606343	1471944606431	BKSP	8
+694	6972	We will keep you posted.	We will keep you posted.	335329	1471944606632	1471944606722	 	32
+694	6972	We will keep you posted.	We will keep you posted.	335344	1471944606767	1471944606867	w	87
+694	6972	We will keep you posted.	We will keep you posted.	335348	1471944606953	1471944607033	i	73
+694	6972	We will keep you posted.	We will keep you posted.	335352	1471944607403	1471944607483	l	76
+694	6972	We will keep you posted.	We will keep you posted.	335358	1471944607558	1471944607619	l	76
+694	6972	We will keep you posted.	We will keep you posted.	335362	1471944607736	1471944607824	 	32
+694	6972	We will keep you posted.	We will keep you posted.	335394	1471944608155	1471944608266	k	75
+694	6972	We will keep you posted.	We will keep you posted.	335396	1471944608256	1471944608319	e	69
+694	6972	We will keep you posted.	We will keep you posted.	335398	1471944608410	1471944608460	e	69
+694	6972	We will keep you posted.	We will keep you posted.	335403	1471944608555	1471944608672	p	80
+694	6972	We will keep you posted.	We will keep you posted.	335407	1471944608768	1471944608854	 	32
+694	6972	We will keep you posted.	We will keep you posted.	335491	1471944609325	1471944609409	o	84
+694	6972	We will keep you posted.	We will keep you posted.	335493	1471944609548	1471944609642	u	85
+694	6972	We will keep you posted.	We will keep you posted.	335497	1471944609972	1471944610122	BKSP	8
+694	6972	We will keep you posted.	We will keep you posted.	335502	1471944610196	1471944610277	BKSP	8
+694	6972	We will keep you posted.	We will keep you posted.	335508	1471944610615	1471944610751	BKSP	8
+694	6972	We will keep you posted.	We will keep you posted.	335512	1471944610904	1471944610980	y	89
+694	6972	We will keep you posted.	We will keep you posted.	335615	1471944610964	1471944611059	o	79
+694	6972	We will keep you posted.	We will keep you posted.	335619	1471944611807	1471944611897	u	85
+694	6972	We will keep you posted.	We will keep you posted.	335625	1471944612028	1471944612122	 	32
+694	6972	We will keep you posted.	We will keep you posted.	335633	1471944612567	1471944612704	p	80
+694	6972	We will keep you posted.	We will keep you posted.	335637	1471944612971	1471944613061	o	79
+694	6972	We will keep you posted.	We will keep you posted.	335640	1471944613318	1471944613464	s	83
+694	6972	We will keep you posted.	We will keep you posted.	335679	1471944613461	1471944613544	t	84
+694	6972	We will keep you posted.	We will keep you posted.	335680	1471944613550	1471944613668	e	69
+694	6972	We will keep you posted.	We will keep you posted.	335681	1471944613735	1471944613828	d	68
+694	6972	We will keep you posted.	We will keep you posted.	335682	1471944614477	1471944614554	.	190
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	335888	1471944618602	1471944618752	SHIFT	16
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	335889	1471944618676	1471944618757	I	73
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	335893	1471944618863	1471944618964	 	32
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	335896	1471944618956	1471944619028	a	65
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	335897	1471944619055	1471944619167	m	77
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	335899	1471944619251	1471944619328	 	32
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336025	1471944619913	1471944619942	j	74
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336027	1471944620327	1471944620452	BKSP	8
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336028	1471944620489	1471944620565	h	72
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336030	1471944620549	1471944620643	o	79
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336031	1471944620753	1471944620803	i	73
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336032	1471944621811	1471944621903	BKSP	8
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336033	1471944622408	1471944622488	p	80
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336088	1471944622602	1471944622663	i	73
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336092	1471944622771	1471944622846	n	78
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336100	1471944622923	1471944623028	g	71
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336105	1471944623034	1471944623137	 	32
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336188	1471944623642	1471944623723	y	84
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336190	1471944623735	1471944623802	p	80
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336193	1471944624156	1471944624242	BKSP	8
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336196	1471944624298	1471944624378	BKSP	8
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336199	1471944624502	1471944624562	o	79
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336201	1471944624955	1471944625082	 	32
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336207	1471944625117	1471944625215	c	67
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336211	1471944625280	1471944625365	o	79
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336238	1471944625488	1471944625577	m	77
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336240	1471944625758	1471944625843	p	80
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336242	1471944625907	1471944626013	l	76
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336246	1471944626007	1471944626148	e	69
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336252	1471944626217	1471944626307	t	84
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336293	1471944626312	1471944626408	e	69
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336295	1471944626467	1471944626522	 	32
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336300	1471944626948	1471944627046	t	84
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336303	1471944627103	1471944627175	h	72
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336338	1471944627130	1471944627211	e	69
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336343	1471944627261	1471944627335	m	77
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336349	1471944627416	1471944627497	 	32
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336353	1471944627710	1471944627809	t	84
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336359	1471944627797	1471944627895	o	79
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336363	1471944627981	1471944628089	d	68
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336396	1471944628208	1471944628321	a	65
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336398	1471944628259	1471944628367	y	89
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336400	1471944628498	1471944628588	 	32
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336402	1471944628827	1471944628944	o	79
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336404	1471944628981	1471944629072	r	82
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336443	1471944629082	1471944629176	 	32
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336446	1471944629349	1471944629436	t	84
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336448	1471944629415	1471944629511	o	79
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336450	1471944629576	1471944629669	m	77
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336452	1471944629937	1471944630025	o	79
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336521	1471944630152	1471944630252	r	82
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336535	1471944630381	1471944630467	r	82
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336545	1471944630508	1471944630620	o	79
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336552	1471944630633	1471944630723	w	87
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336555	1471944630780	1471944630863	 	32
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336642	1471944631566	1471944631670	m	77
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336645	1471944631739	1471944631848	o	79
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336652	1471944631835	1471944631945	r	82
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336658	1471944632308	1471944632405	n	78
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336663	1471944632461	1471944632518	u	85
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336696	1471944632587	1471944632705	n	78
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336700	1471944632709	1471944632765	g	71
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336703	1471944633361	1471944633431	BKSP	8
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336707	1471944633496	1471944633548	BKSP	8
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336711	1471944633602	1471944633679	BKSP	8
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336716	1471944634078	1471944634179	i	73
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336722	1471944634278	1471944634374	n	78
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336727	1471944634435	1471944634533	g	71
+694	6986	I am hoping to complete them today or tomorrow morning.	I am hoping to complete them today or tomorrow morning.	336734	1471944634701	1471944634782	.	190
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336878	1471944638477	1471944638716	SHIFT	16
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336880	1471944638645	1471944638735	I	73
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336883	1471944638843	1471944638939	 	32
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336887	1471944638941	1471944639021	s	83
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336890	1471944639101	1471944639166	e	69
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336893	1471944639242	1471944639320	e	69
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336897	1471944639453	1471944639553	 	32
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336899	1471944639802	1471944639906	s	83
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336903	1471944639825	1471944639938	o	79
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336907	1471944640001	1471944640094	m	77
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336949	1471944640051	1471944640170	e	69
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336950	1471944640201	1471944640291	 	32
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336952	1471944640943	1471944641048	v	86
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336954	1471944641014	1471944641140	l	76
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336956	1471944641622	1471944641713	BKSP	8
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336961	1471944641799	1471944641866	o	79
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336965	1471944641957	1471944642041	l	76
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336985	1471944642147	1471944642213	u	85
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336987	1471944642310	1471944642394	m	77
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336988	1471944642411	1471944642512	e	69
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336989	1471944642527	1471944642618	 	32
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	336990	1471944643147	1471944643230	r	82
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337055	1471944643304	1471944643417	e	69
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337061	1471944643539	1471944643629	v	86
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337065	1471944643644	1471944643807	e	69
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337069	1471944643827	1471944643899	r	82
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337074	1471944645138	1471944645234	s	83
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337081	1471944645219	1471944645311	i	73
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337083	1471944645409	1471944645501	n	78
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337085	1471944645587	1471944645678	g	71
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337087	1471944645756	1471944645853	 	32
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337089	1471944646118	1471944646222	i	73
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337090	1471944646287	1471944646357	n	78
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337104	1471944646430	1471944646530	 	32
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337110	1471944646473	1471944646576	t	84
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337115	1471944646584	1471944646693	h	72
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337121	1471944646725	1471944646831	e	69
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337125	1471944646872	1471944646965	 	32
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337167	1471944647236	1471944647321	 	32
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337169	1471944647770	1471944647861	BKSP	8
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337173	1471944647967	1471944648065	s	83
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337175	1471944648423	1471944648522	y	89
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337178	1471944648813	1471944648903	s	83
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337180	1471944648996	1471944649088	t	84
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337210	1471944649080	1471944649178	e	69
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337212	1471944649247	1471944649360	m	77
+694	7001	I see some volume reversing in the system.	I see some volume reversing in the system.	337214	1471944650022	1471944650084	.	190
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337356	1471944653728	1471944654162	SHIFT	16
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337358	1471944654145	1471944654259	W	87
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337360	1471944654253	1471944654343	h	72
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337363	1471944654374	1471944654481	a	65
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337367	1471944654444	1471944654509	t	84
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337370	1471944654610	1471944654689	 	32
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337386	1471944654735	1471944654840	h	72
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337388	1471944654815	1471944654909	a	65
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337391	1471944654970	1471944655044	p	80
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337394	1471944655115	1471944655191	p	80
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337397	1471944655226	1471944655349	e	69
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337448	1471944655342	1471944655465	n	78
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337451	1471944655791	1471944655919	e	69
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337456	1471944655908	1471944655973	c	67
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337459	1471944656271	1471944656356	BKSP	8
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337463	1471944656399	1471944656480	d	68
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337466	1471944656511	1471944656588	 	32
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337468	1471944656837	1471944656945	t	84
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337489	1471944656925	1471944657022	o	79
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337492	1471944657130	1471944657212	 	32
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337494	1471944657530	1471944657615	t	84
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337498	1471944657686	1471944657757	h	72
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337502	1471944657709	1471944657818	e	69
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337504	1471944657843	1471944657934	 	32
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337517	1471944658096	1471944658210	g	71
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337519	1471944658184	1471944658301	u	85
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337521	1471944658331	1471944658421	y	89
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337523	1471944658525	1471944658615	 	32
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337526	1471944658867	1471944658969	w	87
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337554	1471944658906	1471944659048	i	73
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337556	1471944659132	1471944659209	t	84
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337558	1471944659307	1471944659372	h	72
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337560	1471944659478	1471944659565	 	32
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337565	1471944659774	1471944659868	t	84
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337568	1471944659933	1471944660008	h	72
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337610	1471944659993	1471944660091	e	69
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337611	1471944660099	1471944660175	 	32
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337612	1471944660259	1471944660347	o	79
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337614	1471944660370	1471944660468	a	65
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337616	1471944660564	1471944660679	p	80
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337619	1471944660860	1471944660933	BKSP	8
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337623	1471944660998	1471944661060	BKSP	8
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337627	1471944661131	1471944661206	BKSP	8
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337631	1471944661507	1471944661628	p	80
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337672	1471944661597	1471944661675	a	65
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337673	1471944662057	1471944662179	p	80
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337674	1471944662196	1471944662397	e	69
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337675	1471944662377	1471944662434	r	82
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337677	1471944662741	1471944662826	 	32
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337681	1471944663137	1471944663249	t	84
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337707	1471944663210	1471944663310	o	79
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337710	1471944663384	1471944663494	 	32
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337712	1471944663725	1471944663835	i	83
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337716	1471944663935	1471944664040	n	78
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337721	1471944664144	1471944664224	g	71
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337776	1471944664897	1471944664971	BKSP	8
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337777	1471944665038	1471944665130	BKSP	8
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337779	1471944665600	1471944665657	g	71
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337781	1471944665749	1471944665817	n	78
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337783	1471944665930	1471944666164	SHIFT	16
+694	7016	What happened to the guy with the paper to sign?	What happened to the guy with the paper to sign?	337785	1471944666079	1471944666172	?	191
+694	7029	Trip was good I presume?	Trip was good i presume?	337910	1471944670563	1471944670952	SHIFT	16
+694	7029	Trip was good I presume?	Trip was good i presume?	337909	1471944670911	1471944670946	T	84
+694	7029	Trip was good I presume?	Trip was good i presume?	337911	1471944671096	1471944671176	r	82
+694	7029	Trip was good I presume?	Trip was good i presume?	337912	1471944671282	1471944671384	i	73
+694	7029	Trip was good I presume?	Trip was good i presume?	337913	1471944671464	1471944671562	p	80
+694	7029	Trip was good I presume?	Trip was good i presume?	337914	1471944671683	1471944671764	 	32
+694	7029	Trip was good I presume?	Trip was good i presume?	337984	1471944672065	1471944672173	w	87
+694	7029	Trip was good I presume?	Trip was good i presume?	337987	1471944672278	1471944672348	a	65
+694	7029	Trip was good I presume?	Trip was good i presume?	337991	1471944672437	1471944672536	s	83
+694	7029	Trip was good I presume?	Trip was good i presume?	337994	1471944672558	1471944672651	 	32
+694	7029	Trip was good I presume?	Trip was good i presume?	337997	1471944673120	1471944673211	g	71
+694	7029	Trip was good I presume?	Trip was good i presume?	338044	1471944673148	1471944673249	o	79
+694	7029	Trip was good I presume?	Trip was good i presume?	338047	1471944673322	1471944673389	o	79
+694	7029	Trip was good I presume?	Trip was good i presume?	338048	1471944673439	1471944673494	o	79
+694	7029	Trip was good I presume?	Trip was good i presume?	338050	1471944673782	1471944673848	d	68
+694	7029	Trip was good I presume?	Trip was good i presume?	338054	1471944673958	1471944674011	 	32
+694	7029	Trip was good I presume?	Trip was good i presume?	338058	1471944674182	1471944674251	BKSP	8
+694	7029	Trip was good I presume?	Trip was good i presume?	338063	1471944674320	1471944674385	BKSP	8
+694	7029	Trip was good I presume?	Trip was good i presume?	338070	1471944674443	1471944674509	BKSP	8
+694	7029	Trip was good I presume?	Trip was good i presume?	338075	1471944674960	1471944675049	d	68
+694	7029	Trip was good I presume?	Trip was good i presume?	338131	1471944675061	1471944675175	 	32
+694	7029	Trip was good I presume?	Trip was good i presume?	338133	1471944675664	1471944675740	i	73
+694	7029	Trip was good I presume?	Trip was good i presume?	338134	1471944675865	1471944675953	 	32
+694	7029	Trip was good I presume?	Trip was good i presume?	338136	1471944676189	1471944676286	p	80
+694	7029	Trip was good I presume?	Trip was good i presume?	338139	1471944676995	1471944677074	r	82
+694	7029	Trip was good I presume?	Trip was good i presume?	338200	1471944677118	1471944677225	e	69
+694	7029	Trip was good I presume?	Trip was good i presume?	338203	1471944678700	1471944678811	s	83
+694	7029	Trip was good I presume?	Trip was good i presume?	338206	1471944678773	1471944678872	u	85
+694	7029	Trip was good I presume?	Trip was good i presume?	338209	1471944678942	1471944679050	e	69
+694	7029	Trip was good I presume?	Trip was good i presume?	338267	1471944678964	1471944679078	m	77
+694	7029	Trip was good I presume?	Trip was good i presume?	338269	1471944679889	1471944679958	BKSP	8
+694	7029	Trip was good I presume?	Trip was good i presume?	338274	1471944680032	1471944680080	BKSP	8
+694	7029	Trip was good I presume?	Trip was good i presume?	338275	1471944680388	1471944680489	m	77
+694	7029	Trip was good I presume?	Trip was good i presume?	338278	1471944680495	1471944680580	e	69
+694	7029	Trip was good I presume?	Trip was good i presume?	338285	1471944680838	1471944680989	SHIFT	16
+694	7029	Trip was good I presume?	Trip was good i presume?	338281	1471944680866	1471944680941	?	191
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338474	1471944684824	1471944685123	SHIFT	16
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338475	1471944685076	1471944685158	S	83
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338476	1471944685207	1471944685313	h	72
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338477	1471944685434	1471944685542	a	65
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338478	1471944685612	1471944685694	i	73
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338479	1471944686735	1471944686805	l	76
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338572	1471944687004	1471944687112	 	32
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338574	1471944687408	1471944687503	BKSP	8
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338576	1471944687533	1471944687601	a	65
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338577	1471944687662	1471944687764	 	32
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338578	1471944688175	1471944688249	p	80
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338579	1471944688306	1471944688404	l	76
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338597	1471944688437	1471944688528	e	69
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338600	1471944688647	1471944688794	a	65
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338602	1471944688795	1471944688941	s	83
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338605	1471944688999	1471944689150	e	69
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338653	1471944689119	1471944689208	 	32
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338655	1471944689723	1471944689804	t	84
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338658	1471944689953	1471944690086	a	65
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338661	1471944689986	1471944690132	l	76
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338665	1471944690120	1471944690206	k	75
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338667	1471944690319	1471944690394	 	32
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338706	1471944690702	1471944690801	t	84
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338708	1471944690771	1471944690876	o	79
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338711	1471944690954	1471944691050	 	32
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338712	1471944691348	1471944691582	SHIFT	16
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338713	1471944691505	1471944691623	A	65
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338714	1471944691780	1471944691893	v	86
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338752	1471944692017	1471944692138	a	65
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338753	1471944692320	1471944692428	s	83
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338754	1471944692412	1471944692508	h	72
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338755	1471944692519	1471944692610	e	69
+694	7039	Sheila please talk to Avashe.	Shaila please talk to Avashe.	338756	1471944693245	1471944693319	.	190
+694	7046	Thank you for your support.	Thank you for your support.	338938	1471944697050	1471944697287	SHIFT	16
+694	7046	Thank you for your support.	Thank you for your support.	338940	1471944697211	1471944697298	T	84
+694	7046	Thank you for your support.	Thank you for your support.	338942	1471944697398	1471944697504	h	65
+694	7046	Thank you for your support.	Thank you for your support.	338945	1471944697537	1471944697625	n	78
+694	7046	Thank you for your support.	Thank you for your support.	338948	1471944697689	1471944697805	k	75
+694	7046	Thank you for your support.	Thank you for your support.	338999	1471944697885	1471944697979	 	32
+694	7046	Thank you for your support.	Thank you for your support.	339002	1471944698355	1471944698448	BKSP	8
+694	7046	Thank you for your support.	Thank you for your support.	339005	1471944698518	1471944698569	BKSP	8
+694	7046	Thank you for your support.	Thank you for your support.	339008	1471944698632	1471944698703	BKSP	8
+694	7046	Thank you for your support.	Thank you for your support.	339010	1471944698766	1471944698804	BKSP	8
+694	7046	Thank you for your support.	Thank you for your support.	339013	1471944698872	1471944698945	BKSP	8
+694	7046	Thank you for your support.	Thank you for your support.	339015	1471944699297	1471944699385	h	72
+694	7046	Thank you for your support.	Thank you for your support.	339017	1471944699431	1471944699537	a	65
+694	7046	Thank you for your support.	Thank you for your support.	339019	1471944699472	1471944699546	n	78
+694	7046	Thank you for your support.	Thank you for your support.	339021	1471944699567	1471944699670	k	75
+694	7046	Thank you for your support.	Thank you for your support.	339033	1471944699729	1471944699810	 	32
+694	7046	Thank you for your support.	Thank you for your support.	339035	1471944699985	1471944700104	y	89
+694	7046	Thank you for your support.	Thank you for your support.	339037	1471944700021	1471944700136	o	79
+694	7046	Thank you for your support.	Thank you for your support.	339039	1471944700163	1471944700260	u	85
+694	7046	Thank you for your support.	Thank you for your support.	339042	1471944700366	1471944700457	 	32
+694	7046	Thank you for your support.	Thank you for your support.	339098	1471944701044	1471944701144	f	70
+694	7046	Thank you for your support.	Thank you for your support.	339102	1471944701082	1471944701200	o	79
+694	7046	Thank you for your support.	Thank you for your support.	339105	1471944701179	1471944701291	r	82
+694	7046	Thank you for your support.	Thank you for your support.	339108	1471944701300	1471944701395	 	32
+694	7046	Thank you for your support.	Thank you for your support.	339110	1471944701586	1471944701672	y	89
+694	7046	Thank you for your support.	Thank you for your support.	339122	1471944701738	1471944701864	o	79
+694	7046	Thank you for your support.	Thank you for your support.	339124	1471944701883	1471944701981	u	85
+694	7046	Thank you for your support.	Thank you for your support.	339126	1471944701975	1471944702088	r	82
+694	7046	Thank you for your support.	Thank you for your support.	339129	1471944702187	1471944702290	s	83
+694	7046	Thank you for your support.	Thank you for your support.	339132	1471944702311	1471944702406	 	32
+694	7046	Thank you for your support.	Thank you for your support.	339199	1471944703169	1471944703216	BKSP	8
+694	7046	Thank you for your support.	Thank you for your support.	339202	1471944703305	1471944703345	BKSP	8
+694	7046	Thank you for your support.	Thank you for your support.	339205	1471944703804	1471944703890	 	32
+694	7046	Thank you for your support.	Thank you for your support.	339208	1471944704041	1471944704132	s	83
+694	7046	Thank you for your support.	Thank you for your support.	339212	1471944704411	1471944704496	u	85
+694	7046	Thank you for your support.	Thank you for your support.	339214	1471944704653	1471944704730	p	80
+694	7046	Thank you for your support.	Thank you for your support.	339217	1471944704801	1471944704902	p	80
+694	7046	Thank you for your support.	Thank you for your support.	339280	1471944704950	1471944705031	o	79
+694	7046	Thank you for your support.	Thank you for your support.	339282	1471944705438	1471944705510	r	82
+694	7046	Thank you for your support.	Thank you for your support.	339285	1471944705531	1471944705627	t	84
+694	7046	Thank you for your support.	Thank you for your support.	339287	1471944706685	1471944706761	.	190
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339465	1471944710726	1471944710890	SHIFT	16
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339466	1471944710815	1471944710916	H	72
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339468	1471944711007	1471944711070	a	65
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339471	1471944711347	1471944711456	BKSP	8
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339474	1471944711476	1471944711579	e	69
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339476	1471944711615	1471944711673	 	32
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339480	1471944712326	1471944712374	a	65
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339522	1471944712362	1471944712480	l	76
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339525	1471944712526	1471944712654	s	83
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339528	1471944712619	1471944712741	o	79
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339532	1471944712849	1471944712924	 	32
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339535	1471944713491	1471944713625	s	83
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339538	1471944713656	1471944713746	u	85
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339549	1471944714077	1471944714144	g	71
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339550	1471944714208	1471944714276	g	71
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339552	1471944714269	1471944714355	e	69
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339554	1471944714467	1471944714587	s	83
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339629	1471944714534	1471944714688	t	84
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339632	1471944714807	1471944714897	e	69
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339636	1471944714996	1471944715079	d	68
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339642	1471944715102	1471944715215	 	32
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339646	1471944716169	1471944716265	i	73
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339647	1471944716389	1471944716493	t	84
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339676	1471944716563	1471944716654	 	32
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339680	1471944716915	1471944717023	w	87
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339685	1471944716980	1471944717115	o	79
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339690	1471944717128	1471944717232	i	73
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339693	1471944717629	1471944717681	\	220
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339769	1471944717924	1471944717981	BKSP	8
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339772	1471944718058	1471944718153	BKSP	8
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339776	1471944718525	1471944718598	u	85
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339781	1471944718729	1471944718865	l	76
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339786	1471944718923	1471944719031	d	68
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339792	1471944719001	1471944719097	 	32
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339797	1471944719733	1471944719837	s	83
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339842	1471944719888	1471944720016	e	69
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339845	1471944719949	1471944720031	n	78
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339848	1471944720132	1471944720213	 	32
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339853	1471944720564	1471944720639	BKSP	8
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339857	1471944720841	1471944720935	d	68
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339861	1471944720983	1471944721079	 	32
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339905	1471944721231	1471944721348	a	65
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339906	1471944721425	1471944721497	 	32
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339907	1471944721723	1471944721790	s	83
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339908	1471944722053	1471944722139	BKSP	8
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339909	1471944722171	1471944722273	c	67
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	339910	1471944722283	1471944722392	k	75
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340026	1471944722830	1471944722910	BKSP	8
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340027	1471944723302	1471944723332	o	79
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340029	1471944723430	1471944723467	o	79
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340033	1471944723868	1471944723964	BKSP	8
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340036	1471944724377	1471944724495	n	78
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340039	1471944724656	1471944724759	f	70
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340042	1471944725294	1471944725375	i	73
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340110	1471944725714	1471944725804	BKSP	8
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340111	1471944726077	1471944726162	l	76
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340113	1471944726242	1471944726326	i	73
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340116	1471944727401	1471944727528	c	67
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340119	1471944727691	1471944727781	t	84
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340173	1471944727771	1471944727866	i	73
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340175	1471944727941	1471944728019	n	78
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340177	1471944728150	1471944728245	g	71
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340178	1471944728282	1471944728378	 	32
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340179	1471944728769	1471944728874	m	77
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340180	1471944728910	1471944729003	e	69
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340215	1471944729147	1471944729195	s	83
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340218	1471944729269	1471944729346	s	83
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340221	1471944729550	1471944729677	a	65
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340226	1471944729760	1471944729867	g	71
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340261	1471944729861	1471944729961	e	69
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340262	1471944730017	1471944730106	 	32
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340263	1471944730486	1471944730561	t	84
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340264	1471944730569	1471944730664	o	79
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340265	1471944730752	1471944730840	 	32
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340335	1471944730850	1471944731049	SHIFT	16
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340266	1471944730968	1471944731043	G	71
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340338	1471944731301	1471944731398	e	69
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340341	1471944731803	1471944731891	n	78
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340344	1471944732889	1471944732995	e	69
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340347	1471944732996	1471944733071	v	86
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340349	1471944733202	1471944733296	a	65
+694	7059	He also suggested it would send a conflicting message to Geneva.	He also suggested it would send a conflicting message to Geneva.	340355	1471944733581	1471944733653	.	190
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340547	1471944737470	1471944737763	SHIFT	16
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340549	1471944737685	1471944737793	S	83
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340551	1471944737755	1471944737871	U	85
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340553	1471944737942	1471944738027	n	78
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340556	1471944738121	1471944738205	 	32
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340558	1471944738414	1471944738724	SHIFT	16
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340644	1471944738654	1471944738740	J	74
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340647	1471944738809	1471944738910	i	73
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340649	1471944739037	1471944739127	a	65
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340651	1471944740124	1471944740243	z	90
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340654	1471944740249	1471944740332	h	72
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340657	1471944740357	1471944740465	e	69
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340710	1471944740474	1471944740558	n	78
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340712	1471944740657	1471944740738	g	71
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340714	1471944741083	1471944741197	 	32
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340715	1471944741622	1471944741727	BKSP	8
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340716	1471944741897	1471944741962	,	188
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340720	1471944742078	1471944742147	 	32
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340777	1471944742929	1471944743005	5	53
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340780	1471944743045	1471944743159	0	48
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340784	1471944743732	1471944743805	,	188
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340789	1471944743956	1471944744027	 	32
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340795	1471944744592	1471944744688	t	84
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340840	1471944744757	1471944744870	a	65
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340843	1471944744896	1471944745010	k	75
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340846	1471944745959	1471944746066	e	69
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340848	1471944746148	1471944746233	s	83
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340850	1471944746239	1471944746333	 	32
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340884	1471944746650	1471944746743	o	79
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340887	1471944746864	1471944746920	v	86
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340891	1471944746892	1471944747040	e	69
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340895	1471944747029	1471944747117	r	82
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340898	1471944747134	1471944747228	 	32
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340932	1471944747604	1471944747702	a	65
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340934	1471944747816	1471944747891	s	83
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340936	1471944747899	1471944747993	 	32
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340938	1471944748460	1471944748564	t	84
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340940	1471944748940	1471944749020	BKSP	8
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	340941	1471944749031	1471944749099	r	82
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341024	1471944749235	1471944749366	a	65
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341025	1471944749564	1471944749658	d	68
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341026	1471944749620	1471944749725	i	73
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341028	1471944749807	1471944749962	l	76
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341030	1471944750474	1471944750584	BKSP	8
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341032	1471944751252	1471944751333	o	79
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341066	1471944752043	1471944752128	,	188
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341067	1471944752224	1471944752325	 	32
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341069	1471944752429	1471944752529	f	70
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341071	1471944752523	1471944752631	i	73
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341073	1471944752762	1471944752898	l	76
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341094	1471944752943	1471944753024	m	77
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341097	1471944753121	1471944753211	 	32
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341101	1471944753355	1471944753482	a	65
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341105	1471944753416	1471944753534	n	78
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341108	1471944753645	1471944753762	d	68
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341169	1471944753845	1471944753953	 	32
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341170	1471944754514	1471944754623	r	82
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341172	1471944754868	1471944754997	BKSP	8
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341173	1471944755001	1471944755067	t	84
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341174	1471944755172	1471944755258	e	69
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341175	1471944755334	1471944755432	l	76
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341211	1471944755562	1471944755634	e	69
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341213	1471944756067	1471944756169	v	86
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341216	1471944756566	1471944756664	i	73
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341218	1471944756735	1471944756816	s	83
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341241	1471944756768	1471944756844	o	79
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341243	1471944756955	1471944757052	n	78
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341245	1471944757197	1471944757287	 	32
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341247	1471944757848	1471944757934	m	77
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341248	1471944758045	1471944758110	i	73
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341249	1471944758197	1471944758289	n	78
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341293	1471944759754	1471944759864	i	73
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341295	1471944759988	1471944760119	s	83
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341297	1471944760290	1471944760417	t	84
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341302	1471944760379	1471944760550	e	69
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341318	1471944760531	1471944760623	r	82
+694	7077	Sun Jiazheng, 50, takes over as radio, film and television minister.	SUn Jiazheng, 50, takes over as radio, film and televison minister.	341323	1471944760793	1471944760886	.	190

@@ -1,0 +1,709 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+825	8113	We had a great time!	We had a great time!	389498	1471945971768	1471945972153	SHIFT	16
+825	8113	We had a great time!	We had a great time!	389500	1471945972073	1471945972232	W	87
+825	8113	We had a great time!	We had a great time!	389504	1471945972421	1471945972540	e	69
+825	8113	We had a great time!	We had a great time!	389508	1471945972614	1471945972733	 	32
+825	8113	We had a great time!	We had a great time!	389511	1471945972846	1471945972927	h	72
+825	8113	We had a great time!	We had a great time!	389514	1471945972965	1471945973123	a	65
+825	8113	We had a great time!	We had a great time!	389552	1471945973235	1471945973354	d	68
+825	8113	We had a great time!	We had a great time!	389553	1471945973391	1471945973510	 	32
+825	8113	We had a great time!	We had a great time!	389554	1471945973586	1471945973705	a	65
+825	8113	We had a great time!	We had a great time!	389555	1471945973708	1471945973822	 	32
+825	8113	We had a great time!	We had a great time!	389556	1471945973973	1471945974054	g	71
+825	8113	We had a great time!	We had a great time!	389576	1471945974167	1471945974247	r	82
+825	8113	We had a great time!	We had a great time!	389580	1471945974328	1471945974409	e	69
+825	8113	We had a great time!	We had a great time!	389583	1471945974484	1471945974641	a	65
+825	8113	We had a great time!	We had a great time!	389587	1471945974599	1471945974720	t	84
+825	8113	We had a great time!	We had a great time!	389590	1471945974756	1471945974875	 	32
+825	8113	We had a great time!	We had a great time!	389629	1471945974988	1471945975069	t	84
+825	8113	We had a great time!	We had a great time!	389632	1471945975449	1471945975529	i	73
+825	8113	We had a great time!	We had a great time!	389636	1471945975642	1471945975761	m	77
+825	8113	We had a great time!	We had a great time!	389639	1471945975912	1471945976031	e	69
+825	8113	We had a great time!	We had a great time!	389641	1471945976296	1471945976532	SHIFT	16
+825	8113	We had a great time!	We had a great time!	389657	1471945976526	1471945976608	!	49
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	389922	1471945982934	1471945983205	SHIFT	16
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	389925	1471945983125	1471945983322	C	67
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	389928	1471945983435	1471945983477	k	75
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	389931	1471945983819	1471945983900	BKSP	8
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	389934	1471945984089	1471945984170	l	76
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	389939	1471945984282	1471945984363	i	73
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	389943	1471945984476	1471945984567	n	78
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	389959	1471945984756	1471945984875	t	84
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	389961	1471945984911	1471945984992	o	79
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	389963	1471945985143	1471945985224	n	78
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	389964	1471945985298	1471945985418	 	32
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	389965	1471945985568	1471945985649	o	79
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	389974	1471945985762	1471945985842	n	78
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	389975	1471945985917	1471945986017	 	32
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	389976	1471945986168	1471945986287	t	84
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	389977	1471945986361	1471945986480	h	72
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	389979	1471945986516	1471945986635	e	69
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390013	1471945986638	1471945986715	 	32
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390015	1471945986942	1471945987022	o	79
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390019	1471945987250	1471945987330	t	84
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390023	1471945987443	1471945987524	h	72
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390027	1471945987560	1471945987756	e	69
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390039	1471945987675	1471945987835	r	82
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390044	1471945987759	1471945987841	 	32
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390049	1471945987988	1471945988069	h	72
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390053	1471945988144	1471945988300	a	65
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390055	1471945988303	1471945988380	n	78
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390057	1471945988422	1471945988541	d	68
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390164	1471945989228	1471945989271	,	188
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390165	1471945989727	1471945989808	 	32
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390167	1471945991415	1471945991495	h	72
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390169	1471945991608	1471945991842	a	65
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390230	1471945991761	1471945991921	d	68
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390232	1471945991957	1471945992076	 	32
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390234	1471945992417	1471945992497	b	66
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390236	1471945992535	1471945992654	a	65
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390238	1471945992690	1471945992771	c	67
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390240	1471945992998	1471945993079	j	74
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390307	1471945993420	1471945993501	BKSP	8
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390310	1471945993728	1471945993809	k	75
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390315	1471945993884	1471945994003	e	69
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390319	1471945994115	1471945994196	d	68
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390322	1471945994270	1471945994370	 	32
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390325	1471945995249	1471945995368	q	81
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390371	1471945995442	1471945995523	 	32
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390377	1471945995788	1471945995869	BKSP	8
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390381	1471945995982	1471945996061	BKSP	8
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390386	1471945996099	1471945996218	a	65
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390389	1471945996254	1471945996335	 	32
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390392	1471945996448	1471945996529	p	80
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390394	1471945996641	1471945996722	l	76
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390446	1471945996835	1471945996916	a	65
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390451	1471945996990	1471945997071	n	78
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390455	1471945997164	1471945997245	 	32
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390460	1471945998047	1471945998166	t	84
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390466	1471945998202	1471945998283	o	79
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390508	1471945998396	1471945998553	 	32
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390512	1471945999048	1471945999167	c	67
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390516	1471945999394	1471945999475	o	79
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390521	1471945999702	1471945999783	n	78
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390525	1471946000086	1471946000205	v	86
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390563	1471946000434	1471946000513	i	73
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390566	1471946000702	1471946000783	n	78
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390569	1471946001010	1471946001091	c	67
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390570	1471946001127	1471946001284	e	69
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390571	1471946001359	1471946001440	 	32
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390722	1471946002433	1471946003366	SHIFT	16
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390725	1471946003285	1471946003406	E	69
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390728	1471946003595	1471946003676	u	85
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390731	1471946003980	1471946004099	r	82
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390735	1471946004326	1471946004407	o	79
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390739	1471946004519	1471946004600	p	80
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390765	1471946004904	1471946005022	e	69
+825	8121	Clinton on the other hand, had backed a plan to convince Europe.	Clinton on the other hand, had backed a plan to convince Europe.	390767	1471946005250	1471946005330	.	190
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391140	1471946012308	1471946012694	SHIFT	16
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391142	1471946012614	1471946012735	I	73
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391143	1471946012809	1471946012928	 	32
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391144	1471946013079	1471946013160	t	84
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391145	1471946013273	1471946013353	h	72
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391146	1471946013504	1471946013585	i	73
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391202	1471946013698	1471946013779	n	78
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391204	1471946013929	1471946014010	k	75
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391210	1471946014104	1471946014223	 	32
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391214	1471946014335	1471946014416	i	73
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391218	1471946014567	1471946014685	t	84
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391233	1471946014689	1471946014803	 	32
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391234	1471946014916	1471946015035	s	83
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391236	1471946015071	1471946015152	h	72
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391238	1471946015379	1471946015460	o	79
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391239	1471946015611	1471946015692	u	85
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391286	1471946015842	1471946015923	l	76
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391289	1471946015998	1471946016117	d	68
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391294	1471946016075	1471946016196	 	32
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391298	1471946016308	1471946016389	b	66
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391303	1471946016426	1471946016563	e	69
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391411	1471946016566	1471946016643	 	32
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391414	1471946016908	1471946017027	f	70
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391419	1471946017102	1471946017182	i	73
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391424	1471946017409	1471946017490	v	86
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391429	1471946017756	1471946017874	BKSP	8
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391433	1471946019482	1471946019562	x	88
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391460	1471946019637	1471946019756	e	69
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391463	1471946019869	1471946019949	d	68
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391466	1471946020024	1471946020143	 	32
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391470	1471946020332	1471946020385	n	78
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391473	1471946020574	1471946020655	o	79
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391544	1471946020730	1471946020810	w	87
+825	8144	I think it should be fixed now.	I think it should be fixed now.	391547	1471946021228	1471946021309	.	190
+825	8159	I just finished faxing everything.	I just finished faxing everything.	391868	1471946028055	1471946028365	SHIFT	16
+825	8159	I just finished faxing everything.	I just finished faxing everything.	391869	1471946028285	1471946028406	I	73
+825	8159	I just finished faxing everything.	I just finished faxing everything.	391870	1471946028480	1471946028600	 	32
+825	8159	I just finished faxing everything.	I just finished faxing everything.	391871	1471946028674	1471946028755	j	74
+825	8159	I just finished faxing everything.	I just finished faxing everything.	391872	1471946028868	1471946028948	u	85
+825	8159	I just finished faxing everything.	I just finished faxing everything.	391875	1471946029023	1471946029104	s	83
+825	8159	I just finished faxing everything.	I just finished faxing everything.	391931	1471946029178	1471946029259	t	84
+825	8159	I just finished faxing everything.	I just finished faxing everything.	391933	1471946029334	1471946029452	 	32
+825	8159	I just finished faxing everything.	I just finished faxing everything.	391934	1471946029680	1471946029760	f	70
+825	8159	I just finished faxing everything.	I just finished faxing everything.	391935	1471946029873	1471946029954	i	73
+825	8159	I just finished faxing everything.	I just finished faxing everything.	391936	1471946030717	1471946030798	n	78
+825	8159	I just finished faxing everything.	I just finished faxing everything.	391992	1471946030911	1471946030991	i	73
+825	8159	I just finished faxing everything.	I just finished faxing everything.	391996	1471946031147	1471946031266	s	83
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392001	1471946031378	1471946031459	h	72
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392003	1471946031502	1471946031621	e	69
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392007	1471946031733	1471946031814	d	68
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392121	1471946031889	1471946032008	 	32
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392124	1471946032311	1471946032430	f	70
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392127	1471946032733	1471946032852	a	65
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392130	1471946033616	1471946033697	x	88
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392134	1471946033733	1471946033814	i	73
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392158	1471946033927	1471946034007	n	78
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392162	1471946034158	1471946034239	g	71
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392165	1471946034276	1471946034356	 	32
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392168	1471946034736	1471946034855	e	69
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392172	1471946034891	1471946034972	v	86
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392211	1471946035047	1471946035165	e	69
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392213	1471946035168	1471946035245	r	82
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392215	1471946035434	1471946035515	y	89
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392217	1471946035627	1471946035708	t	84
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392219	1471946035821	1471946035940	h	72
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392273	1471946036320	1471946036400	i	73
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392275	1471946036551	1471946036632	n	78
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392277	1471946036744	1471946036825	g	71
+825	8159	I just finished faxing everything.	I just finished faxing everything.	392280	1471946037282	1471946037362	.	190
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392555	1471946044532	1471946044804	SHIFT	16
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392556	1471946044723	1471946044844	I	73
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392559	1471946044957	1471946045076	t	84
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392561	1471946045150	1471946045269	 	32
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392563	1471946045344	1471946045425	i	73
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392565	1471946045499	1471946045618	s	83
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392622	1471946045655	1471946045735	 	32
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392626	1471946046001	1471946046082	v	86
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392629	1471946046194	1471946046275	e	69
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392631	1471946046350	1471946046430	r	82
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392633	1471946046581	1471946046662	y	89
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392664	1471946046775	1471946046874	 	32
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392667	1471946047064	1471946047144	u	85
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392668	1471946047257	1471946047376	n	78
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392670	1471946047527	1471946047608	l	76
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392672	1471946047758	1471946047839	i	73
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392752	1471946048143	1471946048223	k	75
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392753	1471946048413	1471946048531	e	69
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392754	1471946048568	1471946048649	l	76
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392755	1471946048876	1471946048957	y	89
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392756	1471946049031	1471946049150	 	32
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392780	1471946049263	1471946049344	t	84
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392784	1471946049456	1471946049537	h	72
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392788	1471946049612	1471946049730	a	65
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392790	1471946049733	1471946049810	t	84
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392793	1471946049884	1471946050041	 	32
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392979	1471946050959	1471946051039	p	80
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392981	1471946051152	1471946051309	a	65
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392984	1471946051689	1471946051770	r	82
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392986	1471946051883	1471946051963	t	84
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392988	1471946053072	1471946053152	BKSP	8
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392990	1471946053265	1471946053346	BKSP	8
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	392991	1471946054071	1471946054190	t	84
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393084	1471946054379	1471946054498	r	82
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393088	1471946054725	1471946054806	o	79
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393092	1471946055071	1471946055152	n	78
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393094	1471946055493	1471946055574	s	83
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393095	1471946055878	1471946055958	 	32
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393178	1471946056722	1471946056802	o	79
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393182	1471946056915	1471946057034	f	70
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393187	1471946056992	1471946057075	 	32
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393192	1471946057340	1471946057421	t	84
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393194	1471946058069	1471946058150	o	79
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393277	1471946058339	1471946058420	u	85
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393282	1471946058532	1471946058651	r	82
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393289	1471946058654	1471946058769	 	32
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393295	1471946059571	1471946059727	o	79
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393300	1471946059730	1471946059845	p	80
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393388	1471946059996	1471946060191	e	69
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393391	1471946060111	1471946060308	r	82
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393394	1471946060650	1471946060807	a	65
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393397	1471946061417	1471946061498	t	84
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393400	1471946061878	1471946061997	o	79
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393455	1471946062148	1471946062267	r	82
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393459	1471946062455	1471946062579	s	83
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393464	1471946062806	1471946062887	 	32
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393469	1471946063497	1471946063615	a	65
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393472	1471946063690	1471946063771	r	82
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393564	1471946063883	1471946064002	e	69
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393566	1471946064005	1471946064120	 	32
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393568	1471946064922	1471946065011	t	84
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393569	1471946065123	1471946065242	r	82
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393570	1471946065469	1471946065550	o	79
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393636	1471946065663	1471946065744	u	85
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393638	1471946065933	1471946066014	b	66
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393640	1471946066241	1471946066322	l	76
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393641	1471946066510	1471946066629	e	69
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393644	1471946066819	1471946066899	m	77
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393690	1471946066974	1471946067131	a	65
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393692	1471946067320	1471946067439	r	82
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393696	1471946067552	1471946067671	k	75
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393702	1471946067745	1471946067902	s	83
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393707	1471946068129	1471946068210	.	190
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393963	1471946069932	1471946070013	BKSP	8
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393965	1471946070164	1471946070245	BKSP	8
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393969	1471946070357	1471946070438	BKSP	8
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393972	1471946070551	1471946070632	BKSP	8
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393976	1471946071702	1471946071782	k	75
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393979	1471946072048	1471946072214	e	69
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393982	1471946072133	1471946072292	r	82
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393984	1471946072443	1471946072566	s	83
+825	8175	It is very unlikely that patrons of tour operators are troublemakers.	It is very unlikely that patrons of tour operators are troublemakers.	393987	1471946073253	1471946073334	.	190
+825	8213	So you're ignoring me.	So you're ignoring me.	394283	1471946079047	1471946079357	SHIFT	16
+825	8213	So you're ignoring me.	So you're ignoring me.	394284	1471946079276	1471946079473	S	83
+825	8213	So you're ignoring me.	So you're ignoring me.	394285	1471946079476	1471946079591	o	79
+825	8213	So you're ignoring me.	So you're ignoring me.	394286	1471946079665	1471946079784	 	32
+825	8213	So you're ignoring me.	So you're ignoring me.	394288	1471946080164	1471946080245	y	89
+825	8213	So you're ignoring me.	So you're ignoring me.	394290	1471946080472	1471946080553	o	79
+825	8213	So you're ignoring me.	So you're ignoring me.	394403	1471946081585	1471946081665	u	85
+825	8213	So you're ignoring me.	So you're ignoring me.	394406	1471946082198	1471946082279	'	222
+825	8213	So you're ignoring me.	So you're ignoring me.	394408	1471946082583	1471946082778	r	82
+825	8213	So you're ignoring me.	So you're ignoring me.	394412	1471946082736	1471946082895	e	69
+825	8213	So you're ignoring me.	So you're ignoring me.	394416	1471946082931	1471946083050	 	32
+825	8213	So you're ignoring me.	So you're ignoring me.	394487	1471946083201	1471946083282	i	73
+825	8213	So you're ignoring me.	So you're ignoring me.	394489	1471946083700	1471946083819	g	71
+825	8213	So you're ignoring me.	So you're ignoring me.	394492	1471946083970	1471946084051	n	78
+825	8213	So you're ignoring me.	So you're ignoring me.	394495	1471946084240	1471946084320	o	79
+825	8213	So you're ignoring me.	So you're ignoring me.	394497	1471946084433	1471946084553	r	82
+825	8213	So you're ignoring me.	So you're ignoring me.	394549	1471946084627	1471946084707	i	73
+825	8213	So you're ignoring me.	So you're ignoring me.	394552	1471946084858	1471946084939	n	78
+825	8213	So you're ignoring me.	So you're ignoring me.	394556	1471946085014	1471946085170	g	71
+825	8213	So you're ignoring me.	So you're ignoring me.	394560	1471946085173	1471946085250	 	32
+825	8213	So you're ignoring me.	So you're ignoring me.	394564	1471946086209	1471946086285	m	77
+825	8213	So you're ignoring me.	So you're ignoring me.	394588	1471946086398	1471946086517	e	69
+825	8213	So you're ignoring me.	So you're ignoring me.	394591	1471946086707	1471946086787	.	190
+825	8228	Mikey is invited also.	Mikey is invites also.	395080	1471946095338	1471946095688	SHIFT	16
+825	8228	Mikey is invited also.	Mikey is invites also.	395077	1471946095529	1471946095648	M	77
+825	8228	Mikey is invited also.	Mikey is invites also.	395082	1471946095763	1471946095844	i	73
+825	8228	Mikey is invited also.	Mikey is invites also.	395083	1471946095957	1471946096037	k	75
+825	8228	Mikey is invited also.	Mikey is invites also.	395085	1471946096226	1471946096345	e	69
+825	8228	Mikey is invited also.	Mikey is invites also.	395088	1471946097032	1471946097113	l	76
+825	8228	Mikey is invited also.	Mikey is invites also.	395121	1471946097531	1471946097612	BKSP	8
+825	8228	Mikey is invited also.	Mikey is invites also.	395124	1471946097953	1471946098034	y	89
+825	8228	Mikey is invited also.	Mikey is invites also.	395128	1471946098109	1471946098227	 	32
+825	8228	Mikey is invited also.	Mikey is invites also.	395132	1471946098302	1471946098383	i	73
+825	8228	Mikey is invited also.	Mikey is invites also.	395136	1471946098496	1471946098615	s	83
+825	8228	Mikey is invited also.	Mikey is invites also.	395200	1471946098572	1471946098655	 	32
+825	8228	Mikey is invited also.	Mikey is invites also.	395201	1471946099150	1471946099231	i	73
+825	8228	Mikey is invited also.	Mikey is invites also.	395203	1471946099354	1471946099435	n	78
+825	8228	Mikey is invited also.	Mikey is invites also.	395205	1471946099662	1471946099781	v	86
+825	8228	Mikey is invited also.	Mikey is invites also.	395206	1471946099817	1471946099898	i	73
+825	8228	Mikey is invited also.	Mikey is invites also.	395207	1471946100088	1471946100168	t	84
+825	8228	Mikey is invited also.	Mikey is invites also.	395226	1471946100204	1471946100323	e	69
+825	8228	Mikey is invited also.	Mikey is invites also.	395227	1471946100436	1471946100555	s	83
+825	8228	Mikey is invited also.	Mikey is invites also.	395228	1471946100610	1471946100729	 	32
+825	8228	Mikey is invited also.	Mikey is invites also.	395230	1471946100842	1471946100961	a	65
+825	8228	Mikey is invited also.	Mikey is invites also.	395233	1471946100997	1471946101078	l	76
+825	8228	Mikey is invited also.	Mikey is invites also.	395288	1471946101382	1471946101500	s	83
+825	8228	Mikey is invited also.	Mikey is invites also.	395290	1471946101613	1471946101694	o	79
+825	8228	Mikey is invited also.	Mikey is invites also.	395296	1471946102189	1471946102231	.	190
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395750	1471946110629	1471946110977	SHIFT	16
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395755	1471946110858	1471946111055	A	65
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395759	1471946111130	1471946111287	 	32
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395763	1471946111476	1471946111557	d	68
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395767	1471946111708	1471946111788	e	69
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395771	1471946112283	1471946112402	f	70
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395834	1471946112553	1471946112634	i	73
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395836	1471946112785	1471946112865	n	78
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395837	1471946113016	1471946113097	i	73
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395838	1471946114014	1471946114095	t	84
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395839	1471946114245	1471946114326	i	73
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395907	1471946114630	1471946114710	v	86
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395913	1471946114823	1471946114942	e	69
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395917	1471946114978	1471946115059	 	32
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395922	1471946115707	1471946115788	b	66
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395926	1471946115863	1471946116060	a	65
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395957	1471946116016	1471946116177	s	83
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395961	1471946116290	1471946116371	i	73
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395966	1471946116445	1471946116566	c	67
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395972	1471946116569	1471946116682	 	32
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395981	1471946116832	1471946116928	l	76
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	395985	1471946117005	1471946117124	a	65
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396040	1471946117427	1471946117546	w	87
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396042	1471946117773	1471946117892	 	32
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396046	1471946118464	1471946118583	w	87
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396050	1471946118619	1471946118700	i	73
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396054	1471946118812	1471946118893	l	76
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396129	1471946119006	1471946119087	l	76
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396130	1471946119199	1471946119318	 	32
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396131	1471946119698	1471946119817	b	66
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396132	1471946119853	1471946120010	e	69
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396133	1471946120013	1471946120128	 	32
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396246	1471946121160	1471946121241	d	68
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396250	1471946121315	1471946121396	r	82
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396254	1471946121738	1471946121856	a	65
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396257	1471946122046	1471946122165	w	87
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396259	1471946122775	1471946122855	n	78
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396328	1471946122930	1471946123049	 	32
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396333	1471946123200	1471946123280	u	85
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396336	1471946123469	1471946123550	p	80
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396341	1471946124045	1471946124164	 	32
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396347	1471946124812	1471946124969	w	87
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396390	1471946125006	1471946125086	i	73
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396392	1471946125276	1471946125357	t	84
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396395	1471946125469	1471946125550	h	72
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396399	1471946125701	1471946125781	i	73
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396402	1471946125932	1471946126013	n	78
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396465	1471946126126	1471946126207	 	32
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396466	1471946126396	1471946126514	a	65
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396467	1471946126551	1471946126670	 	32
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396468	1471946127280	1471946127399	y	89
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396473	1471946127588	1471946127669	e	69
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396509	1471946127743	1471946127862	a	65
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396511	1471946127865	1471946127941	r	82
+825	8244	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	396515	1471946128283	1471946128363	.	190
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	396852	1471946134460	1471946134886	SHIFT	16
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	396856	1471946134880	1471946134963	I	73
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	396863	1471946135649	1471946135730	'	222
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	396866	1471946135919	1471946136000	l	76
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	396870	1471946136112	1471946136193	l	76
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	396872	1471946136306	1471946136425	 	32
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	396978	1471946136882	1471946137001	;	186
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	396980	1471946137342	1471946137423	BKSP	8
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	396982	1471946137650	1471946137731	l	76
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	396988	1471946137805	1471946138001	e	69
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	396991	1471946138228	1471946138309	t	84
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	396998	1471946138383	1471946138502	 	32
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	397054	1471946138653	1471946138734	y	89
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	397056	1471946138885	1471946138965	o	79
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	397058	1471946139078	1471946139197	u	85
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	397061	1471946139272	1471946139391	 	32
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	397070	1471946139440	1471946139520	k	75
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	397125	1471946139671	1471946139714	n	78
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	397128	1471946139865	1471946139946	o	79
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	397131	1471946140058	1471946140177	w	87
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	397135	1471946140214	1471946140333	 	32
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	397139	1471946140445	1471946140602	a	65
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	397164	1471946140605	1471946140681	f	70
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	397168	1471946140794	1471946140875	t	84
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	397173	1471946140988	1471946141107	e	69
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	397179	1471946141143	1471946141224	r	82
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	397183	1471946141337	1471946141456	 	32
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	397266	1471946141721	1471946141816	l	76
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	397270	1471946142005	1471946142086	u	85
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	397272	1471946142275	1471946142356	n	78
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	397276	1471946142583	1471946142702	c	67
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	397280	1471946142777	1471946142857	h	72
+825	8266	I'll let you know after lunch.	I'll let you know after lunch.	397293	1471946143467	1471946143586	.	190
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	397713	1471946150871	1471946151174	SHIFT	16
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	397716	1471946151100	1471946151215	I	73
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	397719	1471946151366	1471946151447	;	186
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	397723	1471946151941	1471946152022	BKSP	8
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	397726	1471946152478	1471946152597	 	32
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	397729	1471946152939	1471946153099	c	67
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	397776	1471946153092	1471946153251	a	65
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	397780	1471946153288	1471946153369	l	76
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	397787	1471946153748	1471946153829	l	76
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	397794	1471946153942	1471946154023	l	76
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	397799	1471946154097	1471946154216	e	69
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	397806	1471946154367	1471946154448	d	68
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	397887	1471946154637	1471946154718	BKSP	8
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	397891	1471946154792	1471946154873	BKSP	8
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	397896	1471946154966	1471946155047	BKSP	8
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	397902	1471946155542	1471946155661	e	69
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	397907	1471946155774	1471946155893	d	68
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	397914	1471946155929	1471946156010	 	32
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	397919	1471946156122	1471946156203	m	77
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	397924	1471946156354	1471946156435	y	89
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398014	1471946156510	1471946156628	 	32
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398017	1471946156703	1471946156784	h	72
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398020	1471946156897	1471946156977	u	85
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398026	1471946157052	1471946157209	s	83
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398029	1471946157973	1471946158053	b	66
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398102	1471946158166	1471946158284	a	65
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398106	1471946158287	1471946158364	n	78
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398109	1471946158782	1471946158901	d	68
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398113	1471946159396	1471946159515	 	32
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398116	1471946159704	1471946159823	a	65
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398184	1471946159974	1471946160093	t	84
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398191	1471946160148	1471946160267	 	32
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398198	1471946160762	1471946160880	w	87
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398204	1471946160883	1471946160960	o	79
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398209	1471946161111	1471946161230	r	82
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398303	1471946161380	1471946161461	k	75
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398306	1471946161574	1471946161693	 	32
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398308	1471946161958	1471946162115	t	84
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398310	1471946162118	1471946162233	o	79
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398312	1471946162498	1471946162731	d	68
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398349	1471946162689	1471946162850	a	65
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398351	1471946162925	1471946163044	y	89
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398355	1471946163233	1471946163314	 	32
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398358	1471946163847	1471946163928	j	74
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398360	1471946164002	1471946164083	u	85
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398364	1471946164196	1471946164315	s	83
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398417	1471946164351	1471946164470	t	84
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398420	1471946164545	1471946164702	 	32
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398423	1471946164814	1471946164933	t	84
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398427	1471946165467	1471946165547	o	79
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398430	1471946165622	1471946165741	 	32
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398465	1471946165930	1471946166011	t	84
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398468	1471946166085	1471946166204	e	69
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398471	1471946166255	1471946166336	l	76
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398476	1471946166449	1471946166530	l	76
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398480	1471946166642	1471946166761	 	32
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398574	1471946167371	1471946167452	h	72
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398576	1471946167717	1471946167798	i	73
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398579	1471946167911	1471946167992	m	77
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398582	1471946168104	1471946168223	 	32
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398589	1471946168374	1471946169111	SHIFT	16
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398722	1471946169068	1471946169152	I	73
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398725	1471946169303	1471946169421	 	32
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398728	1471946170338	1471946170419	l	76
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398730	1471946170991	1471946171071	o	79
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398736	1471946171413	1471946171496	v	86
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398742	1471946171606	1471946171687	e	69
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398806	1471946171838	1471946171919	d	68
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398813	1471946171993	1471946172112	 	32
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398816	1471946173144	1471946173263	h	72
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398822	1471946173266	1471946173342	i	73
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398827	1471946173455	1471946173536	m	77
+825	8283	I called my husband at work today just to tell him I loved him.	I called my husband at work today just to tell him I loved him.	398854	1471946173992	1471946174111	.	190
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399372	1471946183889	1471946184201	SHIFT	16
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399378	1471946184195	1471946184277	T	84
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399382	1471946184390	1471946184471	h	72
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399385	1471946184546	1471946184665	e	69
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399390	1471946184622	1471946184743	 	32
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399394	1471946185047	1471946185145	p	80
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399566	1471946185257	1471946185646	r	82
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399562	1471946185449	1471946185568	e	69
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399569	1471946186218	1471946186299	BKSP	8
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399575	1471946186947	1471946187028	i	73
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399582	1471946187179	1471946187260	m	77
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399587	1471946187870	1471946187912	BKSP	8
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399592	1471946188063	1471946188182	e	69
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399673	1471946188257	1471946188376	 	32
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399675	1471946189216	1471946189297	BKSP	8
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399680	1471946189409	1471946189490	BKSP	8
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399684	1471946189947	1471946190027	m	77
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399689	1471946190102	1471946190259	e	69
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399694	1471946190217	1471946190300	 	32
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399697	1471946190489	1471946190570	m	77
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399755	1471946190683	1471946190763	i	73
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399757	1471946191143	1471946191224	n	78
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399763	1471946191337	1471946191455	i	73
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399767	1471946191835	1471946191954	s	83
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399773	1471946191991	1471946192071	t	84
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399867	1471946192835	1471946192991	e	69
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399871	1471946192994	1471946193079	r	82
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399877	1471946193249	1471946193368	 	32
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399884	1471946193863	1471946193982	i	73
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399889	1471946194056	1471946194175	s	83
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399958	1471946194178	1471946194292	 	32
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399964	1471946194405	1471946194486	t	84
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399972	1471946194637	1471946194718	o	79
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399976	1471946195021	1471946195102	m	77
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	399983	1471946195183	1471946195302	e	69
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400107	1471946195415	1471946195533	e	69
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400109	1471946195646	1471946195727	t	84
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400111	1471946195801	1471946195958	 	32
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400115	1471946196224	1471946196305	BKSP	8
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400118	1471946196417	1471946196479	BKSP	8
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400122	1471946196592	1471946196653	BKSP	8
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400127	1471946196766	1471946196809	BKSP	8
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400130	1471946196921	1471946196964	BKSP	8
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400133	1471946197191	1471946197234	BKSP	8
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400136	1471946198150	1471946198269	o	79
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400138	1471946198344	1471946198463	 	32
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400160	1471946198576	1471946198656	m	77
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400166	1471946198731	1471946198850	e	69
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400172	1471946199001	1471946199119	e	69
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400176	1471946199156	1471946199275	t	84
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400184	1471946199349	1471946199469	 	32
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400252	1471946199772	1471946199891	w	87
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400259	1471946199965	1471946200046	i	73
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400268	1471946200235	1471946200278	t	84
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400276	1471946200429	1471946200509	h	72
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400284	1471946200622	1471946200703	 	32
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400310	1471946200854	1471946200973	s	83
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400312	1471946201085	1471946201166	e	69
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400318	1471946201355	1471946201474	v	86
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400326	1471946201511	1471946201630	e	69
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400335	1471946201704	1471946201785	r	82
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400443	1471946201859	1471946201978	s	83
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400447	1471946202244	1471946202362	BKSP	8
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400451	1471946202475	1471946202594	a	65
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400452	1471946203511	1471946203630	l	76
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400455	1471946203705	1471946203824	 	32
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400457	1471946203898	1471946204170	SHIFT	16
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400598	1471946204089	1471946204287	S	83
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400604	1471946204438	1471946204557	e	69
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400611	1471946204631	1471946204712	c	67
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400619	1471946206013	1471946206093	u	85
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400623	1471946206176	1471946206333	r	82
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400629	1471946206408	1471946206527	i	73
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400666	1471946206639	1471946206758	t	84
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400669	1471946206761	1471946206876	y	89
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400671	1471946206988	1471946207145	 	32
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400674	1471946207871	1471946208105	SHIFT	16
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400677	1471946208062	1471946208221	C	67
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400680	1471946208372	1471946208453	o	79
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400747	1471946208604	1471946208685	u	85
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400750	1471946208797	1471946208889	n	78
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400754	1471946209039	1471946209197	c	67
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400758	1471946209348	1471946209441	i	73
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400761	1471946209592	1471946209673	l	76
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400841	1471946209823	1471946209942	 	32
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400842	1471946210783	1471946210863	m	77
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400843	1471946210938	1471946211057	e	69
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400844	1471946211093	1471946211174	m	77
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400845	1471946211669	1471946211749	b	66
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400914	1471946211786	1471946211982	e	69
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400920	1471946211901	1471946212022	r	82
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400926	1471946212325	1471946212483	s	83
+825	8313	The prime minister is to meet with several Security Council members.	The prime minister is to meet with several Security Council members.	400935	1471946212863	1471946212943	.	190
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	401554	1471946221590	1471946221824	SHIFT	16
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	401556	1471946221781	1471946221902	B	66
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	401560	1471946222015	1471946222134	e	69
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	401568	1471946222247	1471946222365	s	83
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	401576	1471946222368	1471946222483	t	84
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	401582	1471946222557	1471946222715	 	32
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	401673	1471946223493	1471946223612	o	79
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	401676	1471946223992	1471946224111	f	70
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	401678	1471946224147	1471946224266	 	32
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	401680	1471946224379	1471946224460	l	76
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	401682	1471946224725	1471946224816	u	85
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	401884	1471946226040	1471946226197	c	67
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	401888	1471946226730	1471946226887	k	75
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	401890	1471946226962	1471946227119	 	32
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	401894	1471946227423	1471946227580	a	65
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	401900	1471946227616	1471946227697	n	78
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	401952	1471946227771	1471946227890	d	68
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	401956	1471946227893	1471946227969	 	32
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	401960	1471946228158	1471946228315	s	83
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	401964	1471946228352	1471946228433	t	84
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	401968	1471946228584	1471946228703	a	65
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	402060	1471946228660	1471946228782	y	89
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	402064	1471946228894	1471946229051	 	32
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	402069	1471946229778	1471946229896	i	73
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	402073	1471946230008	1471946230127	n	78
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	402081	1471946230240	1471946230359	 	32
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	402087	1471946231123	1471946231242	t	84
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	402161	1471946231316	1471946231397	o	79
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	402163	1471946231548	1471946231667	u	85
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	402166	1471946231817	1471946231937	c	67
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	402170	1471946231973	1471946232054	h	72
+825	8361	Best of luck and stay in touch.	Best of luck and stay in touch.	402176	1471946232587	1471946232706	.	190
+825	8387	That's a fair trade off.	that's a fair trade off.	402763	1471946238150	1471946238322	SHIFT	16
+825	8387	That's a fair trade off.	that's a fair trade off.	402755	1471946238188	1471946238313	CAPS_LOCK	20
+825	8387	That's a fair trade off.	that's a fair trade off.	402768	1471946238316	1471946238394	t	84
+825	8387	That's a fair trade off.	that's a fair trade off.	402772	1471946239083	1471946239164	BKSP	8
+825	8387	That's a fair trade off.	that's a fair trade off.	402775	1471946239277	1471946239320	BKSP	8
+825	8387	That's a fair trade off.	that's a fair trade off.	402780	1471946239663	1471946239825	CAPS_LOCK	20
+825	8387	That's a fair trade off.	that's a fair trade off.	402784	1471946240398	1471946240631	SHIFT	16
+825	8387	That's a fair trade off.	that's a fair trade off.	402788	1471946240668	1471946240711	t	84
+825	8387	That's a fair trade off.	that's a fair trade off.	402792	1471946240861	1471946240941	h	72
+825	8387	That's a fair trade off.	that's a fair trade off.	402797	1471946240979	1471946241098	a	65
+825	8387	That's a fair trade off.	that's a fair trade off.	402801	1471946241631	1471946241712	t	84
+825	8387	That's a fair trade off.	that's a fair trade off.	402841	1471946242130	1471946242211	'	222
+825	8387	That's a fair trade off.	that's a fair trade off.	402843	1471946242248	1471946242405	s	83
+825	8387	That's a fair trade off.	that's a fair trade off.	402852	1471946242479	1471946242598	 	32
+825	8387	That's a fair trade off.	that's a fair trade off.	402859	1471946242749	1471946242868	a	65
+825	8387	That's a fair trade off.	that's a fair trade off.	402865	1471946242871	1471946243024	 	32
+825	8387	That's a fair trade off.	that's a fair trade off.	402912	1471946243519	1471946243600	f	70
+825	8387	That's a fair trade off.	that's a fair trade off.	402915	1471946243674	1471946243832	a	65
+825	8387	That's a fair trade off.	that's a fair trade off.	402920	1471946243906	1471946243987	i	73
+825	8387	That's a fair trade off.	that's a fair trade off.	402924	1471946244100	1471946244218	r	82
+825	8387	That's a fair trade off.	that's a fair trade off.	402925	1471946244221	1471946244336	 	32
+825	8387	That's a fair trade off.	that's a fair trade off.	403004	1471946244908	1471946245027	t	84
+825	8387	That's a fair trade off.	that's a fair trade off.	403007	1471946245101	1471946245182	r	82
+825	8387	That's a fair trade off.	that's a fair trade off.	403010	1471946245256	1471946245414	a	65
+825	8387	That's a fair trade off.	that's a fair trade off.	403012	1471946245450	1471946245531	d	68
+825	8387	That's a fair trade off.	that's a fair trade off.	403014	1471946245605	1471946245724	e	69
+825	8387	That's a fair trade off.	that's a fair trade off.	403072	1471946245799	1471946245880	 	32
+825	8387	That's a fair trade off.	that's a fair trade off.	403080	1471946246031	1471946246112	o	79
+825	8387	That's a fair trade off.	that's a fair trade off.	403086	1471946246301	1471946246419	f	70
+825	8387	That's a fair trade off.	that's a fair trade off.	403091	1471946246532	1471946246613	f	70
+825	8387	That's a fair trade off.	that's a fair trade off.	403094	1471946246688	1471946246806	.	190
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403478	1471946253095	1471946253329	SHIFT	16
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403481	1471946253286	1471946253386	P	80
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403483	1471946253499	1471946253580	l	76
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403486	1471946253692	1471946253811	e	69
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403488	1471946253962	1471946254158	a	65
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403524	1471946254115	1471946254236	s	83
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403526	1471946254349	1471946254430	e	69
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403531	1471946254388	1471946254547	 	32
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403537	1471946254736	1471946254817	p	80
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403549	1471946254892	1471946255087	a	65
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403636	1471946255007	1471946255166	s	83
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403640	1471946255393	1471946255512	s	83
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403643	1471946255701	1471946255820	 	32
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403647	1471946255971	1471946256128	a	65
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403650	1471946256203	1471946256283	l	76
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403655	1471946256396	1471946256439	o	79
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403720	1471946256590	1471946256709	n	78
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403721	1471946256859	1471946256978	g	71
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403723	1471946257015	1471946257134	 	32
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403725	1471946257590	1471946257671	m	77
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403729	1471946257860	1471946257941	t	84
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403911	1471946258438	1471946258555	BKSP	8
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403916	1471946259165	1471946259246	y	89
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403922	1471946259320	1471946259439	 	32
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403927	1471946259552	1471946259595	t	84
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403932	1471946259745	1471946259826	h	72
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403936	1471946259901	1471946260095	a	65
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403982	1471946260099	1471946260175	n	78
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403985	1471946260288	1471946260368	k	75
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403992	1471946260443	1471946260638	s	83
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	403999	1471946261096	1471946261187	m	77
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	404004	1471946261376	1471946261457	 	32
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	404241	1471946262412	1471946262531	BKSP	8
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	404243	1471946262643	1471946262724	BKSP	8
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	404245	1471946263411	1471946263530	,	188
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	404248	1471946263642	1471946263723	 	32
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	404250	1471946264487	1471946264567	t	84
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	404252	1471946264680	1471946264761	h	72
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	404255	1471946265065	1471946265145	o	79
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	404329	1471946265296	1471946265415	u	85
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	404331	1471946265795	1471946265876	g	71
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	404335	1471946265988	1471946266069	h	72
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	404340	1471946266462	1471946266542	,	188
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	404346	1471946266884	1471946267003	BKSP	8
+825	8406	Please pass along my thanks, though.	Please pass along my thanks, though.	404353	1471946267767	1471946267885	.	190
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	404999	1471946277587	1471946277859	SHIFT	16
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405001	1471946277778	1471946277900	M	77
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405003	1471946278012	1471946278093	y	89
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405005	1471946278168	1471946278287	 	32
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405008	1471946278399	1471946278480	o	79
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405012	1471946278631	1471946278750	n	78
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405135	1471946278901	1471946278982	l	76
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405138	1471946279209	1471946279328	y	89
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405141	1471946279479	1471946279559	 	32
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405143	1471946280208	1471946280327	c	67
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405145	1471946280554	1471946280649	o	79
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405275	1471946280800	1471946280881	n	78
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405278	1471946281184	1471946281342	s	83
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405282	1471946281416	1471946281497	t	84
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405286	1471946282375	1471946282456	r	82
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405292	1471946282607	1471946282726	a	65
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405431	1471946282801	1471946282881	i	73
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405434	1471946283032	1471946283113	n	78
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405439	1471946283264	1471946283345	t	84
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405442	1471946283419	1471946283576	 	32
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405445	1471946284302	1471946284383	i	73
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405510	1471946284423	1471946284580	s	83
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405514	1471946284617	1471946284736	 	32
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405520	1471946284886	1471946285387	SHIFT	16
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405524	1471946285345	1471946285504	C	67
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405529	1471946285617	1471946285697	h	72
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405535	1471946285734	1471946285891	a	65
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405683	1471946286885	1471946287004	d	68
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405686	1471946287422	1471946287503	'	222
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405688	1471946287616	1471946287773	s	83
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405691	1471946288076	1471946288195	 	32
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405693	1471946289151	1471946289308	s	83
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405774	1471946289841	1471946289922	o	79
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405778	1471946289996	1471946290115	c	67
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405783	1471946290273	1471946290354	c	67
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405786	1471946291002	1471946291082	e	69
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405793	1471946291195	1471946291314	r	82
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405927	1471946291465	1471946291584	 	32
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405932	1471946292194	1471946292275	g	71
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405935	1471946292388	1471946292545	a	65
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405938	1471946292620	1471946292700	m	77
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	405946	1471946292775	1471946292931	e	69
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	406092	1471946292934	1471946293068	 	32
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	406099	1471946293601	1471946293758	a	65
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	406103	1471946294215	1471946294296	t	84
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	406111	1471946294370	1471946294489	 	32
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	406115	1471946294946	1471946295027	n	78
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	406220	1471946295178	1471946295258	o	79
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	406223	1471946295907	1471946295987	o	79
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	406232	1471946296981	1471946297100	n	78
+825	8431	My only constraint is Chad's soccer game at noon.	My only constraint is Chad's soccer game at noon.	406237	1471946297251	1471946297370	.	190

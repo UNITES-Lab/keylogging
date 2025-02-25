@@ -1,0 +1,681 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+846	8360	I was planning to attend.	I was planning to attend.	401233	1471946219384	1471946219633	SHIFT	16
+846	8360	I was planning to attend.	I was planning to attend.	401240	1471946219606	1471946219678	I	73
+846	8360	I was planning to attend.	I was planning to attend.	401248	1471946219924	1471946220007	 	32
+846	8360	I was planning to attend.	I was planning to attend.	401253	1471946219988	1471946220045	w	87
+846	8360	I was planning to attend.	I was planning to attend.	401258	1471946220065	1471946220178	a	65
+846	8360	I was planning to attend.	I was planning to attend.	401291	1471946220144	1471946220227	s	83
+846	8360	I was planning to attend.	I was planning to attend.	401296	1471946220203	1471946220284	 	32
+846	8360	I was planning to attend.	I was planning to attend.	401302	1471946220393	1471946220460	p	80
+846	8360	I was planning to attend.	I was planning to attend.	401308	1471946220617	1471946220696	l	76
+846	8360	I was planning to attend.	I was planning to attend.	401313	1471946220730	1471946220784	a	65
+846	8360	I was planning to attend.	I was planning to attend.	401317	1471946220822	1471946220863	m	78
+846	8360	I was planning to attend.	I was planning to attend.	401373	1471946220937	1471946220987	n	78
+846	8360	I was planning to attend.	I was planning to attend.	401376	1471946221308	1471946221350	BKSP	8
+846	8360	I was planning to attend.	I was planning to attend.	401378	1471946221414	1471946221483	BKSP	8
+846	8360	I was planning to attend.	I was planning to attend.	401382	1471946221682	1471946221728	n	78
+846	8360	I was planning to attend.	I was planning to attend.	401385	1471946222001	1471946222059	i	73
+846	8360	I was planning to attend.	I was planning to attend.	401388	1471946222146	1471946222253	n	78
+846	8360	I was planning to attend.	I was planning to attend.	401397	1471946222243	1471946222287	g	71
+846	8360	I was planning to attend.	I was planning to attend.	401401	1471946222300	1471946222364	 	32
+846	8360	I was planning to attend.	I was planning to attend.	401404	1471946222389	1471946222453	t	84
+846	8360	I was planning to attend.	I was planning to attend.	401407	1471946222440	1471946222500	o	79
+846	8360	I was planning to attend.	I was planning to attend.	401409	1471946222545	1471946222633	 	32
+846	8360	I was planning to attend.	I was planning to attend.	401448	1471946222616	1471946222684	a	65
+846	8360	I was planning to attend.	I was planning to attend.	401452	1471946222764	1471946222835	t	84
+846	8360	I was planning to attend.	I was planning to attend.	401456	1471946222850	1471946222954	t	84
+846	8360	I was planning to attend.	I was planning to attend.	401461	1471946222945	1471946223025	e	69
+846	8360	I was planning to attend.	I was planning to attend.	401466	1471946223086	1471946223183	n	78
+846	8360	I was planning to attend.	I was planning to attend.	401472	1471946223190	1471946223259	d	68
+846	8360	I was planning to attend.	I was planning to attend.	401516	1471946223314	1471946223420	.	190
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	401855	1471946228931	1471946229073	SHIFT	16
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	401861	1471946229040	1471946229099	I	73
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	401866	1471946229167	1471946229275	n	78
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	401872	1471946229236	1471946229294	d	68
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	401876	1471946229404	1471946229456	y	89
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	401879	1471946229489	1471946229577	 	32
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	401908	1471946229728	1471946229802	t	84
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	401909	1471946229793	1471946229859	i	73
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	401910	1471946229939	1471946230026	m	77
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	401911	1471946229962	1471946230026	e	69
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	401912	1471946230075	1471946230167	 	32
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	401930	1471946230330	1471946230388	t	84
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	401939	1471946230480	1471946230576	r	82
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	401945	1471946230565	1471946230666	i	73
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	401951	1471946230667	1471946230758	a	65
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	401973	1471946230743	1471946230823	l	76
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	401975	1471946230819	1471946230869	s	83
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	401977	1471946230917	1471946230979	 	32
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	401981	1471946231109	1471946231178	b	66
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	401985	1471946231159	1471946231216	e	69
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	401991	1471946231323	1471946231390	g	71
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	402022	1471946231394	1471946231458	i	73
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	402023	1471946231526	1471946231600	n	78
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	402025	1471946231611	1471946231678	 	32
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	402026	1471946231813	1471946231960	SHIFT	16
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	402027	1471946231903	1471946231988	S	83
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	402029	1471946232088	1471946232173	a	65
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	402079	1471946232273	1471946232316	t	84
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	402082	1471946232370	1471946232465	u	85
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	402085	1471946233024	1471946233083	r	82
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	402090	1471946233185	1471946233261	d	68
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	402127	1471946233238	1471946233296	a	65
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	402130	1471946233404	1471946233455	y	89
+846	8371	Indy time trials begin Saturday.	Indy time trials begin Saturday.	402133	1471946233579	1471946233640	.	190
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402339	1471946237549	1471946237886	SHIFT	16
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402342	1471946237822	1471946237907	P	80
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402347	1471946237911	1471946237994	e	69
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402350	1471946238017	1471946238113	n	78
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402355	1471946238124	1471946238176	s	83
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402361	1471946238201	1471946238295	k	75
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402420	1471946238343	1471946238398	e	69
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402426	1471946238786	1471946238848	 	32
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402434	1471946239022	1471946239108	d	68
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402441	1471946239086	1471946239169	o	79
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402448	1471946239193	1471946239282	e	69
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402501	1471946239247	1471946239336	s	83
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402506	1471946239352	1471946239452	n	78
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402510	1471946239605	1471946239664	;	186
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402517	1471946239757	1471946239819	t	84
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402524	1471946240111	1471946240158	BKSP	8
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402532	1471946240218	1471946240273	BKSP	8
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402542	1471946240364	1471946240440	;	186
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402551	1471946240459	1471946240532	t	84
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402621	1471946240783	1471946240831	BKSP	8
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402624	1471946240886	1471946240949	BKSP	8
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402628	1471946241048	1471946241148	'	222
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402632	1471946241436	1471946241512	t	84
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402637	1471946241530	1471946241610	 	32
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402641	1471946241987	1471946242084	;	186
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402726	1471946242055	1471946242146	e	69
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402730	1471946242112	1471946242200	y	84
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402738	1471946242231	1471946242302	 	32
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402749	1471946242578	1471946242619	BKSP	8
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402758	1471946242678	1471946242738	BKSP	8
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402765	1471946242786	1471946242854	BKSP	8
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402770	1471946242917	1471946243031	BKSP	8
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402773	1471946243121	1471946243172	BKSP	8
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402778	1471946243643	1471946243717	l	76
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402790	1471946243707	1471946243789	e	69
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402794	1471946243769	1471946243847	t	84
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402798	1471946243859	1471946243929	 	32
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402802	1471946244082	1471946244145	t	84
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402804	1471946244129	1471946244208	h	72
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402806	1471946244286	1471946244341	i	73
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402815	1471946244417	1471946244523	n	78
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402819	1471946244450	1471946244547	g	71
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402822	1471946244519	1471946244580	s	83
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402825	1471946244601	1471946244684	 	32
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402831	1471946244857	1471946244927	s	83
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402848	1471946244929	1471946245004	i	73
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402851	1471946245019	1471946245101	t	84
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402860	1471946245115	1471946245184	 	32
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402869	1471946245235	1471946245329	b	66
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402886	1471946245316	1471946245386	a	65
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402889	1471946245388	1471946245454	c	67
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402892	1471946245439	1471946245514	k	75
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402894	1471946245561	1471946245639	 	32
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402896	1471946245624	1471946245681	a	65
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402899	1471946245703	1471946245791	n	78
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402968	1471946245745	1471946245821	d	68
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402969	1471946245819	1471946245904	 	32
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402970	1471946245918	1471946246029	r	82
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402973	1471946245993	1471946246062	e	69
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402977	1471946246056	1471946246153	l	76
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	402979	1471946246840	1471946246912	a	65
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	403062	1471946247069	1471946247149	z	90
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	403064	1471946247583	1471946247647	BKSP	8
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	403070	1471946247652	1471946247739	x	88
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	403077	1471946247741	1471946247842	.	191
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	403081	1471946248202	1471946248251	BKSP	8
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	403087	1471946248302	1471946248357	BKSP	8
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	403092	1471946248449	1471946248536	.	190
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	403104	1471946248676	1471946248721	]	221
+846	8384	Penske doesn't let things sit back and relax.	Penske doesn't let things sit back and relax.	403106	1471946249079	1471946249122	BKSP	8
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403314	1471946252676	1471946252878	SHIFT	16
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403316	1471946252844	1471946252948	H	72
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403319	1471946252929	1471946253004	a	65
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403320	1471946252980	1471946253064	s	83
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403321	1471946253053	1471946253137	 	32
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403323	1471946253293	1471946253361	a	65
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403363	1471946253356	1471946253462	n	78
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403366	1471946253544	1471946253621	y	89
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403368	1471946253618	1471946253692	o	79
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403373	1471946253762	1471946253877	n	78
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403376	1471946253856	1471946253897	e	69
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403378	1471946253908	1471946253992	 	32
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403384	1471946253999	1471946254092	e	69
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403386	1471946254087	1471946254190	l	76
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403390	1471946254215	1471946254312	s	83
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403394	1471946254285	1471946254359	e	69
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403401	1471946254400	1471946254468	 	32
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403427	1471946254546	1471946254627	h	72
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403428	1471946254600	1471946254699	e	69
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403430	1471946254674	1471946254750	a	65
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403433	1471946254769	1471946254857	r	82
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403435	1471946254939	1471946255030	d	68
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403455	1471946255044	1471946255109	 	32
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403459	1471946255180	1471946255270	a	65
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403463	1471946255232	1471946255340	n	78
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403516	1471946255425	1471946255490	y	84
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403518	1471946255529	1471946255610	h	72
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403521	1471946255677	1471946255738	i	73
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403529	1471946255878	1471946255920	BKSP	8
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403533	1471946255973	1471946256032	BKSP	8
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403545	1471946256082	1471946256156	BKSP	8
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403553	1471946256357	1471946256448	BKSP	8
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403563	1471946256549	1471946256622	y	89
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403570	1471946256722	1471946256800	t	84
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403619	1471946256788	1471946256868	h	72
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403621	1471946257438	1471946257499	i	73
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403624	1471946257610	1471946257664	n	78
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403628	1471946257695	1471946257754	g	71
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403632	1471946257813	1471946257948	SHIFT	16
+846	8405	Has anyone else heard anything?	Has anyone else heard anything?	403637	1471946257862	1471946257970	?	191
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403788	1471946260057	1471946260235	SHIFT	16
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403790	1471946260175	1471946260286	H	72
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403791	1471946260256	1471946260331	e	69
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403793	1471946260378	1471946260419	 	32
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403795	1471946260474	1471946260544	i	73
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403798	1471946260566	1471946260654	s	83
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403846	1471946260618	1471946260706	 	32
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403851	1471946260758	1471946260829	e	69
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403857	1471946260959	1471946261039	x	88
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403865	1471946261054	1471946261138	p	80
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403873	1471946261295	1471946261353	e	69
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403881	1471946261483	1471946261564	c	67
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403914	1471946261618	1471946261660	i	73
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403917	1471946261954	1471946262013	BKSP	8
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403923	1471946261996	1471946262083	t	84
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403928	1471946262058	1471946262125	e	69
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403933	1471946262186	1471946262274	d	68
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403939	1471946262279	1471946262365	 	32
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403957	1471946262424	1471946262483	t	84
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403961	1471946262479	1471946262539	o	79
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403964	1471946262609	1471946262650	 	32
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403967	1471946262727	1471946262785	p	80
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403972	1471946262846	1471946262941	l	76
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	403995	1471946262897	1471946262987	a	65
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404002	1471946262968	1471946263044	y	89
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404010	1471946263082	1471946263140	 	32
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404015	1471946263205	1471946263258	i	73
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404023	1471946263323	1471946263414	n	78
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404051	1471946263381	1471946263470	 	32
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404052	1471946263451	1471946263530	t	84
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404054	1471946263524	1471946263606	h	72
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404056	1471946263671	1471946263750	i	73
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404059	1471946264000	1471946264071	s	83
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404062	1471946264083	1471946264155	 	32
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404078	1471946264214	1471946264292	w	87
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404080	1471946264373	1471946264434	e	69
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404082	1471946264493	1471946264570	e	69
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404087	1471946264540	1471946264625	k	75
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404092	1471946264842	1471946264892	s	83
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404160	1471946265085	1471946265145	BKSP	8
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404164	1471946265223	1471946265305	;	186
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404167	1471946265321	1471946265378	s	83
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404169	1471946265403	1471946265493	 	32
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404171	1471946265697	1471946265745	BKSP	8
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404174	1471946265800	1471946265864	BKSP	8
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404178	1471946265906	1471946265988	BKSP	8
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404182	1471946266067	1471946266161	'	222
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404186	1471946266206	1471946266279	s	83
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404210	1471946266465	1471946266545	 	32
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404219	1471946266766	1471946266894	g	71
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404228	1471946266878	1471946266980	a	65
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404234	1471946266923	1471946267040	m	77
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404240	1471946267048	1471946267118	e	69
+846	8418	He is expected to play in this week's game.	He is expected to play in this week's game.	404247	1471946267136	1471946267244	.	190
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404461	1471946271181	1471946271422	SHIFT	16
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404464	1471946271366	1471946271457	T	84
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404469	1471946271447	1471946271557	h	72
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404473	1471946271544	1471946271611	e	69
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404479	1471946271710	1471946271782	 	32
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404483	1471946271773	1471946271984	SHIFT	16
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404506	1471946271938	1471946272023	A	65
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404510	1471946272019	1471946272118	u	85
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404514	1471946272254	1471946272321	c	67
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404519	1471946272438	1471946272508	t	84
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404527	1471946272508	1471946272584	i	73
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404535	1471946272641	1471946272710	o	79
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404556	1471946272788	1471946272879	n	78
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404557	1471946272819	1471946272919	 	32
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404560	1471946272910	1471946272982	t	84
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404563	1471946272977	1471946273044	h	72
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404566	1471946273110	1471946273188	i	73
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404578	1471946273181	1471946273256	s	83
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404580	1471946273269	1471946273347	 	32
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404584	1471946273486	1471946273531	y	89
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404587	1471946273536	1471946273629	e	69
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404589	1471946273600	1471946273668	a	65
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404657	1471946273705	1471946273796	t	82
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404661	1471946273860	1471946273906	 	32
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404665	1471946274162	1471946274206	BKSP	8
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404669	1471946274284	1471946274325	BKSP	8
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404671	1471946274390	1471946274434	BKSP	8
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404676	1471946274526	1471946274580	 	32
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404679	1471946274623	1471946274672	i	73
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404682	1471946274823	1471946274871	BKSP	8
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404686	1471946274933	1471946274992	BKSP	8
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404692	1471946274996	1471946275079	r	82
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404697	1471946275108	1471946275166	 	32
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404721	1471946275231	1471946275317	i	73
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404725	1471946275438	1471946275496	s	83
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404732	1471946275574	1471946275629	 	32
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404736	1471946275818	1471946275888	h	72
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404742	1471946275985	1471946276071	o	79
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404791	1471946276034	1471946276161	s	83
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404790	1471946276116	1471946276157	e	69
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404792	1471946276546	1471946276602	BKSP	8
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404793	1471946276612	1471946276696	t	84
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404795	1471946276675	1471946276752	e	69
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404798	1471946276819	1471946276890	d	68
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404801	1471946276900	1471946277000	 	32
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404844	1471946277132	1471946277218	b	66
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404849	1471946277220	1471946277286	y	89
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404851	1471946277356	1471946277447	 	32
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404937	1471946277427	1471946278547	SHIFT	16
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404854	1471946277518	1471946277608	E	69
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404856	1471946277708	1471946277825	H	72
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404924	1471946277858	1471946277931	S	83
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404927	1471946278135	1471946278185	BKSP	8
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404930	1471946278243	1471946278305	BKSP	8
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404935	1471946278379	1471946278461	G	71
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404942	1471946278748	1471946278946	SHIFT	16
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404939	1471946278841	1471946278907	S	83
+846	8427	The Auction this year is hosted by EGS.	The Auction this year is hosted by EGS.	404946	1471946278960	1471946279029	.	190
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405116	1471946281367	1471946281601	SHIFT	16
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405109	1471946281434	1471946281582	A	65
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405121	1471946281605	1471946281661	l	76
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405122	1471946281710	1471946281752	l	76
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405127	1471946282032	1471946282093	 	32
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405132	1471946282191	1471946282233	o	79
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405201	1471946282324	1471946282369	u	85
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405203	1471946282738	1471946282816	r	82
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405204	1471946283016	1471946283087	 	32
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405205	1471946283304	1471946283367	d	68
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405206	1471946283465	1471946283522	e	69
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405254	1471946283567	1471946283615	m	77
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405257	1471946283788	1471946283839	o	79
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405262	1471946284009	1471946284061	g	71
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405267	1471946284212	1471946284310	r	82
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405354	1471946284292	1471946284380	a	65
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405356	1471946284406	1471946284481	p	80
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405358	1471946285009	1471946285095	h	72
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405361	1471946285099	1471946285192	i	73
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405367	1471946285225	1471946285341	c	67
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405372	1471946285556	1471946285614	s	83
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405415	1471946285653	1471946285731	 	32
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405420	1471946285813	1471946285891	i	73
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405426	1471946286139	1471946286247	n	78
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405433	1471946286286	1471946286379	d	68
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405438	1471946286383	1471946286462	i	73
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405451	1471946286514	1471946286627	c	67
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405453	1471946286598	1471946286690	a	65
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405456	1471946286758	1471946286843	t	84
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405462	1471946286824	1471946286898	e	69
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405466	1471946286928	1471946287006	 	32
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405474	1471946287027	1471946287096	t	84
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405478	1471946287077	1471946287197	h	72
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405481	1471946287147	1471946287234	a	65
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405483	1471946287219	1471946287297	t	84
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405499	1471946287280	1471946287347	 	32
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405503	1471946287412	1471946287490	i	73
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405506	1471946287491	1471946287575	s	83
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405512	1471946287588	1471946287677	 	32
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405519	1471946287904	1471946287980	a	65
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405557	1471946287968	1471946288066	 	32
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405560	1471946288153	1471946288236	f	70
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405564	1471946288245	1471946288330	a	65
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405568	1471946288296	1471946288384	m	77
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405570	1471946288463	1471946288542	i	73
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405573	1471946288606	1471946288682	l	76
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405612	1471946288961	1471946289013	y	89
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405619	1471946289062	1471946289124	 	32
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405626	1471946289230	1471946289329	a	65
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405631	1471946289356	1471946289443	u	85
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405633	1471946289572	1471946289614	d	68
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405643	1471946290012	1471946290072	i	73
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405645	1471946290093	1471946290168	e	69
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405650	1471946290225	1471946290323	n	78
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405656	1471946290332	1471946290411	c	67
+846	8443	All our demographics indicate that is a family audience.	All our demographics indicate that is a family audience	405648	1471946290368	1471946290422	e	69
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	405747	1471946292290	1471946292449	SHIFT	16
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	405752	1471946292384	1471946292503	A	65
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	405758	1471946292599	1471946292648	v	66
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	405764	1471946292686	1471946292773	o	79
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	405771	1471946292893	1471946292936	i	73
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	405851	1471946293033	1471946293085	BKSP	8
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	405854	1471946293136	1471946293208	BKSP	8
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	405858	1471946293230	1471946293332	BKSP	8
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	405861	1471946293716	1471946293798	BKSP	8
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	405863	1471946293870	1471946293935	v	86
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	405868	1471946293943	1471946294017	o	79
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	405872	1471946294138	1471946294191	u	73
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	405878	1471946294220	1471946294288	d	68
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	405942	1471946294544	1471946294586	BKSP	8
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	405949	1471946294637	1471946294704	BKSP	8
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	405955	1471946294921	1471946295000	d	68
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	405962	1471946294990	1471946295077	 	32
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	405968	1471946295105	1471946295180	s	83
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	405971	1471946295237	1471946295337	t	84
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406019	1471946295327	1471946295409	a	65
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406023	1471946295811	1471946295899	r	82
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406027	1471946295998	1471946296071	t	84
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406032	1471946296066	1471946296137	i	73
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406037	1471946296217	1471946296334	n	78
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406057	1471946296282	1471946296346	g	71
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406063	1471946296348	1471946296446	 	32
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406069	1471946296507	1471946296596	e	69
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406074	1471946296588	1471946296683	i	73
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406079	1471946296707	1471946296773	t	84
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406082	1471946296785	1471946296894	h	72
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406085	1471946296850	1471946296925	e	69
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406089	1471946296903	1471946296967	r	82
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406096	1471946296946	1471946297027	 	32
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406100	1471946297048	1471946297161	b	66
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406107	1471946297121	1471946297200	a	65
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406134	1471946297198	1471946297268	c	67
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406138	1471946297337	1471946297377	k	75
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406143	1471946297649	1471946297726	 	32
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406147	1471946297783	1471946297849	i	73
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406150	1471946297923	1471946298007	n	78
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406199	1471946297961	1471946298069	 	32
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406202	1471946298031	1471946298172	SHIFT	16
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406205	1471946298119	1471946298196	W	87
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406208	1471946298377	1471946298419	e	69
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406211	1471946298548	1471946298595	e	69
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406214	1471946298792	1471946298852	k	75
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406216	1471946298919	1471946298993	 	32
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406271	1471946299170	1471946299259	1	49
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406275	1471946299266	1471946299324	0	48
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406279	1471946299792	1471946299844	 	32
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406280	1471946299916	1471946299993	i	73
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406304	1471946299989	1471946300056	f	70
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406308	1471946300104	1471946300191	 	32
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406313	1471946300197	1471946300324	a	65
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406318	1471946300286	1471946300371	t	84
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406325	1471946300359	1471946300439	 	32
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406332	1471946300509	1471946300563	a	65
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406399	1471946300558	1471946300607	l	76
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406401	1471946300981	1471946301052	l	76
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406405	1471946301121	1471946301173	 	32
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406410	1471946301263	1471946301334	p	80
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406415	1471946301424	1471946301498	o	79
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406420	1471946301508	1471946301564	s	83
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406428	1471946301625	1471946301693	s	83
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406430	1471946301706	1471946301813	i	73
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406432	1471946301826	1471946301889	b	66
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406436	1471946301910	1471946301971	l	76
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406442	1471946301998	1471946302066	e	69
+846	8458	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	406452	1471946302307	1471946302378	.	190
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406663	1471946306408	1471946306573	SHIFT	16
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406666	1471946306502	1471946306621	T	84
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406670	1471946306594	1471946306714	h	72
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406676	1471946306622	1471946306717	e	69
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406684	1471946306774	1471946306866	 	32
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406689	1471946306883	1471946306988	r	82
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406705	1471946306938	1471946307016	e	69
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406707	1471946307113	1471946307199	s	83
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406710	1471946307232	1471946307317	e	69
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406713	1471946307420	1471946307488	r	82
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406716	1471946307567	1471946307662	v	86
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406746	1471946307639	1471946307722	e	69
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406749	1471946307736	1471946307825	 	32
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406752	1471946307871	1471946307940	w	87
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406754	1471946307948	1471946308043	i	73
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406755	1471946308296	1471946308411	d	68
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406780	1471946308361	1471946308456	e	69
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406784	1471946308648	1471946308707	 	32
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406787	1471946308802	1471946308869	o	79
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406792	1471946308954	1471946309021	u	85
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406799	1471946308998	1471946309061	t	84
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406805	1471946309099	1471946309158	 	32
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406821	1471946309218	1471946309282	i	73
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406822	1471946309261	1471946309323	s	83
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406824	1471946309355	1471946309435	 	32
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406940	1471946309708	1471946309823	d	68
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406826	1471946309760	1471946309822	a	65
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406945	1471946310634	1471946310693	y	89
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406948	1471946310739	1471946310821	-	189
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406953	1471946310965	1471946311027	t	84
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406957	1471946311043	1471946311135	o	79
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	406960	1471946311826	1471946311931	d	68
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	407046	1471946311898	1471946311974	a	65
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	407052	1471946312523	1471946312578	BKSP	8
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	407055	1471946312640	1471946312698	BKSP	8
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	407061	1471946312797	1471946312882	-	189
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	407066	1471946313336	1471946313444	d	68
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	407073	1471946313387	1471946313472	a	65
+846	8467	The reserve wideout is day-to-day.	The reserve wide out is day-to-day	407077	1471946313741	1471946313814	y	89
+846	8484	I'm still in FW.	I'm still in FW	407328	1471946317393	1471946317532	SHIFT	16
+846	8484	I'm still in FW.	I'm still in FW	407330	1471946317467	1471946317537	I	73
+846	8484	I'm still in FW.	I'm still in FW	407333	1471946317978	1471946318039	'	222
+846	8484	I'm still in FW.	I'm still in FW	407335	1471946318209	1471946318300	m	77
+846	8484	I'm still in FW.	I'm still in FW	407339	1471946318252	1471946318359	 	32
+846	8484	I'm still in FW.	I'm still in FW	407398	1471946318453	1471946318505	s	65
+846	8484	I'm still in FW.	I'm still in FW	407402	1471946318864	1471946318914	BKSP	8
+846	8484	I'm still in FW.	I'm still in FW	407407	1471946318983	1471946319026	BKSP	8
+846	8484	I'm still in FW.	I'm still in FW	407410	1471946319063	1471946319149	s	83
+846	8484	I'm still in FW.	I'm still in FW	407413	1471946319101	1471946319169	t	84
+846	8484	I'm still in FW.	I'm still in FW	407418	1471946319436	1471946319506	i	73
+846	8484	I'm still in FW.	I'm still in FW	407422	1471946319626	1471946319668	l	76
+846	8484	I'm still in FW.	I'm still in FW	407426	1471946319718	1471946319763	l	76
+846	8484	I'm still in FW.	I'm still in FW	407446	1471946319839	1471946319916	 	32
+846	8484	I'm still in FW.	I'm still in FW	407454	1471946319969	1471946320019	i	73
+846	8484	I'm still in FW.	I'm still in FW	407460	1471946320118	1471946320202	n	78
+846	8484	I'm still in FW.	I'm still in FW	407465	1471946320167	1471946320259	 	32
+846	8484	I'm still in FW.	I'm still in FW	407476	1471946320226	1471946320567	SHIFT	16
+846	8484	I'm still in FW.	I'm still in FW	407470	1471946320302	1471946320377	F	70
+846	8484	I'm still in FW.	I'm still in FW	407473	1471946320459	1471946320546	W	87
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407778	1471946325926	1471946326044	SHIFT	16
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407781	1471946325996	1471946326066	I	73
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407784	1471946326577	1471946326643	'	222
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407787	1471946326841	1471946326904	l	76
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407790	1471946326948	1471946327005	l	76
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407795	1471946327088	1471946327186	 	32
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407848	1471946327181	1471946327298	b	66
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407850	1471946327326	1471946327402	e	69
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407853	1471946327387	1471946327466	 	32
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407857	1471946327690	1471946327774	p	80
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407865	1471946328015	1471946328079	BKSP	8
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407869	1471946328083	1471946328161	u	85
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407875	1471946328184	1471946328245	p	80
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407910	1471946328345	1471946328410	 	32
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407912	1471946328424	1471946328498	t	84
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407916	1471946328491	1471946328563	o	79
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407921	1471946328622	1471946328698	 	32
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407925	1471946329229	1471946329315	n	78
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407947	1471946329408	1471946329463	i	73
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407949	1471946329546	1471946329651	n	78
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407950	1471946329648	1471946329719	e	69
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407952	1471946329734	1471946329798	 	32
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	407954	1471946329871	1471946329956	o	79
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	408025	1471946330103	1471946330176	r	82
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	408029	1471946330194	1471946330285	 	32
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	408032	1471946330489	1471946330573	1	49
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	408035	1471946330589	1471946330650	-	189
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	408038	1471946331102	1471946331148	BKSP	8
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	408043	1471946331231	1471946331340	0	48
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	408091	1471946331537	1471946331606	 	32
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	408095	1471946331859	1471946331914	b	66
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	408097	1471946332049	1471946332104	y	89
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	408098	1471946332133	1471946332202	 	32
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	408099	1471946332239	1471946332401	s	83
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	408120	1471946332348	1471946332446	a	65
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	408122	1471946332638	1471946332738	t	84
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	408126	1471946332804	1471946332903	u	85
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	408132	1471946332893	1471946332952	r	82
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	408137	1471946333052	1471946333146	d	68
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	408158	1471946333117	1471946333203	a	65
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	408159	1471946333286	1471946333352	y	89
+846	8492	I'll be up to nine or 10 by Saturday.	I'll be up to nine or 10 by saturday/.	408161	1471946333408	1471946333464	.	191
+846	8509	I thought you were on 6.	I thought you were on 6/	408294	1471946336255	1471946336378	SHIFT	16
+846	8509	I thought you were on 6.	I thought you were on 6/	408296	1471946336348	1471946336422	I	73
+846	8509	I thought you were on 6.	I thought you were on 6/	408300	1471946336479	1471946336578	t	32
+846	8509	I thought you were on 6.	I thought you were on 6/	408303	1471946336785	1471946336884	h	72
+846	8509	I thought you were on 6.	I thought you were on 6/	408358	1471946336811	1471946336885	o	79
+846	8509	I thought you were on 6.	I thought you were on 6/	408363	1471946336964	1471946337032	u	85
+846	8509	I thought you were on 6.	I thought you were on 6/	408369	1471946337061	1471946337113	g	71
+846	8509	I thought you were on 6.	I thought you were on 6/	408373	1471946337437	1471946337532	h	72
+846	8509	I thought you were on 6.	I thought you were on 6/	408380	1471946337568	1471946337653	t	84
+846	8509	I thought you were on 6.	I thought you were on 6/	408385	1471946337654	1471946337747	 	32
+846	8509	I thought you were on 6.	I thought you were on 6/	408391	1471946337768	1471946337834	y	89
+846	8509	I thought you were on 6.	I thought you were on 6/	408393	1471946337854	1471946337926	o	79
+846	8509	I thought you were on 6.	I thought you were on 6/	408394	1471946337906	1471946337971	u	85
+846	8509	I thought you were on 6.	I thought you were on 6/	408395	1471946338013	1471946338113	 	32
+846	8509	I thought you were on 6.	I thought you were on 6/	408420	1471946338096	1471946338185	w	87
+846	8509	I thought you were on 6.	I thought you were on 6/	408426	1471946338155	1471946338221	e	69
+846	8509	I thought you were on 6.	I thought you were on 6/	408433	1471946338288	1471946338406	r	82
+846	8509	I thought you were on 6.	I thought you were on 6/	408439	1471946338370	1471946338449	e	69
+846	8509	I thought you were on 6.	I thought you were on 6/	408445	1471946338452	1471946338538	 	32
+846	8509	I thought you were on 6.	I thought you were on 6/	408448	1471946338614	1471946338674	o	79
+846	8509	I thought you were on 6.	I thought you were on 6/	408497	1471946338739	1471946338857	n	78
+846	8509	I thought you were on 6.	I thought you were on 6/	408499	1471946338793	1471946338921	 	32
+846	8509	I thought you were on 6.	I thought you were on 6/	408501	1471946339537	1471946339606	6	54
+846	8509	I thought you were on 6.	I thought you were on 6/	408503	1471946339697	1471946339793	/	191
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408665	1471946342345	1471946342494	SHIFT	16
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408663	1471946342430	1471946342482	I	73
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408666	1471946342560	1471946342648	 	32
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408667	1471946342676	1471946342768	a	65
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408668	1471946342716	1471946342831	m	77
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408697	1471946342789	1471946342871	 	32
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408698	1471946342927	1471946342970	w	50
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408699	1471946342971	1471946343083	o	79
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408700	1471946343516	1471946343558	BKSP	8
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408701	1471946343611	1471946343682	BKSP	8
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408703	1471946343707	1471946343799	BKSP	8
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408705	1471946343847	1471946343930	w	87
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408718	1471946343908	1471946344036	o	79
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408720	1471946344048	1471946344121	r	82
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408724	1471946344133	1471946344212	k	75
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408728	1471946344289	1471946344338	i	73
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408732	1471946344420	1471946344518	n	78
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408762	1471946344503	1471946344574	 	32
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408764	1471946344539	1471946344599	g	71
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408766	1471946344986	1471946345028	BKSP	8
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408767	1471946345091	1471946345158	BKSP	8
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408769	1471946345198	1471946345273	g	71
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408771	1471946345288	1471946345358	 	32
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408773	1471946345392	1471946345455	w	87
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408803	1471946345450	1471946345549	i	73
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408806	1471946345545	1471946345600	t	84
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408810	1471946345634	1471946345713	h	72
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408815	1471946345946	1471946346061	SHIFT	16
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408820	1471946345994	1471946346071	 	32
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408827	1471946346170	1471946346401	SHIFT	16
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408824	1471946346299	1471946346378	M	77
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408830	1471946346432	1471946346510	a	65
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408850	1471946346578	1471946346669	r	82
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408853	1471946346776	1471946346873	y	89
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408856	1471946346885	1471946346961	 	32
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408859	1471946346988	1471946347128	SHIFT	16
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408861	1471946347077	1471946347146	H	72
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408862	1471946347241	1471946347344	o	79
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408962	1471946347431	1471946347500	y	89
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408965	1471946347814	1471946347855	BKSP	8
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408968	1471946347914	1471946347975	BKSP	8
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408971	1471946348021	1471946348108	BKSP	8
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408977	1471946348403	1471946348560	SHIFT	16
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408979	1471946348518	1471946348592	H	72
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408982	1471946348619	1471946348694	o	79
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408984	1471946348710	1471946348762	y	89
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408986	1471946349233	1471946349293	BKSP	8
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408988	1471946349339	1471946349399	BKSP	8
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	408997	1471946349456	1471946349528	BKSP	8
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409000	1471946349634	1471946349934	SHIFT	16
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409025	1471946349898	1471946349970	H	72
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409028	1471946350132	1471946350197	BKSP	8
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409032	1471946350210	1471946350344	SHIFT	16
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409035	1471946350308	1471946350406	J	74
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409038	1471946350398	1471946350476	o	79
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409040	1471946350563	1471946350631	y	89
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409041	1471946350893	1471946350984	c	67
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409043	1471946350960	1471946351034	e	69
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409046	1471946351072	1471946351122	 	32
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409051	1471946351188	1471946351247	o	79
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409055	1471946351348	1471946351421	n	78
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409059	1471946351387	1471946351510	 	32
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409074	1471946351464	1471946351599	t	84
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409078	1471946351591	1471946351702	h	72
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409082	1471946351681	1471946351769	a	65
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409085	1471946351736	1471946351818	t	84
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409090	1471946351782	1471946351889	 	32
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409097	1471946351959	1471946352023	r	82
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409109	1471946351998	1471946352094	i	73
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409112	1471946352119	1471946352177	g	71
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409115	1471946352181	1471946352281	h	72
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409117	1471946352270	1471946352326	t	84
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409119	1471946352322	1471946352426	 	32
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409147	1471946352372	1471946352462	n	78
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409149	1471946352543	1471946352606	o	79
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409152	1471946352620	1471946352677	w	87
+846	8513	I am working with Mary Joyce on that right now.	I am working with Mary Joyce on that right now.	409154	1471946353009	1471946353057	.	190
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409226	1471946355247	1471946355436	SHIFT	16
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409228	1471946355363	1471946355459	T	84
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409230	1471946355418	1471946355516	H	72
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409232	1471946355586	1471946355665	i	73
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409234	1471946355663	1471946355729	s	83
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409235	1471946355737	1471946355806	 	32
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409270	1471946355858	1471946355937	i	73
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409272	1471946355926	1471946355983	s	83
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409276	1471946356011	1471946356096	 	32
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409278	1471946356287	1471946356329	n	78
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409280	1471946356670	1471946356722	o	79
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409308	1471946356829	1471946356888	m	77
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409310	1471946356881	1471946356962	r	82
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409316	1471946356967	1471946357022	a	65
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409322	1471946357368	1471946357421	l	76
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409327	1471946357498	1471946357616	,	188
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409341	1471946357569	1471946357650	 	32
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409347	1471946357768	1471946357847	t	84
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409351	1471946357830	1471946357948	h	72
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409355	1471946357903	1471946357979	e	69
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409359	1471946358201	1471946358297	y	89
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409362	1471946358320	1471946358394	 	32
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409373	1471946358457	1471946358528	a	65
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409375	1471946358546	1471946358601	l	76
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409378	1471946358722	1471946358830	w	87
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409384	1471946358812	1471946358916	a	65
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409388	1471946358937	1471946359005	y	89
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409418	1471946359071	1471946359157	s	83
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409422	1471946359194	1471946359276	 	32
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409424	1471946359429	1471946359493	o	79
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409430	1471946359700	1471946359756	BKSP	8
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409434	1471946359762	1471946359832	d	68
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409436	1471946359837	1471946359907	o	79
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409450	1471946359982	1471946360070	 	32
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409454	1471946360049	1471946360117	t	84
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409457	1471946360135	1471946360200	h	72
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409460	1471946360278	1471946360348	i	73
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409462	1471946360371	1471946360414	s	83
+846	8532	This is normal, they always do this.	THis is nomral, they always do this.	409470	1471946360643	1471946360741	.	190
+846	8534	I vote for the latter.	I vote for the latter.	409577	1471946362636	1471946362849	SHIFT	16
+846	8534	I vote for the latter.	I vote for the latter.	409578	1471946362793	1471946362861	I	73
+846	8534	I vote for the latter.	I vote for the latter.	409580	1471946362936	1471946363023	 	32
+846	8534	I vote for the latter.	I vote for the latter.	409582	1471946363106	1471946363194	v	86
+846	8534	I vote for the latter.	I vote for the latter.	409584	1471946363173	1471946363252	o	79
+846	8534	I vote for the latter.	I vote for the latter.	409586	1471946363513	1471946363610	t	84
+846	8534	I vote for the latter.	I vote for the latter.	409611	1471946363571	1471946363654	e	69
+846	8534	I vote for the latter.	I vote for the latter.	409612	1471946363659	1471946363739	 	32
+846	8534	I vote for the latter.	I vote for the latter.	409613	1471946363839	1471946363932	f	70
+846	8534	I vote for the latter.	I vote for the latter.	409614	1471946363926	1471946364008	o	79
+846	8534	I vote for the latter.	I vote for the latter.	409615	1471946364117	1471946364160	r	82
+846	8534	I vote for the latter.	I vote for the latter.	409616	1471946364496	1471946364588	 	32
+846	8534	I vote for the latter.	I vote for the latter.	409639	1471946364584	1471946364655	t	84
+846	8534	I vote for the latter.	I vote for the latter.	409643	1471946364656	1471946364766	h	72
+846	8534	I vote for the latter.	I vote for the latter.	409641	1471946364704	1471946364765	e	69
+846	8534	I vote for the latter.	I vote for the latter.	409646	1471946364803	1471946364888	 	32
+846	8534	I vote for the latter.	I vote for the latter.	409649	1471946364846	1471946364975	SHIFT	16
+846	8534	I vote for the latter.	I vote for the latter.	409651	1471946364989	1471946365035	l	76
+846	8534	I vote for the latter.	I vote for the latter.	409653	1471946365360	1471946365450	a	65
+846	8534	I vote for the latter.	I vote for the latter.	409674	1471946365510	1471946365563	t	84
+846	8534	I vote for the latter.	I vote for the latter.	409680	1471946365622	1471946365690	t	84
+846	8534	I vote for the latter.	I vote for the latter.	409683	1471946365718	1471946365834	e	69
+846	8534	I vote for the latter.	I vote for the latter.	409686	1471946365803	1471946365884	r	82
+846	8534	I vote for the latter.	I vote for the latter.	409688	1471946366213	1471946366267	,	188
+846	8534	I vote for the latter.	I vote for the latter.	409739	1471946366710	1471946366766	BKSP	8
+846	8534	I vote for the latter.	I vote for the latter.	409741	1471946366881	1471946366991	,	188
+846	8534	I vote for the latter.	I vote for the latter.	409743	1471946367380	1471946367443	p	80
+846	8534	I vote for the latter.	I vote for the latter.	409746	1471946367640	1471946367689	BKSP	8
+846	8534	I vote for the latter.	I vote for the latter.	409749	1471946367758	1471946367822	BKSP	8

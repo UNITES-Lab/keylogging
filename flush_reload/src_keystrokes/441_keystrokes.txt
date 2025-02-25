@@ -1,0 +1,721 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199488	1471941106593	1471941107010	SHIFT	16
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199489	1471941106925	1471941107010	I	73
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199490	1471941107088	1471941107209	f	70
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199492	1471941107303	1471941107398	 	32
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199494	1471941108447	1471941108566	y	89
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199496	1471941108628	1471941108732	o	79
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199535	1471941109299	1471941109372	u	85
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199537	1471941109466	1471941109600	r	82
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199539	1471941109928	1471941110035	 	32
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199541	1471941110479	1471941110591	r	82
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199543	1471941110685	1471941110806	e	69
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199569	1471941110982	1471941111175	a	65
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199571	1471941111137	1471941111272	s	83
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199573	1471941111775	1471941111861	o	79
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199574	1471941112221	1471941112295	n	78
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199575	1471941112389	1471941112542	a	65
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199609	1471941112726	1471941112792	b	66
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199611	1471941113199	1471941113295	l	76
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199615	1471941113374	1471941113482	e	69
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199619	1471941114156	1471941114267	,	188
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199624	1471941114595	1471941114686	 	32
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199803	1471941114793	1471941115024	SHIFT	16
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199807	1471941114965	1471941115071	I	73
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199812	1471941115652	1471941116143	SHIFT	16
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199816	1471941116079	1471941116159	"	222
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199818	1471941117467	1471941117548	BKSP	8
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199820	1471941118947	1471941119020	'	222
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199822	1471941120403	1471941120460	l	76
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199825	1471941120554	1471941120658	l	76
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199879	1471941120941	1471941121026	 	32
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199880	1471941121451	1471941121543	b	66
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199881	1471941121902	1471941122027	e	69
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199882	1471941122230	1471941122362	r	82
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199884	1471941122818	1471941122886	e	69
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199942	1471941123328	1471941123535	a	65
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199943	1471941123511	1471941123634	s	83
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199944	1471941123946	1471941124036	o	79
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199945	1471941124302	1471941124388	b	66
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199946	1471941124794	1471941124921	BKSP	8
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	199947	1471941125234	1471941125324	n	78
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	200005	1471941125402	1471941125540	a	65
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	200006	1471941125884	1471941125960	b	66
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	200008	1471941126304	1471941126395	l	76
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	200010	1471941126520	1471941126644	e	69
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	200012	1471941127412	1471941127501	.	190
+441	4169	If your reasonable, I'll bereasonable.	If your reasonable, I'll be reasonable.	200133	1471941130926	1471941131074	 	32
+441	4186	Please give me a call.	Please give me a call.	200446	1471941144334	1471941144640	SHIFT	16
+441	4186	Please give me a call.	Please give me a call.	200445	1471941144521	1471941144609	P	80
+441	4186	Please give me a call.	Please give me a call.	200447	1471941145102	1471941145178	l	76
+441	4186	Please give me a call.	Please give me a call.	200448	1471941145225	1471941145359	e	69
+441	4186	Please give me a call.	Please give me a call.	200449	1471941145594	1471941145795	a	65
+441	4186	Please give me a call.	Please give me a call.	200477	1471941145682	1471941145850	s	83
+441	4186	Please give me a call.	Please give me a call.	200478	1471941145959	1471941146141	e	69
+441	4186	Please give me a call.	Please give me a call.	200479	1471941146203	1471941146298	 	32
+441	4186	Please give me a call.	Please give me a call.	200480	1471941147035	1471941147150	g	71
+441	4186	Please give me a call.	Please give me a call.	200481	1471941147259	1471941147352	i	73
+441	4186	Please give me a call.	Please give me a call.	200482	1471941147587	1471941147717	v	86
+441	4186	Please give me a call.	Please give me a call.	200507	1471941147717	1471941147867	e	69
+441	4186	Please give me a call.	Please give me a call.	200509	1471941148039	1471941148123	 	32
+441	4186	Please give me a call.	Please give me a call.	200511	1471941148549	1471941148639	m	77
+441	4186	Please give me a call.	Please give me a call.	200513	1471941148654	1471941148772	e	69
+441	4186	Please give me a call.	Please give me a call.	200515	1471941148928	1471941149024	 	32
+441	4186	Please give me a call.	Please give me a call.	200539	1471941149058	1471941149206	a	65
+441	4186	Please give me a call.	Please give me a call.	200542	1471941149300	1471941149407	 	32
+441	4186	Please give me a call.	Please give me a call.	200545	1471941149766	1471941149906	c	67
+441	4186	Please give me a call.	Please give me a call.	200549	1471941149953	1471941150092	a	65
+441	4186	Please give me a call.	Please give me a call.	200553	1471941150155	1471941150261	l	76
+441	4186	Please give me a call.	Please give me a call.	200609	1471941150338	1471941150461	l	76
+441	4186	Please give me a call.	Please give me a call.	200610	1471941150555	1471941150679	.	190
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200699	1471941154416	1471941154661	SHIFT	16
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200701	1471941154588	1471941154724	D	68
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200703	1471941154817	1471941154912	o	79
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200704	1471941155147	1471941155230	 	32
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200705	1471941155496	1471941155667	w	87
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200747	1471941155596	1471941155762	e	69
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200748	1471941155965	1471941156066	 	32
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200749	1471941156332	1471941156401	h	72
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200750	1471941156432	1471941156596	a	65
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200751	1471941156955	1471941157114	v	86
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200753	1471941157208	1471941157367	e	69
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200827	1471941157534	1471941157636	 	32
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200829	1471941157886	1471941158075	SHIFT	16
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200831	1471941158027	1471941158107	N	78
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200833	1471941158263	1471941158404	e	69
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200835	1471941158891	1471941159070	w	87
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200840	1471941159274	1471941159376	 	32
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200903	1471941159450	1471941160291	SHIFT	16
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200902	1471941160115	1471941160229	Y	89
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200904	1471941160416	1471941160515	o	79
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200905	1471941161002	1471941161116	r	82
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200906	1471941161588	1471941161685	k	75
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200907	1471941162045	1471941162120	 	32
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200938	1471941162641	1471941162756	s	83
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200939	1471941162881	1471941162974	o	79
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200942	1471941163099	1471941163207	r	82
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200945	1471941163410	1471941163524	t	84
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	200948	1471941164152	1471941164261	e	69
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	201015	1471941164368	1471941164509	d	68
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	201017	1471941164681	1471941164764	 	32
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	201019	1471941165123	1471941165215	o	79
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	201021	1471941165605	1471941165667	u	85
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	201022	1471941165730	1471941165834	t	84
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	201101	1471941166069	1471941166438	SHIFT	16
+441	4199	Do we have New York sorted out?	Do we have New York sorted out?	201104	1471941166367	1471941166485	?	191
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201245	1471941170116	1471941170415	SHIFT	16
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201243	1471941170305	1471941170352	I	73
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201248	1471941170966	1471941171053	'	222
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201249	1471941172357	1471941172471	v	86
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201251	1471941172471	1471941172573	e	69
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201253	1471941172761	1471941172857	 	32
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201288	1471941173612	1471941173694	n	78
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201289	1471941173767	1471941173878	e	69
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201291	1471941174300	1471941174380	v	86
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201293	1471941174458	1471941174677	e	69
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201326	1471941174532	1471941174722	r	82
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201328	1471941175034	1471941175132	 	32
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201331	1471941175398	1471941175499	b	66
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201335	1471941175546	1471941175636	e	69
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201336	1471941175730	1471941175850	e	69
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201338	1471941175928	1471941176020	n	78
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201375	1471941176161	1471941176254	 	32
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201377	1471941176719	1471941176823	t	84
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201379	1471941176886	1471941176974	o	79
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201381	1471941177114	1471941177207	 	32
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201383	1471941177283	1471941177422	t	84
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201420	1471941177468	1471941177559	h	72
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201424	1471941177637	1471941177773	e	69
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201429	1471941177898	1471941177993	 	32
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201434	1471941178352	1471941178491	s	83
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201437	1471941178663	1471941178745	p	80
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201469	1471941178833	1471941178929	e	69
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201471	1471941179007	1471941179114	e	69
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201475	1471941179223	1471941179371	d	68
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201481	1471941179715	1471941179830	w	87
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201485	1471941179963	1471941180128	a	65
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201550	1471941180295	1471941180384	y	89
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201551	1471941181470	1471941181554	,	188
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201553	1471941181726	1471941181808	 	32
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201555	1471941181964	1471941182042	b	66
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201556	1471941182935	1471941183026	u	85
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201589	1471941183066	1471941183177	t	84
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201590	1471941183318	1471941183396	 	32
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201591	1471941183899	1471941183998	i	73
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201592	1471941184045	1471941184178	f	70
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201593	1471941184225	1471941184315	 	32
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201658	1471941184432	1471941184563	t	84
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201660	1471941184641	1471941184734	h	72
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201662	1471941184922	1471941185018	y	89
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201664	1471941186031	1471941186122	BKSP	8
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201666	1471941186450	1471941186563	e	69
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201669	1471941186657	1471941186757	y	89
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201736	1471941187060	1471941187142	 	32
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201739	1471941187910	1471941188010	c	67
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201741	1471941188135	1471941188213	o	79
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201742	1471941188494	1471941188596	m	77
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201743	1471941188596	1471941188698	e	69
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201786	1471941188832	1471941188931	,	188
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201787	1471941189419	1471941189534	 	32
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201788	1471941189831	1471941190054	SHIFT	16
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201789	1471941189983	1471941190085	I	73
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201790	1471941190226	1471941190321	 	32
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201791	1471941190546	1471941190668	w	87
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201825	1471941190690	1471941190804	i	73
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201826	1471941190944	1471941191039	l	76
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201827	1471941191133	1471941191238	l	76
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201828	1471941191410	1471941191491	 	32
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201830	1471941191895	1471941191991	g	71
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201868	1471941192080	1471941192190	o	79
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201870	1471941192347	1471941192465	 	32
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201872	1471941192947	1471941193062	t	84
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201874	1471941193124	1471941193198	h	72
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201876	1471941193213	1471941193431	e	69
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201902	1471941193328	1471941193482	r	82
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201903	1471941193560	1471941193726	e	69
+441	4208	I've never been to the speedway, but if they come, I will go there.	I've never been to the speedway, but if they come, I will go there.	201904	1471941194620	1471941194685	.	190
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	201971	1471941196858	1471941197212	SHIFT	16
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	201974	1471941197127	1471941197259	T	84
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	201976	1471941197306	1471941197379	h	72
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	201979	1471941197457	1471941197561	e	69
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	201981	1471941197686	1471941197763	 	32
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	201983	1471941197842	1471941197993	a	65
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202020	1471941198066	1471941198195	d	68
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202021	1471941198745	1471941198818	m	77
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202023	1471941198912	1471941199016	i	73
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202025	1471941199219	1471941199316	n	78
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202026	1471941200008	1471941200151	i	73
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202079	1471941200824	1471941200938	s	83
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202081	1471941201220	1471941201308	t	84
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202083	1471941201401	1471941201524	r	82
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202085	1471941201649	1471941201837	a	65
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202087	1471941202040	1471941202144	t	84
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202123	1471941202195	1471941202279	i	73
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202125	1471941202373	1471941202479	o	79
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202127	1471941202679	1471941202779	n	78
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202129	1471941203107	1471941203197	 	32
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202131	1471941203635	1471941203716	h	72
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202175	1471941203716	1471941203869	a	65
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202177	1471941203787	1471941203932	s	83
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202179	1471941204312	1471941204464	BKSP	8
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202181	1471941204936	1471941205053	d	68
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202184	1471941205147	1471941205254	 	32
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202187	1471941205804	1471941205876	n	78
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202201	1471941205969	1471941206074	o	79
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202202	1471941206214	1471941206324	 	32
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202203	1471941206668	1471941206760	i	73
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202204	1471941207073	1471941207146	m	77
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202205	1471941207239	1471941207345	m	77
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202219	1471941207386	1471941207496	e	69
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202221	1471941207652	1471941207780	d	68
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202223	1471941207811	1471941207898	i	73
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202225	1471941207978	1471941208145	a	65
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202227	1471941208239	1471941208316	t	84
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202253	1471941208667	1471941208771	e	69
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202254	1471941208897	1471941208985	 	32
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202255	1471941209282	1471941209369	c	67
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202256	1471941209479	1471941209586	o	79
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202257	1471941209711	1471941209804	m	77
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202287	1471941209890	1471941210005	m	77
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202289	1471941210005	1471941210121	e	69
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202294	1471941210842	1471941210941	n	78
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202296	1471941210941	1471941211059	t	84
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202299	1471941211168	1471941211260	 	32
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202365	1471941211634	1471941211742	i	73
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202367	1471941212198	1471941212265	BKSP	8
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202368	1471941212609	1471941212698	o	79
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202369	1471941212856	1471941212965	n	78
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202370	1471941213059	1471941213150	 	32
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202371	1471941213197	1471941213330	t	84
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202391	1471941213378	1471941213468	h	72
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202394	1471941213515	1471941213666	e	69
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202399	1471941213822	1471941213934	 	32
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202401	1471941214341	1471941214455	v	86
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202404	1471941214533	1471941214638	o	79
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202436	1471941214931	1471941215007	t	84
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202438	1471941215069	1471941215189	e	69
+441	4228	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	202439	1471941215616	1471941215709	.	190
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202536	1471941217761	1471941218001	SHIFT	16
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202537	1471941217933	1471941218016	I	73
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202538	1471941218173	1471941218252	 	32
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202539	1471941218331	1471941218450	w	87
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202540	1471941218497	1471941218586	i	73
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202541	1471941218742	1471941218821	l	76
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202568	1471941218905	1471941219019	l	76
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202569	1471941219197	1471941219272	 	32
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202570	1471941219491	1471941219557	b	66
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202571	1471941219635	1471941219755	e	69
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202572	1471941219801	1471941219890	 	32
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202649	1471941220861	1471941220943	o	79
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202651	1471941221462	1471941221546	u	85
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202654	1471941221546	1471941221662	t	84
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202657	1471941221787	1471941221913	 	32
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202660	1471941222431	1471941222516	o	79
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202683	1471941222640	1471941222733	n	78
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202685	1471941222858	1471941222951	 	32
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202687	1471941222990	1471941223182	SHIFT	16
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202689	1471941223150	1471941223250	F	70
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202691	1471941223500	1471941223618	r	82
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202693	1471941223727	1471941223820	i	73
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202749	1471941224651	1471941224803	d	68
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202751	1471941224866	1471941225036	a	65
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202752	1471941225036	1471941225141	y	89
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202753	1471941226081	1471941226163	,	188
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202754	1471941226319	1471941226396	 	32
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202805	1471941227040	1471941227117	b	66
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202808	1471941227607	1471941227716	u	85
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202811	1471941227716	1471941227818	t	84
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202813	1471941227927	1471941228019	 	32
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202815	1471941228217	1471941228396	a	65
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202843	1471941228457	1471941228538	n	78
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202847	1471941228757	1471941228855	y	89
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202852	1471941229058	1471941229139	 	32
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202855	1471941229499	1471941229575	o	79
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202857	1471941229731	1471941229841	t	84
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202873	1471941229913	1471941229993	h	72
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202877	1471941230024	1471941230211	e	69
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202880	1471941230125	1471941230273	r	82
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202885	1471941230648	1471941230743	 	32
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202887	1471941230868	1471941231041	d	68
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202921	1471941231106	1471941231275	a	65
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202922	1471941231353	1471941231432	y	89
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202923	1471941231745	1471941231832	 	32
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202925	1471941232269	1471941232350	i	73
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202927	1471941232428	1471941232551	s	83
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202948	1471941232601	1471941232688	 	32
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202950	1471941232797	1471941232902	f	70
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202952	1471941233027	1471941233119	i	73
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202954	1471941233495	1471941233587	n	78
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202956	1471941233602	1471941233705	e	69
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202988	1471941233871	1471941233940	,	188
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202990	1471941234595	1471941234676	BKSP	8
+441	4238	I will be out on Friday, but any other day is fine.	I will be out on Friday, but any other day is fine.	202991	1471941235067	1471941235174	.	190
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203014	1471941237047	1471941237370	SHIFT	16
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203016	1471941237305	1471941237401	I	73
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203022	1471941237558	1471941237652	 	32
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203027	1471941237699	1471941237834	w	87
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203032	1471941237927	1471941238004	o	79
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203035	1471941238412	1471941238489	u	85
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203208	1471941239274	1471941239343	l	76
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203212	1471941239390	1471941239524	d	68
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203216	1471941240751	1471941240807	n	78
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203217	1471941243754	1471941243826	'	222
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203220	1471941244344	1471941244442	t	84
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203294	1471941245274	1471941245347	 	32
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203295	1471941245659	1471941245810	s	83
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203296	1471941245950	1471941246110	a	65
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203300	1471941246157	1471941246234	y	89
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203303	1471941246453	1471941246551	 	32
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203403	1471941247069	1471941247323	SHIFT	16
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203406	1471941247288	1471941247370	I	73
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203409	1471941248123	1471941248206	'	222
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203414	1471941248708	1471941248809	m	77
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203417	1471941248949	1471941249056	 	32
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203420	1471941249858	1471941249945	1	97
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203477	1471941250080	1471941250179	0	96
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203482	1471941250257	1471941250379	0	96
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203486	1471941250785	1471941250866	 	32
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203489	1471941251448	1471941251552	p	80
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203492	1471941251552	1471941251704	e	69
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203530	1471941251635	1471941251769	r	82
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203532	1471941252237	1471941252431	c	67
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203536	1471941252400	1471941252534	e	69
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203539	1471941252691	1471941252789	n	78
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203541	1471941253761	1471941253843	t	84
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203542	1471941254155	1471941254244	 	32
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203562	1471941254525	1471941254627	b	66
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203564	1471941254705	1471941254828	u	85
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203567	1471941255047	1471941255161	t	84
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203569	1471941255380	1471941255481	 	32
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203571	1471941255699	1471941255970	SHIFT	16
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203724	1471941255920	1471941255994	I	73
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203725	1471941256940	1471941257036	'	222
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203726	1471941258436	1471941258526	m	77
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203727	1471941258682	1471941258777	 	32
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203729	1471941259215	1471941259342	d	68
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203731	1471941260303	1471941260477	a	65
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203754	1471941260748	1471941260882	r	82
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203755	1471941261007	1471941261084	n	78
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203756	1471941261209	1471941261305	 	32
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203757	1471941261430	1471941261551	c	67
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203758	1471941261613	1471941261686	l	76
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203800	1471941261816	1471941261905	o	79
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203804	1471941261920	1471941262068	s	83
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203810	1471941262178	1471941262303	e	69
+441	4250	I wouldn't say I'm 100 percent but I'm darn close.	I wouldn't say I'm 100 percent but I'm darn close.	203814	1471941262743	1471941262824	.	190
+441	4266	Did we plan that?	Did we pan that/	203930	1471941265273	1471941265571	SHIFT	16
+441	4266	Did we plan that?	Did we pan that/	203934	1471941265496	1471941265633	D	68
+441	4266	Did we plan that?	Did we pan that/	203937	1471941266181	1471941266317	i	73
+441	4266	Did we plan that?	Did we pan that/	203940	1471941266442	1471941266568	d	68
+441	4266	Did we plan that?	Did we pan that/	203943	1471941266646	1471941266721	 	32
+441	4266	Did we plan that?	Did we pan that/	203945	1471941267018	1471941267225	w	87
+441	4266	Did we plan that?	Did we pan that/	204009	1471941267137	1471941267274	e	69
+441	4266	Did we plan that?	Did we pan that/	204014	1471941267414	1471941267506	 	32
+441	4266	Did we plan that?	Did we pan that/	204018	1471941267994	1471941268093	p	80
+441	4266	Did we plan that?	Did we pan that/	204021	1471941268156	1471941268321	a	65
+441	4266	Did we plan that?	Did we pan that/	204026	1471941269075	1471941269163	n	78
+441	4266	Did we plan that?	Did we pan that/	204028	1471941269272	1471941269363	 	32
+441	4266	Did we plan that?	Did we pan that/	204078	1471941269622	1471941269729	t	84
+441	4266	Did we plan that?	Did we pan that/	204080	1471941269791	1471941269868	h	72
+441	4266	Did we plan that?	Did we pan that/	204082	1471941269884	1471941270062	a	65
+441	4266	Did we plan that?	Did we pan that/	204083	1471941270109	1471941270184	t	84
+441	4266	Did we plan that?	Did we pan that/	204084	1471941270687	1471941270875	SHIFT	16
+441	4266	Did we plan that?	Did we pan that/	204085	1471941271789	1471941271873	/	191
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204188	1471941274783	1471941274985	w	87
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204190	1471941274915	1471941275047	e	69
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204193	1471941275831	1471941275935	BKSP	8
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204195	1471941276013	1471941276120	BKSP	8
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204197	1471941276292	1471941276840	SHIFT	16
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204199	1471941276763	1471941276903	W	87
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204200	1471941277012	1471941277139	e	69
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204201	1471941277451	1471941277557	 	32
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204220	1471941277805	1471941277940	s	83
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204222	1471941278034	1471941278096	h	72
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204224	1471941278174	1471941278340	a	65
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204226	1471941278512	1471941278596	l	76
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204227	1471941278674	1471941278794	l	76
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204268	1471941278967	1471941279051	 	32
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204269	1471941279629	1471941279717	t	84
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204270	1471941279858	1471941279982	r	82
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204271	1471941280107	1471941280194	y	89
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204272	1471941280491	1471941280586	 	32
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204315	1471941281034	1471941281136	t	84
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204316	1471941281277	1471941281372	o	79
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204317	1471941281498	1471941281606	 	32
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204318	1471941281731	1471941281840	f	70
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204319	1471941281902	1471941282007	i	73
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204357	1471941282651	1471941282730	n	78
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204358	1471941282792	1471941282926	d	68
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204360	1471941282973	1471941283078	 	32
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204363	1471941283156	1471941283324	a	65
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204366	1471941283340	1471941283461	 	32
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204390	1471941283722	1471941283877	c	67
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204392	1471941283923	1471941284031	o	79
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204394	1471941284156	1471941284249	m	77
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204396	1471941284358	1471941284449	m	77
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204398	1471941284511	1471941284647	a	65
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204493	1471941285260	1471941285353	BKSP	8
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204494	1471941286075	1471941286173	o	79
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204495	1471941286298	1471941286406	n	78
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204497	1471941286547	1471941286642	 	32
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204499	1471941287191	1471941287341	a	65
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204502	1471941288155	1471941288231	g	71
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204567	1471941288290	1471941288444	a	65
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204569	1471941288663	1471941288747	n	78
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204570	1471941289030	1471941289163	d	68
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204571	1471941289273	1471941289415	a	65
+441	4273	We shall try to find a common agenda.	We shall try to find a common aganda.	204572	1471941290468	1471941290541	.	190
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204742	1471941292728	1471941293509	SHIFT	16
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204741	1471941293076	1471941293181	Q	81
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204743	1471941293714	1471941293800	BKSP	8
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204744	1471941293987	1471941294451	SHIFT	16
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204746	1471941294349	1471941294482	W	87
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204748	1471941294748	1471941294820	h	72
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204751	1471941294867	1471941295017	a	65
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204755	1471941295205	1471941295334	t	84
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204807	1471941295440	1471941295559	 	32
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204809	1471941296103	1471941296193	i	73
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204811	1471941296240	1471941296372	s	83
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204813	1471941296404	1471941296508	 	32
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204815	1471941296540	1471941296659	t	84
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204904	1471941296768	1471941296845	h	72
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204906	1471941297001	1471941297125	e	69
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204908	1471941297313	1471941297428	 	32
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204909	1471941298638	1471941298764	s	83
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204910	1471941299123	1471941299234	t	84
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204954	1471941299368	1471941299532	a	65
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204957	1471941299876	1471941299985	t	84
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204960	1471941300507	1471941300606	u	85
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204963	1471941300653	1471941300756	s	83
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204966	1471941300881	1471941300975	 	32
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	204999	1471941301634	1471941301718	o	79
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205002	1471941301771	1471941301908	f	70
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205005	1471941301970	1471941302046	 	32
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205008	1471941302187	1471941302326	t	84
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205011	1471941302389	1471941302494	h	72
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205053	1471941302494	1471941302643	e	69
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205056	1471941302736	1471941302830	 	32
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205060	1471941302955	1471941303201	SHIFT	16
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205062	1471941303149	1471941303232	P	80
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205065	1471941303373	1471941303481	e	69
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205066	1471941304109	1471941304202	m	77
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205226	1471941304328	1471941304451	e	69
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205228	1471941305094	1471941305220	x	88
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205230	1471941305298	1471941305392	 	32
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205232	1471941309166	1471941309301	d	68
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205234	1471941309692	1471941309787	i	73
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205271	1471941309802	1471941309936	s	83
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205272	1471941310367	1471941310473	c	67
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205273	1471941310864	1471941310975	u	85
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205275	1471941311240	1471941311391	s	83
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205278	1471941311469	1471941311578	s	83
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205342	1471941311633	1471941311730	i	73
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205344	1471941311824	1471941311929	o	79
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205348	1471941312082	1471941312196	n	78
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205352	1471941312746	1471941312850	s	83
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205356	1471941313461	1471941313822	SHIFT	16
+441	4286	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	205362	1471941313789	1471941313932	?	191
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205547	1471941315934	1471941316980	SHIFT	16
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205545	1471941316863	1471941316949	Y	89
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205550	1471941317371	1471941317465	o	79
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205553	1471941317559	1471941317635	u	85
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205555	1471941318827	1471941318905	'	222
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205559	1471941319533	1471941319593	l	76
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205583	1471941319696	1471941319791	l	76
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205586	1471941320010	1471941320076	 	32
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205590	1471941320420	1471941320494	h	72
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205594	1471941320540	1471941320689	a	65
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205602	1471941321017	1471941321142	v	86
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205648	1471941321186	1471941321311	e	69
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205649	1471941321420	1471941321513	 	32
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205650	1471941322063	1471941322150	t	84
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205651	1471941322244	1471941322334	o	79
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205652	1471941322474	1471941322582	 	32
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205705	1471941322595	1471941322748	f	70
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205708	1471941322779	1471941322884	o	79
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205712	1471941322978	1471941323102	r	82
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205714	1471941323492	1471941323618	w	87
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205718	1471941323759	1471941323918	a	65
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205784	1471941324150	1471941324254	r	82
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205785	1471941324411	1471941324538	d	68
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205786	1471941325104	1471941325178	 	32
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205787	1471941325474	1471941325592	t	84
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205788	1471941325654	1471941325744	h	72
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205832	1471941325809	1471941325983	a	65
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205834	1471941326109	1471941326243	t	84
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205836	1471941326400	1471941326512	 	32
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205837	1471941326872	1471941326949	h	72
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205838	1471941327121	1471941327216	o	79
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205901	1471941327663	1471941327768	m	77
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205903	1471941327784	1471941327886	e	69
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205906	1471941328011	1471941328104	 	32
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205908	1471941328950	1471941329086	f	70
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205913	1471941329211	1471941329307	o	79
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205994	1471941329416	1471941329539	r	82
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	205999	1471941329711	1471941329823	 	32
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	206003	1471941330152	1471941330259	d	68
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	206009	1471941330603	1471941330789	a	65
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	206016	1471941330805	1471941330928	d	68
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	206074	1471941331263	1471941331363	 	32
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	206078	1471941331691	1471941331798	t	84
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	206082	1471941331876	1471941331967	o	79
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	206088	1471941332123	1471941332201	 	32
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	206093	1471941332297	1471941332416	s	83
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	206118	1471941332583	1471941332684	e	69
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	206120	1471941332778	1471941332886	e	69
+441	4302	You'll have to forward that home for dad to see.	You'll have to forward that home for dad to see.	206124	1471941332964	1471941333055	.	190
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206282	1471941335136	1471941335430	SHIFT	16
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206283	1471941335340	1471941335430	I	73
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206284	1471941335570	1471941335664	 	32
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206285	1471941335696	1471941335789	SHIFT	16
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206286	1471941336322	1471941336462	a	65
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206287	1471941336509	1471941336599	m	77
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206288	1471941336755	1471941336849	 	32
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206420	1471941336984	1471941337187	SHIFT	16
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206422	1471941337187	1471941337268	i	73
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206424	1471941337805	1471941337967	BKSP	8
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206426	1471941338658	1471941338772	i	73
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206428	1471941338866	1471941338989	n	78
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206431	1471941339083	1471941339192	 	32
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206435	1471941340245	1471941340315	5	101
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206503	1471941340440	1471941340530	0	96
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206505	1471941341361	1471941341631	SHIFT	16
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206506	1471941341600	1471941341669	M	77
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206507	1471941341872	1471941341969	 	32
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206509	1471941342375	1471941342485	i	73
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206512	1471941342704	1471941342834	f	70
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206634	1471941342889	1471941342990	 	32
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206636	1471941344717	1471941344824	y	89
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206638	1471941344886	1471941344993	o	79
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206641	1471941345165	1471941345268	u	85
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206643	1471941345627	1471941345721	 	32
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206708	1471941346137	1471941346217	n	78
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206709	1471941346342	1471941346434	e	69
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206710	1471941346527	1471941346634	e	69
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206711	1471941346759	1471941346884	d	68
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206713	1471941346915	1471941347036	 	32
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206768	1471941347364	1471941347438	m	77
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206770	1471941347516	1471941347637	e	69
+441	4317	I am in 50M if you need me.	I am in 50M if you need me.	206772	1471941347840	1471941347955	.	190
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	206964	1471941350132	1471941350398	SHIFT	16
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	206967	1471941350304	1471941350398	I	73
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	206972	1471941350554	1471941350632	 	32
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	206981	1471941351136	1471941351234	h	72
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	206989	1471941351562	1471941351667	o	79
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	206995	1471941351761	1471941351868	p	80
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207065	1471941351937	1471941352068	e	69
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207068	1471941352209	1471941352320	 	32
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207070	1471941352979	1471941353104	t	84
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207072	1471941353166	1471941353226	h	72
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207074	1471941353367	1471941353474	i	73
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207119	1471941353506	1471941353656	s	83
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207123	1471941353703	1471941353809	 	32
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207126	1471941354125	1471941354227	i	73
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207130	1471941354274	1471941354410	s	83
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207134	1471941354425	1471941354530	 	32
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207223	1471941354741	1471941354877	t	84
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207229	1471941354955	1471941355019	h	72
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207236	1471941355613	1471941355716	a	65
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207244	1471941356204	1471941356335	BKSP	8
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207250	1471941356507	1471941356611	e	69
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207255	1471941356721	1471941356835	 	32
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207336	1471941357279	1471941357357	l	76
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207339	1471941357436	1471941357571	a	65
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207343	1471941357696	1471941357858	s	83
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207345	1471941358309	1471941358409	t	84
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207347	1471941358768	1471941358861	 	32
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207418	1471941359583	1471941359695	r	82
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207423	1471941359805	1471941359882	e	69
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207427	1471941360273	1471941360382	v	86
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207432	1471941360475	1471941360569	i	73
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207436	1471941360616	1471941360733	s	83
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207511	1471941360934	1471941361019	i	73
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207515	1471941361128	1471941361236	o	79
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207520	1471941361407	1471941361518	n	78
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207523	1471941361800	1471941361903	 	32
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207526	1471941362407	1471941362539	f	70
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207619	1471941362871	1471941362958	o	79
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207621	1471941363005	1471941363124	r	82
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207624	1471941363234	1471941363312	 	32
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207627	1471941363861	1471941364332	SHIFT	16
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207630	1471941364267	1471941364379	S	83
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207632	1471941364629	1471941364748	4	69
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207856	1471941365941	1471941366035	BKSP	8
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207857	1471941366394	1471941366472	p	80
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207858	1471941366722	1471941366821	t	84
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207860	1471941367512	1471941367625	e	69
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207863	1471941367875	1471941367944	m	77
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207866	1471941368869	1471941368931	b	66
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207929	1471941368970	1471941369165	e	69
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207931	1471941369064	1471941369212	r	82
+441	4336	I hope this is the last revision for September.	I hope this is the last revision for September.	207936	1471941370170	1471941370236	.	190
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208091	1471941372434	1471941372777	SHIFT	16
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208093	1471941372716	1471941372840	T	84
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208096	1471941372934	1471941373012	h	72
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208100	1471941373090	1471941373272	a	65
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208104	1471941373304	1471941373395	n	78
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208108	1471941373506	1471941373628	k	75
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208165	1471941373628	1471941373761	s	83
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208167	1471941373855	1471941373948	 	32
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208169	1471941374188	1471941374314	f	70
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208170	1471941374392	1471941374498	o	79
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208171	1471941374592	1471941374715	r	82
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208255	1471941374793	1471941374899	 	32
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208260	1471941376016	1471941376106	k	75
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208268	1471941376169	1471941376287	e	69
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208274	1471941376365	1471941376471	e	69
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208280	1471941376596	1471941376673	p	80
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208385	1471941377003	1471941377091	i	73
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208387	1471941377611	1471941377697	n	78
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208390	1471941377728	1471941377843	g	71
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208392	1471941377936	1471941378044	 	32
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208395	1471941378844	1471941378962	y	89
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208516	1471941379009	1471941379116	o	79
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208519	1471941379210	1471941379300	u	85
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208522	1471941379456	1471941379581	r	82
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208525	1471941379909	1471941380048	s	83
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208527	1471941380568	1471941380702	BKSP	8
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208529	1471941380780	1471941380918	 	32
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208629	1471941381672	1471941381773	e	69
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208634	1471941382245	1471941382329	y	89
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208640	1471941382501	1471941382625	e	69
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208644	1471941382750	1471941382891	s	83
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208648	1471941383110	1471941383196	 	32
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208728	1471941383577	1471941383696	o	79
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208732	1471941384143	1471941384217	u	85
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208734	1471941384295	1471941384417	t	84
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208737	1471941384557	1471941384635	 	32
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208741	1471941384925	1471941385035	t	84
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208781	1471941385097	1471941385187	h	72
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208782	1471941385187	1471941385405	e	69
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208783	1471941385319	1471941385467	r	82
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208784	1471941385530	1471941385684	e	69
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208785	1471941385993	1471941386088	 	32
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208880	1471941386490	1471941386592	o	79
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208883	1471941386763	1471941386859	n	78
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208889	1471941386968	1471941387060	 	32
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208894	1471941387176	1471941387293	o	79
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	208899	1471941388156	1471941388247	u	85
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	209032	1471941388266	1471941388396	r	82
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	209039	1471941388506	1471941388615	 	32
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	209041	1471941389006	1471941389178	s	83
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	209047	1471941389537	1471941389634	t	84
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	209050	1471941389868	1471941389953	u	85
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	209234	1471941390283	1471941390386	f	70
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	209236	1471941390489	1471941390588	f	70
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	209238	1471941390947	1471941391483	SHIFT	16
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	209240	1471941392349	1471941392663	SHIFT	16
+441	4358	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	209244	1471941392568	1471941392679	!	49
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209478	1471941395531	1471941396143	SHIFT	16
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209481	1471941396051	1471941396143	I	73
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209485	1471941396284	1471941396391	 	32
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209490	1471941396673	1471941396838	w	87
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209494	1471941397688	1471941397781	o	79
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209496	1471941397874	1471941397949	u	85
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209556	1471941398624	1471941398718	l	76
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209559	1471941398765	1471941398884	d	68
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209563	1471941398962	1471941399052	 	32
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209567	1471941399256	1471941399384	s	83
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209573	1471941399540	1471941399638	u	85
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209658	1471941399897	1471941399988	f	70
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209662	1471941400348	1471941400421	BKSP	8
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209665	1471941400724	1471941400823	g	71
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209669	1471941400913	1471941401025	g	71
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209672	1471941401259	1471941401390	e	69
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209675	1471941401546	1471941401676	s	83
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209747	1471941401737	1471941401828	t	84
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209750	1471941402110	1471941402212	 	32
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209754	1471941402732	1471941402847	t	84
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209755	1471941402956	1471941403049	o	79
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209758	1471941403143	1471941403234	u	85
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209840	1471941403595	1471941403685	 	32
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209843	1471941403872	1471941404047	a	65
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209846	1471941404836	1471941404922	n	78
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209848	1471941404954	1471941405088	d	68
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	209850	1471941405104	1471941405192	 	32
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210245	1471941405281	1471941405487	SHIFT	16
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210247	1471941405453	1471941405525	M	77
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210249	1471941405588	1471941405739	a	65
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210251	1471941406052	1471941406174	r	82
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210253	1471941406663	1471941406746	k	75
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210257	1471941408978	1471941409727	BKSP	8
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210260	1471941410044	1471941410142	BKSP	8
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210263	1471941410225	1471941410342	BKSP	8
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210267	1471941410420	1471941410556	BKSP	8
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210273	1471941410821	1471941411308	SHIFT	16
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210277	1471941411626	1471941411746	y	89
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210347	1471941411794	1471941411913	o	79
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210352	1471941411976	1471941412097	u	85
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210359	1471941412393	1471941412498	 	32
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210366	1471941412733	1471941412880	a	65
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210372	1471941413130	1471941413219	n	78
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210470	1471941413336	1471941413450	d	68
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210471	1471941413529	1471941413620	 	32
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210472	1471941413885	1471941414103	SHIFT	16
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210473	1471941414104	1471941414173	m	77
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210474	1471941414220	1471941414415	a	65
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210475	1471941414798	1471941414922	r	82
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210549	1471941415056	1471941415174	k	75
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210550	1471941415425	1471941415525	 	32
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210551	1471941415791	1471941415940	a	65
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210552	1471941416158	1471941416261	d	68
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210555	1471941416355	1471941416464	d	68
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210612	1471941416623	1471941416698	r	82
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210613	1471941416839	1471941416963	e	69
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210614	1471941417104	1471941417262	s	83
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210615	1471941417340	1471941417449	s	83
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210616	1471941417621	1471941417735	 	32
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210662	1471941417886	1471941418015	t	84
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210664	1471941418109	1471941418171	h	72
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210668	1471941418296	1471941418402	i	73
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210672	1471941418450	1471941418584	s	83
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210676	1471941418694	1471941418788	 	32
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210800	1471941419308	1471941419421	t	84
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210803	1471941419500	1471941419590	o	79
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210805	1471941420046	1471941420112	g	71
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210808	1471941420159	1471941420275	e	69
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210812	1471941420841	1471941420960	t	84
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210879	1471941421080	1471941421180	h	72
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210883	1471941421180	1471941421380	e	69
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210887	1471941421280	1471941421442	r	82
+441	4382	I would suggest you and Mark address this together.	I would suggest you and mark address this together.	210891	1471941422133	1471941422201	.	190

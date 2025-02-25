@@ -1,0 +1,663 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149406	1471939653800	1471939653958	SHIFT	16
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149404	1471939653839	1471939653934	W	87
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149407	1471939654254	1471939654390	e	69
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149409	1471939654358	1471939654470	 	32
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149410	1471939654502	1471939654623	w	87
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149414	1471939654598	1471939654670	i	73
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149416	1471939654734	1471939654790	l	76
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149418	1471939654854	1471939654926	l	76
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149419	1471939654910	1471939654982	 	32
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149420	1471939654998	1471939655086	b	66
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149421	1471939655121	1471939655207	e	69
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149425	1471939655190	1471939655310	 	32
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149427	1471939655558	1471939655686	d	68
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149430	1471939655630	1471939655734	i	73
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149433	1471939655694	1471939655766	n	78
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149436	1471939655798	1471939655870	g	71
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149478	1471939655838	1471939655958	i	73
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149476	1471939655878	1471939655950	n	78
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149480	1471939655991	1471939656094	g	71
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149483	1471939656054	1471939656174	 	32
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149491	1471939656455	1471939656630	BKSP	8
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149487	1471939656478	1471939656550	j	74
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149504	1471939656687	1471939656758	BKSP	8
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149511	1471939656814	1471939656870	BKSP	8
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149516	1471939656926	1471939656990	BKSP	8
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149520	1471939657054	1471939657110	BKSP	8
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149524	1471939657183	1471939657238	BKSP	8
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149527	1471939657303	1471939657350	BKSP	8
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149529	1471939657399	1471939657454	BKSP	8
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149535	1471939657511	1471939657574	BKSP	8
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149539	1471939657639	1471939657678	BKSP	8
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149546	1471939658687	1471939658806	 	32
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149486	1471939658863	1471939658951	d	68
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149488	1471939659199	1471939659263	i	73
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149497	1471939659343	1471939659447	n	78
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149505	1471939659439	1471939659583	i	73
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149522	1471939659535	1471939659623	n	78
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149525	1471939659567	1471939659686	g	71
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149526	1471939659679	1471939659783	 	32
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149528	1471939659807	1471939659943	f	70
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149532	1471939659911	1471939660079	a	65
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149536	1471939660055	1471939660191	s	83
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149541	1471939660255	1471939660408	h	72
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149530	1471939660383	1471939660591	i	73
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149533	1471939660543	1471939660711	o	79
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149537	1471939660647	1471939660759	n	78
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149543	1471939660767	1471939660903	a	65
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149551	1471939660895	1471939660999	b	66
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149558	1471939661007	1471939661071	l	76
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149547	1471939661255	1471939661343	y	89
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149552	1471939661391	1471939661519	 	32
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149559	1471939661575	1471939661695	l	76
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149566	1471939661607	1471939661727	a	65
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149567	1471939661711	1471939661815	t	84
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149572	1471939661775	1471939661903	e	69
+345	3084	We will be dining fashionably late.	We will be dining fashionably late.	149579	1471939662063	1471939662127	.	190
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149800	1471939673220	1471939673323	SHIFT	16
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149802	1471939673260	1471939673395	A	65
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149804	1471939673364	1471939673475	f	70
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149806	1471939673564	1471939673635	t	84
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149809	1471939673676	1471939673851	e	69
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149810	1471939673748	1471939673883	r	82
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149813	1471939673820	1471939673941	 	32
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149816	1471939673892	1471939673972	l	76
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149819	1471939673940	1471939674044	e	69
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149823	1471939674012	1471939674198	a	65
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149827	1471939674180	1471939674323	v	86
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149822	1471939674308	1471939674435	i	73
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149826	1471939674396	1471939674467	n	78
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149830	1471939674444	1471939674547	g	71
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149832	1471939674508	1471939674619	 	32
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149834	1471939674612	1471939674707	h	72
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149839	1471939674660	1471939674788	e	69
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149842	1471939674764	1471939674876	 	32
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149844	1471939674956	1471939675052	n	78
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149848	1471939675012	1471939675165	a	65
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149854	1471939675140	1471939675276	v	86
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149858	1471939675324	1471939675420	y	89
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149864	1471939675452	1471939675500	 	32
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149865	1471939675484	1471939675564	i	73
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149866	1471939676036	1471939676108	n	78
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149867	1471939676105	1471939676211	 	32
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149868	1471939676268	1471939676340	h	72
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149869	1471939676308	1471939676460	e	69
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149870	1471939676428	1471939676532	 	32
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149871	1471939676764	1471939676891	j	74
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149873	1471939676876	1471939677052	o	79
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149877	1471939676980	1471939677140	i	73
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149888	1471939677100	1471939677205	n	78
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149890	1471939677188	1471939677244	e	69
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149891	1471939677348	1471939677436	d	68
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149893	1471939677396	1471939677516	 	32
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149894	1471939677548	1471939677684	t	84
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149905	1471939677620	1471939677724	h	72
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149907	1471939677676	1471939677780	e	69
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149911	1471939677748	1471939677844	 	32
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149914	1471939677876	1471939678012	m	77
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149916	1471939677940	1471939678092	e	69
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149918	1471939678036	1471939678156	r	82
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149919	1471939678276	1471939678397	c	67
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149932	1471939678332	1471939678412	h	72
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149934	1471939678364	1471939678532	a	65
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149936	1471939678500	1471939678604	n	78
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149938	1471939678724	1471939678860	t	84
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149940	1471939678844	1471939678948	 	32
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149946	1471939679036	1471939679156	m	77
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149942	1471939679084	1471939679236	a	65
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149947	1471939679197	1471939679324	r	82
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149953	1471939679316	1471939679446	i	73
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149957	1471939679388	1471939679516	n	78
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149959	1471939679460	1471939679628	e	69
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149962	1471939679613	1471939679740	s	83
+345	3090	After leaving the navy in he joined the merchant marines.	After leaving he navy in he joined the merchant marines.	149964	1471939679732	1471939679820	.	190
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150006	1471939682372	1471939682501	SHIFT	16
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150008	1471939682405	1471939682517	I	73
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150011	1471939682509	1471939682573	 	32
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150014	1471939682621	1471939682724	w	87
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150016	1471939682749	1471939682813	i	73
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150018	1471939682837	1471939682932	s	83
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150033	1471939682909	1471939682989	h	72
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150036	1471939683429	1471939683540	 	32
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150039	1471939683645	1471939683749	h	72
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150042	1471939683693	1471939683829	e	69
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150045	1471939683797	1471939683909	 	32
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150049	1471939683901	1471939684023	w	87
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150050	1471939683949	1471939684069	o	79
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150051	1471939684005	1471939684101	u	85
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150052	1471939684149	1471939684244	l	76
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150087	1471939684189	1471939684295	d	68
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150089	1471939684237	1471939684357	 	32
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150093	1471939684374	1471939684485	l	76
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150096	1471939684413	1471939684554	e	69
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150099	1471939684493	1471939684652	a	65
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150102	1471939684613	1471939684734	r	82
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150105	1471939685117	1471939685205	BKSP	8
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150130	1471939685165	1471939685277	v	86
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150133	1471939685261	1471939685365	e	69
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150137	1471939685325	1471939685437	 	32
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150141	1471939685701	1471939685853	SHIFT	16
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150145	1471939685781	1471939685909	D	68
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150147	1471939685989	1471939686061	e	69
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150149	1471939686117	1471939686229	e	69
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150171	1471939686213	1471939686325	r	82
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150174	1471939686485	1471939686613	f	70
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150178	1471939686614	1471939686703	i	73
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150180	1471939686685	1471939686773	e	69
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150186	1471939687133	1471939687197	l	76
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150204	1471939687173	1471939687293	d	68
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150206	1471939687261	1471939687373	 	32
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150211	1471939687398	1471939687525	a	65
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150217	1471939687550	1471939687638	l	76
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150222	1471939687630	1471939687709	e	69
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150227	1471939687758	1471939687861	o	79
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150272	1471939687822	1471939687933	n	78
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150275	1471939687917	1471939687981	e	69
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150278	1471939688222	1471939688373	BKSP	8
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150281	1471939688438	1471939688493	BKSP	8
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150284	1471939688550	1471939688605	BKSP	8
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150287	1471939689021	1471939689109	BKSP	8
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150293	1471939689214	1471939689365	o	79
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150295	1471939689310	1471939689429	n	78
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150298	1471939689462	1471939689533	e	69
+345	3097	I wish he would leave Deerfield alone.	I wish he would leave Deerfield alone.	150301	1471939689550	1471939689605	.	190
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150367	1471939691614	1471939691741	SHIFT	16
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150368	1471939691710	1471939691845	T	84
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150369	1471939691774	1471939691878	h	72
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150371	1471939691838	1471939691949	e	69
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150374	1471939691942	1471939692078	 	32
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150400	1471939692030	1471939692198	a	65
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150401	1471939692174	1471939692270	g	71
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150402	1471939692390	1471939692502	r	82
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150403	1471939692454	1471939692526	e	69
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150404	1471939692590	1471939692670	e	69
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150405	1471939692822	1471939692902	m	77
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150410	1471939692878	1471939692990	e	69
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150411	1471939692998	1471939693086	n	78
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150412	1471939693102	1471939693238	t	84
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150413	1471939693182	1471939693302	 	32
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150415	1471939693310	1471939693414	a	72
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150425	1471939693447	1471939693566	s	83
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150426	1471939693518	1471939693614	 	32
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150428	1471939693726	1471939693782	b	66
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150432	1471939693862	1471939693934	e	69
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150436	1471939693974	1471939694071	e	69
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150470	1471939694062	1471939694182	n	78
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150473	1471939694158	1471939694270	 	32
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150477	1471939694526	1471939694614	a	65
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150480	1471939694830	1471939694902	p	80
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150482	1471939694966	1471939695054	p	80
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150483	1471939695206	1471939695286	o	79
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150489	1471939695503	1471939695574	BKSP	8
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150491	1471939695599	1471939695710	r	82
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150495	1471939695670	1471939695798	o	79
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150502	1471939695839	1471939695934	v	86
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150507	1471939695959	1471939696038	e	69
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150511	1471939696151	1471939696246	 	68
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150517	1471939696350	1471939696478	b	66
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150518	1471939696439	1471939696534	y	89
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150519	1471939696519	1471939696622	 	32
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150551	1471939696631	1471939696795	t	84
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150520	1471939696671	1471939696782	h	72
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150553	1471939696727	1471939696846	e	69
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150555	1471939696798	1471939696926	 	32
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150556	1471939696918	1471939697118	SHIFT	16
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150558	1471939697127	1471939697166	s	83
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150561	1471939697383	1471939697534	e	69
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150564	1471939697543	1471939697662	n	78
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150567	1471939697991	1471939698134	a	65
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150573	1471939698295	1471939698463	t	84
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150575	1471939698367	1471939698494	e	69
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150577	1471939698440	1471939698583	 	32
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150580	1471939698535	1471939698694	a	65
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150585	1471939698607	1471939698727	n	78
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150588	1471939698671	1471939698743	d	68
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150591	1471939698719	1471939698817	 	32
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150593	1471939698815	1471939698943	t	84
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150595	1471939698911	1471939699014	h	72
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150599	1471939698983	1471939699078	e	69
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150600	1471939699008	1471939699142	 	32
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150602	1471939699135	1471939699247	h	72
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150604	1471939699231	1471939699415	o	79
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150606	1471939699327	1471939699431	s	85
+345	3102	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and the house 	150607	1471939699399	1471939699518	e	69
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150731	1471939699471	1471939703678	 	32
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150725	1471939703206	1471939703318	SHIFT	16
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150727	1471939703230	1471939703350	A	65
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150728	1471939703407	1471939703582	r	82
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150730	1471939703470	1471939703598	e	69
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150733	1471939703647	1471939703798	w	87
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150739	1471939703735	1471939703854	e	69
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150740	1471939703800	1471939703927	 	32
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150742	1471939703983	1471939704159	r	82
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150745	1471939704071	1471939704190	e	69
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150749	1471939704143	1471939704326	a	65
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150754	1471939704278	1471939704414	d	68
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150756	1471939704455	1471939704526	y	89
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150759	1471939704534	1471939704654	 	32
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150762	1471939704663	1471939704790	f	70
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150766	1471939704743	1471939704910	o	79
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150771	1471939704855	1471939704950	r	82
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150772	1471939704912	1471939705038	 	32
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150773	1471939705023	1471939705118	h	84
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150774	1471939705135	1471939705254	i	73
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150796	1471939705191	1471939705318	s	83
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150798	1471939705263	1471939705374	 	32
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150800	1471939705519	1471939705662	o	79
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150802	1471939706047	1471939706161	n	78
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150804	1471939706135	1471939706247	 	32
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150807	1471939706215	1471939706350	SHIFT	16
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150815	1471939706263	1471939706358	M	77
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150818	1471939706407	1471939706526	o	79
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150822	1471939706447	1471939706542	n	78
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150826	1471939706519	1471939706662	d	68
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150829	1471939706591	1471939706726	a	65
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150835	1471939706711	1471939706798	y	89
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150838	1471939706839	1471939707023	SHIFT	16
+345	3109	Are we ready for this on Monday?	Are we ready for this on Monday?	150841	1471939706927	1471939707023	?	191
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	150945	1471939709255	1471939709399	SHIFT	16
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	150948	1471939709335	1471939709447	W	87
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	150951	1471939709551	1471939709687	e	69
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	150954	1471939709688	1471939709791	 	32
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	150957	1471939709815	1471939709919	n	78
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	150973	1471939709863	1471939709959	e	69
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	150976	1471939710024	1471939710095	e	69
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	150978	1471939710183	1471939710263	 	68
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	150981	1471939710359	1471939710495	t	84
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151022	1471939710407	1471939710535	o	79
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151025	1471939710479	1471939710567	 	32
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151028	1471939710655	1471939710743	SHIFT	16
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151032	1471939711055	1471939711159	b	66
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151033	1471939711239	1471939711343	r	82
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151034	1471939711304	1471939711431	i	73
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151035	1471939711384	1471939711503	n	78
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151042	1471939711455	1471939711559	g	71
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151044	1471939711543	1471939711647	 	32
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151053	1471939711656	1471939711791	t	84
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151047	1471939711688	1471939711783	h	72
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151058	1471939711976	1471939712087	e	69
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151061	1471939712096	1471939712215	m	77
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151068	1471939712184	1471939712295	 	32
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151070	1471939712280	1471939712408	a	65
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151071	1471939712400	1471939712455	l	76
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151073	1471939712560	1471939712679	o	79
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151075	1471939712616	1471939712751	n	78
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151079	1471939712696	1471939712791	g	71
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151083	1471939712768	1471939712839	 	32
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151086	1471939712984	1471939713103	s	83
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151090	1471939713056	1471939713135	l	76
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151094	1471939713240	1471939713351	o	79
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151134	1471939713272	1471939713383	w	87
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151135	1471939713424	1471939713511	y	89
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151136	1471939713608	1471939713759	.	190
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151138	1471939714080	1471939714152	BKSP	8
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151141	1471939714224	1471939714255	BKSP	8
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151147	1471939714320	1471939714383	BKSP	8
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151152	1471939714552	1471939714656	y	89
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151155	1471939714864	1471939714936	BKSP	8
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151160	1471939715248	1471939715408	w	87
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151164	1471939715376	1471939715537	l	76
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151165	1471939715520	1471939715639	y	89
+345	3115	We need to bring them along slowly.	We need to bring them along slowly.	151166	1471939715680	1471939715800	.	190
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151333	1471939720457	1471939720608	SHIFT	16
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151339	1471939720601	1471939720696	H	72
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151344	1471939720681	1471939720816	e	69
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151349	1471939720761	1471939720880	 	32
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151354	1471939720889	1471939721008	i	73
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151368	1471939720921	1471939721042	s	83
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151370	1471939721017	1471939721128	 	32
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151372	1471939721337	1471939721456	a	65
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151374	1471939721393	1471939721536	l	76
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151376	1471939721497	1471939721649	r	82
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151384	1471939721569	1471939721673	e	69
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151386	1471939721641	1471939721824	a	65
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151389	1471939721769	1471939721937	d	68
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151392	1471939721905	1471939722016	y	89
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151395	1471939721993	1471939722096	 	32
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151397	1471939722065	1471939722233	o	79
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151405	1471939722161	1471939722272	n	78
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151408	1471939722217	1471939722323	 	32
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151411	1471939722305	1471939722440	t	84
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151413	1471939722385	1471939722472	e	72
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151418	1471939722473	1471939722561	 	32
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151421	1471939722569	1471939722690	j	74
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151427	1471939722665	1471939722801	o	79
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151429	1471939722769	1471939722897	b	66
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151431	1471939722913	1471939723033	 	32
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151432	1471939722993	1471939723137	a	65
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151433	1471939723057	1471939723152	n	78
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151436	1471939723145	1471939723272	d	68
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151439	1471939723193	1471939723328	 	32
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151442	1471939723313	1471939723408	h	72
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151445	1471939723353	1471939723496	a	65
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151450	1471939723457	1471939723585	r	82
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151452	1471939723593	1471939723729	d	68
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151455	1471939723665	1471939723769	 	32
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151459	1471939723713	1471939723873	a	65
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151463	1471939723817	1471939723953	t	84
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151467	1471939723905	1471939724016	 	32
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151471	1471939723993	1471939724129	w	87
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151474	1471939724089	1471939724201	o	79
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151482	1471939724170	1471939724297	r	82
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151483	1471939724273	1471939724385	k	75
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151484	1471939724369	1471939724480	 	32
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151486	1471939724489	1471939724649	o	79
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151488	1471939724561	1471939724681	n	78
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151502	1471939724657	1471939724723	 	32
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151504	1471939724697	1471939724859	t	84
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151508	1471939724801	1471939724913	h	72
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151512	1471939724833	1471939724961	e	69
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151514	1471939724921	1471939725017	 	32
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151518	1471939725025	1471939725105	i	73
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151532	1471939725081	1471939725161	s	83
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151534	1471939725217	1471939725321	s	83
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151536	1471939725337	1471939725433	u	85
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151537	1471939725417	1471939725561	e	69
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151539	1471939725545	1471939725689	s	83
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151557	1471939725657	1471939725793	 	32
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151560	1471939725881	1471939725969	b	66
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151564	1471939726025	1471939726145	e	69
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151567	1471939726161	1471939726275	f	70
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151571	1471939726249	1471939726377	o	79
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151584	1471939726337	1471939726481	r	82
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151587	1471939726409	1471939726561	e	69
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151591	1471939726529	1471939726657	 	32
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151596	1471939726681	1471939726785	u	85
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151600	1471939726745	1471939726859	s	83
+345	3121	He is already on the job and hard at work on the issues before us.	He is already on the job and hard at work on the issues before us.	151595	1471939726841	1471939726937	.	190
+345	3131	You know that I love you.	You know that I love you.	151680	1471939729385	1471939729481	SHIFT	16
+345	3131	You know that I love you.	You know that I love you.	151684	1471939729458	1471939729513	Y	89
+345	3131	You know that I love you.	You know that I love you.	151688	1471939729546	1471939729698	o	79
+345	3131	You know that I love you.	You know that I love you.	151695	1471939729626	1471939729714	u	85
+345	3131	You know that I love you.	You know that I love you.	151701	1471939729722	1471939729778	 	32
+345	3131	You know that I love you.	You know that I love you.	151705	1471939730058	1471939730185	k	75
+345	3131	You know that I love you.	You know that I love you.	151697	1471939730162	1471939730281	n	78
+345	3131	You know that I love you.	You know that I love you.	151702	1471939730234	1471939730353	o	79
+345	3131	You know that I love you.	You know that I love you.	151706	1471939730274	1471939730402	w	87
+345	3131	You know that I love you.	You know that I love you.	151709	1471939730346	1471939730434	 	32
+345	3131	You know that I love you.	You know that I love you.	151712	1471939730442	1471939730537	t	84
+345	3131	You know that I love you.	You know that I love you.	151719	1471939730490	1471939730579	h	72
+345	3131	You know that I love you.	You know that I love you.	151725	1471939730546	1471939730698	a	65
+345	3131	You know that I love you.	You know that I love you.	151728	1471939730642	1471939730754	t	84
+345	3131	You know that I love you.	You know that I love you.	151731	1471939730690	1471939730786	 	32
+345	3131	You know that I love you.	You know that I love you.	151736	1471939730818	1471939730953	SHIFT	16
+345	3131	You know that I love you.	You know that I love you.	151734	1471939730866	1471939730947	I	73
+345	3131	You know that I love you.	You know that I love you.	151739	1471939730922	1471939731041	 	32
+345	3131	You know that I love you.	You know that I love you.	151742	1471939731026	1471939731073	l	76
+345	3131	You know that I love you.	You know that I love you.	151743	1471939731154	1471939731218	v	79
+345	3131	You know that I love you.	You know that I love you.	151745	1471939731267	1471939731354	e	69
+345	3131	You know that I love you.	You know that I love you.	151757	1471939731338	1471939731426	 	32
+345	3131	You know that I love you.	You know that I love you.	151759	1471939731386	1471939731490	y	89
+345	3131	You know that I love you.	You know that I love you.	151762	1471939731466	1471939731658	o	79
+345	3131	You know that I love you.	You know that I love you.	151766	1471939731570	1471939731674	u	85
+345	3131	You know that I love you.	You know that I love you.	151770	1471939731810	1471939731874	.	190
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151864	1471939734378	1471939734514	SHIFT	16
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151866	1471939734466	1471939734571	M	77
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151868	1471939734562	1471939734650	i	73
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151871	1471939734706	1471939734770	l	76
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151873	1471939734818	1471939734916	l	76
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151881	1471939734914	1471939735034	e	69
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151884	1471939734962	1471939735098	r	82
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151887	1471939735058	1471939735154	 	32
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151888	1471939735171	1471939735282	m	77
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151891	1471939735370	1471939735482	i	73
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151892	1471939735498	1471939735588	g	71
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151901	1471939735570	1471939735643	h	72
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151903	1471939735691	1471939735754	t	84
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151905	1471939735763	1471939735818	 	32
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151907	1471939736243	1471939736340	h	72
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151908	1471939736274	1471939736386	a	65
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151910	1471939736347	1471939736450	v	86
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151912	1471939736419	1471939736522	e	69
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151915	1471939736483	1471939736586	 	32
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151918	1471939736595	1471939736722	t	84
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151921	1471939736622	1471939736738	o	79
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151925	1471939736723	1471939736771	 	32
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151928	1471939736747	1471939736914	w	87
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151934	1471939736963	1471939737130	a	65
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151941	1471939737139	1471939737242	i	73
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151949	1471939737275	1471939737419	t	84
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151976	1471939737371	1471939737483	 	32
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151978	1471939737659	1471939737746	u	85
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151980	1471939737827	1471939737963	n	78
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151983	1471939737923	1471939738035	t	84
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151985	1471939737979	1471939738147	i	73
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151993	1471939738115	1471939738218	l	76
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	151996	1471939738203	1471939738339	 	32
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	152000	1471939738258	1471939738434	SHIFT	16
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	152003	1471939738355	1471939738491	S	83
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	152009	1471939738443	1471939738531	u	85
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	152012	1471939738627	1471939738699	d	78
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	152016	1471939738731	1471939738866	a	65
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	152019	1471939738835	1471939738923	y	89
+345	3135	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	152022	1471939738979	1471939739059	.	190
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152182	1471939742291	1471939742587	SHIFT	16
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152186	1471939742523	1471939742659	I	73
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152191	1471939742595	1471939742691	 	32
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152194	1471939742803	1471939742891	w	87
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152199	1471939742899	1471939743051	a	65
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152243	1471939742995	1471939743099	s	83
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152245	1471939743053	1471939743171	 	32
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152248	1471939743180	1471939743291	s	83
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152252	1471939743388	1471939743507	e	69
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152256	1471939743867	1471939744011	l	76
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152260	1471939744331	1471939744483	f	70
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152259	1471939744380	1471939744443	i	73
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152263	1471939744468	1471939744595	s	83
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152268	1471939744532	1471939744612	h	72
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152273	1471939744596	1471939744700	 	32
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152278	1471939744692	1471939744787	a	65
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152332	1471939744732	1471939744867	i	73
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152334	1471939744804	1471939744912	n	78
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152335	1471939744860	1471939744987	 	32
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152336	1471939745548	1471939745603	BKSP	8
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152337	1471939745764	1471939745811	BKSP	8
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152338	1471939745876	1471939745931	BKSP	8
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152341	1471939746004	1471939746027	BKSP	8
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152348	1471939746148	1471939746267	i	73
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152354	1471939746228	1471939746316	n	78
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152343	1471939746308	1471939746379	 	32
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152346	1471939746364	1471939746428	w	87
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152359	1471939746412	1471939746603	a	65
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152353	1471939746444	1471939746516	h	72
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152363	1471939746540	1471939746676	t	84
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152387	1471939746628	1471939746724	 	32
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152388	1471939746788	1471939746940	SHIFT	16
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152390	1471939746884	1471939747020	I	73
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152391	1471939747228	1471939747347	 	32
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152393	1471939747388	1471939747452	d	68
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152394	1471939747469	1471939747556	i	73
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152396	1471939747532	1471939747636	d	68
+345	3142	I was selfish in what I did.	I was selfish in waht I did.	152399	1471939747644	1471939747732	.	190
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152500	1471939751836	1471939751948	SHIFT	16
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152501	1471939751868	1471939751988	I	73
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152502	1471939752101	1471939752244	'	222
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152503	1471939752205	1471939752316	m	77
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152504	1471939752317	1471939752430	 	32
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152542	1471939752429	1471939752580	f	70
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152545	1471939752525	1471939752604	i	73
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152547	1471939752876	1471939752972	BKSP	8
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152551	1471939753013	1471939753100	u	85
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152555	1471939753165	1471939753212	l	76
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152557	1471939753277	1471939753364	l	76
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152559	1471939753421	1471939753509	y	89
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152589	1471939753501	1471939753589	 	32
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152591	1471939753645	1471939753764	r	82
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152593	1471939753709	1471939753820	e	69
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152595	1471939753885	1471939753941	v	86
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152596	1471939754181	1471939754276	BKSP	8
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152597	1471939754285	1471939754405	c	67
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152615	1471939754373	1471939754493	o	79
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152618	1471939754541	1471939754628	v	86
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152623	1471939754749	1471939754845	e	69
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152625	1471939754805	1471939754949	r	82
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152631	1471939754933	1471939755052	e	69
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152635	1471939755149	1471939755268	d	68
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152650	1471939755229	1471939755356	 	32
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152652	1471939755293	1471939755460	a	65
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152654	1471939755493	1471939755660	n	68
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152656	1471939755573	1471939755709	 	32
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152658	1471939755733	1471939755837	b	66
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152665	1471939755805	1471939755901	a	65
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152666	1471939755957	1471939756116	c	67
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152667	1471939756029	1471939756117	k	75
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152668	1471939756093	1471939756213	 	32
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152669	1471939756205	1471939756357	o	79
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152736	1471939756261	1471939756381	n	78
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152737	1471939756365	1471939756500	 	32
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152741	1471939756757	1471939756853	f	70
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152745	1471939756813	1471939756949	a	65
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152748	1471939757117	1471939757157	o	79
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152749	1471939757221	1471939757293	BKSP	8
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152750	1471939757493	1471939757541	BKSP	8
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152751	1471939757613	1471939757693	BKSP	8
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152752	1471939757861	1471939757973	p	80
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152772	1471939757902	1471939758013	a	65
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152774	1471939757990	1471939758101	c	67
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152777	1471939758021	1471939758157	e	69
+345	3148	I'm fully recovered and back on pace.	I'm fully recovered adn back on pace.	152781	1471939758253	1471939758333	.	190
+345	3157	We are having fun.	We are having fu.	152925	1471939763163	1471939763403	SHIFT	16
+345	3157	We are having fun.	We are having fu.	152926	1471939763324	1471939763499	W	87
+345	3157	We are having fun.	We are having fu.	152928	1471939763588	1471939763715	e	69
+345	3157	We are having fun.	We are having fu.	152930	1471939763676	1471939763827	 	32
+345	3157	We are having fun.	We are having fu.	152932	1471939763924	1471939764043	a	65
+345	3157	We are having fun.	We are having fu.	152942	1471939764012	1471939764171	r	82
+345	3157	We are having fun.	We are having fu.	152944	1471939764100	1471939764203	e	69
+345	3157	We are having fun.	We are having fu.	152948	1471939764124	1471939764267	 	32
+345	3157	We are having fun.	We are having fu.	152951	1471939764364	1471939764451	h	72
+345	3157	We are having fun.	We are having fu.	152955	1471939764428	1471939764539	a	65
+345	3157	We are having fun.	We are having fu.	152965	1471939764507	1471939764627	v	86
+345	3157	We are having fun.	We are having fu.	152967	1471939764603	1471939764756	i	73
+345	3157	We are having fun.	We are having fu.	152970	1471939764692	1471939764811	n	78
+345	3157	We are having fun.	We are having fu.	152974	1471939764748	1471939764835	g	71
+345	3157	We are having fun.	We are having fu.	152979	1471939764804	1471939764950	 	32
+345	3157	We are having fun.	We are having fu.	152989	1471939764932	1471939765059	f	70
+345	3157	We are having fun.	We are having fu.	152991	1471939764996	1471939765091	u	85
+345	3157	We are having fun.	We are having fu.	152993	1471939765156	1471939765259	.	190
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153108	1471939767252	1471939767388	SHIFT	16
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153110	1471939767316	1471939767420	H	72
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153113	1471939767508	1471939767619	e	69
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153115	1471939767580	1471939767724	 	32
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153116	1471939767964	1471939768108	w	87
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153117	1471939768236	1471939768348	r	82
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153133	1471939768316	1471939768420	o	79
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153136	1471939768428	1471939768581	t	84
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153143	1471939768484	1471939768612	e	69
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153149	1471939768556	1471939768684	 	32
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153153	1471939768748	1471939768828	n	78
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153157	1471939768916	1471939768988	u	85
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153164	1471939769092	1471939769180	m	77
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153166	1471939769228	1471939769356	e	69
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153170	1471939769316	1471939769484	r	82
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153177	1471939769628	1471939769764	o	79
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153194	1471939769700	1471939769813	u	85
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153195	1471939769796	1471939769916	s	83
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153196	1471939769852	1471939769988	 	32
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153197	1471939770228	1471939770308	b	66
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153198	1471939770469	1471939770532	o	79
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153199	1471939770597	1471939770724	o	79
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153204	1471939770693	1471939770820	k	75
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153205	1471939770813	1471939770932	s	83
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153207	1471939770869	1471939771012	 	32
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153209	1471939771021	1471939771188	o	79
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153217	1471939771100	1471939771204	n	78
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153218	1471939771180	1471939771276	 	32
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153219	1471939771309	1471939771380	h	72
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153220	1471939771445	1471939771516	u	85
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153221	1471939771613	1471939771701	m	77
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153222	1471939771693	1471939771844	a	65
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153231	1471939771773	1471939771852	n	78
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153233	1471939771869	1471939771996	 	32
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153237	1471939772028	1471939772084	d	68
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153240	1471939772173	1471939772228	e	69
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153243	1471939772325	1471939772356	v	86
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153245	1471939772461	1471939772556	e	69
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153258	1471939772637	1471939772732	l	76
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153259	1471939772877	1471939772948	o	79
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153260	1471939772917	1471939773044	p	80
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153261	1471939773189	1471939773295	m	77
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153275	1471939773269	1471939773364	e	69
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153278	1471939773373	1471939773453	n	78
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153282	1471939773437	1471939773516	t	84
+345	3163	He wrote numerous books on human development.	He wrote numerous books on human development.	153289	1471939773509	1471939773597	.	190
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153465	1471939777555	1471939777651	M	16
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153468	1471939777764	1471939777884	a	65
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153470	1471939777836	1471939777915	y	89
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153474	1471939777900	1471939778004	b	66
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153478	1471939778020	1471939778108	e	69
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153514	1471939778076	1471939778204	 	32
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153515	1471939778772	1471939778916	s	83
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153516	1471939778876	1471939778980	t	84
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153518	1471939778988	1471939779100	u	85
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153521	1471939779092	1471939779156	f	70
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153524	1471939779228	1471939779332	f	70
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153536	1471939779300	1471939779405	 	32
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153538	1471939779388	1471939779500	w	87
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153540	1471939779452	1471939779596	e	69
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153542	1471939779556	1471939779660	 	32
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153544	1471939779700	1471939779868	d	68
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153551	1471939779796	1471939779932	o	79
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153553	1471939779932	1471939780004	 	32
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153555	1471939780076	1471939780236	m	77
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153557	1471939780196	1471939780300	o	79
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153563	1471939780244	1471939780425	r	82
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153575	1471939780340	1471939780428	e	69
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153579	1471939780364	1471939780492	 	32
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153582	1471939780484	1471939780588	o	79
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153585	1471939780548	1471939780684	f	70
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153587	1471939780620	1471939780748	 	32
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153588	1471939780732	1471939780852	n	78
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153604	1471939780780	1471939780868	e	69
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153608	1471939780996	1471939781052	d	68
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153612	1471939781124	1471939781220	t	84
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153619	1471939781444	1471939781500	BKSP	8
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153625	1471939781572	1471939781644	BKSP	8
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153630	1471939781660	1471939781806	x	88
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153633	1471939781804	1471939781900	t	84
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153637	1471939781868	1471939781981	 	32
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153639	1471939781972	1471939782068	y	89
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153641	1471939782012	1471939782172	e	69
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153643	1471939782100	1471939782236	a	65
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153647	1471939782188	1471939782317	r	82
+345	3171	Maybe stuff we do more of next year.	Maybe stuff we do more of next year.	153648	1471939782300	1471939782388	.	190
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153735	1471939784460	1471939784604	SHIFT	16
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153736	1471939784573	1471939784732	R	82
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153737	1471939784709	1471939784804	e	69
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153738	1471939784941	1471939785060	s	83
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153739	1471939785021	1471939785157	e	69
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153753	1471939785117	1471939785245	r	82
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153755	1471939785357	1471939785469	v	86
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153757	1471939785437	1471939785580	e	69
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153760	1471939785541	1471939785669	 	32
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153763	1471939785869	1471939786028	SHIFT	16
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153766	1471939785973	1471939786077	H	72
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153780	1471939786045	1471939786213	e	69
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153782	1471939786165	1471939786301	a	65
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153785	1471939786357	1471939786453	p	80
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153788	1471939786469	1471939786557	 	32
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153791	1471939786581	1471939786757	o	79
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153807	1471939786685	1471939786805	n	78
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153810	1471939786758	1471939786845	 	32
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153812	1471939786925	1471939787020	y	89
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153815	1471939787005	1471939787173	o	79
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153817	1471939787077	1471939787213	u	85
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153819	1471939787221	1471939787365	r	82
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153831	1471939787309	1471939787437	 	32
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153833	1471939787917	1471939788053	r	82
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153835	1471939787981	1471939788084	o	79
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153836	1471939788077	1471939788244	s	83
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153837	1471939788165	1471939788317	t	84
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153839	1471939788325	1471939788493	e	69
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153848	1471939788413	1471939788549	r	82
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153850	1471939788501	1471939788645	 	32
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153852	1471939788629	1471939788773	t	84
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153856	1471939788701	1471939788837	h	72
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153859	1471939788821	1471939788901	i	73
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153864	1471939788885	1471939788973	s	83
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153865	1471939788941	1471939789053	 	32
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153866	1471939789077	1471939789173	w	87
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153867	1471939789133	1471939789221	e	69
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153868	1471939789293	1471939789381	e	69
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153880	1471939789373	1471939789485	k	75
+345	3177	Reserve Heap on your roster this week.	Reserve Heap on your roster this week.	153881	1471939789502	1471939789597	.	190

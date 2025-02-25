@@ -1,0 +1,765 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8398	1471934759002	1471934759153	SHIFT	16
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8401	1471934759123	1471934759212	Y	89
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8405	1471934759217	1471934759369	o	79
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8411	1471934759296	1471934759433	u	85
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8423	1471934759367	1471934759502	 	32
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8426	1471934759427	1471934759553	c	67
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8429	1471934759516	1471934759632	o	79
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8432	1471934759543	1471934759674	u	85
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8434	1471934759708	1471934759806	l	76
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8437	1471934759784	1471934759873	d	68
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8442	1471934759824	1471934759908	 	32
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8444	1471934759940	1471934760047	b	66
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8447	1471934760031	1471934760131	r	82
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8450	1471934760099	1471934760228	i	73
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8453	1471934760168	1471934760290	n	78
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8464	1471934760234	1471934760331	g	71
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8466	1471934760298	1471934760419	 	32
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8468	1471934760410	1471934760527	i	73
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8470	1471934760461	1471934760551	t	84
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8473	1471934760570	1471934760685	 	32
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8486	1471934760682	1471934760761	w	87
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8489	1471934760749	1471934760867	o	79
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8492	1471934760857	1471934760950	r	82
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8495	1471934760928	1471934761084	k	75
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8497	1471934761016	1471934761161	 	32
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8499	1471934761366	1471934761466	w	87
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8508	1471934761479	1471934761592	o	79
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8513	1471934761573	1471934761681	r	82
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8518	1471934761664	1471934761798	k	75
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8524	1471934761741	1471934761853	 	32
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8541	1471934761825	1471934761910	a	65
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8545	1471934761906	1471934762014	n	78
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8549	1471934761991	1471934762070	d	68
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8552	1471934762061	1471934762181	 	32
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8555	1471934762166	1471934762291	w	87
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8568	1471934762231	1471934762354	e	69
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8569	1471934762307	1471934762448	 	32
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8570	1471934762455	1471934762564	c	67
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8571	1471934762544	1471934762652	o	79
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8572	1471934762605	1471934762718	u	85
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8573	1471934762753	1471934762851	l	76
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8585	1471934762862	1471934762946	 	68
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8587	1471934763006	1471934763120	m	77
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8589	1471934763076	1471934763162	e	69
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8591	1471934763218	1471934763339	e	69
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8593	1471934763356	1471934763454	t	84
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8594	1471934763480	1471934763573	 	32
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8595	1471934763554	1471934763648	f	70
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8598	1471934763644	1471934763742	o	79
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8614	1471934763712	1471934763807	r	82
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8615	1471934763787	1471934763909	 	32
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8616	1471934763848	1471934763966	l	76
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8617	1471934763945	1471934764044	u	85
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8618	1471934764108	1471934764192	n	78
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8620	1471934764188	1471934764295	c	67
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8623	1471934764267	1471934764383	h	72
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8626	1471934764299	1471934764425	 	32
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8630	1471934764392	1471934764546	o	79
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8635	1471934764471	1471934764607	n	78
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8656	1471934764560	1471934764658	e	69
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8657	1471934764639	1471934764759	 	32
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8659	1471934764754	1471934764884	d	68
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8661	1471934764831	1471934764943	a	65
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8663	1471934764878	1471934764980	y	89
+38	189	You can bring it to work and we could meet for lunch one day.	You could bring it work work and we could meet for lunch one day.	8665	1471934765355	1471934765459	.	190
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8771	1471934768134	1471934768299	SHIFT	16
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8775	1471934768246	1471934768339	A	65
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8782	1471934768390	1471934768488	l	76
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8788	1471934768489	1471934768566	s	83
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8795	1471934768552	1471934768646	o	79
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8799	1471934768742	1471934768887	,	188
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8848	1471934768838	1471934768963	 	32
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8849	1471934769169	1471934769335	p	80
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8850	1471934769236	1471934769399	l	76
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8852	1471934769561	1471934769651	e	69
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8854	1471934769858	1471934769930	a	65
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8856	1471934770047	1471934770152	s	83
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8873	1471934770100	1471934770253	e	69
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8874	1471934770234	1471934770361	 	32
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8875	1471934770285	1471934770398	l	76
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8876	1471934770471	1471934770555	o	79
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8877	1471934770601	1471934770754	o	79
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8894	1471934770686	1471934770868	k	75
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8897	1471934770793	1471934770934	 	32
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8903	1471934770971	1471934771093	a	65
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8907	1471934771038	1471934771155	t	84
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8910	1471934771127	1471934771226	 	32
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8914	1471934771179	1471934771334	SHIFT	16
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8947	1471934771285	1471934771436	H	72
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8949	1471934771397	1471934771523	o	79
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8951	1471934771772	1471934771868	w	87
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8953	1471934771988	1471934772100	e	69
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8955	1471934772104	1471934772203	l	76
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8959	1471934772251	1471934772402	l	76
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8991	1471934772364	1471934772509	 	32
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8992	1471934772807	1471934772950	f	70
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8993	1471934772942	1471934773060	o	79
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8994	1471934773032	1471934773139	r	82
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	8997	1471934773148	1471934773265	 	32
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	9000	1471934773205	1471934773392	SHIFT	16
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	9005	1471934773279	1471934773415	O	79
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	9006	1471934773439	1471934773566	c	67
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	9007	1471934773666	1471934773755	t	84
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	9009	1471934773783	1471934773928	 	32
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	9012	1471934773994	1471934774117	2	50
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	9031	1471934774087	1471934774214	0	48
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	9033	1471934774181	1471934774284	1	49
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	9036	1471934774333	1471934774446	1	49
+38	198	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2011.	9038	1471934774562	1471934774661	.	190
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9301	1471934781576	1471934781702	SHIFT	16
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9304	1471934781694	1471934781773	S	83
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9307	1471934781767	1471934781885	h	72
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9309	1471934781867	1471934781964	e	69
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9312	1471934781954	1471934782081	 	32
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9321	1471934782043	1471934782182	c	67
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9323	1471934782137	1471934782220	a	65
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9325	1471934782164	1471934782240	l	76
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9327	1471934782297	1471934782390	l	76
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9330	1471934782385	1471934782546	e	69
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9347	1471934782468	1471934782573	d	68
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9349	1471934782561	1471934782651	 	32
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9353	1471934782634	1471934782726	a	65
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9357	1471934782726	1471934782829	n	78
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9362	1471934782795	1471934782883	d	68
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9364	1471934782891	1471934783007	 	32
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9371	1471934782978	1471934783112	w	87
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9373	1471934783060	1471934783155	a	65
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9377	1471934783137	1471934783264	n	78
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9379	1471934783236	1471934783391	t	84
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9382	1471934783344	1471934783427	s	83
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9394	1471934783396	1471934783507	 	32
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9398	1471934783488	1471934783581	t	84
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9403	1471934783604	1471934783735	o	79
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9407	1471934783680	1471934783813	 	32
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9411	1471934783780	1471934783898	c	67
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9417	1471934783862	1471934783993	o	79
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9419	1471934783931	1471934784063	m	77
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9423	1471934784006	1471934784104	e	69
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9428	1471934784076	1471934784216	 	32
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9474	1471934784136	1471934784269	o	79
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9476	1471934784198	1471934784315	v	86
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9478	1471934784355	1471934784519	e	69
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9480	1471934784471	1471934784589	r	82
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9482	1471934784725	1471934784860	 	32
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9484	1471934784898	1471934785001	t	84
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9521	1471934784991	1471934785155	h	72
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9522	1471934785067	1471934785192	i	73
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9523	1471934785166	1471934785249	s	83
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9524	1471934785261	1471934785398	 	32
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9535	1471934785364	1471934785948	SHIFT	16
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9525	1471934785541	1471934785628	A	65
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9526	1471934785687	1471934785794	M	77
+38	206	She called and wants to come over this AM.	She called and wants to come over this AM.	9537	1471934786072	1471934786170	.	190
+38	214	I like Nick and Everett.	I like Nick and Everett.	9638	1471934788872	1471934789029	SHIFT	16
+38	214	I like Nick and Everett.	I like Nick and Everett.	9641	1471934788977	1471934789105	I	73
+38	214	I like Nick and Everett.	I like Nick and Everett.	9646	1471934789050	1471934789221	 	32
+38	214	I like Nick and Everett.	I like Nick and Everett.	9648	1471934789136	1471934789253	l	76
+38	214	I like Nick and Everett.	I like Nick and Everett.	9650	1471934789205	1471934789308	i	73
+38	214	I like Nick and Everett.	I like Nick and Everett.	9652	1471934789348	1471934789457	k	75
+38	214	I like Nick and Everett.	I like Nick and Everett.	9662	1471934789470	1471934789565	e	69
+38	214	I like Nick and Everett.	I like Nick and Everett.	9665	1471934789512	1471934789630	 	32
+38	214	I like Nick and Everett.	I like Nick and Everett.	9669	1471934789586	1471934789751	SHIFT	16
+38	214	I like Nick and Everett.	I like Nick and Everett.	9673	1471934789689	1471934789788	N	78
+38	214	I like Nick and Everett.	I like Nick and Everett.	9680	1471934789812	1471934789934	i	73
+38	214	I like Nick and Everett.	I like Nick and Everett.	9687	1471934789938	1471934790060	c	67
+38	214	I like Nick and Everett.	I like Nick and Everett.	9698	1471934790018	1471934790145	k	75
+38	214	I like Nick and Everett.	I like Nick and Everett.	9704	1471934790097	1471934790186	 	32
+38	214	I like Nick and Everett.	I like Nick and Everett.	9710	1471934790158	1471934790238	a	65
+38	214	I like Nick and Everett.	I like Nick and Everett.	9714	1471934790250	1471934790349	n	78
+38	214	I like Nick and Everett.	I like Nick and Everett.	9715	1471934790307	1471934790386	d	68
+38	214	I like Nick and Everett.	I like Nick and Everett.	9755	1471934790380	1471934790497	 	32
+38	214	I like Nick and Everett.	I like Nick and Everett.	9756	1471934790436	1471934790563	SHIFT	16
+38	214	I like Nick and Everett.	I like Nick and Everett.	9757	1471934790501	1471934790586	E	69
+38	214	I like Nick and Everett.	I like Nick and Everett.	9758	1471934790626	1471934790724	v	86
+38	214	I like Nick and Everett.	I like Nick and Everett.	9759	1471934790772	1471934790944	e	69
+38	214	I like Nick and Everett.	I like Nick and Everett.	9760	1471934790967	1471934791088	r	82
+38	214	I like Nick and Everett.	I like Nick and Everett.	9761	1471934791700	1471934791783	a	65
+38	214	I like Nick and Everett.	I like Nick and Everett.	9802	1471934792255	1471934792357	e	69
+38	214	I like Nick and Everett.	I like Nick and Everett.	9803	1471934792329	1471934792408	t	84
+38	214	I like Nick and Everett.	I like Nick and Everett.	9805	1471934792449	1471934792549	t	84
+38	214	I like Nick and Everett.	I like Nick and Everett.	9807	1471934792710	1471934792799	BKSP	8
+38	214	I like Nick and Everett.	I like Nick and Everett.	9809	1471934792846	1471934792938	BKSP	8
+38	214	I like Nick and Everett.	I like Nick and Everett.	9812	1471934793003	1471934793091	BKSP	8
+38	214	I like Nick and Everett.	I like Nick and Everett.	9814	1471934793200	1471934793299	BKSP	8
+38	214	I like Nick and Everett.	I like Nick and Everett.	9815	1471934793356	1471934793476	e	69
+38	214	I like Nick and Everett.	I like Nick and Everett.	9817	1471934793710	1471934793792	t	84
+38	214	I like Nick and Everett.	I like Nick and Everett.	9818	1471934793862	1471934793965	t	84
+38	214	I like Nick and Everett.	I like Nick and Everett.	9820	1471934794004	1471934794099	.	190
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10045	1471934799595	1471934799721	SHIFT	16
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10047	1471934799663	1471934799744	A	65
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10052	1471934799830	1471934799928	t	84
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10057	1471934799937	1471934800063	 	32
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10062	1471934799999	1471934800125	l	76
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10080	1471934800068	1471934800227	e	69
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10083	1471934800242	1471934800321	a	65
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10087	1471934800443	1471934800583	s	83
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10089	1471934800529	1471934800651	t	84
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10090	1471934800642	1471934800744	 	32
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10102	1471934800721	1471934800809	t	84
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10104	1471934800837	1471934800946	h	72
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10108	1471934800941	1471934801067	e	69
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10110	1471934801044	1471934801198	n	78
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10114	1471934801129	1471934801269	 	32
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10117	1471934801321	1471934801495	o	79
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10129	1471934801400	1471934801570	n	78
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10131	1471934801747	1471934801865	e	69
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10132	1471934801873	1471934802014	 	32
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10133	1471934801946	1471934802084	p	80
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10135	1471934802040	1471934802200	e	69
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10140	1471934802129	1471934802301	r	82
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10141	1471934802272	1471934802365	s	83
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10142	1471934802297	1471934802423	o	79
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10143	1471934802353	1471934802484	n	78
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10144	1471934802433	1471934802554	 	32
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10174	1471934802495	1471934802662	i	73
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10175	1471934802577	1471934802727	n	78
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10176	1471934802638	1471934802778	 	32
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10177	1471934802813	1471934802956	SHIFT	16
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10179	1471934802886	1471934802979	D	68
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10182	1471934803033	1471934803145	e	69
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10185	1471934803149	1471934803281	n	78
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10196	1471934803238	1471934803342	v	86
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10197	1471934803395	1471934803568	e	69
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10200	1471934803502	1471934803620	r	82
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10205	1471934803591	1471934803717	 	32
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10209	1471934803691	1471934803785	w	87
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10221	1471934803732	1471934803842	o	79
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10222	1471934803775	1471934803897	u	85
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10224	1471934803926	1471934804050	l	76
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10231	1471934804025	1471934804115	 	32
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10228	1471934804050	1471934804113	d	68
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10234	1471934804134	1471934804239	b	66
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10242	1471934804216	1471934804299	e	69
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10244	1471934804260	1471934804368	 	32
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10246	1471934804378	1471934804460	a	65
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10248	1471934804403	1471934804502	b	66
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10251	1471934804560	1471934804663	l	76
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10254	1471934804635	1471934804727	e	69
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10255	1471934804732	1471934804839	 	32
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10258	1471934804776	1471934804863	t	84
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10260	1471934804854	1471934804971	o	79
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10270	1471934804924	1471934805027	g	32
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10272	1471934805030	1471934805157	e	69
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10275	1471934805110	1471934805218	t	84
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10278	1471934805190	1471934805297	 	32
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10281	1471934805230	1471934805372	i	73
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10294	1471934805302	1471934805424	n	78
+38	222	At least then one person in Denver would be able to get in.	At least then one person in Denver woul dbe able to get in.	10297	1471934805508	1471934805593	.	190
+38	229	I have 30 minutes then.	I have 30 minutes then.	10400	1471934808735	1471934808870	SHIFT	16
+38	229	I have 30 minutes then.	I have 30 minutes then.	10401	1471934808837	1471934808954	I	73
+38	229	I have 30 minutes then.	I have 30 minutes then.	10403	1471934808880	1471934808986	 	32
+38	229	I have 30 minutes then.	I have 30 minutes then.	10405	1471934809028	1471934809121	h	72
+38	229	I have 30 minutes then.	I have 30 minutes then.	10407	1471934809104	1471934809194	a	65
+38	229	I have 30 minutes then.	I have 30 minutes then.	10409	1471934809200	1471934809284	v	86
+38	229	I have 30 minutes then.	I have 30 minutes then.	10445	1471934809266	1471934809373	e	69
+38	229	I have 30 minutes then.	I have 30 minutes then.	10448	1471934809363	1471934809479	 	32
+38	229	I have 30 minutes then.	I have 30 minutes then.	10451	1471934809764	1471934809876	3	51
+38	229	I have 30 minutes then.	I have 30 minutes then.	10455	1471934809858	1471934810000	0	48
+38	229	I have 30 minutes then.	I have 30 minutes then.	10459	1471934809998	1471934810165	 	32
+38	229	I have 30 minutes then.	I have 30 minutes then.	10481	1471934810100	1471934810232	m	77
+38	229	I have 30 minutes then.	I have 30 minutes then.	10488	1471934810199	1471934810352	i	73
+38	229	I have 30 minutes then.	I have 30 minutes then.	10493	1471934810300	1471934810488	n	78
+38	229	I have 30 minutes then.	I have 30 minutes then.	10500	1471934810427	1471934810581	u	85
+38	229	I have 30 minutes then.	I have 30 minutes then.	10505	1471934810562	1471934810758	t	84
+38	229	I have 30 minutes then.	I have 30 minutes then.	10515	1471934810660	1471934810828	e	69
+38	229	I have 30 minutes then.	I have 30 minutes then.	10518	1471934810754	1471934810852	s	83
+38	229	I have 30 minutes then.	I have 30 minutes then.	10521	1471934810808	1471934810917	 	32
+38	229	I have 30 minutes then.	I have 30 minutes then.	10526	1471934810893	1471934810997	t	84
+38	229	I have 30 minutes then.	I have 30 minutes then.	10530	1471934810982	1471934811080	h	72
+38	229	I have 30 minutes then.	I have 30 minutes then.	10534	1471934811062	1471934811169	e	69
+38	229	I have 30 minutes then.	I have 30 minutes then.	10541	1471934811141	1471934811229	n	78
+38	229	I have 30 minutes then.	I have 30 minutes then.	10545	1471934811319	1471934811400	.	190
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10784	1471934818677	1471934818804	SHIFT	16
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10786	1471934818782	1471934818861	W	87
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10788	1471934818879	1471934818995	h	72
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10790	1471934818990	1471934819219	e	69
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10792	1471934819200	1471934819384	t	84
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10794	1471934819630	1471934819771	h	72
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10798	1471934819751	1471934819909	e	69
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10801	1471934819825	1471934819943	r	82
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10804	1471934819905	1471934820032	 	32
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10807	1471934820016	1471934820110	t	84
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10810	1471934820106	1471934820213	h	72
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10821	1471934820176	1471934820287	a	65
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10822	1471934820242	1471934820360	t	84
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10823	1471934820316	1471934820475	 	32
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10824	1471934820555	1471934820700	p	80
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10825	1471934820680	1471934820818	a	65
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10836	1471934820747	1471934820892	c	67
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10838	1471934820883	1471934821014	k	75
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10840	1471934820998	1471934821122	a	65
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10842	1471934821223	1471934821326	g	71
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10844	1471934821312	1471934821419	e	69
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10881	1471934821410	1471934821545	 	32
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10883	1471934821617	1471934821762	h	72
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10887	1471934821927	1471934822029	BKSP	8
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10892	1471934822106	1471934822210	i	73
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10897	1471934822189	1471934822274	s	83
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10903	1471934822277	1471934822399	 	32
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10912	1471934822362	1471934822507	t	84
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10914	1471934822578	1471934822682	r	82
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10916	1471934822773	1471934822847	a	65
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10920	1471934822826	1471934822948	i	73
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10924	1471934822901	1471934823017	n	78
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10944	1471934823013	1471934823157	i	73
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10946	1471934823097	1471934823237	n	78
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10950	1471934823200	1471934823317	g	71
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10955	1471934823313	1471934823443	 	32
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10959	1471934823447	1471934823568	o	79
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10962	1471934823679	1471934823787	r	82
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10971	1471934823763	1471934823903	 	32
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10975	1471934823852	1471934824001	m	77
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10980	1471934823900	1471934824017	a	65
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10987	1471934823982	1471934824104	t	84
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	10992	1471934824136	1471934824287	e	69
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11022	1471934824214	1471934824342	r	82
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11025	1471934824291	1471934824394	i	73
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11029	1471934824416	1471934824514	a	65
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11034	1471934824507	1471934824632	l	76
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11036	1471934824707	1471934824843	 	32
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11040	1471934824886	1471934825002	h	72
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11053	1471934825011	1471934825204	a	65
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11054	1471934825167	1471934825289	s	83
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11056	1471934825281	1471934825360	 	32
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11059	1471934825398	1471934825505	y	89
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11070	1471934825492	1471934825644	e	69
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11073	1471934825579	1471934825691	t	84
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11078	1471934825664	1471934825767	 	32
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11085	1471934825743	1471934825851	t	84
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11113	1471934825794	1471934825897	o	79
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11114	1471934825849	1471934825935	 	32
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11116	1471934825964	1471934826069	b	66
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11122	1471934826040	1471934826144	e	69
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11124	1471934826120	1471934826236	 	32
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11130	1471934826443	1471934826593	d	68
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11142	1471934826542	1471934826691	e	69
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11144	1471934826687	1471934826818	t	84
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11150	1471934826884	1471934827072	e	69
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11156	1471934826968	1471934827132	r	82
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11161	1471934827145	1471934827272	m	77
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11180	1471934827258	1471934827408	i	73
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11181	1471934827342	1471934827482	n	78
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11182	1471934827412	1471934827581	e	69
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11183	1471934827507	1471934827628	d	68
+38	232	Whether that package is training or material has yet to be determined.	Whether that package is training or material has yet to be determined.	11185	1471934827891	1471934827966	.	190
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11391	1471934833061	1471934833184	SHIFT	16
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11394	1471934833169	1471934833268	T	84
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11399	1471934833271	1471934833379	h	72
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11404	1471934833346	1471934833450	e	69
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11408	1471934833434	1471934833580	 	32
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11421	1471934833524	1471934833663	n	78
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11425	1471934833622	1471934833780	e	69
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11430	1471934833720	1471934833821	w	87
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11435	1471934833816	1471934833956	 	32
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11440	1471934833915	1471934834075	r	82
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11462	1471934834014	1471934834182	a	65
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11463	1471934834185	1471934834295	d	68
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11464	1471934834280	1471934834442	i	73
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11465	1471934834363	1471934834496	 	79
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11466	1471934834671	1471934834825	m	77
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11485	1471934834793	1471934834945	i	73
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11488	1471934834899	1471934835091	n	78
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11490	1471934835012	1471934835176	i	73
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11493	1471934835250	1471934835380	s	83
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11498	1471934835339	1471934835466	t	84
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11502	1471934835513	1471934835690	e	69
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11507	1471934835600	1471934835751	r	82
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11512	1471934835798	1471934835937	 	32
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11514	1471934835880	1471934835991	w	87
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11517	1471934835958	1471934836099	a	65
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11520	1471934836072	1471934836160	s	83
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11531	1471934836115	1471934836222	 	32
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11535	1471934836220	1471934836345	h	72
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11538	1471934836279	1471934836401	e	69
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11539	1471934836361	1471934836496	a	65
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11541	1471934836441	1471934836570	d	68
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11546	1471934836542	1471934836663	 	32
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11548	1471934836617	1471934836744	o	79
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11551	1471934836691	1471934836794	f	70
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11554	1471934836775	1471934836879	 	32
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11558	1471934836869	1471934836959	t	84
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11570	1471934836943	1471934837056	h	72
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11572	1471934837016	1471934837126	e	69
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11575	1471934837093	1471934837251	 	32
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11577	1471934837144	1471934837280	p	80
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11579	1471934837265	1471934837372	r	82
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11596	1471934837354	1471934837504	o	79
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11601	1471934837647	1471934837811	p	80
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11606	1471934837845	1471934837953	a	65
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11609	1471934838043	1471934838142	g	71
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11613	1471934838174	1471934838262	a	65
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11637	1471934838236	1471934838358	n	78
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11639	1471934838879	1471934839043	d	68
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11642	1471934838963	1471934839099	e	69
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11645	1471934839094	1471934839241	 	32
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11648	1471934839265	1471934839421	d	68
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11682	1471934839348	1471934839488	e	69
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11686	1471934839469	1471934839597	p	80
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11689	1471934839597	1471934839749	a	65
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11691	1471934839694	1471934839831	r	82
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11695	1471934839898	1471934839996	t	84
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11701	1471934840004	1471934840108	m	77
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11717	1471934840098	1471934840196	e	69
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11719	1471934840178	1471934840277	n	78
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11722	1471934840289	1471934840388	t	84
+38	248	The new radio minister was head of the propaganda department.	The new radio minister was head of the propagande department.	11724	1471934840591	1471934840694	.	190
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	11945	1471934844794	1471934844917	SHIFT	16
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	11950	1471934844887	1471934844985	T	84
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	11955	1471934844982	1471934845089	h	72
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	11962	1471934845052	1471934845164	e	69
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	11970	1471934845149	1471934845286	 	32
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	11974	1471934845737	1471934845813	BKSP	8
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	11978	1471934845871	1471934845946	BKSP	8
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	11980	1471934845999	1471934846084	BKSP	8
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	11983	1471934846135	1471934846214	BKSP	8
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	11987	1471934846260	1471934846325	BKSP	8
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	11993	1471934846390	1471934846507	SHIFT	16
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	11976	1471934846461	1471934846554	Y	89
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	11979	1471934846564	1471934846690	o	79
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	11981	1471934846648	1471934846736	u	85
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	11986	1471934846685	1471934846774	 	32
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	11991	1471934846802	1471934846915	h	72
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	11998	1471934846895	1471934847027	CAPS_LOCK	20
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12106	1471934846973	1471934847079	D	68
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12112	1471934847344	1471934847451	BKSP	8
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12117	1471934847517	1471934847574	BKSP	8
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12124	1471934848170	1471934848300	CAPS_LOCK	20
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12125	1471934848709	1471934848837	h	72
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12127	1471934848804	1471934848918	a	65
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12128	1471934848876	1471934848954	d	68
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12129	1471934848929	1471934849031	 	32
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12131	1471934849048	1471934849138	t	84
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12137	1471934849076	1471934849179	o	79
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12139	1471934849124	1471934849269	 	32
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12146	1471934849227	1471934849348	m	77
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12150	1471934849331	1471934849416	a	65
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12156	1471934849377	1471934849517	i	73
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12161	1471934849437	1471934849586	n	78
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12165	1471934849605	1471934849764	t	84
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12175	1471934849701	1471934849811	a	65
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12179	1471934849762	1471934849902	i	73
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12185	1471934849818	1471934849975	n	78
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12192	1471934849898	1471934850037	 	32
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12196	1471934850014	1471934850117	y	89
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12203	1471934850113	1471934850224	o	79
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12211	1471934850140	1471934850294	u	85
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12214	1471934850261	1471934850378	r	82
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12217	1471934850298	1471934850452	 	32
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12219	1471934850369	1471934850509	p	80
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12221	1471934850534	1471934850650	a	65
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12224	1471934850746	1471934850854	t	84
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12232	1471934850873	1471934850980	i	73
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12236	1471934850965	1471934851059	e	69
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12245	1471934851050	1471934851182	n	78
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12252	1471934851148	1471934851288	c	67
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12265	1471934851236	1471934851330	e	69
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12267	1471934851312	1471934851423	 	32
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12270	1471934851405	1471934851509	t	84
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12275	1471934851471	1471934851569	o	79
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12279	1471934851534	1471934851601	 	32
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12284	1471934851643	1471934851759	g	71
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12290	1471934851693	1471934851812	e	69
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12293	1471934851810	1471934851919	t	84
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12297	1471934851838	1471934851945	 	32
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12300	1471934851976	1471934852073	t	84
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12303	1471934852035	1471934852143	h	72
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12321	1471934852124	1471934852246	e	69
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12323	1471934852185	1471934852349	 	32
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12326	1471934852274	1471934852428	j	74
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12329	1471934852354	1471934852480	o	79
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12332	1471934852522	1471934852682	b	66
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12334	1471934852803	1471934852949	 	32
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12339	1471934852953	1471934853050	d	68
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12340	1471934853048	1471934853174	o	79
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12341	1471934853094	1471934853213	n	78
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12342	1471934853211	1471934853319	e	69
+38	258	You had to maintain your patience to get the job done.	You had to maintain your patience to get the job done.	12343	1471934853510	1471934853614	.	190
+38	267	I am on my way.	I am on my way.	12430	1471934855569	1471934855701	SHIFT	16
+38	267	I am on my way.	I am on my way.	12433	1471934855677	1471934855804	I	73
+38	267	I am on my way.	I am on my way.	12436	1471934855743	1471934855860	 	32
+38	267	I am on my way.	I am on my way.	12442	1471934855865	1471934855944	a	65
+38	267	I am on my way.	I am on my way.	12451	1471934855905	1471934856007	m	77
+38	267	I am on my way.	I am on my way.	12480	1471934855976	1471934856107	 	32
+38	267	I am on my way.	I am on my way.	12482	1471934856068	1471934856227	o	79
+38	267	I am on my way.	I am on my way.	12483	1471934856157	1471934856289	n	78
+38	267	I am on my way.	I am on my way.	12484	1471934856213	1471934856320	 	32
+38	267	I am on my way.	I am on my way.	12485	1471934856341	1471934856459	m	77
+38	267	I am on my way.	I am on my way.	12507	1471934856392	1471934856491	y	89
+38	267	I am on my way.	I am on my way.	12510	1471934856521	1471934856618	 	32
+38	267	I am on my way.	I am on my way.	12513	1471934856642	1471934856784	w	87
+38	267	I am on my way.	I am on my way.	12516	1471934856730	1471934856834	a	65
+38	267	I am on my way.	I am on my way.	12519	1471934856779	1471934856887	y	89
+38	267	I am on my way.	I am on my way.	12522	1471934856979	1471934857109	.	190
+38	269	Very foggy this morning.	Very foggy this morning.	12673	1471934859931	1471934860076	SHIFT	16
+38	269	Very foggy this morning.	Very foggy this morning.	12677	1471934860019	1471934860117	V	86
+38	269	Very foggy this morning.	Very foggy this morning.	12681	1471934860178	1471934860341	e	69
+38	269	Very foggy this morning.	Very foggy this morning.	12685	1471934860266	1471934860382	r	82
+38	269	Very foggy this morning.	Very foggy this morning.	12692	1471934860304	1471934860420	y	89
+38	269	Very foggy this morning.	Very foggy this morning.	12694	1471934860364	1471934860462	 	32
+38	269	Very foggy this morning.	Very foggy this morning.	12695	1471934860444	1471934860552	f	70
+38	269	Very foggy this morning.	Very foggy this morning.	12696	1471934860518	1471934860625	o	79
+38	269	Very foggy this morning.	Very foggy this morning.	12698	1471934860617	1471934860706	g	71
+38	269	Very foggy this morning.	Very foggy this morning.	12700	1471934860750	1471934860852	g	71
+38	269	Very foggy this morning.	Very foggy this morning.	12711	1471934860837	1471934860952	y	89
+38	269	Very foggy this morning.	Very foggy this morning.	12715	1471934860900	1471934860993	 	32
+38	269	Very foggy this morning.	Very foggy this morning.	12720	1471934860950	1471934861053	t	84
+38	269	Very foggy this morning.	Very foggy this morning.	12723	1471934861019	1471934861158	h	72
+38	269	Very foggy this morning.	Very foggy this morning.	12747	1471934861086	1471934861210	i	73
+38	269	Very foggy this morning.	Very foggy this morning.	12750	1471934861153	1471934861242	s	83
+38	269	Very foggy this morning.	Very foggy this morning.	12753	1471934861206	1471934861372	 	32
+38	269	Very foggy this morning.	Very foggy this morning.	12755	1471934861282	1471934861380	m	77
+38	269	Very foggy this morning.	Very foggy this morning.	12757	1471934861353	1471934861467	o	79
+38	269	Very foggy this morning.	Very foggy this morning.	12800	1471934861454	1471934861572	r	78
+38	269	Very foggy this morning.	Very foggy this morning.	12801	1471934861580	1471934861707	i	73
+38	269	Very foggy this morning.	Very foggy this morning.	12802	1471934861655	1471934861777	n	78
+38	269	Very foggy this morning.	Very foggy this morning.	12803	1471934861763	1471934861857	g	71
+38	269	Very foggy this morning.	Very foggy this morning.	12805	1471934862533	1471934862596	BKSP	8
+38	269	Very foggy this morning.	Very foggy this morning.	12807	1471934862654	1471934862720	BKSP	8
+38	269	Very foggy this morning.	Very foggy this morning.	12809	1471934862790	1471934862861	BKSP	8
+38	269	Very foggy this morning.	Very foggy this morning.	12811	1471934863044	1471934863124	BKSP	8
+38	269	Very foggy this morning.	Very foggy this morning.	12813	1471934863326	1471934863413	BKSP	8
+38	269	Very foggy this morning.	Very foggy this morning.	12815	1471934863498	1471934863592	r	82
+38	269	Very foggy this morning.	Very foggy this morning.	12830	1471934863578	1471934863676	n	78
+38	269	Very foggy this morning.	Very foggy this morning.	12833	1471934863630	1471934863802	i	73
+38	269	Very foggy this morning.	Very foggy this morning.	12837	1471934863742	1471934863851	n	78
+38	269	Very foggy this morning.	Very foggy this morning.	12840	1471934863848	1471934863947	g	71
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13510	1471934864085	1471934880562	.	190
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13120	1471934871167	1471934871382	SHIFT	16
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13121	1471934871307	1471934871437	M	77
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13122	1471934871477	1471934871577	a	65
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13123	1471934871565	1471934871686	n	78
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13125	1471934871707	1471934871794	s	83
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13127	1471934871891	1471934872008	e	69
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13161	1471934872023	1471934872108	l	76
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13162	1471934872173	1471934872282	l	76
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13164	1471934872556	1471934872599	BKSP	8
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13166	1471934873488	1471934873602	l	76
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13168	1471934873559	1471934873658	 	32
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13171	1471934873712	1471934873824	h	72
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13189	1471934873877	1471934873990	a	65
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13191	1471934874179	1471934874298	s	83
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13193	1471934874371	1471934874488	 	32
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13195	1471934874433	1471934874617	n	78
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13210	1471934874545	1471934874685	o	79
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13212	1471934874615	1471934874708	t	84
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13215	1471934874740	1471934874867	 	32
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13218	1471934874804	1471934874919	f	70
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13221	1471934874907	1471934875026	o	79
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13224	1471934874973	1471934875077	r	82
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13227	1471934875132	1471934875226	g	71
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13240	1471934875301	1471934875399	o	79
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13244	1471934875342	1471934875427	t	84
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13247	1471934875481	1471934875575	t	84
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13249	1471934875637	1471934875750	e	69
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13251	1471934875717	1471934875834	n	78
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13253	1471934875768	1471934875880	 	32
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13256	1471934875845	1471934875926	w	87
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13260	1471934875922	1471934876034	h	72
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13264	1471934875997	1471934876109	a	65
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13270	1471934876064	1471934876162	t	84
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13276	1471934876143	1471934876250	 	32
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13280	1471934876208	1471934876306	t	84
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13283	1471934876302	1471934876410	h	72
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13287	1471934876367	1471934876476	e	69
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13299	1471934876442	1471934876582	 	32
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13302	1471934876507	1471934876634	o	79
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13306	1471934876572	1471934876703	v	86
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13312	1471934876967	1471934877053	a	65
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13318	1471934877080	1471934877198	l	76
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13323	1471934877188	1471934877283	s	83
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13325	1471934877278	1471934877372	 	32
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13327	1471934877396	1471934877513	h	72
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13330	1471934877503	1471934877586	a	65
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13335	1471934877599	1471934877693	v	86
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13351	1471934877673	1471934877776	e	69
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13354	1471934877751	1471934877907	 	32
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13358	1471934877842	1471934877986	m	77
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13360	1471934877921	1471934878094	e	69
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13366	1471934878026	1471934878121	a	65
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13376	1471934878110	1471934878222	n	78
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13378	1471934878195	1471934878305	t	84
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13380	1471934878288	1471934878395	 	32
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13384	1471934878366	1471934878471	t	84
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13389	1471934878437	1471934878546	o	79
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13424	1471934878488	1471934878617	 	32
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13427	1471934878614	1471934878763	h	72
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13436	1471934878808	1471934878991	i	73
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13442	1471934878929	1471934879068	m	77
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13449	1471934879475	1471934879624	,	188
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13466	1471934879554	1471934879675	 	32
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13469	1471934879721	1471934879880	h	72
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13475	1471934879796	1471934879928	o	79
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13480	1471934879912	1471934879985	w	87
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13483	1471934880069	1471934880163	e	69
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13501	1471934880134	1471934880248	v	86
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13504	1471934880239	1471934880393	e	69
+38	278	Mansell has not forgotten what the ovals have meant to him, however.	Mansell has not forgotten what the ovals have meant to him, however.	13506	1471934880324	1471934880450	r	82
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13756	1471934886257	1471934886761	SHIFT	16
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13758	1471934886631	1471934886766	P	80
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13760	1471934887315	1471934887422	r	82
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13762	1471934887413	1471934887535	o	79
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13764	1471934887515	1471934887628	v	86
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13777	1471934887613	1471934887750	i	73
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13782	1471934887811	1471934887904	s	83
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13785	1471934887859	1471934888092	i	73
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13788	1471934887937	1471934888096	o	79
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13792	1471934888002	1471934888167	n	78
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13805	1471934888146	1471934888241	a	65
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13809	1471934888246	1471934888393	l	76
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13814	1471934888321	1471934888481	 	32
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13821	1471934888456	1471934888584	c	67
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13827	1471934888532	1471934888681	o	79
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13848	1471934888592	1471934888743	n	78
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13851	1471934888788	1471934888935	s	83
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13854	1471934888867	1471934888997	t	84
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13857	1471934888974	1471934889110	i	73
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13860	1471934889155	1471934889271	t	84
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13866	1471934889268	1471934889388	u	85
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13868	1471934889419	1471934889531	t	84
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13872	1471934889526	1471934889774	i	73
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13874	1471934889595	1471934889801	o	79
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13898	1471934889675	1471934889876	n	78
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13900	1471934889782	1471934889947	 	32
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13904	1471934889941	1471934890037	w	87
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13907	1471934890014	1471934890118	i	73
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13909	1471934890161	1471934890254	l	76
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13911	1471934890304	1471934890414	l	76
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13924	1471934890386	1471934890509	 	32
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13926	1471934890511	1471934890645	b	66
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13930	1471934890637	1471934890745	e	69
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13934	1471934890735	1471934890882	 	32
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13937	1471934890923	1471934891018	v	86
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13942	1471934891022	1471934891134	o	79
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13964	1471934891119	1471934891260	t	84
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13968	1471934891203	1471934891335	e	69
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13972	1471934891402	1471934891512	d	68
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13977	1471934891517	1471934891639	 	32
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	13980	1471934891600	1471934891825	i	73
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14007	1471934891694	1471934891881	n	78
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14009	1471934892018	1471934892131	t	84
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14012	1471934892112	1471934892228	o	79
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14016	1471934892181	1471934892336	 	32
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14019	1471934892295	1471934892434	l	76
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14022	1471934892454	1471934892610	a	65
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14061	1471934892554	1471934892690	w	87
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14063	1471934892704	1471934892794	 	32
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14066	1471934892850	1471934892986	b	66
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14068	1471934892953	1471934893061	y	89
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14069	1471934893148	1471934893304	 	32
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14070	1471934893326	1471934893482	p	80
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14086	1471934893555	1471934893697	a	65
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14087	1471934893617	1471934893770	r	82
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14088	1471934893768	1471934893889	l	76
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14089	1471934893837	1471934893978	i	73
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14090	1471934893995	1471934894093	a	65
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14104	1471934894140	1471934894288	m	77
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14106	1471934894270	1471934894374	e	69
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14110	1471934894360	1471934894466	n	78
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14114	1471934894456	1471934894551	t	84
+38	292	Provisional constitution will be voted into law by parliament.	Provisional constitution will be voted into law by parliament.	14117	1471934894765	1471934894861	.	190
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14273	1471934898555	1471934898696	SHIFT	16
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14278	1471934898671	1471934898741	W	87
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14282	1471934898822	1471934898911	e	69
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14286	1471934899005	1471934899071	d	68
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14290	1471934899100	1471934899212	n	78
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14302	1471934899160	1471934899310	e	69
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14307	1471934899253	1471934899345	s	83
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14317	1471934899421	1471934899547	d	68
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14324	1471934899482	1471934899598	a	65
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14331	1471934899538	1471934899671	y	89
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14335	1471934899609	1471934899708	 	32
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14338	1471934899750	1471934899843	i	83
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14370	1471934899951	1471934900104	 	68
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14374	1471934900053	1471934900195	e	69
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14378	1471934900193	1471934900311	f	70
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14381	1471934900324	1471934900395	i	73
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14382	1471934900346	1471934900562	n	78
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14386	1471934900478	1471934900631	i	73
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14393	1471934900576	1471934900717	t	84
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14395	1471934900646	1471934900777	e	69
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14397	1471934900767	1471934900862	l	76
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14399	1471934900827	1471934900930	y	89
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14401	1471934900940	1471934901052	 	32
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14404	1471934901067	1471934901171	h	72
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14430	1471934901173	1471934901270	a	65
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14434	1471934901360	1471934901448	BKSP	8
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14438	1471934901530	1471934901622	a	65
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14441	1471934901576	1471934901721	 	32
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14446	1471934901670	1471934901821	h	72
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14471	1471934901763	1471934901889	o	79
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14475	1471934901819	1471934901916	t	84
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14478	1471934901942	1471934902084	 	32
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14481	1471934902172	1471934902300	c	67
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14487	1471934902230	1471934902374	h	72
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14491	1471934902298	1471934902416	o	79
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14495	1471934902463	1471934902580	c	67
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14500	1471934902546	1471934902655	o	79
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14502	1471934902717	1471934902849	l	76
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14504	1471934902773	1471934902905	a	65
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14506	1471934902880	1471934903028	t	84
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14508	1471934902969	1471934903103	e	69
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14520	1471934903043	1471934903178	 	32
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14524	1471934903192	1471934903317	d	68
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14527	1471934903294	1471934903387	a	65
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14529	1471934903463	1471934903547	t	89
+38	302	Wednesday is definitely a hot chocolate day.	Wednesday sid efinitely ha hot chocolate dayt.	14532	1471934903612	1471934903716	.	190
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14737	1471934910497	1471934910637	SHIFT	16
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14739	1471934910576	1471934910689	T	84
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14741	1471934910712	1471934910876	e	69
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14743	1471934910820	1471934910959	s	83
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14745	1471934910897	1471934911061	t	84
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14747	1471934911063	1471934911129	s	83
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14778	1471934911348	1471934911507	 	32
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14781	1471934911423	1471934911577	SHIFT	16
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14784	1471934911502	1471934911628	M	77
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14789	1471934911623	1471934911768	o	79
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14792	1471934911689	1471934911835	n	78
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14795	1471934911852	1471934911982	d	68
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14805	1471934911921	1471934912036	a	65
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14808	1471934911974	1471934912088	y	89
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14812	1471934912043	1471934912178	 	32
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14819	1471934912137	1471934912239	s	83
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14825	1471934912174	1471934912343	h	72
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14829	1471934912269	1471934912395	o	79
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14833	1471934912539	1471934912613	w	87
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14839	1471934912701	1471934912860	e	69
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14841	1471934912796	1471934912917	d	68
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14842	1471934912883	1471934913010	 	32
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14843	1471934912920	1471934913135	n	78
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14860	1471934913023	1471934913174	o	79
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14863	1471934913122	1471934913240	 	32
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14866	1471934913213	1471934913350	s	83
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14869	1471934913295	1471934913469	t	84
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14872	1471934913417	1471934913543	r	82
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14874	1471934913569	1471934913687	u	85
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14881	1471934913668	1471934913789	c	67
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14882	1471934913863	1471934913958	t	84
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14884	1471934913966	1471934914097	u	85
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14886	1471934914031	1471934914232	r	82
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14891	1471934914139	1471934914274	a	65
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14893	1471934914227	1471934914376	l	76
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14895	1471934914307	1471934914447	 	32
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14897	1471934914441	1471934914587	d	68
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14899	1471934914553	1471934914647	a	65
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14903	1471934914662	1471934914774	m	77
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14907	1471934914751	1471934914842	a	65
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14908	1471934914865	1471934914955	g	71
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14910	1471934914941	1471934915038	e	69
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14912	1471934915020	1471934915123	 	32
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14914	1471934915089	1471934915192	t	84
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14925	1471934915145	1471934915253	o	79
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14928	1471934915212	1471934915338	 	32
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14934	1471934915299	1471934915440	h	72
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14938	1471934915365	1471934915478	i	73
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14941	1471934915435	1471934915522	s	83
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14944	1471934915537	1471934915651	 	32
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14946	1471934915628	1471934915713	s	83
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14948	1471934915670	1471934915792	h	72
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14951	1471934915765	1471934915899	o	79
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14954	1471934915853	1471934915989	u	85
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14957	1471934915969	1471934916077	l	76
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14967	1471934916059	1471934916138	d	68
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14969	1471934916224	1471934916374	e	69
+38	309	Tests Monday showed no structural damage to his shoulder.	Tests Monday showed no structural damage to his shoulder.	14971	1471934916294	1471934916434	r	82

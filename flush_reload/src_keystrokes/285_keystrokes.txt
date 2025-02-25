@@ -1,0 +1,777 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119721	1471938771911	1471938772324	SHIFT	16
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119720	1471938772175	1471938772292	S	83
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119723	1471938774492	1471938774601	h	72
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119725	1471938774648	1471938774772	o	79
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119727	1471938774735	1471938774866	u	85
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119729	1471938775248	1471938775416	l	76
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119806	1471938775836	1471938775937	d	68
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119808	1471938776583	1471938776740	'	222
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119810	1471938776834	1471938776972	t	84
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119811	1471938777476	1471938777596	 	32
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119813	1471938777770	1471938777934	b	66
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119831	1471938777990	1471938778100	e	69
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119833	1471938778049	1471938778185	 	32
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119835	1471938778200	1471938778330	t	84
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119837	1471938778345	1471938778401	o	79
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119842	1471938778511	1471938778652	o	79
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119873	1471938778584	1471938778702	 	32
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119875	1471938778989	1471938779124	h	72
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119879	1471938779116	1471938779260	a	65
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119882	1471938779268	1471938779392	r	82
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119883	1471938779501	1471938779636	d	68
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119916	1471938779617	1471938779765	 	32
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119918	1471938779843	1471938779964	t	84
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119920	1471938779907	1471938779973	h	72
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119921	1471938780005	1471938780156	o	79
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119923	1471938780119	1471938780269	u	85
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	119924	1471938780426	1471938780604	g	71
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	120015	1471938780592	1471938780695	h	72
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	120016	1471938780867	1471938780972	.	190
+285	2466	Shouldn't be too hard though.	Should't be too hard though. 	120017	1471938780987	1471938781090	 	32
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120193	1471938790195	1471938790719	SHIFT	16
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120191	1471938790545	1471938790656	P	80
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120196	1471938790813	1471938790977	l	76
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120198	1471938790908	1471938790992	e	69
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120200	1471938791055	1471938791174	a	65
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120202	1471938791252	1471938791358	s	83
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120213	1471938791383	1471938791484	e	69
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120214	1471938791430	1471938791564	 	32
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120216	1471938791622	1471938791773	s	83
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120217	1471938791820	1471938791912	e	69
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120218	1471938791927	1471938792100	n	78
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120239	1471938792060	1471938792180	d	68
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120242	1471938792149	1471938792246	 	32
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120248	1471938792261	1471938792372	t	84
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120253	1471938792363	1471938792562	o	79
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120252	1471938792432	1471938792547	 	32
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120255	1471938792656	1471938792866	SHIFT	16
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120279	1471938792766	1471938792884	G	71
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120281	1471938792969	1471938793082	r	82
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120285	1471938793114	1471938793262	a	65
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120288	1471938793332	1471938793481	y	89
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120290	1471938793528	1471938793743	 	32
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120302	1471938793899	1471938794268	SHIFT	16
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120291	1471938794092	1471938794196	S	83
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120303	1471938794364	1471938794483	m	77
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120304	1471938794574	1471938794735	i	73
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120305	1471938794766	1471938794887	t	84
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120306	1471938794903	1471938794990	h	72
+285	2482	Please send to Gary Smith.	Please send to Gray Smith.	120307	1471938795160	1471938795210	.	190
+285	2490	Please accept my apology.	Please accept my apology.	120506	1471938801867	1471938803100	SHIFT	16
+285	2490	Please accept my apology.	Please accept my apology.	120503	1471938802941	1471938803053	P	80
+285	2490	Please accept my apology.	Please accept my apology.	120510	1471938803194	1471938803306	l	76
+285	2490	Please accept my apology.	Please accept my apology.	120514	1471938803268	1471938803368	e	69
+285	2490	Please accept my apology.	Please accept my apology.	120517	1471938803446	1471938803567	a	65
+285	2490	Please accept my apology.	Please accept my apology.	120520	1471938803654	1471938803784	s	83
+285	2490	Please accept my apology.	Please accept my apology.	120529	1471938803799	1471938803868	e	69
+285	2490	Please accept my apology.	Please accept my apology.	120532	1471938803857	1471938803991	 	32
+285	2490	Please accept my apology.	Please accept my apology.	120536	1471938804054	1471938804212	a	65
+285	2490	Please accept my apology.	Please accept my apology.	120538	1471938804284	1471938804364	c	67
+285	2490	Please accept my apology.	Please accept my apology.	120540	1471938804437	1471938804538	c	67
+285	2490	Please accept my apology.	Please accept my apology.	120586	1471938805058	1471938805220	e	69
+285	2490	Please accept my apology.	Please accept my apology.	120587	1471938805428	1471938805682	p	80
+285	2490	Please accept my apology.	Please accept my apology.	120588	1471938805908	1471938806036	t	84
+285	2490	Please accept my apology.	Please accept my apology.	120589	1471938806065	1471938806194	 	32
+285	2490	Please accept my apology.	Please accept my apology.	120590	1471938806319	1471938806428	m	77
+285	2490	Please accept my apology.	Please accept my apology.	120656	1471938806565	1471938806708	y	89
+285	2490	Please accept my apology.	Please accept my apology.	120657	1471938806683	1471938806796	 	32
+285	2490	Please accept my apology.	Please accept my apology.	120659	1471938806780	1471938807046	SHIFT	16
+285	2490	Please accept my apology.	Please accept my apology.	120661	1471938807317	1471938807416	s	83
+285	2490	Please accept my apology.	Please accept my apology.	120662	1471938807739	1471938807821	BKSP	8
+285	2490	Please accept my apology.	Please accept my apology.	120663	1471938807786	1471938807998	a	65
+285	2490	Please accept my apology.	Please accept my apology.	120664	1471938807998	1471938808117	p	80
+285	2490	Please accept my apology.	Please accept my apology.	120699	1471938808556	1471938808669	o	79
+285	2490	Please accept my apology.	Please accept my apology.	120700	1471938808778	1471938808918	l	76
+285	2490	Please accept my apology.	Please accept my apology.	120701	1471938809012	1471938809140	y	89
+285	2490	Please accept my apology.	Please accept my apology.	120702	1471938809467	1471938809510	g	71
+285	2490	Please accept my apology.	Please accept my apology.	120703	1471938809710	1471938809776	BKSP	8
+285	2490	Please accept my apology.	Please accept my apology.	120704	1471938809848	1471938809941	BKSP	8
+285	2490	Please accept my apology.	Please accept my apology.	120705	1471938810050	1471938810111	BKSP	8
+285	2490	Please accept my apology.	Please accept my apology.	120706	1471938810660	1471938810792	l	76
+285	2490	Please accept my apology.	Please accept my apology.	120827	1471938810947	1471938811107	o	79
+285	2490	Please accept my apology.	Please accept my apology.	120829	1471938811170	1471938811292	g	71
+285	2490	Please accept my apology.	Please accept my apology.	120831	1471938811247	1471938811347	y	89
+285	2490	Please accept my apology.	Please accept my apology.	120835	1471938811516	1471938811598	.	190
+285	2498	I know he's working on it.	I know he's working on it.	120977	1471938817580	1471938817868	SHIFT	16
+285	2498	I know he's working on it.	I know he's working on it.	120979	1471938817855	1471938817998	I	73
+285	2498	I know he's working on it.	I know he's working on it.	120980	1471938818051	1471938818204	 	32
+285	2498	I know he's working on it.	I know he's working on it.	120982	1471938818180	1471938818270	k	75
+285	2498	I know he's working on it.	I know he's working on it.	120983	1471938818286	1471938818403	n	78
+285	2498	I know he's working on it.	I know he's working on it.	120985	1471938818434	1471938818588	o	79
+285	2498	I know he's working on it.	I know he's working on it.	121021	1471938818467	1471938818596	w	87
+285	2498	I know he's working on it.	I know he's working on it.	121024	1471938818565	1471938818718	 	32
+285	2498	I know he's working on it.	I know he's working on it.	121027	1471938818734	1471938818873	h	72
+285	2498	I know he's working on it.	I know he's working on it.	121028	1471938818904	1471938818988	w	87
+285	2498	I know he's working on it.	I know he's working on it.	121029	1471938819428	1471938819508	BKSP	8
+285	2498	I know he's working on it.	I know he's working on it.	121030	1471938819479	1471938819591	e	69
+285	2498	I know he's working on it.	I know he's working on it.	121031	1471938819716	1471938819915	;	186
+285	2498	I know he's working on it.	I know he's working on it.	121032	1471938819962	1471938820092	s	83
+285	2498	I know he's working on it.	I know he's working on it.	121077	1471938820150	1471938820227	 	32
+285	2498	I know he's working on it.	I know he's working on it.	121080	1471938820446	1471938820529	BKSP	8
+285	2498	I know he's working on it.	I know he's working on it.	121083	1471938820616	1471938820698	BKSP	8
+285	2498	I know he's working on it.	I know he's working on it.	121084	1471938820792	1471938820880	BKSP	8
+285	2498	I know he's working on it.	I know he's working on it.	121085	1471938821448	1471938821579	'	222
+285	2498	I know he's working on it.	I know he's working on it.	121088	1471938821595	1471938821724	s	83
+285	2498	I know he's working on it.	I know he's working on it.	121092	1471938821714	1471938821885	 	32
+285	2498	I know he's working on it.	I know he's working on it.	121094	1471938822226	1471938822348	w	87
+285	2498	I know he's working on it.	I know he's working on it.	121115	1471938822376	1471938822522	o	79
+285	2498	I know he's working on it.	I know he's working on it.	121117	1471938822472	1471938822584	r	82
+285	2498	I know he's working on it.	I know he's working on it.	121118	1471938822647	1471938822753	k	75
+285	2498	I know he's working on it.	I know he's working on it.	121120	1471938822893	1471938823003	i	73
+285	2498	I know he's working on it.	I know he's working on it.	121139	1471938822971	1471938823092	n	78
+285	2498	I know he's working on it.	I know he's working on it.	121143	1471938823042	1471938823140	g	71
+285	2498	I know he's working on it.	I know he's working on it.	121147	1471938823123	1471938823220	 	32
+285	2498	I know he's working on it.	I know he's working on it.	121150	1471938823267	1471938823468	o	79
+285	2498	I know he's working on it.	I know he's working on it.	121154	1471938823433	1471938823535	n	78
+285	2498	I know he's working on it.	I know he's working on it.	121156	1471938823551	1471938823676	 	32
+285	2498	I know he's working on it.	I know he's working on it.	121226	1471938823695	1471938823791	i	73
+285	2498	I know he's working on it.	I know he's working on it.	121227	1471938823791	1471938823875	t	84
+285	2498	I know he's working on it.	I know he's working on it.	121228	1471938823922	1471938823992	.	190
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121430	1471938829888	1471938830177	SHIFT	16
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121435	1471938830075	1471938830177	M	77
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121437	1471938830552	1471938830693	o	79
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121439	1471938830787	1471938830866	n	78
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121441	1471938830939	1471938831031	i	73
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121443	1471938831062	1471938831196	t	84
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121467	1471938831222	1471938831372	o	79
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121471	1471938831347	1471938831449	r	82
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121474	1471938831481	1471938831634	 	32
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121476	1471938831654	1471938831830	h	72
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121478	1471938831845	1471938831940	i	73
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121513	1471938831904	1471938832028	s	83
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121516	1471938832002	1471938832156	 	32
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121522	1471938832171	1471938832372	p	80
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121524	1471938832307	1471938832427	r	82
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121526	1471938832584	1471938832702	e	69
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121528	1471938832963	1471938833092	g	71
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121546	1471938833419	1471938833539	r	82
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121548	1471938833633	1471938833726	e	69
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121550	1471938833913	1471938833995	s	83
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121551	1471938834098	1471938834156	s	83
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121552	1471938834283	1471938834453	 	32
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121574	1471938834539	1471938834691	o	79
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121575	1471938835026	1471938835156	v	86
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121576	1471938835247	1471938835420	e	69
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121577	1471938835393	1471938835481	r	82
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121578	1471938835481	1471938835606	 	32
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121594	1471938835818	1471938835947	t	84
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121598	1471938835931	1471938836087	h	72
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121605	1471938836054	1471938836188	e	69
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121609	1471938836149	1471938836266	 	32
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121633	1471938836313	1471938836484	n	78
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121617	1471938836420	1471938836471	e	69
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121634	1471938836627	1471938836733	x	88
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121635	1471938836836	1471938836924	t	84
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121636	1471938836888	1471938837023	 	32
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121637	1471938837101	1471938837196	f	70
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121638	1471938837321	1471938837420	e	69
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121659	1471938837532	1471938837672	w	87
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121661	1471938837750	1471938837886	 	32
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121664	1471938838196	1471938838276	w	87
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121665	1471938838370	1471938838442	e	69
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121667	1471938838536	1471938838610	e	69
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121784	1471938838654	1471938838775	k	75
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121785	1471938838986	1471938839164	s	83
+285	2507	Monitor his progress over the next few weeks.	Monitor his pregress over the next few weeks.	121787	1471938839187	1471938839260	.	190
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	121995	1471938845889	1471938846219	SHIFT	16
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	121998	1471938846136	1471938846252	H	72
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122000	1471938846738	1471938846837	e	69
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122004	1471938846868	1471938847032	 	32
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122009	1471938847204	1471938847284	s	83
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122012	1471938847357	1471938847487	a	65
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122016	1471938847519	1471938847660	i	73
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122018	1471938847623	1471938847723	d	68
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122020	1471938847738	1471938847825	 	32
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122022	1471938848021	1471938848148	h	72
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122044	1471938848128	1471938848210	e	69
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122050	1471938848225	1471938848342	 	32
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122056	1471938848425	1471938848548	w	87
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122065	1471938848516	1471938848691	o	79
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122069	1471938848676	1471938848762	u	85
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122075	1471938848872	1471938848993	l	76
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122091	1471938849003	1471938849099	d	68
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122094	1471938849092	1471938849252	 	32
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122095	1471938849340	1471938849499	l	76
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122098	1471938849451	1471938849546	e	69
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122099	1471938849578	1471938849772	a	65
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122118	1471938849733	1471938849847	r	82
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122123	1471938849878	1471938850012	n	78
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122128	1471938850059	1471938850181	 	32
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122132	1471938850228	1471938850352	m	77
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122138	1471938850384	1471938850538	o	79
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122152	1471938850498	1471938850582	r	82
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122154	1471938850629	1471938850702	e	69
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122157	1471938850970	1471938851131	 	32
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122160	1471938851099	1471938851261	a	65
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122163	1471938851308	1471938851460	b	66
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122192	1471938851403	1471938851548	o	79
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122194	1471938851593	1471938851687	u	85
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122196	1471938851765	1471938851840	t	84
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122198	1471938851871	1471938851987	 	32
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122199	1471938852116	1471938852191	t	84
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122200	1471938852210	1471938852348	h	72
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122230	1471938852338	1471938852475	e	69
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122231	1471938852455	1471938852603	 	32
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122232	1471938852635	1471938852771	i	73
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122236	1471938852763	1471938852889	n	78
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122239	1471938853202	1471938853308	j	74
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122243	1471938853442	1471938853591	u	85
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122290	1471938853667	1471938853851	t	84
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122292	1471938853823	1471938853998	y	89
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122296	1471938854331	1471938854404	BKSP	8
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122299	1471938854476	1471938854563	BKSP	8
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122306	1471938854532	1471938854647	r	82
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122310	1471938854679	1471938854797	y	89
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122316	1471938854828	1471938854947	 	32
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122334	1471938855123	1471938855296	a	65
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122337	1471938855375	1471938855488	s	83
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122342	1471938855451	1471938855551	 	32
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122346	1471938855613	1471938855708	t	84
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122373	1471938855692	1471938855844	h	72
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122375	1471938855806	1471938855903	e	69
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122377	1471938855922	1471938856051	 	32
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122380	1471938856018	1471938856182	w	87
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122384	1471938856291	1471938856403	e	69
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122388	1471938856502	1471938856573	e	69
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122420	1471938856661	1471938856786	k	75
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122421	1471938856864	1471938856988	 	32
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122422	1471938857183	1471938857361	p	80
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122423	1471938857321	1471938857408	r	82
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122425	1471938857471	1471938857611	o	79
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122512	1471938858527	1471938858611	g	71
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122517	1471938858720	1471938858819	r	82
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122520	1471938858912	1471938859013	e	69
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122523	1471938859427	1471938859519	s	83
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122526	1471938859597	1471938859730	s	83
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122599	1471938859860	1471938859950	e	69
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122603	1471938860068	1471938860185	d	68
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122606	1471938860232	1471938860302	.	190
+285	2519	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed. 	122611	1471938860538	1471938860611	 	32
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122845	1471938865035	1471938865345	SHIFT	16
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122843	1471938865179	1471938865283	I	73
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122847	1471938865866	1471938866032	'	222
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122850	1471938866821	1471938866893	l	76
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122854	1471938867018	1471938867123	l	76
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122889	1471938867091	1471938867244	 	32
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122892	1471938867307	1471938867425	g	71
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122895	1471938867503	1471938867640	e	69
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122899	1471938867687	1471938867762	t	84
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122902	1471938867809	1471938867955	 	32
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122927	1471938867939	1471938868083	w	87
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122933	1471938868044	1471938868177	i	73
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122935	1471938868192	1471938868291	t	84
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122941	1471938868264	1471938868387	h	72
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122943	1471938868363	1471938868494	 	32
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122946	1471938868547	1471938868662	h	72
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122953	1471938868757	1471938868923	i	73
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122954	1471938868972	1471938869096	m	77
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122955	1471938869132	1471938869251	 	32
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122956	1471938869339	1471938869443	b	66
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122994	1471938869427	1471938869532	y	89
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122996	1471938869564	1471938869740	 	32
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122998	1471938870098	1471938870310	p	80
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	122999	1471938870331	1471938870420	h	72
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	123000	1471938870471	1471938870601	o	79
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	123001	1471938870664	1471938870754	n	78
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	123009	1471938870772	1471938870860	e	69
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	123012	1471938870867	1471938870925	 	32
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	123014	1471938870992	1471938871083	t	84
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	123016	1471938871074	1471938871203	o	79
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	123058	1471938871187	1471938871459	 	32
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	123061	1471938871403	1471938871522	c	67
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	123066	1471938871750	1471938871889	o	79
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	123067	1471938871970	1471938872043	n	78
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	123070	1471938872152	1471938872244	f	70
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	123074	1471938872259	1471938872343	i	73
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	123221	1471938872358	1471938872460	r	82
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	123224	1471938872507	1471938872642	.	190
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	123227	1471938873403	1471938873545	BKSP	8
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	123230	1471938873909	1471938874036	BKSP	8
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	123232	1471938874732	1471938874834	r	82
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	123234	1471938874977	1471938875069	m	77
+285	2536	I'll get with him by phone to confirm.	I'll get with him by phone to confirm.	123235	1471938876264	1471938876310	.	190
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123408	1471938880625	1471938880939	SHIFT	16
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123410	1471938880851	1471938880939	T	84
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123412	1471938880985	1471938881089	h	72
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123413	1471938881136	1471938881290	a	65
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123415	1471938881256	1471938881359	n	78
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123416	1471938881406	1471938881507	k	75
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123496	1471938882168	1471938882291	s	83
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123501	1471938882385	1471938882554	.	190
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123504	1471938882532	1471938882659	 	32
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123508	1471938882690	1471938883025	SHIFT	16
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123511	1471938883258	1471938883331	BKSP	8
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123514	1471938883409	1471938883512	BKSP	8
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123517	1471938883736	1471938883816	,	188
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123522	1471938883922	1471938884062	 	32
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123552	1471938884125	1471938884266	h	72
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123555	1471938884698	1471938884833	a	65
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123559	1471938885159	1471938885266	v	86
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123564	1471938885245	1471938885386	i	73
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123606	1471938885354	1471938885490	n	78
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123612	1471938885444	1471938885559	g	71
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123618	1471938885559	1471938885719	 	32
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123623	1471938886489	1471938886606	a	65
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123627	1471938886622	1471938886754	 	32
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123630	1471938886826	1471938886941	g	71
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123635	1471938886954	1471938887038	o	79
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123638	1471938887116	1471938887248	o	79
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123641	1471938887210	1471938887330	d	68
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123644	1471938887331	1471938887429	 	32
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123648	1471938887491	1471938887580	t	84
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123735	1471938887516	1471938887660	i	73
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123737	1471938887722	1471938887865	m	77
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123739	1471938887797	1471938887938	e	69
+285	2550	Thanks, having a good time.	Thanks, having a good time.	123741	1471938888034	1471938888083	.	190
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	123892	1471938892897	1471938893184	SHIFT	16
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	123898	1471938893130	1471938893226	T	84
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	123905	1471938893215	1471938893378	h	72
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	123908	1471938893378	1471938893498	e	69
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	123912	1471938893469	1471938893645	 	32
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	123918	1471938893661	1471938893735	m	77
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	123945	1471938893798	1471938893966	o	79
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	123946	1471938894210	1471938894330	j	74
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	123950	1471938894386	1471938894498	o	79
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	123955	1471938894530	1471938894642	r	82
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	123961	1471938894643	1471938894769	i	73
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124099	1471938895055	1471938895171	t	84
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124103	1471938895186	1471938895322	y	89
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124108	1471938895385	1471938895506	 	32
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124114	1471938896291	1471938896377	BKSP	8
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124122	1471938896480	1471938896577	BKSP	8
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124128	1471938896659	1471938896745	BKSP	8
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124131	1471938896855	1471938896914	BKSP	8
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124135	1471938897968	1471938898018	BKSP	8
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124138	1471938898112	1471938898184	BKSP	8
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124140	1471938898287	1471938898337	BKSP	8
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124141	1471938898447	1471938898564	BKSP	8
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124143	1471938898595	1471938898747	a	65
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124145	1471938898841	1471938898951	j	74
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124150	1471938898997	1471938899118	o	79
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124153	1471938899134	1471938899282	r	82
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124157	1471938899274	1471938899474	i	73
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124162	1471938899506	1471938899622	t	84
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124167	1471938899622	1471938899752	y	89
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124195	1471938899796	1471938899936	 	32
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124198	1471938900123	1471938900269	o	79
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124200	1471938900347	1471938900473	w	87
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124202	1471938900598	1471938900728	e	69
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124204	1471938900775	1471938900906	n	78
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124274	1471938900933	1471938901104	e	69
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124277	1471938901166	1471938901274	r	82
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124283	1471938901360	1471938901462	 	32
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124288	1471938901948	1471938902016	BKSP	8
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124294	1471938902113	1471938902182	BKSP	8
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124298	1471938902260	1471938902331	BKSP	8
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124300	1471938902441	1471938902498	BKSP	8
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124303	1471938902582	1471938902666	BKSP	8
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124305	1471938902806	1471938902915	n	78
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124307	1471938902930	1471938903064	e	69
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124422	1471938903107	1471938903216	r	82
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124424	1471938904118	1471938904154	BKSP	8
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124426	1471938904943	1471938905034	r	82
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124429	1471938905129	1471938905270	 	32
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124433	1471938905561	1471938905678	o	79
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124464	1471938905627	1471938905730	f	70
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124466	1471938905717	1471938905825	 	32
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124469	1471938905919	1471938906182	SHIFT	16
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124471	1471938906103	1471938906197	T	84
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124475	1471938906324	1471938906427	e	69
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124477	1471938906489	1471938906663	l	76
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124520	1471938906564	1471938906674	e	69
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124525	1471938906782	1471938906930	c	67
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124530	1471938906896	1471938907106	o	79
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124536	1471938907075	1471938907148	m	77
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124541	1471938907195	1471938907297	 	32
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124543	1471938907313	1471938907442	i	73
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124620	1471938907417	1471938907546	s	83
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124622	1471938907516	1471938907676	 	32
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124625	1471938907946	1471938908115	a	65
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124629	1471938908161	1471938908321	 	32
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124631	1471938908999	1471938909119	c	67
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124632	1471938909138	1471938909274	o	79
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124750	1471938909224	1471938909338	n	78
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124751	1471938910413	1471938910588	s	83
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124752	1471938910619	1471938910757	o	79
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124753	1471938911178	1471938911293	r	82
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124754	1471938911782	1471938911896	t	84
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124755	1471938911943	1471938912125	i	73
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124827	1471938912423	1471938912532	BKSP	8
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124829	1471938912610	1471938912730	u	85
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124832	1471938912900	1471938913017	m	77
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124835	1471938913158	1471938913221	.	190
+285	2563	The majority owner of Telecom is a consortium.	The majority owner of Telecom is a consortum. 	124838	1471938913378	1471938913450	 	32
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125074	1471938919190	1471938919858	SHIFT	16
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125073	1471938919709	1471938919842	S	83
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125075	1471938919823	1471938919909	H	72
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125076	1471938919987	1471938920113	u	85
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125077	1471938920207	1471938920325	l	76
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125078	1471938920372	1471938920477	d	68
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125247	1471938920490	1471938920641	 	32
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125250	1471938921269	1471938921333	BKSP	8
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125253	1471938921429	1471938921499	BKSP	8
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125256	1471938921608	1471938921635	BKSP	8
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125260	1471938921728	1471938921816	BKSP	8
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125263	1471938922367	1471938922435	h	72
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125266	1471938922737	1471938922804	BKSP	8
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125268	1471938922913	1471938923001	BKSP	8
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125274	1471938923219	1471938923323	h	72
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125270	1471938923242	1471938923291	g	71
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125276	1471938924166	1471938924282	BKSP	8
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125277	1471938924855	1471938924954	o	79
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125306	1471938924996	1471938925061	u	85
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125309	1471938925202	1471938925310	l	76
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125311	1471938925341	1471938925459	d	68
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125313	1471938925475	1471938925597	 	32
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125315	1471938925831	1471938925976	s	83
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125383	1471938926261	1471938926348	u	85
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125387	1471938926785	1471938926883	BKSP	8
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125391	1471938927219	1471938927354	y	89
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125394	1471938927354	1471938927451	s	83
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125397	1471938927560	1471938927684	t	84
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125402	1471938927684	1471938927873	e	69
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125455	1471938927818	1471938927970	m	77
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125457	1471938928069	1471938928202	s	83
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125459	1471938928249	1471938928384	 	32
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125461	1471938928809	1471938928922	m	77
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125463	1471938928937	1471938929040	a	65
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125465	1471938929071	1471938929202	n	78
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125520	1471938929162	1471938929338	a	65
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125523	1471938929546	1471938929720	g	71
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125529	1471938929770	1471938929892	e	69
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125534	1471938929986	1471938930109	 	32
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125538	1471938930202	1471938930310	t	84
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125542	1471938930326	1471938930466	h	72
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125612	1471938930431	1471938930554	e	69
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125617	1471938930524	1471938930645	 	32
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125620	1471938930723	1471938931098	SHIFT	16
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125622	1471938931227	1471938931316	m	77
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125624	1471938931394	1471938931529	i	73
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125626	1471938931576	1471938931652	r	82
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125628	1471938931983	1471938932106	BKSP	8
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125656	1471938932068	1471938932194	g	71
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125660	1471938932333	1471938932452	r	82
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125663	1471938932473	1471938932632	a	65
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125667	1471938932648	1471938932723	t	84
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125669	1471938932682	1471938932739	i	73
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125671	1471938932810	1471938932970	o	79
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125764	1471938932935	1471938933029	n	78
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125769	1471938933323	1471938934091	SHIFT	16
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125765	1471938933964	1471938934028	?	191
+285	2586	Should systems manage the migration?	Should systems manage the migration? 	125772	1471938934091	1471938934177	 	32
+285	2599	Have a good weekend.	Have a good weekend. 	125927	1471938938657	1471938938947	SHIFT	16
+285	2599	Have a good weekend.	Have a good weekend. 	125929	1471938938880	1471938938983	H	72
+285	2599	Have a good weekend.	Have a good weekend. 	125930	1471938939062	1471938939238	a	65
+285	2599	Have a good weekend.	Have a good weekend. 	125931	1471938939443	1471938939555	v	86
+285	2599	Have a good weekend.	Have a good weekend. 	125932	1471938939656	1471938939747	e	69
+285	2599	Have a good weekend.	Have a good weekend. 	125934	1471938939794	1471938939942	 	32
+285	2599	Have a good weekend.	Have a good weekend. 	125982	1471938939981	1471938940100	a	65
+285	2599	Have a good weekend.	Have a good weekend. 	125987	1471938940376	1471938940512	 	32
+285	2599	Have a good weekend.	Have a good weekend. 	125991	1471938940528	1471938940666	g	71
+285	2599	Have a good weekend.	Have a good weekend. 	125995	1471938940659	1471938940718	o	79
+285	2599	Have a good weekend.	Have a good weekend. 	125999	1471938940843	1471938940947	o	79
+285	2599	Have a good weekend.	Have a good weekend. 	126017	1471938940917	1471938941036	d	68
+285	2599	Have a good weekend.	Have a good weekend. 	126020	1471938941083	1471938941267	 	32
+285	2599	Have a good weekend.	Have a good weekend. 	126024	1471938941230	1471938941336	w	87
+285	2599	Have a good weekend.	Have a good weekend. 	126028	1471938941461	1471938941537	e	69
+285	2599	Have a good weekend.	Have a good weekend. 	126032	1471938941615	1471938941671	e	69
+285	2599	Have a good weekend.	Have a good weekend. 	126036	1471938941703	1471938941867	k	75
+285	2599	Have a good weekend.	Have a good weekend. 	126130	1471938941833	1471938941921	e	69
+285	2599	Have a good weekend.	Have a good weekend. 	126133	1471938942027	1471938942152	d	68
+285	2599	Have a good weekend.	Have a good weekend. 	126136	1471938942152	1471938942240	.	190
+285	2599	Have a good weekend.	Have a good weekend. 	126138	1471938942380	1471938942442	 	32
+285	2599	Have a good weekend.	Have a good weekend. 	126140	1471938943082	1471938943160	BKSP	8
+285	2599	Have a good weekend.	Have a good weekend. 	126143	1471938943250	1471938943326	BKSP	8
+285	2599	Have a good weekend.	Have a good weekend. 	126146	1471938943420	1471938943541	BKSP	8
+285	2599	Have a good weekend.	Have a good weekend. 	126149	1471938943949	1471938944123	n	78
+285	2599	Have a good weekend.	Have a good weekend. 	126153	1471938944201	1471938944346	d	68
+285	2599	Have a good weekend.	Have a good weekend. 	126210	1471938944387	1471938944507	.	190
+285	2599	Have a good weekend.	Have a good weekend. 	126212	1471938944707	1471938944781	 	32
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126445	1471938951178	1471938951420	SHIFT	16
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126448	1471938951339	1471938951475	I	73
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126452	1471938951436	1471938951624	 	32
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126455	1471938951578	1471938951722	w	87
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126460	1471938951655	1471938951744	i	73
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126464	1471938951853	1471938951935	l	76
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126487	1471938952021	1471938952179	l	76
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126491	1471938952106	1471938952228	 	32
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126495	1471938952415	1471938952512	b	66
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126498	1471938952575	1471938952763	e	69
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126540	1471938952752	1471938952954	 	32
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126541	1471938953063	1471938953175	t	84
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126543	1471938953222	1471938953427	a	65
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126545	1471938953410	1471938953463	k	75
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126546	1471938953604	1471938953707	i	73
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126561	1471938953663	1471938953811	n	78
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126566	1471938953780	1471938953848	g	71
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126571	1471938953848	1471938953962	 	32
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126574	1471938954033	1471938954130	t	84
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126576	1471938954146	1471938954284	h	72
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126606	1471938954246	1471938954347	e	69
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126608	1471938954354	1471938954539	 	32
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126609	1471938954523	1471938954587	f	70
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126610	1471938954611	1471938954735	i	73
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126611	1471938954699	1471938954813	r	82
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126613	1471938955318	1471938955448	s	83
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126655	1471938955493	1471938955600	t	84
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126659	1471938955631	1471938955763	 	32
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126662	1471938955827	1471938955904	w	87
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126664	1471938956013	1471938956088	e	69
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126666	1471938956166	1471938956254	e	69
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126683	1471938956427	1471938956553	k	75
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126685	1471938956757	1471938956902	 	32
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126688	1471938956933	1471938957091	i	73
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126692	1471938957075	1471938957203	n	78
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126722	1471938957189	1471938957322	 	32
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126727	1471938957353	1471938957694	SHIFT	16
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126724	1471938957587	1471938957678	D	68
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126731	1471938957789	1471938957907	e	69
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126735	1471938958064	1471938958146	v	67
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126737	1471938958146	1471938958235	e	69
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126800	1471938958598	1471938958647	BKSP	8
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126802	1471938958741	1471938958798	BKSP	8
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126806	1471938959055	1471938959194	e	69
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126809	1471938959194	1471938959363	m	77
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126811	1471938960087	1471938960231	v	86
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126813	1471938960278	1471938960462	e	69
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126816	1471938960462	1471938960521	r	82
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126872	1471938960705	1471938960771	BKSP	8
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126873	1471938960849	1471938960990	BKSP	8
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126875	1471938960952	1471938961053	b	66
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126876	1471938961241	1471938961340	BKSP	8
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126878	1471938961449	1471938961522	BKSP	8
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126879	1471938961538	1471938961607	b	66
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126881	1471938961700	1471938961926	e	69
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126882	1471938961858	1471938961957	r	82
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126883	1471938962272	1471938962406	 	32
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126947	1471938962528	1471938962657	o	79
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126949	1471938962720	1471938962809	f	70
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126951	1471938962919	1471938962996	f	70
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126953	1471938963890	1471938963963	.	190
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	126954	1471938964108	1471938964261	,	188
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	127017	1471938964426	1471938964514	BKSP	8
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	127018	1471938964578	1471938964654	BKSP	8
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	127019	1471938964810	1471938964931	,	188
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	127020	1471938964938	1471938965081	 	32
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	127021	1471938965256	1471938965394	t	84
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	127022	1471938965383	1471938965454	h	72
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	127023	1471938965506	1471938965619	o	79
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	127044	1471938965638	1471938965767	u	85
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	127047	1471938965877	1471938965994	g	71
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	127051	1471938965987	1471938966062	h	72
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	127054	1471938966496	1471938966590	.	190
+285	2609	I will be taking the first week in December off, though.	I will be taking the first week in December off, though. 	127057	1471938966886	1471938966959	 	32
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127576	1471938977428	1471938977862	SHIFT	16
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127580	1471938977761	1471938977924	I	73
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127584	1471938978477	1471938978626	'	222
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127588	1471938979122	1471938979202	l	76
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127595	1471938979280	1471938979434	l	76
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127609	1471938979370	1471938979482	 	32
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127612	1471938979530	1471938979634	t	84
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127614	1471938979687	1471938979810	a	65
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127617	1471938979786	1471938979938	k	75
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127621	1471938979902	1471938980024	e	69
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127647	1471938979987	1471938980107	 	32
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127648	1471938980185	1471938980303	u	85
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127649	1471938980350	1471938980573	p	80
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127650	1471938980486	1471938980620	 	32
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127651	1471938980620	1471938980742	m	77
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127652	1471938980867	1471938981010	y	89
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127674	1471938980957	1471938981116	 	32
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127679	1471938981132	1471938981282	p	80
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127683	1471938981256	1471938981371	r	82
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127688	1471938981344	1471938981504	o	79
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127694	1471938981535	1471938981673	b	66
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127698	1471938981689	1471938981861	l	76
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127711	1471938981793	1471938981914	e	69
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127713	1471938981961	1471938982092	m	77
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127718	1471938982092	1471938982323	 	32
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127722	1471938982303	1471938982441	w	87
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127727	1471938982441	1471938982547	i	73
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127731	1471938982577	1471938982648	t	84
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127785	1471938982666	1471938982778	h	72
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127792	1471938982794	1471938983106	 	32
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127788	1471938982990	1471938983034	w	87
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127795	1471938983971	1471938984066	e	69
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127800	1471938984129	1471938984250	a	65
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127874	1471938984450	1471938984579	k	75
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127875	1471938984641	1471938984783	 	32
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127877	1471938984954	1471938985155	s	83
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127879	1471938985560	1471938985704	BKSP	8
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127883	1471938985578	1471938985839	SHIFT	16
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127881	1471938985736	1471938985808	S	83
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127886	1471938985949	1471938986057	c	67
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127921	1471938986074	1471938986193	o	79
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127924	1471938986240	1471938986295	t	84
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127927	1471938986388	1471938986460	t	84
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127931	1471938986905	1471938987088	.	190
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	127936	1471938987119	1471938987210	 	32
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	128083	1471938987245	1471938987570	SHIFT	16
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	128086	1471938987637	1471938987714	BKSP	8
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	128089	1471938987792	1471938987913	BKSP	8
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	128090	1471938987962	1471938988080	 	32
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	128092	1471938988064	1471938988415	SHIFT	16
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	128091	1471938988314	1471938988384	H	72
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	128093	1471938988543	1471938988618	.	190
+285	2630	I'll take up my problem with weak Scott H.	I'll take up my problem with weak Scott H. 	128095	1471938988748	1471938988834	 	32
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128321	1471938994410	1471938995250	SHIFT	16
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128317	1471938995135	1471938995242	H	72
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128327	1471938995339	1471938995455	e	69
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128332	1471938995455	1471938995604	 	32
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128344	1471938995635	1471938995795	h	72
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128351	1471938995894	1471938996056	a	65
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128364	1471938996116	1471938996234	s	83
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128366	1471938996197	1471938996341	 	32
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128368	1471938996372	1471938996514	m	77
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128370	1471938996482	1471938996578	a	65
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128372	1471938996671	1471938996746	d	68
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128424	1471938996837	1471938996971	e	69
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128425	1471938996945	1471938997098	 	32
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128426	1471938997463	1471938997634	p	80
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128427	1471938997642	1471938997748	r	82
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128429	1471938997920	1471938997969	g	71
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128493	1471938998396	1471938998491	BKSP	8
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128497	1471938998632	1471938998756	o	79
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128500	1471938998719	1471938998787	g	71
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128505	1471938998928	1471938999051	r	82
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128510	1471938999114	1471938999188	e	69
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128518	1471938999297	1471938999370	e	69
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128546	1471938999938	1471939000034	BKSP	8
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128548	1471939000018	1471939000125	s	83
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128550	1471939000219	1471939000339	s	83
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128553	1471939000370	1471939000505	 	32
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128557	1471939000521	1471939000634	i	73
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128607	1471939000610	1471939000706	n	78
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128610	1471939000674	1471939000729	 	32
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128614	1471939000807	1471939000925	t	84
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128616	1471939001296	1471939001379	BKSP	8
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128620	1471939001504	1471939001595	h	72
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128621	1471939001642	1471939001778	i	73
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128700	1471939001746	1471939001851	s	83
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128702	1471939001839	1471939002088	 	32
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128705	1471939002434	1471939002533	r	82
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128708	1471939002626	1471939002717	e	69
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128713	1471939003074	1471939003183	c	67
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128717	1471939003245	1471939003399	o	79
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128772	1471939003738	1471939003852	b	66
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128776	1471939004024	1471939004137	r	82
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128781	1471939004378	1471939004451	BKSP	8
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128785	1471939004538	1471939004666	BKSP	8
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128789	1471939004626	1471939004750	v	86
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128792	1471939004943	1471939005151	r	82
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128794	1471939005245	1471939005419	y	89
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128845	1471939005907	1471939005995	BKSP	8
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128847	1471939006073	1471939006213	BKSP	8
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128850	1471939006132	1471939006244	e	69
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128852	1471939006244	1471939006376	r	82
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128855	1471939006407	1471939006528	y	89
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128859	1471939006559	1471939006690	 	32
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128863	1471939006765	1471939006864	a	65
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128877	1471939006864	1471939007002	n	78
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128881	1471939006980	1471939007114	d	68
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128884	1471939007082	1471939007218	 	32
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128887	1471939007197	1471939007282	m	77
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128889	1471939007322	1471939007474	i	73
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128915	1471939007447	1471939007549	g	71
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128919	1471939007549	1471939007681	h	72
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128924	1471939007681	1471939007783	t	84
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128928	1471939007799	1471939007954	 	32
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128930	1471939008188	1471939008301	p	80
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128932	1471939008410	1471939008538	l	76
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128954	1471939008546	1471939008698	a	65
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128958	1471939008684	1471939008787	y	89
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128963	1471939008834	1471939008952	 	32
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	128968	1471939009159	1471939009258	t	84
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	129015	1471939009222	1471939009300	h	72
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	129018	1471939009370	1471939009506	i	73
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	129024	1471939009450	1471939009546	s	83
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	129028	1471939009554	1471939009722	 	32
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	129033	1471939009722	1471939009826	w	87
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	129036	1471939010013	1471939010126	e	69
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	129237	1471939010196	1471939010301	e	69
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	129241	1471939010402	1471939010602	l	76
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	129246	1471939010890	1471939010982	BKSP	8
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	129252	1471939011092	1471939011164	k	75
+285	2648	He has made progress in his recovery and might play this week.	He has made progress in his recovery and might play this week.	129255	1471939011512	1471939011615	.	190
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129645	1471939019129	1471939020210	SHIFT	16
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129644	1471939020050	1471939020144	A	65
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129646	1471939020176	1471939020340	N	78
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129648	1471939020356	1471939020508	d	68
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129650	1471939020570	1471939020706	y	89
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129812	1471939020674	1471939020812	 	32
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129814	1471939021003	1471939021266	SHIFT	16
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129816	1471939021996	1471939022068	BKSP	8
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129818	1471939022890	1471939022954	BKSP	8
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129820	1471939023066	1471939023171	BKSP	8
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129822	1471939023296	1471939023387	BKSP	8
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129825	1471939023528	1471939023674	n	78
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129829	1471939023682	1471939023805	d	68
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129834	1471939023868	1471939024002	y	89
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129836	1471939023989	1471939024075	 	32
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129956	1471939024043	1471939024997	SHIFT	16
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129951	1471939024410	1471939024482	F	71
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129962	1471939025091	1471939025178	BKSP	8
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129970	1471939025303	1471939025394	BKSP	8
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129985	1471939025456	1471939026022	SHIFT	16
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129978	1471939025719	1471939025781	G	71
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129990	1471939026098	1471939026214	BKSP	8
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129999	1471939026152	1471939026367	SHIFT	16
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	129995	1471939026292	1471939026352	F	70
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130003	1471939026537	1471939026633	a	65
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130006	1471939026722	1471939026864	s	83
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130008	1471939027330	1471939027420	t	84
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130026	1471939027461	1471939027624	o	79
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130029	1471939027585	1471939027733	w	87
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130033	1471939027749	1471939027870	 	32
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130037	1471939028021	1471939028152	w	87
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130040	1471939028175	1471939028288	i	73
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130086	1471939028410	1471939028458	l	76
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130087	1471939028576	1471939028689	l	76
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130088	1471939028704	1471939028824	 	32
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130090	1471939028933	1471939029087	b	66
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130094	1471939029194	1471939029338	e	69
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130152	1471939029292	1471939029418	 	32
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130160	1471939029458	1471939029610	o	79
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130166	1471939029586	1471939029706	n	78
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130169	1471939029682	1471939029813	 	32
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130173	1471939029876	1471939030025	a	65
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130178	1471939030041	1471939030240	 	32
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130206	1471939030269	1471939030506	l	76
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130209	1471939030410	1471939030538	e	69
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130215	1471939030613	1471939030760	a	65
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130221	1471939030823	1471939030946	v	86
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130225	1471939030961	1471939031122	e	69
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130268	1471939031082	1471939031205	 	32
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130270	1471939031252	1471939031418	o	79
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130272	1471939031335	1471939031465	f	70
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130274	1471939031481	1471939031536	 	32
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130278	1471939031610	1471939031998	SHIFT	16
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130276	1471939031856	1471939031951	A	65
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130280	1471939032317	1471939032514	BKSP	8
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130283	1471939032522	1471939032636	a	65
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130384	1471939033093	1471939033204	b	66
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130387	1471939033538	1471939033663	s	83
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130391	1471939034602	1471939034690	e	69
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130394	1471939034732	1471939034859	n	78
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130396	1471939035068	1471939035226	c	67
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130414	1471939035266	1471939035363	e	69
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130418	1471939035379	1471939035513	 	32
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130422	1471939035645	1471939035700	f	70
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130426	1471939035794	1471939035903	r	82
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130437	1471939035868	1471939036066	o	79
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130439	1471939036028	1471939036134	m	77
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130438	1471939036050	1471939036118	 	32
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130441	1471939036200	1471939036284	t	84
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130443	1471939036284	1471939036418	h	72
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130496	1471939036401	1471939036487	e	69
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130501	1471939036502	1471939036638	 	32
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130506	1471939036998	1471939037138	c	67
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130510	1471939037120	1471939037251	o	79
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130513	1471939037579	1471939037721	m	77
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130515	1471939037784	1471939037990	p	80
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130587	1471939037904	1471939038052	a	65
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130592	1471939038052	1471939038126	n	78
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130597	1471939038260	1471939038358	y	89
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130602	1471939038536	1471939038606	.	190
+285	2673	Andy Fastow will be on a leave of absence from the company.	Andy Fastow will be on a leave of absence from the company. 	130606	1471939038684	1471939038778	 	32

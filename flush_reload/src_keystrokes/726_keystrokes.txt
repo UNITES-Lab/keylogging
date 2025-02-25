@@ -1,0 +1,709 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347380	1471944967109	1471944967223	SHIFT	16
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347382	1471944967172	1471944967243	I	73
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347385	1471944967291	1471944967370	 	32
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347388	1471944967427	1471944967518	a	65
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347393	1471944967519	1471944967591	m	77
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347398	1471944967678	1471944967733	 	32
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347463	1471944968139	1471944968202	u	85
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347467	1471944968291	1471944968366	n	78
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347471	1471944968792	1471944968887	a	65
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347473	1471944968955	1471944969058	v	86
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347475	1471944969119	1471944969242	a	65
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347525	1471944969636	1471944969705	i	73
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347528	1471944969774	1471944969889	l	76
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347531	1471944970322	1471944970417	a	65
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347533	1471944970434	1471944970533	b	66
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347535	1471944970549	1471944970649	l	76
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347561	1471944970698	1471944970774	e	69
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347567	1471944970834	1471944970913	 	32
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347572	1471944970992	1471944971083	f	70
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347575	1471944971044	1471944971119	o	79
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347579	1471944971195	1471944971274	r	82
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347604	1471944971235	1471944971326	 	32
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347608	1471944971385	1471944971468	t	84
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347610	1471944971437	1471944971508	h	72
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347613	1471944971572	1471944971655	e	69
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347619	1471944971660	1471944971723	 	32
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347622	1471944972141	1471944972232	1	49
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347668	1471944972351	1471944972731	SHIFT	16
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347664	1471944972432	1471944972523	P	80
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347665	1471944972611	1471944972680	M	77
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347671	1471944972764	1471944972835	 	32
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347676	1471944973012	1471944973095	m	77
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347681	1471944973160	1471944973231	e	69
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347691	1471944973307	1471944973378	e	69
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347693	1471944973421	1471944973508	t	84
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347695	1471944973484	1471944973597	i	73
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347699	1471944973585	1471944973696	n	78
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347708	1471944973669	1471944973767	g	71
+726	7220	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	347709	1471944973926	1471944973977	.	190
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347840	1471944977134	1471944977306	SHIFT	16
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347847	1471944977247	1471944977346	D	68
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347853	1471944977348	1471944977414	o	79
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347859	1471944977445	1471944977528	e	69
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347863	1471944977570	1471944977669	s	83
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347867	1471944977682	1471944977749	 	32
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347897	1471944977838	1471944977893	d	68
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347900	1471944978177	1471944978253	BKSP	8
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347902	1471944978256	1471944978404	SHIFT	16
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347904	1471944978340	1471944978428	D	68
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347905	1471944978506	1471944978585	a	65
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347906	1471944978603	1471944978677	n	78
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347907	1471944978725	1471944978797	 	32
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347914	1471944978902	1471944978941	h	72
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347917	1471944979153	1471944979249	BKSP	8
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347921	1471944979363	1471944979462	k	75
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347928	1471944979451	1471944979534	n	78
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347934	1471944979543	1471944979634	o	79
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347941	1471944979667	1471944979750	w	87
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347978	1471944979881	1471944979948	 	32
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347980	1471944980765	1471944980849	a	65
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347983	1471944980822	1471944980897	b	66
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	347985	1471944980928	1471944980999	o	79
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348023	1471944980996	1471944981087	u	85
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348026	1471944981091	1471944981183	t	84
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348028	1471944981164	1471944981247	 	32
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348032	1471944981423	1471944981563	SHIFT	16
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348034	1471944981492	1471944981579	J	74
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348037	1471944981669	1471944981720	u	85
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348041	1471944981840	1471944981943	l	76
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348067	1471944981989	1471944982052	i	73
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348070	1471944982075	1471944982162	a	65
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348071	1471944982171	1471944982238	 	32
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348073	1471944982601	1471944982712	c	67
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348077	1471944982661	1471944982728	h	72
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348079	1471944982788	1471944982859	a	65
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348081	1471944982836	1471944982927	n	78
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348085	1471944982960	1471944983055	g	71
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348088	1471944983016	1471944983163	i	73
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348110	1471944983100	1471944983231	n	78
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348113	1471944983204	1471944983291	g	71
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348115	1471944983325	1471944983416	 	32
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348116	1471944983488	1471944983611	c	67
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348117	1471944983847	1471944983930	BKSP	8
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348118	1471944983970	1471944984129	g	71
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348146	1471944984102	1471944984213	r	82
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348149	1471944984198	1471944984341	o	79
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348153	1471944984306	1471944984441	u	85
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348155	1471944984418	1471944984556	p	80
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348157	1471944984538	1471944984625	s	83
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348159	1471944984852	1471944985024	SHIFT	16
+726	7232	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	348131	1471944984985	1471944985036	?	191
+726	7243	Do we know what we need?	DO we know what we need?	348265	1471944988155	1471944988304	SHIFT	16
+726	7243	Do we know what we need?	DO we know what we need?	348266	1471944988255	1471944988347	D	68
+726	7243	Do we know what we need?	DO we know what we need?	348268	1471944988300	1471944988399	O	79
+726	7243	Do we know what we need?	DO we know what we need?	348270	1471944988403	1471944988475	 	32
+726	7243	Do we know what we need?	DO we know what we need?	348274	1471944988496	1471944988627	w	87
+726	7243	Do we know what we need?	DO we know what we need?	348293	1471944988580	1471944988695	e	69
+726	7243	Do we know what we need?	DO we know what we need?	348294	1471944988711	1471944988771	 	32
+726	7243	Do we know what we need?	DO we know what we need?	348295	1471944988867	1471944988970	k	75
+726	7243	Do we know what we need?	DO we know what we need?	348296	1471944989024	1471944989095	n	78
+726	7243	Do we know what we need?	DO we know what we need?	348297	1471944989104	1471944989203	o	79
+726	7243	Do we know what we need?	DO we know what we need?	348336	1471944989200	1471944989271	w	87
+726	7243	Do we know what we need?	DO we know what we need?	348340	1471944989533	1471944989604	 	32
+726	7243	Do we know what we need?	DO we know what we need?	348344	1471944989996	1471944990083	w	87
+726	7243	Do we know what we need?	DO we know what we need?	348348	1471944990095	1471944990155	h	72
+726	7243	Do we know what we need?	DO we know what we need?	348350	1471944990209	1471944990292	a	65
+726	7243	Do we know what we need?	DO we know what we need?	348352	1471944990309	1471944990404	t	84
+726	7243	Do we know what we need?	DO we know what we need?	348375	1471944990448	1471944990519	 	32
+726	7243	Do we know what we need?	DO we know what we need?	348376	1471944990652	1471944990775	w	87
+726	7243	Do we know what we need?	DO we know what we need?	348378	1471944990739	1471944990851	e	69
+726	7243	Do we know what we need?	DO we know what we need?	348380	1471944990856	1471944990928	 	32
+726	7243	Do we know what we need?	DO we know what we need?	348382	1471944991054	1471944991109	n	78
+726	7243	Do we know what we need?	DO we know what we need?	348405	1471944991126	1471944991193	e	69
+726	7243	Do we know what we need?	DO we know what we need?	348406	1471944991260	1471944991351	e	69
+726	7243	Do we know what we need?	DO we know what we need?	348407	1471944991383	1471944991474	d	68
+726	7243	Do we know what we need?	DO we know what we need?	348409	1471944991572	1471944991828	SHIFT	16
+726	7243	Do we know what we need?	DO we know what we need?	348408	1471944991673	1471944991764	?	191
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348539	1471944994874	1471944995014	SHIFT	16
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348540	1471944994959	1471944995034	P	80
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348541	1471944995089	1471944995176	l	76
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348542	1471944995140	1471944995244	e	69
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348543	1471944995288	1471944995427	a	65
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348557	1471944995376	1471944995487	s	83
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348559	1471944995592	1471944995671	e	69
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348561	1471944995696	1471944995775	 	32
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348562	1471944995857	1471944995940	l	76
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348564	1471944995953	1471944996040	e	69
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348565	1471944996093	1471944996181	t	84
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348576	1471944996177	1471944996248	 	32
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348578	1471944996322	1471944996399	m	77
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348582	1471944996398	1471944996477	e	69
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348586	1471944996495	1471944996542	 	32
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348590	1471944996613	1471944996717	k	75
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348619	1471944996714	1471944996785	n	78
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348620	1471944996820	1471944996907	o	79
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348621	1471944996912	1471944997004	w	87
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348622	1471944997342	1471944997408	 	32
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348624	1471944997499	1471944997574	i	73
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348625	1471944997602	1471944997717	f	70
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348635	1471944997725	1471944997786	 	32
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348637	1471944997896	1471944997985	y	89
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348638	1471944997984	1471944998115	o	79
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348639	1471944998100	1471944998171	u	85
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348653	1471944998132	1471944998211	 	32
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348656	1471944998281	1471944998369	h	72
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348658	1471944998350	1471944998437	a	65
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348659	1471944998472	1471944998588	v	86
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348660	1471944998665	1471944998757	e	69
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348697	1471944998718	1471944998793	 	32
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348699	1471944998949	1471944999064	n	78
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348702	1471944999117	1471944999217	a	65
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348705	1471944999385	1471944999445	BKSP	8
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348708	1471944999501	1471944999589	BKSP	8
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348712	1471944999632	1471944999700	a	65
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348716	1471944999693	1471944999776	n	78
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348719	1471944999875	1471944999930	y	89
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348735	1471944999991	1471945000083	 	32
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348737	1471945000496	1471945000607	q	81
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348740	1471945000624	1471945000707	u	85
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348743	1471945000723	1471945000795	e	69
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348746	1471945000879	1471945000973	s	83
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348757	1471945000959	1471945001049	t	84
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348760	1471945001048	1471945001235	i	73
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348762	1471945001129	1471945001271	o	79
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348764	1471945001195	1471945001308	n	78
+726	7246	Please let me know if you have any questions.	Please let me know if you have any questions	348765	1471945001304	1471945001399	s	83
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	348941	1471945005435	1471945005757	SHIFT	16
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	348943	1471945005678	1471945005786	A	65
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	348947	1471945005871	1471945005959	v	86
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	348951	1471945006035	1471945006131	a	65
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	348955	1471945006332	1471945006400	 	32
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	348958	1471945006658	1471945006745	BKSP	8
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	348961	1471945006891	1471945006943	,	188
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	348993	1471945007098	1471945007222	 	32
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	348997	1471945007507	1471945007611	d	68
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349000	1471945007634	1471945007722	o	79
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349002	1471945007734	1471945007833	 	32
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349004	1471945007924	1471945008067	w	87
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349018	1471945008047	1471945008163	e	69
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349019	1471945008172	1471945008256	 	32
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349020	1471945008401	1471945008468	n	78
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349021	1471945008502	1471945008558	e	69
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349023	1471945008628	1471945008724	e	69
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349025	1471945008752	1471945008864	d	68
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349042	1471945008877	1471945008945	 	32
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349045	1471945008979	1471945009059	t	84
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349049	1471945009077	1471945009161	o	79
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349053	1471945009202	1471945009298	 	32
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349058	1471945009493	1471945009584	w	87
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349079	1471945009577	1471945009661	o	79
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349082	1471945009669	1471945009756	r	82
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349088	1471945009818	1471945009917	r	82
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349091	1471945009922	1471945009998	y	89
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349095	1471945010062	1471945010138	 	32
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349098	1471945010169	1471945010237	a	65
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349105	1471945010267	1471945010339	b	66
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349107	1471945010379	1471945010471	o	79
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349109	1471945010456	1471945010543	u	85
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349110	1471945010552	1471945010643	t	84
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349145	1471945010623	1471945010707	 	32
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349150	1471945010863	1471945010971	t	84
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349156	1471945011011	1471945011125	h	72
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349160	1471945011107	1471945011227	i	73
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349163	1471945011244	1471945011344	s	83
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349165	1471945011609	1471945011760	SHIFT	16
+726	7257	Ava, do we need to worry about this?	Ava, do we need to worry about this?	349131	1471945011729	1471945011780	?	191
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349304	1471945014645	1471945015037	SHIFT	16
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349306	1471945014970	1471945015081	C	67
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349310	1471945015070	1471945015145	l	76
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349314	1471945015215	1471945015325	i	73
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349316	1471945015376	1471945015472	n	78
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349320	1471945015655	1471945015727	o	79
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349356	1471945015958	1471945016033	BKSP	8
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349358	1471945016052	1471945016144	t	84
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349360	1471945016161	1471945016281	p	80
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349361	1471945016300	1471945016340	o	79
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349362	1471945016680	1471945016755	BKSP	8
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349363	1471945016992	1471945017056	BKSP	8
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349364	1471945017203	1471945017287	o	79
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349365	1471945017357	1471945017432	n	78
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349395	1471945017518	1471945017598	 	32
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349398	1471945018050	1471945018149	s	83
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349402	1471945018213	1471945018289	a	65
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349406	1471945018314	1471945018405	i	73
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349411	1471945018424	1471945018531	d	68
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349456	1471945018551	1471945018631	 	32
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349461	1471945018843	1471945019191	SHIFT	16
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349458	1471945019084	1471945019187	T	84
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349466	1471945019494	1471945019605	u	85
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349469	1471945019622	1471945019710	e	69
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349472	1471945019778	1471945019875	s	83
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349489	1471945019988	1471945020084	d	68
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349490	1471945020248	1471945020359	a	65
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349491	1471945020360	1471945020451	y	89
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349492	1471945020504	1471945020568	 	32
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349493	1471945020630	1471945020709	h	72
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349504	1471945020726	1471945020813	e	69
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349505	1471945020818	1471945020906	 	32
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349506	1471945020960	1471945021011	w	87
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349507	1471945021077	1471945021224	o	79
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349508	1471945021274	1471945021386	u	85
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349519	1471945021481	1471945021584	l	76
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349522	1471945021597	1471945021700	d	68
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349525	1471945021681	1471945021760	 	32
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349528	1471945021985	1471945022116	m	77
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349531	1471945022148	1471945022235	a	65
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349562	1471945022252	1471945022312	k	75
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349564	1471945022360	1471945022455	e	69
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349568	1471945022432	1471945022507	 	32
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349571	1471945022679	1471945022798	a	65
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349574	1471945023073	1471945023136	n	78
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349605	1471945023228	1471945023311	 	32
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349611	1471945023484	1471945023579	a	65
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349615	1471945023560	1471945023616	n	78
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349620	1471945023693	1471945023788	n	78
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349625	1471945023841	1471945023936	o	79
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349650	1471945023909	1471945023996	u	85
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349654	1471945024226	1471945024348	c	67
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349657	1471945024442	1471945024530	e	69
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349659	1471945024558	1471945024661	m	77
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349663	1471945024748	1471945024859	e	69
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349665	1471945024872	1471945024948	n	78
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349763	1471945024987	1471945025083	t	84
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349766	1471945025107	1471945025179	 	32
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349769	1471945025455	1471945025531	b	66
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349772	1471945025608	1471945025715	y	89
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349775	1471945026309	1471945026368	BKSP	8
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349779	1471945026419	1471945026494	BKSP	8
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349782	1471945026539	1471945026611	BKSP	8
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349784	1471945026664	1471945026727	BKSP	8
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349790	1471945026797	1471945026864	BKSP	8
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349794	1471945026938	1471945027013	BKSP	8
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349798	1471945027343	1471945027414	BKSP	8
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349803	1471945027573	1471945027644	m	77
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349833	1471945027699	1471945027770	e	69
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349836	1471945027793	1471945027849	n	78
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349839	1471945027894	1471945027969	t	84
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349842	1471945027974	1471945028069	 	32
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349843	1471945028614	1471945028701	b	66
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349905	1471945028729	1471945028836	y	89
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349906	1471945028849	1471945028932	 	32
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349909	1471945029806	1471945030058	SHIFT	16
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349907	1471945029967	1471945030054	T	84
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349911	1471945030078	1471945030153	h	72
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349914	1471945030518	1471945030625	r	82
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349978	1471945031334	1471945031432	BKSP	8
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349979	1471945031590	1471945031673	u	85
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349981	1471945031717	1471945031808	r	82
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349984	1471945032049	1471945032172	d	68
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349986	1471945032240	1471945032355	a	65
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349976	1471945032348	1471945032436	y	89
+726	7263	Clinton said Tuesday he would make an announcement by Thursday.	Clinton said Tuesday he would make an annoucement by Thurdays	349977	1471945032453	1471945032536	s	83
+726	7279	Need before board meeting.	Need before board meeting	350101	1471945035377	1471945035521	SHIFT	16
+726	7279	Need before board meeting.	Need before board meeting	350102	1471945035498	1471945035593	N	78
+726	7279	Need before board meeting.	Need before board meeting	350103	1471945035617	1471945035692	e	69
+726	7279	Need before board meeting.	Need before board meeting	350104	1471945035768	1471945035859	e	69
+726	7279	Need before board meeting.	Need before board meeting	350105	1471945035876	1471945035994	d	68
+726	7279	Need before board meeting.	Need before board meeting	350153	1471945035976	1471945036063	 	32
+726	7279	Need before board meeting.	Need before board meeting	350154	1471945036638	1471945036729	b	66
+726	7279	Need before board meeting.	Need before board meeting	350155	1471945036937	1471945037044	e	69
+726	7279	Need before board meeting.	Need before board meeting	350156	1471945037097	1471945037204	f	70
+726	7279	Need before board meeting.	Need before board meeting	350157	1471945037246	1471945037337	o	79
+726	7279	Need before board meeting.	Need before board meeting	350159	1471945037368	1471945037487	r	82
+726	7279	Need before board meeting.	Need before board meeting	350200	1471945037444	1471945037571	e	69
+726	7279	Need before board meeting.	Need before board meeting	350203	1471945037580	1471945037651	 	32
+726	7279	Need before board meeting.	Need before board meeting	350206	1471945037790	1471945037866	b	66
+726	7279	Need before board meeting.	Need before board meeting	350211	1471945037957	1471945038057	o	79
+726	7279	Need before board meeting.	Need before board meeting	350216	1471945038088	1471945038203	r	82
+726	7279	Need before board meeting.	Need before board meeting	350221	1471945038417	1471945038524	BKSP	8
+726	7279	Need before board meeting.	Need before board meeting	350225	1471945038548	1471945038643	a	65
+726	7279	Need before board meeting.	Need before board meeting	350252	1471945038668	1471945038767	r	82
+726	7279	Need before board meeting.	Need before board meeting	350254	1471945038843	1471945038954	d	68
+726	7279	Need before board meeting.	Need before board meeting	350257	1471945039036	1471945039111	 	32
+726	7279	Need before board meeting.	Need before board meeting	350260	1471945039215	1471945039314	m	77
+726	7279	Need before board meeting.	Need before board meeting	350290	1471945039299	1471945039362	e	69
+726	7279	Need before board meeting.	Need before board meeting	350292	1471945039441	1471945039520	e	69
+726	7279	Need before board meeting.	Need before board meeting	350294	1471945039582	1471945039661	t	84
+726	7279	Need before board meeting.	Need before board meeting	350296	1471945039626	1471945039733	i	73
+726	7279	Need before board meeting.	Need before board meeting	350298	1471945039714	1471945039828	n	78
+726	7279	Need before board meeting.	Need before board meeting	350283	1471945039801	1471945039881	g	71
+726	7285	Sorry it took so long.	Sorry it took so long.	350419	1471945043124	1471945043327	SHIFT	16
+726	7285	Sorry it took so long.	Sorry it took so long.	350423	1471945043245	1471945043352	S	83
+726	7285	Sorry it took so long.	Sorry it took so long.	350427	1471945043333	1471945043424	o	79
+726	7285	Sorry it took so long.	Sorry it took so long.	350432	1471945043456	1471945043543	r	82
+726	7285	Sorry it took so long.	Sorry it took so long.	350435	1471945043593	1471945043688	r	82
+726	7285	Sorry it took so long.	Sorry it took so long.	350452	1471945043681	1471945043776	y	89
+726	7285	Sorry it took so long.	Sorry it took so long.	350455	1471945043818	1471945043906	 	32
+726	7285	Sorry it took so long.	Sorry it took so long.	350457	1471945043978	1471945044062	i	73
+726	7285	Sorry it took so long.	Sorry it took so long.	350459	1471945044058	1471945044149	t	84
+726	7285	Sorry it took so long.	Sorry it took so long.	350461	1471945044154	1471945044233	 	32
+726	7285	Sorry it took so long.	Sorry it took so long.	350463	1471945044386	1471945044488	t	84
+726	7285	Sorry it took so long.	Sorry it took so long.	350470	1471945044473	1471945044532	o	79
+726	7285	Sorry it took so long.	Sorry it took so long.	350474	1471945044594	1471945044662	o	79
+726	7285	Sorry it took so long.	Sorry it took so long.	350477	1471945044754	1471945044850	k	75
+726	7285	Sorry it took so long.	Sorry it took so long.	350483	1471945044929	1471945044996	 	32
+726	7285	Sorry it took so long.	Sorry it took so long.	350487	1471945045046	1471945045118	s	83
+726	7285	Sorry it took so long.	Sorry it took so long.	350500	1471945045114	1471945045222	o	79
+726	7285	Sorry it took so long.	Sorry it took so long.	350502	1471945045226	1471945045293	 	32
+726	7285	Sorry it took so long.	Sorry it took so long.	350503	1471945045356	1471945045435	l	76
+726	7285	Sorry it took so long.	Sorry it took so long.	350504	1471945045487	1471945045582	o	79
+726	7285	Sorry it took so long.	Sorry it took so long.	350505	1471945045587	1471945045678	n	78
+726	7285	Sorry it took so long.	Sorry it took so long.	350507	1471945045667	1471945045758	g	71
+726	7285	Sorry it took so long.	Sorry it took so long.	350509	1471945046030	1471945046086	.	190
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350697	1471945048916	1471945049028	SHIFT	16
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350699	1471945048993	1471945049056	I	73
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350702	1471945049065	1471945049140	 	32
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350703	1471945049317	1471945049388	l	76
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350704	1471945049718	1471945049797	BKSP	8
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350705	1471945050028	1471945050147	p	80
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350716	1471945050128	1471945050229	l	76
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350719	1471945050212	1471945050311	a	65
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350721	1471945050366	1471945050449	n	78
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350725	1471945050506	1471945050586	 	32
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350727	1471945050582	1471945050685	t	84
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350737	1471945050677	1471945050761	o	79
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350738	1471945050774	1471945050837	 	32
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350740	1471945050907	1471945050990	b	66
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350744	1471945050992	1471945051087	e	69
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350749	1471945051095	1471945051170	 	32
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350753	1471945051225	1471945051346	i	73
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350766	1471945051333	1471945051452	n	78
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350771	1471945051460	1471945051540	 	32
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350774	1471945051493	1471945051604	t	84
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350781	1471945051609	1471945051684	h	72
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350788	1471945051701	1471945051796	e	69
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350811	1471945051785	1471945051876	 	32
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350813	1471945052028	1471945052119	o	79
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350815	1471945052140	1471945052211	f	70
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350817	1471945052279	1471945052364	f	70
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350819	1471945052335	1471945052426	i	73
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350820	1471945052463	1471945052554	c	67
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350838	1471945052668	1471945052755	e	69
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350843	1471945052720	1471945052807	 	32
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350849	1471945052874	1471945052957	t	84
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350852	1471945052902	1471945053005	o	79
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350855	1471945053060	1471945053187	m	77
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350871	1471945053172	1471945053279	o	79
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350873	1471945053408	1471945053508	r	82
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350875	1471945053549	1471945053667	r	82
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350877	1471945053656	1471945053772	o	79
+726	7292	I plan to be in the office tomorrow.	I plan to be in the office tomorrow	350879	1471945053749	1471945053852	w	87
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351016	1471945056997	1471945057153	SHIFT	16
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351017	1471945057110	1471945057209	M	77
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351018	1471945057247	1471945057330	o	79
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351019	1471945057370	1471945057465	n	78
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351020	1471945057470	1471945057547	i	73
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351095	1471945057534	1471945057629	t	84
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351097	1471945057671	1471945057754	o	79
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351102	1471945057797	1471945057904	r	82
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351104	1471945057944	1471945058023	 	32
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351106	1471945058130	1471945058237	h	72
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351113	1471945058226	1471945058327	i	73
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351114	1471945058365	1471945058436	s	83
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351116	1471945058449	1471945058524	 	32
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351118	1471945058968	1471945059075	p	80
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351120	1471945059173	1471945059280	r	82
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351122	1471945059474	1471945059577	o	79
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351154	1471945059612	1471945059731	g	71
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351158	1471945059748	1471945059835	r	82
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351160	1471945059944	1471945060027	e	69
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351163	1471945060166	1471945060257	s	83
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351165	1471945060321	1471945060420	s	83
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351186	1471945060428	1471945060512	 	32
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351188	1471945060579	1471945060690	o	79
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351192	1471945060765	1471945060880	v	86
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351195	1471945060961	1471945061108	e	69
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351211	1471945061037	1471945061152	r	82
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351213	1471945061165	1471945061236	 	32
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351217	1471945061229	1471945061329	t	84
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351220	1471945061325	1471945061404	h	72
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351222	1471945061401	1471945061514	e	69
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351245	1471945061509	1471945061556	 	32
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351247	1471945061656	1471945061727	n	78
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351249	1471945061748	1471945061834	e	69
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351252	1471945061940	1471945062047	x	88
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351255	1471945062134	1471945062221	t	84
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351257	1471945062250	1471945062337	 	32
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351272	1471945062547	1471945062654	f	70
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351273	1471945062695	1471945062818	e	69
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351275	1471945062819	1471945062927	w	87
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351277	1471945062936	1471945063023	 	32
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351280	1471945063055	1471945063143	e	69
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351322	1471945063227	1471945063270	e	69
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351324	1471945063481	1471945063557	BKSP	8
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351326	1471945063621	1471945063709	BKSP	8
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351328	1471945063727	1471945063834	w	87
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351331	1471945063806	1471945063894	e	69
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351334	1471945063978	1471945064073	e	69
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351336	1471945064089	1471945064181	k	75
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351329	1471945064208	1471945064311	s	83
+726	7298	Monitor his progress over the next few weeks.	Monitor his progress over the next few weeks.	351332	1471945064404	1471945064467	.	190
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351526	1471945067481	1471945067725	SHIFT	16
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351530	1471945067670	1471945067786	C	67
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351532	1471945067782	1471945067857	h	72
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351533	1471945067882	1471945067981	a	65
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351534	1471945068036	1471945068135	d	68
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351535	1471945068172	1471945068263	 	32
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351539	1471945068359	1471945068462	t	84
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351541	1471945068427	1471945068526	h	72
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351544	1471945068519	1471945068633	o	79
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351549	1471945068611	1471945068694	u	85
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351552	1471945068698	1471945068786	g	71
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351587	1471945068802	1471945068866	h	72
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351588	1471945068920	1471945069011	 	32
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351589	1471945069597	1471945069703	BKSP	8
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351590	1471945069735	1471945069822	t	84
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351592	1471945069827	1471945069919	 	32
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351595	1471945069943	1471945070074	w	87
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351613	1471945070026	1471945070134	e	69
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351614	1471945070111	1471945070226	 	32
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351616	1471945070507	1471945070642	w	87
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351618	1471945070591	1471945070706	e	69
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351620	1471945070687	1471945070817	r	82
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351640	1471945070806	1471945070910	e	69
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351642	1471945070938	1471945071010	 	32
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351645	1471945071077	1471945071232	o	79
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351648	1471945071200	1471945071372	n	78
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351650	1471945071380	1471945071480	 	32
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351653	1471945071596	1471945071704	a	65
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351679	1471945071697	1471945071804	 	32
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351681	1471945071924	1471945072096	t	84
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351682	1471945072045	1471945072152	r	82
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351684	1471945072370	1471945072503	e	69
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351686	1471945072649	1471945072761	a	65
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351688	1471945072861	1471945072949	s	83
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351737	1471945072933	1471945073044	u	85
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351738	1471945073091	1471945073230	r	82
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351739	1471945073166	1471945073298	e	69
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351740	1471945073290	1471945073365	 	32
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351741	1471945073653	1471945073740	h	72
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351742	1471945073799	1471945073912	u	85
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351752	1471945073952	1471945074047	n	78
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351755	1471945074072	1471945074180	t	84
+726	7305	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	351758	1471945074622	1471945074710	.	190
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	351944	1471945078474	1471945078642	SHIFT	16
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	351949	1471945078583	1471945078686	T	84
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	351952	1471945078659	1471945078734	h	72
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	351959	1471945078756	1471945078854	e	69
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	351964	1471945078839	1471945078919	 	32
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	351968	1471945079110	1471945079250	a	65
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	351976	1471945079303	1471945079411	d	68
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	351980	1471945079445	1471945079553	m	77
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	351990	1471945079613	1471945079892	i	73
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	351985	1471945079697	1471945079804	n	78
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	351994	1471945079933	1471945080017	s	83
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352006	1471945080094	1471945080238	t	84
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352008	1471945080179	1471945080302	r	82
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352011	1471945080408	1471945080531	a	65
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352016	1471945080543	1471945080659	t	84
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352040	1471945080652	1471945080903	i	73
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352044	1471945080744	1471945080907	o	79
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352046	1471945080864	1471945080935	n	78
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352048	1471945080947	1471945081035	 	32
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352051	1471945081111	1471945081203	h	72
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352156	1471945081167	1471945081261	a	65
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352157	1471945081306	1471945081413	d	68
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352158	1471945081430	1471945081518	 	32
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352160	1471945081676	1471945081716	BKSP	8
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352162	1471945081796	1471945081856	BKSP	8
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352165	1471945081919	1471945081987	BKSP	8
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352166	1471945082065	1471945082117	BKSP	8
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352168	1471945082189	1471945082249	BKSP	8
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352170	1471945082318	1471945082386	BKSP	8
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352173	1471945082455	1471945082527	BKSP	8
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352176	1471945082598	1471945082666	BKSP	8
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352179	1471945082743	1471945082807	BKSP	8
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352182	1471945082880	1471945082948	BKSP	8
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352186	1471945083026	1471945083106	BKSP	8
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352191	1471945083178	1471945083290	BKSP	8
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352194	1471945083361	1471945083461	BKSP	8
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352197	1471945083655	1471945083738	i	73
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352199	1471945083776	1471945083863	s	83
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352203	1471945083963	1471945084075	t	84
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352185	1471945084035	1471945084139	r	82
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352188	1471945084209	1471945084325	a	65
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352192	1471945084305	1471945084421	t	84
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352195	1471945084425	1471945084641	i	73
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352213	1471945084506	1471945084677	o	79
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352215	1471945084606	1471945084729	n	78
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352217	1471945084793	1471945084885	 	32
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352221	1471945085005	1471945085073	h	72
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352224	1471945085090	1471945085190	a	65
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352227	1471945085221	1471945085309	d	68
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352229	1471945085365	1471945085433	 	32
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352258	1471945085690	1471945085806	n	78
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352263	1471945085836	1471945085940	o	79
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352269	1471945085948	1471945086036	 	32
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352274	1471945086066	1471945086134	i	73
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352278	1471945086219	1471945086287	m	77
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352289	1471945086341	1471945086433	m	77
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352291	1471945086437	1471945086551	e	69
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352293	1471945086533	1471945086640	d	68
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352295	1471945086645	1471945086741	i	73
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352297	1471945086864	1471945086948	a	65
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352308	1471945087021	1471945087141	t	84
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352310	1471945087117	1471945087217	e	69
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352313	1471945087262	1471945087338	 	32
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352316	1471945087540	1471945087655	c	67
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352346	1471945087623	1471945087699	o	79
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352348	1471945087763	1471945087823	m	77
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352355	1471945087887	1471945087959	m	77
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352358	1471945087963	1471945088039	e	69
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352364	1471945088071	1471945088143	n	78
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352445	1471945088123	1471945088227	t	84
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352449	1471945088223	1471945088327	 	32
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352454	1471945088335	1471945088467	i	73
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352460	1471945088483	1471945088603	n	78
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352466	1471945088615	1471945088699	 	32
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352472	1471945088805	1471945088857	BKSP	8
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352476	1471945088935	1471945089011	BKSP	8
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352479	1471945089079	1471945089139	BKSP	8
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352482	1471945089439	1471945089566	o	79
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352488	1471945089560	1471945089675	n	78
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352492	1471945089696	1471945089740	 	32
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352497	1471945089788	1471945089891	t	84
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352501	1471945089880	1471945089940	h	72
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352503	1471945089981	1471945090049	e	69
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352504	1471945090050	1471945090129	 	32
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352543	1471945090278	1471945090366	n	78
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352545	1471945090570	1471945090650	BKSP	8
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352546	1471945090749	1471945090866	v	86
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352547	1471945090849	1471945090925	o	79
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352549	1471945090989	1471945091081	t	84
+726	7318	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote	352550	1471945091109	1471945091197	e	69
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352713	1471945094353	1471945094429	2	50
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352715	1471945094445	1471945094525	n	78
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352717	1471945094550	1471945094654	d	68
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352720	1471945094666	1471945094742	 	32
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352723	1471945094887	1471945094975	s	83
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352741	1471945094955	1471945095027	i	73
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352743	1471945095091	1471945095174	n	78
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352744	1471945095119	1471945095251	c	67
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352745	1471945095356	1471945095434	e	69
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352746	1471945095438	1471945095514	 	32
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352748	1471945095607	1471945095715	s	83
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352755	1471945095723	1471945095791	o	79
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352759	1471945095858	1471945095930	 	32
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352764	1471945096013	1471945096089	m	77
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352768	1471945096120	1471945096208	a	65
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352893	1471945096204	1471945096268	n	78
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352895	1471945096394	1471945096466	y	89
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352898	1471945096545	1471945096638	 	32
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352901	1471945097516	1471945097620	p	80
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352904	1471945097639	1471945097715	e	69
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352908	1471945097719	1471945097866	o	79
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353003	1471945097807	1471945097971	p	80
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353006	1471945097927	1471945098070	l	76
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353009	1471945098059	1471945098167	e	69
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353013	1471945098186	1471945098294	 	32
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353016	1471945098705	1471945098797	a	65
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353019	1471945098801	1471945098977	r	82
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352990	1471945098885	1471945098993	e	69
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352995	1471945099023	1471945099111	 	32
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	352998	1471945099147	1471945099283	o	79
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353002	1471945099321	1471945099424	u	84
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353005	1471945099466	1471945099522	 	32
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353031	1471945099587	1471945099683	o	79
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353037	1471945099699	1471945099807	f	70
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353043	1471945099807	1471945099891	 	32
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353052	1471945099923	1471945100027	t	84
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353057	1471945100031	1471945100123	h	72
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353145	1471945100127	1471945100215	e	69
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353147	1471945100363	1471945100415	BKSP	8
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353152	1471945100493	1471945100557	BKSP	8
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353157	1471945100614	1471945100670	BKSP	8
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353162	1471945100742	1471945100802	BKSP	8
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353167	1471945100874	1471945100930	BKSP	8
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353170	1471945101003	1471945101063	BKSP	8
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353172	1471945101135	1471945101191	BKSP	8
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353176	1471945101260	1471945101334	BKSP	8
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353180	1471945101395	1471945101479	BKSP	8
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353185	1471945101852	1471945101936	u	85
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353189	1471945101932	1471945102016	t	84
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353194	1471945102017	1471945102088	 	32
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353200	1471945102137	1471945102225	o	79
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353181	1471945102388	1471945102511	f	70
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353184	1471945102508	1471945102592	 	32
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353188	1471945102600	1471945102708	t	84
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353195	1471945102660	1471945102759	h	72
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353219	1471945102752	1471945102835	e	69
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353225	1471945102871	1471945102971	 	32
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353230	1471945103005	1471945103113	o	79
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353235	1471945103117	1471945103189	f	70
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353241	1471945103243	1471945103359	f	70
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353279	1471945103319	1471945103435	i	73
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353283	1471945103447	1471945103583	c	67
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353288	1471945103671	1471945103767	e	69
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353292	1471945103775	1471945103915	 	32
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353295	1471945103895	1471945104027	u	85
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353299	1471945104065	1471945104180	n	78
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353326	1471945104173	1471945104265	t	84
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353329	1471945104233	1471945104341	i	73
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353330	1471945104385	1471945104497	l	76
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353331	1471945104598	1471945104682	 	32
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353332	1471945104752	1471945104855	t	84
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353349	1471945104851	1471945104916	h	72
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353351	1471945104924	1471945105016	e	69
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353356	1471945105044	1471945105128	n	78
+726	7333	2nd since so many people are out of the office until then.	2nd since so many people are out of the office until then.	353362	1471945105280	1471945105372	.	190
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353535	1471945109376	1471945109511	SHIFT	16
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353536	1471945109463	1471945109531	I	73
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353537	1471945109553	1471945109661	 	32
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353538	1471945109645	1471945109745	j	74
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353692	1471945109804	1471945109887	u	83
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353697	1471945109971	1471945110059	t	84
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353703	1471945110088	1471945110180	 	32
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353706	1471945110849	1471945110893	BKSP	8
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353710	1471945110975	1471945111043	BKSP	8
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353713	1471945111115	1471945111179	BKSP	8
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353715	1471945111332	1471945111397	BKSP	8
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353716	1471945111737	1471945111813	s	83
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353718	1471945111967	1471945112087	t	84
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353720	1471945112461	1471945112517	BKSP	8
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353724	1471945112577	1471945112669	BKSP	8
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353727	1471945112791	1471945112878	u	85
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353768	1471945112887	1471945112971	s	83
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353773	1471945113006	1471945113102	t	84
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353778	1471945113094	1471945113182	 	32
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353782	1471945113321	1471945113449	f	70
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353784	1471945113724	1471945113820	a	65
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353853	1471945114374	1471945114478	x	88
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353856	1471945114594	1471945114726	e	69
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353860	1471945114694	1471945114834	d	68
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353865	1471945114890	1471945114986	 	32
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353869	1471945115191	1471945115335	c	67
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353899	1471945115331	1471945115503	o	79
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353903	1471945115467	1471945115611	p	80
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353905	1471945115744	1471945115844	i	73
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353907	1471945115865	1471945115941	e	69
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353910	1471945116011	1471945116107	s	83
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353913	1471945116131	1471945116203	 	32
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353921	1471945116269	1471945116359	o	79
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353924	1471945116357	1471945116445	f	70
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353927	1471945116465	1471945116521	 	32
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353931	1471945116545	1471945116633	t	84
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353959	1471945116625	1471945116705	h	72
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353961	1471945116764	1471945116848	e	69
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353966	1471945116860	1471945116924	 	32
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353970	1471945116995	1471945117107	i	73
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353975	1471945117157	1471945117241	n	78
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	353980	1471945117302	1471945117387	v	86
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	354008	1471945117570	1471945117682	o	79
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	354010	1471945117686	1471945117793	i	73
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	354014	1471945117810	1471945117930	c	67
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	354021	1471945118044	1471945118132	e	69
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	354026	1471945118210	1471945118324	s	83
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	354048	1471945118356	1471945118448	 	32
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	354050	1471945118482	1471945118587	t	84
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	354052	1471945118562	1471945118646	o	79
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	354054	1471945118647	1471945118738	 	32
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	354056	1471945118796	1471945118916	y	89
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	354059	1471945118902	1471945119056	o	79
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	354062	1471945119032	1471945119076	u	85
+726	7351	I just faxed copies of the invoices to you.	I just faxed copies of the invoices to you.	354067	1471945119260	1471945119320	.	190
+726	7363	I can get them.	I can get them	354289	1471945122458	1471945122578	SHIFT	16
+726	7363	I can get them.	I can get them	354292	1471945122535	1471945122614	I	73
+726	7363	I can get them.	I can get them	354298	1471945122631	1471945122718	 	32
+726	7363	I can get them.	I can get them	354301	1471945122687	1471945122787	c	67
+726	7363	I can get them.	I can get them	354304	1471945122844	1471945122936	n	65
+726	7363	I can get them.	I can get them	354345	1471945123005	1471945123093	 	32
+726	7363	I can get them.	I can get them	354348	1471945123264	1471945123346	g	71
+726	7363	I can get them.	I can get them	354352	1471945123399	1471945123507	e	69
+726	7363	I can get them.	I can get them	354356	1471945123531	1471945123587	t	84
+726	7363	I can get them.	I can get them	354361	1471945123647	1471945123731	 	32
+726	7363	I can get them.	I can get them	354432	1471945123739	1471945123839	t	84
+726	7363	I can get them.	I can get them	354434	1471945123811	1471945123886	h	72
+726	7363	I can get them.	I can get them	354437	1471945123913	1471945123993	e	69
+726	7363	I can get them.	I can get them	354440	1471945124025	1471945124109	m	77

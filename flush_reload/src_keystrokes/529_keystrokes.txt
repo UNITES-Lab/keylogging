@@ -1,0 +1,922 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247633	1471942351161	1471942351474	SHIFT	16
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247631	1471942351357	1471942351439	T	84
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247638	1471942351521	1471942351607	h	72
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247640	1471942351615	1471942351724	e	69
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247644	1471942351736	1471942351845	 	32
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247647	1471942352236	1471942352384	h	72
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247677	1471942352357	1471942352486	o	79
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247678	1471942352549	1471942352666	s	83
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247679	1471942352892	1471942353010	p	80
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247680	1471942353119	1471942353213	i	73
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247683	1471942353479	1471942353600	t	84
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247761	1471942353584	1471942353736	a	65
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247764	1471942353904	1471942354053	l	76
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247766	1471942354166	1471942354280	 	32
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247768	1471942354760	1471942354877	w	87
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247770	1471942354885	1471942355065	a	65
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247897	1471942355053	1471942355248	s	83
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247898	1471942355323	1471942355401	 	32
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247899	1471942356295	1471942356409	j	74
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247900	1471942357726	1471942357796	BKSP	8
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247901	1471942357964	1471942358093	h	72
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247902	1471942358074	1471942358187	i	73
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247903	1471942358226	1471942358308	t	84
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247925	1471942358320	1471942358441	 	32
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247926	1471942358605	1471942358683	b	66
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247927	1471942358766	1471942358855	y	89
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247928	1471942358941	1471942359043	 	32
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247929	1471942359293	1471942359398	e	69
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247984	1471942359586	1471942359680	l	76
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247985	1471942359723	1471942359821	e	69
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247987	1471942359977	1471942360078	c	67
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247989	1471942362278	1471942362360	t	84
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	247991	1471942362434	1471942362567	r	82
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	248017	1471942362720	1471942362798	i	73
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	248018	1471942363052	1471942363157	c	67
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	248019	1471942363302	1471942363376	i	73
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	248020	1471942363720	1471942363814	t	84
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	248021	1471942363857	1471942363947	y	89
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	248053	1471942364060	1471942364173	 	32
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	248054	1471942364728	1471942364845	c	67
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	248055	1471942364896	1471942364978	u	85
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	248057	1471942365087	1471942365169	t	84
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	248059	1471942365259	1471942365380	s	83
+529	5165	The hospital was hit by electricity cuts.	The hospital was hit by electricity cuts.	248207	1471942366545	1471942366629	.	190
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248424	1471942371511	1471942371831	SHIFT	16
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248421	1471942371718	1471942371796	T	84
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248430	1471942371893	1471942371968	h	72
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248436	1471942371979	1471942372069	e	69
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248440	1471942372093	1471942372183	 	32
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248445	1471942372675	1471942373660	SHIFT	16
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248533	1471942373613	1471942373683	G	71
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248535	1471942374027	1471942374093	r	82
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248537	1471942374500	1471942374590	BKSP	8
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248539	1471942374637	1471942374723	e	69
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248541	1471942374851	1471942374914	r	82
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248543	1471942375207	1471942375308	m	77
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248546	1471942375394	1471942375519	a	65
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248650	1471942375598	1471942375695	n	78
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248652	1471942375797	1471942375902	 	32
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248655	1471942377344	1471942377454	s	83
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248658	1471942377512	1471942377606	l	76
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248661	1471942377673	1471942377762	o	79
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248752	1471942378518	1471942378646	w	87
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248760	1471942378778	1471942378890	e	69
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248765	1471942379018	1471942379110	d	68
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248771	1471942379214	1471942379306	 	32
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248776	1471942380166	1471942380262	d	68
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248819	1471942380402	1471942380462	i	73
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248821	1471942380839	1471942380935	BKSP	8
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248822	1471942381035	1471942381111	o	79
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248826	1471942381147	1471942381247	w	87
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248829	1471942381295	1471942381355	n	78
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248834	1471942381435	1471942381519	 	32
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248897	1471942382359	1471942382451	e	69
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248898	1471942382495	1471942382595	n	78
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248901	1471942382631	1471942382751	o	79
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248903	1471942382875	1471942382947	i	73
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248908	1471942383131	1471942383203	g	71
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248968	1471942383275	1471942383348	h	72
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248971	1471942383828	1471942383914	BKSP	8
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248977	1471942383969	1471942384043	BKSP	8
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248980	1471942384094	1471942384157	BKSP	8
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248985	1471942384926	1471942385009	u	85
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248990	1471942385161	1471942385235	g	71
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248994	1471942385266	1471942385341	h	72
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	248996	1471942385446	1471942385555	 	32
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249034	1471942385946	1471942386036	t	84
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249036	1471942386141	1471942386243	o	79
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249042	1471942386329	1471942386434	 	32
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249049	1471942386931	1471942387017	b	66
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249054	1471942387068	1471942387200	e	69
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249154	1471942387216	1471942387466	a	65
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249157	1471942387447	1471942387552	t	84
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249160	1471942387591	1471942387677	 	32
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249163	1471942388236	1471942388624	SHIFT	16
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249166	1471942388538	1471942388635	F	70
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249169	1471942388967	1471942389006	r	82
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249298	1471942389835	1471942389925	e	69
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249302	1471942390659	1471942390737	n	78
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249305	1471942391101	1471942391206	c	67
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249307	1471942391898	1471942391968	h	72
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249313	1471942392066	1471942392160	a	65
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249391	1471942392191	1471942392273	m	77
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249392	1471942393234	1471942393328	BKSP	8
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249394	1471942393367	1471942393449	BKSP	8
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249399	1471942393750	1471942393836	m	77
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249404	1471942393871	1471942393972	a	65
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249412	1471942393980	1471942394050	n	78
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249419	1471942394117	1471942394207	 	32
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249575	1471942395425	1471942395672	SHIFT	16
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249580	1471942395684	1471942395762	c	67
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249587	1471942396332	1471942396445	r	82
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249592	1471942397661	1471942397723	d	68
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249595	1471942398102	1471942398180	r	82
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249599	1471942398371	1471942398485	i	73
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249738	1471942398579	1471942398684	c	67
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249741	1471942398942	1471942399051	 	32
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249746	1471942399239	1471942399758	SHIFT	16
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249748	1471942399969	1471942400098	p	80
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249751	1471942401290	1471942401378	BKSP	8
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249755	1471942401466	1471942401882	SHIFT	16
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249753	1471942401674	1471942401754	P	80
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249757	1471942401914	1471942401966	i	73
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249969	1471942402462	1471942402551	BKSP	8
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249971	1471942403899	1471942403987	i	73
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249975	1471942404552	1471942404634	o	79
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249979	1471942405189	1471942405279	l	76
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249983	1471942405376	1471942405451	i	73
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	249987	1471942406228	1471942406322	n	78
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	250129	1471942406404	1471942406517	e	69
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	250133	1471942406904	1471942406998	 	32
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	250136	1471942408799	1471942408931	6	54
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	250140	1471942409037	1471942409135	-	189
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	250145	1471942409615	1471942409744	3	51
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	250811	1471942410072	1471942410158	.	190
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	250812	1471942414538	1471942414617	DELETE	46
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	250814	1471942415171	1471942415269	DELETE	46
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	250815	1471942416222	1471942416395	SHIFT	16
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	250817	1471942416314	1471942416407	C	67
+529	5195	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	250820	1471942416500	1471942416590	e	69
+529	5244	What a crazy day.	What a crazy day.	250958	1471942428220	1471942428509	SHIFT	16
+529	5244	What a crazy day.	What a crazy day.	250959	1471942428513	1471942428572	r	82
+529	5244	What a crazy day.	What a crazy day.	250960	1471942428908	1471942428994	=	187
+529	5244	What a crazy day.	What a crazy day.	250961	1471942429135	1471942429240	=	187
+529	5244	What a crazy day.	What a crazy day.	250962	1471942429283	1471942429639	SHIFT	16
+529	5244	What a crazy day.	What a crazy day.	250963	1471942429592	1471942429674	W	87
+529	5244	What a crazy day.	What a crazy day.	250966	1471942430443	1471942430549	h	72
+529	5244	What a crazy day.	What a crazy day.	251059	1471942430608	1471942430756	a	65
+529	5244	What a crazy day.	What a crazy day.	251062	1471942430826	1471942430916	t	84
+529	5244	What a crazy day.	What a crazy day.	251066	1471942430936	1471942431049	 	32
+529	5244	What a crazy day.	What a crazy day.	251069	1471942431502	1471942431924	=	187
+529	5244	What a crazy day.	What a crazy day.	251071	1471942432002	1471942433077	BKSP	8
+529	5244	What a crazy day.	What a crazy day.	251072	1471942433233	1471942433613	SHIFT	16
+529	5244	What a crazy day.	What a crazy day.	251140	1471942433525	1471942433653	W	87
+529	5244	What a crazy day.	What a crazy day.	251143	1471942434025	1471942434105	h	72
+529	5244	What a crazy day.	What a crazy day.	251145	1471942434113	1471942434253	a	65
+529	5244	What a crazy day.	What a crazy day.	251147	1471942434341	1471942434429	t	84
+529	5244	What a crazy day.	What a crazy day.	251150	1471942434445	1471942434521	 	32
+529	5244	What a crazy day.	What a crazy day.	251153	1471942435185	1471942435297	a	65
+529	5244	What a crazy day.	What a crazy day.	251215	1471942435309	1471942435417	 	32
+529	5244	What a crazy day.	What a crazy day.	251216	1471942436342	1471942436442	c	67
+529	5244	What a crazy day.	What a crazy day.	251217	1471942436522	1471942436622	r	82
+529	5244	What a crazy day.	What a crazy day.	251218	1471942436630	1471942436762	a	65
+529	5244	What a crazy day.	What a crazy day.	251219	1471942436942	1471942437022	x	88
+529	5244	What a crazy day.	What a crazy day.	251274	1471942437198	1471942437266	y	89
+529	5244	What a crazy day.	What a crazy day.	251277	1471942437382	1471942437486	 	32
+529	5244	What a crazy day.	What a crazy day.	251283	1471942437694	1471942437894	s	83
+529	5244	What a crazy day.	What a crazy day.	251288	1471942437878	1471942438006	a	65
+529	5244	What a crazy day.	What a crazy day.	251295	1471942438230	1471942438302	=	187
+529	5244	What a crazy day.	What a crazy day.	251453	1471942438409	1471942438432	=	187
+529	5244	What a crazy day.	What a crazy day.	251455	1471942438577	1471942438667	BKSP	8
+529	5244	What a crazy day.	What a crazy day.	251460	1471942438734	1471942438796	BKSP	8
+529	5244	What a crazy day.	What a crazy day.	251465	1471942438843	1471942438901	BKSP	8
+529	5244	What a crazy day.	What a crazy day.	251472	1471942438964	1471942439030	BKSP	8
+529	5244	What a crazy day.	What a crazy day.	251477	1471942439097	1471942439151	BKSP	8
+529	5244	What a crazy day.	What a crazy day.	251480	1471942439210	1471942439288	BKSP	8
+529	5244	What a crazy day.	What a crazy day.	251484	1471942439335	1471942439437	BKSP	8
+529	5244	What a crazy day.	What a crazy day.	251487	1471942440652	1471942440781	z	90
+529	5244	What a crazy day.	What a crazy day.	251489	1471942441222	1471942441324	y	89
+529	5244	What a crazy day.	What a crazy day.	251491	1471942441355	1471942441441	 	32
+529	5244	What a crazy day.	What a crazy day.	251495	1471942441836	1471942441992	d	68
+529	5244	What a crazy day.	What a crazy day.	251565	1471942442000	1471942442132	a	65
+529	5244	What a crazy day.	What a crazy day.	251568	1471942442136	1471942442211	y	89
+529	5244	What a crazy day.	What a crazy day.	251571	1471942442500	1471942442586	'	222
+529	5244	What a crazy day.	What a crazy day.	251573	1471942443317	1471942443399	BKSP	8
+529	5244	What a crazy day.	What a crazy day.	251575	1471942443887	1471942443988	.	190
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	251838	1471942446482	1471942446712	SHIFT	16
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	251839	1471942447111	1471942447462	SHIFT	16
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	251840	1471942447322	1471942447482	A	65
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	251841	1471942448166	1471942448260	v	86
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	251844	1471942448639	1471942448711	i	73
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	251848	1471942449279	1471942449387	BKSP	8
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	251852	1471942449817	1471942449985	o	79
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	251885	1471942449965	1471942450063	i	73
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	251886	1471942450160	1471942450274	d	68
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	251887	1471942450559	1471942450672	 	32
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	251888	1471942451676	1471942451801	s	83
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	251889	1471942451934	1471942452063	t	84
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	251890	1471942452102	1471942452239	a	65
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	251928	1471942452294	1471942452411	r	82
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	251931	1471942452829	1471942452919	t	84
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	251934	1471942452950	1471942453059	i	73
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	251936	1471942453110	1471942453212	n	78
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	251941	1471942453243	1471942453321	g	71
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252019	1471942453352	1471942453431	 	32
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252023	1471942454458	1471942454575	e	69
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252028	1471942454649	1471942454731	i	73
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252033	1471942454813	1471942454888	t	84
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252039	1471942454923	1471942455001	h	72
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252188	1471942455052	1471942455227	e	69
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252193	1471942455208	1471942455267	r	82
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252197	1471942455317	1471942455415	 	32
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252199	1471942456884	1471942457013	a	65
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252201	1471942457802	1471942457888	BKSP	8
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252203	1471942458365	1471942458435	b	66
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252297	1471942458490	1471942458705	a	65
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252300	1471942458807	1471942458893	k	75
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252304	1471942459975	1471942460038	BKSP	8
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252309	1471942460307	1471942460413	c	67
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252314	1471942460480	1471942460570	k	75
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252321	1471942460715	1471942460824	 	32
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252417	1471942461359	1471942461469	i	73
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252419	1471942461512	1471942461582	n	78
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252420	1471942461668	1471942461758	 	32
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252422	1471942462188	1471942462911	SHIFT	16
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252424	1471942462875	1471942462954	W	87
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252426	1471942463231	1471942463325	e	69
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252466	1471942463395	1471942463508	e	69
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252469	1471942463493	1471942463606	k	75
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252471	1471942463657	1471942463759	 	32
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252473	1471942464685	1471942464842	1	49
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252475	1471942465303	1471942465322	0	48
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252529	1471942465783	1471942465892	 	32
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252532	1471942466197	1471942466267	i	73
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252535	1471942466537	1471942466599	f	70
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252539	1471942466662	1471942466748	 	32
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252541	1471942467189	1471942467279	t	84
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252629	1471942467334	1471942467435	 	32
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252631	1471942467964	1471942468039	BKSP	8
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252634	1471942468093	1471942468164	BKSP	8
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252638	1471942468910	1471942469027	a	65
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252640	1471942469164	1471942469253	t	84
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252642	1471942469300	1471942469417	 	32
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252643	1471942469523	1471942469632	a	65
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252681	1471942469660	1471942469710	l	76
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252684	1471942469781	1471942469851	l	76
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252686	1471942469953	1471942470035	 	32
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252688	1471942470836	1471942470918	p	80
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252690	1471942471004	1471942471090	o	79
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252732	1471942471893	1471942471965	s	83
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252735	1471942472045	1471942472133	s	83
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252740	1471942472189	1471942472265	i	73
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252744	1471942472594	1471942472678	b	66
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252747	1471942472734	1471942472806	l	76
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252762	1471942472846	1471942472938	e	69
+529	5265	Avoid starting either back in Week 10 if at all possible.	Avoid starting either back in Week 10 if at all possible.	252763	1471942473742	1471942473834	.	190
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	252888	1471942476750	1471942477020	SHIFT	16
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	252890	1471942476980	1471942477059	L	76
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	252892	1471942477164	1471942477281	i	73
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	252894	1471942477820	1471942477930	v	86
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	252898	1471942477977	1471942478094	e	69
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	252901	1471942478117	1471942478203	 	32
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253100	1471942478711	1471942478816	BKSP	8
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253104	1471942480255	1471942480344	r	82
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253109	1471942481916	1471942482037	p	80
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253113	1471942482533	1471942482600	o	79
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253116	1471942482666	1471942482729	o	79
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253117	1471942482827	1471942482909	l	76
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253168	1471942483030	1471942483131	 	32
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253171	1471942484050	1471942484187	a	65
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253175	1471942484206	1471942484358	l	76
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253180	1471942484476	1471942484636	e	69
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253182	1471942484644	1471942484776	a	65
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253218	1471942485124	1471942485191	BKSP	8
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253219	1471942485261	1471942485333	BKSP	8
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253220	1471942485489	1471942485605	w	87
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253221	1471942486081	1471942486181	a	65
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253222	1471942486325	1471942486397	y	89
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253223	1471942486445	1471942486541	s	83
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253224	1471942486593	1471942486641	 	32
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253284	1471942487201	1471942487297	h	72
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253286	1471942487357	1471942487465	a	65
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253288	1471942487797	1471942487869	d	68
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253291	1471942488165	1471942488257	 	32
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253293	1471942488309	1471942488415	a	65
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253361	1471942488423	1471942488509	 	32
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253363	1471942489913	1471942489983	k	75
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253365	1471942490077	1471942490139	n	78
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253367	1471942490174	1471942490299	a	65
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253369	1471942490545	1471942490624	k	75
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253449	1471942491104	1471942491163	BKSP	8
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253452	1471942491233	1471942491334	c	67
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253454	1471942491350	1471942491432	k	75
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253455	1471942491585	1471942491683	 	32
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253457	1471942492077	1471942492194	o	79
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253458	1471942492300	1471942492366	f	70
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253536	1471942492421	1471942492507	 	32
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253540	1471942493730	1471942493835	b	66
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253545	1471942494437	1471942494546	r	82
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253549	1471942494589	1471942494695	i	73
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253552	1471942494757	1471942494855	n	78
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253593	1471942495011	1471942495082	g	71
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253595	1471942495125	1471942495218	i	73
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253597	1471942495277	1471942495343	g	71
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253600	1471942495402	1471942495476	n	78
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253601	1471942495777	1471942495871	 	32
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253905	1471942500030	1471942500134	BKSP	8
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253907	1471942500198	1471942500278	BKSP	8
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253909	1471942500895	1471942500963	BKSP	8
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253911	1471942501155	1471942501243	n	78
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253913	1471942501707	1471942501783	BKSP	8
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253916	1471942502223	1471942502339	n	78
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253919	1471942502367	1471942502459	g	71
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253922	1471942502467	1471942502547	 	32
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253925	1471942503427	1471942503507	p	80
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253957	1471942503724	1471942503820	e	69
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253958	1471942504076	1471942504156	o	79
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253959	1471942504248	1471942504344	p	80
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253961	1471942505120	1471942505208	l	76
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	253964	1471942505236	1471942505340	e	69
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	254039	1471942505328	1471942505428	 	32
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	254043	1471942506348	1471942506456	d	68
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	254047	1471942506548	1471942506664	o	79
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	254051	1471942506680	1471942506820	w	87
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	254054	1471942506828	1471942506912	n	78
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	254057	1471942507044	1471942507156	 	32
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	254130	1471942507793	1471942507897	t	84
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	254131	1471942507953	1471942508045	o	79
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	254134	1471942508153	1471942508249	 	32
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	254136	1471942508993	1471942509113	e	69
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	254138	1471942509125	1471942509265	a	65
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	254226	1471942509341	1471942509445	r	82
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	254230	1471942509597	1471942509689	t	84
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	254234	1471942509729	1471942509813	h	72
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	254241	1471942510357	1471942510473	.	190
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	254245	1471942510953	1471942511045	BKSP	8
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	254249	1471942511113	1471942511193	BKSP	8
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	254253	1471942512189	1471942512269	h	72
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	254286	1471942512437	1471942512517	,	188
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	254289	1471942513038	1471942513122	BKSP	8
+529	5291	Liverpool always had a knack of bringing people down to earth.	Liverpool always had a knack of bringing people down to earth.	254291	1471942513250	1471942513346	.	190
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254397	1471942515650	1471942515862	SHIFT	16
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254398	1471942515846	1471942515926	B	66
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254400	1471942516010	1471942516106	u	85
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254402	1471942516258	1471942516342	t	84
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254406	1471942516394	1471942516486	 	32
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254411	1471942517046	1471942517150	h	72
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254481	1471942517162	1471942517243	i	73
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254485	1471942517267	1471942517383	s	83
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254492	1471942517410	1471942517502	 	32
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254494	1471942518430	1471942518531	f	70
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254497	1471942518559	1471942518706	a	65
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254516	1471942518743	1471942518806	t	84
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254518	1471942518858	1471942518955	h	72
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254520	1471942518974	1471942519118	e	69
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254522	1471942519106	1471942519182	r	82
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254525	1471942519226	1471942519334	 	32
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254566	1471942519767	1471942519875	l	76
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254567	1471942519947	1471942520035	i	73
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254569	1471942520151	1471942520259	k	75
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254571	1471942520283	1471942520399	e	69
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254573	1471942520503	1471942520643	s	83
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254627	1471942520655	1471942520791	 	32
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254630	1471942521319	1471942521451	w	87
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254633	1471942521475	1471942521563	h	72
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254635	1471942521604	1471942521712	a	65
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254637	1471942521760	1471942521852	t	84
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254696	1471942521896	1471942522012	 	32
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254701	1471942522316	1471942522368	j	74
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254706	1471942522452	1471942522568	e	69
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254710	1471942522892	1471942522956	BKSP	8
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254712	1471942523012	1471942523072	BKSP	8
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254714	1471942523212	1471942523272	j	74
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254715	1471942523300	1471942523400	e	69
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254771	1471942523436	1471942523532	 	32
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254772	1471942523969	1471942523997	BKSP	8
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254773	1471942524197	1471942524265	BKSP	8
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254774	1471942524557	1471942524645	BKSP	8
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254776	1471942524865	1471942524933	h	72
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254779	1471942524993	1471942525073	e	69
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254784	1471942525081	1471942525161	 	32
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254793	1471942525960	1471942526060	s	83
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254833	1471942526136	1471942526216	e	69
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254834	1471942526288	1471942526376	e	69
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254835	1471942526448	1471942526560	s	83
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254836	1471942526524	1471942526644	 	32
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254838	1471942527200	1471942527284	f	70
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254951	1471942527741	1471942527821	e	69
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254953	1471942527885	1471942527989	o	79
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254959	1471942528465	1471942528541	BKSP	8
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254961	1471942528589	1471942528669	BKSP	8
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254965	1471942528737	1471942528841	f	70
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254969	1471942529357	1471942529433	BKSP	8
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254970	1471942529817	1471942529913	r	82
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	254971	1471942529969	1471942530045	o	79
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255013	1471942530161	1471942530241	m	77
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255018	1471942530377	1471942530461	 	32
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255022	1471942531570	1471942531663	h	72
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255028	1471942531671	1471942531771	i	73
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255033	1471942531807	1471942531939	s	83
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255137	1471942531923	1471942532023	 	32
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255140	1471942532598	1471942532698	s	83
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255142	1471942532726	1471942532842	i	73
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255145	1471942532966	1471942533086	m	77
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255153	1471942533534	1471942533620	BKSP	8
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255160	1471942533668	1471942533732	BKSP	8
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255169	1471942534360	1471942534488	o	79
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255176	1471942534688	1471942534796	n	78
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255247	1471942535412	1471942535520	'	222
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255249	1471942535564	1471942535680	s	83
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255251	1471942536616	1471942536708	 	32
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255253	1471942536988	1471942537108	e	69
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255255	1471942537140	1471942537228	n	78
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255336	1471942537788	1471942537880	g	71
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255338	1471942537912	1471942537996	i	73
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255341	1471942538060	1471942538156	n	78
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255350	1471942538144	1471942538244	e	69
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255357	1471942538788	1471942538900	.	190
+529	5321	But his father likes what he sees from his son's engine.	But his father likes what he sees from his son's engine.'	255351	1471942538980	1471942538993	'	222
+529	5336	What did Mark say?	What did Mark say?	255495	1471942541289	1471942541857	SHIFT	16
+529	5336	What did Mark say?	What did Mark say?	255498	1471942541777	1471942541885	W	87
+529	5336	What did Mark say?	What did Mark say?	255500	1471942542009	1471942542097	h	72
+529	5336	What did Mark say?	What did Mark say?	255502	1471942542109	1471942542249	a	65
+529	5336	What did Mark say?	What did Mark say?	255504	1471942542625	1471942542685	t	84
+529	5336	What did Mark say?	What did Mark say?	255506	1471942542769	1471942542853	 	32
+529	5336	What did Mark say?	What did Mark say?	255566	1471942543678	1471942543770	d	68
+529	5336	What did Mark say?	What did Mark say?	255569	1471942543801	1471942543865	i	73
+529	5336	What did Mark say?	What did Mark say?	255572	1471942543889	1471942543969	d	68
+529	5336	What did Mark say?	What did Mark say?	255575	1471942544021	1471942544130	 	32
+529	5336	What did Mark say?	What did Mark say?	255580	1471942544710	1471942544922	SHIFT	16
+529	5336	What did Mark say?	What did Mark say?	255704	1471942544850	1471942544970	<	188
+529	5336	What did Mark say?	What did Mark say?	255706	1471942545514	1471942545622	BKSP	8
+529	5336	What did Mark say?	What did Mark say?	255708	1471942545782	1471942546222	SHIFT	16
+529	5336	What did Mark say?	What did Mark say?	255710	1471942546142	1471942546234	M	77
+529	5336	What did Mark say?	What did Mark say?	255714	1471942546506	1471942546606	a	65
+529	5336	What did Mark say?	What did Mark say?	255718	1471942546774	1471942546843	e	69
+529	5336	What did Mark say?	What did Mark say?	255721	1471942547254	1471942547363	BKSP	8
+529	5336	What did Mark say?	What did Mark say?	255725	1471942547427	1471942547527	r	82
+529	5336	What did Mark say?	What did Mark say?	255729	1471942548438	1471942548514	k	75
+529	5336	What did Mark say?	What did Mark say?	255854	1471942548587	1471942548699	 	32
+529	5336	What did Mark say?	What did Mark say?	255857	1471942549211	1471942549335	s	83
+529	5336	What did Mark say?	What did Mark say?	255859	1471942549323	1471942549463	a	65
+529	5336	What did Mark say?	What did Mark say?	255861	1471942550479	1471942550479	CTRL	17
+529	5336	What did Mark say?	What did Mark say?	255862	1471942550479	1471942550483	WIN	91
+529	5336	What did Mark say?	What did Mark say?	255863	1471942550716	1471942550816	y	89
+529	5336	What did Mark say?	What did Mark say?	255864	1471942551272	1471942551997	SHIFT	16
+529	5336	What did Mark say?	What did Mark say?	255860	1471942551921	1471942552049	?	191
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256076	1471942554313	1471942555490	SHIFT	16
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256072	1471942555150	1471942555210	L	76
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256081	1471942555746	1471942555826	BKSP	8
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256085	1471942556062	1471942556130	i	73
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256087	1471942556494	1471942556590	BKSP	8
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256092	1471942556606	1471942557442	SHIFT	16
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256089	1471942556758	1471942556826	I	73
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256095	1471942557382	1471942557462	"	222
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256098	1471942558109	1471942558197	l	76
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256144	1471942558253	1471942558329	l	76
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256146	1471942558733	1471942558821	 	32
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256148	1471942559433	1471942559533	b	66
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256150	1471942559549	1471942559645	u	85
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256153	1471942559841	1471942559925	g	71
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256380	1471942559965	1471942560057	 	32
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256382	1471942565827	1471942566207	SHIFT	16
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256381	1471942566067	1471942566139	H	72
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256384	1471942566975	1471942567063	o	79
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256386	1471942567399	1471942567459	l	76
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256388	1471942567790	1471942567802	o	79
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256464	1471942568498	1471942568582	BKSP	8
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256465	1471942568842	1471942568922	l	76
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256466	1471942569018	1471942569066	o	79
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256467	1471942570183	1471942570299	w	87
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256468	1471942570359	1471942570519	a	65
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256469	1471942570575	1471942570695	y	89
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256516	1471942570767	1471942570867	 	32
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256517	1471942571719	1471942571851	a	65
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256518	1471942571839	1471942571927	n	78
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256519	1471942571967	1471942572123	f	70
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256520	1471942572159	1471942572219	 	32
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256597	1471942572831	1471942572867	BKSP	8
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256602	1471942572927	1471942572983	BKSP	8
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256606	1471942573051	1471942573135	d	68
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256607	1471942573219	1471942573295	 	32
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256610	1471942573631	1471942573743	e	69
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256612	1471942574219	1471942574307	BKSP	8
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256616	1471942574756	1471942574856	l	76
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256618	1471942574876	1471942575036	e	69
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256688	1471942575020	1471942575124	t	84
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256691	1471942575132	1471942575236	 	32
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256694	1471942578918	1471942579018	y	89
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256697	1471942579070	1471942579230	o	79
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256699	1471942579210	1471942579298	u	85
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	256703	1471942579430	1471942579550	 	32
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257067	1471942585478	1471942585594	n	78
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257068	1471942587831	1471942587994	BKSP	8
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257069	1471942588442	1471942588594	k	75
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257070	1471942588638	1471942588763	n	78
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257071	1471942590355	1471942590523	o	79
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257117	1471942590507	1471942590647	w	87
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257119	1471942590667	1471942590807	 	32
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257122	1471942591411	1471942591495	w	87
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257125	1471942591595	1471942591716	h	72
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257126	1471942591736	1471942591884	t	84
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257127	1471942591900	1471942592016	 	32
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257165	1471942592796	1471942592876	BKSP	8
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257167	1471942592932	1471942593020	BKSP	8
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257168	1471942593140	1471942593360	a	65
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257169	1471942593344	1471942593388	t	84
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257170	1471942593396	1471942593508	 	32
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257171	1471942593728	1471942593852	h	72
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257173	1471942593876	1471942594000	e	69
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257251	1471942594024	1471942594108	 	32
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257253	1471942594934	1471942595062	s	83
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257255	1471942595046	1471942595170	a	65
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257257	1471942595898	1471942595974	a	65
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257259	1471942596514	1471942596598	BKSP	8
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257261	1471942596947	1471942597034	y	89
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257279	1471942597058	1471942597182	s	83
+529	5350	I'll bug Holloway and let you know what he says.	I"ll bug Holloway and let you know what he says.	257281	1471942597410	1471942597486	.	190
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257488	1471942600075	1471942600299	SHIFT	16
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257489	1471942600247	1471942600327	I	73
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257490	1471942600562	1471942600664	 	32
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257491	1471942602140	1471942602277	w	87
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257492	1471942602324	1471942602445	o	79
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257493	1471942602965	1471942603062	i	73
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257567	1471942603160	1471942603266	l	76
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257569	1471942603762	1471942603844	BKSP	8
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257572	1471942603910	1471942603988	BKSP	8
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257576	1471942604673	1471942604760	u	85
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257578	1471942604842	1471942604984	l	76
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257580	1471942605452	1471942605566	d	68
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257582	1471942605824	1471942605915	 	32
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257661	1471942607332	1471942607436	d	68
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257664	1471942608199	1471942608282	BKSP	8
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257667	1471942608718	1471942608850	s	83
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257670	1471942608869	1471942608959	u	85
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257673	1471942609815	1471942609880	g	71
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257676	1471942609965	1471942610039	g	71
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257751	1471942610234	1471942610325	e	69
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257754	1471942610950	1471942611090	s	83
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257758	1471942611171	1471942611306	t	84
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257764	1471942611313	1471942611419	 	32
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257768	1471942612240	1471942612351	y	89
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257835	1471942612362	1471942612480	i	73
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257839	1471942612538	1471942612619	u	85
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257845	1471942612635	1471942612715	u	85
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257849	1471942613220	1471942613241	BKSP	8
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257852	1471942613337	1471942613400	BKSP	8
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257854	1471942613444	1471942613513	BKSP	8
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257855	1471942614459	1471942614619	o	79
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257856	1471942614627	1471942614711	u	85
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257875	1471942614884	1471942615019	 	32
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257881	1471942615264	1471942615398	a	65
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257887	1471942615366	1471942615466	n	78
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257892	1471942615522	1471942615606	d	68
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	257895	1471942615614	1471942615694	 	32
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258012	1471942616570	1471942617250	SHIFT	16
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258009	1471942617094	1471942617174	M	77
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258013	1471942617727	1471942617855	a	65
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258014	1471942618867	1471942618935	e	69
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258015	1471942619003	1471942619127	k	75
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258017	1471942619559	1471942619627	BKSP	8
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258019	1471942619699	1471942619767	BKSP	8
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258021	1471942619831	1471942619931	r	82
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258111	1471942619959	1471942620047	l	76
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258112	1471942620271	1471942620363	 	32
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258113	1471942620631	1471942620695	BKSP	8
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258115	1471942620767	1471942620823	BKSP	8
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258116	1471942620987	1471942621071	l	76
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258118	1471942621753	1471942621853	BKSP	8
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258120	1471942622301	1471942622417	k	75
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258122	1471942622545	1471942622645	 	32
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258189	1471942623278	1471942623389	a	65
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258191	1471942623751	1471942623787	d	68
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258193	1471942623883	1471942623947	d	68
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258196	1471942624607	1471942624739	r	82
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258230	1471942624719	1471942624823	e	69
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258232	1471942624967	1471942625079	s	83
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258234	1471942625187	1471942625219	s	83
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258237	1471942625779	1471942625863	 	32
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258240	1471942626067	1471942626203	t	84
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258308	1471942626183	1471942626335	h	72
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258311	1471942626311	1471942626423	i	73
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258314	1471942626411	1471942626511	s	83
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258316	1471942626855	1471942626939	 	32
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258318	1471942627680	1471942627784	t	84
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258320	1471942628276	1471942628360	o	79
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258482	1471942628596	1471942628717	g	71
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258488	1471942628821	1471942628921	h	72
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258492	1471942630420	1471942630576	BKSP	8
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258495	1471942631444	1471942631546	e	69
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258497	1471942631789	1471942631898	j	74
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258500	1471942632471	1471942632522	BKSP	8
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258502	1471942633193	1471942633299	t	84
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258539	1471942633408	1471942633494	h	72
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258542	1471942633533	1471942633690	e	69
+529	5375	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	258545	1471942633674	1471942633760	r	82
+529	5404	Theresa - Please resend.	Theresa - Please resend	258795	1471942637078	1471942637950	SHIFT	16
+529	5404	Theresa - Please resend.	Theresa - Please resend	258792	1471942637836	1471942637938	T	84
+529	5404	Theresa - Please resend.	Theresa - Please resend	258799	1471942638063	1471942638133	h	72
+529	5404	Theresa - Please resend.	Theresa - Please resend	258803	1471942638149	1471942638321	e	69
+529	5404	Theresa - Please resend.	Theresa - Please resend	258807	1471942640083	1471942640176	r	82
+529	5404	Theresa - Please resend.	Theresa - Please resend	258811	1471942640184	1471942640298	e	69
+529	5404	Theresa - Please resend.	Theresa - Please resend	258917	1471942640509	1471942640673	s	83
+529	5404	Theresa - Please resend.	Theresa - Please resend	258918	1471942640704	1471942640821	a	65
+529	5404	Theresa - Please resend.	Theresa - Please resend	258919	1471942641368	1471942641540	 	32
+529	5404	Theresa - Please resend.	Theresa - Please resend	258920	1471942642017	1471942642177	 	32
+529	5404	Theresa - Please resend.	Theresa - Please resend	258921	1471942642902	1471942642978	BKSP	8
+529	5404	Theresa - Please resend.	Theresa - Please resend	258922	1471942643158	1471942643262	-	189
+529	5404	Theresa - Please resend.	Theresa - Please resend	258967	1471942643374	1471942643514	 	32
+529	5404	Theresa - Please resend.	Theresa - Please resend	258976	1471942644106	1471942644391	SHIFT	16
+529	5404	Theresa - Please resend.	Theresa - Please resend	258969	1471942644302	1471942644380	P	80
+529	5404	Theresa - Please resend.	Theresa - Please resend	258980	1471942644575	1471942644708	l	76
+529	5404	Theresa - Please resend.	Theresa - Please resend	258984	1471942644786	1471942644923	e	69
+529	5404	Theresa - Please resend.	Theresa - Please resend	259049	1471942644907	1471942645083	a	65
+529	5404	Theresa - Please resend.	Theresa - Please resend	259053	1471942645892	1471942646083	s	83
+529	5404	Theresa - Please resend.	Theresa - Please resend	259057	1471942646036	1471942646161	e	69
+529	5404	Theresa - Please resend.	Theresa - Please resend	259062	1471942646169	1471942646290	 	32
+529	5404	Theresa - Please resend.	Theresa - Please resend	259067	1471942647208	1471942647310	r	82
+529	5404	Theresa - Please resend.	Theresa - Please resend	259164	1471942647290	1471942647411	e	69
+529	5404	Theresa - Please resend.	Theresa - Please resend	259167	1471942647564	1471942647705	s	83
+529	5404	Theresa - Please resend.	Theresa - Please resend	259172	1471942647713	1471942647803	e	69
+529	5404	Theresa - Please resend.	Theresa - Please resend	259176	1471942648703	1471942648808	BKSP	8
+529	5404	Theresa - Please resend.	Theresa - Please resend	259179	1471942649601	1471942649719	e	69
+529	5404	Theresa - Please resend.	Theresa - Please resend	259182	1471942649726	1471942649828	n	78
+529	5404	Theresa - Please resend.	Theresa - Please resend	259184	1471942649871	1471942649980	d	68
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259986	1471942634729	1471942668227	.	190
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259393	1471942653092	1471942653631	SHIFT	16
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259392	1471942653474	1471942653564	H	72
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259396	1471942654136	1471942654202	BKSP	8
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259401	1471942654379	1471942654680	SHIFT	16
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259398	1471942654539	1471942654633	J	74
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259404	1471942654794	1471942654872	u	85
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259405	1471942655005	1471942655169	s	83
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259407	1471942655232	1471942655318	t	84
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259452	1471942655342	1471942655443	 	32
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259453	1471942656193	1471942656326	w	87
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259454	1471942656424	1471942656553	a	65
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259455	1471942656815	1471942656917	n	78
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259457	1471942657120	1471942657268	t	84
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259548	1471942657280	1471942657483	e	69
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259551	1471942657596	1471942657690	s	83
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259557	1471942658332	1471942658437	d	68
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259562	1471942658852	1471942658887	BKSP	8
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259567	1471942658988	1471942659055	BKSP	8
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259571	1471942659152	1471942659258	d	68
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259574	1471942659266	1471942659375	 	32
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259639	1471942659528	1471942659641	t	84
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259640	1471942659700	1471942659844	o	79
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259642	1471942659946	1471942660024	 	32
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259646	1471942660821	1471942660927	t	84
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259650	1471942660985	1471942661192	o	79
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259765	1471942661720	1471942661794	u	85
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259768	1471942661868	1471942661974	c	67
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259774	1471942662009	1471942662048	h	72
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259778	1471942662204	1471942662294	 	32
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259783	1471942663724	1471942663803	b	66
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259846	1471942663896	1471942664041	a	65
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259849	1471942664064	1471942664177	d	68
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259852	1471942664267	1471942664377	e	69
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259856	1471942664580	1471942664631	;	186
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259860	1471942664983	1471942665061	BKSP	8
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259865	1471942665128	1471942665190	BKSP	8
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259869	1471942665241	1471942665303	BKSP	8
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259874	1471942665581	1471942665749	s	83
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259966	1471942665730	1471942665831	e	69
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259970	1471942666382	1471942666464	,	188
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259974	1471942666534	1471942666609	'	222
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259978	1471942667371	1471942667434	BKSP	8
+529	5418	Just wanted to touch base.	Just wanted to touch base.	259982	1471942667489	1471942667547	BKSP	8
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260175	1471942670646	1471942671258	SHIFT	16
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260177	1471942671198	1471942671306	W	87
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260178	1471942671474	1471942671661	a	65
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260180	1471942672196	1471942672310	s	83
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260184	1471942672317	1471942672411	 	32
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260187	1471942673216	1471942673341	w	87
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260235	1471942673372	1471942673490	o	79
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260238	1471942673556	1471942673677	n	78
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260241	1471942674150	1471942674236	d	68
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260244	1471942674318	1471942674400	e	69
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260246	1471942674474	1471942674552	r	82
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260337	1471942675697	1471942675791	i	73
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260340	1471942675849	1471942675931	n	78
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260345	1471942675994	1471942676064	g	71
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260349	1471942676092	1471942676193	 	32
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260354	1471942676654	1471942676748	i	73
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260438	1471942676896	1471942676986	f	70
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260441	1471942677029	1471942677150	 	32
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260445	1471942677971	1471942678073	y	89
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260448	1471942678112	1471942678268	o	79
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260482	1471942678237	1471942678331	u	85
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260485	1471942678452	1471942678608	 	32
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260488	1471942678881	1471942679010	a	65
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260491	1471942678998	1471942679092	n	78
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260493	1471942679104	1471942679221	d	68
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260498	1471942679272	1471942679342	 	32
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260639	1471942680065	1471942680651	SHIFT	16
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260637	1471942680261	1471942680351	M	77
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260641	1471942681023	1471942681097	BKSP	8
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260647	1471942681136	1471942681421	SHIFT	16
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260644	1471942681296	1471942681366	N	78
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260649	1471942681809	1471942681930	a	65
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260651	1471942682169	1471942682286	t	84
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260652	1471942682325	1471942682448	a	65
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260730	1471942682788	1471942682941	l	76
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260734	1471942682921	1471942683026	i	73
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260737	1471942683230	1471942683364	e	69
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260738	1471942683540	1471942683668	 	32
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260739	1471942684498	1471942684608	c	67
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260837	1471942684674	1471942684780	o	79
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260840	1471942686045	1471942686116	n	78
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260846	1471942686170	1471942686252	n	78
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260849	1471942686284	1471942686393	e	69
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260851	1471942686631	1471942686776	c	67
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260906	1471942686983	1471942687100	t	84
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260908	1471942687108	1471942687245	e	69
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260911	1471942687358	1471942687413	s	83
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260914	1471942687393	1471942687471	d	68
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260917	1471942687960	1471942688038	BKSP	8
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	260922	1471942688163	1471942688230	d	68
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	261004	1471942688804	1471942688862	BKSP	8
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	261006	1471942688894	1471942688952	BKSP	8
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	261012	1471942688995	1471942689081	d	68
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	261013	1471942689522	1471942689675	SHIFT	16
+529	5429	Was wondering if you and Natalie connected?	Was wondering if you and Natalie connected?	261014	1471942689632	1471942689753	?	191
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261168	1471942691649	1471942692207	SHIFT	16
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261165	1471942691981	1471942692086	S	83
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261172	1471942692555	1471942692684	a	65
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261176	1471942692711	1471942692818	n	78
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261180	1471942692849	1471942692970	a	65
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261184	1471942693712	1471942693810	a	65
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261548	1471942693982	1471942694099	 	32
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261552	1471942694646	1471942694736	a	65
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261556	1471942699229	1471942699331	p	80
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261560	1471942699409	1471942699475	p	80
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261564	1471942699546	1471942699698	e	69
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261677	1471942699706	1471942699839	a	65
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261680	1471942700589	1471942700769	r	82
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261682	1471942700729	1471942700886	e	69
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261687	1471942701140	1471942701312	d	68
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261690	1471942702290	1471942702406	 	32
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261725	1471942702634	1471942702766	t	84
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261730	1471942702754	1471942702918	o	79
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261737	1471942702978	1471942702998	 	32
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261745	1471942703010	1471942703078	 	32
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261749	1471942703262	1471942703334	n	78
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261931	1471942703526	1471942703630	e	69
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261934	1471942703930	1471942703990	BKSP	8
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261937	1471942704058	1471942704118	BKSP	8
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261940	1471942705031	1471942705135	=	187
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261942	1471942705719	1471942705791	=	187
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261943	1471942706107	1471942706187	BKSP	8
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261945	1471942706251	1471942706311	BKSP	8
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261947	1471942706375	1471942706427	BKSP	8
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261952	1471942707012	1471942707080	b	66
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	261959	1471942707104	1471942707204	e	69
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262037	1471942707212	1471942707304	 	32
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262041	1471942707540	1471942707676	a	65
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262046	1471942707664	1471942707768	 	32
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262049	1471942708916	1471942708976	g	71
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262054	1471942709012	1471942709132	h	72
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262096	1471942709140	1471942709272	o	79
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262098	1471942709368	1471942709468	s	83
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262101	1471942709536	1471942709620	t	84
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262104	1471942709660	1471942709768	 	32
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262107	1471942710184	1471942710284	t	84
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262200	1471942710344	1471942710460	o	79
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262201	1471942710588	1471942710616	w	87
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262205	1471942710700	1471942710796	n	78
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262208	1471942711244	1471942711372	 	32
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262210	1471942711748	1471942711857	e	69
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262277	1471942712489	1471942712573	BKSP	8
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262279	1471942712653	1471942712761	w	87
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262285	1471942712905	1471942712977	o	79
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262288	1471942713093	1471942713157	t	84
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262291	1471942713213	1471942713273	h	72
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262298	1471942713785	1471942713833	=	187
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262463	1471942713925	1471942713961	BKSP	8
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262467	1471942714181	1471942714265	BKSP	8
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262474	1471942714341	1471942714405	BKSP	8
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262479	1471942714597	1471942714701	BKSP	8
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262484	1471942714929	1471942715009	i	73
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262491	1471942715085	1471942715173	t	84
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262498	1471942715757	1471942715805	h	72
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262502	1471942715969	1471942716049	 	32
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262506	1471942716932	1471942717044	n	78
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262624	1471942717640	1471942717728	BKSP	8
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262628	1471942718296	1471942718396	m	77
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262631	1471942718424	1471942718548	a	65
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262634	1471942718524	1471942718588	n	78
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262641	1471942718708	1471942718784	y	89
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262648	1471942719232	1471942719336	 	32
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262830	1471942719737	1471942719837	s	83
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262832	1471942719889	1471942720025	h	72
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262834	1471942720457	1471942720521	o	79
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262835	1471942721489	1471942721609	s	83
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262836	1471942722161	1471942722265	BKSP	8
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262837	1471942722889	1471942723009	p	80
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262918	1471942723069	1471942723181	s	83
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262920	1471942723213	1471942723249	 	32
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262923	1471942724061	1471942724149	c	67
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262926	1471942724525	1471942724641	l	76
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	262929	1471942724761	1471942724805	i	73
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	263068	1471942725425	1471942725509	BKSP	8
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	263070	1471942726274	1471942726350	o	79
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	263074	1471942726626	1471942726726	s	83
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	263078	1471942726758	1471942726967	e	69
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	263084	1471942726931	1471942727019	r	82
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	263087	1471942727491	1471942727571	BKSP	8
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	263089	1471942727747	1471942727899	d	68
+529	5455	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	263114	1471942728823	1471942728939	.	190
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263313	1471942730331	1471942731517	SHIFT	16
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263315	1471942731461	1471942731553	T	84
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263316	1471942731845	1471942731969	h	72
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263318	1471942732061	1471942732181	e	69
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263320	1471942732221	1471942732301	 	32
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263323	1471942732795	1471942732919	a	65
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263422	1471942733031	1471942733095	l	76
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263425	1471942733155	1471942733239	l	76
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263428	1471942733259	1471942733379	e	69
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263430	1471942733927	1471942734067	g	71
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263434	1471942734467	1471942734551	e	69
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263526	1471942734715	1471942734771	s	83
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263530	1471942734759	1471942734836	d	68
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263536	1471942735244	1471942735320	BKSP	8
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263540	1471942735400	1471942735424	BKSP	8
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263544	1471942735448	1471942735564	d	68
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263548	1471942735620	1471942735728	 	32
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263549	1471942736568	1471942736672	o	79
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263637	1471942737036	1471942737156	f	70
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263638	1471942737252	1471942737344	f	70
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263640	1471942737672	1471942737792	e	69
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263641	1471942738624	1471942738740	n	78
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263643	1471942739057	1471942739201	c	67
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263716	1471942739229	1471942739341	e	69
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263718	1471942739461	1471942739577	s	83
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263719	1471942739625	1471942739761	 	32
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263721	1471942740305	1471942740437	o	79
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263723	1471942740765	1471942740781	c	67
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263822	1471942741302	1471942741414	c	67
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263823	1471942741662	1471942741770	u	85
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263825	1471942742210	1471942742326	r	82
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263827	1471942742306	1471942742482	e	69
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263829	1471942742642	1471942742686	d	68
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263986	1471942743243	1471942743347	 	32
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263988	1471942745445	1471942745537	=	187
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263990	1471942745741	1471942745817	=	187
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263992	1471942746265	1471942746337	=	187
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	263994	1471942746437	1471942746493	=	187
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264140	1471942746577	1471942746641	=	187
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264142	1471942746725	1471942746789	=	187
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264147	1471942747337	1471942747433	BKSP	8
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264151	1471942747509	1471942747569	BKSP	8
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264155	1471942747637	1471942747681	BKSP	8
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264158	1471942747753	1471942747813	BKSP	8
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264161	1471942747885	1471942747929	BKSP	8
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264166	1471942748005	1471942748053	BKSP	8
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264171	1471942748133	1471942748185	BKSP	8
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264177	1471942748589	1471942748729	BKSP	8
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264182	1471942748838	1471942748930	BKSP	8
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264188	1471942749858	1471942749958	r	82
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264192	1471942750038	1471942750162	e	69
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264197	1471942750298	1471942750354	d	68
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264382	1471942750410	1471942750554	 	32
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264387	1471942752070	1471942752150	b	66
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264395	1471942752562	1471942752674	f	70
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264401	1471942753406	1471942753486	d	68
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264407	1471942753726	1471942753830	BKSP	8
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264409	1471942753894	1471942753982	BKSP	8
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264411	1471942754506	1471942754622	e	69
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264438	1471942754710	1471942754830	f	70
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264439	1471942754930	1471942754986	o	79
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264440	1471942755590	1471942755698	r	82
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264441	1471942755666	1471942755786	e	69
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264443	1471942755798	1471942755910	 	32
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264545	1471942756486	1471942757502	SHIFT	16
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264544	1471942757262	1471942757382	A	65
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264548	1471942758075	1471942758194	l	76
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264550	1471942758359	1471942758522	a	65
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264552	1471942758507	1471942758598	n	78
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264554	1471942758827	1471942758935	 	32
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264701	1471942759559	1471942760487	SHIFT	16
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264699	1471942760355	1471942760463	S	83
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264705	1471942761664	1471942761768	u	85
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264709	1471942761964	1471942762084	g	71
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264713	1471942762084	1471942762244	a	65
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264781	1471942762236	1471942762340	r	82
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264787	1471942762376	1471942762484	 	32
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264794	1471942763544	1471942763612	t	84
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264802	1471942763992	1471942764076	o	79
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264808	1471942764136	1471942764204	o	79
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264813	1471942764336	1471942764424	k	75
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264880	1471942764724	1471942764805	 	32
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264881	1471942765269	1471942765353	c	67
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264882	1471942765381	1471942765513	o	79
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264883	1471942765589	1471942765697	n	78
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264884	1471942766001	1471942766117	t	84
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264974	1471942766797	1471942766905	r	82
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264976	1471942767041	1471942767057	o	79
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264977	1471942767213	1471942767313	l	76
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264978	1471942767501	1471942767625	/	191
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264979	1471942768343	1471942768451	BKSP	8
+529	5497	The alleged offences occurred before Alan Sugar took control.	The alleged offences occurred before Alan Sugar took control.	264980	1471942768755	1471942768840	.	190
+529	5531	I told you silly.	I told you silly	265136	1471942770612	1471942771121	SHIFT	16
+529	5531	I told you silly.	I told you silly	265139	1471942771057	1471942771137	I	73
+529	5531	I told you silly.	I told you silly	265142	1471942771265	1471942771385	 	32
+529	5531	I told you silly.	I told you silly	265143	1471942771577	1471942771689	t	84
+529	5531	I told you silly.	I told you silly	265145	1471942771753	1471942771841	o	79
+529	5531	I told you silly.	I told you silly	265150	1471942771945	1471942772045	l	76
+529	5531	I told you silly.	I told you silly	265199	1471942772077	1471942772213	d	68
+529	5531	I told you silly.	I told you silly	265204	1471942772237	1471942772345	 	32
+529	5531	I told you silly.	I told you silly	265207	1471942773417	1471942773518	y	89
+529	5531	I told you silly.	I told you silly	265213	1471942773565	1471942773702	o	79
+529	5531	I told you silly.	I told you silly	265217	1471942773713	1471942773798	u	85
+529	5531	I told you silly.	I told you silly	265277	1471942774402	1471942774517	 	32
+529	5531	I told you silly.	I told you silly	265278	1471942774713	1471942774843	s	83
+529	5531	I told you silly.	I told you silly	265279	1471942775643	1471942775739	i	73
+529	5531	I told you silly.	I told you silly	265280	1471942775903	1471942775955	l	76
+529	5531	I told you silly.	I told you silly	265281	1471942776023	1471942776107	l	76
+529	5531	I told you silly.	I told you silly	265338	1471942776291	1471942776339	u	85
+529	5531	I told you silly.	I told you silly	265341	1471942776831	1471942776931	BKSP	8
+529	5531	I told you silly.	I told you silly	265343	1471942777567	1471942777647	y	89

@@ -1,0 +1,633 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+562	5571	I would be glad to participate.	I would be glad to participate.	266901	1471942771779	1471942772088	SHIFT	16
+562	5571	I would be glad to participate.	I would be glad to participate.	266903	1471942772014	1471942772088	I	73
+562	5571	I would be glad to participate.	I would be glad to participate.	266905	1471942772260	1471942772354	 	32
+562	5571	I would be glad to participate.	I would be glad to participate.	266908	1471942772557	1471942772686	w	87
+562	5571	I would be glad to participate.	I would be glad to participate.	266910	1471942772764	1471942772841	o	79
+562	5571	I would be glad to participate.	I would be glad to participate.	266912	1471942773200	1471942773276	u	85
+562	5571	I would be glad to participate.	I would be glad to participate.	266950	1471942773857	1471942773945	l	76
+562	5571	I would be glad to participate.	I would be glad to participate.	266952	1471942773992	1471942774141	d	68
+562	5571	I would be glad to participate.	I would be glad to participate.	266956	1471942774172	1471942774261	 	32
+562	5571	I would be glad to participate.	I would be glad to participate.	266958	1471942774921	1471942775015	b	66
+562	5571	I would be glad to participate.	I would be glad to participate.	266960	1471942775202	1471942775344	e	69
+562	5571	I would be glad to participate.	I would be glad to participate.	267010	1471942775376	1471942775482	 	32
+562	5571	I would be glad to participate.	I would be glad to participate.	267011	1471942776332	1471942776453	g	71
+562	5571	I would be glad to participate.	I would be glad to participate.	267015	1471942776557	1471942776645	l	76
+562	5571	I would be glad to participate.	I would be glad to participate.	267018	1471942776686	1471942776850	a	65
+562	5571	I would be glad to participate.	I would be glad to participate.	267021	1471942777227	1471942777352	d	68
+562	5571	I would be glad to participate.	I would be glad to participate.	267072	1471942777501	1471942777590	 	32
+562	5571	I would be glad to participate.	I would be glad to participate.	267074	1471942778092	1471942778177	t	84
+562	5571	I would be glad to participate.	I would be glad to participate.	267075	1471942778271	1471942778359	o	79
+562	5571	I would be glad to participate.	I would be glad to participate.	267076	1471942778531	1471942778610	 	32
+562	5571	I would be glad to participate.	I would be glad to participate.	267078	1471942778860	1471942778946	p	80
+562	5571	I would be glad to participate.	I would be glad to participate.	267204	1471942778992	1471942779159	a	65
+562	5571	I would be glad to participate.	I would be glad to participate.	267207	1471942779315	1471942779341	r	84
+562	5571	I would be glad to participate.	I would be glad to participate.	267210	1471942781110	1471942781235	BKSP	8
+562	5571	I would be glad to participate.	I would be glad to participate.	267212	1471942781313	1471942781451	BKSP	8
+562	5571	I would be glad to participate.	I would be glad to participate.	267215	1471942782000	1471942782121	r	82
+562	5571	I would be glad to participate.	I would be glad to participate.	267217	1471942782371	1471942782442	i	73
+562	5571	I would be glad to participate.	I would be glad to participate.	267307	1471942783620	1471942783727	BKSP	8
+562	5571	I would be glad to participate.	I would be glad to participate.	267311	1471942784009	1471942784096	t	84
+562	5571	I would be glad to participate.	I would be glad to participate.	267315	1471942784252	1471942784330	i	73
+562	5571	I would be glad to participate.	I would be glad to participate.	267318	1471942784627	1471942784793	c	67
+562	5571	I would be glad to participate.	I would be glad to participate.	267320	1471942784808	1471942784885	i	73
+562	5571	I would be glad to participate.	I would be glad to participate.	267321	1471942785166	1471942785267	p	80
+562	5571	I would be glad to participate.	I would be glad to participate.	267345	1471942785320	1471942785479	a	65
+562	5571	I would be glad to participate.	I would be glad to participate.	267346	1471942785683	1471942785784	t	84
+562	5571	I would be glad to participate.	I would be glad to participate.	267348	1471942785894	1471942786033	e	69
+562	5571	I would be glad to participate.	I would be glad to participate.	267350	1471942786896	1471942786989	.	190
+562	5585	Thank you for your call.	Thank you for your call.	267433	1471942789110	1471942789413	SHIFT	16
+562	5585	Thank you for your call.	Thank you for your call.	267434	1471942789376	1471942789496	T	84
+562	5585	Thank you for your call.	Thank you for your call.	267435	1471942789574	1471942789651	h	72
+562	5585	Thank you for your call.	Thank you for your call.	267437	1471942789697	1471942789877	a	65
+562	5585	Thank you for your call.	Thank you for your call.	267440	1471942789877	1471942789953	n	78
+562	5585	Thank you for your call.	Thank you for your call.	267443	1471942790062	1471942790168	k	75
+562	5585	Thank you for your call.	Thank you for your call.	267486	1471942790325	1471942790417	 	32
+562	5585	Thank you for your call.	Thank you for your call.	267490	1471942790921	1471942791022	y	89
+562	5585	Thank you for your call.	Thank you for your call.	267493	1471942791069	1471942791172	o	79
+562	5585	Thank you for your call.	Thank you for your call.	267496	1471942791265	1471942791371	u	85
+562	5585	Thank you for your call.	Thank you for your call.	267499	1471942791684	1471942791773	 	32
+562	5585	Thank you for your call.	Thank you for your call.	267559	1471942792354	1471942792489	f	70
+562	5585	Thank you for your call.	Thank you for your call.	267562	1471942792739	1471942792826	o	79
+562	5585	Thank you for your call.	Thank you for your call.	267564	1471942792935	1471942793044	r	82
+562	5585	Thank you for your call.	Thank you for your call.	267566	1471942793138	1471942793229	 	32
+562	5585	Thank you for your call.	Thank you for your call.	267567	1471942794157	1471942794232	y	89
+562	5585	Thank you for your call.	Thank you for your call.	267608	1471942794616	1471942794716	o	79
+562	5585	Thank you for your call.	Thank you for your call.	267610	1471942795469	1471942795538	u	85
+562	5585	Thank you for your call.	Thank you for your call.	267613	1471942795584	1471942795717	r	82
+562	5585	Thank you for your call.	Thank you for your call.	267616	1471942795811	1471942795889	 	32
+562	5585	Thank you for your call.	Thank you for your call.	267619	1471942796186	1471942796335	c	67
+562	5585	Thank you for your call.	Thank you for your call.	267659	1471942796413	1471942796568	a	65
+562	5585	Thank you for your call.	Thank you for your call.	267661	1471942796977	1471942797059	l	76
+562	5585	Thank you for your call.	Thank you for your call.	267663	1471942797137	1471942797259	l	76
+562	5585	Thank you for your call.	Thank you for your call.	267665	1471942797384	1471942797509	.	190
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267755	1471942799955	1471942800221	SHIFT	16
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267757	1471942800207	1471942800255	M	77
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267759	1471942800417	1471942800489	u	85
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267761	1471942800786	1471942800919	c	67
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267763	1471942800950	1471942801039	h	72
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267766	1471942801196	1471942801289	 	32
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267827	1471942801792	1471942801877	b	66
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267831	1471942802158	1471942802290	e	69
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267838	1471942802477	1471942802577	t	84
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267843	1471942802671	1471942802762	t	84
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267846	1471942802871	1471942803082	e	69
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267896	1471942803025	1471942803143	r	82
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267899	1471942803346	1471942803430	 	32
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267902	1471942803639	1471942803748	t	84
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267905	1471942803842	1471942803904	h	72
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267907	1471942803951	1471942804112	a	65
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267909	1471942804237	1471942804317	n	78
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267928	1471942804423	1471942804549	 	32
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267933	1471942804925	1471942805033	c	67
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267939	1471942805127	1471942805283	a	65
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267944	1471942805424	1471942805505	r	82
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	267951	1471942805599	1471942805722	r	82
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	268030	1471942806207	1471942806276	y	89
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	268033	1471942806511	1471942806624	i	73
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	268035	1471942807127	1471942807211	n	78
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	268039	1471942807352	1471942807477	g	71
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	268044	1471942807493	1471942807563	 	32
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	268088	1471942807788	1471942807926	a	65
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	268093	1471942807973	1471942808048	 	32
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	268097	1471942808361	1471942808432	l	76
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	268100	1471942808667	1471942808812	a	65
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	268103	1471942809062	1471942809135	p	80
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	268124	1471942809511	1471942809604	t	84
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	268125	1471942809672	1471942809755	o	79
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	268128	1471942809865	1471942809938	p	80
+562	5595	Much better than carrying a laptop.	Much better than carrying a laptop.	268134	1471942810182	1471942810287	.	190
+562	5605	That would be great.	That would be great.	268253	1471942812294	1471942812632	SHIFT	16
+562	5605	That would be great.	That would be great.	268255	1471942812575	1471942812678	T	84
+562	5605	That would be great.	That would be great.	268259	1471942812772	1471942812864	h	72
+562	5605	That would be great.	That would be great.	268264	1471942812879	1471942813074	a	65
+562	5605	That would be great.	That would be great.	268267	1471942813339	1471942813448	t	84
+562	5605	That would be great.	That would be great.	268272	1471942813682	1471942813752	 	32
+562	5605	That would be great.	That would be great.	268346	1471942814348	1471942814469	w	87
+562	5605	That would be great.	That would be great.	268349	1471942814531	1471942814620	o	79
+562	5605	That would be great.	That would be great.	268354	1471942815010	1471942815088	u	85
+562	5605	That would be great.	That would be great.	268359	1471942815702	1471942815792	l	76
+562	5605	That would be great.	That would be great.	268364	1471942815839	1471942815972	d	68
+562	5605	That would be great.	That would be great.	268407	1471942816016	1471942816109	 	32
+562	5605	That would be great.	That would be great.	268408	1471942816531	1471942816609	b	66
+562	5605	That would be great.	That would be great.	268409	1471942816765	1471942816892	e	69
+562	5605	That would be great.	That would be great.	268410	1471942816939	1471942817028	 	32
+562	5605	That would be great.	That would be great.	268411	1471942817388	1471942817462	g	71
+562	5605	That would be great.	That would be great.	268493	1471942817613	1471942817729	r	82
+562	5605	That would be great.	That would be great.	268500	1471942817901	1471942818044	a	65
+562	5605	That would be great.	That would be great.	268506	1471942818501	1471942818601	BKSP	8
+562	5605	That would be great.	That would be great.	268512	1471942818695	1471942818816	e	69
+562	5605	That would be great.	That would be great.	268520	1471942818879	1471942819047	a	65
+562	5605	That would be great.	That would be great.	268529	1471942819172	1471942819284	t	84
+562	5605	That would be great.	That would be great.	268564	1471942819624	1471942819705	.	190
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	268746	1471942822232	1471942822533	SHIFT	16
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	268749	1471942822485	1471942822550	N	78
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	268752	1471942823257	1471942823349	o	79
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	268756	1471942823365	1471942823467	t	84
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	268760	1471942823545	1471942823620	 	32
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	268765	1471942823965	1471942824053	l	76
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	268867	1471942824167	1471942824240	i	73
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	268869	1471942824851	1471942824941	k	75
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	268870	1471942824972	1471942825089	e	69
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	268871	1471942825198	1471942825291	 	32
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	268873	1471942825950	1471942826028	y	89
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	268971	1471942826119	1471942826226	o	79
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	268973	1471942826304	1471942826396	u	85
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	268975	1471942827714	1471942827784	'	222
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	268977	1471942828963	1471942829039	l	76
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	268978	1471942829133	1471942829237	l	76
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	269045	1471942829537	1471942829606	 	32
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	269049	1471942830613	1471942830680	g	71
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	269053	1471942830961	1471942831060	e	69
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	269055	1471942831160	1471942831246	t	84
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	269057	1471942831528	1471942831629	 	32
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	269093	1471942832371	1471942832451	p	80
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	269097	1471942832529	1471942832695	a	65
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	269101	1471942832798	1471942832884	i	73
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	269105	1471942833197	1471942833316	d	68
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	269109	1471942833379	1471942833485	 	32
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	269239	1471942834317	1471942834437	f	70
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	269241	1471942834781	1471942834856	o	79
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	269246	1471942834903	1471942835024	r	82
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	269252	1471942835102	1471942835193	 	32
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	269255	1471942836293	1471942836381	i	73
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	269299	1471942836431	1471942836546	t	84
+562	5615	Not like you'll get paid for it.	Not like you'll get paid for it.	269300	1471942837158	1471942837250	.	190
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269436	1471942839204	1471942839492	SHIFT	16
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269439	1471942839454	1471942839573	T	84
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269443	1471942839667	1471942839758	h	72
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269444	1471942839789	1471942839907	e	69
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269445	1471942839985	1471942840092	 	32
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269447	1471942840704	1471942840889	a	65
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269517	1471942841345	1471942841448	g	71
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269521	1471942841682	1471942841797	r	82
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269524	1471942841969	1471942842065	e	69
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269527	1471942842158	1471942842282	e	69
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269530	1471942842454	1471942842552	m	77
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269590	1471942842552	1471942842699	e	69
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269593	1471942842762	1471942842838	n	78
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269596	1471942842885	1471942842992	t	84
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269601	1471942843133	1471942843235	 	32
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269603	1471942843896	1471942843974	h	72
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269642	1471942844000	1471942844258	a	65
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269647	1471942844169	1471942844305	s	83
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269650	1471942844460	1471942844541	 	32
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269653	1471942844666	1471942844744	b	66
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269658	1471942844838	1471942844958	e	69
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269761	1471942845055	1471942845159	e	69
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269763	1471942845256	1471942845360	n	78
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269765	1471942845517	1471942845611	 	32
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269767	1471942845814	1471942845923	SHIFT	16
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269768	1471942846681	1471942846830	a	65
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269769	1471942847316	1471942847402	p	80
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269796	1471942847495	1471942847602	p	80
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269798	1471942847869	1471942847984	r	82
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269800	1471942848080	1471942848171	o	79
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269802	1471942848421	1471942848538	v	86
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269808	1471942848616	1471942848753	e	69
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269842	1471942848876	1471942848988	d	68
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269843	1471942849098	1471942849207	 	32
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269845	1471942849851	1471942849928	b	66
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269848	1471942850006	1471942850111	y	89
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269851	1471942850267	1471942850377	 	32
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269969	1471942851021	1471942851130	t	84
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269971	1471942851177	1471942851266	h	72
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269973	1471942851563	1471942851697	e	69
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269975	1471942851978	1471942852068	 	32
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	269976	1471942853357	1471942853502	s	83
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	270105	1471942854366	1471942854523	e	69
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	270108	1471942855167	1471942855215	n	78
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	270112	1471942855559	1471942855709	a	65
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	270117	1471942855756	1471942855832	t	84
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	270122	1471942856829	1471942856935	e	69
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	270158	1471942857241	1471942857335	 	32
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	270159	1471942857517	1471942857651	a	65
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	270162	1471942857961	1471942858038	n	78
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	270165	1471942858116	1471942858222	d	68
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	270169	1471942858331	1471942858423	 	32
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	270191	1471942858722	1471942858911	SHIFT	16
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	270192	1471942858862	1471942858949	H	72
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	270193	1471942859107	1471942859209	o	79
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	270194	1471942859474	1471942859576	u	85
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	270195	1471942859576	1471942859724	s	83
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	270196	1471942859849	1471942859992	e	69
+562	5631	The agreement has been approved by the Senate and House.	The agreement has been approved by the senate and House.	270203	1471942860746	1471942860832	.	190
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270315	1471942863583	1471942863964	CTRL	17
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270318	1471942863870	1471942863964			73
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270321	1471942864104	1471942864215	 	32
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270326	1471942864558	1471942864629	n	78
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270329	1471942864737	1471942864877	e	69
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270332	1471942864955	1471942865063	e	69
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270411	1471942865197	1471942865297	d	68
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270414	1471942865313	1471942865414	 	32
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270417	1471942866340	1471942866435	y	89
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270421	1471942866794	1471942866902	o	79
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270425	1471942867499	1471942867574	u	85
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270449	1471942867632	1471942867739	r	82
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270451	1471942867817	1471942867908	 	32
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270453	1471942868373	1471942868445	h	72
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270456	1471942868585	1471942868692	o	79
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270459	1471942869030	1471942869129	m	77
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270492	1471942869559	1471942869646	e	69
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270494	1471942869755	1471942869846	 	32
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270497	1471942869924	1471942870077	c	67
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270500	1471942870129	1471942870293	a	65
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270504	1471942870324	1471942870401	l	76
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270563	1471942870503	1471942870630	l	76
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270565	1471942870865	1471942870950	 	32
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270570	1471942872395	1471942872489	o	79
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270574	1471942872489	1471942872623	r	82
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270580	1471942872795	1471942872907	 	32
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270646	1471942873564	1471942873692	w	87
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270648	1471942873786	1471942873878	h	72
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270650	1471942873972	1471942874154	a	65
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270653	1471942874233	1471942874314	t	84
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270656	1471942874767	1471942874895	e	69
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270709	1471942875368	1471942875452	v	86
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270711	1471942875545	1471942875768	e	69
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270713	1471942875681	1471942875831	r	82
+562	5648	I need your home cell or whatever.	 need your home call or whatever.	270715	1471942876221	1471942876302	.	190
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	270848	1471942878392	1471942878846	SHIFT	16
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	270850	1471942878783	1471942878862	I	73
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	270853	1471942879524	1471942879583	t	84
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	270857	1471942880524	1471942880602	'	222
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	270862	1471942880602	1471942880765	s	83
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	270867	1471942880890	1471942880970	 	32
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	270907	1471942881415	1471942881504	t	84
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	270908	1471942881613	1471942881673	o	79
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	270909	1471942881783	1471942881889	o	79
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	270910	1471942882156	1471942882256	 	32
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	270911	1471942882584	1471942882675	i	73
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	270950	1471942882791	1471942882892	n	78
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	270953	1471942883142	1471942883258	v	86
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	270955	1471942883336	1471942883414	o	79
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	270959	1471942883804	1471942883863	l	76
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	270961	1471942884004	1471942884098	v	86
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271010	1471942884183	1471942884313	e	69
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271013	1471942884454	1471942884580	d	68
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271016	1471942884768	1471942884850	 	32
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271022	1471942885210	1471942885301	o	79
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271026	1471942885738	1471942885819	u	85
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271074	1471942885864	1471942885970	t	84
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271076	1471942886110	1471942886204	 	32
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271077	1471942886456	1471942886540	h	72
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271079	1471942886602	1471942886793	e	69
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271127	1471942886737	1471942886863	r	82
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271129	1471942886957	1471942887104	e	69
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271132	1471942887321	1471942887408	 	32
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271135	1471942887991	1471942888078	o	79
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271137	1471942888203	1471942888295	n	78
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271139	1471942888436	1471942888513	 	32
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271237	1471942888560	1471942888833	SHIFT	16
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271239	1471942888794	1471942888958	A	65
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271241	1471942889494	1471942889585	BKSP	8
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271243	1471942889913	1471942890617	SHIFT	16
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271245	1471942890492	1471942890664	S	83
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271248	1471942890820	1471942890983	a	65
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271251	1471942892115	1471942892226	t	84
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271253	1471942892450	1471942892511	u	85
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271299	1471942892584	1471942892708	r	82
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271301	1471942892990	1471942893127	d	68
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271304	1471942893174	1471942893341	a	65
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271305	1471942893466	1471942893563	y	89
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271306	1471942893906	1471942893996	 	32
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271351	1471942894580	1471942894699	w	87
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271354	1471942894949	1471942895051	i	73
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271358	1471942895098	1471942895218	t	84
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271360	1471942895280	1471942895371	h	72
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271363	1471942895542	1471942895637	 	32
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271411	1471942895938	1471942896053	e	69
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271413	1471942896306	1471942896405	v	86
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271417	1471942896499	1471942896721	e	69
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271419	1471942896637	1471942896783	r	82
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271421	1471942897049	1471942897127	y	89
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271489	1471942898244	1471942898316	b	66
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271492	1471942898675	1471942898749	o	79
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271496	1471942899441	1471942899566	d	68
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271500	1471942899598	1471942899716	y	89
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271502	1471942899951	1471942900036	 	32
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271583	1471942900633	1471942900753	q	81
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271585	1471942900894	1471942900990	u	85
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271587	1471942901115	1471942901238	a	65
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271588	1471942901378	1471942901475	l	76
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271589	1471942902385	1471942902478	i	73
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271667	1471942902590	1471942902679	g	71
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271668	1471942903082	1471942903180	BKSP	8
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271669	1471942903321	1471942903445	f	70
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271671	1471942903601	1471942903714	i	73
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271675	1471942904186	1471942904301	n	78
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271679	1471942904301	1471942904417	g	71
+562	5655	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifing.	271711	1471942905279	1471942905356	.	190
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	271878	1471942907538	1471942907765	SHIFT	16
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	271879	1471942907730	1471942907816	M	77
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	271881	1471942907863	1471942908026	a	65
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	271884	1471942908198	1471942908330	r	82
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	271887	1471942908627	1471942908732	k	75
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	271890	1471942910665	1471942910757	,	188
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	271954	1471942910987	1471942911091	 	32
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	271956	1471942911541	1471942911879	SHIFT	16
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	271958	1471942911813	1471942911957	S	83
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	271960	1471942912035	1471942912112	u	85
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	271961	1471942912190	1471942912327	s	83
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	271962	1471942912530	1471942912692	a	65
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272042	1471942912719	1471942912815	n	78
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272046	1471942912971	1471942913097	 	32
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272048	1471942913865	1471942913983	s	83
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272050	1471942914093	1471942914249	a	65
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272052	1471942914704	1471942914806	i	73
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272093	1471942914824	1471942914969	d	68
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272096	1471942915031	1471942915122	 	32
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272102	1471942915473	1471942915572	t	84
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272106	1471942915666	1471942915742	o	79
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272111	1471942915898	1471942915991	 	32
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272184	1471942916100	1471942916192	g	71
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272187	1471942916254	1471942916344	o	79
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272194	1471942916657	1471942916744	 	32
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272199	1471942917592	1471942917727	a	65
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272203	1471942917774	1471942917866	h	72
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272289	1471942918084	1471942918213	e	69
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272293	1471942918354	1471942918538	a	65
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272296	1471942918483	1471942918632	d	68
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272299	1471942919290	1471942919388	 	32
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272302	1471942919606	1471942919784	a	65
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272380	1471942919832	1471942919923	n	78
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272381	1471942919939	1471942920071	d	68
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272383	1471942920560	1471942920658	 	32
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272385	1471942921223	1471942921344	e	69
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272387	1471942921688	1471942921794	x	88
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272494	1471942922046	1471942922148	p	80
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272495	1471942922273	1471942922427	a	65
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272500	1471942923165	1471942923282	BKSP	8
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272504	1471942923548	1471942923656	e	69
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272507	1471942923892	1471942923970	n	78
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272510	1471942924268	1471942924401	s	83
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272552	1471942924518	1471942924637	e	69
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272554	1471942925108	1471942925192	 	32
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272557	1471942925536	1471942925641	t	84
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272559	1471942925704	1471942925794	h	72
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272561	1471942925826	1471942925942	e	69
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272605	1471942926047	1471942926145	 	32
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272607	1471942926333	1471942926476	c	67
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272610	1471942926507	1471942926675	a	65
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272614	1471942926737	1471942926814	l	76
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272617	1471942926924	1471942927030	l	76
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272701	1471942927282	1471942927381	 	32
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272703	1471942927709	1471942927800	p	80
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272706	1471942928114	1471942928202	h	72
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272709	1471942928363	1471942928438	o	79
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272712	1471942928924	1471942928990	n	78
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272745	1471942929047	1471942929184	e	69
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272750	1471942929294	1471942929421	s	83
+562	5676	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the call phones.	272758	1471942929524	1471942929621	.	190
+562	5696	Presumably so do you.	Presumably So do you.	272895	1471942932037	1471942932334	SHIFT	16
+562	5696	Presumably so do you.	Presumably So do you.	272897	1471942932255	1471942932334	P	80
+562	5696	Presumably so do you.	Presumably So do you.	272900	1471942932837	1471942932950	r	82
+562	5696	Presumably so do you.	Presumably So do you.	272904	1471942933044	1471942933184	e	69
+562	5696	Presumably so do you.	Presumably So do you.	272908	1471942933605	1471942933735	s	83
+562	5696	Presumably so do you.	Presumably So do you.	272913	1471942934079	1471942934152	u	85
+562	5696	Presumably so do you.	Presumably So do you.	273020	1471942935289	1471942935379	m	77
+562	5696	Presumably so do you.	Presumably So do you.	273022	1471942935441	1471942935591	a	65
+562	5696	Presumably so do you.	Presumably So do you.	273026	1471942935989	1471942936049	b	66
+562	5696	Presumably so do you.	Presumably So do you.	273028	1471942936425	1471942936521	l	76
+562	5696	Presumably so do you.	Presumably So do you.	273034	1471942936755	1471942936848	y	89
+562	5696	Presumably so do you.	Presumably So do you.	273155	1471942937161	1471942937250	 	32
+562	5696	Presumably so do you.	Presumably So do you.	273157	1471942937988	1471942938374	SHIFT	16
+562	5696	Presumably so do you.	Presumably So do you.	273159	1471942938320	1471942938467	S	83
+562	5696	Presumably so do you.	Presumably So do you.	273161	1471942938514	1471942938620	o	79
+562	5696	Presumably so do you.	Presumably So do you.	273164	1471942939248	1471942939358	 	32
+562	5696	Presumably so do you.	Presumably So do you.	273166	1471942939805	1471942939925	d	68
+562	5696	Presumably so do you.	Presumably So do you.	273219	1471942940007	1471942940094	o	79
+562	5696	Presumably so do you.	Presumably So do you.	273221	1471942940266	1471942940353	 	32
+562	5696	Presumably so do you.	Presumably So do you.	273222	1471942940911	1471942941013	y	89
+562	5696	Presumably so do you.	Presumably So do you.	273223	1471942941263	1471942941396	o	79
+562	5696	Presumably so do you.	Presumably So do you.	273225	1471942941459	1471942941565	u	85
+562	5696	Presumably so do you.	Presumably So do you.	273234	1471942941951	1471942942066	.	190
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273384	1471942943940	1471942944410	SHIFT	16
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273386	1471942944341	1471942944488	D	68
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273388	1471942944753	1471942944890	i	73
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273390	1471942944890	1471942945026	d	68
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273392	1471942945135	1471942945244	 	32
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273394	1471942945732	1471942945767	t	84
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273479	1471942946191	1471942946313	BKSP	8
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273480	1471942946625	1471942946732	y	89
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273481	1471942946826	1471942946902	o	79
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273482	1471942946996	1471942947086	u	85
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273484	1471942947588	1471942947671	 	32
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273486	1471942948206	1471942948275	e	69
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273534	1471942948588	1471942948705	v	86
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273537	1471942948805	1471942949010	e	69
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273542	1471942948954	1471942949073	r	82
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273546	1471942949401	1471942949509	 	32
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273551	1471942949759	1471942949861	h	72
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273627	1471942949904	1471942950042	e	69
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273630	1471942950198	1471942950358	a	65
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273635	1471942950699	1471942950828	r	82
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273638	1471942951520	1471942951601	 	32
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273642	1471942951805	1471942951947	a	65
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273670	1471942952008	1471942952087	n	78
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273673	1471942952275	1471942952355	y	89
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273676	1471942952574	1471942952670	t	84
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273679	1471942952748	1471942952824	h	72
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273682	1471942952964	1471942953073	i	73
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273712	1471942953315	1471942953407	n	78
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273713	1471942953563	1471942953656	g	71
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273714	1471942954000	1471942954294	SHIFT	16
+562	5708	Did you ever hear anything?.	Did you ever hear anything?	273715	1471942954206	1471942954356	?	191
+562	5719	Please send it to both of us.	Please send it to both of us.	273809	1471942956423	1471942956636	SHIFT	16
+562	5719	Please send it to both of us.	Please send it to both of us.	273811	1471942956610	1471942956702	P	80
+562	5719	Please send it to both of us.	Please send it to both of us.	273812	1471942956843	1471942956920	l	76
+562	5719	Please send it to both of us.	Please send it to both of us.	273814	1471942956951	1471942957068	e	69
+562	5719	Please send it to both of us.	Please send it to both of us.	273815	1471942957131	1471942957365	a	65
+562	5719	Please send it to both of us.	Please send it to both of us.	273911	1471942957330	1471942957455	s	83
+562	5719	Please send it to both of us.	Please send it to both of us.	273913	1471942958033	1471942958171	e	69
+562	5719	Please send it to both of us.	Please send it to both of us.	273921	1471942958468	1471942958557	 	32
+562	5719	Please send it to both of us.	Please send it to both of us.	273927	1471942958901	1471942959064	s	83
+562	5719	Please send it to both of us.	Please send it to both of us.	273931	1471942959591	1471942959711	e	69
+562	5719	Please send it to both of us.	Please send it to both of us.	273937	1471942960622	1471942960728	n	78
+562	5719	Please send it to both of us.	Please send it to both of us.	273962	1471942960728	1471942960849	d	68
+562	5719	Please send it to both of us.	Please send it to both of us.	273965	1471942960896	1471942960984	 	32
+562	5719	Please send it to both of us.	Please send it to both of us.	273968	1471942961502	1471942961619	i	73
+562	5719	Please send it to both of us.	Please send it to both of us.	273969	1471942961634	1471942961751	t	84
+562	5719	Please send it to both of us.	Please send it to both of us.	273972	1471942962033	1471942962136	t	84
+562	5719	Please send it to both of us.	Please send it to both of us.	274055	1471942962596	1471942962674	BKSP	8
+562	5719	Please send it to both of us.	Please send it to both of us.	274056	1471942962737	1471942962887	 	32
+562	5719	Please send it to both of us.	Please send it to both of us.	274057	1471942963607	1471942963755	t	84
+562	5719	Please send it to both of us.	Please send it to both of us.	274058	1471942963802	1471942963909	o	79
+562	5719	Please send it to both of us.	Please send it to both of us.	274059	1471942964176	1471942964231	 	32
+562	5719	Please send it to both of us.	Please send it to both of us.	274060	1471942964906	1471942964998	b	66
+562	5719	Please send it to both of us.	Please send it to both of us.	274163	1471942965180	1471942965266	o	79
+562	5719	Please send it to both of us.	Please send it to both of us.	274165	1471942965485	1471942965613	t	84
+562	5719	Please send it to both of us.	Please send it to both of us.	274167	1471942965660	1471942965750	h	72
+562	5719	Please send it to both of us.	Please send it to both of us.	274170	1471942966581	1471942966686	 	32
+562	5719	Please send it to both of us.	Please send it to both of us.	274173	1471942967329	1471942967439	o	79
+562	5719	Please send it to both of us.	Please send it to both of us.	274196	1471942967472	1471942967589	f	70
+562	5719	Please send it to both of us.	Please send it to both of us.	274197	1471942967636	1471942967709	 	32
+562	5719	Please send it to both of us.	Please send it to both of us.	274198	1471942968053	1471942968140	u	85
+562	5719	Please send it to both of us.	Please send it to both of us.	274199	1471942968172	1471942968307	s	83
+562	5719	Please send it to both of us.	Please send it to both of us.	274200	1471942968635	1471942968742	.	190
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274281	1471942970632	1471942971037	SHIFT	16
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274282	1471942970991	1471942971116	E	69
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274284	1471942971428	1471942971519	u	85
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274288	1471942971613	1471942971720	r	82
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274293	1471942971997	1471942972073	o	79
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274297	1471942972231	1471942972339	p	80
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274365	1471942972555	1471942972688	e	69
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274367	1471942973238	1471942973328	 	32
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274369	1471942973804	1471942973896	h	72
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274371	1471942973912	1471942974100	a	65
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274423	1471942974059	1471942974174	s	83
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274424	1471942974190	1471942974296	 	32
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274425	1471942974858	1471942974902	l	76
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274427	1471942975043	1471942975133	o	79
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274429	1471942975461	1471942975612	s	83
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274434	1471942975659	1471942975767	t	84
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274501	1471942976050	1471942976152	 	32
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274503	1471942976277	1471942976416	a	65
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274508	1471942976729	1471942976837	 	32
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274511	1471942977212	1471942977435	SHIFT	16
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274515	1471942977716	1471942977809	g	71
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274518	1471942977965	1471942978061	r	82
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274570	1471942978236	1471942978406	e	69
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274572	1471942978515	1471942978674	a	65
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274574	1471942978767	1471942978864	t	84
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274575	1471942979207	1471942979298	 	32
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274576	1471942980052	1471942980212	a	65
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274648	1471942980271	1471942980353	l	76
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274650	1471942980431	1471942980551	l	76
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274656	1471942980953	1471942981052	y	89
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274663	1471942981533	1471942981623	.	190
+562	5725	Europe has lost a great ally.	Europe has lost a great ally.	274669	1471942981842	1471942981889	SHIFT	16
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	274809	1471942984077	1471942984318	SHIFT	16
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	274811	1471942984280	1471942984396	C	67
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	274813	1471942984568	1471942984665	r	82
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	274815	1471942984837	1471942984965	e	69
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	274817	1471942986035	1471942986154	s	83
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	274818	1471942986843	1471942986941	t	84
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	274947	1471942987008	1471942987094	i	73
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	274949	1471942987484	1471942987577	BKSP	8
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	274952	1471942987827	1471942987928	o	79
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	274954	1471942988303	1471942988380	n	78
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	274956	1471942989763	1471942989882	e	69
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	274958	1471942990325	1471942990390	 	32
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275015	1471942990891	1471942991020	w	87
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275017	1471942991098	1471942991189	o	79
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275021	1471942991595	1471942991660	n	78
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275024	1471942992612	1471942992730	'	222
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275028	1471942992730	1471942992846	t	84
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275258	1471942997264	1471942997379	 	32
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275260	1471942997958	1471942998047	h	72
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275262	1471942998047	1471942998236	a	65
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275265	1471942998195	1471942998329	s	83
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275268	1471942998910	1471942999017	BKSP	8
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275273	1471942999267	1471942999398	v	86
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275326	1471942999448	1471942999583	e	69
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275328	1471942999849	1471942999954	 	32
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275330	1471943000643	1471943000770	f	70
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275332	1471943000833	1471943000940	i	73
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275333	1471943001049	1471943001157	n	78
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275439	1471943001215	1471943001355	a	65
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275440	1471943001418	1471943001510	;	186
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275441	1471943002074	1471943002193	BKSP	8
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275442	1471943002867	1471943002933	l	76
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275443	1471943003136	1471943003233	 	32
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275444	1471943004111	1471943004202	m	77
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275483	1471943004240	1471943004352	e	69
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275485	1471943004524	1471943004682	a	65
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275488	1471943004713	1471943004866	s	83
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275491	1471943005226	1471943005338	u	85
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275494	1471943005416	1471943005538	r	82
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275534	1471943005678	1471943005804	e	69
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275536	1471943006023	1471943006109	m	77
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275538	1471943006155	1471943006307	e	69
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275543	1471943006338	1471943006411	n	78
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275547	1471943006504	1471943006594	t	84
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275607	1471943006710	1471943006826	 	32
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275611	1471943007502	1471943007597	u	85
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275613	1471943007738	1471943007814	n	78
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275616	1471943008127	1471943008216	t	84
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275619	1471943008263	1471943008366	i	73
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275655	1471943008549	1471943008634	l	76
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275657	1471943008728	1471943008834	l	76
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275660	1471943009022	1471943009105	 	32
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275664	1471943009402	1471943009487	n	78
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275666	1471943009550	1471943009669	e	69
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275760	1471943009993	1471943010119	x	88
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275761	1471943010228	1471943010323	t	84
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275762	1471943010542	1471943010658	 	32
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275764	1471943011426	1471943011557	w	87
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275766	1471943011760	1471943011877	e	69
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275969	1471943011990	1471943012111	e	69
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275973	1471943012204	1471943012308	k	75
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275980	1471943012499	1471943012599	.	190
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275986	1471943015504	1471943015576	BKSP	8
+562	5736	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	275990	1471943016549	1471943016614	END	35
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276155	1471943018988	1471943019425	SHIFT	16
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276157	1471943019352	1471943019471	V	86
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276158	1471943019974	1471943020060	i	73
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276159	1471943020060	1471943020221	e	69
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276160	1471943020299	1471943020439	t	84
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276163	1471943021349	1471943021431	n	78
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276209	1471943021465	1471943021627	a	65
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276212	1471943021721	1471943021829	m	77
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276215	1471943021985	1471943022085	 	32
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276217	1471943022445	1471943022549	p	80
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276219	1471943022955	1471943023051	l	76
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276243	1471943023104	1471943023251	a	65
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276245	1471943023329	1471943023421	n	78
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276247	1471943023514	1471943023620	n	78
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276252	1471943023683	1471943023819	e	69
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276257	1471943023929	1471943024085	d	68
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276329	1471943024394	1471943024491	 	32
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276330	1471943024885	1471943024991	t	84
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276331	1471943025100	1471943025146	o	79
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276332	1471943025615	1471943025709	 	32
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276333	1471943025897	1471943025996	u	85
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276497	1471943027285	1471943027352	p	80
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276499	1471943028012	1471943028088	r	82
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276501	1471943028432	1471943028537	BKSP	8
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276503	1471943028679	1471943028773	g	71
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276506	1471943028929	1471943029056	r	82
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276508	1471943029683	1471943029823	a	65
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276632	1471943030280	1471943030393	d	68
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276633	1471943030503	1471943030612	e	69
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276634	1471943031146	1471943031216	 	32
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276635	1471943031560	1471943031648	i	73
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276636	1471943032984	1471943033087	t	84
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276678	1471943033103	1471943033235	s	83
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276680	1471943033329	1471943033407	 	32
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276685	1471943033672	1471943033819	c	67
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276689	1471943034085	1471943034190	u	85
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276690	1471943034362	1471943034444	r	82
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276734	1471943034543	1471943034643	r	82
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276737	1471943034752	1471943034876	e	69
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276741	1471943035331	1471943035444	n	78
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276743	1471943035444	1471943035562	t	84
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276745	1471943035734	1471943035830	 	32
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276786	1471943036316	1471943036438	f	70
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276788	1471943036641	1471943036733	l	76
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276790	1471943036780	1471943036900	e	69
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276792	1471943036994	1471943037117	e	69
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276794	1471943037226	1471943037318	t	84
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276866	1471943037619	1471943037703	 	32
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276870	1471943038490	1471943038573	o	79
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276873	1471943038636	1471943038756	f	70
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276875	1471943038819	1471943038909	 	32
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276878	1471943039065	1471943039862	SHIFT	16
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276916	1471943039786	1471943039913	S	83
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276920	1471943040100	1471943040195	o	79
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276922	1471943040352	1471943040494	v	86
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276923	1471943040572	1471943040681	i	73
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276926	1471943040791	1471943040945	e	69
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276928	1471943041101	1471943041214	t	84
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276993	1471943041468	1471943041581	 	32
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276995	1471943041956	1471943042098	a	65
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276997	1471943042427	1471943042504	i	73
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	276999	1471943042551	1471943042670	r	82
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	277001	1471943042998	1471943043088	c	67
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	277089	1471943043254	1471943043357	r	82
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	277091	1471943043546	1471943043687	e	69
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	277095	1471943044648	1471943044745	BKSP	8
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	277099	1471943044823	1471943044961	a	65
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	277103	1471943045164	1471943045263	f	70
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	277108	1471943045357	1471943045433	t	84
+562	5763	Vietnam planned to upgrade its current fleet of Soviet aircraft.	Vietnam planned to upgrade its current fleet of Soviet aircraft.	277136	1471943045951	1471943046067	.	190

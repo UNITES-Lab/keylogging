@@ -1,0 +1,647 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+1011	10448	Chris Foster is in!	Chis Foster is in!	500049	1471948602442	1471948602694	SHIFT	16
+1011	10448	Chris Foster is in!	Chis Foster is in!	500051	1471948602589	1471948602774	C	67
+1011	10448	Chris Foster is in!	Chis Foster is in!	500053	1471948602709	1471948602869	h	72
+1011	10448	Chris Foster is in!	Chis Foster is in!	500054	1471948603062	1471948603173	i	73
+1011	10448	Chris Foster is in!	Chis Foster is in!	500056	1471948603701	1471948603861	s	83
+1011	10448	Chris Foster is in!	Chis Foster is in!	500060	1471948603909	1471948604013	 	32
+1011	10448	Chris Foster is in!	Chis Foster is in!	500129	1471948604205	1471948604445	SHIFT	16
+1011	10448	Chris Foster is in!	Chis Foster is in!	500131	1471948604349	1471948604501	F	70
+1011	10448	Chris Foster is in!	Chis Foster is in!	500135	1471948604605	1471948604725	o	79
+1011	10448	Chris Foster is in!	Chis Foster is in!	500140	1471948604749	1471948604909	s	83
+1011	10448	Chris Foster is in!	Chis Foster is in!	500147	1471948604997	1471948605093	t	84
+1011	10448	Chris Foster is in!	Chis Foster is in!	500152	1471948605117	1471948605293	e	69
+1011	10448	Chris Foster is in!	Chis Foster is in!	500197	1471948605229	1471948605335	r	82
+1011	10448	Chris Foster is in!	Chis Foster is in!	500199	1471948605309	1471948605429	 	32
+1011	10448	Chris Foster is in!	Chis Foster is in!	500200	1471948605509	1471948605589	i	73
+1011	10448	Chris Foster is in!	Chis Foster is in!	500201	1471948605605	1471948605725	s	83
+1011	10448	Chris Foster is in!	Chis Foster is in!	500204	1471948605781	1471948605885	 	32
+1011	10448	Chris Foster is in!	Chis Foster is in!	500209	1471948606077	1471948606173	i	73
+1011	10448	Chris Foster is in!	Chis Foster is in!	500389	1471948606245	1471948606357	n	78
+1011	10448	Chris Foster is in!	Chis Foster is in!	500391	1471948607389	1471948608117	SHIFT	16
+1011	10448	Chris Foster is in!	Chis Foster is in!	500396	1471948608021	1471948608157	!	49
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500620	1471948611054	1471948611413	SHIFT	16
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500625	1471948611309	1471948611429	T	84
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500630	1471948611517	1471948611621	h	72
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500632	1471948611845	1471948611925	e	69
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500635	1471948612341	1471948612421	i	73
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500640	1471948612525	1471948612621	r	82
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500684	1471948612685	1471948612789	 	32
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500689	1471948612861	1471948612965	k	75
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500693	1471948613021	1471948613157	e	69
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500697	1471948613181	1471948613277	y	89
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500700	1471948613357	1471948613461	 	32
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500768	1471948613597	1471948613709	d	68
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500771	1471948613805	1471948613869	e	69
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500779	1471948613989	1471948614149	c	67
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500784	1471948614134	1471948614229	i	73
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500789	1471948614301	1471948614421	s	83
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500830	1471948614445	1471948614605	i	73
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500837	1471948614541	1471948614781	o	79
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500846	1471948614701	1471948614821	n	78
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500854	1471948614973	1471948615069	 	32
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500862	1471948615245	1471948615365	m	77
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500897	1471948615389	1471948615525	a	65
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500901	1471948615509	1471948615589	k	75
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500906	1471948615653	1471948615909	e	69
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500912	1471948615869	1471948616005	r	82
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500922	1471948616077	1471948616157	 	32
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500973	1471948616325	1471948616445	d	68
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500977	1471948616429	1471948616525	i	73
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500980	1471948616573	1471948616653	d	68
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500984	1471948616701	1471948616781	 	32
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	500988	1471948616877	1471948616989	n	78
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501014	1471948617013	1471948617133	o	79
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501019	1471948617109	1471948617253	t	84
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501021	1471948617269	1471948617365	 	32
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501023	1471948617493	1471948617589	s	83
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501027	1471948617605	1471948617725	h	72
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501096	1471948617749	1471948617869	o	79
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501101	1471948617885	1471948618021	w	87
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501106	1471948618149	1471948618245	 	32
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501109	1471948618685	1471948618845	w	87
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501112	1471948618893	1471948618989	h	72
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501162	1471948619037	1471948619117	i	73
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501166	1471948619157	1471948619277	c	67
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501170	1471948619341	1471948619421	h	72
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501173	1471948619717	1471948619813	 	32
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501177	1471948619965	1471948620069	i	73
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501211	1471948620117	1471948620213	s	83
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501213	1471948620237	1471948620357	 	32
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501219	1471948620477	1471948620573	n	78
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501224	1471948620621	1471948620725	o	79
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501232	1471948620741	1471948620845	t	84
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501304	1471948620861	1471948620941	 	32
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501307	1471948621061	1471948621181	a	65
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501309	1471948621247	1471948621365	 	32
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501312	1471948621821	1471948621901	g	71
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501315	1471948622037	1471948622117	o	79
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501336	1471948622181	1471948622277	o	79
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501341	1471948622325	1471948622405	d	68
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501347	1471948622501	1471948622581	 	32
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501355	1471948622685	1471948622805	s	83
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501363	1471948622821	1471948622901	i	73
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501490	1471948622981	1471948623061	g	71
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501491	1471948623221	1471948623317	n	78
+1011	10464	Their key decision maker did not show which is not a good sign.	Their key decision maker did not show which is not a good sign.	501494	1471948624269	1471948624341	.	190
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	501891	1471948629374	1471948630821	SHIFT	16
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	501884	1471948629709	1471948629789	F	70
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	501885	1471948629965	1471948630046	Y	89
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	501886	1471948630581	1471948630645	I	73
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	501897	1471948631149	1471948631229	,	188
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	501907	1471948631613	1471948631709	 	32
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	501971	1471948632053	1471948632157	w	87
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	501974	1471948632173	1471948632333	o	79
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	501980	1471948632294	1471948632389	u	85
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	501983	1471948632413	1471948632509	l	76
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	501988	1471948632717	1471948632837	d	68
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502055	1471948633085	1471948633181	 	32
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502058	1471948633333	1471948633437	s	83
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502064	1471948633453	1471948633557	h	72
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502069	1471948633605	1471948633701	e	69
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502073	1471948633741	1471948633837	 	32
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502115	1471948633933	1471948634013	m	77
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502119	1471948634085	1471948634165	e	69
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502122	1471948634245	1471948634405	e	69
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502126	1471948634453	1471948634573	t	84
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502129	1471948634621	1471948634717	 	32
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502177	1471948634781	1471948634877	m	77
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502184	1471948634965	1471948635069	y	89
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502189	1471948635141	1471948635221	 	32
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502196	1471948635333	1471948635549	r	82
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502251	1471948635454	1471948635589	e	69
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502257	1471948635677	1471948635789	q	81
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502261	1471948635773	1471948635893	u	85
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502267	1471948635959	1471948636053	i	73
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502272	1471948636117	1471948636237	r	82
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502280	1471948636477	1471948636557	e	69
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502344	1471948636773	1471948636869	m	77
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502354	1471948636933	1471948637069	e	69
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502349	1471948636973	1471948637054	n	78
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502361	1471948637158	1471948637277	t	84
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502370	1471948637397	1471948637477	s	83
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502455	1471948638181	1471948638437	SHIFT	16
+1011	10481	FYI, would she meet my requirements?	FYI, would she meet my requirements?	502458	1471948638357	1471948638477	?	191
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502611	1471948640885	1471948641061	SHIFT	16
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502615	1471948641005	1471948641141	T	84
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502617	1471948641165	1471948641249	h	72
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502619	1471948641221	1471948641365	e	69
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502620	1471948641381	1471948641501	 	32
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502622	1471948641653	1471948641773	c	67
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502642	1471948641837	1471948641973	a	65
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502644	1471948642021	1471948642125	u	85
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502647	1471948642141	1471948642261	s	83
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502651	1471948642325	1471948642445	e	69
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502655	1471948642485	1471948642605	 	32
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502672	1471948642629	1471948642725	o	79
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502677	1471948642773	1471948642933	d	68
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502681	1471948642869	1471948643013	 	32
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502686	1471948643029	1471948643189	t	84
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502793	1471948643133	1471948643205	h	72
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502795	1471948643309	1471948643405	 	32
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502798	1471948643877	1471948643981	BKSP	8
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502801	1471948644069	1471948644149	e	69
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502804	1471948644605	1471948644725	 	32
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502807	1471948644781	1471948644901	f	70
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502811	1471948644917	1471948645021	i	73
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502921	1471948645037	1471948645133	r	82
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502926	1471948645637	1471948645717	e	69
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502931	1471948646157	1471948646253	 	32
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502935	1471948646301	1471948646421	w	87
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502937	1471948646501	1471948646661	a	65
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502987	1471948646557	1471948646717	s	83
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502989	1471948646677	1471948646781	 	32
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502992	1471948646845	1471948646925	u	85
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502994	1471948647005	1471948647109	n	78
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	502997	1471948647088	1471948647181	d	68
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503001	1471948647285	1471948647485	e	69
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503065	1471948647405	1471948647565	r	82
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503067	1471948647581	1471948647701	 	32
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503071	1471948647829	1471948647909	i	73
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503077	1471948647981	1471948648077	n	78
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503079	1471948648197	1471948648317	v	86
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503083	1471948648397	1471948648493	e	69
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503158	1471948648685	1471948648805	s	83
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503161	1471948648933	1471948649037	t	84
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503164	1471948649085	1471948649181	i	73
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503167	1471948649333	1471948649453	g	71
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503170	1471948649509	1471948649645	a	65
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503250	1471948649701	1471948649821	t	84
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503257	1471948649797	1471948650013	i	73
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503263	1471948649917	1471948650118	o	79
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503267	1471948650037	1471948650157	n	78
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503271	1471948650853	1471948650933	,	188
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503405	1471948651221	1471948651325	 	32
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503414	1471948651645	1471948651789	p	80
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503422	1471948652389	1471948652493	o	79
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503427	1471948652605	1471948652725	l	76
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503433	1471948652797	1471948652878	i	73
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503476	1471948652997	1471948653093	c	67
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503482	1471948653205	1471948653309	e	69
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503488	1471948653357	1471948653453	 	32
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503493	1471948653509	1471948653629	s	83
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503499	1471948653709	1471948653869	a	65
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503662	1471948653885	1471948653965	i	73
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503665	1471948654173	1471948654277	d	68
+1011	10503	The cause of the fire was under investigation, police said.	The cause od the fire was under investigation, police said.	503671	1471948655350	1471948655429	.	190
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	503841	1471948657781	1471948657981	SHIFT	16
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	503846	1471948657925	1471948658085	T	84
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	503851	1471948658061	1471948658182	h	72
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	503858	1471948658157	1471948658277	e	69
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	503864	1471948658325	1471948658461	 	32
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	503867	1471948658485	1471948658677	o	79
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	503948	1471948658637	1471948658781	n	78
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	503950	1471948658821	1471948658917	l	76
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	503953	1471948659029	1471948659125	y	89
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	503956	1471948659789	1471948659909	 	32
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	503959	1471948659981	1471948660101	o	79
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	503964	1471948660149	1471948660285	t	84
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504002	1471948660301	1471948660381	h	72
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504004	1471948660405	1471948660581	e	69
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504007	1471948660501	1471948660645	r	82
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504009	1471948660701	1471948660821	 	32
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504012	1471948661205	1471948661325	p	80
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504071	1471948661413	1471948661493	o	79
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504077	1471948661653	1471948661773	t	84
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504084	1471948661877	1471948661997	e	69
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504087	1471948662053	1471948662149	n	78
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504091	1471948662245	1471948662349	t	84
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504185	1471948663038	1471948663133	i	73
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504188	1471948663333	1471948663413	a	65
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504195	1471948663477	1471948663557	l	76
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504201	1471948663653	1471948663757	 	32
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504206	1471948663845	1471948663949	o	79
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504246	1471948663965	1471948664029	f	70
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504249	1471948664093	1471948664173	f	70
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504254	1471948664237	1471948664317	i	73
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504261	1471948664357	1471948664429	c	67
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504265	1471948664525	1471948664621	e	69
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504321	1471948664669	1471948664789	 	32
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504322	1471948664829	1471948664997	i	73
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504323	1471948664998	1471948665077	s	83
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504324	1471948665157	1471948665253	 	32
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504526	1471948665669	1471948667077	SHIFT	16
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504327	1471948666125	1471948666205	E	69
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504517	1471948666341	1471948666461	O	79
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504520	1471948666717	1471948666821	T	84
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504524	1471948666901	1471948666997	T	84
+1011	10524	The only other potential office is EOTT.	The only other potential office is EOTT.	504529	1471948668181	1471948668260	.	110
+1011	10542	She has a web address.	She has a wen address.	504742	1471948670509	1471948670870	SHIFT	16
+1011	10542	She has a web address.	She has a wen address.	504746	1471948670773	1471948670925	S	83
+1011	10542	She has a web address.	She has a wen address.	504751	1471948670981	1471948671085	h	72
+1011	10542	She has a web address.	She has a wen address.	504757	1471948671125	1471948671205	e	69
+1011	10542	She has a web address.	She has a wen address.	504764	1471948671293	1471948671397	 	32
+1011	10542	She has a web address.	She has a wen address.	504770	1471948671878	1471948671973	h	72
+1011	10542	She has a web address.	She has a wen address.	504806	1471948672021	1471948672221	a	65
+1011	10542	She has a web address.	She has a wen address.	504809	1471948672141	1471948672301	s	83
+1011	10542	She has a web address.	She has a wen address.	504813	1471948672261	1471948672381	 	32
+1011	10542	She has a web address.	She has a wen address.	504816	1471948672461	1471948672597	a	65
+1011	10542	She has a web address.	She has a wen address.	504819	1471948672621	1471948672717	 	32
+1011	10542	She has a web address.	She has a wen address.	504884	1471948672805	1471948672925	w	87
+1011	10542	She has a web address.	She has a wen address.	504885	1471948673093	1471948673213	e	69
+1011	10542	She has a web address.	She has a wen address.	504886	1471948673333	1471948673437	n	78
+1011	10542	She has a web address.	She has a wen address.	504887	1471948673717	1471948673813	 	32
+1011	10542	She has a web address.	She has a wen address.	504889	1471948673989	1471948674109	a	65
+1011	10542	She has a web address.	She has a wen address.	504934	1471948674221	1471948674285	d	68
+1011	10542	She has a web address.	She has a wen address.	504939	1471948674365	1471948674485	d	68
+1011	10542	She has a web address.	She has a wen address.	504946	1471948674541	1471948674705	r	82
+1011	10542	She has a web address.	She has a wen address.	504950	1471948674677	1471948674797	e	69
+1011	10542	She has a web address.	She has a wen address.	504956	1471948674918	1471948674997	s	83
+1011	10542	She has a web address.	She has a wen address.	504986	1471948675078	1471948675141	s	83
+1011	10542	She has a web address.	She has a wen address.	504990	1471948675229	1471948675301	.	190
+1011	10551	This is very sensitive.	This is very sensitive.	505123	1471948677733	1471948677909	SHIFT	16
+1011	10551	This is very sensitive.	This is very sensitive.	505125	1471948677869	1471948677989	T	84
+1011	10551	This is very sensitive.	This is very sensitive.	505131	1471948678013	1471948678149	h	72
+1011	10551	This is very sensitive.	This is very sensitive.	505139	1471948678173	1471948678253	i	73
+1011	10551	This is very sensitive.	This is very sensitive.	505142	1471948678269	1471948678365	s	83
+1011	10551	This is very sensitive.	This is very sensitive.	505147	1471948678429	1471948678525	 	32
+1011	10551	This is very sensitive.	This is very sensitive.	505192	1471948678573	1471948678653	i	73
+1011	10551	This is very sensitive.	This is very sensitive.	505193	1471948678733	1471948678837	s	83
+1011	10551	This is very sensitive.	This is very sensitive.	505194	1471948678917	1471948679053	 	32
+1011	10551	This is very sensitive.	This is very sensitive.	505196	1471948679077	1471948679197	v	86
+1011	10551	This is very sensitive.	This is very sensitive.	505199	1471948679245	1471948679445	e	69
+1011	10551	This is very sensitive.	This is very sensitive.	505301	1471948679365	1471948679485	r	82
+1011	10551	This is very sensitive.	This is very sensitive.	505304	1471948679573	1471948679677	y	89
+1011	10551	This is very sensitive.	This is very sensitive.	505307	1471948680025	1471948680141	 	32
+1011	10551	This is very sensitive.	This is very sensitive.	505310	1471948680309	1471948680429	s	83
+1011	10551	This is very sensitive.	This is very sensitive.	505315	1471948680549	1471948680621	e	69
+1011	10551	This is very sensitive.	This is very sensitive.	505322	1471948681045	1471948681150	n	78
+1011	10551	This is very sensitive.	This is very sensitive.	505375	1471948681405	1471948681477	s	83
+1011	10551	This is very sensitive.	This is very sensitive.	505377	1471948681573	1471948681693	i	73
+1011	10551	This is very sensitive.	This is very sensitive.	505380	1471948681805	1471948681885	t	84
+1011	10551	This is very sensitive.	This is very sensitive.	505383	1471948681989	1471948682093	i	73
+1011	10551	This is very sensitive.	This is very sensitive.	505387	1471948682205	1471948682317	v	86
+1011	10551	This is very sensitive.	This is very sensitive.	505461	1471948682413	1471948682493	e	69
+1011	10551	This is very sensitive.	This is very sensitive.	505467	1471948683237	1471948683317	.	110
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505621	1471948685269	1471948685461	SHIFT	16
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505623	1471948685365	1471948685501	H	72
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505625	1471948685525	1471948685685	o	79
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505626	1471948685661	1471948685781	w	87
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505627	1471948685829	1471948685941	 	32
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505630	1471948686109	1471948686229	d	68
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505676	1471948686205	1471948686309	i	73
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505680	1471948686389	1471948686469	d	68
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505683	1471948686541	1471948686661	 	32
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505688	1471948686765	1471948686901	t	84
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505693	1471948686885	1471948686981	h	72
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505696	1471948687029	1471948687125	e	69
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505731	1471948687085	1471948687181	y	89
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505734	1471948687261	1471948687365	 	32
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505737	1471948687533	1471948687645	g	71
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505741	1471948687669	1471948687845	e	69
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505744	1471948687805	1471948687925	t	84
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505746	1471948687965	1471948688085	 	32
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505766	1471948688181	1471948688365	o	79
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505769	1471948688341	1471948688461	n	78
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505774	1471948688605	1471948688701	t	84
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505778	1471948688749	1471948688829	o	79
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505783	1471948688909	1471948689005	 	32
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505837	1471948689229	1471948689405	o	79
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505839	1471948689365	1471948689485	u	85
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505841	1471948689541	1471948689605	r	82
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505843	1471948689709	1471948689781	 	32
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505845	1471948689989	1471948690069	f	70
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505919	1471948690157	1471948690237	l	76
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505922	1471948690341	1471948690445	o	79
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505926	1471948690509	1471948690589	o	79
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505928	1471948690709	1471948690789	r	82
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505958	1471948691509	1471948691813	SHIFT	16
+1011	10558	How did they get onto our floor?	How did they get onto our floor?	505932	1471948691709	1471948691789	?	191
+1011	10568	Yes I like perfume.	Yes I like perfume.	506150	1471948694125	1471948694397	SHIFT	16
+1011	10568	Yes I like perfume.	Yes I like perfume.	506146	1471948694261	1471948694381	Y	89
+1011	10568	Yes I like perfume.	Yes I like perfume.	506156	1471948694509	1471948694629	e	69
+1011	10568	Yes I like perfume.	Yes I like perfume.	506160	1471948694741	1471948694821	s	83
+1011	10568	Yes I like perfume.	Yes I like perfume.	506162	1471948694934	1471948695029	 	32
+1011	10568	Yes I like perfume.	Yes I like perfume.	506194	1471948695093	1471948695293	SHIFT	16
+1011	10568	Yes I like perfume.	Yes I like perfume.	506167	1471948695173	1471948695277	I	73
+1011	10568	Yes I like perfume.	Yes I like perfume.	506198	1471948695349	1471948695469	 	32
+1011	10568	Yes I like perfume.	Yes I like perfume.	506201	1471948695581	1471948695677	l	76
+1011	10568	Yes I like perfume.	Yes I like perfume.	506203	1471948695741	1471948695837	i	73
+1011	10568	Yes I like perfume.	Yes I like perfume.	506207	1471948695917	1471948695997	k	75
+1011	10568	Yes I like perfume.	Yes I like perfume.	506211	1471948696013	1471948696157	e	69
+1011	10568	Yes I like perfume.	Yes I like perfume.	506257	1471948696221	1471948696325	 	32
+1011	10568	Yes I like perfume.	Yes I like perfume.	506261	1471948696773	1471948696893	p	80
+1011	10568	Yes I like perfume.	Yes I like perfume.	506265	1471948696981	1471948697125	e	69
+1011	10568	Yes I like perfume.	Yes I like perfume.	506271	1471948697061	1471948697181	r	82
+1011	10568	Yes I like perfume.	Yes I like perfume.	506275	1471948697397	1471948697493	f	70
+1011	10568	Yes I like perfume.	Yes I like perfume.	506345	1471948697637	1471948697901	u	85
+1011	10568	Yes I like perfume.	Yes I like perfume.	506348	1471948697902	1471948697981	m	77
+1011	10568	Yes I like perfume.	Yes I like perfume.	506355	1471948698069	1471948698149	e	69
+1011	10568	Yes I like perfume.	Yes I like perfume.	506365	1471948698965	1471948699085	.	110
+1011	10575	No need to send to FL.	No need to send to FL.	506495	1471948701101	1471948701396	SHIFT	16
+1011	10575	No need to send to FL.	No need to send to FL.	506491	1471948701221	1471948701340	N	78
+1011	10575	No need to send to FL.	No need to send to FL.	506499	1471948701421	1471948701541	o	79
+1011	10575	No need to send to FL.	No need to send to FL.	506502	1471948701661	1471948701757	 	32
+1011	10575	No need to send to FL.	No need to send to FL.	506507	1471948701861	1471948701957	n	78
+1011	10575	No need to send to FL.	No need to send to FL.	506510	1471948702069	1471948702125	e	69
+1011	10575	No need to send to FL.	No need to send to FL.	506537	1471948702189	1471948702269	e	69
+1011	10575	No need to send to FL.	No need to send to FL.	506539	1471948702389	1471948702533	d	68
+1011	10575	No need to send to FL.	No need to send to FL.	506541	1471948702549	1471948702669	 	32
+1011	10575	No need to send to FL.	No need to send to FL.	506545	1471948702717	1471948702837	t	84
+1011	10575	No need to send to FL.	No need to send to FL.	506621	1471948702813	1471948702917	o	79
+1011	10575	No need to send to FL.	No need to send to FL.	506622	1471948702965	1471948703085	 	32
+1011	10575	No need to send to FL.	No need to send to FL.	506623	1471948703101	1471948703248	s	83
+1011	10575	No need to send to FL.	No need to send to FL.	506624	1471948703325	1471948703389	e	69
+1011	10575	No need to send to FL.	No need to send to FL.	506625	1471948704141	1471948704245	n	78
+1011	10575	No need to send to FL.	No need to send to FL.	506626	1471948704493	1471948704574	d	68
+1011	10575	No need to send to FL.	No need to send to FL.	506684	1471948705237	1471948705333	 	32
+1011	10575	No need to send to FL.	No need to send to FL.	506686	1471948705389	1471948705485	t	84
+1011	10575	No need to send to FL.	No need to send to FL.	506688	1471948705541	1471948705661	o	79
+1011	10575	No need to send to FL.	No need to send to FL.	506690	1471948705709	1471948705813	 	32
+1011	10575	No need to send to FL.	No need to send to FL.	506749	1471948705829	1471948706389	SHIFT	16
+1011	10575	No need to send to FL.	No need to send to FL.	506692	1471948706013	1471948706149	F	70
+1011	10575	No need to send to FL.	No need to send to FL.	506745	1471948706205	1471948706285	L	76
+1011	10575	No need to send to FL.	No need to send to FL.	506753	1471948706469	1471948706549	.	190
+1011	10590	I hope this answers your question.	I hope this answers your question.	506867	1471948708997	1471948709533	SHIFT	16
+1011	10590	I hope this answers your question.	I hope this answers your question.	506869	1471948709429	1471948709549	I	73
+1011	10590	I hope this answers your question.	I hope this answers your question.	506873	1471948709629	1471948709749	 	32
+1011	10590	I hope this answers your question.	I hope this answers your question.	506874	1471948709829	1471948709949	h	72
+1011	10590	I hope this answers your question.	I hope this answers your question.	506876	1471948709973	1471948710109	o	79
+1011	10590	I hope this answers your question.	I hope this answers your question.	506879	1471948710165	1471948710285	p	80
+1011	10590	I hope this answers your question.	I hope this answers your question.	506926	1471948710357	1471948710437	e	69
+1011	10590	I hope this answers your question.	I hope this answers your question.	506927	1471948710605	1471948710725	 	32
+1011	10590	I hope this answers your question.	I hope this answers your question.	506928	1471948710821	1471948710941	t	84
+1011	10590	I hope this answers your question.	I hope this answers your question.	506929	1471948710885	1471948711005	h	72
+1011	10590	I hope this answers your question.	I hope this answers your question.	506931	1471948711053	1471948711149	i	73
+1011	10590	I hope this answers your question.	I hope this answers your question.	507006	1471948711245	1471948711341	s	83
+1011	10590	I hope this answers your question.	I hope this answers your question.	507007	1471948711325	1471948711445	 	32
+1011	10590	I hope this answers your question.	I hope this answers your question.	507008	1471948711997	1471948712117	a	65
+1011	10590	I hope this answers your question.	I hope this answers your question.	507009	1471948712157	1471948712237	n	78
+1011	10590	I hope this answers your question.	I hope this answers your question.	507011	1471948712501	1471948712581	s	83
+1011	10590	I hope this answers your question.	I hope this answers your question.	507052	1471948712813	1471948712853	w	87
+1011	10590	I hope this answers your question.	I hope this answers your question.	507054	1471948713101	1471948713221	e	69
+1011	10590	I hope this answers your question.	I hope this answers your question.	507055	1471948713293	1471948713389	r	82
+1011	10590	I hope this answers your question.	I hope this answers your question.	507056	1471948713542	1471948713621	s	83
+1011	10590	I hope this answers your question.	I hope this answers your question.	507057	1471948713765	1471948713837	 	32
+1011	10590	I hope this answers your question.	I hope this answers your question.	507079	1471948713949	1471948714045	u	89
+1011	10590	I hope this answers your question.	I hope this answers your question.	507084	1471948714085	1471948714221	o	79
+1011	10590	I hope this answers your question.	I hope this answers your question.	507088	1471948714165	1471948714261	u	85
+1011	10590	I hope this answers your question.	I hope this answers your question.	507090	1471948714365	1471948714445	r	82
+1011	10590	I hope this answers your question.	I hope this answers your question.	507175	1471948714677	1471948714757	BKSP	8
+1011	10590	I hope this answers your question.	I hope this answers your question.	507177	1471948714837	1471948714917	BKSP	8
+1011	10590	I hope this answers your question.	I hope this answers your question.	507179	1471948714981	1471948715061	BKSP	8
+1011	10590	I hope this answers your question.	I hope this answers your question.	507181	1471948715117	1471948715197	BKSP	8
+1011	10590	I hope this answers your question.	I hope this answers your question.	507185	1471948715381	1471948715525	o	79
+1011	10590	I hope this answers your question.	I hope this answers your question.	507189	1471948715541	1471948715645	u	85
+1011	10590	I hope this answers your question.	I hope this answers your question.	507196	1471948715749	1471948715829	r	82
+1011	10590	I hope this answers your question.	I hope this answers your question.	507201	1471948716021	1471948716141	 	32
+1011	10590	I hope this answers your question.	I hope this answers your question.	507206	1471948716317	1471948716453	q	81
+1011	10590	I hope this answers your question.	I hope this answers your question.	507216	1471948716477	1471948716557	u	85
+1011	10590	I hope this answers your question.	I hope this answers your question.	507219	1471948716653	1471948716757	e	69
+1011	10590	I hope this answers your question.	I hope this answers your question.	507223	1471948716845	1471948716965	s	83
+1011	10590	I hope this answers your question.	I hope this answers your question.	507227	1471948717029	1471948717125	t	84
+1011	10590	I hope this answers your question.	I hope this answers your question.	507286	1471948717069	1471948717269	i	73
+1011	10590	I hope this answers your question.	I hope this answers your question.	507289	1471948717165	1471948717389	o	79
+1011	10590	I hope this answers your question.	I hope this answers your question.	507292	1471948717349	1471948717429	n	78
+1011	10590	I hope this answers your question.	I hope this answers your question.	507297	1471948717861	1471948717981	.	190
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507451	1471948720269	1471948720485	SHIFT	16
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507455	1471948720389	1471948720525	M	77
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507458	1471948720549	1471948720645	o	79
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507461	1471948720709	1471948720845	s	83
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507463	1471948721029	1471948721133	t	84
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507466	1471948721245	1471948721381	 	32
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507513	1471948721645	1471948721829	r	82
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507517	1471948721765	1471948721909	e	69
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507521	1471948722053	1471948722173	c	67
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507525	1471948722229	1471948722389	e	69
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507599	1471948722373	1471948722509	n	78
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507601	1471948722493	1471948722605	t	84
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507604	1471948722693	1471948722789	 	32
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507610	1471948722925	1471948723045	s	83
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507616	1471948723333	1471948723429	u	85
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507623	1471948723557	1471948723653	r	82
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507670	1471948723821	1471948723941	v	86
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507676	1471948724005	1471948724101	e	69
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507680	1471948724237	1471948724333	y	89
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507684	1471948724485	1471948724589	s	83
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507688	1471948724645	1471948724781	 	32
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507734	1471948724821	1471948724965	p	80
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507741	1471948725005	1471948725085	u	85
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507752	1471948725181	1471948725261	t	84
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507758	1471948725397	1471948725517	 	32
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507764	1471948725597	1471948725693	t	84
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507806	1471948725717	1471948725813	h	72
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507809	1471948726029	1471948726149	e	69
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507811	1471948726294	1471948726413	m	77
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507814	1471948726557	1471948726637	 	32
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507817	1471948726685	1471948726781	i	73
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507855	1471948726829	1471948726933	n	78
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507858	1471948726989	1471948727085	 	32
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507867	1471948727181	1471948727301	a	65
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507873	1471948727357	1471948727477	 	32
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507878	1471948727581	1471948727661	d	68
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507982	1471948727801	1471948727877	e	69
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507986	1471948727997	1471948728117	a	65
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507991	1471948728229	1471948728309	t	84
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	507997	1471948728757	1471948728837	BKSP	8
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	508001	1471948728933	1471948728989	d	68
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	508006	1471948729349	1471948729445	 	32
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	508075	1471948729717	1471948729821	h	72
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	508081	1471948729933	1471948730037	e	69
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	508087	1471948730109	1471948730229	a	65
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	508092	1471948730365	1471948730461	t	84
+1011	10604	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	508098	1471948731189	1471948731293	.	110
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508246	1471948733149	1471948733389	SHIFT	16
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508248	1471948733309	1471948733445	T	84
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508252	1471948733485	1471948733581	h	72
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508255	1471948733701	1471948733797	e	69
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508262	1471948734213	1471948734293	 	32
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508269	1471948734605	1471948734701	c	67
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508332	1471948734821	1471948735037	e	69
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508335	1471948734997	1471948735117	r	82
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508340	1471948735405	1471948735509	o	79
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508345	1471948735845	1471948735941	BKSP	8
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508349	1471948736157	1471948736221	,	188
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508480	1471948736181	1471948736237	m	77
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508483	1471948736341	1471948736445	o	79
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508487	1471948736565	1471948736709	n	78
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508491	1471948736925	1471948737005	BKSP	8
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508495	1471948737085	1471948737165	BKSP	8
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508499	1471948737237	1471948737317	BKSP	8
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508503	1471948737397	1471948737501	BKSP	8
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508507	1471948738557	1471948738677	e	69
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508509	1471948738733	1471948738845	m	77
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508511	1471948738933	1471948739069	o	79
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508531	1471948739013	1471948739173	n	78
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508532	1471948739293	1471948739397	y	89
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508534	1471948739493	1471948739589	 	32
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508535	1471948739685	1471948739781	w	87
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508536	1471948739869	1471948740069	a	65
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508596	1471948739989	1471948740085	s	83
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508601	1471948740045	1471948740165	 	32
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508610	1471948740221	1471948740325	f	70
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508615	1471948740397	1471948740517	o	79
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508618	1471948740685	1471948740789	l	76
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508623	1471948740894	1471948740965	l	76
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508627	1471948741069	1471948741189	o	79
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508664	1471948741245	1471948741365	w	87
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508666	1471948741469	1471948741565	e	69
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508668	1471948741661	1471948741805	d	68
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508670	1471948741821	1471948741941	 	32
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508672	1471948742013	1471948742117	b	66
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508689	1471948742221	1471948742301	y	89
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508691	1471948742365	1471948742485	 	32
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508693	1471948742549	1471948742661	t	84
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508696	1471948742621	1471948742741	h	72
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508699	1471948742797	1471948742893	e	69
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508751	1471948742853	1471948743013	 	32
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508753	1471948743069	1471948743189	p	80
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508755	1471948743373	1471948743493	r	82
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508757	1471948743621	1471948743693	e	69
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508760	1471948743869	1471948743989	m	77
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508763	1471948744213	1471948744309	i	73
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508821	1471948745037	1471948745141	e	69
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508826	1471948745229	1471948745349	r	82
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508834	1471948745453	1471948745556	e	69
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508841	1471948745677	1471948745797	 	32
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508847	1471948745813	1471948745949	o	79
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508869	1471948745933	1471948746029	f	70
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508874	1471948746053	1471948746173	 	32
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508880	1471948746149	1471948746269	t	84
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508883	1471948746253	1471948746366	h	72
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508887	1471948746349	1471948746485	e	69
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508961	1471948746445	1471948746589	 	32
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508967	1471948746741	1471948746837	o	79
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508974	1471948747213	1471948747333	p	80
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508980	1471948747477	1471948747556	e	69
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508983	1471948747653	1471948747733	n	78
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	508987	1471948747797	1471948747917	i	73
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	509023	1471948747933	1471948748053	n	78
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	509029	1471948748029	1471948748133	g	71
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	509037	1471948748197	1471948748293	 	32
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	509043	1471948748405	1471948748525	f	70
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	509050	1471948748613	1471948748709	i	73
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	509134	1471948748821	1471948748925	l	76
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	509138	1471948749221	1471948749317	m	77
+1011	10617	The ceremony was followed by the premiere of the opening film.	The ceremony was followed by the premiere of the opening film.	509141	1471948750653	1471948750757	.	110
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509296	1471948752845	1471948753085	SHIFT	16
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509298	1471948753005	1471948753149	T	84
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509300	1471948753165	1471948753285	h	72
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509301	1471948753309	1471948753421	e	69
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509302	1471948753581	1471948753741	s	83
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509304	1471948753813	1471948753909	e	69
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509319	1471948753997	1471948754117	 	32
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509321	1471948754229	1471948754341	f	70
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509324	1471948754429	1471948754533	a	65
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509327	1471948754630	1471948754729	c	67
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509330	1471948754845	1471948754965	t	84
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509365	1471948754989	1471948755125	o	79
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509367	1471948755149	1471948755229	r	82
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509369	1471948755405	1471948755485	s	83
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509371	1471948755645	1471948755765	 	32
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509374	1471948755957	1471948756029	d	68
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509438	1471948756165	1471948756245	i	73
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509440	1471948756381	1471948756445	c	67
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509442	1471948756653	1471948756757	t	84
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509444	1471948756917	1471948757053	a	65
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509448	1471948757117	1471948757213	t	84
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509518	1471948757317	1471948757437	e	69
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509519	1471948757997	1471948758101	 	32
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509520	1471948758293	1471948758373	c	67
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509522	1471948758453	1471948758533	l	76
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509524	1471948758597	1471948758693	e	69
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509566	1471948758773	1471948758909	a	65
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509568	1471948759053	1471948759157	r	82
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509571	1471948759245	1471948759349	 	32
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509575	1471948759453	1471948759573	m	77
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509579	1471948759661	1471948759757	o	79
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509637	1471948760245	1471948760325	BKSP	8
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509642	1471948760413	1471948760517	BKSP	8
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509649	1471948761005	1471948761109	l	76
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509655	1471948761173	1471948761269	i	73
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509662	1471948761365	1471948761448	m	77
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509665	1471948761541	1471948761621	i	73
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509667	1471948761709	1471948761805	t	84
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509691	1471948761949	1471948762021	s	83
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509696	1471948762109	1471948762245	 	32
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509701	1471948762229	1471948762325	t	84
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509704	1471948762349	1471948762429	o	79
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509707	1471948762485	1471948762605	 	32
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509733	1471948762621	1471948762741	t	84
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509736	1471948762725	1471948762845	h	72
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509739	1471948762821	1471948762965	e	69
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509743	1471948762981	1471948763077	 	32
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509746	1471948763253	1471948763349	c	67
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509853	1471948763421	1471948763565	o	79
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509856	1471948763541	1471948763645	n	78
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509858	1471948765373	1471948765468	c	67
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509862	1471948765549	1471948765653	e	69
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509866	1471948765717	1471948765837	p	80
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509916	1471948765941	1471948766037	t	84
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509920	1471948766293	1471948766397	 	32
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509925	1471948766485	1471948766597	o	79
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509927	1471948766621	1471948766701	f	70
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509933	1471948766757	1471948766869	 	32
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509976	1471948767133	1471948767229	s	83
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509979	1471948767333	1471948767493	a	65
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509983	1471948767565	1471948767669	f	70
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509986	1471948767901	1471948767981	e	69
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	509989	1471948768101	1471948768205	 	32
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	510025	1471948768253	1471948768389	a	65
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	510027	1471948768461	1471948768597	r	82
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	510031	1471948768621	1471948768757	e	69
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	510037	1471948768837	1471948768933	a	65
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	510040	1471948769093	1471948769173	s	83
+1011	10637	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	510087	1471948769277	1471948769357	.	190
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510243	1471948771973	1471948772293	SHIFT	16
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510248	1471948772189	1471948772309	T	84
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510253	1471948772637	1471948772741	h	72
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510256	1471948772813	1471948772877	e	69
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510260	1471948773173	1471948773293	 	32
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510263	1471948773341	1471948773645	SHIFT	16
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510290	1471948773501	1471948773661	F	70
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510291	1471948773853	1471948773933	e	69
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510294	1471948774357	1471948774437	d	68
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510297	1471948774517	1471948774621	 	32
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510300	1471948774765	1471948774861	h	72
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510303	1471948774885	1471948775077	a	65
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510326	1471948775005	1471948775157	s	83
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510331	1471948775101	1471948775221	 	32
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510338	1471948775301	1471948775397	n	78
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510340	1471948775437	1471948775557	o	79
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510344	1471948775573	1471948775677	t	84
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510362	1471948775637	1471948775773	 	32
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510365	1471948775901	1471948775997	t	84
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510369	1471948776141	1471948776261	a	65
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510374	1471948776245	1471948776341	k	75
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510377	1471948776413	1471948776533	e	69
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510379	1471948776573	1471948776676	n	78
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510437	1471948776813	1471948776949	 	32
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510443	1471948777005	1471948777085	o	79
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510445	1471948777413	1471948777517	BKSP	8
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510447	1471948777605	1471948777701	a	65
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510450	1471948777741	1471948777837	n	78
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510453	1471948777989	1471948778045	 	32
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510503	1471948778237	1471948778373	o	79
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510507	1471948778501	1471948778557	f	70
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510513	1471948778613	1471948778693	f	70
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510516	1471948778765	1471948778869	i	73
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510519	1471948778885	1471948778965	c	67
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510631	1471948779085	1471948779205	a	65
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510634	1471948779845	1471948779941	BKSP	8
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510637	1471948780141	1471948780245	i	73
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510643	1471948780709	1471948780805	a	65
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510646	1471948780893	1471948780990	l	76
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510650	1471948781101	1471948781221	 	32
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510680	1471948781286	1471948781428	p	80
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510683	1471948781469	1471948781589	o	79
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510685	1471948781653	1471948781757	s	83
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510689	1471948781773	1471948781877	i	73
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510694	1471948781933	1471948782037	t	84
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510731	1471948782013	1471948782213	i	73
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510736	1471948782117	1471948782333	o	79
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510740	1471948782253	1471948782373	n	78
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510745	1471948782461	1471948782581	 	32
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510747	1471948782813	1471948782997	o	79
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510760	1471948782917	1471948783077	n	78
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510763	1471948783133	1471948783253	 	32
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510768	1471948783157	1471948783293	t	84
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510771	1471948783333	1471948783413	h	72
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510777	1471948783429	1471948783493	e	69
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510783	1471948783549	1471948783645	 	32
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510822	1471948783741	1471948783837	i	73
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510827	1471948784013	1471948784093	s	83
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510831	1471948784197	1471948784301	s	83
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510834	1471948784349	1471948784445	u	85
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510837	1471948784557	1471948784629	e	69
+1011	10652	The Fed has not taken an official position on the issue.	The Fed has not taken an official position on the issue.	510882	1471948785589	1471948786133	.	190

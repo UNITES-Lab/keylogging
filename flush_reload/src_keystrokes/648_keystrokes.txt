@@ -1,0 +1,613 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+648	6359	That's a lot of dollars.	That's a lot of dollars.	304932	1471992989170	1471992989906	SHIFT	16
+648	6359	That's a lot of dollars.	That's a lot of dollars.	304935	1471992989799	1471992989922	T	84
+648	6359	That's a lot of dollars.	That's a lot of dollars.	304938	1471992990047	1471992990142	h	72
+648	6359	That's a lot of dollars.	That's a lot of dollars.	304940	1471992990173	1471992990274	s	83
+648	6359	That's a lot of dollars.	That's a lot of dollars.	304946	1471992990306	1471992990393	t	84
+648	6359	That's a lot of dollars.	That's a lot of dollars.	304951	1471992990849	1471992990959	BKSP	8
+648	6359	That's a lot of dollars.	That's a lot of dollars.	304955	1471992991037	1471992991128	BKSP	8
+648	6359	That's a lot of dollars.	That's a lot of dollars.	304959	1471992992229	1471992992348	a	65
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305008	1471992992379	1471992992434	t	84
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305010	1471992993219	1471992993281	'	222
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305015	1471992993305	1471992993387	s	83
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305019	1471992993543	1471992993623	 	32
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305024	1471992993732	1471992993853	a	65
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305070	1471992993995	1471992994074	 	32
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305073	1471992994577	1471992994643	l	76
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305077	1471992994768	1471992994842	o	79
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305079	1471992995170	1471992995228	t	84
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305082	1471992995337	1471992995412	 	32
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305270	1471992996653	1471992996779	o	79
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305274	1471992996810	1471992996898	d	68
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305279	1471992997403	1471992997467	BKSP	8
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305285	1471992997545	1471992997634	f	70
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305292	1471992997744	1471992997836	 	32
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305298	1471992999343	1471992999455	d	68
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305407	1471992999518	1471992999607	p	80
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305410	1471993000427	1471993000496	BKSP	8
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305412	1471993000761	1471993000814	o	79
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305416	1471993001032	1471993001082	l	76
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305419	1471993001145	1471993001231	l	76
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305423	1471993001293	1471993001443	a	65
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305483	1471993001757	1471993001809	r	82
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305485	1471993001928	1471993002018	s	83
+648	6359	That's a lot of dollars.	That's a lot of dollars.	305487	1471993003289	1471993003353	.	190
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	305826	1471993009643	1471993010214	SHIFT	16
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	305830	1471993010149	1471993010261	I	73
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	305833	1471993010370	1471993010477	 	32
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	305835	1471993010711	1471993010765	w	87
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	305836	1471993010890	1471993011001	a	65
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	305837	1471993011235	1471993011315	n	78
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	305894	1471993011535	1471993011618	t	84
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	305897	1471993011930	1471993012003	e	69
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	305902	1471993012066	1471993012198	d	68
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	305909	1471993012276	1471993012368	 	32
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	305915	1471993013169	1471993013256	t	84
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	305938	1471993013289	1471993013369	o	79
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	305940	1471993013479	1471993013588	 	32
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	305943	1471993013870	1471993013943	g	71
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	305945	1471993013990	1471993014075	o	79
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	305947	1471993014199	1471993014293	 	32
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	306035	1471993015707	1471993015783	d	68
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	306037	1471993015892	1471993015983	r	82
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	306039	1471993016263	1471993016349	i	73
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	306041	1471993016521	1471993016601	n	78
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	306046	1471993016851	1471993016936	k	75
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	306137	1471993017032	1471993017120	i	73
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	306140	1471993017229	1471993017304	n	78
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	306142	1471993017522	1471993017604	g	71
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	306144	1471993018674	1471993018789	 	32
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	306147	1471993019544	1471993019644	w	87
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	306210	1471993019738	1471993019830	i	73
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	306212	1471993020158	1471993020230	t	84
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	306214	1471993020246	1471993020333	h	72
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	306218	1471993020427	1471993020515	 	32
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	306221	1471993021035	1471993021116	y	89
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	306292	1471993021131	1471993021217	o	79
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	306295	1471993021263	1471993021351	u	85
+648	6376	I wanted to go drinking with you.	I wanted to go drinking with you.	306297	1471993022356	1471993022406	.	190
+648	6388	Thanks for your concern.	Thanks for your concern.	306499	1471993026032	1471993026504	SHIFT	16
+648	6388	Thanks for your concern.	Thanks for your concern.	306505	1471993026428	1471993026504	T	84
+648	6388	Thanks for your concern.	Thanks for your concern.	306508	1471993026691	1471993026786	h	72
+648	6388	Thanks for your concern.	Thanks for your concern.	306510	1471993026817	1471993026921	a	65
+648	6388	Thanks for your concern.	Thanks for your concern.	306511	1471993027326	1471993027406	n	78
+648	6388	Thanks for your concern.	Thanks for your concern.	306512	1471993027515	1471993027626	k	75
+648	6388	Thanks for your concern.	Thanks for your concern.	306558	1471993028002	1471993028091	s	83
+648	6388	Thanks for your concern.	Thanks for your concern.	306561	1471993028232	1471993028324	 	32
+648	6388	Thanks for your concern.	Thanks for your concern.	306563	1471993028923	1471993029011	f	70
+648	6388	Thanks for your concern.	Thanks for your concern.	306565	1471993029089	1471993029161	o	79
+648	6388	Thanks for your concern.	Thanks for your concern.	306566	1471993029161	1471993029277	r	82
+648	6388	Thanks for your concern.	Thanks for your concern.	306648	1471993029341	1471993029429	 	32
+648	6388	Thanks for your concern.	Thanks for your concern.	306651	1471993030400	1471993030482	y	89
+648	6388	Thanks for your concern.	Thanks for your concern.	306653	1471993030529	1471993030631	o	79
+648	6388	Thanks for your concern.	Thanks for your concern.	306656	1471993030724	1471993030801	u	85
+648	6388	Thanks for your concern.	Thanks for your concern.	306658	1471993031176	1471993031237	r	82
+648	6388	Thanks for your concern.	Thanks for your concern.	306727	1471993031394	1471993031486	 	32
+648	6388	Thanks for your concern.	Thanks for your concern.	306728	1471993032473	1471993032572	c	67
+648	6388	Thanks for your concern.	Thanks for your concern.	306731	1471993032666	1471993032726	o	79
+648	6388	Thanks for your concern.	Thanks for your concern.	306734	1471993033195	1471993033277	n	78
+648	6388	Thanks for your concern.	Thanks for your concern.	306739	1471993033953	1471993034013	c	67
+648	6388	Thanks for your concern.	Thanks for your concern.	306814	1471993034061	1471993034176	e	69
+648	6388	Thanks for your concern.	Thanks for your concern.	306815	1471993034207	1471993034296	r	82
+648	6388	Thanks for your concern.	Thanks for your concern.	306816	1471993034546	1471993034616	m	77
+648	6388	Thanks for your concern.	Thanks for your concern.	306817	1471993035183	1471993035266	BKSP	8
+648	6388	Thanks for your concern.	Thanks for your concern.	306819	1471993036113	1471993036170	n	78
+648	6388	Thanks for your concern.	Thanks for your concern.	306821	1471993036785	1471993036871	.	190
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307143	1471993043973	1471993044448	SHIFT	16
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307145	1471993044337	1471993044464	W	87
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307149	1471993044635	1471993044731	e	69
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307156	1471993045688	1471993045738	'	222
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307164	1471993046366	1471993046470	r	82
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307172	1471993046470	1471993046557	e	69
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307246	1471993046838	1471993046984	 	32
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307247	1471993047707	1471993047778	h	72
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307248	1471993048105	1471993048227	e	69
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307249	1471993048242	1471993048358	r	82
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307250	1471993048374	1471993048492	e	69
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307326	1471993048744	1471993048855	 	32
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307328	1471993050165	1471993050268	t	84
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307330	1471993050393	1471993050485	o	79
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307332	1471993050625	1471993050705	 	32
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307334	1471993051596	1471993051675	q	81
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307391	1471993051770	1471993051857	u	85
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307393	1471993051872	1471993051975	a	65
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307396	1471993052560	1471993052627	l	76
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307398	1471993052752	1471993052827	i	73
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307400	1471993053472	1471993053547	f	70
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307465	1471993053563	1471993053646	y	89
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307467	1471993054259	1471993054333	 	32
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307469	1471993054977	1471993055057	i	73
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307471	1471993055166	1471993055252	n	78
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307473	1471993055362	1471993055457	 	32
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307503	1471993055707	1471993055789	t	84
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307507	1471993055805	1471993055891	h	72
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307510	1471993055938	1471993056022	e	69
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307512	1471993056053	1471993056154	 	32
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307513	1471993056706	1471993056808	s	83
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307556	1471993056918	1471993057008	e	69
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307559	1471993057195	1471993057275	c	67
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307562	1471993057556	1471993057643	o	79
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307565	1471993058539	1471993058630	n	78
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307568	1471993058630	1471993058725	d	68
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307621	1471993059306	1471993059416	 	32
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307623	1471993060356	1471993060438	o	79
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307626	1471993060941	1471993061007	r	82
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307629	1471993061147	1471993061241	 	32
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307631	1471993061570	1471993061657	t	84
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307657	1471993061657	1471993061757	h	72
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307660	1471993061788	1471993061901	i	73
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307662	1471993062504	1471993062581	r	82
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307663	1471993062674	1471993062777	d	68
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307664	1471993062902	1471993062982	 	32
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307713	1471993063936	1471993064034	r	82
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307714	1471993064112	1471993064202	o	79
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307715	1471993064607	1471993064689	w	87
+648	6401	We're here to qualify in the second or third row.	We're here to qualify in the second or third row.	307717	1471993065211	1471993065272	.	190
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308025	1471993074896	1471993075691	SHIFT	16
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308022	1471993075587	1471993075675	T	84
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308027	1471993075800	1471993075893	h	72
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308029	1471993076018	1471993076093	e	69
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308031	1471993076124	1471993076227	 	32
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308034	1471993076978	1471993077062	o	79
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308049	1471993077093	1471993077178	t	84
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308052	1471993077272	1471993077332	h	72
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308055	1471993077457	1471993077563	e	69
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308057	1471993077579	1471993077680	r	82
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308059	1471993077789	1471993077885	 	32
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308098	1471993078381	1471993078451	f	70
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308099	1471993078482	1471993078568	i	73
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308100	1471993078833	1471993078903	g	71
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308101	1471993079012	1471993079102	u	85
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308102	1471993079445	1471993079544	r	82
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308160	1471993079528	1471993079619	e	69
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308162	1471993079697	1471993079771	 	32
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308164	1471993080604	1471993080674	i	73
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308167	1471993080955	1471993081043	s	83
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308171	1471993081089	1471993081191	 	32
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308174	1471993081503	1471993081594	t	84
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308253	1471993081641	1471993081695	h	72
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308255	1471993081851	1471993081913	e	69
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308259	1471993082305	1471993082385	 	32
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308261	1471993083167	1471993083249	t	84
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308264	1471993083342	1471993083402	o	79
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308314	1471993083481	1471993083551	p	80
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308317	1471993083739	1471993083819	 	32
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308321	1471993084807	1471993084905	1	49
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308325	1471993085250	1471993085325	5	53
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308329	1471993085467	1471993085573	 	32
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308406	1471993086139	1471993086244	c	67
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308408	1471993086259	1471993086345	o	79
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308409	1471993086501	1471993086563	n	78
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308410	1471993087898	1471993088000	t	84
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308412	1471993088031	1471993088100	r	82
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308466	1471993088288	1471993088384	a	83
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308468	1471993088997	1471993089086	BKSP	8
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308472	1471993089133	1471993089228	a	65
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308475	1471993089756	1471993089840	c	67
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308478	1471993089902	1471993089974	t	84
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308551	1471993090272	1471993090344	s	83
+648	6424	The other figure is the top 15 contracts.	The other figure is the top 15 contrsacts.	308554	1471993091693	1471993091748	.	190
+648	6439	Talk to you later.	Talk to you later.	308668	1471993095526	1471993096228	SHIFT	16
+648	6439	Talk to you later.	Talk to you later.	308670	1471993096138	1471993096244	T	84
+648	6439	Talk to you later.	Talk to you later.	308672	1471993096779	1471993096895	a	65
+648	6439	Talk to you later.	Talk to you later.	308674	1471993096926	1471993097060	l	76
+648	6439	Talk to you later.	Talk to you later.	308677	1471993097060	1471993097164	k	75
+648	6439	Talk to you later.	Talk to you later.	308679	1471993097444	1471993097533	 	32
+648	6439	Talk to you later.	Talk to you later.	308702	1471993098536	1471993098589	t	84
+648	6439	Talk to you later.	Talk to you later.	308704	1471993098620	1471993098720	o	79
+648	6439	Talk to you later.	Talk to you later.	308706	1471993098814	1471993098919	 	32
+648	6439	Talk to you later.	Talk to you later.	308708	1471993099424	1471993099521	y	89
+648	6439	Talk to you later.	Talk to you later.	308762	1471993099506	1471993099606	o	79
+648	6439	Talk to you later.	Talk to you later.	308765	1471993099653	1471993099725	u	85
+648	6439	Talk to you later.	Talk to you later.	308768	1471993099819	1471993099922	 	32
+648	6439	Talk to you later.	Talk to you later.	308771	1471993100879	1471993100978	l	76
+648	6439	Talk to you later.	Talk to you later.	308776	1471993101025	1471993101189	a	65
+648	6439	Talk to you later.	Talk to you later.	308780	1471993101423	1471993101482	t	84
+648	6439	Talk to you later.	Talk to you later.	308834	1471993101529	1471993101614	e	69
+648	6439	Talk to you later.	Talk to you later.	308836	1471993101708	1471993101782	r	82
+648	6439	Talk to you later.	Talk to you later.	308837	1471993103387	1471993103438	.	190
+648	6447	Please let us know asap.	Please let us know asap.	309079	1471993108725	1471993109054	SHIFT	16
+648	6447	Please let us know asap.	Please let us know asap.	309085	1471993108974	1471993109054	P	80
+648	6447	Please let us know asap.	Please let us know asap.	309089	1471993109210	1471993109306	l	76
+648	6447	Please let us know asap.	Please let us know asap.	309093	1471993109571	1471993109641	e	69
+648	6447	Please let us know asap.	Please let us know asap.	309097	1471993109797	1471993109892	a	65
+648	6447	Please let us know asap.	Please let us know asap.	309101	1471993110048	1471993110142	s	83
+648	6447	Please let us know asap.	Please let us know asap.	309150	1471993110236	1471993110325	e	69
+648	6447	Please let us know asap.	Please let us know asap.	309152	1471993110419	1471993110542	 	32
+648	6447	Please let us know asap.	Please let us know asap.	309157	1471993111720	1471993111876	l	76
+648	6447	Please let us know asap.	Please let us know asap.	309162	1471993111876	1471993111966	e	69
+648	6447	Please let us know asap.	Please let us know asap.	309168	1471993112075	1471993112166	t	84
+648	6447	Please let us know asap.	Please let us know asap.	309229	1471993112231	1471993112316	 	32
+648	6447	Please let us know asap.	Please let us know asap.	309231	1471993112738	1471993112835	u	85
+648	6447	Please let us know asap.	Please let us know asap.	309232	1471993113210	1471993113318	s	83
+648	6447	Please let us know asap.	Please let us know asap.	309233	1471993113381	1471993113471	 	32
+648	6447	Please let us know asap.	Please let us know asap.	309234	1471993114084	1471993114173	k	75
+648	6447	Please let us know asap.	Please let us know asap.	309268	1471993114252	1471993114341	n	78
+648	6447	Please let us know asap.	Please let us know asap.	309269	1471993114435	1471993114541	o	79
+648	6447	Please let us know asap.	Please let us know asap.	309270	1471993115044	1471993115112	w	87
+648	6447	Please let us know asap.	Please let us know asap.	309271	1471993115283	1471993115378	 	32
+648	6447	Please let us know asap.	Please let us know asap.	309272	1471993115959	1471993116030	a	65
+648	6447	Please let us know asap.	Please let us know asap.	309367	1471993116095	1471993116196	s	83
+648	6447	Please let us know asap.	Please let us know asap.	309371	1471993116242	1471993116338	a	65
+648	6447	Please let us know asap.	Please let us know asap.	309376	1471993116949	1471993117018	p	80
+648	6447	Please let us know asap.	Please let us know asap.	309381	1471993117788	1471993117884	.	190
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309635	1471993126677	1471993127535	SHIFT	16
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309634	1471993127430	1471993127503	H	72
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309637	1471993127925	1471993128005	e	69
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309639	1471993128083	1471993128155	 	32
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309642	1471993128532	1471993128639	i	73
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309645	1471993128717	1471993128806	s	83
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309697	1471993128822	1471993128923	 	32
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309699	1471993129329	1471993129395	l	76
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309701	1471993129535	1471993129612	i	73
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309703	1471993130178	1471993130280	s	83
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309704	1471993130326	1471993130397	t	84
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309729	1471993130477	1471993130578	e	69
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309731	1471993130671	1471993130748	d	68
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309732	1471993130904	1471993130984	 	32
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309733	1471993131376	1471993131545	a	65
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309802	1471993131514	1471993131632	s	83
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309805	1471993131710	1471993131800	 	32
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309808	1471993132743	1471993132822	p	80
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309811	1471993133150	1471993133255	r	82
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309815	1471993133333	1471993133408	o	79
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309817	1471993133912	1471993133976	b	66
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309840	1471993133992	1471993134075	a	65
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309842	1471993134262	1471993134344	b	66
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309843	1471993134862	1471993134947	l	76
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309940	1471993134978	1471993135054	e	87
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309942	1471993135537	1471993135646	BKSP	8
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309947	1471993135708	1471993135767	BKSP	8
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309952	1471993136473	1471993136568	e	69
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309957	1471993136615	1471993136669	 	32
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309960	1471993137803	1471993137888	f	70
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309962	1471993137919	1471993138005	o	79
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	309965	1471993138005	1471993138108	r	82
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310050	1471993138204	1471993138290	 	32
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310057	1471993139345	1471993139708	SHIFT	16
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310054	1471993139579	1471993139692	M	77
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310059	1471993140145	1471993140216	o	79
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310062	1471993140387	1471993140451	n	78
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310066	1471993140843	1471993140938	d	68
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310092	1471993141018	1471993141117	a	65
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310091	1471993141034	1471993141081	CAPS_LOCK	20
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310093	1471993141351	1471993141419	Y	89
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310094	1471993141497	1471993141554	S	83
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310095	1471993142246	1471993142306	BKSP	8
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310096	1471993142556	1471993142608	'	222
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310097	1471993142702	1471993142804	S	83
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310267	1471993145290	1471993145384	BKSP	8
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310270	1471993145477	1471993145565	BKSP	8
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310275	1471993145643	1471993145717	BKSP	8
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310279	1471993146533	1471993146627	CAPS_LOCK	20
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310283	1471993148201	1471993148260	y	89
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310287	1471993149108	1471993149179	'	222
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310290	1471993149663	1471993149748	s	83
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310291	1471993149811	1471993149881	 	32
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310294	1471993151139	1471993151192	g	71
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310346	1471993151236	1471993151366	a	65
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310347	1471993151803	1471993151887	m	77
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310348	1471993151934	1471993152021	e	69
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310349	1471993152099	1471993152173	 	32
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310350	1471993153321	1471993153424	a	65
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310385	1471993153598	1471993153677	g	71
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310386	1471993153693	1471993153810	a	65
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310387	1471993153997	1471993154063	i	73
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310388	1471993154422	1471993154483	n	78
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310389	1471993154966	1471993155066	s	83
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310470	1471993155081	1471993155166	t	84
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310472	1471993155306	1471993155399	 	32
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310476	1471993155997	1471993156267	SHIFT	16
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310474	1471993156169	1471993156252	T	84
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310478	1471993157448	1471993157525	e	69
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310480	1471993158658	1471993158674	n	78
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310498	1471993158779	1471993158847	n	78
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310501	1471993158941	1471993159013	e	69
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310503	1471993159341	1471993159400	s	83
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310505	1471993159462	1471993159532	s	83
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310507	1471993159657	1471993159763	e	69
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310547	1471993160595	1471993160684	e	69
+648	6457	He is listed as probable for Monday's game against Tennessee.	He is listed as probable for Monday's game against Tennessee.	310550	1471993161896	1471993161973	.	190
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310688	1471993167583	1471993168093	SHIFT	16
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310687	1471993167978	1471993168062	I	73
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310690	1471993168546	1471993168630	t	84
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310692	1471993169067	1471993169134	'	222
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310694	1471993169384	1471993169452	s	83
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310698	1471993169514	1471993169600	 	32
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310739	1471993170260	1471993170337	a	65
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310740	1471993170447	1471993170490	l	76
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310741	1471993170583	1471993170640	l	76
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310742	1471993170780	1471993170840	 	32
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310744	1471993171439	1471993171555	a	65
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310783	1471993172137	1471993172211	b	66
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310785	1471993172305	1471993172408	o	79
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310787	1471993172549	1471993172628	u	85
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310789	1471993172909	1471993172979	t	84
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310791	1471993173057	1471993173145	 	32
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310812	1471993174008	1471993174067	m	77
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310813	1471993174145	1471993174248	a	65
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310814	1471993174279	1471993174350	k	75
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310815	1471993174475	1471993174551	i	73
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310816	1471993174692	1471993174784	n	78
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310879	1471993175239	1471993175321	f	70
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310881	1471993175855	1471993175955	BKSP	8
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310884	1471993176663	1471993176743	g	71
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310887	1471993176790	1471993176859	 	32
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310890	1471993178085	1471993178181	t	84
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310893	1471993178181	1471993178280	h	72
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310937	1471993178264	1471993178363	e	69
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310939	1471993178441	1471993178515	 	32
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310943	1471993179487	1471993179564	w	87
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310946	1471993179736	1471993179803	h	72
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310949	1471993179944	1471993180021	o	79
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310952	1471993180443	1471993180533	l	76
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	310999	1471993180784	1471993180873	e	69
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	311000	1471993181045	1471993181140	 	32
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	311001	1471993181940	1471993182059	s	83
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	311002	1471993182277	1471993182363	t	84
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	311003	1471993182410	1471993182495	o	79
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	311068	1471993182559	1471993182661	r	82
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	311072	1471993183021	1471993183129	y	89
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	311075	1471993183472	1471993183581	 	32
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	311078	1471993184413	1471993184487	p	80
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	311081	1471993184924	1471993184973	u	85
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	311141	1471993185556	1471993185625	b	66
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	311143	1471993185812	1471993185892	l	76
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	311145	1471993186095	1471993186159	i	73
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	311147	1471993186347	1471993186443	c	67
+648	6480	It's all about making the whole story public.	It's all about making the whole story public.	311149	1471993187243	1471993187313	.	190
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311314	1471993193228	1471993193670	SHIFT	16
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311318	1471993193607	1471993193701	I	73
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311322	1471993193810	1471993193901	 	32
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311326	1471993193995	1471993194133	a	65
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311329	1471993194195	1471993194270	m	77
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311332	1471993194410	1471993194489	 	32
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311379	1471993194865	1471993194970	m	77
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311383	1471993195554	1471993195625	e	69
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311387	1471993195703	1471993195807	e	69
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311391	1471993195963	1471993196044	t	84
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311394	1471993196154	1471993196258	i	73
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311460	1471993196479	1471993196561	n	78
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311462	1471993196607	1471993196694	g	71
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311464	1471993196757	1471993196830	 	32
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311466	1471993198133	1471993198235	w	87
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311470	1471993198251	1471993198349	i	73
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311497	1471993198569	1471993198653	t	84
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311498	1471993198668	1471993198767	h	72
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311501	1471993198846	1471993198951	 	32
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311504	1471993199782	1471993199888	m	77
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311506	1471993200029	1471993200091	y	89
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311534	1471993200326	1471993200425	 	32
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311536	1471993201209	1471993201310	d	68
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311539	1471993201341	1471993201427	i	73
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311542	1471993201692	1471993201795	r	82
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311547	1471993201811	1471993201913	e	69
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311576	1471993202085	1471993202180	c	67
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311578	1471993202260	1471993202347	t	84
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311580	1471993202566	1471993202649	 	32
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311582	1471993203673	1471993203783	r	82
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311638	1471993203768	1471993203853	e	69
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311639	1471993204405	1471993204475	p	80
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311640	1471993204755	1471993204842	o	79
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311641	1471993205185	1471993205305	r	82
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311642	1471993205476	1471993205543	d	68
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311643	1471993205948	1471993206060	BKSP	8
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311730	1471993206216	1471993206264	y	84
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311731	1471993206847	1471993206947	BKSP	8
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311733	1471993207337	1471993207416	d	68
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311735	1471993207919	1471993208033	BKSP	8
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311740	1471993208111	1471993208201	d	83
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311743	1471993208737	1471993208850	BKSP	8
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311747	1471993209308	1471993209450	 	32
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311750	1471993210444	1471993210573	a	65
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311799	1471993210573	1471993210676	t	84
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311802	1471993210801	1471993210909	 	32
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311806	1471993211461	1471993211592	1	49
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311809	1471993211686	1471993211813	 	32
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311811	1471993212991	1471993213085	t	84
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311847	1471993213101	1471993213202	o	79
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311848	1471993213296	1471993213385	 	32
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311850	1471993214472	1471993214589	w	87
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311852	1471993214885	1471993214991	o	79
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311854	1471993215210	1471993215292	r	82
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311889	1471993215464	1471993215559	k	75
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311890	1471993215668	1471993215778	 	32
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311891	1471993215887	1471993216025	o	79
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311893	1471993216212	1471993216326	n	78
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311895	1471993216451	1471993216548	 	32
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311960	1471993218070	1471993218167	r	82
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311962	1471993218183	1471993218284	e	69
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311965	1471993218550	1471993218629	c	67
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311968	1471993218879	1471993218940	o	79
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	311971	1471993219190	1471993219241	m	77
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	312014	1471993219321	1471993219407	m	77
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	312017	1471993219563	1471993219674	e	69
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	312021	1471993219768	1471993219858	n	78
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	312023	1471993220201	1471993220294	d	68
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	312026	1471993220388	1471993220524	a	65
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	312045	1471993220619	1471993220727	t	84
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	312048	1471993221154	1471993221230	i	73
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	312051	1471993221262	1471993221364	o	79
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	312054	1471993221520	1471993221614	n	78
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	312060	1471993221912	1471993222015	s	83
+648	6495	I am meeting with my direct reports at 1 to work on recommendations.	I am meeting with my direct reports at 1 to work on recommendations.	312089	1471993223225	1471993223290	.	190
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312379	1471993232901	1471993233341	SHIFT	16
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312382	1471993233282	1471993233387	I	73
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312384	1471993233793	1471993233858	t	84
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312385	1471993233952	1471993234057	 	32
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312386	1471993234369	1471993234490	w	87
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312387	1471993234537	1471993234627	o	79
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312440	1471993235161	1471993235230	u	85
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312442	1471993235860	1471993235949	l	76
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312443	1471993235995	1471993236081	d	68
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312444	1471993236144	1471993236247	 	32
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312445	1471993236879	1471993236953	l	76
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312464	1471993237063	1471993237152	e	69
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312465	1471993237339	1471993237405	s	83
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312466	1471993237484	1471993237587	s	83
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312468	1471993237743	1471993237838	e	69
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312471	1471993237933	1471993238023	n	78
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312495	1471993238133	1471993238223	 	32
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312497	1471993238629	1471993238707	t	84
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312499	1471993238754	1471993238841	h	72
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312503	1471993238935	1471993239040	a	65
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312506	1471993239056	1471993239143	t	84
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312569	1471993239253	1471993239358	 	32
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312571	1471993240693	1471993240796	a	65
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312573	1471993240890	1471993240967	n	78
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312575	1471993241767	1471993241851	x	88
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312579	1471993241976	1471993242038	i	73
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312645	1471993242461	1471993242570	e	69
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312649	1471993242695	1471993242771	t	84
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312652	1471993242896	1471993242989	y	89
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312655	1471993243161	1471993243256	 	32
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312657	1471993244040	1471993244127	t	84
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312680	1471993244142	1471993244243	h	72
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312683	1471993244383	1471993244479	a	65
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312684	1471993244479	1471993244578	t	84
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312686	1471993244703	1471993244796	 	32
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312689	1471993245488	1471993245566	t	84
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312766	1471993245599	1471993245698	h	72
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312768	1471993245729	1471993245817	e	69
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312770	1471993245879	1471993245966	 	32
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312772	1471993246923	1471993247019	o	79
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312774	1471993247222	1471993247274	f	70
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312805	1471993247369	1471993247439	f	70
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312809	1471993247548	1471993247624	i	73
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312813	1471993247967	1471993248072	c	67
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312819	1471993248229	1471993248371	e	69
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312827	1471993248402	1471993248484	r	82
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312916	1471993249945	1471993250033	s	83
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312918	1471993250183	1471993250287	 	32
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312920	1471993250639	1471993250763	a	65
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312921	1471993251220	1471993251317	r	82
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312922	1471993251333	1471993251433	e	69
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312976	1471993251466	1471993251569	 	32
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312978	1471993252021	1471993252105	f	70
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312981	1471993252183	1471993252319	a	65
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312984	1471993252537	1471993252638	c	67
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	312986	1471993252638	1471993252739	e	69
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	313076	1471993252912	1471993253024	d	68
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	313077	1471993253195	1471993253307	 	32
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	313078	1471993254155	1471993254260	w	87
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	313079	1471993254697	1471993254765	i	73
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	313080	1471993255030	1471993255100	t	84
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	313124	1471993255148	1471993255232	h	72
+648	6515	It would lessen that anxiety that the officers are faced with.	It would lessen that anxiety that the officers are faced with.	313127	1471993255815	1471993255885	.	190
+648	6535	Is she done yet?	Is she done yet?	313315	1471993259697	1471993260361	SHIFT	16
+648	6535	Is she done yet?	Is she done yet?	313312	1471993260186	1471993260315	I	73
+648	6535	Is she done yet?	Is she done yet?	313318	1471993260517	1471993260632	s	83
+648	6535	Is she done yet?	Is she done yet?	313321	1471993260710	1471993260801	 	32
+648	6535	Is she done yet?	Is she done yet?	313323	1471993260942	1471993261082	s	83
+648	6535	Is she done yet?	Is she done yet?	313325	1471993261144	1471993261236	h	72
+648	6535	Is she done yet?	Is she done yet?	313349	1471993261441	1471993261536	e	69
+648	6535	Is she done yet?	Is she done yet?	313350	1471993261614	1471993261736	 	32
+648	6535	Is she done yet?	Is she done yet?	313351	1471993262017	1471993262136	d	68
+648	6535	Is she done yet?	Is she done yet?	313352	1471993262198	1471993262275	o	79
+648	6535	Is she done yet?	Is she done yet?	313353	1471993262493	1471993262575	n	78
+648	6535	Is she done yet?	Is she done yet?	313396	1471993262733	1471993262844	e	69
+648	6535	Is she done yet?	Is she done yet?	313398	1471993262922	1471993263009	 	32
+648	6535	Is she done yet?	Is she done yet?	313401	1471993263462	1471993263544	y	89
+648	6535	Is she done yet?	Is she done yet?	313404	1471993263825	1471993263942	e	69
+648	6535	Is she done yet?	Is she done yet?	313409	1471993264005	1471993264111	t	84
+648	6535	Is she done yet?	Is she done yet?	313440	1471993264601	1471993264782	SHIFT	16
+648	6535	Is she done yet?	Is she done yet?	313443	1471993264710	1471993264860	?	191
+648	6543	Do we know what we need?	Do we know what we need?	313707	1471993269812	1471993270986	SHIFT	16
+648	6543	Do we know what we need?	Do we know what we need?	313710	1471993270898	1471993271017	D	68
+648	6543	Do we know what we need?	Do we know what we need?	313713	1471993271157	1471993271253	o	79
+648	6543	Do we know what we need?	Do we know what we need?	313715	1471993271409	1471993271505	 	32
+648	6543	Do we know what we need?	Do we know what we need?	313717	1471993271770	1471993271887	w	87
+648	6543	Do we know what we need?	Do we know what we need?	313858	1471993271872	1471993271973	e	69
+648	6543	Do we know what we need?	Do we know what we need?	313862	1471993272035	1471993272154	 	32
+648	6543	Do we know what we need?	Do we know what we need?	313865	1471993272799	1471993272877	k	75
+648	6543	Do we know what we need?	Do we know what we need?	313869	1471993273345	1471993273429	n	78
+648	6543	Do we know what we need?	Do we know what we need?	313873	1471993274309	1471993274366	o	79
+648	6543	Do we know what we need?	Do we know what we need?	313879	1471993274507	1471993274562	w	87
+648	6543	Do we know what we need?	Do we know what we need?	314020	1471993274903	1471993275001	 	32
+648	6543	Do we know what we need?	Do we know what we need?	314022	1471993275755	1471993275851	w	87
+648	6543	Do we know what we need?	Do we know what we need?	314025	1471993276163	1471993276270	h	72
+648	6543	Do we know what we need?	Do we know what we need?	314028	1471993276332	1471993276426	CAPS_LOCK	20
+648	6543	Do we know what we need?	Do we know what we need?	314033	1471993276457	1471993276540	T	84
+648	6543	Do we know what we need?	Do we know what we need?	314037	1471993277152	1471993277241	BKSP	8
+648	6543	Do we know what we need?	Do we know what we need?	314041	1471993277808	1471993277901	CAPS_LOCK	20
+648	6543	Do we know what we need?	Do we know what we need?	314044	1471993278073	1471993278225	a	65
+648	6543	Do we know what we need?	Do we know what we need?	314163	1471993278319	1471993278399	y	89
+648	6543	Do we know what we need?	Do we know what we need?	314167	1471993278805	1471993278881	BKSP	8
+648	6543	Do we know what we need?	Do we know what we need?	314169	1471993279131	1471993279201	y	84
+648	6543	Do we know what we need?	Do we know what we need?	314172	1471993279766	1471993279869	BKSP	8
+648	6543	Do we know what we need?	Do we know what we need?	314174	1471993280118	1471993280234	 	32
+648	6543	Do we know what we need?	Do we know what we need?	314175	1471993281049	1471993281225	w	87
+648	6543	Do we know what we need?	Do we know what we need?	314218	1471993281186	1471993281294	e	69
+648	6543	Do we know what we need?	Do we know what we need?	314225	1471993281403	1471993281538	 	32
+648	6543	Do we know what we need?	Do we know what we need?	314231	1471993282135	1471993282225	n	78
+648	6543	Do we know what we need?	Do we know what we need?	314235	1471993282413	1471993282463	e	69
+648	6543	Do we know what we need?	Do we know what we need?	314239	1471993282525	1471993282596	e	69
+648	6543	Do we know what we need?	Do we know what we need?	314243	1471993282721	1471993282795	d	68
+648	6543	Do we know what we need?	Do we know what we need?	314293	1471993283533	1471993283964	SHIFT	16
+648	6543	Do we know what we need?	Do we know what we need?	314290	1471993283851	1471993283948	?	191
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314643	1471993289148	1471993289654	SHIFT	16
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314645	1471993289585	1471993289716	H	72
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314647	1471993290314	1471993290436	o	79
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314648	1471993290436	1471993290568	w	87
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314649	1471993290615	1471993290721	 	32
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314650	1471993291033	1471993291123	d	68
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314623	1471993291172	1471993291258	i	73
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314625	1471993291274	1471993291372	d	68
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314631	1471993291513	1471993291608	 	32
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314635	1471993292533	1471993292612	t	84
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314729	1471993292612	1471993292695	h	72
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314732	1471993292820	1471993292944	e	69
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314739	1471993293147	1471993293246	y	89
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314743	1471993293340	1471993293445	 	32
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314747	1471993294641	1471993294718	g	71
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314854	1471993294703	1471993294800	e	69
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314856	1471993294847	1471993294921	t	84
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314857	1471993295061	1471993295152	 	32
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314858	1471993296271	1471993296341	o	79
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314859	1471993296544	1471993296593	m	77
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314860	1471993297029	1471993297111	BKSP	8
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314861	1471993297407	1471993297479	n	78
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314951	1471993297985	1471993298079	t	84
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314953	1471993298911	1471993298984	o	79
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314959	1471993299125	1471993299232	 	32
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314964	1471993299482	1471993299585	o	79
+648	6562	How did they get onto our floor?	How did they get onto our floor?	314968	1471993299710	1471993299786	u	85
+648	6562	How did they get onto our floor?	How did they get onto our floor?	315053	1471993300711	1471993300805	r	82
+648	6562	How did they get onto our floor?	How did they get onto our floor?	315055	1471993300852	1471993300956	 	32
+648	6562	How did they get onto our floor?	How did they get onto our floor?	315058	1471993301756	1471993301843	f	70
+648	6562	How did they get onto our floor?	How did they get onto our floor?	315063	1471993301936	1471993302042	l	76
+648	6562	How did they get onto our floor?	How did they get onto our floor?	315065	1471993302213	1471993302279	o	79
+648	6562	How did they get onto our floor?	How did they get onto our floor?	315115	1471993302359	1471993302446	o	79
+648	6562	How did they get onto our floor?	How did they get onto our floor?	315119	1471993302539	1471993302666	r	82
+648	6562	How did they get onto our floor?	How did they get onto our floor?	315122	1471993303480	1471993303700	SHIFT	16
+648	6562	How did they get onto our floor?	How did they get onto our floor?	315124	1471993303620	1471993303747	?	191
+648	6582	Can you try this again?	Can you try this again?	315551	1471993307572	1471993308139	SHIFT	16
+648	6582	Can you try this again?	Can you try this again?	315554	1471993308171	1471993308311	c	67
+648	6582	Can you try this again?	Can you try this again?	315558	1471993309710	1471993309836	\	220
+648	6582	Can you try this again?	Can you try this again?	315563	1471993310308	1471993310389	BKSP	8
+648	6582	Can you try this again?	Can you try this again?	315569	1471993310483	1471993310574	BKSP	8
+648	6582	Can you try this again?	Can you try this again?	315577	1471993311042	1471993311837	SHIFT	16
+648	6582	Can you try this again?	Can you try this again?	315573	1471993311644	1471993311790	C	67
+648	6582	Can you try this again?	Can you try this again?	315581	1471993312211	1471993312328	a	65
+648	6582	Can you try this again?	Can you try this again?	315584	1471993313190	1471993313268	n	78
+648	6582	Can you try this again?	Can you try this again?	315600	1471993313362	1471993313466	 	32
+648	6582	Can you try this again?	Can you try this again?	315603	1471993313888	1471993314000	y	89
+648	6582	Can you try this again?	Can you try this again?	315606	1471993313939	1471993314077	o	79
+648	6582	Can you try this again?	Can you try this again?	315608	1471993314155	1471993314220	u	85
+648	6582	Can you try this again?	Can you try this again?	315609	1471993314251	1471993314338	 	32
+648	6582	Can you try this again?	Can you try this again?	315697	1471993315689	1471993315793	t	84
+648	6582	Can you try this again?	Can you try this again?	315699	1471993315760	1471993315873	r	82
+648	6582	Can you try this again?	Can you try this again?	315701	1471993315951	1471993316043	y	89
+648	6582	Can you try this again?	Can you try this again?	315702	1471993316214	1471993316325	 	32
+648	6582	Can you try this again?	Can you try this again?	315703	1471993317080	1471993317163	t	84
+648	6582	Can you try this again?	Can you try this again?	315819	1471993317163	1471993317246	h	72
+648	6582	Can you try this again?	Can you try this again?	315823	1471993317777	1471993317849	i	73
+648	6582	Can you try this again?	Can you try this again?	315827	1471993317912	1471993318000	s	83
+648	6582	Can you try this again?	Can you try this again?	315833	1471993318063	1471993318165	 	32
+648	6582	Can you try this again?	Can you try this again?	315839	1471993318702	1471993318818	a	65
+648	6582	Can you try this again?	Can you try this again?	315843	1471993319742	1471993319807	g	71
+648	6582	Can you try this again?	Can you try this again?	315933	1471993319839	1471993319938	a	65
+648	6582	Can you try this again?	Can you try this again?	315936	1471993320328	1471993320408	i	73
+648	6582	Can you try this again?	Can you try this again?	315938	1471993320564	1471993320628	n	78
+648	6582	Can you try this again?	Can you try this again?	315942	1471993320987	1471993321398	SHIFT	16
+648	6582	Can you try this again?	Can you try this again?	315940	1471993321127	1471993321227	?	191

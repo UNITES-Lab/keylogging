@@ -1,0 +1,701 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+299	2634	Let's think out of the box.	Lets's think out of the box	128148	1471938875307	1471938875496	SHIFT	16
+299	2634	Let's think out of the box.	Lets's think out of the box	128150	1471938875431	1471938875496	L	76
+299	2634	Let's think out of the box.	Lets's think out of the box	128152	1471938875808	1471938875863	e	69
+299	2634	Let's think out of the box.	Lets's think out of the box	128156	1471938875972	1471938876014	t	84
+299	2634	Let's think out of the box.	Lets's think out of the box	128158	1471938876092	1471938876146	s	83
+299	2634	Let's think out of the box.	Lets's think out of the box	128163	1471938877619	1471938877679	'	222
+299	2634	Let's think out of the box.	Lets's think out of the box	128243	1471938877836	1471938877901	s	83
+299	2634	Let's think out of the box.	Lets's think out of the box	128245	1471938877994	1471938878064	 	32
+299	2634	Let's think out of the box.	Lets's think out of the box	128248	1471938879255	1471938879312	t	84
+299	2634	Let's think out of the box.	Lets's think out of the box	128251	1471938879484	1471938879577	h	72
+299	2634	Let's think out of the box.	Lets's think out of the box	128257	1471938879671	1471938879745	i	73
+299	2634	Let's think out of the box.	Lets's think out of the box	128360	1471938879934	1471938879996	n	78
+299	2634	Let's think out of the box.	Lets's think out of the box	128362	1471938880168	1471938880245	k	75
+299	2634	Let's think out of the box.	Lets's think out of the box	128365	1471938881029	1471938881080	 	32
+299	2634	Let's think out of the box.	Lets's think out of the box	128367	1471938881690	1471938881762	o	79
+299	2634	Let's think out of the box.	Lets's think out of the box	128369	1471938881902	1471938881982	u	85
+299	2634	Let's think out of the box.	Lets's think out of the box	128452	1471938882046	1471938882112	t	84
+299	2634	Let's think out of the box.	Lets's think out of the box	128455	1471938882630	1471938882728	 	32
+299	2634	Let's think out of the box.	Lets's think out of the box	128457	1471938883180	1471938883230	o	79
+299	2634	Let's think out of the box.	Lets's think out of the box	128460	1471938883464	1471938883544	f	70
+299	2634	Let's think out of the box.	Lets's think out of the box	128462	1471938883607	1471938883709	 	32
+299	2634	Let's think out of the box.	Lets's think out of the box	128487	1471938883774	1471938883830	t	84
+299	2634	Let's think out of the box.	Lets's think out of the box	128488	1471938883893	1471938883946	h	72
+299	2634	Let's think out of the box.	Lets's think out of the box	128489	1471938884039	1471938884112	e	69
+299	2634	Let's think out of the box.	Lets's think out of the box	128490	1471938884158	1471938884243	 	32
+299	2634	Let's think out of the box.	Lets's think out of the box	128491	1471938884386	1471938884461	b	66
+299	2634	Let's think out of the box.	Lets's think out of the box	128593	1471938884588	1471938884646	o	79
+299	2634	Let's think out of the box.	Lets's think out of the box	128595	1471938884895	1471938884978	x	88
+299	2661	Do you have a number for him?	Do you have a number for him?	128906	1471938891762	1471938892179	SHIFT	16
+299	2661	Do you have a number for him?	Do you have a number for him?	128908	1471938892123	1471938892179	D	68
+299	2661	Do you have a number for him?	Do you have a number for him?	128912	1471938892585	1471938892645	o	79
+299	2661	Do you have a number for him?	Do you have a number for him?	128917	1471938892864	1471938892929	 	32
+299	2661	Do you have a number for him?	Do you have a number for him?	128922	1471938893287	1471938893345	y	89
+299	2661	Do you have a number for him?	Do you have a number for him?	128926	1471938893564	1471938893644	o	79
+299	2661	Do you have a number for him?	Do you have a number for him?	128950	1471938893785	1471938893830	u	85
+299	2661	Do you have a number for him?	Do you have a number for him?	128952	1471938894002	1471938894078	 	32
+299	2661	Do you have a number for him?	Do you have a number for him?	128955	1471938894203	1471938894246	h	72
+299	2661	Do you have a number for him?	Do you have a number for him?	128961	1471938894293	1471938894393	a	65
+299	2661	Do you have a number for him?	Do you have a number for him?	128967	1471938894424	1471938894494	v	86
+299	2661	Do you have a number for him?	Do you have a number for him?	129041	1471938894574	1471938894661	e	69
+299	2661	Do you have a number for him?	Do you have a number for him?	129045	1471938895256	1471938895328	 	32
+299	2661	Do you have a number for him?	Do you have a number for him?	129050	1471938895390	1471938895493	a	65
+299	2661	Do you have a number for him?	Do you have a number for him?	129056	1471938895571	1471938895629	 	32
+299	2661	Do you have a number for him?	Do you have a number for him?	129060	1471938895769	1471938895829	n	78
+299	2661	Do you have a number for him?	Do you have a number for him?	129102	1471938895987	1471938896061	u	85
+299	2661	Do you have a number for him?	Do you have a number for him?	129107	1471938896217	1471938896294	m	77
+299	2661	Do you have a number for him?	Do you have a number for him?	129112	1471938896497	1471938896563	b	66
+299	2661	Do you have a number for him?	Do you have a number for him?	129117	1471938896640	1471938896710	e	69
+299	2661	Do you have a number for him?	Do you have a number for him?	129121	1471938896866	1471938896912	r	82
+299	2661	Do you have a number for him?	Do you have a number for him?	129168	1471938896977	1471938897044	 	32
+299	2661	Do you have a number for him?	Do you have a number for him?	129171	1471938897138	1471938897210	f	70
+299	2661	Do you have a number for him?	Do you have a number for him?	129176	1471938897335	1471938897394	o	79
+299	2661	Do you have a number for him?	Do you have a number for him?	129181	1471938897519	1471938897578	r	82
+299	2661	Do you have a number for him?	Do you have a number for him?	129186	1471938897689	1471938897760	 	32
+299	2661	Do you have a number for him?	Do you have a number for him?	129359	1471938897948	1471938898112	h	72
+299	2661	Do you have a number for him?	Do you have a number for him?	129363	1471938898074	1471938898174	i	73
+299	2661	Do you have a number for him?	Do you have a number for him?	129369	1471938898377	1471938898443	m	77
+299	2661	Do you have a number for him?	Do you have a number for him?	129382	1471938899055	1471938899492	SHIFT	16
+299	2661	Do you have a number for him?	Do you have a number for him?	129375	1471938899398	1471938899445	?	191
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129635	1471938904117	1471938904493	SHIFT	16
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129632	1471938904416	1471938904477	H	72
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129639	1471938904743	1471938904827	e	69
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129641	1471938905360	1471938905426	 	32
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129643	1471938905660	1471938905787	s	83
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129690	1471938905742	1471938905874	a	65
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129692	1471938905967	1471938906027	i	73
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129696	1471938906121	1471938906178	d	68
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129703	1471938906711	1471938906778	 	32
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129709	1471938907074	1471938907127	h	72
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129712	1471938907205	1471938907261	e	69
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129776	1471938907402	1471938907461	 	32
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129779	1471938908400	1471938908476	w	87
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129783	1471938908664	1471938908728	o	79
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129788	1471938908884	1471938908944	u	85
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129795	1471938909193	1471938909260	l	76
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129868	1471938909371	1471938909412	d	68
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129871	1471938910133	1471938910213	 	32
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129872	1471938910540	1471938910610	l	76
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129874	1471938910703	1471938910745	e	69
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129876	1471938910947	1471938911027	a	65
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129949	1471938911107	1471938911160	r	82
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129954	1471938911535	1471938911610	n	78
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129960	1471938912094	1471938912160	 	32
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129967	1471938912457	1471938912511	m	77
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	129974	1471938912651	1471938912716	o	79
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130047	1471938912828	1471938912955	r	82
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130049	1471938912955	1471938913057	e	69
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130052	1471938913353	1471938913426	 	32
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130059	1471938913566	1471938913674	a	65
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130064	1471938913830	1471938913910	b	66
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130133	1471938914068	1471938914143	o	79
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130138	1471938914299	1471938914360	u	85
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130143	1471938914454	1471938914510	t	84
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130151	1471938915010	1471938915076	 	32
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130158	1471938915389	1471938915429	t	84
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130233	1471938915509	1471938915569	h	72
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130234	1471938915662	1471938915727	e	69
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130235	1471938915914	1471938915993	 	32
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130237	1471938916495	1471938916560	i	73
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130239	1471938916747	1471938916811	n	78
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130282	1471938917094	1471938917160	j	74
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130285	1471938917254	1471938917310	u	85
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130286	1471938917482	1471938917528	r	82
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130287	1471938917591	1471938917629	y	89
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130288	1471938918240	1471938918310	 	32
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130319	1471938918452	1471938918548	a	65
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130323	1471938918719	1471938918808	s	83
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130327	1471938918886	1471938918960	 	32
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130329	1471938919070	1471938919128	t	84
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130331	1471938919221	1471938919261	h	72
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130440	1471938920577	1471938920644	e	69
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130442	1471938920753	1471938920826	 	32
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130445	1471938920873	1471938920958	w	87
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130446	1471938921648	1471938921697	e	69
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130448	1471938921775	1471938921844	e	69
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130567	1471938922847	1471938922926	k	75
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130570	1471938923772	1471938923842	 	32
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130573	1471938924486	1471938924559	p	80
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130575	1471938924731	1471938924793	r	82
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130577	1471938924918	1471938924977	o	79
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130660	1471938925527	1471938925594	g	71
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130663	1471938925750	1471938925811	r	82
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130667	1471938925920	1471938925992	e	69
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130669	1471938926901	1471938926961	s	83
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130672	1471938927039	1471938927109	s	83
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130782	1471938927266	1471938927327	e	69
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130784	1471938927499	1471938927547	d	68
+299	2674	He said he would learn more about the injury as the week progressed.	He said he would learn more about the injury as the week progressed.	130787	1471938928269	1471938928327	.	190
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	130960	1471938933416	1471938933992	SHIFT	16
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	130958	1471938933904	1471938933976	I	73
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	130962	1471938934603	1471938934675	 	32
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	130963	1471938934894	1471938935123	SHIFT	16
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	130964	1471938935081	1471938935159	W	87
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	130965	1471938935269	1471938935358	a	65
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	130967	1471938935482	1471938935559	s	83
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131081	1471938935607	1471938935645	t	84
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131083	1471938936867	1471938936926	'	222
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131085	1471938937363	1471938937427	t	84
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131087	1471938937879	1471938937928	 	32
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131089	1471938938365	1471938938442	a	65
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131130	1471938938569	1471938938643	s	83
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131134	1471938938705	1471938938775	 	32
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131139	1471938938965	1471938939026	p	80
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131143	1471938939152	1471938939257	r	82
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131146	1471938939257	1471938939341	e	69
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131203	1471938940627	1471938940677	p	80
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131205	1471938940708	1471938940807	a	65
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131206	1471938941041	1471938941140	r	82
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131208	1471938941125	1471938941208	e	69
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131209	1471938941332	1471938941412	d	68
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131288	1471938942027	1471938942109	 	32
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131290	1471938942140	1471938942257	a	65
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131292	1471938942397	1471938942476	s	83
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131294	1471938942554	1471938942625	 	32
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131298	1471938942937	1471938943394	SHIFT	16
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131364	1471938943770	1471938944251	SHIFT	16
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131302	1471938944035	1471938944093	I	73
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131366	1471938944752	1471938944826	 	32
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131367	1471938945075	1471938945142	w	87
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131368	1471938945298	1471938945346	i	73
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131369	1471938945518	1471938945561	l	76
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131370	1471938945655	1471938945710	l	76
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131447	1471938945976	1471938946042	 	32
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131449	1471938946545	1471938946626	b	66
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131451	1471938946704	1471938946744	e	69
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131453	1471938947196	1471938947276	 	32
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131456	1471938947557	1471938947611	t	84
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131503	1471938947659	1471938947828	h	72
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131507	1471938947787	1471938947906	i	73
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131509	1471938947984	1471938948075	s	83
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131512	1471938948293	1471938948375	 	32
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131513	1471938949112	1471938949160	y	89
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131636	1471938949272	1471938949342	e	69
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131638	1471938949482	1471938949574	a	65
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131640	1471938949606	1471938949659	r	82
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131641	1471938950536	1471938950646	SHIFT	16
+299	2703	I wasn't as prepared as I will be this year.	I Wast't as prepared as I will be this year.	131642	1471938950851	1471938950925	.	190
+299	2723	Thank you for all your help.	Thank you for all your help.	131783	1471938955547	1471938955875	SHIFT	16
+299	2723	Thank you for all your help.	Thank you for all your help.	131781	1471938955800	1471938955843	T	84
+299	2723	Thank you for all your help.	Thank you for all your help.	131785	1471938955969	1471938956010	h	72
+299	2723	Thank you for all your help.	Thank you for all your help.	131788	1471938956057	1471938956141	a	65
+299	2723	Thank you for all your help.	Thank you for all your help.	131794	1471938956375	1471938956443	n	78
+299	2723	Thank you for all your help.	Thank you for all your help.	131797	1471938956614	1471938956661	k	75
+299	2723	Thank you for all your help.	Thank you for all your help.	131866	1471938957382	1471938957446	 	32
+299	2723	Thank you for all your help.	Thank you for all your help.	131869	1471938958119	1471938958161	y	89
+299	2723	Thank you for all your help.	Thank you for all your help.	131871	1471938958286	1471938958328	o	79
+299	2723	Thank you for all your help.	Thank you for all your help.	131875	1471938958484	1471938958543	u	85
+299	2723	Thank you for all your help.	Thank you for all your help.	131877	1471938958746	1471938958826	 	32
+299	2723	Thank you for all your help.	Thank you for all your help.	131924	1471938958952	1471938958995	f	70
+299	2723	Thank you for all your help.	Thank you for all your help.	131925	1471938959089	1471938959143	o	79
+299	2723	Thank you for all your help.	Thank you for all your help.	131926	1471938959221	1471938959278	r	82
+299	2723	Thank you for all your help.	Thank you for all your help.	131927	1471938960093	1471938960175	 	32
+299	2723	Thank you for all your help.	Thank you for all your help.	131928	1471938960285	1471938960390	a	65
+299	2723	Thank you for all your help.	Thank you for all your help.	131954	1471938960564	1471938960611	l	76
+299	2723	Thank you for all your help.	Thank you for all your help.	131957	1471938960689	1471938960744	l	76
+299	2723	Thank you for all your help.	Thank you for all your help.	131961	1471938960947	1471938961026	 	32
+299	2723	Thank you for all your help.	Thank you for all your help.	131963	1471938961230	1471938961278	y	89
+299	2723	Thank you for all your help.	Thank you for all your help.	131966	1471938961465	1471938961545	o	79
+299	2723	Thank you for all your help.	Thank you for all your help.	131982	1471938961702	1471938961760	u	85
+299	2723	Thank you for all your help.	Thank you for all your help.	131983	1471938961932	1471938961980	r	82
+299	2723	Thank you for all your help.	Thank you for all your help.	131984	1471938962058	1471938962126	 	32
+299	2723	Thank you for all your help.	Thank you for all your help.	131985	1471938962375	1471938962436	h	72
+299	2723	Thank you for all your help.	Thank you for all your help.	131986	1471938962507	1471938962560	e	69
+299	2723	Thank you for all your help.	Thank you for all your help.	132076	1471938962904	1471938962960	l	76
+299	2723	Thank you for all your help.	Thank you for all your help.	132078	1471938963069	1471938963111	p	80
+299	2723	Thank you for all your help.	Thank you for all your help.	132081	1471938964019	1471938964035	/	191
+299	2723	Thank you for all your help.	Thank you for all your help.	132084	1471938964482	1471938964547	BKSP	8
+299	2723	Thank you for all your help.	Thank you for all your help.	132088	1471938964750	1471938964810	.	190
+299	2735	I will try and find out.	I will try and find out.	132240	1471938971509	1471938971889	SHIFT	16
+299	2735	I will try and find out.	I will try and find out.	132237	1471938971759	1471938971827	I	73
+299	2735	I will try and find out.	I will try and find out.	132243	1471938972045	1471938972125	 	32
+299	2735	I will try and find out.	I will try and find out.	132246	1471938972235	1471938972356	w	87
+299	2735	I will try and find out.	I will try and find out.	132248	1471938972574	1471938972644	i	73
+299	2735	I will try and find out.	I will try and find out.	132251	1471938972785	1471938972827	l	76
+299	2735	I will try and find out.	I will try and find out.	132290	1471938972907	1471938972960	l	76
+299	2735	I will try and find out.	I will try and find out.	132292	1471938973148	1471938973210	 	32
+299	2735	I will try and find out.	I will try and find out.	132294	1471938973351	1471938973472	t	84
+299	2735	I will try and find out.	I will try and find out.	132296	1471938973472	1471938973542	r	82
+299	2735	I will try and find out.	I will try and find out.	132298	1471938973636	1471938973678	y	89
+299	2735	I will try and find out.	I will try and find out.	132345	1471938973851	1471938973925	 	32
+299	2735	I will try and find out.	I will try and find out.	132346	1471938973941	1471938974040	a	65
+299	2735	I will try and find out.	I will try and find out.	132347	1471938974087	1471938974159	n	78
+299	2735	I will try and find out.	I will try and find out.	132348	1471938974252	1471938974310	d	68
+299	2735	I will try and find out.	I will try and find out.	132349	1471938974890	1471938974974	 	32
+299	2735	I will try and find out.	I will try and find out.	132428	1471938975381	1471938975428	f	70
+299	2735	I will try and find out.	I will try and find out.	132429	1471938975584	1471938975644	i	73
+299	2735	I will try and find out.	I will try and find out.	132430	1471938975815	1471938975907	n	78
+299	2735	I will try and find out.	I will try and find out.	132431	1471938976298	1471938976347	d	68
+299	2735	I will try and find out.	I will try and find out.	132432	1471938976456	1471938976541	 	32
+299	2735	I will try and find out.	I will try and find out.	132509	1471938976949	1471938977010	o	79
+299	2735	I will try and find out.	I will try and find out.	132512	1471938977166	1471938977242	u	85
+299	2735	I will try and find out.	I will try and find out.	132518	1471938977320	1471938977393	t	84
+299	2735	I will try and find out.	I will try and find out.	132520	1471938978411	1471938978477	.	190
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	132686	1471938984169	1471938984441	SHIFT	16
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	132683	1471938984356	1471938984410	T	84
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	132690	1471938984550	1471938984610	h	72
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	132694	1471938984704	1471938984760	e	69
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	132697	1471938984853	1471938984933	 	32
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	132698	1471938985308	1471938985391	s	83
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	132708	1471938985494	1471938985543	p	80
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	132711	1471938985621	1471938985709	a	65
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	132715	1471938985881	1471938985976	n	78
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	132717	1471938986054	1471938986126	i	73
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	132720	1471938986313	1471938986393	s	83
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	132758	1471938986535	1471938986593	h	72
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	132760	1471938988645	1471938988709	 	32
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	132762	1471938989036	1471938989157	f	70
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	132764	1471938989124	1471938989223	e	69
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	132767	1471938989363	1471938989475	d	68
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	132805	1471938989508	1471938989606	e	69
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	132808	1471938989919	1471938989976	r	82
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	132811	1471938990023	1471938990124	a	65
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	132814	1471938990124	1471938990176	t	84
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	132818	1471938990551	1471938990609	i	73
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133004	1471938990721	1471938990761	o	79
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133005	1471938990932	1471938991009	n	78
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133006	1471938993108	1471938993948	BKSP	8
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133007	1471938994208	1471938994259	BKSP	8
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133008	1471938994356	1471938994405	BKSP	8
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133009	1471938994483	1471938994543	BKSP	8
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133010	1471938994605	1471938994660	BKSP	8
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133011	1471938994707	1471938994759	BKSP	8
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133012	1471938994822	1471938994892	BKSP	8
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133014	1471938995235	1471938995689	SHIFT	16
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133013	1471938995582	1471938995642	S	83
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133015	1471938995939	1471938995977	p	80
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133016	1471938996039	1471938996171	a	65
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133071	1471938996313	1471938996471	n	78
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133074	1471938996455	1471938996556	i	73
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133077	1471938996682	1471938996762	s	83
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133081	1471938997215	1471938997276	h	72
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133084	1471938998374	1471938998442	 	32
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133131	1471938998817	1471938998910	f	70
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133133	1471938998876	1471938998978	e	69
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133136	1471938999103	1471938999253	d	68
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133139	1471938999253	1471938999325	e	69
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133142	1471938999511	1471938999560	r	82
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133166	1471938999609	1471938999691	a	65
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133167	1471938999722	1471938999760	t	84
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133168	1471939000041	1471939000093	i	73
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133170	1471939000202	1471939000260	o	79
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133173	1471939000384	1471939000473	n	78
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133204	1471939000960	1471939001041	 	32
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133205	1471939001590	1471939001642	h	72
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133206	1471939001705	1471939001791	a	65
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133207	1471939001947	1471939002009	s	83
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133209	1471939002321	1471939002392	 	32
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133249	1471939003035	1471939003108	b	66
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133251	1471939003373	1471939003443	r	82
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133253	1471939003630	1471939003693	o	79
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133255	1471939003864	1471939003926	u	85
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133257	1471939004145	1471939004193	g	71
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133286	1471939004304	1471939004359	h	72
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133290	1471939004501	1471939004543	t	84
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133295	1471939005279	1471939005344	 	32
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133297	1471939005656	1471939005725	f	70
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133299	1471939005850	1471939005893	o	79
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133315	1471939005988	1471939006042	r	82
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133317	1471939006360	1471939006441	w	87
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133319	1471939006599	1471939006674	a	65
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133321	1471939006721	1471939006776	r	82
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133324	1471939006869	1471939006925	d	68
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133353	1471939007569	1471939007657	 	32
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133356	1471939007906	1471939007959	t	84
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133359	1471939008022	1471939008075	h	72
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133362	1471939008657	1471939008694	o	79
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133365	1471939008787	1471939008873	s	83
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133415	1471939009031	1471939009092	e	69
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133416	1471939009719	1471939009792	 	32
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133418	1471939010294	1471939010359	f	70
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133420	1471939010671	1471939010741	i	73
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133422	1471939010991	1471939011091	x	88
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133483	1471939012077	1471939012143	t	84
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133485	1471939012267	1471939012325	u	85
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133487	1471939012481	1471939012577	r	82
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133489	1471939012577	1471939012641	e	69
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133491	1471939012797	1471939012892	s	83
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133560	1471939013818	1471939013891	.	190
+299	2742	The Spanish federation has brought forward those fixtures.	The Spanish federation has brought forward those fixtures. 	133561	1471939014942	1471939015008	 	32
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133692	1471939020220	1471939020524	SHIFT	16
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133690	1471939020457	1471939020492	L	76
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133693	1471939020742	1471939020823	e	69
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133694	1471939020886	1471939020941	t	84
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133695	1471939021128	1471939021208	 	32
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133696	1471939021395	1471939021458	m	77
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133729	1471939021752	1471939021824	e	69
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133731	1471939022214	1471939022274	 	32
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133733	1471939022680	1471939022725	k	75
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133735	1471939022897	1471939023055	n	78
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133738	1471939023055	1471939023123	o	79
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133789	1471939023266	1471939023340	w	87
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133791	1471939023590	1471939023657	 	32
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133793	1471939024207	1471939024273	i	73
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133796	1471939024507	1471939024557	f	70
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133799	1471939024651	1471939024708	 	32
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133860	1471939025476	1471939025525	y	89
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133862	1471939025681	1471939025746	o	79
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133864	1471939025902	1471939025957	u	85
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133865	1471939026538	1471939026590	 	32
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133866	1471939027027	1471939027076	n	78
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133882	1471939027203	1471939027273	e	69
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133884	1471939027351	1471939027424	e	69
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133886	1471939027548	1471939027623	d	68
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133888	1471939027763	1471939027840	 	32
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133891	1471939028043	1471939028138	a	65
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133932	1471939028311	1471939028375	n	78
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133934	1471939028893	1471939028941	y	89
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133937	1471939029144	1471939029207	t	84
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133940	1471939029285	1471939029459	h	72
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133979	1471939029419	1471939029555	i	73
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133981	1471939029679	1471939029757	n	78
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133983	1471939029788	1471939029858	g	71
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133985	1471939030248	1471939030339	 	32
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133987	1471939030713	1471939030774	e	69
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	133990	1471939030977	1471939031026	l	76
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	134046	1471939031089	1471939031172	s	83
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	134047	1471939031297	1471939031361	e	69
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	134048	1471939031580	1471939031656	.	190
+299	2761	Let me know if you need anything else.	Let me know if you need anything else. 	134049	1471939031984	1471939032040	 	32
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134297	1471939039150	1471939039788	SHIFT	16
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134295	1471939039699	1471939039757	I	73
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134300	1471939039991	1471939040089	s	83
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134305	1471939040135	1471939040190	 	32
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134309	1471939040393	1471939040457	c	67
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134312	1471939040927	1471939041022	BKSP	8
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134314	1471939041209	1471939041591	SHIFT	16
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134411	1471939041540	1471939041607	C	67
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134413	1471939041733	1471939041837	a	65
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134415	1471939042025	1471939042090	s	83
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134418	1471939042184	1471939042240	s	83
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134421	1471939042381	1471939042487	a	65
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134423	1471939044823	1471939044891	n	78
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134477	1471939045236	1471939045292	d	68
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134479	1471939045416	1471939045473	r	82
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134482	1471939045536	1471939045622	a	65
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134485	1471939045996	1471939046072	 	32
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134488	1471939046494	1471939046556	t	84
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134515	1471939046621	1471939046689	h	72
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134517	1471939046767	1471939046824	e	69
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134520	1471939046886	1471939046940	r	82
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134523	1471939047003	1471939047072	e	69
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134527	1471939047259	1471939047340	 	32
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134563	1471939047513	1471939047562	t	84
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134567	1471939047687	1471939047741	o	79
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134569	1471939047850	1471939048002	d	68
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134570	1471939047969	1471939048071	a	65
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134572	1471939048071	1471939048123	y	89
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134592	1471939048312	1471939048655	SHIFT	16
+299	2770	Is Cassandra there today?	Is Cassandra there today?	134588	1471939048562	1471939048624	?	191
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	134761	1471939051975	1471939052787	SHIFT	16
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	134759	1471939052681	1471939052724	T	84
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	134764	1471939052880	1471939052940	h	72
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	134766	1471939053065	1471939053123	e	69
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	134769	1471939053138	1471939053190	r	82
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	134771	1471939053253	1471939053306	e	69
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	134803	1471939053825	1471939053890	 	32
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	134804	1471939053952	1471939054069	a	65
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	134806	1471939054163	1471939054224	r	82
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	134809	1471939054286	1471939054340	e	69
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	134814	1471939054480	1471939054556	 	32
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	134899	1471939054807	1471939054873	d	68
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	134905	1471939055045	1471939055122	i	73
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	134911	1471939055781	1471939055856	f	70
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	134915	1471939055934	1471939055990	f	70
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	134917	1471939056774	1471939056823	e	69
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	134981	1471939057592	1471939057688	r	82
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	134982	1471939058046	1471939058122	i	73
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	134983	1471939058262	1471939058339	n	78
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	134984	1471939058448	1471939058507	g	71
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	134985	1471939059056	1471939059138	 	32
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135107	1471939059689	1471939059772	v	86
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135109	1471939059975	1471939060055	i	73
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135113	1471939060305	1471939060372	e	69
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135118	1471939062440	1471939062522	w	87
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135123	1471939062678	1471939062740	s	83
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135178	1471939063352	1471939063422	 	32
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135180	1471939063625	1471939063705	a	65
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135183	1471939063892	1471939064073	m	77
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135185	1471939064019	1471939064135	o	79
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135187	1471939064276	1471939064340	n	78
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135216	1471939064450	1471939064507	g	71
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135219	1471939064772	1471939064854	 	32
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135222	1471939065373	1471939065424	t	84
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135223	1471939065517	1471939065573	h	72
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135225	1471939065682	1471939065739	e	69
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135291	1471939066162	1471939066227	 	32
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135294	1471939066884	1471939066956	d	68
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135296	1471939067222	1471939067289	i	73
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135297	1471939067695	1471939067788	s	83
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135298	1471939067881	1471939067955	s	83
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135359	1471939068692	1471939068756	i	73
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135364	1471939069068	1471939069140	d	68
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135372	1471939069312	1471939069376	e	69
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135376	1471939069438	1471939069506	n	78
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135381	1471939069600	1471939069657	t	84
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135425	1471939070425	1471939070489	 	32
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135426	1471939070879	1471939070955	c	67
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135427	1471939071142	1471939071206	o	79
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135428	1471939071377	1471939071430	m	77
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135429	1471939071508	1471939071572	m	77
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135465	1471939071699	1471939071757	u	85
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135468	1471939071897	1471939072066	n	78
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135469	1471939072034	1471939072152	i	73
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135470	1471939072339	1471939072406	t	84
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135471	1471939072452	1471939072523	y	89
+299	2781	There are differing views among the dissident community.	There are differing views among the dissident community.	135488	1471939073338	1471939073389	.	190
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135636	1471939076369	1471939076754	SHIFT	16
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135634	1471939076669	1471939076738	W	87
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135640	1471939077066	1471939077107	e	69
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135643	1471939077450	1471939077522	 	32
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135646	1471939078180	1471939078244	p	80
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135649	1471939079011	1471939079059	r	82
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135681	1471939079170	1471939079222	o	79
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135683	1471939079912	1471939079973	b	66
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135684	1471939080051	1471939080138	a	65
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135685	1471939080247	1471939080321	b	66
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135686	1471939080602	1471939080672	l	76
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135740	1471939080922	1471939080973	y	89
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135742	1471939081664	1471939081738	 	32
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135744	1471939082175	1471939082240	h	72
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135746	1471939082286	1471939082388	a	65
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135750	1471939082435	1471939082505	v	86
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135788	1471939082584	1471939082655	e	69
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135790	1471939083108	1471939083188	 	32
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135793	1471939083516	1471939083588	t	84
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135795	1471939083682	1471939083724	o	79
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135796	1471939084067	1471939084139	 	32
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135842	1471939084719	1471939084773	d	68
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135844	1471939085007	1471939085072	i	73
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135847	1471939085668	1471939085739	s	83
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135850	1471939085910	1471939085973	c	67
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135855	1471939086035	1471939086106	u	85
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135925	1471939086216	1471939086288	s	83
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135928	1471939086398	1471939086471	s	83
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135931	1471939086862	1471939086954	 	32
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135934	1471939087675	1471939087724	t	84
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135937	1471939088273	1471939088322	r	82
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	135998	1471939088481	1471939088554	a	65
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136001	1471939088777	1471939088839	d	68
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136005	1471939088964	1471939089044	e	69
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136008	1471939089592	1471939089671	 	32
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136011	1471939090298	1471939090356	b	66
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136090	1471939090404	1471939090474	e	69
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136091	1471939090848	1471939090906	h	72
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136092	1471939090953	1471939091053	a	65
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136093	1471939092509	1471939092588	v	86
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136095	1471939092915	1471939092957	i	73
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136157	1471939093082	1471939093139	o	79
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136159	1471939093358	1471939093422	r	82
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136161	1471939093988	1471939094055	 	32
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136164	1471939094149	1471939094268	a	65
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136169	1471939094408	1471939094473	n	78
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136226	1471939094599	1471939094671	d	68
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136231	1471939094858	1471939094953	 	32
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136236	1471939095612	1471939095688	m	77
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136243	1471939095750	1471939095853	a	65
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136249	1471939096087	1471939096124	r	82
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136356	1471939096608	1471939096688	g	71
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136361	1471939096781	1471939096870	i	73
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136364	1471939097042	1471939097121	n	78
+299	2797	We probably have to discuss trade behavior and margin.	We probably have to discuss trade behavior and margin.	136366	1471939098219	1471939098288	.	190
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136537	1471939102538	1471939102870	SHIFT	16
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136536	1471939102789	1471939102839	R	82
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136539	1471939103198	1471939103240	o	79
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136541	1471939103318	1471939103372	o	79
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136543	1471939103512	1471939103557	k	75
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136545	1471939103728	1471939103777	i	73
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136598	1471939104011	1471939104087	e	69
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136600	1471939104653	1471939104723	 	32
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136602	1471939104957	1471939105209	SHIFT	16
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136605	1471939105144	1471939105209	K	75
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136608	1471939105458	1471939105523	e	69
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136611	1471939105741	1471939105852	v	86
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136736	1471939106025	1471939106104	i	73
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136737	1471939106291	1471939106370	n	78
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136739	1471939106573	1471939106655	 	32
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136744	1471939107359	1471939107689	SHIFT	16
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136742	1471939107593	1471939107658	S	83
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136746	1471939109175	1471939109239	w	87
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136785	1471939109366	1471939109453	a	65
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136789	1471939109640	1471939109689	y	89
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136792	1471939110001	1471939110070	n	78
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136796	1471939110117	1471939110203	e	69
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136803	1471939110593	1471939110655	 	32
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136846	1471939111016	1471939111103	w	87
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136850	1471939111259	1471939111323	i	73
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136854	1471939111464	1471939111521	l	76
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136859	1471939111599	1471939111655	l	76
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136863	1471939111811	1471939111889	 	32
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136927	1471939112061	1471939112189	m	77
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136929	1471939112153	1471939112252	o	79
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136932	1471939112611	1471939112671	v	86
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136935	1471939112703	1471939112788	e	69
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136938	1471939113477	1471939113539	 	32
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136984	1471939113852	1471939113938	i	73
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136986	1471939114125	1471939114189	n	78
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136987	1471939114361	1471939114425	t	84
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136988	1471939114519	1471939114571	o	79
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	136989	1471939115039	1471939115105	 	32
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	137058	1471939115372	1471939115421	t	84
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	137063	1471939115468	1471939115523	h	72
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	137069	1471939115617	1471939115671	e	69
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	137076	1471939115905	1471939115956	 	32
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	137083	1471939116802	1471939116886	s	83
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	137121	1471939116950	1471939117005	t	84
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	137122	1471939117068	1471939117168	a	65
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	137124	1471939117262	1471939117322	r	82
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	137126	1471939117493	1471939117537	t	84
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	137128	1471939117805	1471939117856	i	73
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	137153	1471939118014	1471939118087	n	78
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	137154	1471939118118	1471939118187	g	71
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	137156	1471939118686	1471939118756	 	32
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	137160	1471939119161	1471939119221	l	76
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	137163	1471939119346	1471939119405	i	73
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	137219	1471939119563	1471939119637	n	78
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	137220	1471939119746	1471939119821	e	69
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	137221	1471939120070	1471939120152	u	85
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	137222	1471939120324	1471939120404	p	80
+299	2814	Rookie Kevin Swayne will move into the starting lineup.	Rookie Kevin Swayne will move into the starting lineup.	137223	1471939121249	1471939121306	.	190
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137372	1471939124417	1471939124736	SHIFT	16
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137367	1471939124651	1471939124704	T	84
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137378	1471939124845	1471939124905	h	72
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137387	1471939124951	1471939125020	e	69
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137391	1471939125113	1471939125171	 	32
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137394	1471939125202	1471939125301	a	65
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137406	1471939125427	1471939125488	r	82
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137409	1471939125659	1471939125708	t	84
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137413	1471939125942	1471939126006	i	73
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137418	1471939126084	1471939126185	s	83
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137422	1471939126295	1471939126354	t	84
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137477	1471939126856	1471939126936	 	32
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137479	1471939127092	1471939127202	a	65
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137481	1471939127373	1471939127438	s	83
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137483	1471939127516	1471939127587	s	83
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137488	1471939128245	1471939128305	r	82
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137533	1471939128415	1471939128486	e	69
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137536	1471939128627	1471939128719	s	83
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137541	1471939129158	1471939129237	 	32
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137544	1471939129533	1471939129604	m	77
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137550	1471939129666	1471939129737	e	69
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137586	1471939129752	1471939129821	 	32
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137587	1471939130040	1471939130104	i	73
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137588	1471939130198	1471939130255	t	84
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137591	1471939130348	1471939130421	 	32
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137594	1471939130594	1471939130655	i	73
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137635	1471939131141	1471939131236	s	83
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137640	1471939131345	1471939131421	 	32
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137644	1471939131593	1471939131688	a	65
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137647	1471939131799	1471939131856	 	32
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137651	1471939132152	1471939132205	t	84
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137691	1471939132378	1471939132442	u	85
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137693	1471939132536	1471939132587	r	82
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137694	1471939132995	1471939133075	k	75
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137696	1471939133169	1471939133237	e	69
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137697	1471939133315	1471939133372	y	89
+299	2834	The artist assures me it is a turkey.	The artist assres me it is a turkey.	137720	1471939134061	1471939134121	.	190
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	137845	1471939137501	1471939138003	SHIFT	16
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	137842	1471939137927	1471939137972	L	76
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	137850	1471939138206	1471939138271	e	69
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	137853	1471939138333	1471939138372	t	84
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	137855	1471939138544	1471939138608	 	32
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	137857	1471939138749	1471939138804	m	77
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	137928	1471939138868	1471939138921	e	69
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	137930	1471939139720	1471939139788	 	32
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	137932	1471939140446	1471939140504	c	67
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	137934	1471939140676	1471939140740	o	79
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	137935	1471939141099	1471939141170	n	78
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	137978	1471939141296	1471939141369	s	83
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	137981	1471939141510	1471939141586	u	85
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	137985	1471939141742	1471939141788	l	76
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	137989	1471939141882	1471939141938	t	84
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	137995	1471939142375	1471939142453	 	32
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138048	1471939142735	1471939142803	m	77
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138050	1471939143022	1471939143086	y	89
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138052	1471939143414	1471939143502	 	32
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138054	1471939144145	1471939144204	p	80
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138056	1471939144313	1471939144433	a	65
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138091	1471939144637	1471939144688	r	82
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138092	1471939144797	1471939144854	t	84
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138094	1471939145213	1471939145286	n	78
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138096	1471939145380	1471939145438	e	69
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138098	1471939145547	1471939145605	r	82
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138171	1471939146216	1471939146286	 	32
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138173	1471939146349	1471939146483	a	65
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138177	1471939146545	1471939146594	n	78
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138181	1471939147235	1471939147318	d	68
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138183	1471939147365	1471939147421	 	32
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138211	1471939147578	1471939147638	g	71
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138214	1471939147700	1471939147770	e	69
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138218	1471939147832	1471939147888	t	84
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138222	1471939148247	1471939148304	 	32
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138228	1471939148852	1471939148920	b	66
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138270	1471939148952	1471939149035	a	65
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138273	1471939149238	1471939149319	c	67
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138278	1471939149397	1471939149454	k	75
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138284	1471939149938	1471939149989	 	32
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138288	1471939150301	1471939150402	w	87
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138333	1471939150560	1471939150625	i	73
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138335	1471939150827	1471939150872	t	84
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138337	1471939150950	1471939151004	h	72
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138338	1471939151457	1471939151521	 	32
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138339	1471939151833	1471939151887	y	89
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138402	1471939152091	1471939152154	o	79
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138404	1471939152310	1471939152386	u	85
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138408	1471939152745	1471939152804	 	32
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138410	1471939153369	1471939153421	i	73
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138413	1471939153561	1471939153605	n	78
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138424	1471939153730	1471939153787	 	32
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138425	1471939153896	1471939153939	t	84
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138427	1471939154001	1471939154038	h	72
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138430	1471939154132	1471939154203	e	69
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138433	1471939154312	1471939154401	 	32
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138471	1471939154792	1471939154854	m	77
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138473	1471939154995	1471939155057	o	79
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138475	1471939155207	1471939155256	r	82
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138477	1471939155396	1471939155586	n	78
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138539	1471939155532	1471939155652	i	73
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138545	1471939155777	1471939155837	n	78
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138548	1471939155884	1471939155938	g	71
+299	2843	Let me consult my partner and get back with you in the morning.	Let me consult my partner and get back with you in the morning.	138551	1471939156767	1471939156836	.	190
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138696	1471939160149	1471939160211	CAPS_LOCK	20
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138701	1471939160149	1471939160631	SHIFT	16
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138699	1471939160477	1471939160537	k	75
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138703	1471939160896	1471939160970	E	69
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138705	1471939161048	1471939161119	E	69
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138707	1471939161197	1471939161238	P	80
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138708	1471939161472	1471939161537	 	32
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138873	1471939162492	1471939162553	BKSP	8
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138875	1471939162647	1471939162704	BKSP	8
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138877	1471939163016	1471939163086	BKSP	8
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138879	1471939163164	1471939163220	BKSP	8
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138881	1471939163438	1471939163534	BKSP	8
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138883	1471939164913	1471939165006	CAPS_LOCK	20
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138885	1471939165492	1471939165800	SHIFT	16
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138884	1471939165699	1471939165769	K	75
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138888	1471939166019	1471939166087	e	69
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138890	1471939166165	1471939166220	e	69
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138893	1471939166345	1471939166388	p	80
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138896	1471939166606	1471939166670	 	32
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138928	1471939166875	1471939167018	h	72
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138930	1471939166986	1471939167067	i	73
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138932	1471939167301	1471939167369	m	77
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138933	1471939167919	1471939167986	 	32
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138934	1471939168314	1471939168386	i	73
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138968	1471939168481	1471939168552	n	78
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138971	1471939168661	1471939168736	 	32
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138974	1471939169080	1471939169137	m	77
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138977	1471939169339	1471939169388	i	73
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	138979	1471939169544	1471939169603	n	78
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	139005	1471939169885	1471939169968	d	68
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	139008	1471939170311	1471939170386	 	32
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	139011	1471939170604	1471939170717	a	65
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	139014	1471939170998	1471939171085	s	83
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	139015	1471939171241	1471939171319	 	32
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	139065	1471939171554	1471939171650	a	65
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	139066	1471939171790	1471939171839	 	32
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	139069	1471939171964	1471939172367	SHIFT	16
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	139067	1471939172260	1471939172335	N	78
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	139071	1471939172538	1471939172585	o	79
+299	2859	Keep him in mind as a No.	Keep him in mind as a No.	139073	1471939172884	1471939172937	.	190

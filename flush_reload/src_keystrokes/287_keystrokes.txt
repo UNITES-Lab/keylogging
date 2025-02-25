@@ -1,0 +1,615 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121033	1471938813571	1471938813714	v	86
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121034	1471938813818	1471938813936	e	69
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121035	1471938814022	1471938814139	r	82
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121036	1471938814833	1471938814940	y	89
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121037	1471938814996	1471938815114	 	32
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121087	1471938815296	1471938815376	t	84
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121090	1471938815523	1471938815609	r	82
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121093	1471938815639	1471938815746	u	85
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121096	1471938816109	1471938816237	l	76
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121100	1471938816346	1471938816458	y	89
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121168	1471938816580	1471938816729	 	32
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121169	1471938817470	1471938817550	y	89
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121170	1471938817676	1471938817788	o	79
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121171	1471938817894	1471938818033	u	85
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121172	1471938818156	1471938818256	r	82
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121310	1471938818877	1471938819005	s	83
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121311	1471938819862	1471938819985	,	188
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121313	1471938820071	1471938820219	 	32
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121315	1471938820756	1471938820899	a	65
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121318	1471938821633	1471938821746	c	67
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121374	1471938821963	1471938822075	m	77
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121376	1471938822200	1471938822302	e	69
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121379	1471938822519	1471938822657	 	32
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121382	1471938823189	1471938823285	c	67
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121384	1471938823338	1471938823434	o	79
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121417	1471938823529	1471938823614	s	83
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121418	1471938823995	1471938824086	t	84
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121419	1471938824183	1471938824284	u	85
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121420	1471938824382	1471938824542	m	77
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121421	1471938824573	1471938824674	e	69
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121504	1471938824848	1471938824982	 	32
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121508	1471938825406	1471938825497	c	67
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121511	1471938825656	1471938825742	o	79
+287	2501	Very truly yours, Acme Costume Co.	very truly yours, acme costume co.	121517	1471938826213	1471938826283	.	190
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121677	1471938831195	1471938831283	t	84
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121685	1471938831320	1471938831445	h	72
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121682	1471938831322	1471938831322	WIN	91
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121688	1471938831564	1471938831686	e	69
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121692	1471938831776	1471938831883	r	82
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121697	1471938832795	1471938832886	a	65
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121809	1471938832992	1471938833067	s	83
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121812	1471938833149	1471938833240	a	65
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121817	1471938833436	1471938833576	 	32
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121821	1471938834773	1471938834869	BKSP	8
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121823	1471938835138	1471938835256	,	188
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121825	1471938835786	1471938835894	 	32
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121876	1471938835910	1471938836049	i	73
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121879	1471938836532	1471938836606	h	72
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121880	1471938836927	1471938837060	o	79
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121881	1471938837110	1471938837232	p	80
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121882	1471938837304	1471938837423	e	69
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121935	1471938837701	1471938837860	 	32
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121939	1471938838548	1471938838671	h	72
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121942	1471938838713	1471938838809	e	69
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121943	1471938838856	1471938838989	 	32
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121944	1471938839254	1471938839360	l	76
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121972	1471938839424	1471938839530	i	73
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121974	1471938839598	1471938839731	k	75
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121976	1471938839798	1471938839878	e	69
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121977	1471938839977	1471938840068	d	68
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	121978	1471938840167	1471938840316	 	32
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	122031	1471938840819	1471938840942	i	73
+287	2513	Theresa, I hope he liked it.	therasa, ihope he liked it	122035	1471938841164	1471938841255	t	84
+287	2525	There was no such accord.	there was no such record	122201	1471938846124	1471938846210	t	84
+287	2525	There was no such accord.	there was no such record	122204	1471938846256	1471938846368	h	72
+287	2525	There was no such accord.	there was no such record	122208	1471938846443	1471938846541	e	69
+287	2525	There was no such accord.	there was no such record	122214	1471938846611	1471938846783	r	82
+287	2525	There was no such accord.	there was no such record	122219	1471938846794	1471938846863	e	69
+287	2525	There was no such accord.	there was no such record	122251	1471938846992	1471938847131	 	32
+287	2525	There was no such accord.	there was no such record	122256	1471938847364	1471938847448	w	87
+287	2525	There was no such accord.	there was no such record	122260	1471938847533	1471938847612	a	65
+287	2525	There was no such accord.	there was no such record	122264	1471938847665	1471938847756	s	83
+287	2525	There was no such accord.	there was no such record	122268	1471938847838	1471938847966	 	32
+287	2525	There was no such accord.	there was no such record	122336	1471938848384	1471938848501	n	78
+287	2525	There was no such accord.	there was no such record	122340	1471938848545	1471938848758	o	79
+287	2525	There was no such accord.	there was no such record	122345	1471938848753	1471938848903	 	32
+287	2525	There was no such accord.	there was no such record	122349	1471938849251	1471938849369	s	83
+287	2525	There was no such accord.	there was no such record	122355	1471938849508	1471938849643	u	85
+287	2525	There was no such accord.	there was no such record	122379	1471938849750	1471938849873	c	67
+287	2525	There was no such accord.	there was no such record	122382	1471938849913	1471938850057	h	72
+287	2525	There was no such accord.	there was no such record	122386	1471938850052	1471938850212	 	32
+287	2525	There was no such accord.	there was no such record	122391	1471938850392	1471938850476	r	82
+287	2525	There was no such accord.	there was no such record	122398	1471938850535	1471938850622	e	69
+287	2525	There was no such accord.	there was no such record	122456	1471938850931	1471938851028	c	67
+287	2525	There was no such accord.	there was no such record	122460	1471938851189	1471938851290	o	79
+287	2525	There was no such accord.	there was no such record	122463	1471938851388	1471938851467	r	82
+287	2525	There was no such accord.	there was no such record	122466	1471938851632	1471938851713	d	68
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122692	1471938855937	1471938856048	s	83
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122696	1471938856038	1471938856166	o	79
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122702	1471938856980	1471938857097	,	188
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122706	1471938857279	1471938857326	 	32
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122708	1471938857763	1471938857912	w	87
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122751	1471938857928	1471938858035	e	69
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122753	1471938858197	1471938858325	 	32
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122756	1471938858605	1471938858730	m	77
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122760	1471938858895	1471938858981	e	69
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122766	1471938859047	1471938859137	e	69
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122908	1471938859196	1471938859293	d	68
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122912	1471938859381	1471938859509	 	32
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122916	1471938860488	1471938860562	BKSP	8
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122919	1471938860630	1471938860721	BKSP	8
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122922	1471938860759	1471938860850	BKSP	8
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122926	1471938860906	1471938860981	BKSP	8
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122932	1471938861520	1471938861643	BKSP	8
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122937	1471938861801	1471938861945	n	78
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122939	1471938862044	1471938862134	e	69
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122942	1471938862240	1471938862325	d	68
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122972	1471938862832	1471938862954	BKSP	8
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122974	1471938863123	1471938863203	e	69
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122978	1471938863296	1471938863387	d	68
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122980	1471938863460	1471938863594	 	32
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122983	1471938863874	1471938863976	t	84
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	122988	1471938864125	1471938864275	o	79
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123025	1471938864299	1471938864436	 	32
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123027	1471938864658	1471938864764	g	71
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123029	1471938864829	1471938865006	e	69
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123031	1471938865110	1471938865207	t	84
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123034	1471938865341	1471938865480	 	32
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123084	1471938865785	1471938865786	WIN	91
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123087	1471938865901	1471938865976	t	84
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123092	1471938866043	1471938866139	h	72
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123095	1471938866238	1471938866324	e	69
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123100	1471938866466	1471938866551	s	83
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123103	1471938866660	1471938866745	e	69
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123143	1471938866892	1471938867026	 	32
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123144	1471938867406	1471938867498	r	82
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123145	1471938867543	1471938867639	e	69
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123147	1471938867786	1471938867887	s	83
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123153	1471938868089	1471938868201	o	79
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123202	1471938868319	1471938868446	l	76
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123205	1471938868616	1471938868706	v	86
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123208	1471938868928	1471938869018	r	82
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123211	1471938869406	1471938869518	BKSP	8
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123213	1471938869595	1471938869674	e	69
+287	2533	So, we need to get these resolved.	so, we need to get these resolved	123215	1471938869758	1471938869843	d	68
+287	2549	What is your issue sir?	what is your issue sir?	123396	1471938873640	1471938873758	w	87
+287	2549	What is your issue sir?	what is your issue sir?	123401	1471938873818	1471938873964	h	72
+287	2549	What is your issue sir?	what is your issue sir?	123399	1471938873891	1471938873891	WIN	91
+287	2549	What is your issue sir?	what is your issue sir?	123404	1471938874526	1471938874584	a	65
+287	2549	What is your issue sir?	what is your issue sir?	123406	1471938874812	1471938874913	t	84
+287	2549	What is your issue sir?	what is your issue sir?	123407	1471938875091	1471938875203	 	32
+287	2549	What is your issue sir?	what is your issue sir?	123450	1471938875536	1471938875637	i	73
+287	2549	What is your issue sir?	what is your issue sir?	123452	1471938875679	1471938875779	s	83
+287	2549	What is your issue sir?	what is your issue sir?	123455	1471938875818	1471938875973	 	32
+287	2549	What is your issue sir?	what is your issue sir?	123460	1471938876458	1471938876549	y	89
+287	2549	What is your issue sir?	what is your issue sir?	123458	1471938876479	1471938876479	WIN	91
+287	2549	What is your issue sir?	what is your issue sir?	123462	1471938876756	1471938876863	o	79
+287	2549	What is your issue sir?	what is your issue sir?	123513	1471938876955	1471938877052	u	85
+287	2549	What is your issue sir?	what is your issue sir?	123515	1471938877121	1471938877224	r	82
+287	2549	What is your issue sir?	what is your issue sir?	123520	1471938877320	1471938877459	 	32
+287	2549	What is your issue sir?	what is your issue sir?	123524	1471938877949	1471938878061	i	73
+287	2549	What is your issue sir?	what is your issue sir?	123527	1471938878227	1471938878312	s	83
+287	2549	What is your issue sir?	what is your issue sir?	123570	1471938878388	1471938878473	s	83
+287	2549	What is your issue sir?	what is your issue sir?	123571	1471938878497	1471938878598	u	85
+287	2549	What is your issue sir?	what is your issue sir?	123572	1471938878817	1471938878923	e	69
+287	2549	What is your issue sir?	what is your issue sir?	123573	1471938879048	1471938879188	 	32
+287	2549	What is your issue sir?	what is your issue sir?	123574	1471938879574	1471938879659	s	83
+287	2549	What is your issue sir?	what is your issue sir?	123671	1471938879865	1471938879955	i	73
+287	2549	What is your issue sir?	what is your issue sir?	123674	1471938880143	1471938880224	r	82
+287	2549	What is your issue sir?	what is your issue sir?	123678	1471938881251	1471938881662	SHIFT	16
+287	2549	What is your issue sir?	what is your issue sir?	123677	1471938881401	1471938881512	?	191
+287	2559	Was it a car wreck?	was it a car wreck?	123800	1471938884900	1471938885001	w	87
+287	2559	Was it a car wreck?	was it a car wreck?	123801	1471938885080	1471938885166	a	65
+287	2559	Was it a car wreck?	was it a car wreck?	123802	1471938885217	1471938885313	s	83
+287	2559	Was it a car wreck?	was it a car wreck?	123803	1471938885437	1471938885592	 	32
+287	2559	Was it a car wreck?	was it a car wreck?	123805	1471938885774	1471938885908	i	73
+287	2559	Was it a car wreck?	was it a car wreck?	123863	1471938886022	1471938886118	t	84
+287	2559	Was it a car wreck?	was it a car wreck?	123864	1471938886284	1471938886454	 	32
+287	2559	Was it a car wreck?	was it a car wreck?	123866	1471938886742	1471938886838	a	65
+287	2559	Was it a car wreck?	was it a car wreck?	123870	1471938886861	1471938886980	 	32
+287	2559	Was it a car wreck?	was it a car wreck?	123876	1471938887211	1471938887301	c	67
+287	2559	Was it a car wreck?	was it a car wreck?	123949	1471938887413	1471938887483	a	65
+287	2559	Was it a car wreck?	was it a car wreck?	123952	1471938887630	1471938887704	r	82
+287	2559	Was it a car wreck?	was it a car wreck?	123958	1471938887873	1471938887990	 	32
+287	2559	Was it a car wreck?	was it a car wreck?	123965	1471938888493	1471938888584	w	87
+287	2559	Was it a car wreck?	was it a car wreck?	123971	1471938888688	1471938888768	r	82
+287	2559	Was it a car wreck?	was it a car wreck?	124054	1471938888829	1471938888920	e	69
+287	2559	Was it a car wreck?	was it a car wreck?	124056	1471938889114	1471938889205	c	67
+287	2559	Was it a car wreck?	was it a car wreck?	124059	1471938889593	1471938889700	k	75
+287	2559	Was it a car wreck?	was it a car wreck?	124065	1471938890276	1471938891104	SHIFT	16
+287	2559	Was it a car wreck?	was it a car wreck?	124062	1471938890981	1471938891056	?	191
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124268	1471938894509	1471938894643	m	77
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124272	1471938894719	1471938894804	a	65
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124279	1471938895083	1471938895185	r	82
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124287	1471938895555	1471938895656	k	75
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124292	1471938896822	1471938896944	,	188
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124353	1471938897043	1471938897161	 	32
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124355	1471938897846	1471938897970	s	83
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124360	1471938897999	1471938898112	u	85
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124364	1471938898175	1471938898272	s	83
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124377	1471938898375	1471938898564	a	65
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124506	1471938898559	1471938898672	n	78
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124509	1471938898707	1471938898839	 	32
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124515	1471938899042	1471938899122	s	83
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124521	1471938899198	1471938899305	a	65
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124527	1471938900706	1471938900818	i	73
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124533	1471938901115	1471938901211	d	68
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124587	1471938901482	1471938901633	 	32
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124589	1471938902122	1471938902213	t	84
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124592	1471938902252	1471938902386	o	79
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124596	1471938902381	1471938902541	 	32
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124601	1471938902598	1471938902688	g	71
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124664	1471938902720	1471938902860	o	79
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124666	1471938902896	1471938903056	 	32
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124669	1471938903580	1471938903693	a	65
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124671	1471938903902	1471938904003	h	72
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124673	1471938904123	1471938904198	e	69
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124723	1471938904322	1471938904402	a	65
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124724	1471938904504	1471938904595	d	68
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124727	1471938904846	1471938904981	 	32
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124728	1471938905122	1471938905250	a	65
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124731	1471938905360	1471938905489	n	78
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124803	1471938905554	1471938905645	d	68
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124805	1471938905774	1471938905923	 	32
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124808	1471938906505	1471938906595	e	69
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124811	1471938907256	1471938907348	x	88
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124812	1471938907673	1471938907786	p	80
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124883	1471938907837	1471938907911	e	69
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124885	1471938908140	1471938908246	n	78
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124890	1471938908616	1471938908701	c	67
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124892	1471938909239	1471938909373	BKSP	8
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124895	1471938909426	1471938909538	s	83
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124899	1471938909856	1471938909970	e	69
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124940	1471938910214	1471938910346	 	32
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124943	1471938910747	1471938910862	t	84
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124946	1471938910913	1471938911033	h	72
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124949	1471938911085	1471938911175	e	69
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	124953	1471938911233	1471938911363	 	32
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	125004	1471938911753	1471938911833	c	67
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	125006	1471938912002	1471938912088	e	69
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	125009	1471938912239	1471938912302	l	76
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	125012	1471938912365	1471938912456	l	76
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	125015	1471938912548	1471938912665	 	32
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	125119	1471938913175	1471938913276	p	80
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	125125	1471938913448	1471938913544	h	72
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	125128	1471938914702	1471938914793	o	79
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	125132	1471938914895	1471938915040	n	78
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	125135	1471938915544	1471938915614	e	69
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	125212	1471938915733	1471938915819	s	83
+287	2570	Mark, Susan said to go ahead and expense the cell phones.	mark, susan said to go ahead and expense the cell phones.	125214	1471938917323	1471938917408	.	190
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125427	1471938921213	1471938921213	WIN	91
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125429	1471938921330	1471938921452	h	72
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125430	1471938921583	1471938921689	e	69
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125431	1471938921763	1471938921890	 	32
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125432	1471938922171	1471938922283	w	87
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125433	1471938922373	1471938922484	o	79
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125482	1471938922569	1471938922676	u	85
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125485	1471938922859	1471938923001	l	76
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125490	1471938923092	1471938923187	d	68
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125494	1471938923323	1471938923452	 	32
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125497	1471938923792	1471938923899	b	66
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125596	1471938924066	1471938924140	r	82
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125599	1471938924462	1471938924595	BKSP	8
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125600	1471938924645	1471938924730	e	69
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125601	1471938924775	1471938924883	 	32
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125602	1471938925184	1471938925274	s	83
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125603	1471938925369	1471938925486	o	79
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125709	1471938925644	1471938925793	l	76
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125713	1471938926628	1471938926745	BKSP	8
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125716	1471938926961	1471938927040	r	82
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125718	1471938927118	1471938927203	e	69
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125720	1471938927458	1471938927596	l	76
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125721	1471938927920	1471938928021	y	89
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125757	1471938928122	1471938928276	 	32
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125759	1471938928554	1471938928682	m	77
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125761	1471938928801	1471938928945	i	73
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125763	1471938929035	1471938929117	s	83
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125766	1471938929196	1471938929271	s	83
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125816	1471938929502	1471938929597	e	69
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125818	1471938929654	1471938929767	d	68
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125820	1471938929883	1471938930027	 	32
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125821	1471938930332	1471938930439	b	66
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125822	1471938930539	1471938930656	y	89
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125847	1471938930702	1471938930841	 	32
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125849	1471938931018	1471938931109	a	65
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125851	1471938931240	1471938931324	l	76
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125855	1471938931394	1471938931479	l	76
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125858	1471938931539	1471938931662	 	32
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125918	1471938932131	1471938932216	w	87
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125919	1471938932341	1471938932437	h	72
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125920	1471938932659	1471938932803	o	79
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125921	1471938932890	1471938933045	 	32
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125922	1471938933320	1471938933448	a	65
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125965	1471938933621	1471938933723	r	82
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125968	1471938933783	1471938933874	e	69
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125971	1471938933943	1471938934076	 	32
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125973	1471938934265	1471938934350	s	83
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	125977	1471938934535	1471938934621	t	84
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126121	1471938934702	1471938934803	r	82
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126122	1471938934906	1471938935077	i	73
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126125	1471938935938	1471938936039	b	66
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126126	1471938936614	1471938936731	i	73
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126129	1471938937138	1471938937234	BKSP	8
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126131	1471938937312	1471938937397	BKSP	8
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126134	1471938938002	1471938938097	v	86
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126199	1471938938402	1471938938503	i	73
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126200	1471938938547	1471938938719	n	78
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126201	1471938938829	1471938938941	g	71
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126203	1471938939181	1471938939319	 	32
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126206	1471938939751	1471938939841	f	70
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126236	1471938939962	1471938940064	o	79
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126240	1471938940124	1471938940204	r	82
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126243	1471938940255	1471938940372	 	32
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126246	1471938940660	1471938940778	p	80
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126248	1471938940912	1471938940992	r	82
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126282	1471938941048	1471938941155	o	79
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126286	1471938941377	1471938941484	g	71
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126291	1471938941673	1471938941759	r	82
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126295	1471938941885	1471938941964	e	69
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126299	1471938942165	1471938942245	s	83
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126351	1471938942334	1471938942414	s	83
+287	2590	He would be sorely missed by all who are striving for progress.	he would be sorely missed by all who are striving for progress.	126353	1471938943186	1471938943272	.	190
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126591	1471938947290	1471938947396	a	65
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126595	1471938947633	1471938947734	v	86
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126597	1471938947907	1471938947992	a	65
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126601	1471938948626	1471938948738	,	188
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126604	1471938948910	1471938949006	 	32
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126653	1471938949355	1471938949461	p	80
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126654	1471938949541	1471938949648	l	76
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126657	1471938949691	1471938949781	e	69
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126660	1471938949898	1471938949994	a	65
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126663	1471938950078	1471938950159	s	83
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126710	1471938950266	1471938950348	e	69
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126712	1471938950528	1471938950635	 	32
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126714	1471938951064	1471938951166	p	80
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126716	1471938951354	1471938951450	u	85
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126718	1471938951659	1471938951750	t	84
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126763	1471938951869	1471938952007	 	32
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126766	1471938952457	1471938952559	m	77
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126769	1471938952683	1471938952769	e	69
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126771	1471938952919	1471938953053	 	32
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126772	1471938953582	1471938953678	o	79
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126794	1471938953776	1471938953882	n	78
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126798	1471938953951	1471938954063	 	32
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126801	1471938954128	1471938954203	t	84
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126805	1471938954264	1471938954354	h	72
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126853	1471938954349	1471938954435	e	69
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126854	1471938954480	1471938954565	 	32
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126855	1471938954739	1471938954829	l	76
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126857	1471938954913	1471938954992	i	73
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126859	1471938955043	1471938955117	s	83
+287	2610	Ava, please put me on the list.	ava, please put me on the list	126861	1471938955675	1471938955755	t	84
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127046	1471938959600	1471938959712	i	73
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127049	1471938959801	1471938959939	 	32
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127052	1471938960326	1471938960428	d	68
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127055	1471938960478	1471938960600	o	79
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127059	1471938960771	1471938960905	n	78
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127185	1471938962428	1471938962519	'	222
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127188	1471938963157	1471938963264	t	84
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127192	1471938963582	1471938963716	 	32
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127204	1471938964163	1471938964259	t	84
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127196	1471938964225	1471938964226	WIN	91
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127208	1471938964276	1471938964415	h	72
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127247	1471938964472	1471938964638	i	73
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127250	1471938964668	1471938964779	n	78
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127254	1471938964968	1471938965090	k	75
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127257	1471938965217	1471938965383	 	32
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127260	1471938965733	1471938965823	w	87
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127285	1471938965900	1471938965980	e	69
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127287	1471938966008	1471938966120	 	32
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127288	1471938966295	1471938966418	n	78
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127289	1471938966480	1471938966570	e	69
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127290	1471938966652	1471938966738	e	69
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127346	1471938966852	1471938966942	s	83
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127348	1471938967017	1471938967129	 	32
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127350	1471938967687	1471938967793	t	84
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127352	1471938967809	1471938967948	o	79
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127353	1471938967980	1471938968124	 	32
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127405	1471938968221	1471938968349	m	77
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127407	1471938968383	1471938968473	a	65
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127410	1471938968550	1471938968658	k	75
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127414	1471938968750	1471938968831	e	69
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127418	1471938968999	1471938969111	 	32
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127456	1471938969208	1471938969310	a	65
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127460	1471938969405	1471938969522	 	32
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127464	1471938969787	1471938969883	b	66
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127466	1471938970025	1471938970147	i	73
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127467	1471938970247	1471938970350	g	71
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127505	1471938970469	1471938970593	 	32
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127508	1471938970734	1471938970814	d	68
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127511	1471938971146	1471938971232	e	69
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127515	1471938971369	1471938971465	a	65
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127519	1471938971585	1471938971702	l	76
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127575	1471938971825	1471938971948	 	32
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127579	1471938972542	1471938972638	o	79
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127583	1471938972927	1471938973012	f	70
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127589	1471938973062	1471938973158	 	32
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127594	1471938973285	1471938973354	t	84
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127629	1471938973389	1471938973479	h	72
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127631	1471938973578	1471938973695	i	73
+287	2623	I don't think we need to make a big deal of this.	i don't think we nees to make a big deal of this	127633	1471938973896	1471938973976	s	83
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	127804	1471938977277	1471938977400	h	72
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	127808	1471938977691	1471938977771	e	69
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	127810	1471938977834	1471938977941	 	32
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	127815	1471938978148	1471938978254	d	68
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	127820	1471938978278	1471938978374	i	73
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	127861	1471938978441	1471938978521	d	68
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	127863	1471938978661	1471938978768	 	32
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	127866	1471938979068	1471938979170	n	78
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	127869	1471938979318	1471938979473	o	79
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	127871	1471938979562	1471938979641	t	84
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	127915	1471938979743	1471938979866	 	32
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	127916	1471938980080	1471938980160	r	82
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	127917	1471938980234	1471938980324	e	69
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	127918	1471938980603	1471938980669	t	84
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	127919	1471938980760	1471938980861	u	85
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	127982	1471938980905	1471938980985	r	82
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	127983	1471938981203	1471938981321	n	78
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	127986	1471938981441	1471938981580	 	32
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	127989	1471938982016	1471938982096	t	84
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	127991	1471938982208	1471938982293	o	79
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128008	1471938982352	1471938982496	 	32
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128011	1471938982512	1471938982587	t	84
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128015	1471938982645	1471938982751	h	72
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128017	1471938982782	1471938982866	e	69
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128019	1471938982934	1471938983067	 	32
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128103	1471938983738	1471938983834	g	71
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128106	1471938983956	1471938984041	a	65
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128107	1471938984190	1471938984318	m	77
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128109	1471938984763	1471938984859	e	69
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128111	1471938984965	1471938985061	 	32
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128171	1471938985791	1471938985887	,	188
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128174	1471938986067	1471938986157	 	32
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128179	1471938986293	1471938986383	a	65
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128184	1471938986417	1471938986534	n	78
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128190	1471938986606	1471938986680	d	68
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128242	1471938986908	1471938987035	 	32
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128246	1471938987566	1471938987657	i	73
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128249	1471938987763	1471938987827	s	83
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128252	1471938987915	1471938988011	 	32
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128260	1471938988248	1471938988339	l	76
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128318	1471938988429	1471938988509	i	73
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128323	1471938988623	1471938988703	s	83
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128329	1471938989160	1471938989230	t	84
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128333	1471938989700	1471938989775	e	69
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128343	1471938989881	1471938989962	d	68
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128391	1471938990085	1471938990223	 	32
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128394	1471938990622	1471938990723	a	65
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128398	1471938990801	1471938990887	s	83
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128401	1471938990938	1471938991055	 	32
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128405	1471938991084	1471938991154	d	68
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128472	1471938991280	1471938991361	a	65
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128475	1471938991713	1471938991819	y	89
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128479	1471938991986	1471938992098	 	32
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128482	1471938992552	1471938992632	t	84
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128485	1471938992709	1471938992810	o	79
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128532	1471938992841	1471938992958	 	32
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128533	1471938993254	1471938993334	d	68
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128534	1471938993443	1471938993513	a	65
+287	2640	He did not return to the game, and is listed as day to day.	he did not return to the game , and is listed as day to day	128535	1471938993605	1471938993696	y	89
+287	2658	My comments are in fuschia.	my comments are in fuschia	128724	1471938997044	1471938997172	m	77
+287	2658	My comments are in fuschia.	my comments are in fuschia	128725	1471938997293	1471938997384	y	89
+287	2658	My comments are in fuschia.	my comments are in fuschia	128727	1471938997452	1471938997580	 	32
+287	2658	My comments are in fuschia.	my comments are in fuschia	128730	1471938997877	1471938997972	c	67
+287	2658	My comments are in fuschia.	my comments are in fuschia	128734	1471938998039	1471938998134	o	79
+287	2658	My comments are in fuschia.	my comments are in fuschia	128793	1471938998249	1471938998324	m	77
+287	2658	My comments are in fuschia.	my comments are in fuschia	128795	1471938998405	1471938998464	m	77
+287	2658	My comments are in fuschia.	my comments are in fuschia	128799	1471938998941	1471938999031	e	69
+287	2658	My comments are in fuschia.	my comments are in fuschia	128803	1471938999092	1471938999215	n	78
+287	2658	My comments are in fuschia.	my comments are in fuschia	128809	1471938999577	1471938999646	t	84
+287	2658	My comments are in fuschia.	my comments are in fuschia	128869	1471938999920	1471939000044	s	83
+287	2658	My comments are in fuschia.	my comments are in fuschia	128870	1471939000125	1471939000279	 	32
+287	2658	My comments are in fuschia.	my comments are in fuschia	128871	1471939000559	1471939000756	a	65
+287	2658	My comments are in fuschia.	my comments are in fuschia	128873	1471939000985	1471939001075	r	82
+287	2658	My comments are in fuschia.	my comments are in fuschia	128876	1471939001138	1471939001239	e	69
+287	2658	My comments are in fuschia.	my comments are in fuschia	128970	1471939001328	1471939001477	 	32
+287	2658	My comments are in fuschia.	my comments are in fuschia	128974	1471939001548	1471939001681	i	73
+287	2658	My comments are in fuschia.	my comments are in fuschia	128980	1471939001801	1471939001968	n	78
+287	2658	My comments are in fuschia.	my comments are in fuschia	128983	1471939002093	1471939002190	 	32
+287	2658	My comments are in fuschia.	my comments are in fuschia	128987	1471939003244	1471939003340	f	70
+287	2658	My comments are in fuschia.	my comments are in fuschia	129130	1471939003372	1471939003485	u	85
+287	2658	My comments are in fuschia.	my comments are in fuschia	129132	1471939004354	1471939004445	s	83
+287	2658	My comments are in fuschia.	my comments are in fuschia	129137	1471939004649	1471939004729	c	67
+287	2658	My comments are in fuschia.	my comments are in fuschia	129141	1471939004862	1471939004942	j	74
+287	2658	My comments are in fuschia.	my comments are in fuschia	129148	1471939005648	1471939005755	BKSP	8
+287	2658	My comments are in fuschia.	my comments are in fuschia	129153	1471939005813	1471939005903	h	72
+287	2658	My comments are in fuschia.	my comments are in fuschia	129218	1471939006067	1471939006194	i	73
+287	2658	My comments are in fuschia.	my comments are in fuschia	129222	1471939006649	1471939006756	a	65
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129526	1471939010160	1471939010277	l	76
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129532	1471939010532	1471939010670	u	85
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129537	1471939011235	1471939011357	s	83
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129541	1471939011419	1471939011563	i	73
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129545	1471939012397	1471939012499	n	78
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129628	1471939013193	1471939013310	c	67
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129631	1471939013381	1471939013498	h	72
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129636	1471939013590	1471939013734	i	73
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129640	1471939013843	1471939013939	 	32
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129642	1471939014229	1471939014327	i	73
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129671	1471939014401	1471939014497	s	83
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129672	1471939014552	1471939014696	 	32
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129673	1471939014884	1471939014975	c	67
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129674	1471939015137	1471939015228	u	85
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129676	1471939015381	1471939015461	r	82
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129927	1471939015662	1471939015752	e	69
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129929	1471939015937	1471939016034	n	78
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129931	1471939017098	1471939017215	t	84
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129933	1471939019560	1471939019634	BKSP	8
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129936	1471939019710	1471939019796	BKSP	8
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129938	1471939019980	1471939020093	BKSP	8
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129940	1471939020690	1471939020769	r	82
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	129944	1471939020859	1471939020929	e	69
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130057	1471939021027	1471939021150	n	78
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130063	1471939021245	1471939021330	t	84
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130068	1471939021700	1471939021791	l	76
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130072	1471939022417	1471939022556	l	76
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130075	1471939022571	1471939022651	y	89
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130170	1471939022796	1471939022941	 	32
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130174	1471939023307	1471939023414	i	73
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130177	1471939023587	1471939023699	n	78
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130182	1471939023749	1471939023909	 	32
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130185	1471939024238	1471939024339	b	66
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130240	1471939024608	1471939024687	o	79
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130242	1471939024817	1471939024892	s	83
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130244	1471939025083	1471939025152	t	84
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130246	1471939025187	1471939025293	o	79
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130247	1471939025429	1471939025588	n	78
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130335	1471939025725	1471939025868	 	32
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130337	1471939026363	1471939026501	BKSP	8
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130340	1471939027063	1471939027165	,	188
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130345	1471939027274	1471939027381	 	32
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130349	1471939027734	1471939027878	m	77
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130354	1471939027988	1471939028101	a	65
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130453	1471939029002	1471939029098	,	188
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130455	1471939029255	1471939029357	 	32
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130457	1471939029869	1471939029992	a	65
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130459	1471939030399	1471939030479	c	67
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130461	1471939030664	1471939030750	c	67
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130490	1471939030854	1471939030944	o	79
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130494	1471939031047	1471939031127	r	82
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130500	1471939031375	1471939031460	d	68
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130502	1471939031547	1471939031643	i	73
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130507	1471939031756	1471939031879	n	78
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130533	1471939031918	1471939032013	g	71
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130538	1471939032195	1471939032325	 	32
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130542	1471939032823	1471939032908	t	84
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130546	1471939032990	1471939033133	o	79
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130616	1471939033129	1471939033240	 	32
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130623	1471939033372	1471939033447	h	72
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130628	1471939033547	1471939033681	i	73
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130633	1471939033720	1471939033799	d	68
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130636	1471939034150	1471939034288	BKSP	8
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130637	1471939034358	1471939034443	s	83
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130639	1471939034488	1471939034610	 	32
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130695	1471939035086	1471939035188	a	65
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130697	1471939035513	1471939035597	t	84
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130699	1471939035679	1471939035775	t	84
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130701	1471939036719	1471939036810	o	79
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130703	1471939037000	1471939037106	u	85
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130769	1471939037429	1471939037509	r	82
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130771	1471939037810	1471939037894	n	78
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130773	1471939038072	1471939038151	e	69
+287	2672	Lusinchi is currently in Boston, MA, according to his attorney.	lusinchi is currentlly in boston, ma, according to his attourney	130776	1471939038358	1471939038439	y	89
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	130926	1471939042651	1471939042768	i	73
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	130929	1471939043006	1471939043139	 	32
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	130932	1471939043183	1471939043300	n	78
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	130938	1471939043430	1471939043515	e	69
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	130943	1471939043631	1471939043716	e	69
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	130985	1471939043835	1471939043921	d	68
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	130988	1471939043998	1471939044147	 	32
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	130991	1471939044467	1471939044541	t	84
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	130994	1471939044635	1471939044758	o	79
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	130999	1471939044783	1471939044938	 	32
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131044	1471939045025	1471939045154	l	76
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131045	1471939045258	1471939045344	i	73
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131046	1471939045464	1471939045560	n	78
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131048	1471939045680	1471939045787	k	75
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131051	1471939045912	1471939046115	 	32
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131108	1471939046540	1471939046625	t	84
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131110	1471939046663	1471939046775	h	72
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131112	1471939046853	1471939046933	e	69
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131114	1471939047173	1471939047290	m	77
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131118	1471939047461	1471939047615	 	32
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131179	1471939047972	1471939048063	u	85
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131182	1471939048194	1471939048306	p	80
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131185	1471939048419	1471939048574	 	32
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131189	1471939049050	1471939049125	t	84
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131193	1471939049246	1471939049352	o	79
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131211	1471939049395	1471939049535	 	32
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131212	1471939049666	1471939049757	t	84
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131214	1471939049812	1471939049934	h	72
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131217	1471939050012	1471939050103	e	69
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131222	1471939050251	1471939050385	 	32
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131262	1471939050635	1471939050715	t	84
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131265	1471939050990	1471939051081	a	65
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131268	1471939051242	1471939051322	g	71
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131271	1471939051393	1471939051479	g	71
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131272	1471939051621	1471939051722	 	32
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131309	1471939052128	1471939052208	d	68
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131310	1471939052293	1471939052373	e	69
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131312	1471939052501	1471939052581	a	65
+287	2705	I need to link them up to the Tagg deal.	i need to link them up to the tagg deal	131315	1471939052703	1471939052777	l	76
+287	2715	Thanks for your concern.	thanks for the concern.	131471	1471939056037	1471939056138	t	84
+287	2715	Thanks for your concern.	thanks for the concern.	131474	1471939056172	1471939056311	h	72
+287	2715	Thanks for your concern.	thanks for the concern.	131476	1471939056505	1471939056612	a	65
+287	2715	Thanks for your concern.	thanks for the concern.	131480	1471939056698	1471939056805	n	78
+287	2715	Thanks for your concern.	thanks for the concern.	131484	1471939056975	1471939057114	k	75
+287	2715	Thanks for your concern.	thanks for the concern.	131533	1471939057313	1471939057462	s	83
+287	2715	Thanks for your concern.	thanks for the concern.	131535	1471939057571	1471939057704	 	32
+287	2715	Thanks for your concern.	thanks for the concern.	131538	1471939058020	1471939058095	f	70
+287	2715	Thanks for your concern.	thanks for the concern.	131540	1471939058212	1471939058339	o	79
+287	2715	Thanks for your concern.	thanks for the concern.	131542	1471939058638	1471939058718	r	82
+287	2715	Thanks for your concern.	thanks for the concern.	131569	1471939058809	1471939058926	 	32
+287	2715	Thanks for your concern.	thanks for the concern.	131571	1471939058979	1471939059053	t	84
+287	2715	Thanks for your concern.	thanks for the concern.	131574	1471939059132	1471939059212	h	72
+287	2715	Thanks for your concern.	thanks for the concern.	131577	1471939059276	1471939059340	e	69
+287	2715	Thanks for your concern.	thanks for the concern.	131580	1471939059418	1471939059503	 	32
+287	2715	Thanks for your concern.	thanks for the concern.	131614	1471939059790	1471939059880	c	67
+287	2715	Thanks for your concern.	thanks for the concern.	131616	1471939059985	1471939060065	o	79
+287	2715	Thanks for your concern.	thanks for the concern.	131618	1471939060227	1471939060312	n	78
+287	2715	Thanks for your concern.	thanks for the concern.	131620	1471939060438	1471939060513	c	67
+287	2715	Thanks for your concern.	thanks for the concern.	131622	1471939060643	1471939060724	e	69
+287	2715	Thanks for your concern.	thanks for the concern.	131710	1471939060802	1471939060881	r	82
+287	2715	Thanks for your concern.	thanks for the concern.	131711	1471939061450	1471939061600	n	78
+287	2715	Thanks for your concern.	thanks for the concern.	131713	1471939062890	1471939062959	.	190

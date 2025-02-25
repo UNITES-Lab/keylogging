@@ -1,0 +1,643 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97123	1471937828109	1471937828301	SHIFT	16
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97125	1471937828171	1471937828305	F	70
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97127	1471937828545	1471937828798	SHIFT	16
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97126	1471937828626	1471937828720	Y	89
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97129	1471937829081	1471937829330	SHIFT	16
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97128	1471937829147	1471937829269	I	73
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97130	1471937829531	1471937829636	,	188
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97131	1471937829724	1471937829859	 	32
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97151	1471937829907	1471937830053	w	87
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97152	1471937829993	1471937830114	o	79
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97153	1471937830082	1471937830219	u	85
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97154	1471937830344	1471937830501	l	76
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97155	1471937830652	1471937830777	d	68
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97167	1471937830820	1471937830956	 	32
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97169	1471937830977	1471937831111	s	83
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97171	1471937831080	1471937831176	h	72
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97173	1471937831220	1471937831333	e	69
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97175	1471937831368	1471937831507	 	32
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97191	1471937831600	1471937831718	m	77
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97192	1471937831720	1471937831824	e	69
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97193	1471937831949	1471937832034	e	69
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97194	1471937832137	1471937832243	t	84
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97195	1471937832277	1471937832444	 	32
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97220	1471937832451	1471937832552	m	77
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97222	1471937832701	1471937832778	y	89
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97224	1471937832930	1471937833063	 	32
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97226	1471937833087	1471937833193	r	82
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97228	1471937833260	1471937833358	e	69
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97253	1471937833502	1471937833626	q	81
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97255	1471937833650	1471937833742	u	85
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97257	1471937833834	1471937833959	i	73
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97258	1471937833998	1471937834109	r	82
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97259	1471937834238	1471937834345	e	69
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97280	1471937834635	1471937834755	m	77
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97281	1471937834770	1471937834883	e	69
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97282	1471937834900	1471937835023	n	78
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97283	1471937835024	1471937835098	t	84
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97284	1471937835254	1471937835384	s	83
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97368	1471937836329	1471937836708	SHIFT	16
+238	1991	FYI, would she meet my requirements?	FYI, would she meet my requirements?	97366	1471937836534	1471937836606	?	191
+238	1997	Seems unusual to me.	Seems unusual to me.	97489	1471937843071	1471937843226	SHIFT	16
+238	1997	Seems unusual to me.	Seems unusual to me.	97491	1471937843147	1471937843297	S	83
+238	1997	Seems unusual to me.	Seems unusual to me.	97495	1471937843432	1471937843516	e	69
+238	1997	Seems unusual to me.	Seems unusual to me.	97498	1471937843615	1471937843711	e	69
+238	1997	Seems unusual to me.	Seems unusual to me.	97501	1471937843764	1471937843900	m	77
+238	1997	Seems unusual to me.	Seems unusual to me.	97503	1471937843901	1471937844016	s	83
+238	1997	Seems unusual to me.	Seems unusual to me.	97516	1471937844045	1471937844197	 	32
+238	1997	Seems unusual to me.	Seems unusual to me.	97518	1471937844243	1471937844330	u	85
+238	1997	Seems unusual to me.	Seems unusual to me.	97519	1471937844449	1471937844541	n	78
+238	1997	Seems unusual to me.	Seems unusual to me.	97520	1471937844661	1471937844752	u	85
+238	1997	Seems unusual to me.	Seems unusual to me.	97521	1471937844821	1471937844947	s	83
+238	1997	Seems unusual to me.	Seems unusual to me.	97546	1471937845017	1471937845139	u	85
+238	1997	Seems unusual to me.	Seems unusual to me.	97548	1471937845186	1471937845345	a	65
+238	1997	Seems unusual to me.	Seems unusual to me.	97551	1471937845320	1471937845436	l	76
+238	1997	Seems unusual to me.	Seems unusual to me.	97554	1471937845591	1471937845728	 	32
+238	1997	Seems unusual to me.	Seems unusual to me.	97557	1471937845760	1471937845893	t	84
+238	1997	Seems unusual to me.	Seems unusual to me.	97597	1471937845853	1471937845961	o	79
+238	1997	Seems unusual to me.	Seems unusual to me.	97600	1471937845998	1471937846116	 	32
+238	1997	Seems unusual to me.	Seems unusual to me.	97603	1471937846166	1471937846294	m	77
+238	1997	Seems unusual to me.	Seems unusual to me.	97607	1471937846348	1471937846429	e	69
+238	1997	Seems unusual to me.	Seems unusual to me.	97610	1471937846667	1471937846768	.	190
+238	2005	But thank you for the offer.	But thank you for the offer.	97715	1471937851794	1471937852008	SHIFT	16
+238	2005	But thank you for the offer.	But thank you for the offer.	97716	1471937851938	1471937852093	B	66
+238	2005	But thank you for the offer.	But thank you for the offer.	97717	1471937852195	1471937852307	u	85
+238	2005	But thank you for the offer.	But thank you for the offer.	97718	1471937852339	1471937852458	t	84
+238	2005	But thank you for the offer.	But thank you for the offer.	97720	1471937852511	1471937852648	 	32
+238	2005	But thank you for the offer.	But thank you for the offer.	97723	1471937852686	1471937852805	t	84
+238	2005	But thank you for the offer.	But thank you for the offer.	97776	1471937852791	1471937852899	h	72
+238	2005	But thank you for the offer.	But thank you for the offer.	97777	1471937852934	1471937853053	a	65
+238	2005	But thank you for the offer.	But thank you for the offer.	97778	1471937853076	1471937853166	n	78
+238	2005	But thank you for the offer.	But thank you for the offer.	97779	1471937853367	1471937853500	 	32
+238	2005	But thank you for the offer.	But thank you for the offer.	97780	1471937853649	1471937853730	y	89
+238	2005	But thank you for the offer.	But thank you for the offer.	97781	1471937854177	1471937854271	BKSP	8
+238	2005	But thank you for the offer.	But thank you for the offer.	97782	1471937854415	1471937854509	BKSP	8
+238	2005	But thank you for the offer.	But thank you for the offer.	97783	1471937854965	1471937855062	k	75
+238	2005	But thank you for the offer.	But thank you for the offer.	97799	1471937855178	1471937855290	 	32
+238	2005	But thank you for the offer.	But thank you for the offer.	97800	1471937855403	1471937855481	y	89
+238	2005	But thank you for the offer.	But thank you for the offer.	97801	1471937855559	1471937855672	o	79
+238	2005	But thank you for the offer.	But thank you for the offer.	97802	1471937855615	1471937855746	u	85
+238	2005	But thank you for the offer.	But thank you for the offer.	97804	1471937855852	1471937855966	 	32
+238	2005	But thank you for the offer.	But thank you for the offer.	97822	1471937855970	1471937856067	f	70
+238	2005	But thank you for the offer.	But thank you for the offer.	97824	1471937856046	1471937856160	o	79
+238	2005	But thank you for the offer.	But thank you for the offer.	97825	1471937856168	1471937856239	r	82
+238	2005	But thank you for the offer.	But thank you for the offer.	97826	1471937856248	1471937856365	 	32
+238	2005	But thank you for the offer.	But thank you for the offer.	97827	1471937856372	1471937856478	t	84
+238	2005	But thank you for the offer.	But thank you for the offer.	97833	1471937856488	1471937856572	h	72
+238	2005	But thank you for the offer.	But thank you for the offer.	97834	1471937856586	1471937856683	e	69
+238	2005	But thank you for the offer.	But thank you for the offer.	97835	1471937856700	1471937856808	 	32
+238	2005	But thank you for the offer.	But thank you for the offer.	97836	1471937856829	1471937856951	o	79
+238	2005	But thank you for the offer.	But thank you for the offer.	97837	1471937857035	1471937857124	f	70
+238	2005	But thank you for the offer.	But thank you for the offer.	97867	1471937857226	1471937857336	f	70
+238	2005	But thank you for the offer.	But thank you for the offer.	97868	1471937857459	1471937857633	e	69
+238	2005	But thank you for the offer.	But thank you for the offer.	97869	1471937857593	1471937857714	r	82
+238	2005	But thank you for the offer.	But thank you for the offer.	97870	1471937858022	1471937858129	.	190
+238	2008	You just can't work without me can you?	You just can't work without me can you?	97968	1471937861552	1471937861841	SHIFT	16
+238	2008	You just can't work without me can you?	You just can't work without me can you?	97967	1471937861716	1471937861796	Y	89
+238	2008	You just can't work without me can you?	You just can't work without me can you?	97970	1471937861881	1471937862030	o	79
+238	2008	You just can't work without me can you?	You just can't work without me can you?	97972	1471937861962	1471937862098	u	85
+238	2008	You just can't work without me can you?	You just can't work without me can you?	97974	1471937862285	1471937862410	 	32
+238	2008	You just can't work without me can you?	You just can't work without me can you?	97976	1471937862556	1471937862646	j	74
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98008	1471937862758	1471937862845	u	85
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98009	1471937862914	1471937863018	s	83
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98010	1471937863083	1471937863180	t	84
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98011	1471937863223	1471937863348	 	32
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98012	1471937863526	1471937863635	c	67
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98110	1471937863728	1471937863824	a	65
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98112	1471937863866	1471937863965	n	78
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98115	1471937864439	1471937864553	i	73
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98117	1471937865208	1471937865298	BKSP	8
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98120	1471937865806	1471937865919	o	79
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98123	1471937866406	1471937866504	BKSP	8
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98127	1471937868070	1471937868138	'	222
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98148	1471937868856	1471937868958	t	84
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98149	1471937869038	1471937869186	 	32
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98150	1471937869213	1471937869354	w	87
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98151	1471937869313	1471937869429	o	79
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98152	1471937869440	1471937869555	r	82
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98167	1471937869619	1471937869736	k	75
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98169	1471937869827	1471937869973	 	32
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98171	1471937869960	1471937870089	w	87
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98173	1471937870063	1471937870248	i	73
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98188	1471937870205	1471937870339	t	84
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98189	1471937870255	1471937870353	h	72
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98190	1471937870801	1471937870972	o	79
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98191	1471937870940	1471937871066	u	85
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98192	1471937871112	1471937871212	t	84
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98193	1471937871241	1471937871358	 	32
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98201	1471937871411	1471937871540	m	77
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98203	1471937871519	1471937871628	e	69
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98206	1471937871695	1471937871853	 	32
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98208	1471937871869	1471937871953	c	67
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98210	1471937872047	1471937872139	a	65
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98236	1471937872179	1471937872278	n	78
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98239	1471937872702	1471937872830	 	32
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98241	1471937872933	1471937873030	y	89
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98243	1471937873106	1471937873237	o	79
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98351	1471937873175	1471937873322	u	85
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98353	1471937876348	1471937876772	SHIFT	16
+238	2008	You just can't work without me can you?	You just can't work without me can you?	98352	1471937876611	1471937876696	?	191
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98414	1471937880270	1471937880520	SHIFT	16
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98413	1471937880374	1471937880474	I	73
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98415	1471937880555	1471937880679	 	32
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98416	1471937880733	1471937880826	h	72
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98417	1471937880850	1471937880939	a	65
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98418	1471937881026	1471937881110	v	86
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98440	1471937881210	1471937881306	e	69
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98443	1471937881308	1471937881437	 	32
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98446	1471937881480	1471937881582	n	78
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98449	1471937881951	1471937882051	o	79
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98454	1471937882203	1471937882331	 	32
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98459	1471937882363	1471937882482	p	80
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98460	1471937882503	1471937882641	e	69
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98461	1471937882595	1471937882719	r	82
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98462	1471937882801	1471937882935	s	83
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98473	1471937882898	1471937883018	o	79
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98474	1471937883128	1471937883247	n	78
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98475	1471937883284	1471937883405	a	65
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98476	1471937883413	1471937883509	l	76
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98477	1471937883583	1471937883714	 	32
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98478	1471937883739	1471937883846	t	84
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98513	1471937884002	1471937884102	r	82
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98514	1471937884234	1471937884346	a	65
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98515	1471937884394	1471937884470	n	78
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98516	1471937884923	1471937885023	s	83
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98517	1471937885272	1471937885391	a	65
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98536	1471937885577	1471937885705	c	67
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98539	1471937885802	1471937885937	t	84
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98541	1471937885889	1471937886007	i	73
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98545	1471937885970	1471937886176	o	79
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98546	1471937886314	1471937886436	n	78
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98563	1471937886650	1471937886775	s	83
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98564	1471937886839	1471937887006	 	32
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98566	1471937887010	1471937887126	w	87
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98569	1471937887086	1471937887236	i	73
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98575	1471937887510	1471937887637	t	84
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98604	1471937887669	1471937887753	h	72
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98605	1471937887863	1471937888007	 	32
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98606	1471937888013	1471937888148	a	65
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98607	1471937888189	1471937888298	n	78
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98608	1471937888556	1471937888716	 	32
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98624	1471937888790	1471937888961	SHIFT	16
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98625	1471937888895	1471937889032	E	69
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98627	1471937889102	1471937889195	n	78
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98629	1471937889302	1471937889424	r	82
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98631	1471937889434	1471937889559	o	79
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98633	1471937889711	1471937889795	n	78
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98646	1471937889911	1471937890041	 	32
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98647	1471937890078	1471937890221	e	69
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98648	1471937890224	1471937890329	n	78
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98649	1471937890357	1471937890460	t	84
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98650	1471937890528	1471937890639	i	73
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98711	1471937890738	1471937890850	t	84
+238	2020	I have no personal transactions with any Enron entity.	I have no personal transactions with an Enron entity	98712	1471937892113	1471937892200	y	89
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98855	1471937900212	1471937900473	SHIFT	16
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98854	1471937900317	1471937900433	P	80
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98856	1471937900546	1471937900675	l	76
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98857	1471937900698	1471937900829	e	69
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98859	1471937900936	1471937901057	a	65
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98861	1471937901130	1471937901220	s	83
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98881	1471937901310	1471937901438	e	69
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98883	1471937901481	1471937901628	 	32
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98887	1471937901672	1471937901796	l	76
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98890	1471937901811	1471937901923	e	69
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98892	1471937902011	1471937902131	t	84
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98896	1471937902149	1471937902277	 	32
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98898	1471937902319	1471937902434	m	77
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98900	1471937902444	1471937902567	e	69
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98902	1471937902588	1471937902735	 	32
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98904	1471937902777	1471937902861	k	75
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98926	1471937902956	1471937903043	n	78
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98928	1471937903089	1471937903225	o	79
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98931	1471937903246	1471937903356	w	87
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98933	1471937903361	1471937903495	 	32
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98935	1471937903505	1471937903629	i	73
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98938	1471937903656	1471937903779	f	70
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98940	1471937903786	1471937903894	 	32
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98943	1471937903987	1471937904075	y	89
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98946	1471937904136	1471937904266	o	79
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98972	1471937904210	1471937904339	u	85
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98974	1471937904446	1471937904565	 	32
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98976	1471937904686	1471937904806	l	76
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98978	1471937904962	1471937905063	e	69
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98980	1471937905174	1471937905260	a	65
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	98982	1471937905290	1471937905423	r	82
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99001	1471937905469	1471937905558	n	78
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99002	1471937905644	1471937905790	 	32
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99003	1471937905763	1471937905900	a	65
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99004	1471937906549	1471937906644	n	78
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99005	1471937907122	1471937907213	y	89
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99022	1471937907400	1471937907521	t	84
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99024	1471937907476	1471937907579	h	72
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99026	1471937907644	1471937907741	i	73
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99029	1471937907830	1471937907936	n	78
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99031	1471937907991	1471937908092	g	71
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99038	1471937908095	1471937908200	 	32
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99039	1471937908240	1471937908347	a	65
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99041	1471937908390	1471937908498	t	84
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99043	1471937908519	1471937908640	 	32
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99066	1471937908617	1471937908720	t	84
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99067	1471937908755	1471937908859	h	72
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99068	1471937908838	1471937908941	e	69
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99069	1471937908973	1471937909086	 	32
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99070	1471937909132	1471937909274	f	70
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99071	1471937909311	1471937909428	l	76
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99083	1471937909555	1471937909647	o	79
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99084	1471937909727	1471937909836	o	79
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99086	1471937909904	1471937910026	r	82
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99088	1471937910046	1471937910164	 	32
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99091	1471937910288	1471937910411	m	77
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99124	1471937910432	1471937910537	e	69
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99128	1471937910841	1471937910943	e	69
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99130	1471937911081	1471937911196	t	84
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99134	1471937911227	1471937911333	i	73
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99136	1471937911460	1471937911546	n	78
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99159	1471937911616	1471937911717	g	71
+238	2025	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	99160	1471937912061	1471937912158	.	190
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99361	1471937920245	1471937920525	SHIFT	16
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99359	1471937920414	1471937920509	N	78
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99362	1471937920619	1471937920742	e	69
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99363	1471937921076	1471937921201	i	73
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99365	1471937921202	1471937921319	t	84
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99367	1471937921331	1471937921418	h	72
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99369	1471937921446	1471937921588	e	69
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99372	1471937921534	1471937921654	r	82
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99375	1471937921675	1471937921817	 	32
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99376	1471937921854	1471937921952	p	80
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99379	1471937922075	1471937922201	l	76
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99404	1471937922206	1471937922342	a	65
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99408	1471937922436	1471937922525	y	89
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99412	1471937922610	1471937922772	e	69
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99416	1471937922707	1471937922831	r	82
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99417	1471937922969	1471937923124	 	32
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99427	1471937923127	1471937923243	i	73
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99430	1471937923352	1471937923482	s	83
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99435	1471937923496	1471937923612	 	32
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99439	1471937923753	1471937923880	g	71
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99442	1471937923887	1471937924048	o	79
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99456	1471937924107	1471937924218	i	73
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99457	1471937924338	1471937924454	n	78
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99458	1471937924510	1471937924605	g	71
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99459	1471937924617	1471937924783	 	32
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99468	1471937924735	1471937924850	t	84
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99471	1471937924841	1471937924951	o	79
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99473	1471937925005	1471937925129	 	32
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99476	1471937925168	1471937925287	b	66
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99479	1471937925401	1471937925525	e	69
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99482	1471937925537	1471937925665	 	32
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99503	1471937925787	1471937925938	a	65
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99507	1471937925928	1471937926055	 	32
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99508	1471937926145	1471937926261	c	67
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99510	1471937926354	1471937926475	l	76
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99512	1471937926494	1471937926600	e	69
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99553	1471937926707	1471937926802	a	65
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99554	1471937926883	1471937926994	r	82
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99555	1471937927784	1471937927853	-	189
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99556	1471937928200	1471937928314	c	67
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99557	1471937928362	1471937928460	u	85
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99575	1471937928570	1471937928665	t	84
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99577	1471937928766	1471937928901	 	32
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99579	1471937929019	1471937929108	s	83
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99580	1471937929174	1471937929263	t	84
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99582	1471937929382	1471937929471	a	65
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99592	1471937929514	1471937929617	r	82
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99593	1471937929716	1471937929803	t	84
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99594	1471937929915	1471937930071	e	69
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99595	1471937930046	1471937930158	r	82
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99596	1471937930222	1471937930374	 	32
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99616	1471937930364	1471937930470	t	84
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99619	1471937930471	1471937930572	h	72
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99622	1471937930749	1471937930859	i	73
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99626	1471937930975	1471937931092	s	83
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99630	1471937931107	1471937931247	 	32
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99633	1471937931294	1471937931411	w	87
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99691	1471937931475	1471937931585	e	69
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99693	1471937931707	1471937931834	e	69
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99694	1471937932200	1471937932299	k	75
+238	2036	Neither player is going to be a clear-cut starter this week.	Neither player is going to be a clear-cut starter this week.	99695	1471937932621	1471937932712	.	190
+238	2046	Could you try ringing her?	Could you try ringing her/	99800	1471937938196	1471937938338	SHIFT	16
+238	2046	Could you try ringing her?	Could you try ringing her/	99801	1471937938295	1471937938425	C	67
+238	2046	Could you try ringing her?	Could you try ringing her/	99802	1471937938451	1471937938652	o	79
+238	2046	Could you try ringing her?	Could you try ringing her/	99803	1471937938606	1471937938752	u	85
+238	2046	Could you try ringing her?	Could you try ringing her/	99805	1471937938860	1471937939007	l	76
+238	2046	Could you try ringing her?	Could you try ringing her/	99808	1471937939046	1471937939173	d	68
+238	2046	Could you try ringing her?	Could you try ringing her/	99817	1471937939148	1471937939261	 	32
+238	2046	Could you try ringing her?	Could you try ringing her/	99819	1471937939371	1471937939452	y	89
+238	2046	Could you try ringing her?	Could you try ringing her/	99821	1471937939538	1471937939650	o	79
+238	2046	Could you try ringing her?	Could you try ringing her/	99823	1471937939590	1471937939698	u	85
+238	2046	Could you try ringing her?	Could you try ringing her/	99825	1471937939850	1471937939993	 	32
+238	2046	Could you try ringing her?	Could you try ringing her/	99828	1471937940041	1471937940125	t	84
+238	2046	Could you try ringing her?	Could you try ringing her/	99839	1471937940228	1471937940329	r	82
+238	2046	Could you try ringing her?	Could you try ringing her/	99841	1471937940401	1471937940468	y	89
+238	2046	Could you try ringing her?	Could you try ringing her/	99843	1471937940614	1471937940742	 	32
+238	2046	Could you try ringing her?	Could you try ringing her/	99846	1471937940842	1471937940980	r	82
+238	2046	Could you try ringing her?	Could you try ringing her/	99863	1471937940951	1471937941049	i	73
+238	2046	Could you try ringing her?	Could you try ringing her/	99864	1471937941145	1471937941250	n	78
+238	2046	Could you try ringing her?	Could you try ringing her/	99866	1471937941297	1471937941430	g	71
+238	2046	Could you try ringing her?	Could you try ringing her/	99869	1471937941430	1471937941521	i	73
+238	2046	Could you try ringing her?	Could you try ringing her/	99873	1471937941615	1471937941724	n	78
+238	2046	Could you try ringing her?	Could you try ringing her/	99878	1471937941768	1471937941871	g	71
+238	2046	Could you try ringing her?	Could you try ringing her/	99917	1471937941919	1471937942041	 	32
+238	2046	Could you try ringing her?	Could you try ringing her/	99918	1471937942141	1471937942249	h	72
+238	2046	Could you try ringing her?	Could you try ringing her/	99920	1471937942251	1471937942370	e	69
+238	2046	Could you try ringing her?	Could you try ringing her/	99922	1471937942310	1471937942458	r	82
+238	2046	Could you try ringing her?	Could you try ringing her/	99924	1471937944255	1471937944331	/	191
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	99996	1471937947753	1471937947930	SHIFT	16
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	99999	1471937947849	1471937947949	H	72
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100002	1471937948020	1471937948137	e	69
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100009	1471937948141	1471937948275	 	32
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100014	1471937948328	1471937948458	r	82
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100020	1471937948525	1471937948617	e	69
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100033	1471937948758	1471937948889	f	70
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100035	1471937948882	1471937948961	u	85
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100037	1471937949045	1471937949154	s	83
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100039	1471937949276	1471937949375	e	69
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100041	1471937949512	1471937949619	d	68
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100051	1471937949640	1471937949799	 	32
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100052	1471937949753	1471937949868	t	84
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100053	1471937949910	1471937950006	o	79
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100056	1471937950084	1471937950206	 	32
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100062	1471937950232	1471937950344	e	69
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100095	1471937950400	1471937950520	l	76
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100099	1471937950560	1471937950636	a	65
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100101	1471937950792	1471937950937	b	66
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100103	1471937950938	1471937951044	o	79
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100104	1471937951090	1471937951184	r	82
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100108	1471937951301	1471937951399	a	65
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100110	1471937951456	1471937951556	t	84
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100112	1471937951669	1471937951766	e	69
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100115	1471937951825	1471937951977	 	32
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100126	1471937951969	1471937952078	o	79
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100129	1471937952222	1471937952305	n	78
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100131	1471937952420	1471937952536	 	32
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100133	1471937952515	1471937952624	t	84
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100135	1471937952645	1471937952742	h	72
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100157	1471937952729	1471937952818	e	69
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100159	1471937952850	1471937952962	 	32
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100160	1471937953006	1471937953096	d	68
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100161	1471937953215	1471937953321	e	69
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100162	1471937953364	1471937953491	l	76
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100163	1471937953512	1471937953618	a	65
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100197	1471937953688	1471937953787	y	89
+238	2053	He refused to elaborate on the delay.	He refused to elaborate on the delay.	100200	1471937954298	1471937954392	.	190
+238	2059	Thanks for your concern.	Thanks for your concern.	100287	1471937957651	1471937957787	SHIFT	16
+238	2059	Thanks for your concern.	Thanks for your concern.	100290	1471937957721	1471937957859	T	84
+238	2059	Thanks for your concern.	Thanks for your concern.	100292	1471937957906	1471937957983	h	72
+238	2059	Thanks for your concern.	Thanks for your concern.	100294	1471937958041	1471937958127	a	65
+238	2059	Thanks for your concern.	Thanks for your concern.	100297	1471937958119	1471937958237	n	78
+238	2059	Thanks for your concern.	Thanks for your concern.	100300	1471937958382	1471937958490	k	75
+238	2059	Thanks for your concern.	Thanks for your concern.	100315	1471937958688	1471937958826	s	83
+238	2059	Thanks for your concern.	Thanks for your concern.	100319	1471937958816	1471937958957	 	32
+238	2059	Thanks for your concern.	Thanks for your concern.	100324	1471937958970	1471937959083	f	70
+238	2059	Thanks for your concern.	Thanks for your concern.	100329	1471937959067	1471937959190	o	79
+238	2059	Thanks for your concern.	Thanks for your concern.	100335	1471937959190	1471937959266	r	82
+238	2059	Thanks for your concern.	Thanks for your concern.	100354	1471937959292	1471937959408	 	32
+238	2059	Thanks for your concern.	Thanks for your concern.	100357	1471937959493	1471937959578	y	89
+238	2059	Thanks for your concern.	Thanks for your concern.	100360	1471937959626	1471937959761	o	79
+238	2059	Thanks for your concern.	Thanks for your concern.	100361	1471937959710	1471937959834	u	85
+238	2059	Thanks for your concern.	Thanks for your concern.	100382	1471937959819	1471937959938	r	82
+238	2059	Thanks for your concern.	Thanks for your concern.	100384	1471937959967	1471937960125	 	32
+238	2059	Thanks for your concern.	Thanks for your concern.	100386	1471937960130	1471937960263	c	67
+238	2059	Thanks for your concern.	Thanks for your concern.	100388	1471937960206	1471937960325	o	79
+238	2059	Thanks for your concern.	Thanks for your concern.	100391	1471937960409	1471937960511	n	78
+238	2059	Thanks for your concern.	Thanks for your concern.	100394	1471937960645	1471937960734	c	67
+238	2059	Thanks for your concern.	Thanks for your concern.	100431	1471937960855	1471937961010	e	69
+238	2059	Thanks for your concern.	Thanks for your concern.	100432	1471937960958	1471937961116	r	82
+238	2059	Thanks for your concern.	Thanks for your concern.	100434	1471937961240	1471937961364	n	78
+238	2059	Thanks for your concern.	Thanks for your concern.	100436	1471937961770	1471937961866	.	190
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100520	1471937965243	1471937965478	SHIFT	16
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100519	1471937965349	1471937965467	L	76
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100522	1471937965640	1471937965732	y	89
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100525	1471937965949	1471937966026	n	78
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100528	1471937966127	1471937966209	n	78
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100531	1471937966452	1471937966537	,	188
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100549	1471937966642	1471937966760	 	32
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100552	1471937966907	1471937967030	g	71
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100554	1471937967015	1471937967133	o	79
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100556	1471937967153	1471937967263	t	84
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100558	1471937967300	1471937967433	 	32
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100572	1471937967436	1471937967569	t	84
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100574	1471937967530	1471937967642	o	79
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100583	1471937967717	1471937967859	 	32
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100587	1471937968148	1471937968272	t	84
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100610	1471937968248	1471937968345	h	72
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100613	1471937968383	1471937968493	e	69
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100616	1471937968474	1471937968607	 	32
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100619	1471937968664	1471937968788	o	79
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100622	1471937968868	1471937968957	f	70
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100623	1471937969073	1471937969196	f	70
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100655	1471937969325	1471937969441	i	73
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100657	1471937969519	1471937969628	c	67
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100659	1471937970039	1471937970151	e	69
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100662	1471937970405	1471937970561	 	32
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100709	1471937970626	1471937971263	SHIFT	16
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100665	1471937970705	1471937970822	O	79
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100708	1471937971064	1471937971149	K	75
+238	2063	Lynn, got to the office OK.	Lynn, got to the office OK.	100711	1471937972209	1471937972282	.	190
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100790	1471937975651	1471937975837	SHIFT	16
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100792	1471937975743	1471937975861	L	76
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100793	1471937975911	1471937976045	e	69
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100794	1471937976123	1471937976235	t	84
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100795	1471937976255	1471937976380	 	32
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100796	1471937976427	1471937976569	m	77
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100802	1471937976546	1471937976662	e	69
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100804	1471937976685	1471937976832	 	32
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100808	1471937976875	1471937976967	k	75
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100811	1471937977072	1471937977167	n	78
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100813	1471937977199	1471937977334	o	79
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100823	1471937977324	1471937977423	w	87
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100825	1471937977445	1471937977586	 	32
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100830	1471937977565	1471937977676	i	73
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100833	1471937977729	1471937977859	f	70
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100837	1471937977861	1471937977974	 	32
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100842	1471937978057	1471937978148	y	89
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100860	1471937978198	1471937978339	o	79
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100862	1471937978274	1471937978393	u	85
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100863	1471937978541	1471937978698	 	32
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100864	1471937978691	1471937978786	s	83
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100865	1471937978902	1471937978985	e	69
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100880	1471937979107	1471937979233	e	69
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100883	1471937979315	1471937979470	 	32
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100886	1471937979508	1471937979681	a	65
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100889	1471937979641	1471937979724	n	78
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100892	1471937979838	1471937979914	y	89
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100914	1471937980057	1471937980181	 	32
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100916	1471937980279	1471937980398	p	80
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100921	1471937980495	1471937980620	o	79
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100924	1471937980695	1471937980790	r	82
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100927	1471937980934	1471937981069	b	66
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100942	1471937981048	1471937981189	l	76
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100943	1471937981199	1471937981314	e	69
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100944	1471937981373	1471937981525	m	77
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100945	1471937981611	1471937981724	s	83
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100946	1471937981885	1471937982031	 	32
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100947	1471937982114	1471937982304	w	87
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100976	1471937982258	1471937982399	i	73
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100979	1471937982435	1471937982566	h	84
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100981	1471937983699	1471937983833	 	32
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	100983	1471937983859	1471937983988	t	84
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	101001	1471937983962	1471937984045	h	72
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	101003	1471937984116	1471937984246	i	73
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	101005	1471937984279	1471937984376	s	83
+238	2071	Let me know if you see any problems with this.	Let me know if you see any porblems with this.	101007	1471937984753	1471937984875	.	190
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101058	1471937988623	1471937988827	SHIFT	16
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101061	1471937988722	1471937988833	W	87
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101064	1471937988954	1471937989041	a	65
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101067	1471937989117	1471937989239	s	83
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101069	1471937989265	1471937989355	h	72
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101072	1471937989441	1471937989544	i	73
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101090	1471937989625	1471937989736	n	78
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101091	1471937989765	1471937989864	g	71
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101092	1471937990085	1471937990200	t	84
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101094	1471937990196	1471937990307	o	79
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101096	1471937990409	1471937990505	n	78
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101110	1471937990607	1471937990743	 	32
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101114	1471937990789	1471937990900	w	87
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101117	1471937991015	1471937991115	a	65
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101120	1471937991203	1471937991308	s	83
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101125	1471937991312	1471937991437	 	32
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101134	1471937991461	1471937991565	n	78
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101135	1471937991606	1471937991747	o	79
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101136	1471937991751	1471937991851	t	84
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101137	1471937991870	1471937991989	 	32
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101138	1471937992094	1471937992230	m	77
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101158	1471937992246	1471937992360	o	79
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101161	1471937992406	1471937992525	v	86
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101164	1471937992536	1471937992630	i	73
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101170	1471937992746	1471937992860	n	78
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101173	1471937992903	1471937993015	g	71
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101188	1471937993043	1471937993180	 	32
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101189	1471937993238	1471937993366	t	84
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101191	1471937993336	1471937993467	o	79
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101195	1471937993551	1471937993653	w	87
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101199	1471937993791	1471937993886	a	65
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101238	1471937993947	1471937994064	r	82
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101240	1471937994261	1471937994375	d	68
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101244	1471937994431	1471937994574	 	32
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101247	1471937994657	1471937994802	a	65
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101251	1471937994802	1471937994923	 	32
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101274	1471937995117	1471937995206	u	85
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101276	1471937995326	1471937995415	n	78
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101278	1471937995529	1471937995615	i	73
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101280	1471937995809	1471937995918	l	76
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101282	1471937996010	1471937996094	a	65
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101298	1471937996153	1471937996229	t	84
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101300	1471937996340	1471937996482	e	69
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101302	1471937996423	1471937996570	r	82
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101305	1471937996963	1471937997109	a	65
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101307	1471937997128	1471937997225	l	76
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101326	1471937997323	1471937997442	 	32
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101327	1471937997507	1471937997621	l	76
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101328	1471937997706	1471937997796	i	73
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101330	1471937997967	1471937998074	f	70
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101332	1471937998183	1471937998274	t	84
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101341	1471937998369	1471937998459	i	73
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101349	1471937998561	1471937998671	n	78
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101353	1471937998720	1471937998816	g	71
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101359	1471937998839	1471937998997	 	32
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101363	1471937998997	1471937999113	o	79
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101365	1471937999151	1471937999264	f	70
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101366	1471937999248	1471937999384	 	32
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101367	1471937999422	1471937999547	t	84
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101368	1471937999547	1471937999649	h	72
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101369	1471937999667	1471937999759	e	69
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101386	1471937999780	1471937999917	 	32
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101388	1471937999942	1471938000062	e	69
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101390	1471938000135	1471938000269	m	77
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101393	1471938000367	1471938000479	b	66
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101397	1471938000645	1471938000759	a	65
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101439	1471938000847	1471938000958	r	82
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101444	1471938001193	1471938001308	g	71
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101451	1471938001400	1471938001521	o	79
+238	2079	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	101456	1471938001902	1471938002002	.	190
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101566	1471938005655	1471938005829	SHIFT	16
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101569	1471938005747	1471938005891	W	87
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101572	1471938005942	1471938006043	h	72
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101573	1471938006061	1471938006169	a	65
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101576	1471938006226	1471938006336	t	84
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101579	1471938006361	1471938006491	 	32
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101583	1471938006502	1471938006624	i	73
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101584	1471938006646	1471938006755	s	83
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101585	1471938006737	1471938006855	 	32
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101586	1471938006911	1471938007032	h	72
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101587	1471938007074	1471938007184	a	65
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101603	1471938007830	1471938007922	p	80
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101604	1471938008009	1471938008100	p	80
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101605	1471938008137	1471938008284	e	69
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101607	1471938008297	1471938008378	n	78
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101608	1471938008473	1471938008556	i	73
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101617	1471938008644	1471938008762	n	78
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101620	1471938008800	1471938008903	g	71
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101622	1471938008921	1471938009059	 	32
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101624	1471938009034	1471938009171	t	84
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101629	1471938009168	1471938009250	o	79
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101630	1471938009296	1471938009427	 	32
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101631	1471938009419	1471938009540	t	84
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101632	1471938009532	1471938009632	h	72
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101633	1471938009657	1471938009741	e	69
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101634	1471938009753	1471938009867	 	32
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101640	1471938009915	1471938010014	s	83
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101642	1471938010097	1471938010201	t	84
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101644	1471938010197	1471938010313	o	79
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101646	1471938010510	1471938010660	c	67
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101648	1471938010708	1471938010807	k	75
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101655	1471938010917	1471938011068	 	32
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101656	1471938011071	1471938011181	p	80
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101658	1471938011224	1471938011344	r	82
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101660	1471938011309	1471938011423	i	73
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101662	1471938011551	1471938011678	c	67
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101777	1471938012030	1471938012147	e	69
+238	2088	What is happening to the stock price?	What is happening to the stock price/	101779	1471938012658	1471938012822	/	191
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102009	1471938024366	1471938024679	SHIFT	16
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102006	1471938024512	1471938024633	I	73
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102013	1471938024760	1471938024909	 	32
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102018	1471938025054	1471938025152	h	72
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102023	1471938025172	1471938025298	a	65
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102030	1471938025423	1471938025547	d	68
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102087	1471938025740	1471938025842	n	78
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102090	1471938026681	1471938026769	'	222
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102092	1471938026967	1471938027072	t	84
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102095	1471938027199	1471938027347	 	32
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102097	1471938027414	1471938027568	d	68
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102125	1471938027534	1471938027634	o	79
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102129	1471938027730	1471938027831	n	78
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102130	1471938027852	1471938028002	e	69
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102131	1471938028003	1471938028113	 	32
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102133	1471938028101	1471938028219	t	84
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102140	1471938028206	1471938028303	h	72
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102141	1471938028363	1471938028461	a	65
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102142	1471938028501	1471938028613	t	84
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102145	1471938028614	1471938028742	 	32
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102148	1471938028744	1471938028865	f	70
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102193	1471938028851	1471938028983	o	79
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102195	1471938028994	1471938029099	r	82
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102196	1471938029149	1471938029280	 	32
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102197	1471938029356	1471938029437	a	65
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102198	1471938029749	1471938029890	 	32
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102199	1471938030038	1471938030178	w	87
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102257	1471938030442	1471938030545	h	72
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102259	1471938030658	1471938030755	i	73
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102262	1471938030872	1471938030997	l	76
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102264	1471938031049	1471938031140	e	69
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102266	1471938032159	1471938032242	-	189
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102324	1471938033240	1471938033354	 	32
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102327	1471938033524	1471938033642	t	84
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102331	1471938033690	1471938033787	o	79
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102334	1471938033874	1471938033979	o	79
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102336	1471938034095	1471938034239	 	32
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102364	1471938034308	1471938034450	b	66
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102367	1471938034464	1471938034575	u	85
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102371	1471938034794	1471938034922	s	83
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102373	1471938034966	1471938035057	y	89
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102374	1471938035303	1471938035394	,	188
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102398	1471938035481	1471938035616	 	32
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102401	1471938035704	1471938035978	SHIFT	16
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102399	1471938035828	1471938035918	I	73
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102403	1471938036001	1471938036135	 	32
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102405	1471938036200	1471938036346	g	71
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102456	1471938036325	1471938036427	u	85
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102458	1471938036510	1471938036587	e	69
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102466	1471938036736	1471938036866	s	83
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102471	1471938036968	1471938037096	s	83
+238	2098	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while- too busy, I guess.	102475	1471938037332	1471938037437	.	190

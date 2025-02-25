@@ -1,0 +1,700 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+895	8983	Not at this time.	Not at this time	430341	1471946970309	1471946970436	CAPS_LOCK	20
+895	8983	Not at this time.	Not at this time	430342	1471946970406	1471946970508	N	78
+895	8983	Not at this time.	Not at this time	430343	1471946970536	1471946970667	CAPS_LOCK	20
+895	8983	Not at this time.	Not at this time	430344	1471946970603	1471946970733	o	79
+895	8983	Not at this time.	Not at this time	430345	1471946970776	1471946970915	t	84
+895	8983	Not at this time.	Not at this time	430346	1471946971284	1471946971368	 	32
+895	8983	Not at this time.	Not at this time	430347	1471946971415	1471946971567	a	65
+895	8983	Not at this time.	Not at this time	430394	1471946971567	1471946971683	t	84
+895	8983	Not at this time.	Not at this time	430396	1471946971752	1471946971883	 	32
+895	8983	Not at this time.	Not at this time	430398	1471946971941	1471946972045	h	72
+895	8983	Not at this time.	Not at this time	430401	1471946972353	1471946972412	BKSP	8
+895	8983	Not at this time.	Not at this time	430404	1471946972484	1471946972600	t	84
+895	8983	Not at this time.	Not at this time	430410	1471946972600	1471946972700	h	72
+895	8983	Not at this time.	Not at this time	430432	1471946972738	1471946972829	i	73
+895	8983	Not at this time.	Not at this time	430433	1471946972854	1471946972970	s	83
+895	8983	Not at this time.	Not at this time	430435	1471946972970	1471946973085	 	32
+895	8983	Not at this time.	Not at this time	430438	1471946973116	1471946973237	t	84
+895	8983	Not at this time.	Not at this time	430475	1471946973195	1471946973279	i	73
+895	8983	Not at this time.	Not at this time	430476	1471946973338	1471946973469	m	77
+895	8983	Not at this time.	Not at this time	430477	1471946973437	1471946973554	e	69
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430673	1471946977225	1471946977349	CAPS_LOCK	20
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430680	1471946977442	1471946977589	W	87
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430689	1471946977689	1471946977782	CAPS_LOCK	20
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430695	1471946977742	1471946977813	o	79
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430702	1471946977782	1471946977889	u	85
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430709	1471946977973	1471946978120	l	76
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430713	1471946978558	1471946978658	d	68
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430732	1471946978743	1471946978829	 	32
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430736	1471946978921	1471946979052	y	89
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430738	1471946979012	1471946979109	o	79
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430740	1471946979081	1471946979159	u	85
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430742	1471946979221	1471946979296	 	32
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430760	1471946979359	1471946979460	h	72
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430765	1471946979460	1471946979544	a	65
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430770	1471946979575	1471946979691	v	86
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430776	1471946979744	1471946979860	e	69
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430778	1471946979891	1471946979996	 	32
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430788	1471946980011	1471946980106	CAPS_LOCK	20
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430791	1471946980106	1471946980196	H	74
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430795	1471946980244	1471946980375	o	20
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430832	1471946980507	1471946980576	g	72
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430833	1471946980759	1471946980789	b	66
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430834	1471946981260	1471946981360	 	32
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430836	1471946981476	1471946981606	s	83
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430838	1471946981644	1471946981764	e	69
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430887	1471946981733	1471946981860	n	78
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430889	1471946982005	1471946982045	d	68
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430891	1471946982376	1471946982496	 	32
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430893	1471946982645	1471946982746	m	77
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430894	1471946982746	1471946982862	e	69
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430896	1471946982924	1471946982981	 	32
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430926	1471946983008	1471946983128	a	65
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430929	1471946983189	1471946983245	 	32
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430931	1471946983610	1471946983645	m	77
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430934	1471946983963	1471946984078	e	69
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430936	1471946984163	1471946984248	s	83
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430973	1471946984327	1471946984428	s	83
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430977	1471946984495	1471946984627	a	65
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430984	1471946984695	1471946984779	g	70
+895	8987	Would you have John send me a message?	Would you have JHohgb send me a messafge	430987	1471946984911	1471946985027	e	69
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431162	1471946987811	1471946987895	CAPS_LOCK	20
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431165	1471946987926	1471946988014	P	80
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431169	1471946988049	1471946988182	CAPS_LOCK	20
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431174	1471946988149	1471946988246	l	76
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431179	1471946988246	1471946988365	e	69
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431185	1471946988412	1471946988512	a	65
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431189	1471946988581	1471946988865	s	83
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431248	1471946989396	1471946989496	e	69
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431251	1471946989628	1471946989678	 	32
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431255	1471946989896	1471946989997	f	70
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431260	1471946990028	1471946990150	o	79
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431263	1471946990150	1471946990281	r	82
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431293	1471946990551	1471946990650	w	87
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431298	1471946990751	1471946990866	a	65
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431305	1471946990898	1471946990999	r	82
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431309	1471946991098	1471946991183	d	68
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431312	1471946991246	1471946991352	 	32
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431332	1471946991352	1471946991452	t	84
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431335	1471946991483	1471946991532	h	72
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431340	1471946991532	1471946991633	e	69
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431343	1471946991653	1471946991752	 	32
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431345	1471946991799	1471946991957	b	66
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431386	1471946992005	1471946992117	a	65
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431390	1471946992197	1471946992268	c	67
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431395	1471946992300	1471946992384	k	75
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431399	1471946992484	1471946992601	 	32
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431401	1471946992601	1471946992716	t	84
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431455	1471946992869	1471946993054	o	79
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431460	1471946993405	1471946993514	p	80
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431464	1471946993570	1471946993670	d	68
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431467	1471946993732	1471946993845	a	65
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431471	1471946993870	1471946993955	y	89
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431528	1471946994071	1471946994187	 	32
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431532	1471946994355	1471946994471	i	73
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431535	1471946994555	1471946994630	f	70
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431537	1471946994687	1471946994771	 	32
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431539	1471946995056	1471946995172	p	80
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431574	1471946995223	1471946995366	o	79
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431578	1471946995329	1471946995473	s	83
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431580	1471946995520	1471946995653	s	83
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431582	1471946995654	1471946995757	i	73
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431584	1471946995789	1471946995889	a	65
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431628	1471946995927	1471946996053	b	66
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431629	1471946996054	1471946996158	l	76
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431630	1471946996189	1471946996306	e	69
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431631	1471946996337	1471946996416	 	32
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431633	1471946996758	1471946996905	s	83
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431672	1471946996905	1471946997028	o	79
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431673	1471946997084	1471946997189	 	32
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431674	1471946997458	1471946997605	w	87
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431675	1471946997636	1471946997730	e	69
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431676	1471946997789	1471946997905	 	32
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431709	1471946997920	1471946998030	c	67
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431716	1471946998090	1471946998221	a	65
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431725	1471946998221	1471946998290	n	78
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431733	1471946998390	1471946998461	 	32
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431742	1471946998574	1471946998717	r	82
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431762	1471946998675	1471946998853	e	69
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431763	1471946999059	1471946999149	v	86
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431764	1471946999357	1471946999459	i	73
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431765	1471946999459	1471946999608	e	69
+895	8999	Please forward the backup today if possible so we can review.	Please forward the back topday if possiable so we can review	431766	1471946999608	1471946999713	w	87
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432103	1471947002594	1471947002694	CAPS_LOCK	20
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432105	1471947002694	1471947002810	I	73
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432109	1471947002862	1471947002957	CAPS_LOCK	20
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432113	1471947004397	1471947004482	m	77
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432117	1471947005299	1471947005383	 	32
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432122	1471947005467	1471947005629	n	78
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432141	1471947005661	1471947005767	o	79
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432144	1471947005767	1471947005882	t	84
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432150	1471947005882	1471947005983	 	32
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432156	1471947005983	1471947006184	s	83
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432181	1471947006099	1471947006184	u	85
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432183	1471947006208	1471947006331	r	82
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432185	1471947006331	1471947006448	e	69
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432187	1471947006448	1471947006568	 	32
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432188	1471947006631	1471947006731	i	73
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432189	1471947006747	1471947006832	f	70
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432207	1471947006868	1471947006996	 	32
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432209	1471947007165	1471947007284	t	84
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432212	1471947007284	1471947007365	h	72
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432216	1471947007384	1471947007509	e	69
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432250	1471947007484	1471947007551	y	89
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432251	1471947007631	1471947007751	 	32
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432252	1471947007715	1471947007885	a	65
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432253	1471947007848	1471947007969	r	82
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432254	1471947007969	1471947008069	e	69
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432256	1471947008415	1471947008517	 	32
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432324	1471947008670	1471947008770	i	73
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432326	1471947008802	1471947008918	s	83
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432328	1471947009018	1471947009133	s	83
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432329	1471947009166	1471947009270	u	85
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432330	1471947009449	1471947009565	i	73
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432360	1471947009623	1471947009749	n	78
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432362	1471947010088	1471947010135	g	71
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432364	1471947010220	1471947010304	 	32
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432366	1471947010388	1471947010518	a	65
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432397	1471947010473	1471947010536	n	78
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432399	1471947010673	1471947010733	y	89
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432402	1471947010851	1471947010948	 	32
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432404	1471947011174	1471947011321	w	87
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432405	1471947011353	1471947011448	i	73
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432406	1471947011448	1471947011565	r	82
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432447	1471947011592	1471947011707	e	69
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432449	1471947011754	1471947011869	s	83
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432452	1471947011949	1471947012029	 	32
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432457	1471947012109	1471947012228	a	65
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432461	1471947012238	1471947012365	t	84
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432504	1471947012538	1471947012606	 	32
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432506	1471947012792	1471947012907	t	84
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432508	1471947012907	1471947013038	h	72
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432510	1471947013079	1471947013191	i	73
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432512	1471947013191	1471947013307	s	83
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432534	1471947013360	1471947013449	 	32
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432538	1471947013576	1471947013724	t	84
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432542	1471947013676	1471947013776	i	73
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432547	1471947013807	1471947013932	m	77
+895	9014	I'm not sure if they are issuing any wires at this time.	I'm not sure if they are issuing any wires at this time	432553	1471947013892	1471947013976	e	69
+895	9028	But it takes time.	But it takes time.	432784	1471947016641	1471947016741	CAPS_LOCK	20
+895	9028	But it takes time.	But it takes time.	432788	1471947016810	1471947016941	B	66
+895	9028	But it takes time.	But it takes time.	432794	1471947017021	1471947017165	CAPS_LOCK	20
+895	9028	But it takes time.	But it takes time.	432800	1471947017221	1471947017357	i	73
+895	9028	But it takes time.	But it takes time.	432804	1471947017758	1471947017850	BKSP	8
+895	9028	But it takes time.	But it takes time.	432808	1471947017994	1471947018052	u	85
+895	9028	But it takes time.	But it takes time.	432811	1471947018194	1471947018277	t	84
+895	9028	But it takes time.	But it takes time.	432814	1471947018356	1471947018433	 	32
+895	9028	But it takes time.	But it takes time.	432840	1471947018573	1471947018677	i	73
+895	9028	But it takes time.	But it takes time.	432844	1471947018694	1471947018810	t	84
+895	9028	But it takes time.	But it takes time.	432848	1471947018841	1471947018918	 	32
+895	9028	But it takes time.	But it takes time.	432852	1471947019010	1471947019126	t	84
+895	9028	But it takes time.	But it takes time.	432855	1471947019157	1471947019279	a	65
+895	9028	But it takes time.	But it takes time.	432884	1471947019197	1471947019311	k	75
+895	9028	But it takes time.	But it takes time.	432887	1471947019381	1471947019477	e	69
+895	9028	But it takes time.	But it takes time.	432890	1471947019526	1471947019625	s	83
+895	9028	But it takes time.	But it takes time.	432894	1471947019717	1471947019794	 	32
+895	9028	But it takes time.	But it takes time.	432896	1471947019894	1471947020010	t	84
+895	9028	But it takes time.	But it takes time.	432900	1471947020010	1471947020094	i	73
+895	9028	But it takes time.	But it takes time.	433029	1471947020143	1471947020294	m	77
+895	9028	But it takes time.	But it takes time.	433034	1471947020310	1471947020410	e	69
+895	9028	But it takes time.	But it takes time.	433038	1471947022012	1471947022100	.	190
+895	9038	Take what you can get.	Take what you can get.	433233	1471947025477	1471947025581	CAPS_LOCK	20
+895	9038	Take what you can get.	Take what you can get.	433237	1471947025644	1471947025750	T	84
+895	9038	Take what you can get.	Take what you can get.	433241	1471947025782	1471947025897	CAPS_LOCK	20
+895	9038	Take what you can get.	Take what you can get.	433243	1471947026013	1471947026113	a	65
+895	9038	Take what you can get.	Take what you can get.	433247	1471947026113	1471947026213	k	75
+895	9038	Take what you can get.	Take what you can get.	433248	1471947026213	1471947026313	e	69
+895	9038	Take what you can get.	Take what you can get.	433251	1471947026360	1471947026450	 	32
+895	9038	Take what you can get.	Take what you can get.	433298	1471947026498	1471947026614	w	87
+895	9038	Take what you can get.	Take what you can get.	433304	1471947026614	1471947026698	h	72
+895	9038	Take what you can get.	Take what you can get.	433309	1471947026745	1471947026865	a	65
+895	9038	Take what you can get.	Take what you can get.	433313	1471947027134	1471947027221	t	84
+895	9038	Take what you can get.	Take what you can get.	433317	1471947027283	1471947027381	 	32
+895	9038	Take what you can get.	Take what you can get.	433341	1471947027514	1471947027653	y	89
+895	9038	Take what you can get.	Take what you can get.	433344	1471947027615	1471947027737	o	79
+895	9038	Take what you can get.	Take what you can get.	433346	1471947027683	1471947027773	u	85
+895	9038	Take what you can get.	Take what you can get.	433350	1471947027815	1471947027930	 	32
+895	9038	Take what you can get.	Take what you can get.	433354	1471947028115	1471947028230	g	71
+895	9038	Take what you can get.	Take what you can get.	433430	1471947028500	1471947028584	BKSP	8
+895	9038	Take what you can get.	Take what you can get.	433432	1471947028631	1471947028747	c	67
+895	9038	Take what you can get.	Take what you can get.	433434	1471947028832	1471947028948	a	65
+895	9038	Take what you can get.	Take what you can get.	433437	1471947028916	1471947029033	n	78
+895	9038	Take what you can get.	Take what you can get.	433439	1471947029132	1471947029186	e	69
+895	9038	Take what you can get.	Take what you can get.	433441	1471947029533	1471947029617	BKSP	8
+895	9038	Take what you can get.	Take what you can get.	433445	1471947029764	1471947029852	 	32
+895	9038	Take what you can get.	Take what you can get.	433475	1471947030087	1471947030167	g	71
+895	9038	Take what you can get.	Take what you can get.	433476	1471947030250	1471947030381	e	69
+895	9038	Take what you can get.	Take what you can get.	433477	1471947030335	1471947030487	t	84
+895	9038	Take what you can get.	Take what you can get.	433478	1471947031066	1471947031120	.	190
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433703	1471947033885	1471947033992	CAPS_LOCK	20
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433709	1471947034070	1471947034152	H	72
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433713	1471947034208	1471947034324	CAPS_LOCK	20
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433721	1471947034392	1471947034492	e	69
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433728	1471947034608	1471947034739	 	32
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433735	1471947035125	1471947035241	l	76
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433743	1471947035293	1471947035394	e	69
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433771	1471947035485	1471947035553	f	70
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433773	1471947035657	1471947035767	t	84
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433775	1471947035794	1471947035910	 	32
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433777	1471947035941	1471947036026	t	84
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433779	1471947036026	1471947036126	h	72
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433852	1471947036126	1471947036241	e	69
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433855	1471947036241	1471947036294	 	32
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433857	1471947036410	1471947036494	CAPS_LOCK	20
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433861	1471947036494	1471947036553	J	74
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433862	1471947036626	1471947036726	CAPS_LOCK	20
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433866	1471947036789	1471947036895	e	69
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433870	1471947037245	1471947037342	t	84
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433926	1471947037426	1471947037542	s	83
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433928	1471947037643	1471947037758	 	32
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433931	1471947038027	1471947038143	w	87
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433933	1471947038174	1471947038221	i	73
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433937	1471947038327	1471947038428	n	78
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433976	1471947038528	1471947038627	 	32
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433977	1471947038693	1471947038797	o	79
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433980	1471947038844	1471947038952	v	86
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	433982	1471947039059	1471947039204	e	69
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434035	1471947039167	1471947039293	r	82
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434037	1471947039413	1471947039470	 	32
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434040	1471947039560	1471947039660	CAPS_LOCK	20
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434042	1471947039701	1471947039813	M	77
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434045	1471947039828	1471947039913	CAPS_LOCK	20
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434049	1471947039945	1471947040013	i	73
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434050	1471947040097	1471947040170	a	65
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434057	1471947040229	1471947040271	n	78
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434099	1471947040713	1471947040770	BKSP	8
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434101	1471947041093	1471947041137	m	77
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434104	1471947041376	1471947041468	i	73
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434108	1471947041698	1471947041754	 	32
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434112	1471947041898	1471947041988	i	73
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434115	1471947042045	1471947042133	n	78
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434127	1471947042229	1471947042293	 	32
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434129	1471947042314	1471947042438	t	84
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434134	1471947042398	1471947042454	h	72
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434138	1471947042498	1471947042597	e	69
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434142	1471947042613	1471947042671	 	32
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434199	1471947042761	1471947042916	s	83
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434202	1471947042917	1471947043014	e	69
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434205	1471947043145	1471947043298	c	67
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434206	1471947043298	1471947043398	o	79
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434207	1471947043430	1471947043561	n	78
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434237	1471947043614	1471947043699	d	68
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434245	1471947043761	1471947043867	 	32
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434252	1471947043961	1471947044086	h	72
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434259	1471947044115	1471947044238	a	65
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434302	1471947044199	1471947044362	l	76
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434303	1471947044447	1471947044547	f	70
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434305	1471947044615	1471947044746	 	32
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434307	1471947044947	1471947045047	o	79
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434311	1471947045131	1471947045216	n	78
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434314	1471947045300	1471947045388	 	32
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434377	1471947045479	1471947045597	CAPS_LOCK	20
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434379	1471947045617	1471947045701	O	79
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434381	1471947045764	1471947045849	CAPS_LOCK	20
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434383	1471947045880	1471947046018	c	67
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434384	1471947046148	1471947046249	t	84
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434385	1471947046249	1471947046402	o	79
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434387	1471947046433	1471947046518	b	66
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434434	1471947046618	1471947046770	e	69
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434437	1471947046702	1471947046818	r	82
+895	9051	He left the Jets  win over Miami in the second half on October.	He left the Jets win over Miami in the second half on October.	434440	1471947047502	1471947047555	.	190
+895	9065	I have some more data coming.	I have some more data coming.	434609	1471947050276	1471947050368	CAPS_LOCK	20
+895	9065	I have some more data coming.	I have some more data coming.	434612	1471947050368	1471947050453	I	73
+895	9065	I have some more data coming.	I have some more data coming.	434614	1471947050484	1471947050606	CAPS_LOCK	20
+895	9065	I have some more data coming.	I have some more data coming.	434615	1471947050566	1471947050669	 	32
+895	9065	I have some more data coming.	I have some more data coming.	434616	1471947050735	1471947050797	h	72
+895	9065	I have some more data coming.	I have some more data coming.	434617	1471947050820	1471947050905	a	65
+895	9065	I have some more data coming.	I have some more data coming.	434618	1471947050937	1471947051052	v	86
+895	9065	I have some more data coming.	I have some more data coming.	434633	1471947051120	1471947051267	e	69
+895	9065	I have some more data coming.	I have some more data coming.	434639	1471947051301	1471947051404	 	32
+895	9065	I have some more data coming.	I have some more data coming.	434646	1471947051436	1471947051605	s	83
+895	9065	I have some more data coming.	I have some more data coming.	434650	1471947051505	1471947051605	o	79
+895	9065	I have some more data coming.	I have some more data coming.	434653	1471947051684	1471947051772	m	77
+895	9065	I have some more data coming.	I have some more data coming.	434693	1471947051738	1471947051852	e	69
+895	9065	I have some more data coming.	I have some more data coming.	434696	1471947051905	1471947051972	 	32
+895	9065	I have some more data coming.	I have some more data coming.	434700	1471947052116	1471947052228	m	77
+895	9065	I have some more data coming.	I have some more data coming.	434703	1471947052276	1471947052365	o	79
+895	9065	I have some more data coming.	I have some more data coming.	434706	1471947052365	1471947052484	r	82
+895	9065	I have some more data coming.	I have some more data coming.	434709	1471947052484	1471947052605	e	69
+895	9065	I have some more data coming.	I have some more data coming.	434736	1471947052631	1471947052673	 	32
+895	9065	I have some more data coming.	I have some more data coming.	434737	1471947052918	1471947053022	d	68
+895	9065	I have some more data coming.	I have some more data coming.	434738	1471947053106	1471947053252	a	65
+895	9065	I have some more data coming.	I have some more data coming.	434739	1471947053206	1471947053337	t	84
+895	9065	I have some more data coming.	I have some more data coming.	434740	1471947053406	1471947053522	a	65
+895	9065	I have some more data coming.	I have some more data coming.	434784	1471947053622	1471947053722	 	32
+895	9065	I have some more data coming.	I have some more data coming.	434788	1471947053853	1471947053973	c	67
+895	9065	I have some more data coming.	I have some more data coming.	434791	1471947053949	1471947054022	o	79
+895	9065	I have some more data coming.	I have some more data coming.	434794	1471947054153	1471947054206	m	77
+895	9065	I have some more data coming.	I have some more data coming.	434797	1471947054284	1471947054370	i	73
+895	9065	I have some more data coming.	I have some more data coming.	434850	1471947054438	1471947054538	n	78
+895	9065	I have some more data coming.	I have some more data coming.	434852	1471947054569	1471947054653	g	71
+895	9065	I have some more data coming.	I have some more data coming.	434857	1471947055187	1471947055239	.	190
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	434978	1471947058073	1471947058160	CAPS_LOCK	20
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	434982	1471947058276	1471947058360	D	68
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	434986	1471947058460	1471947058559	CAPS_LOCK	20
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	434990	1471947058559	1471947058644	o	79
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	434992	1471947058759	1471947058854	 	32
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	434995	1471947059029	1471947059129	y	89
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435001	1471947059129	1471947059240	o	79
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435012	1471947059188	1471947059271	u	85
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435015	1471947059309	1471947059460	 	32
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435017	1471947059491	1471947059570	a	65
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435021	1471947059570	1471947059660	n	78
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435025	1471947059660	1471947059770	d	68
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435031	1471947059770	1471947059860	 	32
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435087	1471947059887	1471947059976	CAPS_LOCK	20
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435089	1471947060013	1471947060124	G	71
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435091	1471947060173	1471947060301	CAPS_LOCK	20
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435093	1471947060261	1471947060446	e	69
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435097	1471947061047	1471947061131	o	79
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435099	1471947061193	1471947061316	r	82
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435104	1471947061531	1471947061589	g	71
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435128	1471947061694	1471947061816	e	69
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435130	1471947061863	1471947061963	 	32
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435135	1471947062093	1471947062149	h	72
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435138	1471947062181	1471947062261	a	65
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435140	1471947062316	1471947062405	v	86
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435185	1471947062482	1471947062570	e	69
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435189	1471947062613	1471947062687	 	32
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435194	1471947063331	1471947063415	a	65
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435197	1471947063462	1471947063578	 	32
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435202	1471947063663	1471947063740	t	84
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435220	1471947063791	1471947063888	h	72
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435225	1471947064013	1471947064109	i	73
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435230	1471947064163	1471947064263	n	78
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435238	1471947064294	1471947064385	g	71
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435243	1471947064516	1471947064612	 	32
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435284	1471947064748	1471947064864	o	79
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435286	1471947065214	1471947065289	BKSP	8
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435288	1471947065380	1471947065464	g	71
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435292	1471947065517	1471947065717	o	79
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435295	1471947065718	1471947065818	i	73
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435301	1471947065881	1471947065986	n	78
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435350	1471947066990	1471947067053	g	71
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435351	1471947067196	1471947067456	SHIFT	16
+895	9073	Do you and George have a thing going?	Do you and George have a thing going?	435352	1471947067397	1471947067550	?	191
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435528	1471947070134	1471947070225	CAPS_LOCK	20
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435532	1471947070319	1471947070419	T	84
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435537	1471947070497	1471947070582	CAPS_LOCK	20
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435543	1471947070620	1471947070710	h	72
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435547	1471947070710	1471947070803	e	69
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435552	1471947070867	1471947070951	 	32
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435555	1471947070982	1471947071087	f	70
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435607	1471947071120	1471947071242	o	79
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435609	1471947071213	1471947071320	r	82
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435611	1471947071836	1471947071875	u	85
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435616	1471947072109	1471947072173	BKSP	8
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435622	1471947072253	1471947072320	BKSP	8
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435626	1471947072517	1471947072604	u	85
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435631	1471947072652	1471947072736	r	82
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435710	1471947073821	1471947073874	-	189
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435712	1471947074153	1471947074237	c	67
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435714	1471947074537	1471947074685	i	73
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435717	1471947074685	1471947074740	t	84
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435719	1471947074771	1471947074884	y	89
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435769	1471947074984	1471947075056	 	32
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435772	1471947075421	1471947075539	t	84
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435773	1471947075539	1471947075685	o	79
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435777	1471947075638	1471947075737	u	85
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435782	1471947076021	1471947076138	r	82
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435826	1471947076199	1471947076288	 	32
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435829	1471947076468	1471947076556	c	67
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435832	1471947076556	1471947076670	o	79
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435834	1471947076685	1471947076852	n	78
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435876	1471947076821	1471947076894	t	84
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435878	1471947076955	1471947077044	i	73
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435886	1471947077149	1471947077244	n	78
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435892	1471947077504	1471947077624	u	85
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435897	1471947077624	1471947077771	e	69
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435902	1471947077824	1471947077972	s	83
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435992	1471947078025	1471947078125	 	32
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435994	1471947078325	1471947078365	f	70
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	435998	1471947078688	1471947078774	BKSP	8
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436001	1471947078857	1471947078957	CAPS_LOCK	20
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436004	1471947079004	1471947079089	F	70
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436007	1471947079141	1471947079288	CAPS_LOCK	20
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436010	1471947079525	1471947079626	r	82
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436013	1471947079657	1471947079804	i	73
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436039	1471947079757	1471947079889	d	68
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436041	1471947079957	1471947080068	a	65
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436042	1471947080042	1471947080125	y	89
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436043	1471947080227	1471947080374	 	32
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436045	1471947080427	1471947080517	i	73
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436047	1471947080621	1471947080690	n	78
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436101	1471947080743	1471947080843	 	32
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436103	1471947080874	1471947081027	CAPS_LOCK	20
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436106	1471947081390	1471947081505	K	75
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436109	1471947081590	1471947081706	CAPS_LOCK	20
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436110	1471947081843	1471947081928	a	65
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436111	1471947081928	1471947082052	n	78
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436113	1471947082317	1471947082340	a	65
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436250	1471947082675	1471947082759	BKSP	8
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436252	1471947082844	1471947082959	d	68
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436256	1471947083006	1471947083143	a	65
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436261	1471947083525	1471947083606	BKSP	8
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436264	1471947083691	1471947083791	BKSP	8
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436267	1471947084360	1471947084445	s	83
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436275	1471947084545	1471947084676	a	65
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436278	1471947085308	1471947085374	s	83
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436294	1471947085493	1471947085577	 	32
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436295	1471947085793	1471947085893	CAPS_LOCK	20
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436296	1471947085946	1471947086031	C	67
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436298	1471947086109	1471947086262	CAPS_LOCK	20
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436300	1471947086146	1471947086309	i	73
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436301	1471947086362	1471947086446	t	84
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436302	1471947086446	1471947086531	y	89
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436378	1471947087236	1471947087291	,	188
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436379	1471947087432	1471947087507	 	32
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436381	1471947087548	1471947087676	CAPS_LOCK	20
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436385	1471947087632	1471947087764	M	77
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436388	1471947087811	1471947087911	CAPS_LOCK	20
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436391	1471947088011	1471947088090	i	73
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436393	1471947088149	1471947088233	s	83
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436445	1471947088325	1471947088433	s	83
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436446	1471947088665	1471947088780	o	79
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436448	1471947089213	1471947089325	u	85
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436450	1471947089412	1471947089476	r	82
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436452	1471947089796	1471947089859	i	73
+895	9088	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continues Friday in Kansas City, Missouri.	436488	1471947090567	1471947090628	.	190
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436735	1471947093338	1471947093438	CAPS_LOCK	20
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436738	1471947093654	1471947093769	W	87
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436742	1471947093954	1471947094054	CAPS_LOCK	20
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436746	1471947094954	1471947095038	e	69
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436749	1471947096738	1471947096836	v	86
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436751	1471947096917	1471947097022	e	69
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436792	1471947097133	1471947097180	 	32
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436793	1471947097570	1471947097686	a	65
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436794	1471947097773	1471947097839	d	68
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436795	1471947097986	1471947098148	v	86
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436818	1471947098102	1471947098228	i	73
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436819	1471947098191	1471947098371	s	83
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436820	1471947098371	1471947098487	e	69
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436822	1471947098587	1471947098672	d	68
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436825	1471947098703	1471947098791	 	32
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436828	1471947098791	1471947098903	t	84
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436850	1471947098903	1471947098976	h	72
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436857	1471947099007	1471947099107	e	69
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436863	1471947099123	1471947099207	 	32
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436868	1471947099288	1471947099418	d	68
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436873	1471947099487	1471947099572	a	65
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436894	1471947099599	1471947099722	m	77
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436896	1471947099772	1471947099856	i	73
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436899	1471947099903	1471947100022	l	76
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436901	1471947100141	1471947100224	y	89
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436903	1471947100488	1471947100576	 	32
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436934	1471947100819	1471947100940	h	72
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436939	1471947100972	1471947101041	o	79
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436944	1471947101072	1471947101172	w	87
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436951	1471947101219	1471947101324	 	32
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436958	1471947101388	1471947101478	t	84
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	436998	1471947101441	1471947101494	o	79
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	437001	1471947101604	1471947101693	 	32
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	437004	1471947101724	1471947101841	g	71
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	437008	1471947101841	1471947101908	o	79
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	437013	1471947102020	1471947102116	 	32
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	437016	1471947102188	1471947102308	a	65
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	437063	1471947102340	1471947102460	o	79
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	437066	1471947102373	1471947102461	b	66
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	437072	1471947102429	1471947102543	u	85
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	437078	1471947102689	1471947102808	 	32
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	437081	1471947103059	1471947103143	BKSP	8
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	437084	1471947103222	1471947103277	BKSP	8
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	437086	1471947103375	1471947103459	BKSP	8
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	437087	1471947103543	1471947103594	BKSP	8
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	437089	1471947103691	1471947103775	b	66
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	437113	1471947103891	1471947104010	o	79
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	437120	1471947103976	1471947104111	u	85
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	437126	1471947104060	1471947104144	t	84
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	437132	1471947104392	1471947104492	 	32
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	437137	1471947104623	1471947104708	i	73
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	437163	1471947104761	1471947104845	t	84
+895	9106	We've advised the family how to go about it.	We've advised the damily how to go about it.	437166	1471947105333	1471947105388	.	190
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437352	1471947108179	1471947108263	CAPS_LOCK	20
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437356	1471947108348	1471947108448	T	84
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437360	1471947108526	1471947108649	CAPS_LOCK	20
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437363	1471947108664	1471947108727	h	72
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437366	1471947108780	1471947108880	e	69
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437369	1471947108911	1471947109025	 	32
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437373	1471947109127	1471947109227	CAPS_LOCK	20
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437375	1471947109227	1471947109348	M	77
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437416	1471947109375	1471947109466	CAPS_LOCK	20
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437419	1471947109497	1471947109697	e	69
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437425	1471947109697	1471947109813	r	82
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437427	1471947110013	1471947110129	c	67
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437431	1471947110351	1471947110445	e	69
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437437	1471947110549	1471947110626	d	68
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437494	1471947110852	1471947110952	e	69
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437495	1471947111015	1471947111167	s	83
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437496	1471947111383	1471947111530	 	32
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437497	1471947111915	1471947112015	e	69
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437499	1471947112060	1471947112148	n	78
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437529	1471947112340	1471947112425	g	71
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437531	1471947112485	1471947112585	i	73
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437534	1471947112685	1471947112770	n	78
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437537	1471947112770	1471947112885	e	69
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437540	1471947112949	1471947113053	 	32
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437575	1471947113232	1471947113325	t	84
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437576	1471947113355	1471947113476	a	65
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437577	1471947113453	1471947113570	k	75
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437578	1471947113602	1471947113702	e	69
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437579	1471947113771	1471947113871	 	32
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437669	1471947114102	1471947114255	a	65
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437670	1471947114386	1471947114471	d	68
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437671	1471947114703	1471947114818	v	86
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437672	1471947115404	1471947115525	a	65
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437673	1471947115557	1471947115626	n	78
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437728	1471947115957	1471947116057	t	84
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437729	1471947116104	1471947116257	a	65
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437730	1471947116273	1471947116436	g	71
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437731	1471947116489	1471947116589	e	69
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437734	1471947116620	1471947116725	 	32
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437787	1471947116820	1471947116929	o	79
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437789	1471947116874	1471947116973	f	70
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437791	1471947117060	1471947117116	 	32
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437793	1471947117148	1471947117268	t	84
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437795	1471947117590	1471947117705	BKSP	8
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437797	1471947117836	1471947117909	e	69
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437831	1471947118058	1471947118221	x	88
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437835	1471947118390	1471947118506	t	84
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437838	1471947118706	1471947118822	r	82
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437840	1471947118906	1471947119025	a	65
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437844	1471947119091	1471947119175	 	32
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437894	1471947119275	1471947119375	b	66
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437896	1471947119422	1471947119479	o	79
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437897	1471947119622	1471947119694	o	79
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437898	1471947119759	1471947119907	s	83
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437899	1471947119992	1471947120076	t	84
+895	9122	The Mercedes engine takes advantage of extra boost.	The Mercedes engine take advantage of extra boost.	437922	1471947120708	1471947120763	.	190
+895	9134	I told you silly.	I told you silly.	438094	1471947123479	1471947123610	CAPS_LOCK	20
+895	9134	I told you silly.	I told you silly.	438098	1471947123884	1471947123964	I	73
+895	9134	I told you silly.	I told you silly.	438104	1471947124063	1471947124210	CAPS_LOCK	20
+895	9134	I told you silly.	I told you silly.	438109	1471947124210	1471947124295	 	32
+895	9134	I told you silly.	I told you silly.	438112	1471947124342	1471947124476	t	84
+895	9134	I told you silly.	I told you silly.	438117	1471947124432	1471947124526	o	79
+895	9134	I told you silly.	I told you silly.	438121	1471947124627	1471947124712	l	76
+895	9134	I told you silly.	I told you silly.	438140	1471947124745	1471947124860	d	68
+895	9134	I told you silly.	I told you silly.	438142	1471947124881	1471947124965	 	32
+895	9134	I told you silly.	I told you silly.	438144	1471947125364	1471947125481	y	89
+895	9134	I told you silly.	I told you silly.	438146	1471947125443	1471947125572	o	79
+895	9134	I told you silly.	I told you silly.	438179	1471947125528	1471947125597	u	85
+895	9134	I told you silly.	I told you silly.	438181	1471947125643	1471947125766	 	32
+895	9134	I told you silly.	I told you silly.	438182	1471947125882	1471947125982	s	83
+895	9134	I told you silly.	I told you silly.	438184	1471947125997	1471947126082	i	73
+895	9134	I told you silly.	I told you silly.	438185	1471947126164	1471947126260	l	76
+895	9134	I told you silly.	I told you silly.	438186	1471947126329	1471947126442	l	76
+895	9134	I told you silly.	I told you silly.	438253	1471947126514	1471947126567	y	89
+895	9134	I told you silly.	I told you silly.	438256	1471947127117	1471947127148	,	188
+895	9134	I told you silly.	I told you silly.	438263	1471947127947	1471947127996	BKSP	8
+895	9134	I told you silly.	I told you silly.	438265	1471947128546	1471947128628	.	190
+895	9146	He is listed as day to day.	He is listed as day to day.	438418	1471947131503	1471947131618	CAPS_LOCK	20
+895	9146	He is listed as day to day.	He is listed as day to day.	438421	1471947131671	1471947131788	H	72
+895	9146	He is listed as day to day.	He is listed as day to day.	438424	1471947131803	1471947131948	CAPS_LOCK	20
+895	9146	He is listed as day to day.	He is listed as day to day.	438427	1471947131903	1471947132003	i	73
+895	9146	He is listed as day to day.	He is listed as day to day.	438429	1471947132324	1471947132394	BKSP	8
+895	9146	He is listed as day to day.	He is listed as day to day.	438433	1471947132604	1471947132704	 	32
+895	9146	He is listed as day to day.	He is listed as day to day.	438437	1471947132751	1471947132845	i	73
+895	9146	He is listed as day to day.	He is listed as day to day.	438441	1471947132873	1471947132989	s	83
+895	9146	He is listed as day to day.	He is listed as day to day.	438453	1471947132989	1471947133073	 	32
+895	9146	He is listed as day to day.	He is listed as day to day.	438455	1471947133136	1471947133243	l	76
+895	9146	He is listed as day to day.	He is listed as day to day.	438457	1471947133289	1471947133374	i	73
+895	9146	He is listed as day to day.	He is listed as day to day.	438459	1471947133406	1471947133521	s	83
+895	9146	He is listed as day to day.	He is listed as day to day.	438462	1471947133590	1471947133706	t	84
+895	9146	He is listed as day to day.	He is listed as day to day.	438507	1471947133743	1471947133829	e	69
+895	9146	He is listed as day to day.	He is listed as day to day.	438509	1471947133953	1471947134138	d	68
+895	9146	He is listed as day to day.	He is listed as day to day.	438511	1471947134322	1471947134406	 	32
+895	9146	He is listed as day to day.	He is listed as day to day.	438513	1471947134469	1471947134576	a	65
+895	9146	He is listed as day to day.	He is listed as day to day.	438515	1471947134623	1471947134772	s	83
+895	9146	He is listed as day to day.	He is listed as day to day.	438590	1471947134799	1471947134875	 	32
+895	9146	He is listed as day to day.	He is listed as day to day.	438592	1471947135023	1471947135143	d	68
+895	9146	He is listed as day to day.	He is listed as day to day.	438594	1471947135192	1471947135291	a	65
+895	9146	He is listed as day to day.	He is listed as day to day.	438595	1471947136108	1471947136224	y	89
+895	9146	He is listed as day to day.	He is listed as day to day.	438597	1471947136409	1471947136524	 	32
+895	9146	He is listed as day to day.	He is listed as day to day.	438635	1471947136609	1471947136693	t	84
+895	9146	He is listed as day to day.	He is listed as day to day.	438639	1471947136693	1471947136778	o	79
+895	9146	He is listed as day to day.	He is listed as day to day.	438641	1471947136825	1471947136909	 	32
+895	9146	He is listed as day to day.	He is listed as day to day.	438643	1471947137041	1471947137148	d	68
+895	9146	He is listed as day to day.	He is listed as day to day.	438645	1471947137205	1471947137316	a	65
+895	9146	He is listed as day to day.	He is listed as day to day.	438673	1471947137318	1471947137396	y	89
+895	9146	He is listed as day to day.	He is listed as day to day.	438676	1471947137912	1471947137997	.	190
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	438872	1471947140610	1471947140676	CAPS_LOCK	20
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	438874	1471947140713	1471947140879	CAPS_LOCK	20
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	438879	1471947141026	1471947141126	t	84
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	438883	1471947141280	1471947141358	CAPS_LOCK	20
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	438887	1471947141395	1471947141447	I	73
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	438890	1471947141642	1471947141744	BKSP	8
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	438892	1471947141826	1471947141895	BKSP	8
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	438893	1471947141926	1471947142011	T	84
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	438894	1471947142109	1471947142204	CAPS_LOCK	20
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	438895	1471947142236	1471947142316	i	73
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	438896	1471947142411	1471947142539	m	77
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	438923	1471947142496	1471947142627	e	69
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	438925	1471947142677	1471947142761	 	32
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	438927	1471947142843	1471947142960	t	84
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	438929	1471947143358	1471947143460	r	82
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	438932	1471947143480	1471947143627	i	73
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	438935	1471947143658	1471947143796	l	76
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	438999	1471947143761	1471947143912	a	65
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439003	1471947144315	1471947144364	BKSP	8
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439005	1471947144476	1471947144546	BKSP	8
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439009	1471947144643	1471947144729	a	65
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439013	1471947144760	1471947144863	l	76
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439019	1471947144960	1471947145081	s	83
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439023	1471947145144	1471947145244	 	32
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439029	1471947145397	1471947145532	f	70
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439040	1471947145497	1471947145582	o	79
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439042	1471947145613	1471947145699	r	82
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439046	1471947145665	1471947145782	 	32
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439050	1471947145813	1471947145907	t	84
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439055	1471947145864	1471947145963	h	72
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439060	1471947145982	1471947146107	e	69
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439110	1471947146063	1471947146198	 	32
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439113	1471947146283	1471947146398	CAPS_LOCK	20
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439117	1471947146330	1471947146461	M	77
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439121	1471947146514	1471947146598	CAPS_LOCK	20
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439126	1471947146683	1471947146782	a	65
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439132	1471947146782	1471947146899	y	89
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439138	1471947147029	1471947147131	 	32
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439144	1471947147830	1471947147946	2	50
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439234	1471947148161	1471947148195	8	56
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439236	1471947148699	1471947148784	BKSP	8
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439239	1471947149616	1471947149648	9	57
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439242	1471947149785	1471947149864	 	32
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439245	1471947149981	1471947150117	r	82
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439248	1471947150117	1471947150263	a	65
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439257	1471947150348	1471947150447	c	67
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439260	1471947150501	1471947150656	e	69
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439263	1471947150748	1471947150832	 	32
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439268	1471947151048	1471947151132	c	67
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439277	1471947151132	1471947151248	o	79
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439332	1471947151285	1471947151444	n	78
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439335	1471947151401	1471947151516	t	84
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439337	1471947152076	1471947152164	i	73
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439338	1471947152292	1471947152380	n	78
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439339	1471947152565	1471947152687	u	85
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439375	1471947152787	1471947152903	e	69
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439378	1471947153100	1471947153188	 	32
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439379	1471947153319	1471947153435	t	84
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439381	1471947153435	1471947153550	h	72
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439383	1471947153550	1471947153666	e	69
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439413	1471947153687	1471947153780	 	32
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439415	1471947153904	1471947154004	n	78
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439417	1471947154035	1471947154117	e	69
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439419	1471947154220	1471947154350	x	88
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439421	1471947155035	1471947155089	t	84
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439473	1471947155220	1471947155304	 	32
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439475	1471947155588	1471947155704	t	84
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439476	1471947155772	1471947155904	o	79
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439477	1471947156332	1471947156405	BKSP	8
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439478	1471947156452	1471947156521	w	87
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439480	1471947156589	1471947156706	o	79
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439514	1471947156806	1471947156890	 	32
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439516	1471947157100	1471947157212	w	87
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439518	1471947157340	1471947157443	e	69
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439520	1471947157538	1471947157607	e	69
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439521	1471947157638	1471947157792	k	75
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439647	1471947158523	1471947158638	e	69
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439649	1471947158669	1471947158748	n	78
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439651	1471947158788	1471947158891	d	68
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439654	1471947158991	1471947159107	s	83
+895	9153	Time trials for the May 29 race continue the next two weekends.	Time trials for the May 29 race continue the next two weekends.	439656	1471947160239	1471947160338	.	190

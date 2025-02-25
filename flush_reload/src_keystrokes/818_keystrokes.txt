@@ -1,0 +1,635 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389216	1471945963659	1471945964216	SHIFT	16
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389217	1471945964020	1471945964216	S	83
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389218	1471945964530	1471945964789	t	84
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389219	1471945964685	1471945964836	e	69
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389220	1471945965008	1471945965109	v	86
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389221	1471945965233	1471945965401	e	69
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389238	1471945965401	1471945965554	 	32
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389240	1471945965554	1471945965709	SHIFT	16
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389243	1471945965663	1471945965818	G	71
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389246	1471945965818	1471945965954	i	73
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389249	1471945965986	1471945966136	l	76
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389255	1471945966152	1471945966271	b	66
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389279	1471945966383	1471945966590	e	69
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389282	1471945966503	1471945966621	r	82
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389284	1471945966871	1471945967019	t	84
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389286	1471945967019	1471945967199	 	32
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389325	1471945967153	1471945967274	i	73
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389326	1471945967418	1471945967473	 	32
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389327	1471945967568	1471945967657	w	87
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389328	1471945967876	1471945967973	BKSP	8
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389329	1471945968051	1471945968140	BKSP	8
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389330	1471945968218	1471945968372	w	87
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389331	1471945968403	1471945968540	 	32
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389334	1471945968649	1471945968771	o	79
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389384	1471945969023	1471945969122	BKSP	8
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389385	1471945969216	1471945969290	BKSP	8
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389387	1471945969337	1471945969455	BKSP	8
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389389	1471945969487	1471945969604	s	83
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389391	1471945969854	1471945969971	 	32
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389393	1471945969956	1471945970134	w	87
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389396	1471945970134	1471945970223	o	79
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389402	1471945970223	1471945970355	r	82
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389414	1471945970371	1471945970472	k	75
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389415	1471945970550	1471945970654	i	73
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389417	1471945970701	1471945970805	n	78
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389419	1471945970805	1471945970936	g	71
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389435	1471945970875	1471945970994	 	32
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389438	1471945970994	1471945971144	o	79
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389440	1471945971104	1471945971220	n	78
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389442	1471945971220	1471945971325	 	32
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389444	1471945971325	1471945971458	t	84
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389468	1471945971391	1471945971525	h	72
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389470	1471945971474	1471945971556	i	73
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389472	1471945971619	1471945971793	s	83
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389474	1471945971738	1471945971919	.	190
+818	8109	Steve Gilbert is working on this.	Steve Gilbert is working on this. 	389476	1471945971997	1471945972057	 	32
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389570	1471945974291	1471945974640	SHIFT	16
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389572	1471945974559	1471945974718	T	84
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389575	1471945974750	1471945974854	h	72
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389579	1471945974854	1471945974986	e	69
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389581	1471945974986	1471945975089	 	32
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389584	1471945975152	1471945975255	v	86
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389616	1471945975255	1471945975320	o	79
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389618	1471945975580	1471945975720	l	76
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389621	1471945975767	1471945975841	u	85
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389624	1471945976028	1471945976154	m	77
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389626	1471945976154	1471945976367	e	69
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389647	1471945976335	1471945976486	s	83
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389649	1471945976501	1471945976604	 	32
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389651	1471945976636	1471945976786	t	84
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389656	1471945976786	1471945976889	i	73
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389660	1471945976952	1471945977055	e	69
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389664	1471945977133	1471945977301	,	188
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389681	1471945977316	1471945977373	 	32
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389683	1471945977373	1471945977519	s	83
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389686	1471945977503	1471945977640	o	79
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389689	1471945977589	1471945977673	 	32
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389691	1471945977673	1471945977803	t	84
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389704	1471945977819	1471945977923	h	72
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389706	1471945977907	1471945978036	e	69
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389711	1471945978036	1471945978154	 	32
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389715	1471945978154	1471945978335	p	80
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389718	1471945978335	1471945978456	r	82
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389733	1471945978423	1471945978521	i	73
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389736	1471945978599	1471945978741	c	67
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389739	1471945978688	1471945978772	i	73
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389741	1471945978819	1471945978938	n	78
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389743	1471945978938	1471945979055	g	71
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389744	1471945979055	1471945979155	 	32
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389777	1471945979346	1471945979440	m	77
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389779	1471945979674	1471945979851	s	83
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389782	1471945980117	1471945980253	BKSP	8
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389784	1471945980411	1471945980553	u	85
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389785	1471945980538	1471945980728	s	83
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389807	1471945980669	1471945980803	t	84
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389809	1471945980850	1471945980971	 	32
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389813	1471945981581	1471945981656	b	66
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389817	1471945981796	1471945981936	e	69
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389823	1471945981920	1471945982053	 	32
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389829	1471945982115	1471945982175	f	79
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389842	1471945982316	1471945982484	f	70
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389845	1471945982484	1471945982604	 	32
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389850	1471945982573	1471945982737	s	83
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389855	1471945982706	1471945982836	o	79
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389859	1471945982961	1471945983056	e	69
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389916	1471945983088	1471945983172	m	77
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389917	1471945983470	1471945983572	BKSP	8
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389918	1471945983635	1471945983724	BKSP	8
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389919	1471945983880	1471945983987	m	77
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389920	1471945983987	1471945984121	e	69
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389921	1471945984183	1471945984272	t	84
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389923	1471945984571	1471945984671	BKSP	8
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389927	1471945984734	1471945984885	w	87
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389956	1471945984900	1471945984958	h	72
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389957	1471945985005	1471945985121	e	69
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389958	1471945985230	1471945985327	r	82
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389960	1471945985279	1471945985481	e	69
+818	8117	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	389962	1471945985527	1471945985637	.	190
+818	8128	Yes, I am playing.	Yes, I am playing.	390075	1471945987999	1471945988470	SHIFT	16
+818	8128	Yes, I am playing.	Yes, I am playing.	390077	1471945988363	1471945988517	Y	89
+818	8128	Yes, I am playing.	Yes, I am playing.	390079	1471945988611	1471945988799	e	69
+818	8128	Yes, I am playing.	Yes, I am playing.	390082	1471945989410	1471945989558	s	83
+818	8128	Yes, I am playing.	Yes, I am playing.	390085	1471945989490	1471945989698	,	188
+818	8128	Yes, I am playing.	Yes, I am playing.	390089	1471945989698	1471945989789	 	32
+818	8128	Yes, I am playing.	Yes, I am playing.	390119	1471945989789	1471945990024	SHIFT	16
+818	8128	Yes, I am playing.	Yes, I am playing.	390123	1471945989946	1471945990072	I	73
+818	8128	Yes, I am playing.	Yes, I am playing.	390127	1471945990072	1471945990155	 	32
+818	8128	Yes, I am playing.	Yes, I am playing.	390131	1471945990186	1471945990374	a	65
+818	8128	Yes, I am playing.	Yes, I am playing.	390133	1471945990305	1471945990509	m	77
+818	8128	Yes, I am playing.	Yes, I am playing.	390135	1471945990509	1471945990636	 	32
+818	8128	Yes, I am playing.	Yes, I am playing.	390150	1471945990793	1471945990889	p	80
+818	8128	Yes, I am playing.	Yes, I am playing.	390153	1471945991014	1471945991168	l	76
+818	8128	Yes, I am playing.	Yes, I am playing.	390155	1471945991199	1471945991373	a	65
+818	8128	Yes, I am playing.	Yes, I am playing.	390157	1471945991435	1471945991568	y	89
+818	8128	Yes, I am playing.	Yes, I am playing.	390209	1471945991538	1471945991639	i	73
+818	8128	Yes, I am playing.	Yes, I am playing.	390211	1471945991810	1471945991921	n	78
+818	8128	Yes, I am playing.	Yes, I am playing.	390213	1471945991937	1471945992069	g	71
+818	8128	Yes, I am playing.	Yes, I am playing.	390216	1471945992470	1471945992586	.	190
+818	8134	When do you have to be there?	When do you have to be there?	390311	1471945995094	1471945995356	SHIFT	16
+818	8134	When do you have to be there?	When do you have to be there?	390314	1471945995265	1471945995434	W	87
+818	8134	When do you have to be there?	When do you have to be there?	390318	1471945995481	1471945995591	h	72
+818	8134	When do you have to be there?	When do you have to be there?	390320	1471945995636	1471945995767	e	69
+818	8134	When do you have to be there?	When do you have to be there?	390323	1471945995707	1471945995915	n	78
+818	8134	When do you have to be there?	When do you have to be there?	390356	1471945995899	1471945996066	 	32
+818	8134	When do you have to be there?	When do you have to be there?	390359	1471945996175	1471945996344	d	68
+818	8134	When do you have to be there?	When do you have to be there?	390362	1471945996300	1471945996480	o	79
+818	8134	When do you have to be there?	When do you have to be there?	390369	1471945996435	1471945996584	 	32
+818	8134	When do you have to be there?	When do you have to be there?	390373	1471945996631	1471945996768	y	89
+818	8134	When do you have to be there?	When do you have to be there?	390379	1471945996768	1471945997007	o	79
+818	8134	When do you have to be there?	When do you have to be there?	390415	1471945996949	1471945997055	u	85
+818	8134	When do you have to be there?	When do you have to be there?	390418	1471945997257	1471945997387	 	32
+818	8134	When do you have to be there?	When do you have to be there?	390421	1471945997527	1471945997621	h	72
+818	8134	When do you have to be there?	When do you have to be there?	390424	1471945997621	1471945997783	a	65
+818	8134	When do you have to be there?	When do you have to be there?	390430	1471945997783	1471945997903	v	86
+818	8134	When do you have to be there?	When do you have to be there?	390434	1471945997965	1471945998089	e	69
+818	8134	When do you have to be there?	When do you have to be there?	390447	1471945998055	1471945998169	 	32
+818	8134	When do you have to be there?	When do you have to be there?	390449	1471945998247	1471945998346	t	84
+818	8134	When do you have to be there?	When do you have to be there?	390453	1471945998315	1471945998474	o	79
+818	8134	When do you have to be there?	When do you have to be there?	390459	1471945998406	1471945998537	 	32
+818	8134	When do you have to be there?	When do you have to be there?	390464	1471945998521	1471945998606	b	66
+818	8134	When do you have to be there?	When do you have to be there?	390469	1471945998715	1471945998838	e	69
+818	8134	When do you have to be there?	When do you have to be there?	390479	1471945998838	1471945998907	 	32
+818	8134	When do you have to be there?	When do you have to be there?	390480	1471945998907	1471945999036	t	84
+818	8134	When do you have to be there?	When do you have to be there?	390482	1471945999099	1471945999190	e	72
+818	8134	When do you have to be there?	When do you have to be there?	390484	1471945999252	1471945999453	r	82
+818	8134	When do you have to be there?	When do you have to be there?	390513	1471945999437	1471945999585	e	69
+818	8134	When do you have to be there?	When do you have to be there?	390523	1471945999665	1471946000261	SHIFT	16
+818	8134	When do you have to be there?	When do you have to be there?	390519	1471946000024	1471946000168	?	191
+818	8141	This event will be a blast.	This event will be a blast.	390624	1471946002312	1471946002504	SHIFT	16
+818	8141	This event will be a blast.	This event will be a blast.	390625	1471946002449	1471946002616	T	84
+818	8141	This event will be a blast.	This event will be a blast.	390627	1471946002616	1471946002736	h	72
+818	8141	This event will be a blast.	This event will be a blast.	390629	1471946002736	1471946002836	i	73
+818	8141	This event will be a blast.	This event will be a blast.	390630	1471946002867	1471946003050	s	83
+818	8141	This event will be a blast.	This event will be a blast.	390631	1471946003050	1471946003170	 	32
+818	8141	This event will be a blast.	This event will be a blast.	390702	1471946003170	1471946003271	e	69
+818	8141	This event will be a blast.	This event will be a blast.	390704	1471946003570	1471946003656	e	69
+818	8141	This event will be a blast.	This event will be a blast.	390707	1471946003749	1471946003799	n	78
+818	8141	This event will be a blast.	This event will be a blast.	390710	1471946004026	1471946004121	BKSP	8
+818	8141	This event will be a blast.	This event will be a blast.	390712	1471946004184	1471946004271	BKSP	8
+818	8141	This event will be a blast.	This event will be a blast.	390714	1471946004382	1471946004503	v	86
+818	8141	This event will be a blast.	This event will be a blast.	390717	1471946004596	1471946004720	e	69
+818	8141	This event will be a blast.	This event will be a blast.	390734	1471946004752	1471946004869	n	78
+818	8141	This event will be a blast.	This event will be a blast.	390737	1471946004869	1471946004987	t	84
+818	8141	This event will be a blast.	This event will be a blast.	390741	1471946004987	1471946005104	 	32
+818	8141	This event will be a blast.	This event will be a blast.	390749	1471946005166	1471946005318	w	87
+818	8141	This event will be a blast.	This event will be a blast.	390794	1471946005287	1471946005369	i	73
+818	8141	This event will be a blast.	This event will be a blast.	390796	1471946005463	1471946005523	l	76
+818	8141	This event will be a blast.	This event will be a blast.	390799	1471946005602	1471946005736	l	76
+818	8141	This event will be a blast.	This event will be a blast.	390803	1471946005736	1471946005853	 	32
+818	8141	This event will be a blast.	This event will be a blast.	390805	1471946005837	1471946005937	b	66
+818	8141	This event will be a blast.	This event will be a blast.	390808	1471946006015	1471946006183	e	69
+818	8141	This event will be a blast.	This event will be a blast.	390826	1471946006152	1471946006254	 	32
+818	8141	This event will be a blast.	This event will be a blast.	390828	1471946006285	1471946006435	a	65
+818	8141	This event will be a blast.	This event will be a blast.	390829	1471946006420	1471946006536	 	32
+818	8141	This event will be a blast.	This event will be a blast.	390830	1471946006567	1471946006734	b	66
+818	8141	This event will be a blast.	This event will be a blast.	390831	1471946006718	1471946006840	l	76
+818	8141	This event will be a blast.	This event will be a blast.	390858	1471946006774	1471946006950	a	65
+818	8141	This event will be a blast.	This event will be a blast.	390859	1471946006950	1471946007131	s	83
+818	8141	This event will be a blast.	This event will be a blast.	390860	1471946007131	1471946007253	t	84
+818	8141	This event will be a blast.	This event will be a blast.	390863	1471946007253	1471946007348	.	190
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391020	1471946009510	1471946009823	SHIFT	16
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391022	1471946009744	1471946009885	G	71
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391024	1471946010324	1471946010437	i	73
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391025	1471946010484	1471946010634	a	65
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391026	1471946010603	1471946010752	n	78
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391027	1471946010752	1471946010916	t	84
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391049	1471946010947	1471946011037	s	83
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391052	1471946011084	1471946011336	,	188
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391055	1471946011297	1471946011404	 	32
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391058	1471946011451	1471946011586	b	66
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391061	1471946011617	1471946011738	u	85
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391081	1471946011800	1471946011935	t	84
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391082	1471946011920	1471946012037	 	32
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391084	1471946012037	1471946012154	h	72
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391086	1471946012216	1471946012336	e	69
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391088	1471946012337	1471946012437	 	32
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391125	1471946012515	1471946012589	d	68
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391129	1471946012589	1471946012704	i	73
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391132	1471946012798	1471946012933	d	68
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391136	1471946012933	1471946013068	n	78
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391138	1471946013364	1471946013501	'	222
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391163	1471946013486	1471946013602	t	84
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391166	1471946013602	1471946013751	 	32
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391170	1471946013798	1471946013935	f	70
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391174	1471946013887	1471946013971	i	73
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391176	1471946014065	1471946014248	n	78
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391196	1471946014201	1471946014324	i	73
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391197	1471946014480	1471946014603	s	83
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391198	1471946014603	1471946014784	h	72
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391199	1471946014784	1471946014918	 	32
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391200	1471946014918	1471946015021	i	73
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391225	1471946015021	1471946015151	t	84
+818	8145	Giants, but he didn't finish it.	Giants, but he didn't finish it.	391226	1471946015167	1471946015285	.	190
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391338	1471946017232	1471946017488	SHIFT	16
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391340	1471946017437	1471946017554	T	84
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391342	1471946017601	1471946017704	h	72
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391343	1471946017751	1471946017871	e	69
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391344	1471946017807	1471946017951	y	89
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391345	1471946017951	1471946018070	 	32
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391356	1471946018070	1471946018194	a	65
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391359	1471946018154	1471946018388	r	82
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391361	1471946018303	1471946018419	e	69
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391364	1471946018419	1471946018554	 	32
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391408	1471946018521	1471946018686	s	83
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391410	1471946018654	1471946018771	p	80
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391415	1471946018833	1471946018952	e	69
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391420	1471946019125	1471946019266	c	67
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391425	1471946019266	1471946019329	i	73
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391430	1471946019454	1471946019584	f	70
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391456	1471946019568	1471946019686	i	73
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391458	1471946019842	1471946019969	c	67
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391461	1471946019969	1471946020126	a	65
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391464	1471946020086	1471946020139	l	76
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391467	1471946020217	1471946020354	l	76
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391471	1471946020541	1471946020683	y	89
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391512	1471946020809	1471946020950	 	32
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391516	1471946021028	1471946021152	c	67
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391521	1471946021167	1471946021284	o	79
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391526	1471946021362	1471946021437	n	78
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391529	1471946021453	1471946021536	c	67
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391566	1471946021661	1471946021814	e	69
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391567	1471946021877	1471946022016	r	82
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391568	1471946022187	1471946022286	n	78
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391569	1471946022350	1471946022421	e	69
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391570	1471946022577	1471946022670	d	68
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391596	1471946022685	1471946022771	 	32
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391599	1471946022802	1471946022917	a	65
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391601	1471946022949	1471946023083	b	66
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391602	1471946023052	1471946023200	o	79
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391603	1471946023200	1471946023301	u	85
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391614	1471946023335	1471946023451	t	84
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391615	1471946023436	1471946023504	 	32
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391617	1471946023551	1471946023694	t	84
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391619	1471946023652	1471946023752	h	72
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391622	1471946023768	1471946023903	e	69
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391667	1471946023853	1471946024000	 	32
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391668	1471946024016	1471946024136	i	73
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391670	1471946024167	1471946024284	n	78
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391672	1471946024300	1471946024405	t	84
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391674	1471946024498	1471946024688	e	69
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391714	1471946024619	1471946024734	r	82
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391716	1471946024968	1471946025101	c	67
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391718	1471946025101	1471946025250	o	79
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391720	1471946025250	1471946025400	m	77
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391722	1471946025416	1471946025566	p	80
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391725	1471946025612	1471946025755	a	65
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391759	1471946025686	1471946025820	n	78
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391761	1471946025960	1471946026100	y	89
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391764	1471946026131	1471946026298	 	32
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391767	1471946026298	1471946026505	n	78
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391770	1471946026417	1471946026567	o	79
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391773	1471946026567	1471946026801	t	84
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391801	1471946026701	1471946026911	e	69
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391804	1471946026879	1471946027033	s	83
+818	8154	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	391807	1471946027064	1471946027200	.	190
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	391950	1471946029577	1471946030352	SHIFT	16
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	391952	1471946030247	1471946030352	W	87
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	391956	1471946030570	1471946030683	a	65
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	391962	1471946030683	1471946030754	y	89
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	391968	1471946030894	1471946031017	n	78
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	391973	1471946031017	1471946031136	e	69
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392012	1471946031088	1471946031248	 	32
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392016	1471946031248	1471946031337	h	72
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392018	1471946031337	1471946031515	a	65
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392021	1471946031515	1471946031614	s	83
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392024	1471946031572	1471946031694	 	32
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392023	1471946031653	1471946031816	n	78
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392027	1471946031753	1471946031916	o	79
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392032	1471946031916	1471946032034	t	84
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392037	1471946032019	1471946032163	 	32
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392042	1471946032175	1471946032321	d	68
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392088	1471946032253	1471946032415	o	79
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392090	1471946032415	1471946032550	n	78
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392093	1471946032643	1471946032752	e	69
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392097	1471946033111	1471946033281	 	32
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392101	1471946033439	1471946033551	m	77
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392106	1471946033723	1471946033818	u	85
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392173	1471946034084	1471946034216	c	67
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392176	1471946034342	1471946034530	 	32
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392180	1471946035125	1471946035235	y	89
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392182	1471946035282	1471946035431	e	69
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392185	1471946035509	1471946035634	t	84
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392204	1471946035696	1471946035896	,	188
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392207	1471946035865	1471946035969	 	32
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392208	1471946035969	1471946036116	s	83
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392210	1471946036116	1471946036255	o	79
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392236	1471946036188	1471946036303	 	32
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392239	1471946036303	1471946036488	d	68
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392243	1471946036402	1471946036535	o	79
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392246	1471946036535	1471946036666	n	78
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392249	1471946036713	1471946036897	'	222
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392270	1471946036865	1471946037001	t	84
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392272	1471946037001	1471946037133	 	32
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392276	1471946037195	1471946037397	p	80
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392278	1471946037397	1471946037501	u	85
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392279	1471946037564	1471946037686	t	84
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392288	1471946037637	1471946037754	 	32
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392291	1471946037754	1471946037899	h	72
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392292	1471946037868	1471946037954	i	73
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392295	1471946038063	1471946038184	m	77
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392297	1471946038184	1471946038329	 	32
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392309	1471946038302	1471946038435	i	73
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392310	1471946038435	1471946038630	n	78
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392312	1471946038615	1471946038781	 	32
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392314	1471946038828	1471946038981	y	89
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392316	1471946038981	1471946039171	o	79
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392366	1471946039117	1471946039250	u	85
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392369	1471946039282	1471946039416	r	82
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392370	1471946039416	1471946039518	 	32
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392372	1471946039877	1471946040102	SHIFT	16
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392375	1471946040005	1471946040196	F	70
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392379	1471946040180	1471946040350	a	65
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392382	1471946040350	1471946040467	n	78
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392400	1471946040483	1471946040616	t	84
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392401	1471946040756	1471946040914	a	65
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392402	1471946041164	1471946041299	s	83
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392403	1471946041299	1471946041481	y	89
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392452	1471946041450	1471946041599	 	32
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392455	1471946041661	1471946041829	l	76
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392461	1471946041829	1471946041933	i	73
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392466	1471946042122	1471946042251	n	78
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392468	1471946042266	1471946042416	e	69
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392470	1471946042510	1471946042754	u	85
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392479	1471946042680	1471946042802	p	80
+818	8166	Wayne has not done much yet, so don't put him in your Fantasy lineup.	Wayne has not done muc yet, so don't put him in your Fantasy lineup.	392480	1471946042989	1471946043055	.	190
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392591	1471946045012	1471946045616	SHIFT	16
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392593	1471946045497	1471946045616	O	79
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392595	1471946045788	1471946045916	n	78
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392596	1471946045978	1471946046116	 	32
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392597	1471946046163	1471946046314	a	65
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392599	1471946046314	1471946046434	 	32
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392643	1471946046434	1471946046567	c	67
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392646	1471946046567	1471946046738	o	79
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392650	1471946046683	1471946046832	m	77
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392655	1471946046832	1471946046982	p	80
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392659	1471946047294	1471946047463	a	65
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392680	1471946047463	1471946047679	r	82
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392684	1471946047679	1471946047831	a	65
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392689	1471946047879	1471946047985	t	84
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392695	1471946048016	1471946048119	i	73
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392699	1471946048150	1471946048268	v	86
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392726	1471946048333	1471946048466	e	69
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392728	1471946048466	1471946048599	 	32
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392730	1471946048661	1471946048782	b	66
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392733	1471946048782	1471946048964	a	65
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392736	1471946049013	1471946049134	s	83
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392758	1471946049181	1471946049284	i	73
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392760	1471946049316	1471946049435	s	83
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392761	1471946049451	1471946049584	 	32
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392763	1471946049584	1471946049835	SHIFT	16
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392764	1471946049740	1471946049882	I	73
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392792	1471946049851	1471946049952	 	32
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392794	1471946050079	1471946050230	c	67
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392795	1471946050230	1471946050368	a	65
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392796	1471946050368	1471946050484	n	78
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392798	1471946050562	1471946050775	'	222
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392851	1471946050731	1471946050881	t	84
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392853	1471946050913	1471946051018	 	32
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392855	1471946051160	1471946051252	j	74
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392856	1471946051364	1471946051484	u	85
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392857	1471946051484	1471946051663	s	83
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392858	1471946051694	1471946051801	t	84
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392928	1471946052288	1471946052463	i	73
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392930	1471946052463	1471946052583	f	70
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392932	1471946052614	1471946052749	y	89
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392933	1471946052812	1471946052932	 	32
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392934	1471946053010	1471946053190	m	77
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392963	1471946053149	1471946053251	o	79
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392965	1471946053298	1471946053495	r	82
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392969	1471946053447	1471946053629	e	69
+818	8180	On a comparative basis I can't justify more.	On a comparative basis I can't justify more.	392971	1471946053629	1471946053735	.	190
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393118	1471946055864	1471946056170	SHIFT	16
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393123	1471946056082	1471946056232	T	84
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393125	1471946056295	1471946056384	h	72
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393129	1471946056433	1471946056582	e	69
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393132	1471946056614	1471946056764	 	32
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393134	1471946056983	1471946057099	i	73
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393169	1471946057163	1471946057267	n	78
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393172	1471946057364	1471946057452	j	74
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393176	1471946057562	1471946057683	u	85
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393179	1471946057714	1471946057865	r	82
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393184	1471946057896	1471946058032	y	89
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393199	1471946058048	1471946058247	 	32
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393200	1471946058198	1471946058331	i	73
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393201	1471946058362	1471946058499	s	83
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393202	1471946058467	1471946058631	 	32
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393253	1471946058584	1471946058775	m	77
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393256	1471946058732	1471946058834	o	79
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393259	1471946058880	1471946059080	r	82
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393262	1471946059032	1471946059165	e	69
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393265	1471946059165	1471946059253	 	32
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393268	1471946059586	1471946059762	s	83
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393304	1471946059778	1471946059899	e	69
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393307	1471946060024	1471946060134	r	82
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393310	1471946060134	1471946060234	i	73
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393313	1471946060281	1471946060462	o	79
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393316	1471946060462	1471946060574	u	85
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393331	1471946060635	1471946060790	s	83
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393334	1471946060749	1471946060851	 	32
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393337	1471946060867	1471946061000	t	84
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393338	1471946061000	1471946061089	h	72
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393340	1471946061198	1471946061316	a	65
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393365	1471946061301	1471946061367	n	78
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393369	1471946061367	1471946061454	 	32
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393373	1471946061421	1471946061581	t	84
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393375	1471946061581	1471946061731	h	72
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393376	1471946061715	1471946061865	e	69
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393378	1471946061865	1471946062015	 	32
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393411	1471946062015	1471946062334	SHIFT	16
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393409	1471946062187	1471946062301	P	80
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393415	1471946062430	1471946062614	a	65
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393417	1471946062581	1471946062684	n	78
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393422	1471946062981	1471946063100	h	72
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393424	1471946063115	1471946063279	e	69
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393496	1471946063545	1471946063682	r	82
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393500	1471946063791	1471946063978	s	83
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393504	1471946063994	1471946064116	 	32
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393508	1471946064225	1471946064367	f	70
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393513	1471946064367	1471946064467	i	73
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393540	1471946064545	1471946064698	r	82
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393547	1471946064745	1471946064913	s	83
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393553	1471946064929	1471946065081	t	84
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393559	1471946065112	1471946065233	 	32
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393563	1471946065233	1471946065345	e	69
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393601	1471946065454	1471946065582	x	88
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393603	1471946065629	1471946065781	p	80
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393605	1471946065796	1471946065901	e	69
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393607	1471946066026	1471946066133	c	67
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393610	1471946066227	1471946066430	t	84
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393630	1471946066376	1471946066474	e	69
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393631	1471946066709	1471946066770	d	68
+818	8192	The injury is more serious than the Panthers first expected.	The injury is more serious than the Panhers first expected.	393632	1471946066817	1471946066918	.	190
+818	8204	See the list below.	See the list below.	393789	1471946068911	1471946069215	SHIFT	16
+818	8204	See the list below.	See the list below.	393794	1471946069067	1471946069230	S	83
+818	8204	See the list below.	See the list below.	393798	1471946069262	1471946069367	e	69
+818	8204	See the list below.	See the list below.	393800	1471946069460	1471946069614	e	69
+818	8204	See the list below.	See the list below.	393801	1471946069614	1471946069748	 	32
+818	8204	See the list below.	See the list below.	393802	1471946069748	1471946069886	t	84
+818	8204	See the list below.	See the list below.	393856	1471946069835	1471946069983	h	72
+818	8204	See the list below.	See the list below.	393859	1471946069951	1471946070102	e	69
+818	8204	See the list below.	See the list below.	393865	1471946070051	1471946070198	 	32
+818	8204	See the list below.	See the list below.	393867	1471946070182	1471946070300	l	76
+818	8204	See the list below.	See the list below.	393871	1471946070380	1471946070578	s	83
+818	8204	See the list below.	See the list below.	393875	1471946070843	1471946070965	BKSP	8
+818	8204	See the list below.	See the list below.	393879	1471946071121	1471946071265	i	73
+818	8204	See the list below.	See the list below.	393900	1471946071280	1471946071471	s	83
+818	8204	See the list below.	See the list below.	393901	1471946071417	1471946071565	t	84
+818	8204	See the list below.	See the list below.	393904	1471946071565	1471946071715	 	32
+818	8204	See the list below.	See the list below.	393907	1471946071746	1471946071834	b	66
+818	8204	See the list below.	See the list below.	393909	1471946071914	1471946072079	e	69
+818	8204	See the list below.	See the list below.	393925	1471946072018	1471946072123	l	76
+818	8204	See the list below.	See the list below.	393926	1471946072216	1471946072334	o	79
+818	8204	See the list below.	See the list below.	393927	1471946072365	1471946072467	w	87
+818	8204	See the list below.	See the list below.	393929	1471946072467	1471946072568	.	190
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394055	1471946074582	1471946075051	SHIFT	16
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394053	1471946074956	1471946075035	O	79
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394059	1471946075351	1471946075435	u	85
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394061	1471946075513	1471946075679	r	82
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394062	1471946075679	1471946075815	 	32
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394063	1471946075909	1471946076001	n	78
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394092	1471946076110	1471946076201	u	85
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394094	1471946076327	1471946076448	m	77
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394098	1471946076432	1471946076565	b	66
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394102	1471946076737	1471946076919	e	69
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394132	1471946076866	1471946077124	r	82
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394133	1471946077344	1471946077481	s	83
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394135	1471946077481	1471946077584	 	32
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394136	1471946077615	1471946077780	a	65
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394138	1471946077780	1471946078033	r	82
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394187	1471946077946	1471946078065	e	69
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394189	1471946078048	1471946078167	 	32
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394191	1471946078214	1471946078350	c	67
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394193	1471946078350	1471946078466	o	79
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394196	1471946078535	1471946078619	r	82
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394200	1471946078712	1471946078880	r	82
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394257	1471946078880	1471946078969	e	69
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394260	1471946079125	1471946079250	c	67
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394264	1471946079751	1471946079835	t	84
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394269	1471946079960	1471946080083	 	32
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394274	1471946080099	1471946080202	i	73
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394287	1471946080295	1471946080412	n	78
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394289	1471946080412	1471946080487	 	32
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394291	1471946080487	1471946080650	t	84
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394292	1471946080616	1471946080749	h	72
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394362	1471946080733	1471946080865	e	69
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394364	1471946080865	1471946080968	 	32
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394366	1471946080968	1471946081054	s	83
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394367	1471946081148	1471946081251	u	85
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394368	1471946081393	1471946081565	s	83
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394369	1471946081862	1471946081951	BKSP	8
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394371	1471946082013	1471946082118	BKSP	8
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394375	1471946082243	1471946082366	y	89
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394405	1471946082398	1471946082517	s	83
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394407	1471946082532	1471946082713	t	84
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394409	1471946082713	1471946082834	e	69
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394411	1471946082850	1471946083029	m	77
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394414	1471946083064	1471946083183	 	32
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394475	1471946083216	1471946083380	n	78
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394477	1471946083645	1471946083750	o	79
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394480	1471946084232	1471946084336	w	87
+818	8208	Our numbers are correct in the system now.	Our numbers are correct in the system now,	394483	1471946084336	1471946084402	,	188
+818	8224	How soon do you need it?	How soon do you need it?	394603	1471946086469	1471946086887	SHIFT	16
+818	8224	How soon do you need it?	How soon do you need it?	394608	1471946086810	1471946086949	H	72
+818	8224	How soon do you need it?	How soon do you need it?	394616	1471946087261	1471946087429	o	79
+818	8224	How soon do you need it?	How soon do you need it?	394621	1471946087413	1471946087502	w	87
+818	8224	How soon do you need it?	How soon do you need it?	394627	1471946087548	1471946087698	 	32
+818	8224	How soon do you need it?	How soon do you need it?	394662	1471946087683	1471946087816	s	83
+818	8224	How soon do you need it?	How soon do you need it?	394663	1471946087784	1471946087852	o	79
+818	8224	How soon do you need it?	How soon do you need it?	394664	1471946087946	1471946088067	o	79
+818	8224	How soon do you need it?	How soon do you need it?	394665	1471946088191	1471946088342	n	78
+818	8224	How soon do you need it?	How soon do you need it?	394666	1471946088342	1471946088466	 	32
+818	8224	How soon do you need it?	How soon do you need it?	394667	1471946088466	1471946088615	d	68
+818	8224	How soon do you need it?	How soon do you need it?	394688	1471946088567	1471946088753	o	79
+818	8224	How soon do you need it?	How soon do you need it?	394692	1471946088674	1471946088799	 	32
+818	8224	How soon do you need it?	How soon do you need it?	394696	1471946088877	1471946088999	y	89
+818	8224	How soon do you need it?	How soon do you need it?	394700	1471946089015	1471946089254	o	79
+818	8224	How soon do you need it?	How soon do you need it?	394704	1471946089196	1471946089332	u	85
+818	8224	How soon do you need it?	How soon do you need it?	394708	1471946089332	1471946089482	 	32
+818	8224	How soon do you need it?	How soon do you need it?	394727	1471946089514	1471946089618	n	78
+818	8224	How soon do you need it?	How soon do you need it?	394732	1471946089665	1471946089768	e	69
+818	8224	How soon do you need it?	How soon do you need it?	394739	1471946089846	1471946089904	e	69
+818	8224	How soon do you need it?	How soon do you need it?	394747	1471946090016	1471946090183	d	68
+818	8224	How soon do you need it?	How soon do you need it?	394807	1471946090101	1471946090272	 	32
+818	8224	How soon do you need it?	How soon do you need it?	394811	1471946090224	1471946090350	i	73
+818	8224	How soon do you need it?	How soon do you need it?	394814	1471946090350	1471946090482	t	84
+818	8224	How soon do you need it?	How soon do you need it?	394821	1471946090779	1471946091063	SHIFT	16
+818	8224	How soon do you need it?	How soon do you need it?	394818	1471946090904	1471946091016	?	191
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	394925	1471946093249	1471946093618	SHIFT	16
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	394927	1471946093532	1471946093665	W	87
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	394930	1471946093758	1471946093883	e	69
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	394933	1471946093914	1471946094050	 	32
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	394937	1471946094081	1471946094192	w	87
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	394972	1471946094153	1471946094267	i	73
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	394975	1471946094321	1471946094402	l	76
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	394977	1471946094465	1471946094614	l	76
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	394981	1471946094614	1471946094717	 	32
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	394983	1471946094717	1471946094848	f	70
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	394986	1471946094848	1471946094982	o	79
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395012	1471946095030	1471946095183	r	82
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395016	1471946095198	1471946095348	w	87
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395018	1471946095426	1471946095599	a	65
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395021	1471946095549	1471946095650	r	82
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395024	1471946095791	1471946095915	d	68
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395036	1471946095915	1471946095986	 	32
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395037	1471946095986	1471946096100	i	73
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395038	1471946096147	1471946096281	t	84
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395045	1471946096266	1471946096373	 	32
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395050	1471946096591	1471946096724	t	84
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395091	1471946096668	1471946096853	o	79
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395095	1471946096786	1471946096899	 	32
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395098	1471946096993	1471946097116	y	89
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395100	1471946097116	1471946097352	o	79
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395101	1471946097297	1471946097405	u	85
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395102	1471946097749	1471946097867	 	32
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395116	1471946097914	1471946098079	a	65
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395117	1471946098063	1471946098213	s	83
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395118	1471946098213	1471946098302	 	32
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395119	1471946098324	1471946098474	s	83
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395169	1471946098418	1471946098511	o	79
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395171	1471946098863	1471946098967	o	79
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395173	1471946099077	1471946099215	n	78
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395175	1471946099246	1471946099334	 	32
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395178	1471946099350	1471946099560	a	65
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395214	1471946099528	1471946099587	s	83
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395215	1471946099993	1471946100100	 	32
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395216	1471946100115	1471946100281	w	87
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395217	1471946100327	1471946100434	e	69
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395218	1471946100543	1471946100634	 	32
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395219	1471946100665	1471946100783	g	71
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395238	1471946100878	1471946101081	e	69
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395240	1471946101046	1471946101165	t	84
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395243	1471946101165	1471946101283	 	32
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395247	1471946101283	1471946101385	i	73
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395252	1471946101431	1471946101533	t	84
+818	8232	We will forward it to you as soon as we get it.	We will forward it to you as soon as we get it.	395257	1471946101565	1471946101653	.	190
+818	8243	Get with Mary for format.	Get with mary for format.	395408	1471946103675	1471946104151	SHIFT	16
+818	8243	Get with Mary for format.	Get with mary for format.	395411	1471946104051	1471946104166	G	71
+818	8243	Get with Mary for format.	Get with mary for format.	395414	1471946104260	1471946104460	e	69
+818	8243	Get with Mary for format.	Get with mary for format.	395416	1471946104429	1471946104548	t	84
+818	8243	Get with Mary for format.	Get with mary for format.	395423	1471946104627	1471946104733	 	32
+818	8243	Get with Mary for format.	Get with mary for format.	395427	1471946104889	1471946105031	w	87
+818	8243	Get with Mary for format.	Get with mary for format.	395450	1471946104999	1471946105147	i	73
+818	8243	Get with Mary for format.	Get with mary for format.	395452	1471946105147	1471946105265	t	84
+818	8243	Get with Mary for format.	Get with mary for format.	395455	1471946105250	1471946105422	h	72
+818	8243	Get with Mary for format.	Get with mary for format.	395457	1471946105406	1471946105516	 	32
+818	8243	Get with Mary for format.	Get with mary for format.	395460	1471946105516	1471946105704	SHIFT	16
+818	8243	Get with Mary for format.	Get with mary for format.	395464	1471946105704	1471946105815	m	77
+818	8243	Get with Mary for format.	Get with mary for format.	395467	1471946105831	1471946105995	a	65
+818	8243	Get with Mary for format.	Get with mary for format.	395518	1471946106105	1471946106232	r	82
+818	8243	Get with Mary for format.	Get with mary for format.	395520	1471946106216	1471946106384	y	89
+818	8243	Get with Mary for format.	Get with mary for format.	395521	1471946106334	1471946106451	 	32
+818	8243	Get with Mary for format.	Get with mary for format.	395522	1471946106592	1471946106698	o	79
+818	8243	Get with Mary for format.	Get with mary for format.	395523	1471946107057	1471946107183	BKSP	8
+818	8243	Get with Mary for format.	Get with mary for format.	395524	1471946107292	1471946107430	f	70
+818	8243	Get with Mary for format.	Get with mary for format.	395560	1471946107556	1471946107659	o	79
+818	8243	Get with Mary for format.	Get with mary for format.	395562	1471946107675	1471946107846	r	82
+818	8243	Get with Mary for format.	Get with mary for format.	395564	1471946107846	1471946107965	 	32
+818	8243	Get with Mary for format.	Get with mary for format.	395566	1471946108184	1471946108298	f	70
+818	8243	Get with Mary for format.	Get with mary for format.	395568	1471946108298	1471946108433	o	79
+818	8243	Get with Mary for format.	Get with mary for format.	395594	1471946108449	1471946108566	r	82
+818	8243	Get with Mary for format.	Get with mary for format.	395597	1471946108566	1471946108683	m	77
+818	8243	Get with Mary for format.	Get with mary for format.	395602	1471946108826	1471946109007	a	65
+818	8243	Get with Mary for format.	Get with mary for format.	395606	1471946108968	1471946109114	t	84
+818	8243	Get with Mary for format.	Get with mary for format.	395608	1471946109145	1471946109250	.	190

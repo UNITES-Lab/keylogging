@@ -1,0 +1,719 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45059	1471935976737	1471935976824	t	84
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45061	1471935976933	1471935977025	h	72
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45063	1471935977087	1471935977251	e	69
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45066	1471935979251	1471935979355	BKSP	8
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45070	1471935979433	1471935979507	BKSP	8
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45073	1471935979616	1471935979665	BKSP	8
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45076	1471935979764	1471935979792	BKSP	8
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45080	1471935979886	1471935979989	BKSP	8
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45087	1471935985508	1471935985999	SHIFT	16
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45083	1471935985790	1471935985905	T	84
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45091	1471935986672	1471935986790	h	72
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45167	1471935987057	1471935987218	e	69
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45170	1471935987593	1471935987691	 	32
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45173	1471935988149	1471935988350	v	86
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45176	1471935988521	1471935988843	o	79
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45178	1471935989843	1471935989971	l	76
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45274	1471935991208	1471935991291	u	85
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45277	1471935991793	1471935991963	m	77
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45280	1471935991979	1471935992102	e	69
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45283	1471935992446	1471935992649	s	83
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45287	1471935993183	1471935993286	 	32
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45427	1471935993977	1471935994070	t	84
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45429	1471935994618	1471935994706	i	73
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45432	1471935995487	1471935995665	e	69
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45435	1471935995868	1471935995987	 	32
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45439	1471935997305	1471935997469	BKSP	8
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45443	1471935998438	1471935998555	,	188
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45523	1471935999699	1471935999772	 	32
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45525	1471936000084	1471936000249	s	83
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45528	1471936000233	1471936000293	o	79
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45532	1471936000947	1471936001054	 	32
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45534	1471936001516	1471936001603	t	84
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45597	1471936001720	1471936001803	h	72
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45598	1471936002144	1471936002300	e	69
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45599	1471936002739	1471936002853	 	32
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45600	1471936003496	1471936003620	p	80
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45601	1471936003823	1471936004014	a	65
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45834	1471936005128	1471936005223	r	82
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45835	1471936005913	1471936006100	i	73
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45836	1471936010802	1471936010919	e	69
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45839	1471936010950	1471936011037	i	73
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45842	1471936011554	1471936011622	n	78
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45904	1471936011781	1471936011853	g	71
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45909	1471936012531	1471936012622	 	32
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45913	1471936013059	1471936013122	m	77
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45916	1471936013263	1471936013340	u	85
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45921	1471936013512	1471936013699	s	83
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45979	1471936013763	1471936013853	t	84
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45981	1471936014593	1471936014689	 	32
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45982	1471936015316	1471936015403	b	66
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45983	1471936015877	1471936015987	e	69
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	45984	1471936016050	1471936016141	 	32
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	46056	1471936016828	1471936016937	o	79
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	46059	1471936017250	1471936017322	f	70
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	46063	1471936017385	1471936017486	f	70
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	46065	1471936018394	1471936018487	 	32
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	46067	1471936018705	1471936018899	s	83
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	46226	1471936019089	1471936019173	o	79
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	46229	1471936019361	1471936019580	m	77
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	46232	1471936020710	1471936020853	e	69
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	46235	1471936021370	1471936021454	w	87
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	46238	1471936023742	1471936023854	h	72
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	46454	1471936025280	1471936025528	e	69
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	46456	1471936025715	1471936025788	r	82
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	46458	1471936025835	1471936025969	e	69
+112	909	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the parieing must be off somewhere.	46462	1471936027662	1471936027737	.	190
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	46939	1471936043325	1471936044268	SHIFT	16
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	46938	1471936043969	1471936044050	E	69
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	46940	1471936044837	1471936045073	u	85
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	46941	1471936046750	1471936046945	r	82
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	46942	1471936046961	1471936047051	o	79
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	46943	1471936047176	1471936047297	p	80
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	46983	1471936047802	1471936047979	e	69
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	46984	1471936048402	1471936048515	 	32
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	46985	1471936048655	1471936048734	h	72
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	46986	1471936048906	1471936049095	a	65
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	46987	1471936049360	1471936049530	s	83
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47090	1471936050093	1471936050199	 	32
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47092	1471936052304	1471936052417	l	76
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47095	1471936053327	1471936053433	o	79
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47098	1471936053574	1471936053759	s	83
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47100	1471936053806	1471936053885	t	84
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47161	1471936054841	1471936054935	 	32
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47163	1471936055045	1471936055212	a	65
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47166	1471936055932	1471936056048	g	71
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47170	1471936056191	1471936056282	r	82
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47174	1471936056392	1471936056758	e	69
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47319	1471936058178	1471936058252	BKSP	8
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47320	1471936058346	1471936058421	BKSP	8
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47321	1471936058514	1471936058568	BKSP	8
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47322	1471936059277	1471936059368	 	32
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47323	1471936060212	1471936060316	g	71
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47324	1471936060629	1471936060734	r	82
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47325	1471936060843	1471936060934	e	69
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47326	1471936061215	1471936061378	a	65
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47362	1471936061420	1471936061503	t	84
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47363	1471936062287	1471936062385	 	32
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47364	1471936062570	1471936062743	a	65
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47365	1471936063014	1471936063100	l	76
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47366	1471936063147	1471936063249	l	76
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47468	1471936063424	1471936063501	y	89
+112	948	Europe has lost a great ally.	Europe has lost a great ally.	47470	1471936064723	1471936064817	.	190
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	47862	1471936082380	1471936082698	SHIFT	16
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	47863	1471936082567	1471936082713	L	76
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	47865	1471936083686	1471936083781	e	69
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	47868	1471936084412	1471936084515	t	84
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	47871	1471936085360	1471936085448	 	32
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	47874	1471936085620	1471936085698	m	77
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	47928	1471936086037	1471936086162	e	69
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	47929	1471936086568	1471936086667	 	32
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	47930	1471936088027	1471936088255	k	75
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	47931	1471936089141	1471936089217	n	78
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	47932	1471936089530	1471936089629	o	79
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48027	1471936090180	1471936090344	w	87
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48031	1471936090594	1471936090699	 	32
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48033	1471936091404	1471936091516	i	73
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48036	1471936092048	1471936092132	f	70
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48039	1471936092743	1471936092847	 	32
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48118	1471936093675	1471936093765	y	89
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48119	1471936094030	1471936094115	o	79
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48121	1471936094255	1471936094364	y	89
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48123	1471936095116	1471936095211	BKSP	8
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48125	1471936095461	1471936095533	u	85
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48127	1471936096253	1471936096350	 	32
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48165	1471936096713	1471936096799	h	72
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48167	1471936096880	1471936097091	a	65
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48169	1471936097200	1471936097298	v	86
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48171	1471936097580	1471936097713	e	69
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48173	1471936098326	1471936098431	 	32
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48285	1471936099637	1471936099781	a	65
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48287	1471936099906	1471936100014	n	78
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48291	1471936100154	1471936100232	y	89
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48294	1471936101061	1471936101164	 	32
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48297	1471936103408	1471936103549	p	80
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48436	1471936103999	1471936104236	r	82
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48437	1471936105100	1471936105261	o	79
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48438	1471936106060	1471936106162	b	66
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48439	1471936107070	1471936107182	l	76
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48440	1471936108556	1471936108709	e	69
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48598	1471936108956	1471936109046	m	77
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48602	1471936109187	1471936109312	s	83
+112	967	Let me know if you have any problems.	Let me know if you have any problems.	48606	1471936110441	1471936110516	.	190
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	48876	1471936121712	1471936122645	SHIFT	16
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	48874	1471936122513	1471936122629	I	73
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	48878	1471936123531	1471936123615	 	32
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	48880	1471936123709	1471936123860	a	65
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	48881	1471936123985	1471936124095	m	77
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	48882	1471936124800	1471936124878	 	32
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	48943	1471936125569	1471936125622	o	79
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	48944	1471936125865	1471936125930	n	78
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	48945	1471936126745	1471936126843	 	32
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	48946	1471936126921	1471936127089	a	65
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	48947	1471936127532	1471936127614	 	32
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	49017	1471936127980	1471936128076	p	80
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	49019	1471936128217	1471936128295	l	76
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	49020	1471936128467	1471936128687	a	65
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	49021	1471936129313	1471936129505	n	78
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	49022	1471936131010	1471936131144	e	69
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	49110	1471936132020	1471936132114	,	188
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	49112	1471936132835	1471936132928	 	32
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	49116	1471936133445	1471936133685	s	83
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	49120	1471936133899	1471936134013	o	79
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	49123	1471936134306	1471936134382	r	82
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	49241	1471936134453	1471936134530	r	82
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	49242	1471936135469	1471936135547	y	89
+112	988	I am on a plane, sorry.	I am on a plane, sorry.	49243	1471936136657	1471936136743	.	190
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49369	1471936143087	1471936143688	SHIFT	16
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49367	1471936143542	1471936143641	J	74
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49372	1471936144725	1471936144902	a	65
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49375	1471936145059	1471936145205	n	78
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49379	1471936145533	1471936145659	 	32
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49382	1471936145893	1471936145979	h	72
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49454	1471936146043	1471936146205	a	65
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49457	1471936146314	1471936146486	s	83
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49460	1471936147056	1471936147160	 	32
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49462	1471936147818	1471936148020	a	65
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49464	1471936148600	1471936148677	 	32
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49508	1471936149337	1471936149441	l	76
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49510	1471936149738	1471936149843	o	79
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49512	1471936150046	1471936150130	t	84
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49514	1471936150785	1471936150878	 	32
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49519	1471936151121	1471936151212	o	79
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49626	1471936151654	1471936151838	f	70
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49630	1471936151901	1471936151978	 	32
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49635	1471936153657	1471936153776	d	68
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49639	1471936154983	1471936155094	e	69
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49641	1471936155219	1471936155294	t	84
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49753	1471936156767	1471936157032	a	65
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49754	1471936157282	1471936157361	i	73
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49756	1471936157642	1471936157742	l	76
+112	998	Jan has a lot of detail.	Jan has a lot of detail.	49758	1471936159107	1471936159178	.	190
+112	1012	Need you or John to step out.	Need you or John to step out.	49989	1471936166767	1471936167506	SHIFT	16
+112	1012	Need you or John to step out.	Need you or John to step out.	49988	1471936167346	1471936167443	N	78
+112	1012	Need you or John to step out.	Need you or John to step out.	49991	1471936167945	1471936168011	e	69
+112	1012	Need you or John to step out.	Need you or John to step out.	49993	1471936168073	1471936168141	e	69
+112	1012	Need you or John to step out.	Need you or John to step out.	49995	1471936168251	1471936168343	d	68
+112	1012	Need you or John to step out.	Need you or John to step out.	49997	1471936169188	1471936169306	 	32
+112	1012	Need you or John to step out.	Need you or John to step out.	50081	1471936169964	1471936170058	y	89
+112	1012	Need you or John to step out.	Need you or John to step out.	50082	1471936170560	1471936170627	o	79
+112	1012	Need you or John to step out.	Need you or John to step out.	50084	1471936170737	1471936170825	u	85
+112	1012	Need you or John to step out.	Need you or John to step out.	50086	1471936171358	1471936171442	 	32
+112	1012	Need you or John to step out.	Need you or John to step out.	50090	1471936171739	1471936171839	o	79
+112	1012	Need you or John to step out.	Need you or John to step out.	50225	1471936172486	1471936172655	r	82
+112	1012	Need you or John to step out.	Need you or John to step out.	50227	1471936172827	1471936172924	 	32
+112	1012	Need you or John to step out.	Need you or John to step out.	50231	1471936173629	1471936174015	SHIFT	16
+112	1012	Need you or John to step out.	Need you or John to step out.	50228	1471936173816	1471936173890	J	74
+112	1012	Need you or John to step out.	Need you or John to step out.	50232	1471936175666	1471936175773	o	79
+112	1012	Need you or John to step out.	Need you or John to step out.	50235	1471936176210	1471936176310	h	72
+112	1012	Need you or John to step out.	Need you or John to step out.	50316	1471936176518	1471936176576	n	78
+112	1012	Need you or John to step out.	Need you or John to step out.	50319	1471936177798	1471936177891	 	32
+112	1012	Need you or John to step out.	Need you or John to step out.	50321	1471936178188	1471936178369	t	84
+112	1012	Need you or John to step out.	Need you or John to step out.	50324	1471936178494	1471936178591	o	79
+112	1012	Need you or John to step out.	Need you or John to step out.	50326	1471936178810	1471936178876	 	32
+112	1012	Need you or John to step out.	Need you or John to step out.	50395	1471936179400	1471936179537	s	83
+112	1012	Need you or John to step out.	Need you or John to step out.	50396	1471936179553	1471936179640	t	84
+112	1012	Need you or John to step out.	Need you or John to step out.	50397	1471936180424	1471936180494	e	69
+112	1012	Need you or John to step out.	Need you or John to step out.	50399	1471936180947	1471936181025	p	80
+112	1012	Need you or John to step out.	Need you or John to step out.	50401	1471936181574	1471936181673	 	32
+112	1012	Need you or John to step out.	Need you or John to step out.	50538	1471936181992	1471936182072	p	80
+112	1012	Need you or John to step out.	Need you or John to step out.	50540	1471936182797	1471936182907	BKSP	8
+112	1012	Need you or John to step out.	Need you or John to step out.	50542	1471936183298	1471936183406	o	79
+112	1012	Need you or John to step out.	Need you or John to step out.	50545	1471936183531	1471936183609	u	85
+112	1012	Need you or John to step out.	Need you or John to step out.	50547	1471936183912	1471936183973	t	84
+112	1012	Need you or John to step out.	Need you or John to step out.	50549	1471936186800	1471936186876	.	190
+112	1026	We need this verified.	We need this verified.	50842	1471936194295	1471936194960	SHIFT	16
+112	1026	We need this verified.	We need this verified.	50843	1471936194906	1471936194991	W	87
+112	1026	We need this verified.	We need this verified.	50844	1471936196007	1471936196170	e	69
+112	1026	We need this verified.	We need this verified.	50846	1471936197237	1471936197306	n	78
+112	1026	We need this verified.	We need this verified.	50848	1471936198826	1471936198966	BKSP	8
+112	1026	We need this verified.	We need this verified.	50850	1471936199612	1471936199768	 	32
+112	1026	We need this verified.	We need this verified.	50852	1471936200660	1471936200786	n	78
+112	1026	We need this verified.	We need this verified.	50897	1471936201032	1471936201077	e	69
+112	1026	We need this verified.	We need this verified.	50898	1471936201155	1471936201272	e	69
+112	1026	We need this verified.	We need this verified.	50899	1471936201700	1471936201756	d	68
+112	1026	We need this verified.	We need this verified.	50900	1471936202006	1471936202089	 	32
+112	1026	We need this verified.	We need this verified.	50901	1471936202551	1471936202608	t	84
+112	1026	We need this verified.	We need this verified.	50963	1471936203188	1471936203257	h	72
+112	1026	We need this verified.	We need this verified.	50968	1471936203413	1471936203503	i	73
+112	1026	We need this verified.	We need this verified.	50974	1471936204498	1471936204620	s	83
+112	1026	We need this verified.	We need this verified.	50979	1471936204730	1471936204835	 	32
+112	1026	We need this verified.	We need this verified.	50983	1471936206089	1471936206281	v	86
+112	1026	We need this verified.	We need this verified.	51177	1471936206374	1471936206438	r	82
+112	1026	We need this verified.	We need this verified.	51179	1471936209481	1471936209607	BKSP	8
+112	1026	We need this verified.	We need this verified.	51182	1471936209857	1471936209987	e	69
+112	1026	We need this verified.	We need this verified.	51185	1471936210175	1471936210241	r	82
+112	1026	We need this verified.	We need this verified.	51188	1471936211824	1471936211918	i	73
+112	1026	We need this verified.	We need this verified.	51191	1471936212562	1471936212750	f	70
+112	1026	We need this verified.	We need this verified.	51421	1471936212815	1471936212950	i	73
+112	1026	We need this verified.	We need this verified.	51423	1471936215099	1471936215158	e	69
+112	1026	We need this verified.	We need this verified.	51425	1471936215314	1471936215419	d	68
+112	1026	We need this verified.	We need this verified.	51428	1471936216424	1471936216504	.	190
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51600	1471936223582	1471936224287	SHIFT	16
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51598	1471936224177	1471936224240	H	72
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51601	1471936225524	1471936225591	o	79
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51603	1471936225856	1471936225967	p	80
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51604	1471936226343	1471936226516	e	69
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51606	1471936226940	1471936227055	 	32
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51676	1471936227557	1471936227638	y	89
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51677	1471936228060	1471936228141	o	79
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51679	1471936228266	1471936228340	u	85
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51683	1471936228560	1471936228669	 	32
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51686	1471936229579	1471936229701	g	71
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51771	1471936229867	1471936230017	u	85
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51772	1471936230910	1471936231069	y	89
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51773	1471936231350	1471936231612	s	83
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51774	1471936232098	1471936232203	 	32
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51775	1471936232328	1471936232595	a	65
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51868	1471936232984	1471936233103	r	82
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51869	1471936233243	1471936233384	e	69
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51871	1471936233933	1471936234054	 	32
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51872	1471936235636	1471936235863	d	68
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51875	1471936236737	1471936236836	o	79
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51937	1471936237291	1471936237370	i	73
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51938	1471936237527	1471936237604	n	78
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51939	1471936237760	1471936237841	g	71
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51940	1471936239048	1471936239137	 	32
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51941	1471936239559	1471936239734	f	70
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51995	1471936239840	1471936239923	i	73
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51996	1471936240110	1471936240203	n	78
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51997	1471936240531	1471936240652	e	69
+112	1039	Hope you guys are doing fine.	Hope you guys are doing fine.	51999	1471936241829	1471936241903	.	190
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52123	1471936245588	1471936245855	SHIFT	16
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52120	1471936245744	1471936245839	R	82
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52126	1471936247014	1471936247120	u	85
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52129	1471936247622	1471936247718	m	77
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52130	1471936247906	1471936248018	o	79
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52131	1471936248314	1471936248419	r	82
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52179	1471936249828	1471936250013	s	83
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52181	1471936250216	1471936250317	 	32
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52184	1471936250645	1471936250738	h	72
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52189	1471936250856	1471936251076	a	65
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52193	1471936251357	1471936251452	v	86
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52251	1471936251558	1471936251714	e	69
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52254	1471936252373	1471936252484	 	32
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52256	1471936253392	1471936253456	h	72
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52258	1471936253597	1471936253687	i	73
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52260	1471936254056	1471936254119	m	77
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52414	1471936254811	1471936254919	 	32
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52415	1471936257035	1471936257291	s	83
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52416	1471936257762	1471936257976	c	67
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52417	1471936258587	1471936258918	h	72
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52418	1471936260756	1471936260883	e	69
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52521	1471936261177	1471936261300	d	68
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52523	1471936261518	1471936261759	u	85
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52525	1471936262795	1471936262903	l	76
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52528	1471936263247	1471936263352	e	69
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52532	1471936264652	1471936264735	d	68
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52592	1471936264930	1471936264986	 	32
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52593	1471936265710	1471936265881	t	84
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52594	1471936265990	1471936266072	o	79
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52596	1471936266774	1471936266900	 	32
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52598	1471936267213	1471936267412	a	65
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52649	1471936267694	1471936267776	t	84
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52650	1471936267831	1471936267904	t	84
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52651	1471936268061	1471936268215	e	69
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52652	1471936269294	1471936269384	n	78
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52653	1471936269509	1471936269600	e	69
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52732	1471936270651	1471936270719	d	68
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52733	1471936271244	1471936271366	 	32
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52734	1471936271601	1471936271732	a	65
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52735	1471936271843	1471936271948	t	84
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52736	1471936272578	1471936272667	 	32
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52823	1471936273296	1471936273398	l	76
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52824	1471936274394	1471936274516	e	69
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52825	1471936274844	1471936275053	a	65
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52826	1471936276581	1471936276729	s	83
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52827	1471936276822	1471936276918	t	84
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52891	1471936277766	1471936277851	 	32
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52892	1471936278070	1471936278151	p	80
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52893	1471936278339	1471936278433	a	65
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52894	1471936279648	1471936279709	r	82
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52896	1471936279834	1471936279915	t	84
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52950	1471936280483	1471936280584	 	32
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52952	1471936281100	1471936281198	o	79
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52954	1471936281605	1471936281744	f	70
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52956	1471936282528	1471936282617	 	32
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	52958	1471936282883	1471936282952	t	84
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53033	1471936283066	1471936283149	h	72
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53037	1471936283305	1471936283398	i	73
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53041	1471936284779	1471936284880	BKSP	8
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53046	1471936285177	1471936285328	e	69
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53049	1471936285407	1471936285500	 	32
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53149	1471936287027	1471936287501	SHIFT	16
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53051	1471936287316	1471936287401	P	80
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53152	1471936288872	1471936289124	a	65
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53156	1471936290454	1471936290565	c	67
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53160	1471936290690	1471936290768	e	69
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53162	1471936292695	1471936292798	r	82
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53163	1471936293331	1471936293510	s	83
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53398	1471936299252	1471936299347	'	222
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53400	1471936302691	1471936302813	g	71
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53401	1471936302970	1471936303176	a	65
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53402	1471936303332	1471936303527	m	77
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53403	1471936304499	1471936304566	BKSP	8
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53404	1471936304653	1471936304720	BKSP	8
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53405	1471936304938	1471936305051	BKSP	8
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53406	1471936305611	1471936305715	 	32
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53518	1471936308614	1471936308698	g	71
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53520	1471936308838	1471936309024	a	65
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53523	1471936309055	1471936309132	m	77
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53526	1471936309288	1471936309412	e	69
+112	1055	Rumors have him scheduled to attend at least part of the Pacers' game.	Rumors have him scheduled to attened at least part of the Pacers' game.	53530	1471936311203	1471936311300	.	190
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	53710	1471936315567	1471936317053	SHIFT	16
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	53709	1471936316776	1471936316881	V	86
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	53711	1471936317860	1471936318072	a	65
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	53712	1471936318291	1471936318423	l	76
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	53713	1471936319947	1471936320169	e	69
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	53714	1471936320628	1471936320825	r	82
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	53877	1471936321872	1471936322012	i	73
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	53879	1471936324660	1471936324746	e	69
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	53880	1471936326328	1471936326442	,	188
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	53881	1471936327760	1471936328215	SHIFT	16
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	53883	1471936328654	1471936328760	 	32
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	53885	1471936329312	1471936329683	SHIFT	16
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	53980	1471936329625	1471936329705	I	73
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	53981	1471936330404	1471936330511	 	32
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	53982	1471936330839	1471936331008	s	83
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	53983	1471936331133	1471936331231	h	72
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	53984	1471936333345	1471936333603	o	79
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	53985	1471936334199	1471936334281	u	85
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54059	1471936335118	1471936335258	l	76
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54060	1471936336150	1471936336295	d	68
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54061	1471936336761	1471936336862	 	32
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54062	1471936337081	1471936337163	h	72
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54063	1471936337257	1471936337438	a	65
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54100	1471936337455	1471936337530	v	86
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54102	1471936337639	1471936337777	e	69
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54104	1471936338074	1471936338163	 	32
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54231	1471936338711	1471936339427	SHIFT	16
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54108	1471936339055	1471936339130	G	71
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54111	1471936339302	1471936339379	R	82
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54233	1471936339520	1471936339736	e	69
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54236	1471936342010	1471936342046	BKSP	8
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54239	1471936342140	1471936342214	BKSP	8
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54241	1471936343137	1471936343215	r	82
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54244	1471936344092	1471936344163	e	69
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54246	1471936344256	1471936344346	e	69
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54250	1471936345129	1471936345213	l	76
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54301	1471936345424	1471936345529	e	69
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54303	1471936345826	1471936345926	y	89
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54304	1471936346479	1471936346576	 	32
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54306	1471936346811	1471936346897	o	79
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54310	1471936347116	1471936347178	n	78
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54361	1471936347731	1471936347811	 	32
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54365	1471936348485	1471936348774	SHIFT	16
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54364	1471936348657	1471936348743	M	77
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54367	1471936348904	1471936348994	o	79
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54369	1471936349166	1471936349478	n	78
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54371	1471936349717	1471936349828	d	68
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54409	1471936350005	1471936350143	a	65
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54410	1471936350392	1471936350480	y	89
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54411	1471936351417	1471936351526	 	32
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54412	1471936352106	1471936352318	f	70
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54413	1471936352474	1471936352577	o	79
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54456	1471936352871	1471936353058	r	82
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54457	1471936353999	1471936354111	 	32
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54459	1471936354755	1471936355172	SHIFT	16
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54461	1471936355005	1471936355187	A	65
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54463	1471936356255	1471936356376	u	85
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54465	1471936356548	1471936356627	g	71
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54526	1471936356742	1471936356841	u	85
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54527	1471936357169	1471936357336	s	83
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54528	1471936358405	1471936358476	t	84
+112	1085	Valerie, I should have Greeley on Monday for August.	Valerie, I should have Greeley on Monday for August.	54529	1471936359636	1471936359695	.	190
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54651	1471936365565	1471936365938	SHIFT	16
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54649	1471936365762	1471936365844	I	73
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54653	1471936366596	1471936366753	a	65
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54657	1471936366753	1471936366841	m	77
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54658	1471936367456	1471936367544	 	32
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54660	1471936367982	1471936368047	n	78
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54693	1471936368783	1471936368860	o	79
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54694	1471936368969	1471936369123	w	87
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54695	1471936369939	1471936370009	 	32
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54696	1471936370337	1471936370535	a	65
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54697	1471936370879	1471936370959	f	70
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54801	1471936371031	1471936371314	f	70
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54802	1471936372396	1471936372476	i	73
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54803	1471936373275	1471936373438	c	67
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54804	1471936373470	1471936373746	i	73
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54805	1471936374765	1471936374935	a	65
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54843	1471936375127	1471936375178	l	76
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54844	1471936375241	1471936375308	l	76
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54845	1471936375480	1471936375542	y	89
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54846	1471936376185	1471936376276	 	32
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54847	1471936376354	1471936376519	a	65
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54933	1471936377023	1471936377108	 	32
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54939	1471936377895	1471936378486	SHIFT	16
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54936	1471936378301	1471936378376	B	66
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54942	1471936379646	1471936379729	l	76
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54944	1471936379854	1471936379988	a	65
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54946	1471936381165	1471936381319	c	67
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54994	1471936381807	1471936382111	k	75
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54995	1471936383460	1471936383541	b	66
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54996	1471936384137	1471936384305	e	69
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54997	1471936384931	1471936385009	r	82
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	54998	1471936385056	1471936385124	r	82
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	55021	1471936385516	1471936385578	y	89
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	55024	1471936385984	1471936386077	 	32
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	55027	1471936386530	1471936386704	a	65
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	55030	1471936386751	1471936386810	d	68
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	55033	1471936386857	1471936386959	d	68
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	55120	1471936388183	1471936388308	i	73
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	55121	1471936388636	1471936388773	c	67
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	55122	1471936388804	1471936388891	t	84
+112	1107	I am now officially a Blackberry addict.	Iam now afficially a Blackberry addict.	55123	1471936390444	1471936390508	.	190
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55292	1471936398157	1471936400497	SHIFT	16
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55289	1471936398501	1471936398534	N	78
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55290	1471936399625	1471936399694	BKSP	8
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55291	1471936399991	1471936400059	M	77
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55293	1471936401003	1471936401155	a	65
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55294	1471936401233	1471936401326	r	82
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55296	1471936402250	1471936402339	k	75
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55402	1471936403751	1471936403901	,	188
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55403	1471936404831	1471936405705	SHIFT	16
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55404	1471936406489	1471936406589	 	32
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55406	1471936406823	1471936407137	SHIFT	16
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55405	1471936407054	1471936407122	S	83
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55407	1471936408267	1471936408342	u	85
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55408	1471936410408	1471936410581	s	83
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55490	1471936412276	1471936412420	a	65
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55491	1471936413079	1471936413233	n	78
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55492	1471936413973	1471936414090	 	32
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55493	1471936414685	1471936414804	s	83
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55494	1471936414898	1471936415054	a	65
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55535	1471936415261	1471936415388	i	73
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55537	1471936415850	1471936415973	d	68
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55540	1471936416317	1471936416433	 	32
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55542	1471936416808	1471936416888	t	84
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55544	1471936417563	1471936417812	o	79
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55618	1471936418158	1471936418238	 	32
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55620	1471936419006	1471936419151	g	71
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55622	1471936419166	1471936419255	o	79
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55624	1471936419474	1471936419555	 	32
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55626	1471936420515	1471936420715	a	65
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55693	1471936421170	1471936421304	h	72
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55695	1471936422543	1471936422671	e	69
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55698	1471936422968	1471936423118	a	65
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55701	1471936423196	1471936423304	d	68
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55704	1471936424448	1471936424538	 	32
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55736	1471936424638	1471936424845	a	65
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55737	1471936424876	1471936424987	n	78
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55738	1471936425221	1471936425323	d	68
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55739	1471936426155	1471936426238	 	32
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55740	1471936427021	1471936427123	e	69
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55849	1471936428221	1471936428322	x	88
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55851	1471936428917	1471936429022	p	80
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55853	1471936429303	1471936429451	e	69
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55855	1471936429498	1471936429697	n	78
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55857	1471936431391	1471936431644	s	83
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55924	1471936433165	1471936433337	e	69
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55927	1471936433493	1471936433591	 	32
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55928	1471936434013	1471936434106	t	84
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55929	1471936434215	1471936434322	h	72
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55930	1471936434447	1471936434556	e	69
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55991	1471936435057	1471936435137	 	32
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55992	1471936435749	1471936435887	c	67
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55993	1471936436670	1471936436849	e	69
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55994	1471936437320	1471936437373	l	76
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	55996	1471936437451	1471936437522	l	76
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	56046	1471936438257	1471936438337	 	32
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	56047	1471936438937	1471936439053	p	80
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	56048	1471936439334	1471936439420	h	72
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	56049	1471936439716	1471936439838	o	79
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	56050	1471936440072	1471936440187	n	78
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	56108	1471936441062	1471936441247	e	69
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	56109	1471936441812	1471936441968	s	83
+112	1119	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones.	56110	1471936442657	1471936442741	.	190
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56328	1471936450968	1471936451835	SHIFT	16
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56326	1471936451688	1471936451835	I	73
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56332	1471936453339	1471936453454	'	222
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56337	1471936454473	1471936454554	l	76
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56340	1471936454616	1471936454702	l	76
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56343	1471936455657	1471936455737	 	32
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56410	1471936456071	1471936456185	p	80
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56412	1471936456513	1471936456602	e	69
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56416	1471936457309	1471936457404	BKSP	8
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56418	1471936457639	1471936457770	r	82
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56420	1471936459039	1471936459259	e	69
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56422	1471936459840	1471936460076	s	83
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56444	1471936460294	1471936460387	u	85
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56445	1471936460543	1471936460637	m	77
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56446	1471936461466	1471936461647	e	69
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56447	1471936461928	1471936462018	 	32
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56448	1471936462440	1471936462505	o	79
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56486	1471936463211	1471936463303	BKSP	8
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56488	1471936463522	1471936463602	i	73
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56490	1471936463774	1471936463854	t	84
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56492	1471936464654	1471936464754	 	32
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56494	1471936465231	1471936465334	i	73
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56495	1471936465506	1471936465698	s	83
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56539	1471936465953	1471936466049	 	32
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56540	1471936466665	1471936466768	d	68
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56541	1471936466878	1471936466953	w	87
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56542	1471936467626	1471936467735	BKSP	8
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56543	1471936468184	1471936468361	e	69
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56544	1471936469145	1471936469329	a	65
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56573	1471936469508	1471936469696	d	68
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56574	1471936470182	1471936470315	 	32
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56575	1471936470832	1471936470918	u	85
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56576	1471936471075	1471936471468	n	78
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56577	1471936472079	1471936472154	t	84
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56643	1471936472540	1471936472603	i	73
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56644	1471936473200	1471936473271	l	76
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56645	1471936474055	1471936474105	 	32
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56646	1471936474654	1471936475135	SHIFT	16
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56647	1471936475045	1471936475166	I	73
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56648	1471936476483	1471936476570	 	32
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56677	1471936476691	1471936476785	h	72
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56678	1471936476988	1471936477070	e	69
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56679	1471936478433	1471936478612	a	65
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56681	1471936478862	1471936478919	r	82
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56683	1471936479294	1471936479403	 	32
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56715	1471936479998	1471936480133	o	79
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56716	1471936480451	1471936480535	t	84
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56718	1471936480660	1471936480753	h	72
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56720	1471936482334	1471936482496	e	69
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56722	1471936482590	1471936482667	r	82
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56798	1471936483598	1471936483762	w	87
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56801	1471936483871	1471936484216	i	73
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56803	1471936484969	1471936485115	s	83
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56805	1471936485349	1471936485468	e	69
+112	1144	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise.	56806	1471936486910	1471936486987	.	190
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57082	1471936497001	1471936498491	SHIFT	16
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57080	1471936498176	1471936498366	W	87
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57083	1471936498770	1471936498887	e	69
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57084	1471936499748	1471936499960	'	222
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57085	1471936501797	1471936501889	l	76
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57086	1471936501935	1471936502050	l	76
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57131	1471936502154	1471936502224	l	76
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57133	1471936502913	1471936502986	BKSP	8
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57135	1471936503221	1471936503304	 	32
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57136	1471936503807	1471936503887	l	76
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57137	1471936504340	1471936504531	e	69
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57138	1471936505189	1471936505288	t	84
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57276	1471936508220	1471936508319	 	32
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57277	1471936509134	1471936509206	y	89
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57278	1471936509848	1471936509898	p	80
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57279	1471936510768	1471936510853	BKSP	8
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57280	1471936511087	1471936511169	o	79
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57281	1471936511326	1471936511367	y	89
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57346	1471936512327	1471936512422	BKSP	8
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57347	1471936512672	1471936512756	u	85
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57348	1471936513367	1471936513453	 	32
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57349	1471936514407	1471936514454	h	72
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57350	1471936515132	1471936515222	BKSP	8
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57351	1471936515487	1471936515553	k	75
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57352	1471936515850	1471936515922	n	78
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57399	1471936516225	1471936516304	o	79
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57400	1471936518407	1471936518533	w	87
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57401	1471936518611	1471936518717	 	32
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57402	1471936519014	1471936519088	i	73
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57403	1471936519229	1471936519291	n	78
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57435	1471936519445	1471936519521	 	32
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57436	1471936520210	1471936520287	t	84
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57437	1471936520396	1471936520502	h	72
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57439	1471936520533	1471936520683	e	69
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57441	1471936520981	1471936521072	 	32
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57495	1471936521552	1471936521620	m	77
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57496	1471936521760	1471936521853	o	79
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57497	1471936522844	1471936523092	r	82
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57498	1471936523564	1471936523639	n	78
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57499	1471936523780	1471936523887	i	73
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57607	1471936524606	1471936524716	n	78
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57609	1471936526036	1471936526136	h	72
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57611	1471936526339	1471936526406	 	32
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57613	1471936528301	1471936528403	i	73
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57615	1471936529077	1471936529187	f	70
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57694	1471936529796	1471936529889	 	32
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57695	1471936530465	1471936530633	w	87
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57697	1471936531840	1471936531983	e	69
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57699	1471936532417	1471936532505	 	32
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57701	1471936533178	1471936533318	a	65
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57721	1471936533404	1471936533470	r	82
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57722	1471936533579	1471936533670	e	69
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57723	1471936534295	1471936534401	 	32
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57725	1471936534823	1471936534904	i	73
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57727	1471936535030	1471936535136	n	78
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57838	1471936535411	1471936535642	t	84
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57839	1471936537491	1471936537679	e	69
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57841	1471936539544	1471936539622	r	82
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57842	1471936539731	1471936539790	e	69
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57843	1471936539993	1471936540147	s	83
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57904	1471936541542	1471936541651	t	84
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57906	1471936541886	1471936541954	e	69
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57909	1471936542063	1471936542167	d	68
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57912	1471936542965	1471936543023	 	32
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57915	1471936543492	1471936543602	o	79
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57945	1471936544057	1471936544199	r	82
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57946	1471936544639	1471936544723	 	32
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57947	1471936545220	1471936545279	n	78
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57948	1471936545475	1471936545537	o	79
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57949	1471936545787	1471936545868	t	84
+112	1157	We'll let you know in the morning if we are interested or not.	We'll let you know in the morninh if we are interested or not.	57989	1471936547423	1471936547487	.	190
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58323	1471936558259	1471936559116	SHIFT	16
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58321	1471936559012	1471936559085	C	67
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58326	1471936560213	1471936560298	h	72
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58329	1471936560751	1471936561051	a	65
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58331	1471936561992	1471936562145	s	83
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58333	1471936562208	1471936562283	e	69
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58382	1471936562892	1471936562996	 	32
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58383	1471936563137	1471936563215	b	66
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58384	1471936563403	1471936563623	a	65
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58385	1471936563702	1471936563783	c	67
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58386	1471936564115	1471936564197	k	75
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58509	1471936564856	1471936564964	 	32
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58510	1471936565575	1471936565693	o	79
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58512	1471936565991	1471936566062	f	70
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58514	1471936566109	1471936566197	f	70
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58516	1471936566745	1471936567081	i	73
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58583	1471936568148	1471936568260	c	67
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58584	1471936568385	1471936568433	e	69
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58585	1471936568792	1471936568894	 	32
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58587	1471936569619	1471936569731	a	65
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58589	1471936569825	1471936569928	n	78
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58721	1471936570163	1471936570230	d	68
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58725	1471936570693	1471936570749	 	32
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58728	1471936572019	1471936572081	t	84
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58731	1471936572222	1471936572470	h	72
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58734	1471936573739	1471936573894	e	69
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58826	1471936574424	1471936574498	i	73
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58828	1471936574688	1471936574764	r	82
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58830	1471936575469	1471936575562	 	32
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58832	1471936575983	1471936576064	r	82
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	58834	1471936576173	1471936576261	e	69
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59083	1471936577611	1471936577823	s	83
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59086	1471936579310	1471936579413	t	84
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59088	1471936581371	1471936581539	a	65
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59090	1471936581883	1471936581963	r	82
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59091	1471936582072	1471936582164	t	84
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59231	1471936583276	1471936583346	 	32
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59233	1471936583737	1471936583814	p	80
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59236	1471936584032	1471936584113	l	76
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59238	1471936584378	1471936584572	a	65
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59240	1471936585841	1471936586116	n	78
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59357	1471936586790	1471936586957	 	32
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59361	1471936588635	1471936588729	u	85
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59366	1471936588854	1471936588946	o	79
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59371	1471936589526	1471936589610	BKSP	8
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59376	1471936589782	1471936589860	p	80
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59380	1471936591303	1471936591377	d	68
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59513	1471936591462	1471936591655	a	65
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59516	1471936591718	1471936591826	t	84
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59520	1471936594679	1471936594779	e	69
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59522	1471936594857	1471936595042	s	83
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59525	1471936595696	1471936595779	 	32
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59689	1471936596484	1471936596564	i	73
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59692	1471936596705	1471936596793	n	78
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59696	1471936599160	1471936599295	d	68
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59700	1471936599482	1471936599735	i	73
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59703	1471936600957	1471936601028	v	86
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59978	1471936601437	1471936601654	i	73
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59979	1471936602954	1471936603124	d	68
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59980	1471936606619	1471936606803	u	85
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59981	1471936607305	1471936607488	a	65
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	59982	1471936607707	1471936607736	l	76
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	60082	1471936607842	1471936607898	l	76
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	60088	1471936608258	1471936608374	y	89
+112	1189	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	60092	1471936610005	1471936610064	.	190

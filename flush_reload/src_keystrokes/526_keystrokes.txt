@@ -1,0 +1,806 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246325	1471942260055	1471942261063	SHIFT	16
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246329	1471942260996	1471942261095	D	68
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246332	1471942261126	1471942261191	i	73
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246337	1471942261284	1471942261381	d	68
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246340	1471942261814	1471942261941	 	32
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246344	1471942261972	1471942262069	h	72
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246386	1471942262099	1471942262196	e	69
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246387	1471942262227	1471942262354	 	32
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246388	1471942262384	1471942262481	g	71
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246389	1471942262573	1471942262732	e	69
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246391	1471942263041	1471942263137	t	84
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246407	1471942263230	1471942263357	 	32
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246408	1471942263573	1471942263639	a	65
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246410	1471942263670	1471942263797	 	32
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246413	1471942263827	1471942263904	s	83
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246428	1471942263869	1471942263978	i	73
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246429	1471942264101	1471942264199	g	71
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246430	1471942264201	1471942264294	n	78
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246431	1471942264335	1471942264400	i	73
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246432	1471942264493	1471942264592	n	78
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246458	1471942264587	1471942264655	g	71
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246460	1471942264716	1471942264813	 	32
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246462	1471942264874	1471942264971	b	66
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246464	1471942265001	1471942265098	o	79
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246466	1471942265190	1471942265287	n	78
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246468	1471942265410	1471942265507	u	85
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246480	1471942265599	1471942265665	s	83
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246482	1471942265881	1471942266071	SHIFT	16
+526	5142	Did he get a signing bonus?	Did he get a signing bonus?	246484	1471942265975	1471942266105	?	188
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246587	1471942270646	1471942270928	SHIFT	16
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246589	1471942270832	1471942270962	T	84
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246590	1471942271085	1471942271151	h	72
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246591	1471942271274	1471942271340	i	73
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246592	1471942271405	1471942271501	s	83
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246593	1471942271563	1471942271659	 	32
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246621	1471942271689	1471942271786	u	85
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246622	1471942271910	1471942272006	p	80
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246623	1471942272192	1471942272288	g	71
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246624	1471942272443	1471942272570	r	82
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246625	1471942272632	1471942272728	a	65
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246631	1471942272851	1471942272948	d	68
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246634	1471942273040	1471942273137	e	69
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246637	1471942273140	1471942273265	 	32
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246640	1471942273230	1471942273364	m	77
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246685	1471942273358	1471942273457	a	65
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246687	1471942273488	1471942273523	u	89
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246689	1471942273617	1471942273714	 	32
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246691	1471942273992	1471942274089	BKSP	8
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246693	1471942274150	1471942274216	BKSP	8
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246695	1471942274309	1471942274343	BKSP	8
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246699	1471942275087	1471942275183	y	89
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246703	1471942275213	1471942275344	 	32
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246720	1471942275339	1471942275438	t	84
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246722	1471942275839	1471942275936	a	65
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246723	1471942275938	1471942276063	k	75
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246725	1471942276093	1471942276253	e	69
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246728	1471942276218	1471942276348	 	32
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246772	1471942276378	1471942276447	u	89
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246774	1471942276880	1471942276916	=	187
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246780	1471942276884	1471942276921	BKSP	8
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246783	1471942277073	1471942277107	BKSP	8
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246785	1471942277231	1471942277296	BKSP	8
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246788	1471942277884	1471942277981	u	85
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246791	1471942278043	1471942278170	p	80
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246793	1471942278232	1471942278328	 	32
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246796	1471942278360	1471942278455	t	84
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246864	1471942278459	1471942278551	o	79
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246866	1471942278675	1471942278803	 	32
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246871	1471942279702	1471942280552	SHIFT	16
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246868	1471942280422	1471942280519	2	50
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246875	1471942281078	1471942281174	 	32
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246877	1471942281267	1471942281364	h	72
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246890	1471942281426	1471942281555	o	79
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246892	1471942281550	1471942281649	u	85
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246896	1471942281679	1471942281776	r	82
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246902	1471942281868	1471942281934	s	83
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246907	1471942282150	1471942282372	SHIFT	16
+526	5150	This upgrade may take up to 2 hours.	This upgrade may take up to 2 hours.	246921	1471942282306	1471942282436	.	190
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247111	1471942288717	1471942289006	SHIFT	16
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247109	1471942288904	1471942289001	I	73
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247114	1471942289250	1471942289377	 	32
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247117	1471942289408	1471942289505	s	83
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247121	1471942289597	1471942289663	e	69
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247124	1471942289756	1471942289790	e	69
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247140	1471942290160	1471942290290	 	32
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247142	1471942290286	1471942290385	s	83
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247144	1471942290387	1471942290481	o	79
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247147	1471942290542	1471942290639	m	77
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247151	1471942290700	1471942290771	e	69
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247167	1471942290801	1471942290898	 	32
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247169	1471942291021	1471942291088	b	66
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247171	1471942291053	1471942291152	o	79
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247174	1471942291553	1471942291619	BKSP	8
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247177	1471942291712	1471942291777	BKSP	8
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247179	1471942291901	1471942291935	v	86
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247181	1471942292349	1471942292445	l	76
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247202	1471942292754	1471942292819	BKSP	8
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247204	1471942293066	1471942293164	o	79
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247206	1471942293287	1471942293382	l	76
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247208	1471942293514	1471942293611	u	85
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247211	1471942293703	1471942293800	m	77
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247213	1471942293830	1471942293927	e	69
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247230	1471942293929	1471942294054	 	32
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247232	1471942294084	1471942294182	r	82
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247235	1471942294243	1471942294401	e	69
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247238	1471942294494	1471942294621	v	86
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247241	1471942294683	1471942294811	e	69
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247258	1471942294777	1471942294907	r	82
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247259	1471942294937	1471942295037	s	83
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247260	1471942295067	1471942295164	i	73
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247261	1471942295225	1471942295356	n	78
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247263	1471942295351	1471942295449	g	71
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247266	1471942295495	1471942295591	 	32
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247281	1471942295622	1471942295687	i	73
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247283	1471942295788	1471942295885	n	78
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247286	1471942295915	1471942296044	 	32
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247288	1471942296009	1471942296108	t	84
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247289	1471942296111	1471942296173	h	72
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247293	1471942296205	1471942296332	e	69
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247297	1471942296334	1471942296461	 	32
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247300	1471942296426	1471942296525	s	83
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247306	1471942296555	1471942296652	y	89
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247310	1471942296683	1471942296780	s	83
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247342	1471942296811	1471942296906	t	84
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247346	1471942296999	1471942297096	e	69
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247351	1471942297099	1471942297223	m	77
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247361	1471942297408	1471942297573	SHIFT	16
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247358	1471942297471	1471942297568	.	190
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247365	1471942297831	1471942297957	*	220
+526	5162	I see some volume reversing in the system.	I see some volume reversing in the system.	247376	1471942298421	1471942298518	BKSP	8
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247523	1471942302374	1471942302601	SHIFT	16
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247521	1471942302499	1471942302596	I	73
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247525	1471942302753	1471942302882	 	32
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247527	1471942302877	1471942303007	p	80
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247529	1471942303069	1471942303196	l	76
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247532	1471942303258	1471942303354	a	65
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247548	1471942303416	1471942303512	n	78
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247551	1471942303543	1471942303670	 	32
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247554	1471942303732	1471942303829	t	84
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247558	1471942303794	1471942303863	o	79
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247560	1471942303893	1471942304022	 	32
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247579	1471942304082	1471942304179	v	86
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247581	1471942304241	1471942304369	e	69
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247583	1471942304334	1471942304436	 	32
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247585	1471942304431	1471942304530	i	73
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247587	1471942304599	1471942304728	n	78
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247686	1471942304731	1471942304854	 	32
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247689	1471942305474	1471942306100	BKSP	8
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247692	1471942306255	1471942306290	BKSP	8
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247695	1471942306784	1471942306881	b	66
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247698	1471942307282	1471942307379	e	69
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247702	1471942307471	1471942307568	 	32
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247706	1471942307660	1471942307757	i	73
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247732	1471942307849	1471942307946	n	78
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247734	1471942307976	1471942308107	 	32
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247737	1471942308102	1471942308200	t	84
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247739	1471942308203	1471942308274	h	72
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247741	1471942308304	1471942308432	e	69
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247782	1471942308434	1471942308526	 	32
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247784	1471942308520	1471942308651	o	79
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247787	1471942308617	1471942308716	f	70
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247790	1471942309186	1471942309314	f	70
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247791	1471942309560	1471942309626	i	73
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247828	1471942309719	1471942309784	v	86
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247832	1471942310062	1471942310127	BKSP	8
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247836	1471942310158	1471942310255	c	67
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247841	1471942310378	1471942310506	e	69
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247843	1471942310509	1471942310633	 	32
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247846	1471942310663	1471942310736	t	84
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247892	1471942310828	1471942310986	o	79
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247893	1471942311171	1471942311299	m	77
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247894	1471942311639	1471942311766	o	79
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247895	1471942311859	1471942311955	r	82
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247896	1471942312048	1471942312144	r	82
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247949	1471942312422	1471942312550	o	79
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247950	1471942312704	1471942312769	x	88
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247951	1471942313171	1471942313267	BKSP	8
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247952	1471942313359	1471942313456	w	87
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247955	1471942313610	1471942314175	SHIFT	16
+526	5175	I plan to be in the office tomorrow.	I plan to be in the office tomorrow.	247953	1471942313984	1471942314142	.	190
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248366	1471942324129	1471942324635	SHIFT	16
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248363	1471942324533	1471942324629	A	65
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248369	1471942324693	1471942324821	m	77
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248372	1471942325036	1471942325133	y	89
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248374	1471942325380	1471942325477	 	32
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248377	1471942325909	1471942326223	SHIFT	16
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248420	1471942326127	1471942326256	F	70
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248423	1471942326534	1471942326631	e	69
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248425	1471942326723	1471942326820	l	76
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248429	1471942326912	1471942326979	l	76
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248432	1471942327039	1471942327136	i	73
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248439	1471942327631	1471942327697	n	78
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248499	1471942328160	1471942328226	g	71
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248504	1471942328442	1471942328600	 	32
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248509	1471942328631	1471942328728	s	83
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248516	1471942328882	1471942328979	h	72
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248523	1471942329009	1471942329137	o	79
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248582	1471942329198	1471942329294	u	85
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248586	1471942329695	1471942329793	l	76
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248588	1471942329916	1471942329950	d	68
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248592	1471942330043	1471942330185	 	32
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248596	1471942330278	1471942330405	b	66
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248644	1471942330591	1471942330687	e	69
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248645	1471942330689	1471942330845	 	32
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248646	1471942331185	1471942331281	y	89
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248647	1471942331436	1471942331564	o	79
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248649	1471942331595	1471942331691	u	85
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248688	1471942331752	1471942331880	r	82
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248690	1471942331941	1471942332069	 	32
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248694	1471942332440	1471942332537	c	67
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248696	1471942332472	1471942332570	o	79
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248700	1471942332663	1471942332760	n	78
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248731	1471942333038	1471942333134	t	84
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248734	1471942333258	1471942333323	a	65
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248737	1471942333478	1471942333605	c	67
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248740	1471942333666	1471942333825	t	84
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248744	1471942333827	1471942333953	 	32
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248787	1471942333918	1471942334017	o	79
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248788	1471942334110	1471942334207	n	78
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248789	1471942334267	1471942334364	 	32
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248790	1471942334395	1471942334491	t	84
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248792	1471942334495	1471942334588	h	72
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248794	1471942334619	1471942334746	e	69
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248853	1471942334776	1471942334888	 	32
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248854	1471942335134	1471942335200	1	97
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248855	1471942335323	1471942335389	9	105
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248856	1471942335791	1471942335856	t	84
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248858	1471942336166	1471942336263	h	72
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248895	1471942336509	1471942336890	SHIFT	16
+526	5187	Amy Felling should be your contact on the 19th.	Amy Felling should be your contact on the 19th.	248893	1471942336788	1471942336885	.	190
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249013	1471942338690	1471942339103	SHIFT	16
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249012	1471942339063	1471942339098	A	65
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249014	1471942339377	1471942339505	l	76
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249015	1471942339659	1471942339756	s	83
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249016	1471942340188	1471942340286	o	79
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249017	1471942340347	1471942340474	 	32
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249088	1471942340505	1471942340601	i	73
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249092	1471942340663	1471942340790	 	32
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249096	1471942341161	1471942341258	BKSP	8
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249100	1471942341504	1471942341601	t	84
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249103	1471942341693	1471942341821	 	32
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249106	1471942341883	1471942341951	a	65
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249156	1471942341952	1471942342046	p	80
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249159	1471942342107	1471942342173	p	80
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249162	1471942342420	1471942342517	e	69
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249165	1471942342795	1471942342892	a	65
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249168	1471942342922	1471942343049	r	82
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249180	1471942343080	1471942343176	s	83
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249183	1471942343207	1471942343304	 	32
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249187	1471942343365	1471942343462	n	78
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249192	1471942343524	1471942343620	o	79
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249196	1471942343712	1471942343840	 	32
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249221	1471942343870	1471942343936	p	80
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249226	1471942344029	1471942344126	a	65
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249231	1471942344218	1471942344283	y	89
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249236	1471942344407	1471942344503	m	77
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249240	1471942344565	1471942344662	e	69
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249264	1471942344692	1471942344789	n	78
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249269	1471942344850	1471942344947	t	84
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249273	1471942345039	1471942345166	 	32
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249279	1471942345321	1471942345386	i	73
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249284	1471942345417	1471942345513	s	83
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249311	1471942345544	1471942345640	 	32
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249314	1471942345826	1471942345953	r	82
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249317	1471942345984	1471942346111	e	69
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249320	1471942346142	1471942346240	q	81
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249325	1471942346271	1471942346373	u	85
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249345	1471942346398	1471942346494	i	73
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249349	1471942346556	1471942346684	r	82
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249354	1471942346714	1471942346811	e	69
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249358	1471942346965	1471942347124	d	68
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249365	1471942347185	1471942347315	 	32
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249393	1471942347310	1471942347410	t	84
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249396	1471942347412	1471942347505	o	79
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249402	1471942347598	1471942347694	m	77
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249407	1471942347818	1471942347883	o	79
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249415	1471942348007	1471942348103	r	82
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249421	1471942348196	1471942348292	r	82
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249493	1471942348323	1471942348419	o	79
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249497	1471942348481	1471942348546	x	88
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249502	1471942348980	1471942349075	=	187
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249507	1471942349106	1471942349204	w	87
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249510	1471942349451	1471942349547	BKSP	8
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249512	1471942349609	1471942349674	BKSP	8
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249514	1471942349735	1471942349833	BKSP	8
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249516	1471942349987	1471942350083	w	87
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249532	1471942350299	1471942350427	 	32
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249533	1471942350430	1471942350585	SHIFT	16
+526	5207	Also it appears no payment is required tomorrow.	Also it appears no payment is required tomorrow .	249535	1471942350551	1471942350650	.	190
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249673	1471942353262	1471942353458	SHIFT	16
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249670	1471942353387	1471942353453	I	73
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249676	1471942353609	1471942353736	 	32
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249679	1471942354232	1471942354297	t	84
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249681	1471942354328	1471942354424	h	72
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249683	1471942354517	1471942354613	o	79
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249772	1471942354644	1471942354741	u	85
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249774	1471942354987	1471942355084	g	71
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249781	1471942355146	1471942355242	h	72
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249785	1471942355612	1471942355678	t	84
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249790	1471942356390	1471942356552	 	32
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249859	1471942356547	1471942356645	i	73
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249861	1471942357420	1471942357486	t	84
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249863	1471942357613	1471942357737	 	32
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249865	1471942357860	1471942357957	h	72
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249866	1471942358049	1471942358146	a	65
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249867	1471942358269	1471942358397	d	68
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249905	1471942358399	1471942358555	 	32
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249909	1471942358832	1471942358929	g	71
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249913	1471942358932	1471942359025	o	79
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249917	1471942359087	1471942359218	n	78
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249964	1471942359213	1471942359316	e	69
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249966	1471942359318	1471942359414	 	32
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249968	1471942359410	1471942359539	t	84
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249972	1471942359724	1471942359821	o	79
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249976	1471942359913	1471942360072	 	32
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	249978	1471942360133	1471942360230	a	65
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250021	1471942360232	1471942360306	l	76
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250023	1471942360399	1471942360465	l	76
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250027	1471942360619	1471942360746	 	32
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250031	1471942360808	1471942360905	o	79
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250035	1471942361182	1471942361217	r	82
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250097	1471942361464	1471942361530	=	187
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250101	1471942361591	1471942361688	f	70
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250105	1471942361966	1471942362046	BKSP	8
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250110	1471942362138	1471942362204	BKSP	8
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250115	1471942362265	1471942362331	BKSP	8
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250116	1471942362491	1471942362588	f	70
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250117	1471942362711	1471942362870	 	32
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250188	1471942362932	1471942363159	SHIFT	16
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250118	1471942363087	1471942363153	N	78
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250191	1471942363775	1471942363840	BKSP	8
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250194	1471942363994	1471942364401	SHIFT	16
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250198	1471942364304	1471942364435	E	69
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250203	1471942364437	1471942364531	n	78
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250206	1471942364654	1471942364751	r	82
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250209	1471942364753	1471942364816	o	79
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250210	1471942364940	1471942365036	n	78
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250231	1471942365152	1471942365379	SHIFT	16
+526	5220	I thought it had gone to all of Enron.	I thought it had gone to all of Enron.	250228	1471942365247	1471942365374	.	190
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250518	1471942371536	1471942372034	SHIFT	16
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250522	1471942371938	1471942372079	S	83
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250525	1471942372081	1471942372175	o	79
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250527	1471942372422	1471942372519	r	82
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250529	1471942372581	1471942372677	r	82
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250531	1471942372770	1471942372866	y	89
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250539	1471942372928	1471942373086	 	32
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250541	1471942373117	1471942373245	f	70
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250544	1471942373211	1471942373290	o	79
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250548	1471942373382	1471942373510	t	84
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250552	1471942373571	1471942373731	 	32
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250587	1471942373696	1471942373795	h	72
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250592	1471942373888	1471942373985	t	84
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250595	1471942374047	1471942374173	e	69
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250598	1471942374204	1471942374332	 	32
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250601	1471942374485	1471942374582	u	85
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250604	1471942374705	1471942374801	n	78
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250632	1471942375049	1471942375121	f	70
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250633	1471942375245	1471942375373	r	82
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250634	1471942375338	1471942375437	i	73
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250635	1471942375530	1471942375635	e	69
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250636	1471942375638	1471942375700	n	78
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250669	1471942375792	1471942375889	d	68
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250673	1471942376105	1471942376244	l	76
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250676	1471942376305	1471942376402	y	89
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250680	1471942376556	1471942376698	 	32
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250684	1471942376760	1471942376856	g	71
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250712	1471942377041	1471942377145	r	82
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250714	1471942377330	1471942377426	e	69
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250717	1471942377519	1471942377584	e	69
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250723	1471942377676	1471942377742	t	84
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250726	1471942377772	1471942377870	i	73
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250779	1471942377963	1471942378090	n	78
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250781	1471942378491	1471942378588	g	71
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250783	1471942378681	1471942378777	 	32
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250787	1471942378807	1471942378904	i	73
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250792	1471942378997	1471942379124	n	78
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250843	1471942379127	1471942379254	 	32
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250845	1471942379249	1471942379348	t	84
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250848	1471942379350	1471942379444	h	72
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250854	1471942379876	1471942379988	 	32
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250858	1471942380297	1471942380362	BKSP	8
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250862	1471942380454	1471942380551	e	69
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250879	1471942380644	1471942380776	 	32
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250882	1471942380769	1471942380848	l	76
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250886	1471942380940	1471942381006	o	79
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250887	1471942381129	1471942381195	g	71
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250888	1471942381287	1471942381384	g	71
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250926	1471942381507	1471942381635	b	66
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250929	1471942381912	1471942382009	BKSP	8
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250932	1471942382102	1471942382167	BKSP	8
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250934	1471942382229	1471942382295	BKSP	8
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250938	1471942382982	1471942383079	b	66
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250943	1471942383171	1471942383237	b	66
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250945	1471942383329	1471942383395	y	89
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250950	1471942383735	1471942383926	SHIFT	16
+526	5233	Sorry for the unfriendly greeting in the lobby.	Sorry fot hte unfriendly greeting in the lobby.	250949	1471942383861	1471942383959	.	190
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251155	1471942386384	1471942387362	SHIFT	16
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251157	1471942388606	1471942388950	SHIFT	16
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251159	1471942388885	1471942388984	I	73
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251160	1471942389138	1471942389297	 	32
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251162	1471942389358	1471942389487	w	87
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251164	1471942389452	1471942389520	o	79
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251166	1471942389582	1471942389647	u	85
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251202	1471942389740	1471942389836	l	76
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251204	1471942389867	1471942389963	d	68
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251207	1471942390025	1471942390155	 	32
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251210	1471942390150	1471942390280	a	65
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251212	1471942390588	1471942390654	s	83
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251247	1471942390749	1471942390846	s	83
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251249	1471942390938	1471942391035	u	85
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251254	1471942391096	1471942391162	m	77
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251257	1471942391286	1471942391383	e	69
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251261	1471942391506	1471942391633	 	32
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251278	1471942391911	1471942392040	t	84
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251281	1471942392005	1471942392104	h	72
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251287	1471942392165	1471942392262	i	73
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251294	1471942392292	1471942392421	s	83
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251352	1471942392386	1471942392547	 	32
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251355	1471942392609	1471942392736	w	87
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251358	1471942392798	1471942392899	e	69
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251360	1471942392996	1471942393093	e	69
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251361	1471942393185	1471942393282	k	75
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251362	1471942393343	1471942393475	 	32
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251379	1471942393469	1471942393569	s	83
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251384	1471942393534	1471942393633	o	79
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251386	1471942393694	1471942393791	m	77
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251388	1471942393883	1471942394011	e	69
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251390	1471942394041	1471942394138	t	84
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251392	1471942394141	1471942394172	i	73
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251509	1471942394327	1471942394454	n	78
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251512	1471942395167	1471942395264	=	187
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251515	1471942395449	1471942395546	m	77
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251519	1471942395731	1471942395796	BKSP	8
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251524	1471942395889	1471942395954	BKSP	8
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251528	1471942396356	1471942396452	BKSP	8
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251532	1471942396668	1471942396765	m	77
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251536	1471942396827	1471942396922	e	69
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251540	1471942397077	1471942397237	SHIFT	16
+526	5250	I would assume this week sometime.	I would assume this week sometime.	251541	1471942397171	1471942397270	.	190
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251813	1471942402154	1471942402623	SHIFT	16
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251815	1471942402526	1471942402687	W	87
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251819	1471942402779	1471942402876	e	69
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251822	1471942402968	1471942403192	 	32
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251825	1471942403186	1471942403316	a	65
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251829	1471942403318	1471942403443	r	82
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251842	1471942403479	1471942403606	e	69
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251846	1471942403636	1471942403767	 	32
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251851	1471942403762	1471942403892	a	65
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251855	1471942403894	1471942403988	l	76
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251858	1471942404111	1471942404145	l	76
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251879	1471942404547	1471942404644	d	68
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251881	1471942404953	1471942405049	BKSP	8
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251882	1471942405173	1471942405269	 	32
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251883	1471942405335	1471942405432	d	68
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251884	1471942405494	1471942405562	p	79
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251915	1471942405995	1471942406061	BKSP	8
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251917	1471942406494	1471942406558	i	73
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251920	1471942406775	1471942406844	n	78
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251923	1471942406838	1471942406968	g	71
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251926	1471942406971	1471942407129	 	32
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251980	1471942407123	1471942407253	r	82
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251984	1471942407284	1471942407411	e	69
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251986	1471942408062	1471942408159	a	65
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251991	1471942408251	1471942408347	s	83
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	251997	1471942408471	1471942408536	o	79
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252003	1471942408628	1471942408694	n	78
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252106	1471942408725	1471942408852	a	65
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252111	1471942409037	1471942409165	b	66
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252115	1471942409196	1471942409292	l	76
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252121	1471942409447	1471942409481	e	69
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252125	1471942410038	1471942410135	BKSP	8
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252128	1471942410537	1471942410601	y	89
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252172	1471942411408	1471942411567	 	32
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252173	1471942411628	1471942411755	w	87
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252174	1471942411818	1471942411918	e	69
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252175	1471942411948	1471942412014	l	76
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252177	1471942412107	1471942412203	l	76
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252296	1471942412358	1471942412585	SHIFT	16
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252292	1471942412451	1471942412580	.	190
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252299	1471942413388	1471942413516	BKSP	8
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252306	1471942413917	1471942414013	,	188
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252311	1471942414075	1471942414171	 	32
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252320	1471942414388	1471942414581	SHIFT	16
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252316	1471942414482	1471942414547	I	73
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252324	1471942414673	1471942414801	 	32
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252345	1471942414832	1471942414929	t	84
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252348	1471942414894	1471942414993	h	72
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252350	1471942415054	1471942415130	i	73
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252353	1471942415222	1471942415350	n	78
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252355	1471942415721	1471942415817	k	75
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252364	1471942415940	1471942416131	SHIFT	16
+526	5263	We are all doing reasonably well, I think.	We are all doing reasonably well, I think.	252366	1471942416065	1471942416164	.	190
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252530	1471942419057	1471942419308	SHIFT	16
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252533	1471942419369	1471942419435	o	79
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252536	1471942419774	1471942419840	u	85
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252538	1471942420180	1471942420277	BKSP	8
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252542	1471942420369	1471942420435	BKSP	8
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252548	1471942420682	1471942420909	SHIFT	16
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252546	1471942420807	1471942420904	O	79
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252550	1471942420967	1471942421064	u	85
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252553	1471942421218	1471942421346	r	82
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252582	1471942421438	1471942421567	 	32
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252585	1471942421532	1471942421631	n	78
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252590	1471942421754	1471942421851	u	85
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252591	1471942421913	1471942422040	m	77
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252592	1471942422225	1471942422321	b	66
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252599	1471942422444	1471942422605	e	69
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252601	1471942422538	1471942422668	r	82
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252603	1471942422699	1471942422828	s	83
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252607	1471942422793	1471942422959	 	32
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252628	1471942422951	1471942423081	a	65
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252630	1471942423084	1471942423243	r	82
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252633	1471942423237	1471942423368	e	69
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252635	1471942423333	1471942423463	 	32
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252637	1471942423587	1471942423654	f	67
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252652	1471942423661	1471942423763	o	79
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252654	1471942423886	1471942424013	r	82
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252657	1471942424137	1471942424268	r	82
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252660	1471942424263	1471942424425	e	69
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252695	1471942424421	1471942424519	s	83
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252698	1471942424521	1471942424647	t	84
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252700	1471942424862	1471942424993	 	32
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252702	1471942424988	1471942425086	i	73
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252704	1471942425209	1471942425306	n	78
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252706	1471942425308	1471942425436	 	32
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252716	1471942425431	1471942425529	t	84
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252718	1471942425561	1471942425659	h	72
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252721	1471942425654	1471942425789	e	69
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252723	1471942425820	1471942425916	 	32
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252724	1471942426008	1471942426105	s	83
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	252725	1471942426136	1471942426201	y	89
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	253026	1471942430212	1471942430277	BKSP	8
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	253028	1471942432453	1471942432518	BKSP	8
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	253030	1471942432579	1471942432614	c	67
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	253032	1471942434260	1471942434357	s	83
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	253034	1471942434456	1471942434552	t	84
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	253035	1471942434613	1471942434710	e	69
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	253036	1471942434712	1471942434838	m	77
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	253075	1471942434991	1471942435119	 	32
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	253078	1471942435181	1471942435246	n	78
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	253082	1471942435401	1471942435497	o	79
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	253086	1471942435744	1471942435813	x	88
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	253088	1471942436091	1471942436187	BKSP	8
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	253090	1471942436218	1471942436316	w	87
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	253124	1471942436811	1471942437063	SHIFT	16
+526	5279	Our numbers are correct in the system now.	Our numbers are correct in the system now.	253126	1471942436998	1471942437127	.	190
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253372	1471942442725	1471942442921	SHIFT	16
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253370	1471942442850	1471942442916	H	72
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253373	1471942443537	1471942443665	e	69
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253374	1471942444035	1471942444132	'	52
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253375	1471942444595	1471942444661	s	83
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253377	1471942444754	1471942444912	 	32
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253410	1471942445066	1471942445134	a	65
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253412	1471942445165	1471942445324	 	32
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253416	1471942445384	1471942445482	q	81
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253419	1471942445483	1471942445546	y	89
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253425	1471942445608	1471942445709	e	69
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253522	1471942445771	1471942445930	s	83
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253523	1471942445895	1471942445995	t	84
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253525	1471942445961	1471942446091	u	85
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253527	1471942446307	1471942446372	BKSP	8
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253529	1471942446465	1471942446530	BKSP	8
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253531	1471942446592	1471942446658	BKSP	8
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253533	1471942446750	1471942446816	BKSP	8
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253535	1471942446909	1471942446974	BKSP	8
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253537	1471942448185	1471942448281	u	85
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253539	1471942448497	1471942448594	e	69
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253570	1471942448655	1471942448813	s	83
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253574	1471942448844	1471942448910	t	84
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253578	1471942449002	1471942449098	i	73
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253581	1471942449160	1471942449257	o	79
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253584	1471942449349	1471942449445	n	78
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253616	1471942449477	1471942449574	a	65
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253619	1471942449791	1471942449887	b	66
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253621	1471942450011	1471942450076	l	76
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253624	1471942450137	1471942450234	e	69
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253626	1471942450265	1471942450392	 	32
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253676	1471942450454	1471942450894	SHIFT	16
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253674	1471942450702	1471942450860	F	70
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253679	1471942451452	1471942451579	a	65
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253681	1471942451610	1471942451706	n	78
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253682	1471942451737	1471942451833	t	84
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253683	1471942451957	1471942452022	a	65
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253715	1471942452363	1471942452397	s	83
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253716	1471942452459	1471942452556	y	89
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253717	1471942452647	1471942452744	 	32
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253719	1471942452805	1471942452902	p	80
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253722	1471942452964	1471942453091	l	76
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253750	1471942453122	1471942453218	a	65
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253752	1471942453280	1471942453377	y	89
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253753	1471942453562	1471942453722	e	69
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253755	1471942453624	1471942453818	r	82
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253756	1471942453820	1471942453945	 	32
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253791	1471942454007	1471942454104	t	84
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253793	1471942454069	1471942454168	o	79
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253799	1471942454199	1471942454327	 	32
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253802	1471942454419	1471942454515	b	66
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253806	1471942454824	1471942454951	e	69
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253860	1471942455851	1471942455948	g	71
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253863	1471942455950	1471942456013	i	73
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253866	1471942456168	1471942456233	n	78
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253872	1471942456544	1471942456700	 	32
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253877	1471942456792	1471942456921	w	87
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253915	1471942456886	1471942456985	i	73
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253917	1471942457016	1471942457113	t	84
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253920	1471942457143	1471942457209	h	72
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253926	1471942457363	1471942457587	SHIFT	16
+526	5297	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	253924	1471942457488	1471942457554	.	190
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254172	1471942462702	1471942463295	SHIFT	16
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254173	1471942463199	1471942463328	A	65
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254175	1471942463421	1471942463549	 	32
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254177	1471942463580	1471942463769	SHIFT	16
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254179	1471942463704	1471942463834	H	72
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254183	1471942464018	1471942464116	u	85
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254187	1471942464239	1471942464305	n	78
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254206	1471942464397	1471942464494	g	71
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254207	1471942464557	1471942464686	a	65
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254208	1471942464995	1471942465091	r	82
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254209	1471942465094	1471942465156	i	73
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254210	1471942465187	1471942465315	e	69
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254224	1471942465318	1471942465411	n	78
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254227	1471942465442	1471942465569	 	32
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254231	1471942465723	1471942465789	n	78
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254236	1471942466041	1471942466169	e	69
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254239	1471942466199	1471942466265	u	85
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254273	1471942466295	1471942466423	r	82
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254278	1471942466484	1471942466612	 	32
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254281	1471942466797	1471942466924	s	83
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254283	1471942466955	1471942467053	u	85
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254288	1471942467082	1471942467209	r	82
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254314	1471942467364	1471942467430	g	71
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254317	1471942467616	1471942467742	e	69
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254320	1471942467804	1471942467900	o	79
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254323	1471942467994	1471942468090	n	78
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254325	1471942468121	1471942468248	 	32
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254340	1471942468374	1471942468502	s	83
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254342	1471942468656	1471942468721	a	65
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254344	1471942468752	1471942468848	i	73
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254346	1471942469219	1471942469285	d	68
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254349	1471942469408	1471942469505	 	32
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254367	1471942469597	1471942469709	t	84
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254368	1471942469711	1471942469807	h	72
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254370	1471942469802	1471942469932	a	65
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254373	1471942469993	1471942470090	t	84
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254377	1471942470151	1471942470280	 	32
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254412	1471942470245	1471942470378	m	77
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254417	1471942470373	1471942470471	e	69
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254423	1471942470594	1471942470724	d	68
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254428	1471942470689	1471942470788	i	73
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254432	1471942470880	1471942470977	a	65
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254436	1471942471317	1471942471383	BKSP	8
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254440	1471942471444	1471942471510	c	67
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254502	1471942471695	1471942471731	l	65
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254506	1471942472726	1471942472853	 	32
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254509	1471942472915	1471942473011	s	83
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254512	1471942473014	1471942473108	u	85
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254546	1471942473200	1471942473296	p	80
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254548	1471942473389	1471942473547	p	80
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254549	1471942473702	1471942473829	l	76
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254550	1471942473891	1471942474021	i	73
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254575	1471942474016	1471942474176	e	69
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254578	1471942474239	1471942474303	s	83
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254584	1471942474306	1471942474464	 	32
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254588	1471942474459	1471942474558	a	65
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254591	1471942474588	1471942474716	r	82
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254593	1471942474778	1471942474874	e	69
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254643	1471942474904	1471942475003	 	32
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254646	1471942474968	1471942475036	l	76
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254649	1471942475159	1471942475259	o	79
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254652	1471942475253	1471942475352	w	87
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254655	1471942475563	1471942475690	CTRL	17
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254658	1471942475937	1471942476189	SHIFT	16
+526	5311	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarien neur surgeon said that medical supplies are low.	254683	1471942476155	1471942476223	.	190
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254753	1471942478304	1471942478711	SHIFT	16
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254754	1471942478646	1471942478775	W	87
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254755	1471942478778	1471942478872	h	72
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254756	1471942478902	1471942479061	e	69
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254757	1471942479122	1471942479219	n	78
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254758	1471942479281	1471942479408	 	32
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254817	1471942479469	1471942479566	i	73
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254818	1471942479751	1471942479878	t	84
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254821	1471942479939	1471942480067	 	32
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254824	1471942480625	1471942480721	u	85
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254827	1471942480783	1471942480942	s	83
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254864	1471942480877	1471942481006	e	69
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254867	1471942481130	1471942481288	d	68
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254872	1471942481319	1471942481415	 	32
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254875	1471942481446	1471942481573	w	87
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254876	1471942481604	1471942481732	e	69
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254878	1471942481762	1471942481891	 	32
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254946	1471942481856	1471942481955	t	84
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254947	1471942482047	1471942482175	r	82
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254948	1471942482205	1471942482272	y	89
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254949	1471942482237	1471942482277	u	85
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254952	1471942482336	1471942482464	 	32
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254956	1471942482834	1471942482900	BKSP	8
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254960	1471942482993	1471942483027	BKSP	8
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254964	1471942483151	1471942483185	BKSP	8
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254968	1471942483928	1471942483994	y	89
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254972	1471942484086	1471942484213	 	32
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254973	1471942484245	1471942484342	a	65
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254975	1471942484344	1471942484438	n	78
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254976	1471942484468	1471942484565	d	68
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	254978	1471942484596	1471942484723	 	32
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255004	1471942484758	1471942484855	d	68
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255006	1471942484858	1471942484889	o	79
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255010	1471942484982	1471942485079	 	32
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255016	1471942485542	1471942485608	a	65
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255027	1471942485732	1471942485860	s	83
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255055	1471942485825	1471942485958	 	32
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255058	1471942485952	1471942486051	m	77
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255061	1471942486082	1471942486179	a	65
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255064	1471942486209	1471942486306	n	78
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255067	1471942486460	1471942486534	y	89
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255070	1471942486657	1471942486754	 	32
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255101	1471942487186	1471942487317	p	80
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255104	1471942487312	1471942487441	a	65
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255109	1471942487444	1471942487568	t	84
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255115	1471942487571	1471942487634	h	72
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255120	1471942487726	1471942487854	s	83
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255161	1471942487857	1471942488013	 	32
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255170	1471942487978	1471942488108	a	65
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255178	1471942488665	1471942488732	s	83
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255186	1471942488763	1471942488890	p	80
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255191	1471942488921	1471942489048	 	32
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255263	1471942489481	1471942489547	BKSP	8
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255269	1471942489639	1471942489705	BKSP	8
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255275	1471942489859	1471942489956	 	32
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255280	1471942490079	1471942490144	o	79
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255285	1471942490453	1471942490489	s	83
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255292	1471942490674	1471942490770	BKSP	8
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255297	1471942490862	1471942490928	BKSP	8
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255301	1471942491329	1471942491457	p	80
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255304	1471942491549	1471942491614	o	79
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255316	1471942491676	1471942491742	s	83
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255317	1471942491834	1471942491993	s	83
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255320	1471942492123	1471942492251	b	66
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255321	1471942492218	1471942492315	i	73
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255324	1471942492439	1471942492504	l	76
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255528	1471942492535	1471942492601	e	69
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255532	1471942492816	1471942493075	SHIFT	16
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255530	1471942492973	1471942493070	.	190
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255533	1471942493753	1471942493849	BKSP	8
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255534	1471942493942	1471942494008	BKSP	8
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255535	1471942494070	1471942494166	BKSP	8
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255536	1471942494259	1471942494293	BKSP	8
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255537	1471942494448	1471942494513	BKSP	8
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255538	1471942495505	1471942495571	u	85
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255539	1471942495849	1471942495946	b	66
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255540	1471942496162	1471942496227	BKSP	8
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255541	1471942496350	1471942496400	BKSP	8
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255544	1471942497702	1471942497799	i	73
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255568	1471942498016	1471942498112	b	66
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255570	1471942498143	1471942498274	l	76
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255573	1471942498268	1471942498397	e	69
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255578	1471942498521	1471942498649	SHIFT	16
+526	5324	When it is used we try and do as many paths as possible.	When it used we try and do as many paths as possible.	255581	1471942498615	1471942498745	.	190
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255812	1471942503068	1471942504544	SHIFT	16
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255806	1471942503850	1471942503978	E	69
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255808	1471942504009	1471942504136	N	78
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255810	1471942504291	1471942504418	A	65
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255814	1471942504575	1471942504734	 	32
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255815	1471942504765	1471942504861	i	73
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255834	1471942504923	1471942505019	s	83
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255837	1471942505081	1471942505241	 	32
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255842	1471942505206	1471942505304	n	78
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255845	1471942505397	1471942505503	o	79
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255895	1471942505498	1471942505596	t	84
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255897	1471942505689	1471942505816	 	32
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255898	1471942506063	1471942506160	p	80
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255899	1471942506315	1471942506442	u	85
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255902	1471942506504	1471942506600	r	82
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255906	1471942506755	1471942506914	c	67
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255923	1471942506879	1471942506978	h	72
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255925	1471942507009	1471942507105	a	65
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255928	1471942507198	1471942507326	s	83
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255932	1471942507328	1471942507391	i	73
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255935	1471942507483	1471942507579	n	78
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255938	1471942507641	1471942507738	g	71
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255957	1471942507861	1471942508021	 	32
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255962	1471942507986	1471942508558	SHIFT	16
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255959	1471942508453	1471942508557	W	87
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255965	1471942508802	1471942508959	e	69
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	255967	1471942508989	1471942509149	s	83
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	256037	1471942509084	1471942509213	t	84
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	256039	1471942509275	1471942509402	p	80
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	256041	1471942510209	1471942510337	o	79
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	256046	1471942510645	1471942510741	r	82
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	256048	1471942510865	1471942510937	t	84
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	256052	1471942511276	1471942511404	'	52
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	256086	1471942511465	1471942511593	s	83
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	256088	1471942511596	1471942511720	 	32
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	256090	1471942511874	1471942512001	g	71
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	256093	1471942512063	1471942512160	a	65
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	256096	1471942512283	1471942512412	s	83
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	256127	1471942512377	1471942512479	 	32
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	256131	1471942512473	1471942512572	t	84
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	256134	1471942512696	1471942512823	h	72
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	256136	1471942512946	1471942513043	i	73
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	256138	1471942513135	1471942513295	s	83
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	256151	1471942513260	1471942513359	 	32
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	256155	1471942513389	1471942513488	t	84
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	256156	1471942513453	1471942513552	i	73
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	256159	1471942513582	1471942513710	m	77
+526	5344	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas this time	256163	1471942513771	1471942513837	e	69

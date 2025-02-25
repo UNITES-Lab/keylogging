@@ -1,0 +1,741 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+324	2911	Just wanted to touch base.	just wanted to touch base.	141546	1471939356421	1471939356487	j	74
+324	2911	Just wanted to touch base.	just wanted to touch base.	141548	1471939356588	1471939356654	u	85
+324	2911	Just wanted to touch base.	just wanted to touch base.	141551	1471939356658	1471939356775	s	83
+324	2911	Just wanted to touch base.	just wanted to touch base.	141555	1471939356925	1471939357007	t	84
+324	2911	Just wanted to touch base.	just wanted to touch base.	141560	1471939357046	1471939357372	 	32
+324	2911	Just wanted to touch base.	just wanted to touch base.	141577	1471939357375	1471939357376	w	87
+324	2911	Just wanted to touch base.	just wanted to touch base.	141579	1471939357486	1471939357513	a	65
+324	2911	Just wanted to touch base.	just wanted to touch base.	141580	1471939357537	1471939357615	n	78
+324	2911	Just wanted to touch base.	just wanted to touch base.	141581	1471939357717	1471939357802	t	84
+324	2911	Just wanted to touch base.	just wanted to touch base.	141582	1471939357922	1471939358007	e	69
+324	2911	Just wanted to touch base.	just wanted to touch base.	141600	1471939358094	1471939358185	d	68
+324	2911	Just wanted to touch base.	just wanted to touch base.	141601	1471939358212	1471939358347	 	32
+324	2911	Just wanted to touch base.	just wanted to touch base.	141602	1471939358341	1471939358435	t	84
+324	2911	Just wanted to touch base.	just wanted to touch base.	141603	1471939358500	1471939358582	o	79
+324	2911	Just wanted to touch base.	just wanted to touch base.	141605	1471939358718	1471939358870	 	32
+324	2911	Just wanted to touch base.	just wanted to touch base.	141630	1471939358948	1471939359015	t	84
+324	2911	Just wanted to touch base.	just wanted to touch base.	141631	1471939359160	1471939359258	o	79
+324	2911	Just wanted to touch base.	just wanted to touch base.	141632	1471939359341	1471939359409	u	85
+324	2911	Just wanted to touch base.	just wanted to touch base.	141633	1471939359635	1471939359707	v	86
+324	2911	Just wanted to touch base.	just wanted to touch base.	141634	1471939359991	1471939360074	BKSP	8
+324	2911	Just wanted to touch base.	just wanted to touch base.	141635	1471939360112	1471939360211	c	67
+324	2911	Just wanted to touch base.	just wanted to touch base.	141636	1471939360243	1471939360313	h	72
+324	2911	Just wanted to touch base.	just wanted to touch base.	141637	1471939360424	1471939360529	 	32
+324	2911	Just wanted to touch base.	just wanted to touch base.	141639	1471939360517	1471939360603	t	84
+324	2911	Just wanted to touch base.	just wanted to touch base.	141641	1471939360659	1471939360753	h	72
+324	2911	Just wanted to touch base.	just wanted to touch base.	141643	1471939360775	1471939360879	e	69
+324	2911	Just wanted to touch base.	just wanted to touch base.	141655	1471939360904	1471939360985	 	32
+324	2911	Just wanted to touch base.	just wanted to touch base.	141657	1471939361086	1471939361158	b	66
+324	2911	Just wanted to touch base.	just wanted to touch base.	141659	1471939361175	1471939361271	a	65
+324	2911	Just wanted to touch base.	just wanted to touch base.	141661	1471939361380	1471939361467	s	83
+324	2911	Just wanted to touch base.	just wanted to touch base.	141664	1471939361583	1471939361645	e	69
+324	2911	Just wanted to touch base.	just wanted to touch base.	141852	1471939361830	1471939361905	.	190
+324	2911	Just wanted to touch base.	just wanted to touch base.	141853	1471939366058	1471939366149	BKSP	8
+324	2911	Just wanted to touch base.	just wanted to touch base.	141855	1471939366259	1471939366313	BKSP	8
+324	2911	Just wanted to touch base.	just wanted to touch base.	141857	1471939366812	1471939366945	ARW_RIGHT	39
+324	2911	Just wanted to touch base.	just wanted to touch base.	141860	1471939367076	1471939367133	ARW_RIGHT	39
+324	2911	Just wanted to touch base.	just wanted to touch base.	141863	1471939367405	1471939367555	BKSP	8
+324	2911	Just wanted to touch base.	just wanted to touch base.	141866	1471939367653	1471939367714	BKSP	8
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142071	1471939377580	1471939377800	SHIFT	16
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142070	1471939377673	1471939377769	I	73
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142072	1471939377950	1471939378024	'	222
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142073	1471939378059	1471939378125	l	76
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142074	1471939378183	1471939378258	l	76
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142075	1471939378337	1471939378418	 	32
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142111	1471939378883	1471939378955	k	75
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142112	1471939379018	1471939379105	e	69
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142114	1471939379165	1471939379251	e	69
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142116	1471939379244	1471939379370	p	80
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142118	1471939379573	1471939379665	 	32
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142143	1471939379838	1471939379910	i	73
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142145	1471939379962	1471939380060	t	84
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142148	1471939380160	1471939380242	 	32
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142150	1471939380483	1471939380556	i	73
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142152	1471939380676	1471939380743	n	78
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142164	1471939380842	1471939380895	 	32
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142166	1471939381002	1471939381043	m	77
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142169	1471939381155	1471939381209	i	73
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142173	1471939381319	1471939381430	l	76
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142243	1471939381412	1471939381506	e	69
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142246	1471939381605	1471939381705	s	83
+324	2929	I'll keep it in miles.	I'll keep it in miles.	142249	1471939381829	1471939381897	.	190
+324	2935	We currently have 6 employees.	We currently have 6 employees	142379	1471939388378	1471939389273	SHIFT	16
+324	2935	We currently have 6 employees.	We currently have 6 employees	142378	1471939389178	1471939389219	W	87
+324	2935	We currently have 6 employees.	We currently have 6 employees	142381	1471939389358	1471939389426	e	69
+324	2935	We currently have 6 employees.	We currently have 6 employees	142383	1471939389642	1471939389705	 	32
+324	2935	We currently have 6 employees.	We currently have 6 employees	142385	1471939389824	1471939389952	c	67
+324	2935	We currently have 6 employees.	We currently have 6 employees	142387	1471939390032	1471939390091	u	85
+324	2935	We currently have 6 employees.	We currently have 6 employees	142398	1471939390193	1471939390274	r	82
+324	2935	We currently have 6 employees.	We currently have 6 employees	142400	1471939390334	1471939390398	r	82
+324	2935	We currently have 6 employees.	We currently have 6 employees	142402	1471939390480	1471939390563	e	69
+324	2935	We currently have 6 employees.	We currently have 6 employees	142404	1471939390601	1471939390668	n	78
+324	2935	We currently have 6 employees.	We currently have 6 employees	142406	1471939390709	1471939390799	t	84
+324	2935	We currently have 6 employees.	We currently have 6 employees	142427	1471939391094	1471939391183	l	76
+324	2935	We currently have 6 employees.	We currently have 6 employees	142429	1471939391341	1471939391403	y	89
+324	2935	We currently have 6 employees.	We currently have 6 employees	142430	1471939391567	1471939391648	 	32
+324	2935	We currently have 6 employees.	We currently have 6 employees	142431	1471939391750	1471939391850	h	72
+324	2935	We currently have 6 employees.	We currently have 6 employees	142432	1471939391903	1471939391979	a	65
+324	2935	We currently have 6 employees.	We currently have 6 employees	142459	1471939391991	1471939392085	v	86
+324	2935	We currently have 6 employees.	We currently have 6 employees	142460	1471939392176	1471939392270	r	82
+324	2935	We currently have 6 employees.	We currently have 6 employees	142461	1471939392297	1471939392394	 	32
+324	2935	We currently have 6 employees.	We currently have 6 employees	142462	1471939392832	1471939392891	BKSP	8
+324	2935	We currently have 6 employees.	We currently have 6 employees	142463	1471939392972	1471939393057	BKSP	8
+324	2935	We currently have 6 employees.	We currently have 6 employees	142464	1471939393294	1471939393393	e	69
+324	2935	We currently have 6 employees.	We currently have 6 employees	142465	1471939393433	1471939393524	 	32
+324	2935	We currently have 6 employees.	We currently have 6 employees	142472	1471939393591	1471939393686	6	54
+324	2935	We currently have 6 employees.	We currently have 6 employees	142476	1471939393730	1471939393848	 	32
+324	2935	We currently have 6 employees.	We currently have 6 employees	142478	1471939394105	1471939394201	e	69
+324	2935	We currently have 6 employees.	We currently have 6 employees	142481	1471939394242	1471939394312	m	77
+324	2935	We currently have 6 employees.	We currently have 6 employees	142484	1471939394486	1471939394534	o	79
+324	2935	We currently have 6 employees.	We currently have 6 employees	142544	1471939394859	1471939394922	BKSP	8
+324	2935	We currently have 6 employees.	We currently have 6 employees	142547	1471939395072	1471939395131	p	80
+324	2935	We currently have 6 employees.	We currently have 6 employees	142550	1471939395678	1471939395822	o	79
+324	2935	We currently have 6 employees.	We currently have 6 employees	142552	1471939396079	1471939396161	BKSP	8
+324	2935	We currently have 6 employees.	We currently have 6 employees	142556	1471939396496	1471939396572	l	76
+324	2935	We currently have 6 employees.	We currently have 6 employees	142561	1471939396822	1471939396912	o	79
+324	2935	We currently have 6 employees.	We currently have 6 employees	142564	1471939397180	1471939397252	y	89
+324	2935	We currently have 6 employees.	We currently have 6 employees	142657	1471939397304	1471939397385	e	69
+324	2935	We currently have 6 employees.	We currently have 6 employees	142658	1471939397816	1471939397892	e	69
+324	2935	We currently have 6 employees.	We currently have 6 employees	142659	1471939398014	1471939398118	s	83
+324	2944	This came as a shock to me.	This came as a shock to me.	142759	1471939404838	1471939405101	SHIFT	16
+324	2944	This came as a shock to me.	This came as a shock to me.	142762	1471939405056	1471939405140	T	84
+324	2944	This came as a shock to me.	This came as a shock to me.	142765	1471939405409	1471939405517	h	72
+324	2944	This came as a shock to me.	This came as a shock to me.	142768	1471939405521	1471939405653	i	73
+324	2944	This came as a shock to me.	This came as a shock to me.	142770	1471939405739	1471939405843	s	83
+324	2944	This came as a shock to me.	This came as a shock to me.	142772	1471939406015	1471939406095	 	32
+324	2944	This came as a shock to me.	This came as a shock to me.	142806	1471939406389	1471939406446	v	86
+324	2944	This came as a shock to me.	This came as a shock to me.	142807	1471939406494	1471939406607	a	65
+324	2944	This came as a shock to me.	This came as a shock to me.	142808	1471939406756	1471939406819	BKSP	8
+324	2944	This came as a shock to me.	This came as a shock to me.	142809	1471939406897	1471939406972	BKSP	8
+324	2944	This came as a shock to me.	This came as a shock to me.	142810	1471939406967	1471939407070	c	67
+324	2944	This came as a shock to me.	This came as a shock to me.	142811	1471939407182	1471939407283	a	65
+324	2944	This came as a shock to me.	This came as a shock to me.	142841	1471939407274	1471939407351	m	77
+324	2944	This came as a shock to me.	This came as a shock to me.	142844	1471939407420	1471939407507	e	69
+324	2944	This came as a shock to me.	This came as a shock to me.	142847	1471939407570	1471939407643	 	32
+324	2944	This came as a shock to me.	This came as a shock to me.	142850	1471939407680	1471939407752	s	83
+324	2944	This came as a shock to me.	This came as a shock to me.	142853	1471939407921	1471939407983	a	65
+324	2944	This came as a shock to me.	This came as a shock to me.	142855	1471939408098	1471939408199	BKSP	8
+324	2944	This came as a shock to me.	This came as a shock to me.	142857	1471939408230	1471939408330	a	65
+324	2944	This came as a shock to me.	This came as a shock to me.	142878	1471939408461	1471939408515	BKSP	8
+324	2944	This came as a shock to me.	This came as a shock to me.	142879	1471939408669	1471939408748	BKSP	8
+324	2944	This came as a shock to me.	This came as a shock to me.	142880	1471939408775	1471939408869	a	65
+324	2944	This came as a shock to me.	This came as a shock to me.	142881	1471939408956	1471939409041	s	83
+324	2944	This came as a shock to me.	This came as a shock to me.	142882	1471939409078	1471939409160	 	32
+324	2944	This came as a shock to me.	This came as a shock to me.	142883	1471939409520	1471939409591	 	32
+324	2944	This came as a shock to me.	This came as a shock to me.	142884	1471939409639	1471939409744	a	65
+324	2944	This came as a shock to me.	This came as a shock to me.	142958	1471939409947	1471939410013	BKSP	8
+324	2944	This came as a shock to me.	This came as a shock to me.	142959	1471939410095	1471939410172	BKSP	8
+324	2944	This came as a shock to me.	This came as a shock to me.	142960	1471939410235	1471939410294	BKSP	8
+324	2944	This came as a shock to me.	This came as a shock to me.	142962	1471939410400	1471939410513	a	65
+324	2944	This came as a shock to me.	This came as a shock to me.	142964	1471939411108	1471939411176	BKSP	8
+324	2944	This came as a shock to me.	This came as a shock to me.	142966	1471939411351	1471939411422	 	32
+324	2944	This came as a shock to me.	This came as a shock to me.	142968	1471939411491	1471939411590	a	65
+324	2944	This came as a shock to me.	This came as a shock to me.	142972	1471939411617	1471939411705	 	32
+324	2944	This came as a shock to me.	This came as a shock to me.	142975	1471939412129	1471939412222	s	83
+324	2944	This came as a shock to me.	This came as a shock to me.	143026	1471939412215	1471939412355	h	72
+324	2944	This came as a shock to me.	This came as a shock to me.	143029	1471939412324	1471939412541	o	79
+324	2944	This came as a shock to me.	This came as a shock to me.	143037	1471939412871	1471939412945	j	74
+324	2944	This came as a shock to me.	This came as a shock to me.	143040	1471939413261	1471939413353	BKSP	8
+324	2944	This came as a shock to me.	This came as a shock to me.	143045	1471939413673	1471939413773	c	67
+324	2944	This came as a shock to me.	This came as a shock to me.	143049	1471939413742	1471939413861	k	75
+324	2944	This came as a shock to me.	This came as a shock to me.	143053	1471939413990	1471939414087	 	32
+324	2944	This came as a shock to me.	This came as a shock to me.	143075	1471939414173	1471939414256	y	89
+324	2944	This came as a shock to me.	This came as a shock to me.	143076	1471939414230	1471939414381	o	79
+324	2944	This came as a shock to me.	This came as a shock to me.	143077	1471939414497	1471939414588	 	32
+324	2944	This came as a shock to me.	This came as a shock to me.	143078	1471939414813	1471939414875	BKSP	8
+324	2944	This came as a shock to me.	This came as a shock to me.	143080	1471939414967	1471939415037	BKSP	8
+324	2944	This came as a shock to me.	This came as a shock to me.	143081	1471939415120	1471939415210	BKSP	8
+324	2944	This came as a shock to me.	This came as a shock to me.	143083	1471939415320	1471939415410	t	84
+324	2944	This came as a shock to me.	This came as a shock to me.	143105	1471939415383	1471939415493	o	79
+324	2944	This came as a shock to me.	This came as a shock to me.	143108	1471939415593	1471939415691	 	32
+324	2944	This came as a shock to me.	This came as a shock to me.	143111	1471939415793	1471939415940	m	77
+324	2944	This came as a shock to me.	This came as a shock to me.	143114	1471939415867	1471939415981	e	69
+324	2944	This came as a shock to me.	This came as a shock to me.	143117	1471939415905	1471939416011	 	32
+324	2944	This came as a shock to me.	This came as a shock to me.	143119	1471939416405	1471939416495	BKSP	8
+324	2944	This came as a shock to me.	This came as a shock to me.	143120	1471939416650	1471939416742	.	190
+324	2957	I think we are dong OK.	I think we are dong OK.	143393	1471939423902	1471939426838	SHIFT	16
+324	2957	I think we are dong OK.	I think we are dong OK.	143395	1471939426826	1471939426919	I	73
+324	2957	I think we are dong OK.	I think we are dong OK.	143399	1471939427145	1471939427195	 	32
+324	2957	I think we are dong OK.	I think we are dong OK.	143402	1471939427293	1471939427374	t	84
+324	2957	I think we are dong OK.	I think we are dong OK.	143405	1471939427411	1471939427501	h	72
+324	2957	I think we are dong OK.	I think we are dong OK.	143447	1471939427466	1471939427680	i	73
+324	2957	I think we are dong OK.	I think we are dong OK.	143450	1471939427672	1471939427913	n	78
+324	2957	I think we are dong OK.	I think we are dong OK.	143453	1471939427854	1471939427987	k	75
+324	2957	I think we are dong OK.	I think we are dong OK.	143456	1471939428251	1471939428332	 	32
+324	2957	I think we are dong OK.	I think we are dong OK.	143459	1471939428636	1471939428745	w	87
+324	2957	I think we are dong OK.	I think we are dong OK.	143461	1471939428984	1471939429090	 	32
+324	2957	I think we are dong OK.	I think we are dong OK.	143503	1471939429073	1471939429180	e	69
+324	2957	I think we are dong OK.	I think we are dong OK.	143504	1471939429454	1471939429527	BKSP	8
+324	2957	I think we are dong OK.	I think we are dong OK.	143505	1471939429583	1471939429673	BKSP	8
+324	2957	I think we are dong OK.	I think we are dong OK.	143507	1471939429688	1471939429800	e	69
+324	2957	I think we are dong OK.	I think we are dong OK.	143510	1471939429873	1471939429952	 	32
+324	2957	I think we are dong OK.	I think we are dong OK.	143513	1471939430030	1471939430153	a	65
+324	2957	I think we are dong OK.	I think we are dong OK.	143516	1471939430194	1471939430277	r	82
+324	2957	I think we are dong OK.	I think we are dong OK.	143520	1471939430323	1471939430441	e	69
+324	2957	I think we are dong OK.	I think we are dong OK.	143551	1471939430490	1471939430592	 	32
+324	2957	I think we are dong OK.	I think we are dong OK.	143553	1471939431076	1471939431179	d	68
+324	2957	I think we are dong OK.	I think we are dong OK.	143557	1471939431130	1471939431201	o	79
+324	2957	I think we are dong OK.	I think we are dong OK.	143561	1471939431318	1471939431400	n	78
+324	2957	I think we are dong OK.	I think we are dong OK.	143563	1471939431471	1471939431572	g	71
+324	2957	I think we are dong OK.	I think we are dong OK.	143627	1471939431523	1471939431608	 	32
+324	2957	I think we are dong OK.	I think we are dong OK.	143629	1471939431765	1471939431887	o	79
+324	2957	I think we are dong OK.	I think we are dong OK.	143631	1471939431903	1471939432025	k	75
+324	2957	I think we are dong OK.	I think we are dong OK.	143633	1471939432806	1471939432869	BKSP	8
+324	2957	I think we are dong OK.	I think we are dong OK.	143634	1471939432930	1471939432998	BKSP	8
+324	2957	I think we are dong OK.	I think we are dong OK.	143639	1471939433174	1471939433825	SHIFT	16
+324	2957	I think we are dong OK.	I think we are dong OK.	143635	1471939433352	1471939433433	O	79
+324	2957	I think we are dong OK.	I think we are dong OK.	143637	1471939433528	1471939433628	K	75
+324	2957	I think we are dong OK.	I think we are dong OK.	143674	1471939433767	1471939433853	>	190
+324	2957	I think we are dong OK.	I think we are dong OK.	143676	1471939434417	1471939434505	BKSP	8
+324	2957	I think we are dong OK.	I think we are dong OK.	143677	1471939434700	1471939434765	.	190
+324	2968	We had a great time!	We had a great time!	143804	1471939438425	1471939438843	SHIFT	16
+324	2968	We had a great time!	We had a great time!	143807	1471939438796	1471939438893	W	87
+324	2968	We had a great time!	We had a great time!	143812	1471939439057	1471939439134	 	32
+324	2968	We had a great time!	We had a great time!	143817	1471939439117	1471939439216	e	69
+324	2968	We had a great time!	We had a great time!	143822	1471939439751	1471939439822	BKSP	8
+324	2968	We had a great time!	We had a great time!	143825	1471939439883	1471939439984	BKSP	8
+324	2968	We had a great time!	We had a great time!	143827	1471939440039	1471939440197	e	69
+324	2968	We had a great time!	We had a great time!	143828	1471939440255	1471939440348	 	32
+324	2968	We had a great time!	We had a great time!	143867	1471939440450	1471939440542	a	72
+324	2968	We had a great time!	We had a great time!	143868	1471939440689	1471939440774	s	83
+324	2968	We had a great time!	We had a great time!	143869	1471939441076	1471939441161	BKSP	8
+324	2968	We had a great time!	We had a great time!	143871	1471939441170	1471939441253	d	68
+324	2968	We had a great time!	We had a great time!	143873	1471939441344	1471939441431	 	32
+324	2968	We had a great time!	We had a great time!	143921	1471939441463	1471939441589	a	65
+324	2968	We had a great time!	We had a great time!	143924	1471939441610	1471939441748	 	32
+324	2968	We had a great time!	We had a great time!	143927	1471939442208	1471939442285	g	71
+324	2968	We had a great time!	We had a great time!	143929	1471939442361	1471939442450	r	82
+324	2968	We had a great time!	We had a great time!	143930	1471939442580	1471939442663	e	69
+324	2968	We had a great time!	We had a great time!	143952	1471939442905	1471939442980	t	84
+324	2968	We had a great time!	We had a great time!	143953	1471939443108	1471939443203	 	32
+324	2968	We had a great time!	We had a great time!	143955	1471939443207	1471939443314	t	84
+324	2968	We had a great time!	We had a great time!	143958	1471939443323	1471939443399	i	73
+324	2968	We had a great time!	We had a great time!	143963	1471939443520	1471939443657	m	77
+324	2968	We had a great time!	We had a great time!	144120	1471939443646	1471939443741	e	69
+324	2968	We had a great time!	We had a great time!	144122	1471939444254	1471939446122	SHIFT	16
+324	2968	We had a great time!	We had a great time!	144123	1471939446042	1471939446133	!	49
+324	2968	We had a great time!	We had a great time!	144124	1471939446511	1471939446613	ARW_LEFT	37
+324	2968	We had a great time!	We had a great time!	144125	1471939446682	1471939446756	ARW_LEFT	37
+324	2968	We had a great time!	We had a great time!	144126	1471939446833	1471939446897	ARW_LEFT	37
+324	2968	We had a great time!	We had a great time!	144127	1471939446990	1471939447075	ARW_LEFT	37
+324	2968	We had a great time!	We had a great time!	144129	1471939447137	1471939447210	ARW_LEFT	37
+324	2968	We had a great time!	We had a great time!	144132	1471939447304	1471939447369	ARW_LEFT	37
+324	2968	We had a great time!	We had a great time!	144136	1471939447467	1471939447542	ARW_LEFT	37
+324	2968	We had a great time!	We had a great time!	144140	1471939447637	1471939447707	ARW_LEFT	37
+324	2968	We had a great time!	We had a great time!	144144	1471939448222	1471939448370	ARW_RIGHT	39
+324	2968	We had a great time!	We had a great time!	144146	1471939448374	1471939448468	a	65
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144406	1471939458602	1471939458962	SHIFT	16
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144405	1471939458849	1471939458932	B	66
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144407	1471939459312	1471939459389	o	79
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144409	1471939459454	1471939459540	t	84
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144411	1471939459514	1471939459595	h	72
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144413	1471939459751	1471939459890	 	32
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144491	1471939459964	1471939460077	s	83
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144495	1471939460084	1471939460190	u	85
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144498	1471939460217	1471939460315	d	68
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144500	1471939460416	1471939460494	e	69
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144503	1471939460812	1471939460844	INSERT	45
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144509	1471939461109	1471939461200	BKSP	8
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144515	1471939461283	1471939461336	BKSP	8
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144519	1471939461413	1471939461504	BKSP	8
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144522	1471939461914	1471939462002	i	73
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144557	1471939461997	1471939462111	d	68
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144558	1471939462210	1471939462304	e	69
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144560	1471939462327	1471939462479	 	32
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144562	1471939462878	1471939462943	g	71
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144568	1471939463169	1471939463255	=	187
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144572	1471939463455	1471939463549	h	72
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144653	1471939463574	1471939463683	a	65
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144655	1471939463821	1471939463925	d	68
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144657	1471939463944	1471939464044	 	32
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144658	1471939464146	1471939464218	i	73
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144660	1471939464906	1471939464998	BKSP	8
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144661	1471939465069	1471939465141	BKSP	8
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144664	1471939465220	1471939465276	BKSP	8
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144666	1471939465357	1471939465421	BKSP	8
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144668	1471939465505	1471939465564	BKSP	8
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144671	1471939465670	1471939465706	BKSP	8
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144675	1471939465800	1471939465877	BKSP	8
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144677	1471939466350	1471939466421	h	72
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144697	1471939466430	1471939466529	a	65
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144699	1471939466653	1471939466744	d	68
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144701	1471939466738	1471939466832	 	32
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144702	1471939466928	1471939467014	i	73
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144705	1471939467110	1471939467217	n	78
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144729	1471939467510	1471939467604	d	68
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144732	1471939467652	1471939467733	i	73
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144738	1471939467857	1471939467941	c	67
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144742	1471939468113	1471939468220	a	65
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144745	1471939468400	1471939468475	t	84
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144783	1471939468532	1471939468658	e	69
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144784	1471939468968	1471939469048	d	68
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144786	1471939469204	1471939469309	 	32
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144788	1471939469501	1471939469630	i	73
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144789	1471939469755	1471939469863	n	78
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144814	1471939469984	1471939470054	r	82
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144815	1471939470316	1471939470411	BKSP	8
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144816	1471939470448	1471939470532	t	84
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144817	1471939470654	1471939470743	e	69
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144819	1471939470864	1471939470949	r	82
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144821	1471939471100	1471939471201	e	69
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144868	1471939471384	1471939471488	s	83
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144870	1471939471593	1471939471688	t	84
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144873	1471939471853	1471939471938	 	32
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144875	1471939472052	1471939472149	i	73
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144876	1471939472214	1471939472303	n	78
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144949	1471939472335	1471939472476	a	65
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144951	1471939472481	1471939472549	 	32
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144952	1471939473758	1471939473825	BKSP	8
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144954	1471939473913	1471939473994	BKSP	8
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144955	1471939474309	1471939474389	 	32
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	144957	1471939474554	1471939474683	a	65
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145018	1471939474670	1471939474756	 	32
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145020	1471939474882	1471939475011	c	67
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145023	1471939475323	1471939475436	e	69
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145025	1471939475617	1471939475713	s	83
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145026	1471939475785	1471939475871	s	83
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145027	1471939476017	1471939476130	a	65
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145040	1471939476175	1471939476278	t	84
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145041	1471939476491	1471939476580	i	73
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145042	1471939476679	1471939476845	o	79
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145044	1471939476840	1471939476956	n	78
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145047	1471939477068	1471939477140	 	32
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145084	1471939477253	1471939477393	o	79
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145085	1471939477418	1471939477567	g	71
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145087	1471939477609	1471939477728	 	32
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145089	1471939478248	1471939478326	BKSP	8
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145091	1471939478391	1471939478469	BKSP	8
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145093	1471939478496	1471939478621	f	70
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145098	1471939478643	1471939478745	 	32
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145144	1471939479284	1471939479338	o	72
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145145	1471939480015	1471939480141	s	83
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145146	1471939480852	1471939480949	t	84
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145147	1471939480988	1471939481044	u	85
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145223	1471939481435	1471939481526	u	85
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145224	1471939481653	1471939481761	t	84
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145225	1471939481950	1471939481984	BKSP	8
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145227	1471939482084	1471939482156	BKSP	8
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145229	1471939482235	1471939482316	BKSP	8
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145233	1471939482793	1471939482874	i	73
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145238	1471939483009	1471939483088	l	76
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145242	1471939483219	1471939483309	i	73
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145263	1471939483372	1471939483463	t	84
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145267	1471939483450	1471939483576	i	73
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145270	1471939483851	1471939483959	e	69
+324	2975	Both sides had indicated interest in a cessation of hostilities	Both side had indicated interest in a cessation of hostilities	145275	1471939484090	1471939484191	s	83
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145455	1471939490462	1471939490798	SHIFT	16
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145454	1471939490690	1471939490780	T	84
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145457	1471939490917	1471939490973	h	72
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145459	1471939491159	1471939491257	i	73
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145461	1471939491669	1471939491761	s	83
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145464	1471939491782	1471939491864	 	32
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145483	1471939492239	1471939492302	r	82
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145484	1471939492563	1471939492651	BKSP	8
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145485	1471939492686	1471939492776	t	84
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145486	1471939492868	1471939492951	r	82
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145487	1471939493111	1471939493215	a	65
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145488	1471939493375	1471939493465	c	67
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145524	1471939493509	1471939493587	j	74
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145527	1471939493912	1471939494017	BKSP	8
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145530	1471939494176	1471939494256	k	75
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145533	1471939494403	1471939494487	 	32
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145536	1471939494596	1471939494710	s	83
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145539	1471939494820	1471939494892	t	84
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145602	1471939494964	1471939495065	a	65
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145604	1471939495330	1471939495388	b	66
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145606	1471939495496	1471939495588	d	68
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145608	1471939495758	1471939495816	s	83
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145610	1471939496064	1471939496141	BKSP	8
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145615	1471939496219	1471939496263	BKSP	8
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145618	1471939496336	1471939496434	BKSP	8
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145621	1471939496903	1471939496991	n	78
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145653	1471939497011	1471939497095	d	68
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145657	1471939497242	1471939497323	s	83
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145662	1471939497409	1471939497511	 	32
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145667	1471939497766	1471939497867	a	65
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145719	1471939498060	1471939498119	l	75
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145720	1471939498279	1471939498343	o	79
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145722	1471939498889	1471939498955	BKSP	8
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145725	1471939499033	1471939499123	BKSP	8
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145728	1471939499151	1471939499265	BKSP	8
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145731	1471939499967	1471939500046	l	76
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145733	1471939500158	1471939500231	o	79
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145735	1471939500339	1471939500431	n	78
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145736	1471939500495	1471939500571	e	69
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145761	1471939500639	1471939500705	 	32
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145763	1471939500902	1471939500991	a	65
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145765	1471939501161	1471939501200	s	83
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145766	1471939501265	1471939501369	 	32
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145767	1471939501664	1471939501761	i	73
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145780	1471939502182	1471939502247	BKSP	8
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145782	1471939502415	1471939502494	k	75
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145784	1471939502601	1471939502791	i	73
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145785	1471939502750	1471939502872	n	78
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145786	1471939502898	1471939503009	g	71
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145811	1471939503001	1471939503120	 	32
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145813	1471939503225	1471939503376	o	79
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145814	1471939503449	1471939503582	f	70
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145815	1471939503621	1471939503771	 	32
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145816	1471939503877	1471939503980	r	82
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145867	1471939503905	1471939504059	h	72
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145870	1471939504321	1471939504403	BKSP	8
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145873	1471939504456	1471939504537	BKSP	8
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145874	1471939504588	1471939504652	r	82
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145875	1471939504760	1471939504849	t	84
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145876	1471939505108	1471939505172	BKSP	8
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145877	1471939505239	1471939505315	BKSP	8
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145879	1471939505337	1471939505431	t	84
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145881	1471939505470	1471939505571	h	72
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145884	1471939505612	1471939505770	e	69
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145956	1471939505752	1471939505905	 	32
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145958	1471939506555	1471939506664	c	67
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145960	1471939506688	1471939506858	i	73
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145962	1471939506957	1471939507072	r	82
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145964	1471939508055	1471939508155	c	67
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145966	1471939508362	1471939508549	u	85
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145988	1471939508456	1471939508642	i	73
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145989	1471939508690	1471939508790	t	84
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145991	1471939509138	1471939509288	s	83
+324	3002	This track stands alone as king of the circuits.	This track stands alone as king of the circuits.	145993	1471939509516	1471939509616	.	190
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146217	1471939516999	1471939517376	SHIFT	16
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146218	1471939517265	1471939517381	B	66
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146219	1471939517709	1471939517779	u	85
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146220	1471939517807	1471939517912	t	84
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146221	1471939517958	1471939518051	 	32
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146222	1471939518100	1471939518208	t	84
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146274	1471939518178	1471939518395	h	72
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146276	1471939518379	1471939518517	e	69
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146278	1471939518842	1471939518927	 	32
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146282	1471939519428	1471939519540	a	65
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146285	1471939519697	1471939519803	c	67
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146287	1471939519853	1471939519950	t	84
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146341	1471939520184	1471939520265	BKSP	8
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146343	1471939520344	1471939520415	BKSP	8
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146345	1471939520502	1471939520552	BKSP	8
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146348	1471939521002	1471939521099	p	80
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146353	1471939521109	1471939521209	a	65
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146356	1471939521358	1471939521469	c	67
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146360	1471939521442	1471939521560	t	84
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146363	1471939521693	1471939522018	 	32
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146400	1471939522326	1471939522411	h	72
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146402	1471939522446	1471939522552	a	65
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146404	1471939522642	1471939522722	s	83
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146406	1471939522734	1471939522801	 	32
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146408	1471939523049	1471939523261	o	79
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146467	1471939523458	1471939523530	BKSP	8
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146471	1471939523790	1471939523998	b	66
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146474	1471939523953	1471939524028	o	79
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146478	1471939524233	1471939524331	BKSP	8
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146479	1471939524401	1471939524479	BKSP	8
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146482	1471939524627	1471939524826	n	78
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146485	1471939524725	1471939524889	o	79
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146543	1471939524866	1471939524987	t	84
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146545	1471939525110	1471939525286	 	32
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146547	1471939525916	1471939526023	e	69
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146548	1471939526095	1471939526226	n	78
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146550	1471939526305	1471939526375	t	84
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146552	1471939526696	1471939526796	BKSP	8
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146554	1471939527312	1471939527394	t	84
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146576	1471939527422	1471939527503	i	73
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146579	1471939527603	1471939527690	r	82
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146582	1471939527851	1471939527946	e	69
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146586	1471939528102	1471939528233	l	76
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146589	1471939528399	1471939528463	y	89
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146639	1471939528602	1471939528725	 	32
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146640	1471939529150	1471939529244	c	67
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146641	1471939529399	1471939529506	a	65
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146643	1471939529470	1471939529607	l	76
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146644	1471939529686	1471939529818	n	78
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146718	1471939529791	1471939529897	e	69
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146721	1471939530045	1471939530161	s	83
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146725	1471939530173	1471939530285	 	32
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146728	1471939530513	1471939530594	BKSP	8
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146730	1471939530668	1471939530735	BKSP	8
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146733	1471939530812	1471939530861	BKSP	8
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146736	1471939530939	1471939531019	BKSP	8
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146737	1471939531428	1471939531532	m	77
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146738	1471939531527	1471939531615	e	69
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146739	1471939531736	1471939531837	d	68
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146751	1471939531830	1471939531927	 	32
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146752	1471939532012	1471939532181	t	84
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146753	1471939532130	1471939532374	h	72
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146754	1471939532363	1471939532527	 	32
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146755	1471939532418	1471939532551	e	69
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146756	1471939532899	1471939532973	BKSP	8
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146757	1471939533044	1471939533125	BKSP	8
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146758	1471939533157	1471939533293	e	69
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146773	1471939533320	1471939533421	 	32
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146775	1471939533525	1471939533643	n	78
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146776	1471939533631	1471939533723	a	65
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146778	1471939533926	1471939534029	t	84
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146799	1471939533987	1471939534151	i	73
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146802	1471939534121	1471939534351	o	79
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146805	1471939534321	1471939534449	n	78
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146806	1471939535252	1471939535343	'	222
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146807	1471939535378	1471939535467	s	83
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146808	1471939535537	1471939535677	 	32
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146821	1471939535921	1471939536019	n	78
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146824	1471939536073	1471939536170	e	69
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146826	1471939536332	1471939536418	r	82
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146827	1471939536484	1471939536575	v	86
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146829	1471939536614	1471939536723	e	69
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146842	1471939536875	1471939536978	s	83
+324	3016	But the pact has not entirely calmed the nation's nerves.	But the pact has not entirely calmed the nation's nerves.	146844	1471939537092	1471939537213	.	190
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	146941	1471939542611	1471939542813	SHIFT	16
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	146942	1471939542726	1471939542822	T	84
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	146943	1471939542905	1471939543007	h	72
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	146944	1471939543034	1471939543147	e	69
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	146945	1471939543169	1471939543264	 	32
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	146946	1471939543372	1471939543455	i	73
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	146966	1471939543563	1471939543664	m	77
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	146967	1471939544022	1471939544116	f	70
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	146968	1471939544124	1471939544227	o	79
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	146969	1471939544501	1471939544570	BKSP	8
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	146970	1471939544649	1471939544705	BKSP	8
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	146972	1471939544771	1471939544857	BKSP	8
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	146974	1471939545181	1471939545271	n	78
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	146976	1471939545337	1471939545434	f	70
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	146992	1471939545423	1471939545563	o	79
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	146995	1471939545600	1471939545688	r	82
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	146998	1471939545778	1471939545860	m	77
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147000	1471939545920	1471939546044	a	65
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147001	1471939546183	1471939546302	l	76
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147002	1471939546473	1471939546560	 	32
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147055	1471939547077	1471939547190	c	67
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147058	1471939547230	1471939547348	o	79
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147061	1471939547422	1471939547541	s	83
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147063	1471939547683	1471939547763	e	69
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147065	1471939548312	1471939548418	BKSP	8
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147067	1471939548626	1471939548745	t	84
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147124	1471939548820	1471939548856	d	68
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147125	1471939549259	1471939549360	BKSP	8
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147127	1471939549531	1471939549632	s	83
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147129	1471939549647	1471939549784	 	32
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147130	1471939550330	1471939550360	g	71
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147131	1471939550684	1471939550763	BKSP	8
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147133	1471939550948	1471939551044	h	72
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147138	1471939551056	1471939551155	a	65
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147140	1471939551140	1471939551245	v	86
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147142	1471939551286	1471939551388	e	69
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147146	1471939551391	1471939551512	 	32
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147148	1471939551569	1471939551654	t	84
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147150	1471939551633	1471939551754	o	79
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147151	1471939551897	1471939552028	 	32
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147152	1471939552161	1471939552277	s	83
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147155	1471939552365	1471939552482	i	73
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147157	1471939552815	1471939552900	BKSP	8
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147159	1471939552970	1471939553055	BKSP	8
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147161	1471939553078	1471939553179	d	68
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147165	1471939553216	1471939553317	i	73
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147171	1471939553363	1471939553455	s	83
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147172	1471939553520	1471939553601	s	83
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147174	1471939553745	1471939553820	a	65
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147176	1471939554035	1471939554168	p	80
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147178	1471939554316	1471939554408	e	69
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147183	1471939554585	1471939554681	a	65
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147184	1471939554828	1471939554918	r	82
+324	3031	The informal costs have to disappear.	The informal costs have to dissapear/	147186	1471939555131	1471939555230	/	191
+324	3039	Milly is a seller.	Milly is a seller.\	147282	1471939559554	1471939559830	SHIFT	16
+324	3039	Milly is a seller.	Milly is a seller.\	147283	1471939559741	1471939559854	M	77
+324	3039	Milly is a seller.	Milly is a seller.\	147285	1471939559986	1471939560053	i	73
+324	3039	Milly is a seller.	Milly is a seller.\	147287	1471939560174	1471939560236	l	76
+324	3039	Milly is a seller.	Milly is a seller.\	147289	1471939560300	1471939560428	l	76
+324	3039	Milly is a seller.	Milly is a seller.\	147290	1471939560702	1471939560780	y	89
+324	3039	Milly is a seller.	Milly is a seller.\	147311	1471939560885	1471939560981	 	32
+324	3039	Milly is a seller.	Milly is a seller.\	147312	1471939561062	1471939561153	i	73
+324	3039	Milly is a seller.	Milly is a seller.\	147313	1471939561169	1471939561263	s	83
+324	3039	Milly is a seller.	Milly is a seller.\	147314	1471939561296	1471939561376	 	32
+324	3039	Milly is a seller.	Milly is a seller.\	147315	1471939561390	1471939561489	a	65
+324	3039	Milly is a seller.	Milly is a seller.\	147316	1471939561536	1471939561641	 	32
+324	3039	Milly is a seller.	Milly is a seller.\	147317	1471939561648	1471939561781	s	83
+324	3039	Milly is a seller.	Milly is a seller.\	147319	1471939562144	1471939562225	e	69
+324	3039	Milly is a seller.	Milly is a seller.\	147321	1471939562485	1471939562552	l	76
+324	3039	Milly is a seller.	Milly is a seller.\	147323	1471939562613	1471939562708	l	76
+324	3039	Milly is a seller.	Milly is a seller.\	147349	1471939562678	1471939562793	e	69
+324	3039	Milly is a seller.	Milly is a seller.\	147352	1471939563025	1471939563163	r	82
+324	3039	Milly is a seller.	Milly is a seller.\	147354	1471939563668	1471939563753	.	190
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147509	1471939572117	1471939572336	SHIFT	16
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147510	1471939572268	1471939572386	T	84
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147511	1471939572523	1471939572594	h	72
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147512	1471939572605	1471939572741	e	69
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147513	1471939572746	1471939572862	 	32
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147515	1471939573192	1471939573286	q	81
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147524	1471939573458	1471939573539	u	85
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147525	1471939573576	1471939573669	a	65
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147526	1471939573782	1471939573895	l	76
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147527	1471939574071	1471939574155	i	73
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147528	1471939574346	1471939574437	f	70
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147575	1471939574572	1471939574646	y	89
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147577	1471939574948	1471939575061	n	78
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147579	1471939575095	1471939575183	g	71
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147582	1471939575227	1471939575353	 	32
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147585	1471939575680	1471939575760	BKSP	8
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147588	1471939575824	1471939575891	BKSP	8
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147590	1471939575983	1471939576012	BKSP	8
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147592	1471939576098	1471939576134	BKSP	8
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147594	1471939577830	1471939577917	y	89
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147601	1471939577923	1471939578031	i	73
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147602	1471939578097	1471939578221	n	78
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147603	1471939578242	1471939578393	g	71
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147604	1471939578387	1471939578504	 	32
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147605	1471939578863	1471939578952	c	67
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147633	1471939578923	1471939579014	o	79
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147635	1471939579114	1471939579256	n	78
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147637	1471939579273	1471939579368	t	84
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147639	1471939579394	1471939579517	i	73
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147641	1471939580014	1471939580132	n	78
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147645	1471939580342	1471939580426	u	85
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147668	1471939580474	1471939580568	e	69
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147669	1471939580720	1471939580820	s	83
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147670	1471939580922	1471939581040	 	32
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147671	1471939581189	1471939581283	i	73
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147672	1471939581425	1471939581469	n	78
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147706	1471939581839	1471939581910	BKSP	8
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147708	1471939581980	1471939582063	BKSP	8
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147710	1471939582304	1471939582381	o	79
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147712	1471939582549	1471939582603	n	78
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147713	1471939582746	1471939582855	 	32
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147714	1471939582866	1471939582956	t	84
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147715	1471939582975	1471939583133	h	72
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147737	1471939583142	1471939583245	e	69
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147739	1471939583340	1471939583438	 	32
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147740	1471939583795	1471939583875	w	87
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147742	1471939584031	1471939584123	e	69
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147744	1471939584297	1471939584398	s	83
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147770	1471939584441	1471939584517	t	84
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147772	1471939584658	1471939584759	 	32
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147774	1471939585154	1471939585269	s	83
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147776	1471939585293	1471939585393	i	73
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147778	1471939585462	1471939585567	d	68
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147794	1471939585679	1471939585779	e	69
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147796	1471939585767	1471939585910	 	32
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147799	1471939586014	1471939586158	o	79
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147801	1471939586151	1471939586245	f	70
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147853	1471939586315	1471939586574	 	32
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147803	1471939586409	1471939586528	t	84
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147854	1471939587076	1471939587279	o	79
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147856	1471939587744	1471939587843	w	87
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147857	1471939587790	1471939587928	n	78
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147859	1471939588503	1471939588566	/	191
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147860	1471939588959	1471939589059	BKSP	8
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147862	1471939589252	1471939589332	,	188
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147868	1471939589841	1471939589942	BKSP	8
+324	3043	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	147869	1471939590097	1471939590185	.	190
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	147989	1471939596051	1471939596263	SHIFT	16
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	147991	1471939596211	1471939596305	W	87
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	147993	1471939596414	1471939596498	e	69
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	147995	1471939596558	1471939596643	 	32
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	147997	1471939597158	1471939597249	d	68
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	147998	1471939597280	1471939597357	o	79
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148032	1471939597482	1471939597576	n	78
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148034	1471939598363	1471939598434	'	222
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148036	1471939598473	1471939598568	t	84
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148038	1471939598616	1471939598744	 	32
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148039	1471939599278	1471939599364	h	72
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148051	1471939599401	1471939599488	a	65
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148053	1471939599530	1471939599640	v	86
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148055	1471939599676	1471939599775	e	69
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148057	1471939599822	1471939599924	 	32
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148059	1471939600319	1471939600441	a	65
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148085	1471939600438	1471939600550	n	78
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148086	1471939600686	1471939600767	y	89
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148087	1471939600933	1471939601018	 	32
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148088	1471939601083	1471939601208	a	65
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148090	1471939601228	1471939601335	b	66
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148092	1471939601557	1471939601588	o	79
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148124	1471939602310	1471939602390	BKSP	8
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148125	1471939602557	1471939602610	i	73
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148126	1471939602755	1471939602835	l	76
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148127	1471939602971	1471939603051	i	73
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148128	1471939603518	1471939603603	t	84
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148129	1471939603696	1471939603797	y	89
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148170	1471939603955	1471939604043	 	32
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148173	1471939604533	1471939604609	t	84
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148174	1471939604703	1471939604784	i	73
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148175	1471939604984	1471939605075	 	32
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148176	1471939605175	1471939605268	v	86
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148230	1471939605287	1471939605390	e	69
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148231	1471939606024	1471939606059	BKSP	8
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148232	1471939606164	1471939606235	BKSP	8
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148233	1471939606332	1471939606366	BKSP	8
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148234	1471939606483	1471939606571	BKSP	8
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148236	1471939607041	1471939607110	o	79
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148238	1471939607263	1471939607348	 	32
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148240	1471939607642	1471939607713	v	86
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148242	1471939607732	1471939607828	e	69
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148294	1471939607998	1471939608087	t	84
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148297	1471939608124	1471939608245	o	79
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148299	1471939608423	1471939608519	 	32
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148300	1471939608920	1471939609017	t	84
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148301	1471939609033	1471939609148	h	72
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148337	1471939609246	1471939609329	e	69
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148340	1471939609495	1471939609627	i	73
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148344	1471939609647	1471939609742	r	82
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148351	1471939609859	1471939609994	 	32
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148358	1471939610373	1471939610471	d	68
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148383	1471939610584	1471939610682	e	69
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148385	1471939610864	1471939610968	c	67
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148387	1471939610995	1471939611086	i	73
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148389	1471939611155	1471939611233	c	67
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148391	1471939611718	1471939611814	BKSP	8
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148392	1471939611836	1471939611925	s	83
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148436	1471939611975	1471939612129	i	73
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148437	1471939612114	1471939612282	o	79
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148438	1471939612697	1471939612745	n	78
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148439	1471939612841	1471939612946	s	83
+324	3054	We don't have any ability to veto their decisions.	We don't have any ability to veto their decisions.	148440	1471939613255	1471939613387	.	190
+324	3066	No obligation to pay.	No obligation to pay.	148598	1471939617841	1471939618167	SHIFT	16
+324	3066	No obligation to pay.	No obligation to pay.	148601	1471939618082	1471939618172	N	78
+324	3066	No obligation to pay.	No obligation to pay.	148604	1471939618452	1471939618508	o	79
+324	3066	No obligation to pay.	No obligation to pay.	148606	1471939618762	1471939618847	 	32
+324	3066	No obligation to pay.	No obligation to pay.	148608	1471939619216	1471939619306	o	79
+324	3066	No obligation to pay.	No obligation to pay.	148610	1471939619545	1471939619628	b	66
+324	3066	No obligation to pay.	No obligation to pay.	148659	1471939619620	1471939619720	l	76
+324	3066	No obligation to pay.	No obligation to pay.	148660	1471939620139	1471939620206	BKSP	8
+324	3066	No obligation to pay.	No obligation to pay.	148662	1471939620379	1471939620445	i	73
+324	3066	No obligation to pay.	No obligation to pay.	148666	1471939621248	1471939621324	BKSP	8
+324	3066	No obligation to pay.	No obligation to pay.	148669	1471939621482	1471939621575	l	76
+324	3066	No obligation to pay.	No obligation to pay.	148673	1471939621719	1471939621795	i	73
+324	3066	No obligation to pay.	No obligation to pay.	148675	1471939622003	1471939622097	g	71
+324	3066	No obligation to pay.	No obligation to pay.	148692	1471939622091	1471939622172	a	65
+324	3066	No obligation to pay.	No obligation to pay.	148693	1471939622351	1471939622458	t	84
+324	3066	No obligation to pay.	No obligation to pay.	148695	1471939622466	1471939622597	i	73
+324	3066	No obligation to pay.	No obligation to pay.	148697	1471939622539	1471939622781	o	79
+324	3066	No obligation to pay.	No obligation to pay.	148699	1471939622773	1471939622829	n	78
+324	3066	No obligation to pay.	No obligation to pay.	148701	1471939622938	1471939623029	 	32
+324	3066	No obligation to pay.	No obligation to pay.	148708	1471939623110	1471939623224	t	84
+324	3066	No obligation to pay.	No obligation to pay.	148709	1471939623230	1471939623370	o	79
+324	3066	No obligation to pay.	No obligation to pay.	148711	1471939623491	1471939623586	 	32
+324	3066	No obligation to pay.	No obligation to pay.	148714	1471939623731	1471939623852	p	80
+324	3066	No obligation to pay.	No obligation to pay.	148718	1471939623861	1471939623980	a	65
+324	3066	No obligation to pay.	No obligation to pay.	148735	1471939624117	1471939624203	y	89
+324	3066	No obligation to pay.	No obligation to pay.	148736	1471939624772	1471939624834	.	190
+324	3073	We could do it at my house.	We could do it at my house.	148848	1471939629518	1471939629658	SHIFT	16
+324	3073	We could do it at my house.	We could do it at my house.	148850	1471939629606	1471939629695	W	87
+324	3073	We could do it at my house.	We could do it at my house.	148852	1471939629788	1471939629856	e	69
+324	3073	We could do it at my house.	We could do it at my house.	148854	1471939629887	1471939629997	 	32
+324	3073	We could do it at my house.	We could do it at my house.	148856	1471939630011	1471939630135	c	67
+324	3073	We could do it at my house.	We could do it at my house.	148858	1471939630152	1471939630358	o	79
+324	3073	We could do it at my house.	We could do it at my house.	148870	1471939630295	1471939630401	u	85
+324	3073	We could do it at my house.	We could do it at my house.	148873	1471939630524	1471939630651	l	76
+324	3073	We could do it at my house.	We could do it at my house.	148876	1471939630659	1471939630759	d	68
+324	3073	We could do it at my house.	We could do it at my house.	148879	1471939630794	1471939630912	 	32
+324	3073	We could do it at my house.	We could do it at my house.	148883	1471939630982	1471939631106	d	68
+324	3073	We could do it at my house.	We could do it at my house.	148896	1471939631094	1471939631193	o	79
+324	3073	We could do it at my house.	We could do it at my house.	148898	1471939631326	1471939631400	 	32
+324	3073	We could do it at my house.	We could do it at my house.	148900	1471939631497	1471939631581	i	73
+324	3073	We could do it at my house.	We could do it at my house.	148902	1471939631613	1471939631703	t	84
+324	3073	We could do it at my house.	We could do it at my house.	148904	1471939631720	1471939631857	 	32
+324	3073	We could do it at my house.	We could do it at my house.	148905	1471939631949	1471939632073	a	65
+324	3073	We could do it at my house.	We could do it at my house.	148930	1471939632204	1471939632263	t	84
+324	3073	We could do it at my house.	We could do it at my house.	148933	1471939632402	1471939632492	 	32
+324	3073	We could do it at my house.	We could do it at my house.	148936	1471939632697	1471939632804	m	77
+324	3073	We could do it at my house.	We could do it at my house.	148939	1471939632983	1471939633052	y	89
+324	3073	We could do it at my house.	We could do it at my house.	148940	1471939633257	1471939633348	 	32
+324	3073	We could do it at my house.	We could do it at my house.	148958	1471939633572	1471939633732	h	72
+324	3073	We could do it at my house.	We could do it at my house.	148961	1471939633674	1471939633887	o	79
+324	3073	We could do it at my house.	We could do it at my house.	148964	1471939633866	1471939633968	u	85
+324	3073	We could do it at my house.	We could do it at my house.	148967	1471939634042	1471939634119	s	83
+324	3073	We could do it at my house.	We could do it at my house.	148970	1471939634270	1471939634357	e	69
+324	3073	We could do it at my house.	We could do it at my house.	148973	1471939634415	1471939634526	.	190

@@ -1,0 +1,635 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	302990	1471943836951	1471943837164	SHIFT	16
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	302992	1471943837075	1471943837232	W	87
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	302994	1471943837165	1471943837299	e	69
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	302995	1471943837322	1471943837446	 	32
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	302996	1471943837401	1471943837547	a	65
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303025	1471943837513	1471943837626	r	82
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303028	1471943837592	1471943837738	e	69
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303032	1471943837705	1471943837817	 	32
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303035	1471943837896	1471943838031	w	87
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303037	1471943837963	1471943838064	a	65
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303039	1471943838087	1471943838155	i	73
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303096	1471943838143	1471943838245	t	84
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303098	1471943838245	1471943838346	i	73
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303101	1471943838323	1471943838458	n	78
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303104	1471943838380	1471943838481	g	71
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303108	1471943838492	1471943838616	 	32
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303112	1471943838638	1471943838717	o	79
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303076	1471943838751	1471943838852	n	78
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303079	1471943838830	1471943838931	 	32
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303083	1471943838875	1471943838976	t	84
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303086	1471943838953	1471943839066	h	72
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303106	1471943839032	1471943839122	e	69
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303110	1471943839088	1471943839156	 	32
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303114	1471943839223	1471943839302	c	67
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303117	1471943839280	1471943839336	o	79
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303119	1471943839426	1471943839516	l	76
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303121	1471943839527	1471943839628	d	68
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303123	1471943839640	1471943839730	 	32
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303126	1471943839696	1471943839808	f	70
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303129	1471943839752	1471943839865	r	82
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303131	1471943839831	1471943839909	o	79
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303134	1471943839899	1471943840000	n	78
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303136	1471943839977	1471943840067	t	84
+645	6324	We are waiting on the cold front.	We are waiting on the cold front.	303139	1471943840101	1471943840168	.	190
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303280	1471943842722	1471943842925	SHIFT	16
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303281	1471943842869	1471943842958	B	66
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303283	1471943842970	1471943843048	o	79
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303284	1471943843060	1471943843138	b	66
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303286	1471943843172	1471943843262	,	188
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303287	1471943843296	1471943843397	 	32
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303348	1471943843420	1471943843588	SHIFT	16
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303352	1471943843499	1471943843600	I	73
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303359	1471943843690	1471943843746	;	186
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303363	1471943843848	1471943843892	l	76
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303366	1471943843994	1471943844027	l	76
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303368	1471943844320	1471943844376	BKSP	8
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303370	1471943844466	1471943844511	BKSP	8
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303372	1471943844590	1471943844657	BKSP	8
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303374	1471943844781	1471943844849	'	222
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303388	1471943844973	1471943845040	l	75
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303390	1471943845164	1471943845231	l	76
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303393	1471943845434	1471943845490	=	187
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303397	1471943845569	1471943845625	=	187
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303514	1471943845704	1471943845771	=	187
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303510	1471943845715	1471943845760	BKSP	8
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303519	1471943846278	1471943846311	BKSP	8
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303523	1471943846401	1471943846446	BKSP	8
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303526	1471943846548	1471943846593	BKSP	8
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303530	1471943846694	1471943846750	BKSP	8
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303533	1471943847200	1471943847256	BKSP	8
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303536	1471943847437	1471943847493	l	76
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303540	1471943847572	1471943847627	l	76
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303545	1471943847639	1471943847763	 	32
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303552	1471943847673	1471943847785	t	84
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303557	1471943847752	1471943847853	a	65
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303554	1471943847775	1471943847841	k	75
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303560	1471943847875	1471943848010	e	69
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303563	1471943847965	1471943848077	 	32
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303566	1471943848145	1471943848336	SHIFT	16
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303569	1471943848258	1471943848381	D	68
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303572	1471943848415	1471943848516	e	69
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303586	1471943848584	1471943848608	v	86
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303588	1471943848674	1471943848764	n	78
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303592	1471943848922	1471943848978	BKSP	8
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303597	1471943849023	1471943849090	BKSP	8
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303600	1471943849158	1471943849270	n	78
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303618	1471943849192	1471943849316	v	86
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303621	1471943849248	1471943849360	e	69
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303624	1471943849316	1471943849428	r	82
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303626	1471943849417	1471943849529	 	32
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303630	1471943849495	1471943849596	t	84
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303635	1471943849585	1471943849664	o	79
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303639	1471943849675	1471943849776	 	32
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303766	1471943849754	1471943849788	SHIFT	16
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303769	1471943849990	1471943850227	SHIFT	16
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303773	1471943850249	1471943850350	w	87
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303778	1471943850407	1471943850474	i	73
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303784	1471943850531	1471943850620	n	78
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303790	1471943850890	1471943850913	BKSP	8
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303795	1471943850992	1471943851059	BKSP	8
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303797	1471943851127	1471943851217	BKSP	8
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303802	1471943851228	1471943851340	SHIFT	16
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303803	1471943851284	1471943851396	W	87
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303713	1471943851386	1471943851464	i	73
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303717	1471943851543	1471943851588	n	78
+645	6333	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win.	303721	1471943851746	1471943851813	.	190
+645	6345	Will it be delivered?	Will it be delivered?	303912	1471943854806	1471943854952	SHIFT	16
+645	6345	Will it be delivered?	Will it be delivered?	303916	1471943854912	1471943855031	W	87
+645	6345	Will it be delivered?	Will it be delivered?	303920	1471943854975	1471943855053	i	73
+645	6345	Will it be delivered?	Will it be delivered?	303924	1471943855143	1471943855188	l	76
+645	6345	Will it be delivered?	Will it be delivered?	303930	1471943855256	1471943855323	l	76
+645	6345	Will it be delivered?	Will it be delivered?	303934	1471943855324	1471943855402	 	32
+645	6345	Will it be delivered?	Will it be delivered?	303939	1471943855413	1471943855503	i	73
+645	6345	Will it be delivered?	Will it be delivered?	303942	1471943855481	1471943855537	t	84
+645	6345	Will it be delivered?	Will it be delivered?	303946	1471943855548	1471943855672	 	32
+645	6345	Will it be delivered?	Will it be delivered?	303947	1471943855650	1471943855740	b	66
+645	6345	Will it be delivered?	Will it be delivered?	303964	1471943855717	1471943855818	e	69
+645	6345	Will it be delivered?	Will it be delivered?	303965	1471943855819	1471943855908	 	32
+645	6345	Will it be delivered?	Will it be delivered?	303966	1471943855886	1471943855964	d	68
+645	6345	Will it be delivered?	Will it be delivered?	303967	1471943856032	1471943856133	e	69
+645	6345	Will it be delivered?	Will it be delivered?	303968	1471943856122	1471943856189	l	76
+645	6345	Will it be delivered?	Will it be delivered?	303969	1471943856246	1471943856359	i	73
+645	6345	Will it be delivered?	Will it be delivered?	303994	1471943856280	1471943856381	v	86
+645	6345	Will it be delivered?	Will it be delivered?	303998	1471943856359	1471943856461	e	69
+645	6345	Will it be delivered?	Will it be delivered?	304002	1471943856448	1471943856572	r	82
+645	6345	Will it be delivered?	Will it be delivered?	304008	1471943856538	1471943856628	e	69
+645	6345	Will it be delivered?	Will it be delivered?	304015	1471943856685	1471943856797	d	68
+645	6345	Will it be delivered?	Will it be delivered?	304020	1471943856774	1471943856898	SHIFT	16
+645	6345	Will it be delivered?	Will it be delivered?	304025	1471943856831	1471943856932	?	191
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304159	1471943859902	1471943860093	SHIFT	16
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304164	1471943860015	1471943860172	W	87
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304167	1471943860094	1471943860229	e	69
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304171	1471943860262	1471943860375	 	32
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304173	1471943860330	1471943860453	a	65
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304182	1471943860409	1471943860532	r	82
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304186	1471943860476	1471943860600	e	69
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304188	1471943860577	1471943860667	 	32
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304190	1471943860622	1471943860747	a	65
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304192	1471943860724	1471943860780	l	76
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304193	1471943860848	1471943860937	l	76
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304202	1471943860904	1471943860994	 	32
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304204	1471943860949	1471943861061	d	68
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304206	1471943861027	1471943861140	o	79
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304207	1471943861084	1471943861162	i	73
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304208	1471943861230	1471943861331	n	78
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304213	1471943861275	1471943861376	g	71
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304215	1471943861354	1471943861477	 	32
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304219	1471943861455	1471943861579	r	82
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304223	1471943861489	1471943861590	e	69
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304225	1471943861568	1471943861714	a	65
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304286	1471943861646	1471943861747	s	83
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304287	1471943861736	1471943861804	o	79
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304289	1471943861826	1471943861939	n	78
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304291	1471943861894	1471943861984	a	65
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304295	1471943862006	1471943862097	b	66
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304255	1471943862074	1471943862175	l	76
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304257	1471943862186	1471943862265	y	89
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304261	1471943862254	1471943862377	 	32
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304267	1471943862333	1471943862434	w	87
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304273	1471943862366	1471943862479	e	69
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304292	1471943862445	1471943862501	l	76
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304294	1471943862569	1471943862625	l	76
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304297	1471943862726	1471943862782	,	188
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304300	1471943862828	1471943862918	 	32
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304303	1471943862872	1471943863030	SHIFT	16
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304301	1471943862963	1471943863019	I	73
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304304	1471943863053	1471943863120	 	32
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304314	1471943863098	1471943863187	t	84
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304316	1471943863176	1471943863266	h	72
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304318	1471943863221	1471943863300	i	73
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304320	1471943863345	1471943863446	n	78
+645	6349	We are all doing reasonably well, I think.	We are all doing reasonably well, I think	304323	1471943863390	1471943863469	k	75
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304508	1471943866698	1471943866968	SHIFT	16
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304513	1471943866889	1471943866995	I	73
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304517	1471943867024	1471943867137	t	84
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304518	1471943867452	1471943867542	'	222
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304520	1471943867553	1471943867643	s	83
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304522	1471943867643	1471943867744	 	32
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304529	1471943867722	1471943867755	i	73
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304533	1471943867767	1471943867846	t	84
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304537	1471943867846	1471943867902	o	79
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304541	1471943867969	1471943868048	o	79
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304545	1471943868048	1471943868138	 	32
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304547	1471943868149	1471943868194	i	73
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304583	1471943868273	1471943868340	BKSP	8
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304585	1471943868419	1471943868487	BKSP	8
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304587	1471943868554	1471943868622	BKSP	8
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304589	1471943868700	1471943868757	BKSP	8
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304591	1471943868847	1471943868892	BKSP	8
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304593	1471943868971	1471943869072	BKSP	8
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304596	1471943869094	1471943869207	t	84
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304600	1471943869162	1471943869229	o	79
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304608	1471943869308	1471943869364	o	79
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304614	1471943869365	1471943869477	 	32
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304629	1471943869443	1471943869488	i	73
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304631	1471943869612	1471943869713	v	86
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304634	1471943869916	1471943869983	BKSP	8
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304637	1471943870096	1471943870185	n	78
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304640	1471943870197	1471943870264	o	79
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304643	1471943870287	1471943870365	v	86
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304647	1471943870388	1471943870489	l	76
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304690	1471943870737	1471943870793	BKSP	8
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304692	1471943870894	1471943870962	BKSP	8
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304694	1471943871063	1471943871131	BKSP	8
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304697	1471943871164	1471943871232	v	86
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304700	1471943871243	1471943871299	o	79
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304703	1471943871367	1471943871468	l	76
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304707	1471943871446	1471943871569	v	86
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304744	1471943871513	1471943871637	e	69
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304746	1471943871873	1471943871952	d	68
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304748	1471943872008	1471943872109	 	32
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304753	1471943872290	1471943872447	o	79
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304758	1471943872402	1471943872503	u	85
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304769	1471943872458	1471943872559	t	84
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304771	1471943872571	1471943872627	 	32
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304773	1471943872638	1471943872739	h	72
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304777	1471943872728	1471943872818	e	69
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304780	1471943872852	1471943872953	r	82
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304795	1471943872920	1471943873054	e	69
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304797	1471943873021	1471943873111	 	32
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304798	1471943873122	1471943873201	o	79
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304799	1471943873212	1471943873302	n	78
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304800	1471943873257	1471943873370	 	32
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304801	1471943873358	1471943873538	SHIFT	16
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304830	1471943873482	1471943873673	S	83
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304832	1471943873628	1471943873752	a	65
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304834	1471943873718	1471943873831	t	84
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304836	1471943873842	1471943873943	u	85
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304837	1471943873932	1471943874011	r	82
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304838	1471943874045	1471943874169	d	68
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304848	1471943874146	1471943874270	a	65
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304852	1471943874236	1471943874315	y	89
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304854	1471943874326	1471943874461	 	32
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304857	1471943874416	1471943874518	w	87
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304859	1471943874495	1471943874585	i	73
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304866	1471943874574	1471943874675	t	84
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304869	1471943874664	1471943874753	h	72
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304873	1471943874742	1471943874900	 	32
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304878	1471943874866	1471943874967	e	69
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304882	1471943874978	1471943875068	v	86
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304898	1471943875057	1471943875170	e	69
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304902	1471943875114	1471943875226	r	82
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304906	1471943875181	1471943875259	y	89
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304910	1471943875350	1471943875440	b	66
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304913	1471943875552	1471943875597	BKSP	8
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304914	1471943875676	1471943875755	BKSP	8
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304915	1471943876070	1471943876160	r	82
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304916	1471943876295	1471943876373	BKSP	8
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304923	1471943876351	1471943876419	y	89
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304926	1471943876497	1471943876576	b	66
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304928	1471943876576	1471943876677	o	79
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304930	1471943876666	1471943876801	d	68
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304934	1471943876734	1471943876835	y	89
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304968	1471943876824	1471943876936	 	32
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304971	1471943876959	1471943877071	s	83
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304975	1471943877206	1471943877262	BKSP	8
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304979	1471943877274	1471943877352	q	81
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304982	1471943877386	1471943877465	u	85
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304983	1471943877431	1471943877555	a	65
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304984	1471943877566	1471943877622	l	76
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304985	1471943877690	1471943877791	i	73
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304986	1471943877758	1471943877825	f	70
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304987	1471943877915	1471943878006	y	89
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304988	1471943878005	1471943878095	i	73
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304994	1471943878050	1471943878140	n	78
+645	6356	It's too involved out here on Saturday with everybody qualifying.	It's too involved out here on Saturday with everybody qualifying	304996	1471943878129	1471943878230	g	71
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305151	1471943880840	1471943881054	SHIFT	16
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305154	1471943881020	1471943881110	B	66
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305155	1471943881121	1471943881234	e	69
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305156	1471943881212	1471943881313	n	78
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305157	1471943881290	1471943881369	 	32
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305158	1471943881403	1471943881515	c	67
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305172	1471943881448	1471943881571	o	79
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305174	1471943881527	1471943881639	u	85
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305180	1471943881661	1471943881807	l	76
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305177	1471943881729	1471943881785	d	68
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305182	1471943881819	1471943881909	t	32
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305189	1471943881898	1471943882010	e	69
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305187	1471943881954	1471943881999	l	76
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305195	1471943882067	1471943882134	l	76
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305198	1471943882123	1471943882246	 	32
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305201	1471943882190	1471943882280	h	72
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305261	1471943882269	1471943882371	i	73
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305263	1471943882348	1471943882471	s	83
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305267	1471943882427	1471943882539	 	32
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305273	1471943882652	1471943882730	b	66
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305275	1471943882719	1471943882843	a	65
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305282	1471943882944	1471943883011	BKSP	8
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305288	1471943883090	1471943883180	BKSP	8
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305293	1471943883563	1471943883619	BKSP	8
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305303	1471943883698	1471943883765	BKSP	8
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305308	1471943883912	1471943884024	m	77
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305296	1471943883990	1471943884148	 	32
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305301	1471943884081	1471943884215	a	65
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305309	1471943884159	1471943884249	b	66
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305314	1471943884227	1471943884384	o	79
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305349	1471943884260	1471943884406	u	85
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305351	1471943884373	1471943884496	t	84
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305353	1471943884440	1471943884569	 	32
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305358	1471943884553	1471943884744	SHIFT	16
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305356	1471943884643	1471943884710	P	80
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305360	1471943884789	1471943884868	o	79
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305364	1471943884981	1471943885059	m	77
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305366	1471943885104	1471943885183	p	80
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305392	1471943885228	1471943885329	a	65
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305395	1471943885273	1471943885408	n	78
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305399	1471943885386	1471943885498	o	79
+645	6368	Ben could tell him about Pompano.	Ben could tell him about Pompano.	305402	1471943885622	1471943885689	.	190
+645	6372	It reads like she is in.	It reads like she is in.	305555	1471943888412	1471943888558	SHIFT	16
+645	6372	It reads like she is in.	It reads like she is in.	305557	1471943888502	1471943888592	I	73
+645	6372	It reads like she is in.	It reads like she is in.	305558	1471943888570	1471943888682	t	84
+645	6372	It reads like she is in.	It reads like she is in.	305559	1471943888750	1471943888862	 	32
+645	6372	It reads like she is in.	It reads like she is in.	305560	1471943888963	1471943889087	r	82
+645	6372	It reads like she is in.	It reads like she is in.	305569	1471943889008	1471943889121	e	69
+645	6372	It reads like she is in.	It reads like she is in.	305573	1471943889065	1471943889188	a	65
+645	6372	It reads like she is in.	It reads like she is in.	305583	1471943889290	1471943889413	d	68
+645	6372	It reads like she is in.	It reads like she is in.	305588	1471943889380	1471943889481	s	83
+645	6372	It reads like she is in.	It reads like she is in.	305594	1471943889515	1471943889638	 	32
+645	6372	It reads like she is in.	It reads like she is in.	305600	1471943889582	1471943889661	l	76
+645	6372	It reads like she is in.	It reads like she is in.	305604	1471943889751	1471943889818	i	73
+645	6372	It reads like she is in.	It reads like she is in.	305561	1471943889886	1471943889976	k	75
+645	6372	It reads like she is in.	It reads like she is in.	305562	1471943889942	1471943890032	e	69
+645	6372	It reads like she is in.	It reads like she is in.	305563	1471943890021	1471943890111	 	32
+645	6372	It reads like she is in.	It reads like she is in.	305564	1471943890088	1471943890178	s	83
+645	6372	It reads like she is in.	It reads like she is in.	305574	1471943890133	1471943890234	h	72
+645	6372	It reads like she is in.	It reads like she is in.	305580	1471943890246	1471943890347	e	69
+645	6372	It reads like she is in.	It reads like she is in.	305586	1471943890336	1471943890415	 	32
+645	6372	It reads like she is in.	It reads like she is in.	305593	1471943890437	1471943890516	i	73
+645	6372	It reads like she is in.	It reads like she is in.	305598	1471943890482	1471943890583	s	83
+645	6372	It reads like she is in.	It reads like she is in.	305613	1471943890572	1471943890674	 	32
+645	6372	It reads like she is in.	It reads like she is in.	305614	1471943890651	1471943890718	i	73
+645	6372	It reads like she is in.	It reads like she is in.	305615	1471943890696	1471943890786	n	78
+645	6372	It reads like she is in.	It reads like she is in.	305618	1471943890910	1471943890966	.	190
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305734	1471943893700	1471943893981	SHIFT	16
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305737	1471943893880	1471943893996	M	77
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305739	1471943894015	1471943894138	e	69
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305743	1471943894217	1471943894307	g	71
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305747	1471943894262	1471943894364	a	65
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305764	1471943894341	1471943894397	n	78
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305766	1471943894521	1471943894588	,	188
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305769	1471943894634	1471943894724	 	32
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305771	1471943894679	1471943894802	w	87
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305773	1471943894735	1471943894870	e	69
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305779	1471943894825	1471943894926	 	32
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305782	1471943894937	1471943895027	o	79
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305788	1471943895039	1471943895162	n	78
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305796	1471943895095	1471943895230	l	76
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305805	1471943895174	1471943895263	y	89
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305819	1471943895252	1471943895365	 	32
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305821	1471943895354	1471943895444	b	66
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305824	1471943895388	1471943895511	o	79
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305828	1471943895421	1471943895522	u	85
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305832	1471943895556	1471943895635	g	71
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305838	1471943895601	1471943895691	h	72
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305839	1471943895714	1471943895815	t	84
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305840	1471943895793	1471943895916	 	32
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305842	1471943895894	1471943896006	t	84
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305865	1471943895950	1471943896063	h	72
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305867	1471943895995	1471943896096	i	73
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305869	1471943896052	1471943896164	s	83
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305871	1471943896141	1471943896242	 	32
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305873	1471943896265	1471943896343	o	79
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305875	1471943896400	1471943896490	n	78
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305877	1471943896501	1471943896591	 	32
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305881	1471943896535	1471943896951	SHIFT	16
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305879	1471943896636	1471943896692	K	75
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305880	1471943896783	1471943896884	N	78
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305882	1471943896940	1471943897041	 	32
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305883	1471943897053	1471943897131	f	70
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305885	1471943897143	1471943897232	o	79
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305900	1471943897222	1471943897278	r	82
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305907	1471943897300	1471943897401	 	32
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305914	1471943897368	1471943897459	t	84
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305919	1471943897446	1471943897514	h	72
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305922	1471943897525	1471943897615	e	69
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305925	1471943897626	1471943897727	 	32
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305941	1471943897694	1471943897784	3	51
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305944	1471943897773	1471943897874	0	48
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305948	1471943897885	1471943897997	t	84
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305950	1471943897975	1471943898042	h	72
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305952	1471943898167	1471943898211	,	188
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	305954	1471943898684	1471943898740	=	187
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	306002	1471943898864	1471943898965	,	188
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	306004	1471943899123	1471943899168	BKSP	8
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	306007	1471943899246	1471943899303	BKSP	8
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	306010	1471943899449	1471943899461	BKSP	8
+645	6378	Megan, we only bought this on KN for the 30th.	Megan, we only bought this on KN for the 30th.	306013	1471943899899	1471943899978	.	190
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306098	1471943902712	1471943902903	SHIFT	16
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306101	1471943902813	1471943902914	I	73
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306106	1471943902982	1471943903095	f	70
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306109	1471943903083	1471943903196	 	32
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306115	1471943903184	1471943903263	i	73
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306131	1471943903229	1471943903342	t	84
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306132	1471943903331	1471943903420	 	32
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306133	1471943903432	1471943903511	n	78
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306134	1471943903477	1471943903567	e	69
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306135	1471943903612	1471943903690	e	69
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306138	1471943903803	1471943903915	d	68
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306149	1471943903871	1471943903960	s	83
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306150	1471943903961	1471943904073	 	32
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306152	1471943904028	1471943904118	t	84
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306155	1471943904129	1471943904219	o	79
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306157	1471943904186	1471943904298	 	32
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306175	1471943904253	1471943904343	b	66
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306176	1471943904276	1471943904377	e	69
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306177	1471943904411	1471943904500	 	32
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306178	1471943904489	1471943904579	p	80
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306179	1471943904568	1471943904658	a	65
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306180	1471943904669	1471943904726	i	73
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306182	1471943904759	1471943904849	d	68
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306211	1471943904838	1471943904939	,	188
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306213	1471943904962	1471943905063	 	32
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306216	1471943905007	1471943905108	w	87
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306219	1471943905052	1471943905176	e	69
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306223	1471943905164	1471943905243	 	32
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306225	1471943905457	1471943905536	w	87
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306235	1471943905513	1471943905580	i	73
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306238	1471943905671	1471943905716	l	76
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306241	1471943905783	1471943905851	l	76
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306243	1471943905885	1471943905963	 	32
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306247	1471943905941	1471943906030	n	78
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306258	1471943906019	1471943906087	e	69
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306260	1471943906166	1471943906233	e	69
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306263	1471943906312	1471943906402	d	68
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306265	1471943906402	1471943906526	 	32
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306268	1471943906503	1471943906604	t	84
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306294	1471943906582	1471943906696	o	79
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306296	1471943906683	1471943906797	 	32
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306298	1471943906773	1471943906897	a	65
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306299	1471943906863	1471943906964	d	68
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306300	1471943907055	1471943907122	d	68
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306301	1471943907145	1471943907257	 	32
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306306	1471943907223	1471943907324	t	84
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306309	1471943907313	1471943907414	h	72
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306312	1471943907381	1471943907471	e	69
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306317	1471943907460	1471943907583	 	32
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306321	1471943907561	1471943907707	d	68
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306335	1471943907662	1471943907808	a	65
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306337	1471943907741	1471943907831	y	89
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306340	1471943907797	1471943907921	 	32
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306342	1471943907932	1471943907999	t	84
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306344	1471943908011	1471943908089	o	79
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306346	1471943908101	1471943908191	 	32
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306366	1471943908146	1471943908236	t	84
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306369	1471943908225	1471943908315	h	72
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306371	1471943908292	1471943908405	e	69
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306373	1471943908382	1471943908506	 	32
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306374	1471943908495	1471943908618	d	68
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306375	1471943908708	1471943908787	e	69
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306376	1471943908742	1471943908866	a	65
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306377	1471943908821	1471943908899	l	76
+645	6383	If it needs to be paid, we will need to add the day to the deal.	If it needs to be paid, we will need to add the day to the deal.	306380	1471943908979	1471943909057	.	190
+645	6391	Please give me a call.	Please give me a call.	306454	1471943911566	1471943911892	SHIFT	16
+645	6391	Please give me a call.	Please give me a call.	306455	1471943911814	1471943911926	P	80
+645	6391	Please give me a call.	Please give me a call.	306456	1471943911893	1471943912016	e	76
+645	6391	Please give me a call.	Please give me a call.	306457	1471943911994	1471943912140	a	65
+645	6391	Please give me a call.	Please give me a call.	306479	1471943912095	1471943912196	s	83
+645	6391	Please give me a call.	Please give me a call.	306484	1471943912141	1471943912265	e	69
+645	6391	Please give me a call.	Please give me a call.	306489	1471943912241	1471943912398	 	32
+645	6391	Please give me a call.	Please give me a call.	306497	1471943912444	1471943912522	g	71
+645	6391	Please give me a call.	Please give me a call.	306503	1471943912511	1471943912612	i	73
+645	6391	Please give me a call.	Please give me a call.	306514	1471943912601	1471943912702	v	86
+645	6391	Please give me a call.	Please give me a call.	306515	1471943912658	1471943912770	e	69
+645	6391	Please give me a call.	Please give me a call.	306517	1471943912759	1471943912837	 	32
+645	6391	Please give me a call.	Please give me a call.	306518	1471943912793	1471943912894	m	77
+645	6391	Please give me a call.	Please give me a call.	306520	1471943912883	1471943912972	e	69
+645	6391	Please give me a call.	Please give me a call.	306521	1471943912984	1471943913062	 	32
+645	6391	Please give me a call.	Please give me a call.	306531	1471943913051	1471943913165	a	65
+645	6391	Please give me a call.	Please give me a call.	306536	1471943913153	1471943913242	 	32
+645	6391	Please give me a call.	Please give me a call.	306539	1471943913231	1471943913332	c	67
+645	6391	Please give me a call.	Please give me a call.	306543	1471943913276	1471943913389	a	65
+645	6391	Please give me a call.	Please give me a call.	306547	1471943913344	1471943913400	l	76
+645	6391	Please give me a call.	Please give me a call.	306551	1471943913456	1471943913546	l	76
+645	6391	Please give me a call.	Please give me a call.	306550	1471943913625	1471943913704	.	190
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306685	1471943916764	1471943916933	SHIFT	16
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306684	1471943916832	1471943916899	O	79
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306688	1471943916944	1471943917034	n	78
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306691	1471943917012	1471943917124	 	32
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306694	1471943917079	1471943917180	t	84
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306696	1471943917158	1471943917248	h	72
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306697	1471943917237	1471943917360	e	69
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306699	1471943917305	1471943917395	 	32
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306730	1471943917383	1471943917450	o	80
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306701	1471943917394	1471943917439	l	79
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306735	1471943917484	1471943917596	a	65
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306741	1471943917574	1471943917653	n	78
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306745	1471943917664	1471943917754	e	69
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306749	1471943917765	1471943917800	,	188
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306753	1471943917911	1471943917945	BKSP	8
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306755	1471943918035	1471943918080	BKSP	8
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306757	1471943918170	1471943918215	BKSP	8
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306760	1471943918305	1471943918361	BKSP	8
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306763	1471943918429	1471943918485	BKSP	8
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306765	1471943918564	1471943918620	BKSP	8
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306767	1471943918699	1471943918778	l	76
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306766	1471943918800	1471943918924	a	65
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306768	1471943918890	1471943918980	n	78
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306771	1471943919014	1471943919104	e	69
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306773	1471943919115	1471943919205	,	188
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306775	1471943919251	1471943919352	 	32
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306777	1471943919419	1471943919520	d	68
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306778	1471943919509	1471943919577	o	79
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306779	1471943919644	1471943919757	o	79
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306780	1471943919723	1471943919813	r	82
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306786	1471943919779	1471943919880	s	83
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306787	1471943919892	1471943919993	 	32
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306788	1471943919982	1471943920083	c	67
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306789	1471943920027	1471943920083	l	76
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306790	1471943920229	1471943920240	o	79
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306791	1471943920263	1471943920342	s	83
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306810	1471943920353	1471943920454	i	73
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306811	1471943920432	1471943920522	n	78
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306812	1471943920533	1471943920600	g	71
+645	6394	On the plane, doors closing.	On the plane, doors closing.	306813	1471943920724	1471943920825	.	190
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306888	1471943923166	1471943923323	SHIFT	16
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306890	1471943923233	1471943923336	I	73
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306892	1471943923312	1471943923424	T	84
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306894	1471943923436	1471943923570	 	32
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306952	1471943923492	1471943923604	w	87
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306956	1471943923560	1471943923694	a	65
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306958	1471943923683	1471943923818	s	83
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306960	1471943923751	1471943923852	 	32
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306961	1471943924043	1471943924088	BKSP	8
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306962	1471943924167	1471943924234	BKSP	8
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306963	1471943924291	1471943924358	BKSP	8
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306964	1471943924448	1471943924471	BKSP	8
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306965	1471943924572	1471943924606	BKSP	8
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306966	1471943924673	1471943924763	BKSP	8
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306967	1471943924820	1471943924932	t	84
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306968	1471943924876	1471943925022	 	32
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306983	1471943924943	1471943925056	w	87
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306985	1471943925011	1471943925157	a	65
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306988	1471943925135	1471943925258	s	83
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306992	1471943925236	1471943925359	 	32
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306995	1471943925326	1471943925461	g	71
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306997	1471943925439	1471943925540	r	82
+645	6400	It was great to finally meet you.	It was great to finally meet you.	306999	1471943925888	1471943926012	e	69
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307000	1471943925945	1471943926068	a	65
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307002	1471943926024	1471943926124	t	84
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307004	1471943926125	1471943926226	 	32
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307006	1471943926260	1471943926361	t	84
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307010	1471943926350	1471943926440	o	79
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307019	1471943926407	1471943926518	 	32
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307022	1471943926485	1471943926587	f	70
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307026	1471943926564	1471943926620	i	73
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307029	1471943926687	1471943926766	n	78
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307032	1471943926732	1471943926845	a	65
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307035	1471943926856	1471943926901	l	76
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307036	1471943926957	1471943927058	l	76
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307037	1471943927002	1471943927104	y	89
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307038	1471943927081	1471943927148	 	32
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307039	1471943927137	1471943927261	m	77
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307050	1471943927205	1471943927283	e	69
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307052	1471943927385	1471943927508	e	69
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307055	1471943927441	1471943927531	t	84
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307059	1471943927520	1471943927645	 	32
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307079	1471943927599	1471943927688	y	89
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307082	1471943927644	1471943927722	o	79
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307085	1471943927677	1471943927745	u	85
+645	6400	It was great to finally meet you.	It was great to finally meet you.	307087	1471943928251	1471943928307	.	190
+645	6405	What's your phone number?	What's your phone number?	307179	1471943931030	1471943931199	SHIFT	16
+645	6405	What's your phone number?	What's your phone number?	307181	1471943931143	1471943931278	W	87
+645	6405	What's your phone number?	What's your phone number?	307183	1471943931255	1471943931367	h	72
+645	6405	What's your phone number?	What's your phone number?	307184	1471943931323	1471943931491	a	65
+645	6405	What's your phone number?	What's your phone number?	307186	1471943931424	1471943931525	t	84
+645	6405	What's your phone number?	What's your phone number?	307188	1471943931559	1471943931661	'	222
+645	6405	What's your phone number?	What's your phone number?	307193	1471943931660	1471943931761	s	83
+645	6405	What's your phone number?	What's your phone number?	307195	1471943931750	1471943931874	 	32
+645	6405	What's your phone number?	What's your phone number?	307197	1471943931840	1471943931941	y	89
+645	6405	What's your phone number?	What's your phone number?	307199	1471943931919	1471943932055	o	79
+645	6405	What's your phone number?	What's your phone number?	307223	1471943931975	1471943932076	u	85
+645	6405	What's your phone number?	What's your phone number?	307226	1471943932031	1471943932166	r	82
+645	6405	What's your phone number?	What's your phone number?	307228	1471943932121	1471943932223	 	32
+645	6405	What's your phone number?	What's your phone number?	307232	1471943932200	1471943932290	p	80
+645	6405	What's your phone number?	What's your phone number?	307235	1471943932301	1471943932402	h	72
+645	6405	What's your phone number?	What's your phone number?	307237	1471943932414	1471943932492	o	79
+645	6405	What's your phone number?	What's your phone number?	307239	1471943932504	1471943932616	n	78
+645	6405	What's your phone number?	What's your phone number?	307241	1471943932571	1471943932673	e	69
+645	6405	What's your phone number?	What's your phone number?	307242	1471943932650	1471943932729	 	32
+645	6405	What's your phone number?	What's your phone number?	307243	1471943932718	1471943932853	n	78
+645	6405	What's your phone number?	What's your phone number?	307244	1471943932797	1471943932886	u	85
+645	6405	What's your phone number?	What's your phone number?	307245	1471943932954	1471943933055	m	77
+645	6405	What's your phone number?	What's your phone number?	307251	1471943932999	1471943933111	b	66
+645	6405	What's your phone number?	What's your phone number?	307252	1471943933066	1471943933190	e	69
+645	6405	What's your phone number?	What's your phone number?	307253	1471943933123	1471943933235	r	82
+645	6405	What's your phone number?	What's your phone number?	307254	1471943933201	1471943933347	SHIFT	16
+645	6405	What's your phone number?	What's your phone number?	307255	1471943933269	1471943933381	?	191
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307325	1471943935834	1471943936070	SHIFT	16
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307327	1471943936014	1471943936127	N	78
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307329	1471943936093	1471943936171	o	79
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307331	1471943936183	1471943936250	t	84
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307333	1471943936262	1471943936340	h	72
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307349	1471943936307	1471943936408	i	73
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307351	1471943936419	1471943936520	n	78
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307356	1471943936487	1471943936565	g	71
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307363	1471943936577	1471943936655	 	32
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307366	1471943936678	1471943936779	b	66
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307370	1471943936790	1471943936869	u	85
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307374	1471943936847	1471943936948	t	84
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307375	1471943936937	1471943937049	 	32
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307376	1471943937173	1471943937274	g	71
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307377	1471943937241	1471943937308	o	79
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307378	1471943937376	1471943937454	o	79
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307379	1471943937409	1471943937510	d	68
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307380	1471943937499	1471943937612	 	32
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307381	1471943937589	1471943937691	n	78
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307383	1471943937646	1471943937747	e	69
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307385	1471943937680	1471943937780	w	87
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307387	1471943937859	1471943937938	s	83
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307401	1471943937994	1471943938108	 	32
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307402	1471943938107	1471943938174	e	69
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307403	1471943938253	1471943938332	v	86
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307404	1471943938298	1471943938410	e	69
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307414	1471943938366	1471943938444	r	82
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307416	1471943938422	1471943938523	y	89
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307420	1471943938546	1471943938680	d	68
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307424	1471943938647	1471943938759	a	65
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307428	1471943938726	1471943938793	y	89
+645	6411	Nothing but good news everyday.	Nothing but good news everyday.	307431	1471943938816	1471943938894	.	190
+645	6414	Sorry for the delay.	Sorry for the delay.	307520	1471943941426	1471943941583	SHIFT	16
+645	6414	Sorry for the delay.	Sorry for the delay.	307522	1471943941550	1471943941594	S	79
+645	6414	Sorry for the delay.	Sorry for the delay.	307525	1471943941786	1471943941842	BKSP	8
+645	6414	Sorry for the delay.	Sorry for the delay.	307528	1471943941910	1471943942011	BKSP	8
+645	6414	Sorry for the delay.	Sorry for the delay.	307529	1471943941977	1471943942123	SHIFT	16
+645	6414	Sorry for the delay.	Sorry for the delay.	307530	1471943942022	1471943942146	S	83
+645	6414	Sorry for the delay.	Sorry for the delay.	307531	1471943942134	1471943942224	o	79
+645	6414	Sorry for the delay.	Sorry for the delay.	307532	1471943942225	1471943942303	r	82
+645	6414	Sorry for the delay.	Sorry for the delay.	307538	1471943942371	1471943942517	r	82
+645	6414	Sorry for the delay.	Sorry for the delay.	307539	1471943942438	1471943942539	y	89
+645	6414	Sorry for the delay.	Sorry for the delay.	307540	1471943942517	1471943942642	 	32
+645	6414	Sorry for the delay.	Sorry for the delay.	307542	1471943942630	1471943942719	f	70
+645	6414	Sorry for the delay.	Sorry for the delay.	307547	1471943942708	1471943942798	o	79
+645	6414	Sorry for the delay.	Sorry for the delay.	307548	1471943942787	1471943942854	r	82
+645	6414	Sorry for the delay.	Sorry for the delay.	307549	1471943942877	1471943942989	 	32
+645	6414	Sorry for the delay.	Sorry for the delay.	307550	1471943942934	1471943943012	t	84
+645	6414	Sorry for the delay.	Sorry for the delay.	307551	1471943942979	1471943943068	h	72
+645	6414	Sorry for the delay.	Sorry for the delay.	307553	1471943943080	1471943943170	e	69
+645	6414	Sorry for the delay.	Sorry for the delay.	307569	1471943943147	1471943943282	 	32
+645	6414	Sorry for the delay.	Sorry for the delay.	307570	1471943943260	1471943943350	d	68
+645	6414	Sorry for the delay.	Sorry for the delay.	307571	1471943943417	1471943943507	e	69
+645	6414	Sorry for the delay.	Sorry for the delay.	307572	1471943943530	1471943943609	l	76
+645	6414	Sorry for the delay.	Sorry for the delay.	307573	1471943943597	1471943943698	a	65
+645	6414	Sorry for the delay.	Sorry for the delay.	307574	1471943943654	1471943943732	y	89
+645	6414	Sorry for the delay.	Sorry for the delay.	307575	1471943943721	1471943943788	.	190

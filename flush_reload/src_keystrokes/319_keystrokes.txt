@@ -1,0 +1,811 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139179	1471939285856	1471939286015	SHIFT	16
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139181	1471939285935	1471939286054	P	80
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139184	1471939286159	1471939286254	r	82
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139187	1471939286207	1471939286278	o	79
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139191	1471939286767	1471939286854	b	66
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139208	1471939286852	1471939286950	a	65
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139212	1471939286919	1471939287030	b	66
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139214	1471939287039	1471939287190	l	76
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139217	1471939287167	1471939287270	y	89
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139219	1471939287279	1471939287391	 	32
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139234	1471939287383	1471939287519	c	67
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139236	1471939287463	1471939287615	a	65
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139240	1471939287535	1471939287646	n	78
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139242	1471939287607	1471939287719	 	32
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139243	1471939287943	1471939288039	h	72
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139244	1471939287999	1471939288134	a	65
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139247	1471939288127	1471939288223	n	78
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139250	1471939288175	1471939288286	d	68
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139253	1471939288327	1471939288447	l	76
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139258	1471939288415	1471939288566	e	69
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139271	1471939288511	1471939288655	s	83
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139272	1471939288591	1471939288735	 	32
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139276	1471939288815	1471939288951	SHIFT	16
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139273	1471939288839	1471939288935	M	77
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139278	1471939288975	1471939289103	o	79
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139281	1471939289039	1471939289143	n	78
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139308	1471939289111	1471939289254	d	68
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139310	1471939289215	1471939289335	a	65
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139312	1471939289343	1471939289423	y	89
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139314	1471939289487	1471939289599	 	32
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139390	1471939289567	1471939290095	SHIFT	16
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139317	1471939289695	1471939289775	P	80
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139320	1471939289935	1471939290055	M	77
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139392	1471939290079	1471939290167	>	190
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139394	1471939290727	1471939290815	BKSP	8
+319	2865	Probably can handle Monday PM.	Probably can handles Monday PM.	139395	1471939290999	1471939291103	.	190
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139489	1471939294080	1471939294255	SHIFT	16
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139485	1471939294128	1471939294239	A	65
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139494	1471939294384	1471939294471	r	82
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139499	1471939294592	1471939294639	g	71
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139504	1471939294672	1471939294767	e	69
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139507	1471939294800	1471939294903	n	78
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139519	1471939294936	1471939295015	t	84
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139521	1471939295040	1471939295119	i	73
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139525	1471939295168	1471939295265	n	78
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139526	1471939295264	1471939295407	a	65
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139534	1471939295368	1471939295479	 	32
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139536	1471939295504	1471939295616	h	72
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139539	1471939295576	1471939295672	a	65
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139542	1471939295648	1471939295759	v	86
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139544	1471939295752	1471939295832	e	69
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139552	1471939295808	1471939295920	 	32
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139553	1471939295960	1471939296096	c	67
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139555	1471939296048	1471939296176	a	65
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139554	1471939296088	1471939296143	l	76
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139556	1471939296224	1471939296319	l	76
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139579	1471939296280	1471939296351	e	69
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139582	1471939296464	1471939296552	d	68
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139584	1471939296512	1471939296632	 	32
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139585	1471939296640	1471939296744	o	79
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139586	1471939296664	1471939296752	f	70
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139587	1471939296824	1471939296928	f	70
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139589	1471939296936	1471939297072	 	32
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139591	1471939297232	1471939297328	t	84
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139592	1471939297296	1471939297392	h	72
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139594	1471939297384	1471939297511	e	69
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139612	1471939297504	1471939297576	i	73
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139614	1471939297584	1471939297712	r	82
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139617	1471939297680	1471939297792	 	32
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139620	1471939297896	1471939297976	t	84
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139624	1471939298016	1471939298120	w	87
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139628	1471939298144	1471939298248	o	79
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139649	1471939298224	1471939298344	 	32
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139652	1471939298352	1471939298464	f	70
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139654	1471939298440	1471939298496	o	79
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139655	1471939298584	1471939298664	o	79
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139656	1471939298680	1471939298768	t	84
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139657	1471939298880	1471939298960	b	66
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139658	1471939298928	1471939299064	a	65
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139659	1471939299056	1471939299112	l	76
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139660	1471939299184	1471939299288	l	76
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139661	1471939299280	1471939299360	 	32
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139663	1471939299432	1471939299552	i	73
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139688	1471939299520	1471939299633	n	78
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139690	1471939299624	1471939299704	t	84
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139691	1471939299768	1471939299880	e	69
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139692	1471939299841	1471939299936	r	82
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139693	1471939299976	1471939300064	n	78
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139694	1471939300088	1471939300232	a	65
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139696	1471939300177	1471939300312	t	84
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139698	1471939300257	1471939300392	i	73
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139700	1471939300361	1471939300520	o	79
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139703	1471939300464	1471939300560	n	78
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139706	1471939300856	1471939300992	a	65
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139712	1471939300953	1471939301048	l	76
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139714	1471939301073	1471939301201	s	83
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139719	1471939301152	1471939301249	 	32
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139723	1471939301241	1471939301360	i	73
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139727	1471939301313	1471939301408	n	78
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139733	1471939301441	1471939301544	 	32
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139754	1471939301632	1471939301768	SHIFT	16
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139755	1471939301705	1471939301792	J	74
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139756	1471939301841	1471939301976	a	65
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139757	1471939302105	1471939302201	p	80
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139759	1471939302193	1471939302280	a	65
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139761	1471939302489	1471939302584	n	78
+319	2875	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	139765	1471939302617	1471939302728	.	190
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139869	1471939304521	1471939304641	SHIFT	16
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139872	1471939304577	1471939304681	J	74
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139876	1471939304713	1471939304864	o	79
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139880	1471939304817	1471939304904	h	72
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139884	1471939305809	1471939305889	n	78
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139888	1471939306041	1471939306121	,	188
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139917	1471939306153	1471939306281	 	32
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139919	1471939306289	1471939306417	c	67
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139922	1471939306353	1471939306505	a	65
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139924	1471939306689	1471939306793	n	78
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139926	1471939306865	1471939306977	 	32
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139943	1471939306969	1471939307065	y	89
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139945	1471939307089	1471939307241	o	79
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139947	1471939307169	1471939307257	u	85
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139950	1471939307201	1471939307313	 	32
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139952	1471939307385	1471939307449	g	71
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139964	1471939307412	1471939307529	i	73
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139966	1471939307561	1471939307649	v	86
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139967	1471939307617	1471939307729	e	69
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139968	1471939307697	1471939307801	 	32
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139969	1471939307777	1471939307881	SHIFT	16
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139970	1471939307857	1471939307937	K	75
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139971	1471939308018	1471939308089	o	79
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139981	1471939308186	1471939308241	n	78
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139984	1471939308338	1471939308401	n	78
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139987	1471939308466	1471939308545	i	73
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	139989	1471939308562	1471939308649	 	32
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	140028	1471939308618	1471939308769	a	65
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	140031	1471939308754	1471939308857	 	32
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	140034	1471939308890	1471939309025	c	67
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	140035	1471939308977	1471939309081	a	65
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	140038	1471939309866	1471939309946	a	65
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	140108	1471939309938	1471939310001	l	76
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	140111	1471939310066	1471939310193	l	76
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	140115	1471939310634	1471939310681	BKSP	8
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	140120	1471939310858	1471939310921	BKSP	8
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	140127	1471939311186	1471939311289	BKSP	8
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	140131	1471939311370	1471939311442	l	76
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	140133	1471939311506	1471939311610	l	76
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	140136	1471939311682	1471939311858	SHIFT	16
+319	2883	John, can you give Konni a call?	John, can you give Konni a call?	140137	1471939311762	1471939311866	?	191
+319	2888	We could do it at my house.	We could do it at my house.	140192	1471939314418	1471939314538	SHIFT	16
+319	2888	We could do it at my house.	We could do it at my house.	140193	1471939314498	1471939314602	W	87
+319	2888	We could do it at my house.	We could do it at my house.	140194	1471939314714	1471939314842	e	69
+319	2888	We could do it at my house.	We could do it at my house.	140195	1471939314826	1471939314970	 	32
+319	2888	We could do it at my house.	We could do it at my house.	140196	1471939314954	1471939315122	c	67
+319	2888	We could do it at my house.	We could do it at my house.	140203	1471939315074	1471939315162	o	79
+319	2888	We could do it at my house.	We could do it at my house.	140206	1471939315124	1471939315218	u	85
+319	2888	We could do it at my house.	We could do it at my house.	140210	1471939315258	1471939315379	l	76
+319	2888	We could do it at my house.	We could do it at my house.	140213	1471939315306	1471939315402	d	68
+319	2888	We could do it at my house.	We could do it at my house.	140216	1471939315354	1471939315454	 	32
+319	2888	We could do it at my house.	We could do it at my house.	140217	1471939315603	1471939315762	d	68
+319	2888	We could do it at my house.	We could do it at my house.	140218	1471939315666	1471939315786	o	79
+319	2888	We could do it at my house.	We could do it at my house.	140219	1471939315763	1471939315858	 	32
+319	2888	We could do it at my house.	We could do it at my house.	140220	1471939315890	1471939315978	i	73
+319	2888	We could do it at my house.	We could do it at my house.	140221	1471939315946	1471939316044	t	84
+319	2888	We could do it at my house.	We could do it at my house.	140222	1471939316026	1471939316106	 	32
+319	2888	We could do it at my house.	We could do it at my house.	140257	1471939316082	1471939316194	a	65
+319	2888	We could do it at my house.	We could do it at my house.	140261	1471939316643	1471939316770	t	84
+319	2888	We could do it at my house.	We could do it at my house.	140264	1471939316730	1471939316842	 	32
+319	2888	We could do it at my house.	We could do it at my house.	140267	1471939316859	1471939316938	m	77
+319	2888	We could do it at my house.	We could do it at my house.	140268	1471939317067	1471939317138	y	89
+319	2888	We could do it at my house.	We could do it at my house.	140270	1471939317099	1471939317218	 	32
+319	2888	We could do it at my house.	We could do it at my house.	140271	1471939317243	1471939317330	h	72
+319	2888	We could do it at my house.	We could do it at my house.	140273	1471939317355	1471939317506	o	79
+319	2888	We could do it at my house.	We could do it at my house.	140276	1471939317427	1471939317538	u	85
+319	2888	We could do it at my house.	We could do it at my house.	140285	1471939317482	1471939317570	s	83
+319	2888	We could do it at my house.	We could do it at my house.	140288	1471939317514	1471939317642	e	69
+319	2888	We could do it at my house.	We could do it at my house.	140290	1471939317651	1471939317730	.	190
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140329	1471939319818	1471939319931	SHIFT	16
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140330	1471939319899	1471939320003	W	87
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140332	1471939320139	1471939320267	e	69
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140336	1471939320243	1471939320362	 	32
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140339	1471939320371	1471939320483	s	83
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140347	1471939320475	1471939320571	h	72
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140349	1471939320555	1471939320699	a	65
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140351	1471939320675	1471939320747	l	76
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140354	1471939320819	1471939320906	l	76
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140357	1471939320891	1471939320979	 	32
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140359	1471939321011	1471939321067	t	84
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140371	1471939321155	1471939321259	r	82
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140373	1471939321251	1471939321355	y	89
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140374	1471939321419	1471939321515	 	32
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140375	1471939321539	1471939321683	t	84
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140385	1471939321587	1471939321699	o	79
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140388	1471939321684	1471939321763	 	32
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140390	1471939321835	1471939321954	f	70
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140393	1471939321907	1471939322059	i	73
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140395	1471939321995	1471939322115	n	78
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140398	1471939322075	1471939322235	d	68
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140401	1471939322187	1471939322267	 	32
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140404	1471939322219	1471939322396	a	65
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140408	1471939322379	1471939322491	 	32
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140410	1471939322771	1471939322915	c	67
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140435	1471939322867	1471939323019	o	79
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140440	1471939323139	1471939323211	m	77
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140444	1471939323299	1471939323387	m	77
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140447	1471939323403	1471939323571	o	79
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140449	1471939323499	1471939323611	n	78
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140451	1471939323627	1471939323763	 	32
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140476	1471939323723	1471939323899	a	65
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140478	1471939323851	1471939323947	g	71
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140480	1471939323972	1471939324043	e	69
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140482	1471939324268	1471939324307	n	78
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140485	1471939324782	1471939324923	d	68
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140490	1471939324867	1471939325019	a	65
+319	2893	We shall try to find a common agenda.	We shall try to find a common agenda.	140491	1471939325052	1471939325147	.	190
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140567	1471939326923	1471939327019	SHIFT	16
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140568	1471939326988	1471939327092	H	72
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140570	1471939327092	1471939327187	o	79
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140572	1471939327244	1471939327371	w	87
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140574	1471939327356	1471939327460	e	69
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140576	1471939327532	1471939327636	v	86
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140589	1471939327676	1471939327796	e	69
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140592	1471939327764	1471939327867	r	82
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140593	1471939327908	1471939328019	,	188
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140594	1471939327988	1471939328132	 	32
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140595	1471939328172	1471939328260	h	72
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140605	1471939328212	1471939328339	e	69
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140609	1471939328292	1471939328388	 	32
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140613	1471939328380	1471939328476	w	87
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140617	1471939328460	1471939328580	a	65
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140621	1471939328876	1471939328956	r	82
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140624	1471939329028	1471939329140	r	82
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140630	1471939329132	1471939329284	a	65
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140632	1471939329252	1471939329356	n	78
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140633	1471939329364	1471939329468	t	84
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140634	1471939329524	1471939329652	s	83
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140635	1471939329588	1471939329700	 	32
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140645	1471939329668	1471939329828	n	78
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140647	1471939329756	1471939329901	o	79
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140650	1471939329892	1471939329972	 	32
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140654	1471939329988	1471939330116	r	82
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140658	1471939330052	1471939330196	e	69
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140674	1471939330132	1471939330284	a	65
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140675	1471939330317	1471939330444	l	76
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140676	1471939330428	1471939330532	 	32
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140677	1471939330620	1471939330756	SHIFT	16
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140678	1471939330700	1471939330836	F	70
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140679	1471939330844	1471939330988	a	65
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140696	1471939330948	1471939331060	n	78
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140699	1471939331220	1471939331310	t	84
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140702	1471939331308	1471939331428	a	65
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140706	1471939331628	1471939331772	s	83
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140708	1471939331804	1471939331917	y	89
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140716	1471939331901	1471939332020	 	32
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140717	1471939332061	1471939332212	c	67
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140718	1471939332197	1471939332308	o	79
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140719	1471939332405	1471939332524	n	78
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140720	1471939332621	1471939332748	s	83
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140747	1471939332717	1471939332829	i	73
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140749	1471939332820	1471939332908	d	68
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140752	1471939333013	1471939333100	e	69
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140753	1471939333069	1471939333196	r	82
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140756	1471939333269	1471939333420	a	65
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140766	1471939333373	1471939333501	t	84
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140768	1471939333493	1471939333724	i	73
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140770	1471939333604	1471939333764	o	79
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140773	1471939333701	1471939333836	n	78
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140776	1471939333797	1471939333908	 	32
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140780	1471939333877	1471939334028	a	65
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140781	1471939333989	1471939334101	t	84
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140782	1471939334077	1471939334172	 	32
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140783	1471939334157	1471939334276	t	84
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140784	1471939334205	1471939334340	h	72
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140785	1471939334389	1471939334484	i	73
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140806	1471939334709	1471939334845	s	83
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140807	1471939334813	1471939334932	 	32
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140808	1471939335061	1471939335181	p	80
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140810	1471939335149	1471939335357	o	79
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140831	1471939335269	1471939335445	i	73
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140833	1471939335477	1471939335564	t	84
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140835	1471939335973	1471939336085	BKSP	8
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140837	1471939336093	1471939336229	n	78
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140839	1471939336189	1471939336253	t	84
+319	2898	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this point.	140842	1471939336293	1471939336389	.	190
+319	2906	When do we review with El Paso?	When do we review with El Paso?	140925	1471939338797	1471939338925	SHIFT	16
+319	2906	When do we review with El Paso?	When do we review with El Paso?	140928	1471939338869	1471939338997	W	87
+319	2906	When do we review with El Paso?	When do we review with El Paso?	140930	1471939339245	1471939339367	h	72
+319	2906	When do we review with El Paso?	When do we review with El Paso?	140932	1471939339365	1471939339486	e	69
+319	2906	When do we review with El Paso?	When do we review with El Paso?	140934	1471939339470	1471939339589	n	78
+319	2906	When do we review with El Paso?	When do we review with El Paso?	140943	1471939339565	1471939339703	 	32
+319	2906	When do we review with El Paso?	When do we review with El Paso?	140946	1471939339693	1471939339845	d	68
+319	2906	When do we review with El Paso?	When do we review with El Paso?	140948	1471939339789	1471939339909	o	79
+319	2906	When do we review with El Paso?	When do we review with El Paso?	140951	1471939339854	1471939339925	 	32
+319	2906	When do we review with El Paso?	When do we review with El Paso?	140954	1471939340021	1471939340157	w	87
+319	2906	When do we review with El Paso?	When do we review with El Paso?	140967	1471939340077	1471939340213	e	69
+319	2906	When do we review with El Paso?	When do we review with El Paso?	140970	1471939340165	1471939340309	 	32
+319	2906	When do we review with El Paso?	When do we review with El Paso?	140972	1471939340389	1471939340517	r	82
+319	2906	When do we review with El Paso?	When do we review with El Paso?	140975	1471939340461	1471939340589	e	69
+319	2906	When do we review with El Paso?	When do we review with El Paso?	140979	1471939340654	1471939340765	v	86
+319	2906	When do we review with El Paso?	When do we review with El Paso?	140993	1471939340750	1471939340845	i	73
+319	2906	When do we review with El Paso?	When do we review with El Paso?	140994	1471939340814	1471939340997	e	69
+319	2906	When do we review with El Paso?	When do we review with El Paso?	140995	1471939340918	1471939341045	w	87
+319	2906	When do we review with El Paso?	When do we review with El Paso?	140996	1471939341006	1471939341125	 	32
+319	2906	When do we review with El Paso?	When do we review with El Paso?	141013	1471939341158	1471939341309	w	87
+319	2906	When do we review with El Paso?	When do we review with El Paso?	140997	1471939341198	1471939341278	i	73
+319	2906	When do we review with El Paso?	When do we review with El Paso?	141014	1471939341317	1471939341461	t	84
+319	2906	When do we review with El Paso?	When do we review with El Paso?	141015	1471939341389	1471939341509	h	72
+319	2906	When do we review with El Paso?	When do we review with El Paso?	141016	1471939341486	1471939341597	 	32
+319	2906	When do we review with El Paso?	When do we review with El Paso?	141017	1471939341637	1471939341805	SHIFT	16
+319	2906	When do we review with El Paso?	When do we review with El Paso?	141018	1471939341750	1471939341869	E	69
+319	2906	When do we review with El Paso?	When do we review with El Paso?	141019	1471939341934	1471939342022	l	76
+319	2906	When do we review with El Paso?	When do we review with El Paso?	141050	1471939342038	1471939342133	 	32
+319	2906	When do we review with El Paso?	When do we review with El Paso?	141051	1471939342342	1471939342493	SHIFT	16
+319	2906	When do we review with El Paso?	When do we review with El Paso?	141053	1471939342413	1471939342517	P	80
+319	2906	When do we review with El Paso?	When do we review with El Paso?	141055	1471939342702	1471939342805	s	83
+319	2906	When do we review with El Paso?	When do we review with El Paso?	141058	1471939343102	1471939343213	BKSP	8
+319	2906	When do we review with El Paso?	When do we review with El Paso?	141062	1471939343158	1471939343301	a	65
+319	2906	When do we review with El Paso?	When do we review with El Paso?	141081	1471939343262	1471939343390	s	83
+319	2906	When do we review with El Paso?	When do we review with El Paso?	141082	1471939343342	1471939343478	o	79
+319	2906	When do we review with El Paso?	When do we review with El Paso?	141084	1471939343557	1471939343926	SHIFT	16
+319	2906	When do we review with El Paso?	When do we review with El Paso?	141083	1471939343710	1471939343895	?	191
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141128	1471939346070	1471939346158	SHIFT	16
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141129	1471939346126	1471939346238	W	87
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141130	1471939346294	1471939346374	h	72
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141131	1471939346358	1471939346494	a	65
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141132	1471939346446	1471939346582	t	84
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141138	1471939346542	1471939346646	 	32
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141139	1471939346654	1471939346758	i	73
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141140	1471939346711	1471939346838	n	78
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141141	1471939346830	1471939346958	f	70
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141142	1471939346950	1471939347062	o	79
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141148	1471939347038	1471939347150	r	82
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141149	1471939347158	1471939347278	m	77
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141150	1471939347262	1471939347390	a	65
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141151	1471939347351	1471939347454	t	84
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141152	1471939347414	1471939347630	i	73
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141197	1471939347518	1471939347678	o	79
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141199	1471939347614	1471939347726	n	78
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141202	1471939347847	1471939347926	,	188
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141204	1471939347974	1471939348087	 	32
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141206	1471939348079	1471939348174	i	73
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141208	1471939348151	1471939348222	f	70
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141210	1471939348670	1471939348766	 	32
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141225	1471939348774	1471939348919	a	65
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141228	1471939348895	1471939349006	n	78
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141231	1471939349135	1471939349246	y	89
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141234	1471939349391	1471939349502	,	188
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141268	1471939349463	1471939349582	 	32
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141269	1471939349623	1471939349758	d	68
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141270	1471939349871	1471939349958	 	32
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141271	1471939349991	1471939350062	w	87
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141272	1471939350303	1471939350358	BKSP	8
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141273	1471939350423	1471939350502	BKSP	8
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141275	1471939350551	1471939350662	o	79
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141287	1471939350631	1471939350711	 	32
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141291	1471939350703	1471939350854	w	87
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141298	1471939350807	1471939350934	e	69
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141301	1471939350903	1471939351030	 	32
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141307	1471939351167	1471939351294	o	79
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141327	1471939351247	1471939351407	w	87
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141329	1471939351399	1471939351575	e	69
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141331	1471939351543	1471939351679	 	32
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141333	1471939351751	1471939351855	h	72
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141335	1471939351839	1471939351982	i	73
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141337	1471939351943	1471939352071	m	77
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141340	1471939352055	1471939352286	SHIFT	16
+319	2910	What information, if any, do we owe him?	What information, if any, do we owe him?	141338	1471939352167	1471939352279	?	191
+319	2916	We're working with the speedway.	We're working with the speedway.	141403	1471939354287	1471939354415	SHIFT	16
+319	2916	We're working with the speedway.	We're working with the speedway.	141404	1471939354383	1471939354519	W	87
+319	2916	We're working with the speedway.	We're working with the speedway.	141405	1471939354599	1471939354735	e	69
+319	2916	We're working with the speedway.	We're working with the speedway.	141406	1471939354751	1471939354864	'	222
+319	2916	We're working with the speedway.	We're working with the speedway.	141407	1471939354855	1471939355039	r	82
+319	2916	We're working with the speedway.	We're working with the speedway.	141421	1471939354951	1471939355055	e	69
+319	2916	We're working with the speedway.	We're working with the speedway.	141426	1471939355007	1471939355143	 	32
+319	2916	We're working with the speedway.	We're working with the speedway.	141431	1471939355127	1471939355287	w	87
+319	2916	We're working with the speedway.	We're working with the speedway.	141437	1471939355311	1471939355447	o	79
+319	2916	We're working with the speedway.	We're working with the speedway.	141440	1471939355519	1471939355663	r	82
+319	2916	We're working with the speedway.	We're working with the speedway.	141443	1471939355671	1471939355751	k	75
+319	2916	We're working with the speedway.	We're working with the speedway.	141445	1471939355847	1471939355951	i	73
+319	2916	We're working with the speedway.	We're working with the speedway.	141461	1471939355895	1471939356023	n	78
+319	2916	We're working with the speedway.	We're working with the speedway.	141462	1471939355967	1471939356079	g	71
+319	2916	We're working with the speedway.	We're working with the speedway.	141463	1471939356039	1471939356159	 	32
+319	2916	We're working with the speedway.	We're working with the speedway.	141465	1471939356400	1471939356535	w	87
+319	2916	We're working with the speedway.	We're working with the speedway.	141466	1471939356472	1471939356543	i	73
+319	2916	We're working with the speedway.	We're working with the speedway.	141468	1471939356559	1471939356695	t	84
+319	2916	We're working with the speedway.	We're working with the speedway.	141482	1471939356623	1471939356735	h	72
+319	2916	We're working with the speedway.	We're working with the speedway.	141487	1471939356687	1471939356791	 	32
+319	2916	We're working with the speedway.	We're working with the speedway.	141491	1471939356808	1471939356943	t	84
+319	2916	We're working with the speedway.	We're working with the speedway.	141495	1471939356880	1471939356983	h	72
+319	2916	We're working with the speedway.	We're working with the speedway.	141499	1471939356911	1471939357039	e	69
+319	2916	We're working with the speedway.	We're working with the speedway.	141502	1471939357008	1471939357119	 	32
+319	2916	We're working with the speedway.	We're working with the speedway.	141505	1471939357127	1471939357249	s	83
+319	2916	We're working with the speedway.	We're working with the speedway.	141522	1471939357248	1471939357367	p	80
+319	2916	We're working with the speedway.	We're working with the speedway.	141523	1471939357383	1471939357447	e	69
+319	2916	We're working with the speedway.	We're working with the speedway.	141524	1471939357520	1471939357583	e	69
+319	2916	We're working with the speedway.	We're working with the speedway.	141525	1471939357696	1471939357815	d	68
+319	2916	We're working with the speedway.	We're working with the speedway.	141527	1471939357895	1471939358015	a	65
+319	2916	We're working with the speedway.	We're working with the speedway.	141565	1471939358000	1471939358127	y	89
+319	2916	We're working with the speedway.	We're working with the speedway.	141567	1471939358456	1471939358527	BKSP	8
+319	2916	We're working with the speedway.	We're working with the speedway.	141568	1471939358584	1471939358663	BKSP	8
+319	2916	We're working with the speedway.	We're working with the speedway.	141569	1471939358672	1471939358784	w	87
+319	2916	We're working with the speedway.	We're working with the speedway.	141570	1471939358744	1471939358895	a	65
+319	2916	We're working with the speedway.	We're working with the speedway.	141571	1471939358840	1471939358935	y	89
+319	2916	We're working with the speedway.	We're working with the speedway.	141572	1471939359144	1471939359240	.	190
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141638	1471939361648	1471939361792	SHIFT	16
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141640	1471939361728	1471939361848	H	72
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141642	1471939361840	1471939361984	e	69
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141645	1471939361992	1471939362112	 	32
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141646	1471939362408	1471939362488	p	80
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141647	1471939362552	1471939362672	l	76
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141665	1471939362616	1471939362744	e	69
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141667	1471939362704	1471939362816	a	65
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141669	1471939363208	1471939363272	d	68
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141671	1471939363352	1471939363408	e	69
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141673	1471939363520	1471939363584	d	68
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141681	1471939363552	1471939363672	 	32
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141682	1471939363833	1471939363952	g	71
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141683	1471939363946	1471939364048	u	85
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141684	1471939364080	1471939364176	i	73
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141685	1471939364241	1471939364352	l	76
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141686	1471939364393	1471939364496	t	84
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141690	1471939364512	1471939364624	y	89
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141692	1471939364625	1471939364706	 	32
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141695	1471939364705	1471939364816	i	73
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141698	1471939364776	1471939364890	n	78
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141720	1471939364873	1471939364968	 	32
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141721	1471939364952	1471939365096	SHIFT	16
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141722	1471939365049	1471939365152	F	70
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141723	1471939365193	1471939365296	e	69
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141724	1471939365401	1471939365472	b	66
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141725	1471939365632	1471939365744	r	82
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141726	1471939365921	1471939366041	u	85
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141732	1471939366025	1471939366184	a	65
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141733	1471939366145	1471939366272	r	82
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141734	1471939366337	1471939366473	y	89
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141735	1471939366465	1471939366576	 	32
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141736	1471939366689	1471939366800	u	85
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141737	1471939366889	1471939367009	n	78
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141738	1471939366961	1471939367016	d	68
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141740	1471939367137	1471939367280	e	69
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141742	1471939367201	1471939367385	r	82
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141745	1471939367289	1471939367408	 	32
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141748	1471939367377	1471939367537	a	65
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141769	1471939367513	1471939367633	n	78
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141771	1471939367641	1471939367769	 	32
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141773	1471939367810	1471939367961	a	65
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141775	1471939368297	1471939368385	g	71
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141777	1471939368529	1471939368633	r	82
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141779	1471939368585	1471939368665	e	69
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141780	1471939368737	1471939368841	e	69
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141781	1471939368897	1471939369008	m	77
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141782	1471939369017	1471939369113	e	69
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141783	1471939369073	1471939369169	n	78
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141784	1471939369233	1471939369337	t	84
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141785	1471939369385	1471939369457	 	32
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141786	1471939369473	1471939369585	w	87
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141787	1471939369505	1471939369593	i	73
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141789	1471939369609	1471939369737	t	84
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141794	1471939369673	1471939369761	h	72
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141795	1471939369745	1471939369849	 	32
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141796	1471939369833	1471939369961	t	84
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141797	1471939369881	1471939369977	h	72
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141798	1471939369937	1471939370073	e	69
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141814	1471939370033	1471939370137	 	32
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141816	1471939370425	1471939370505	g	71
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141818	1471939370481	1471939370617	o	79
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141822	1471939370625	1471939370705	v	86
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141824	1471939370769	1471939370889	e	69
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141868	1471939370833	1471939370945	r	82
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141870	1471939371009	1471939371089	n	78
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141872	1471939371177	1471939371257	m	77
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141874	1471939371961	1471939372097	e	69
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141879	1471939372034	1471939372129	n	78
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141881	1471939372153	1471939372241	t	84
+319	2921	He pleaded guilty in February under an agreement with the government.	He pleaded guilty in February under an agreement with the government.	141876	1471939372209	1471939372313	.	190
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	141962	1471939375106	1471939375217	SHIFT	16
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	141963	1471939375178	1471939375266	H	72
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	141964	1471939375346	1471939375490	e	69
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	141965	1471939375450	1471939375562	 	32
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	141966	1471939375546	1471939375681	w	87
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	141991	1471939375642	1471939375753	o	79
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	141992	1471939375698	1471939375802	u	85
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	141993	1471939375850	1471939375970	l	76
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	141994	1471939375914	1471939376018	d	68
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	141996	1471939375978	1471939376105	 	32
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	141998	1471939376554	1471939376634	b	66
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142003	1471939376674	1471939376777	e	69
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142004	1471939376762	1471939376858	 	32
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142005	1471939376834	1471939376954	s	83
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142006	1471939376946	1471939377050	o	79
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142011	1471939377010	1471939377106	r	82
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142014	1471939377162	1471939377226	r	82
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142019	1471939377194	1471939377322	e	69
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142023	1471939377338	1471939377434	l	76
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142026	1471939377634	1471939377698	BKSP	8
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142029	1471939377747	1471939377801	BKSP	8
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142031	1471939377858	1471939377938	BKSP	8
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142033	1471939378002	1471939378090	e	69
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142036	1471939378122	1471939378226	l	76
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142040	1471939378282	1471939378386	y	89
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142043	1471939378434	1471939378554	 	32
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142045	1471939378586	1471939378698	m	77
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142047	1471939378666	1471939378778	i	73
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142057	1471939378754	1471939378818	s	83
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142059	1471939378883	1471939378970	s	83
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142061	1471939378986	1471939379082	e	69
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142062	1471939379194	1471939379314	d	68
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142063	1471939379274	1471939379394	 	32
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142064	1471939379458	1471939379594	b	66
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142065	1471939379531	1471939379642	y	89
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142066	1471939379610	1471939379722	 	32
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142067	1471939379667	1471939379794	a	65
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142068	1471939379770	1471939379826	l	76
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142069	1471939379906	1471939379994	l	76
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142082	1471939379978	1471939380074	 	32
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142084	1471939380106	1471939380250	w	87
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142086	1471939380178	1471939380291	h	72
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142090	1471939380259	1471939380378	o	79
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142093	1471939380330	1471939380443	 	32
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142101	1471939380435	1471939380578	a	65
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142103	1471939380539	1471939380698	r	82
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142105	1471939380619	1471939380738	e	69
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142107	1471939380674	1471939380826	 	32
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142109	1471939380834	1471939380978	s	83
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142113	1471939380939	1471939381026	t	84
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142115	1471939381115	1471939381210	r	82
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142117	1471939381186	1471939381274	i	73
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142119	1471939381355	1471939381394	v	86
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142121	1471939381403	1471939381530	i	73
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142141	1471939381490	1471939381602	n	78
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142144	1471939381578	1471939381666	g	71
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142147	1471939381811	1471939381866	 	32
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142151	1471939382243	1471939382346	f	70
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142154	1471939382314	1471939382434	o	79
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142168	1471939382403	1471939382538	r	82
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142171	1471939382475	1471939382610	 	32
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142174	1471939382747	1471939382859	p	80
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142176	1471939382843	1471939382963	r	82
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142178	1471939382931	1471939383067	o	79
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142180	1471939383147	1471939383235	g	71
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142191	1471939383346	1471939383434	r	82
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142192	1471939383387	1471939383507	e	69
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142193	1471939383539	1471939383627	s	83
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142194	1471939383699	1471939383778	s	83
+319	2928	He would be sorely missed by all who are striving for progress.	He would be sorely missed by all who are striving for progress.	142195	1471939383811	1471939383907	.	190
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142268	1471939385635	1471939385763	SHIFT	16
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142269	1471939385755	1471939385843	Y	89
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142270	1471939385891	1471939386035	o	79
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142272	1471939385964	1471939386067	u	85
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142275	1471939386083	1471939386187	 	32
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142279	1471939386451	1471939386627	c	67
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142285	1471939386571	1471939386731	a	65
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142286	1471939386659	1471939386787	n	78
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142287	1471939386771	1471939386883	 	32
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142288	1471939386931	1471939387019	b	66
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142290	1471939387115	1471939387195	r	82
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142298	1471939387141	1471939387275	i	73
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142299	1471939387219	1471939387331	n	78
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142300	1471939387340	1471939387467	g	71
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142302	1471939387419	1471939387531	 	32
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142305	1471939387740	1471939387835	i	73
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142320	1471939387819	1471939387883	t	84
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142321	1471939387899	1471939387995	 	32
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142323	1471939388332	1471939388500	t	84
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142322	1471939388396	1471939388491	o	79
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142324	1471939388492	1471939388587	 	32
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142325	1471939388596	1471939388747	w	87
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142346	1471939389612	1471939389715	o	79
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142348	1471939389716	1471939389843	r	82
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142350	1471939389836	1471939389907	k	75
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142352	1471939389996	1471939390115	 	32
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142354	1471939390228	1471939390363	a	65
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142357	1471939390436	1471939390539	n	78
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142358	1471939390484	1471939390627	d	68
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142359	1471939390580	1471939390700	 	32
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142360	1471939390708	1471939390836	w	87
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142371	1471939390772	1471939390884	e	69
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142373	1471939390844	1471939390956	 	32
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142375	1471939390988	1471939391155	c	67
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142374	1471939391052	1471939391139	o	79
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142376	1471939391100	1471939391188	u	85
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142377	1471939391252	1471939391315	l	76
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142380	1471939391292	1471939391387	d	68
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142382	1471939391340	1471939391460	 	32
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142384	1471939391516	1471939391603	m	77
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142386	1471939391588	1471939391652	e	69
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142388	1471939391732	1471939391877	e	69
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142397	1471939391860	1471939392013	t	84
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142399	1471939392004	1471939392100	 	32
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142401	1471939392196	1471939392307	f	70
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142403	1471939392284	1471939392412	o	79
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142405	1471939392388	1471939392508	r	82
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142414	1471939392436	1471939392580	 	32
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142417	1471939392676	1471939392820	l	76
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142419	1471939392780	1471939392884	u	85
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142420	1471939392988	1471939393060	n	78
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142421	1471939393068	1471939393236	c	67
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142441	1471939393164	1471939393245	h	72
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142444	1471939393220	1471939393356	 	32
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142446	1471939393468	1471939393636	o	79
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142447	1471939393580	1471939393684	n	78
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142448	1471939393692	1471939393764	e	69
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142449	1471939394236	1471939394348	 	32
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142452	1471939394316	1471939394476	d	68
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142456	1471939394412	1471939394564	a	65
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142454	1471939394452	1471939394556	y	89
+319	2933	You can bring it to work and we could meet for lunch one day.	You can bring it to work and we could meet for lunch one day.	142458	1471939394644	1471939394788	.	190
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142494	1471939396828	1471939396964	SHIFT	16
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142497	1471939396925	1471939396988	O	79
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142501	1471939397069	1471939397108	u	79
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142505	1471939397173	1471939397308	r	82
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142565	1471939397269	1471939397372	 	32
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142568	1471939397437	1471939397541	p	80
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142571	1471939397485	1471939397620	o	79
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142572	1471939398077	1471939398252	BKSP	8
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142573	1471939398301	1471939398348	BKSP	8
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142574	1471939398421	1471939398492	BKSP	8
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142575	1471939398549	1471939398621	BKSP	8
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142576	1471939398677	1471939398724	BKSP	8
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142577	1471939398805	1471939398908	BKSP	8
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142578	1471939399077	1471939399156	u	85
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142579	1471939399181	1471939399308	r	82
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142586	1471939399277	1471939399396	 	32
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142588	1471939399365	1471939399492	p	80
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142592	1471939399477	1471939399589	o	79
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142595	1471939399701	1471939399821	l	76
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142599	1471939399781	1471939399901	i	73
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142612	1471939399893	1471939400013	t	84
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142613	1471939400037	1471939400125	i	73
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142614	1471939400213	1471939400349	c	67
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142615	1471939400317	1471939400405	i	73
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142616	1471939400421	1471939400557	a	65
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142622	1471939400549	1471939400645	n	78
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142623	1471939400653	1471939400766	s	83
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142624	1471939400741	1471939400846	 	32
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142625	1471939400821	1471939400957	a	65
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142626	1471939400941	1471939401101	r	82
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142640	1471939401021	1471939401133	e	69
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142642	1471939401085	1471939401213	 	32
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142645	1471939401373	1471939401477	r	82
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142647	1471939401413	1471939401501	i	73
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142649	1471939401581	1471939401685	s	83
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142651	1471939401637	1471939401741	i	73
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142660	1471939401702	1471939401821	n	78
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142661	1471939401797	1471939401925	g	71
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142662	1471939401877	1471939401997	 	32
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142663	1471939402437	1471939402517	o	84
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142669	1471939402541	1471939402631	 	32
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142670	1471939402613	1471939402717	t	84
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142671	1471939402637	1471939402741	h	72
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142673	1471939402709	1471939402845	e	69
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142675	1471939402805	1471939402933	 	32
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142677	1471939403005	1471939403141	o	79
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142686	1471939403094	1471939403189	c	67
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142689	1471939403238	1471939403365	c	67
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142691	1471939403373	1471939403557	a	65
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142695	1471939403493	1471939403661	s	83
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142698	1471939403621	1471939403773	i	73
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142701	1471939403725	1471939403869	o	79
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142702	1471939403813	1471939403949	n	78
+319	2942	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	142703	1471939403957	1471939404045	.	190
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142726	1471939406397	1471939406494	SHIFT	16
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142728	1471939406462	1471939406565	T	84
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142729	1471939406510	1471939406573	h	72
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142730	1471939406589	1471939406726	a	65
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142731	1471939406662	1471939406790	n	78
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142738	1471939406766	1471939406861	k	75
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142739	1471939406894	1471939407022	s	83
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142740	1471939406974	1471939407118	 	32
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142742	1471939407134	1471939407246	f	70
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142744	1471939407238	1471939407334	o	79
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142755	1471939407326	1471939407414	r	82
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142758	1471939407374	1471939407478	 	32
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142761	1471939407486	1471939407566	k	75
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142764	1471939407558	1471939407622	e	69
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142767	1471939407686	1471939407783	e	69
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142785	1471939407766	1471939407862	p	80
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142787	1471939407846	1471939407990	i	73
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142789	1471939407942	1471939408038	n	78
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142790	1471939407982	1471939408102	g	71
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142791	1471939408062	1471939408150	 	32
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142792	1471939408278	1471939408342	y	89
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142826	1471939408438	1471939408478	o	80
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142828	1471939408454	1471939408486	u	79
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142830	1471939408518	1471939408574	r	82
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142832	1471939408910	1471939408958	BKSP	8
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142833	1471939409022	1471939409078	BKSP	8
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142834	1471939409134	1471939409198	BKSP	8
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142835	1471939409254	1471939409318	BKSP	8
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142836	1471939409398	1471939409486	o	79
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142843	1471939409454	1471939409550	u	85
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142846	1471939409518	1471939409654	r	82
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142849	1471939409614	1471939409742	 	32
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142852	1471939409798	1471939409918	e	69
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142854	1471939409862	1471939409966	y	89
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142856	1471939409974	1471939410126	e	69
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142863	1471939410070	1471939410230	s	83
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142864	1471939410190	1471939410334	 	32
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142865	1471939410550	1471939410702	o	79
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142867	1471939410598	1471939410718	u	85
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142868	1471939410670	1471939410775	t	84
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142873	1471939410766	1471939410839	 	32
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142874	1471939410862	1471939410942	t	84
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142875	1471939410887	1471939410983	h	72
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142876	1471939410974	1471939411118	e	69
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142877	1471939411070	1471939411214	r	82
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142915	1471939411182	1471939411406	 	65
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142918	1471939411374	1471939411494	n	78
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142920	1471939411415	1471939411542	d	68
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142924	1471939411886	1471939411942	BKSP	8
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142929	1471939412007	1471939412054	BKSP	8
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142936	1471939412111	1471939412158	BKSP	8
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142942	1471939412230	1471939412278	BKSP	8
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142946	1471939412359	1471939412406	BKSP	8
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142949	1471939412807	1471939412942	r	82
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142951	1471939412871	1471939413014	e	69
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142961	1471939412974	1471939413134	 	32
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142963	1471939413103	1471939413270	a	65
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142965	1471939413214	1471939413318	n	78
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142967	1471939413519	1471939413582	BKSP	8
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142970	1471939413647	1471939413702	BKSP	8
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142973	1471939413799	1471939413950	o	79
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142977	1471939413887	1471939414014	n	78
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142991	1471939413983	1471939414110	 	32
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142995	1471939414151	1471939414302	o	79
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	142997	1471939414223	1471939414366	u	85
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	143000	1471939414263	1471939414390	r	82
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	143002	1471939414343	1471939414454	 	32
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	143004	1471939414503	1471939414647	s	83
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	143018	1471939414591	1471939414670	t	84
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	143021	1471939414759	1471939414870	u	85
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	143025	1471939414815	1471939414886	f	70
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	143030	1471939414959	1471939415054	f	70
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	143042	1471939415095	1471939415510	SHIFT	16
+319	2947	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	143035	1471939415375	1471939415478	!	49
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143104	1471939417895	1471939418047	SHIFT	16
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143107	1471939417975	1471939418127	S	83
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143110	1471939418183	1471939418335	o	79
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143113	1471939418287	1471939418439	m	77
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143116	1471939418375	1471939418472	e	69
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143130	1471939418455	1471939418537	 	32
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143131	1471939418535	1471939418607	o	79
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143132	1471939418919	1471939419079	f	70
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143133	1471939419031	1471939419135	 	32
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143134	1471939419127	1471939419247	u	85
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143159	1471939419223	1471939419319	s	83
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143160	1471939419583	1471939419679	 	32
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143161	1471939419967	1471939420071	m	77
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143162	1471939420064	1471939420191	a	65
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143163	1471939420216	1471939420320	y	89
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143169	1471939420304	1471939420431	 	32
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143170	1471939420520	1471939420591	a	65
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143171	1471939420983	1471939421055	BKSP	8
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143173	1471939421120	1471939421231	h	72
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143175	1471939421208	1471939421353	a	65
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143177	1471939421328	1471939421495	v	86
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143196	1471939421464	1471939421583	e	69
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143202	1471939421512	1471939421695	 	32
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143204	1471939421656	1471939421775	h	72
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143207	1471939421720	1471939421855	a	65
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143210	1471939421848	1471939421983	v	86
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143212	1471939422624	1471939422743	e	69
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143221	1471939422680	1471939422831	 	32
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143223	1471939422840	1471939423000	a	65
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143225	1471939423216	1471939423312	c	67
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143227	1471939423424	1471939423552	t	84
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143260	1471939423512	1471939423600	a	69
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143263	1471939423696	1471939423824	d	68
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143266	1471939423760	1471939423896	 	32
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143269	1471939424289	1471939424480	BKSP	8
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143272	1471939424544	1471939424600	BKSP	8
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143274	1471939424672	1471939424720	BKSP	8
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143276	1471939424832	1471939424864	BKSP	8
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143280	1471939425184	1471939425256	e	69
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143283	1471939425376	1471939425480	d	68
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143293	1471939425408	1471939425576	 	32
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143294	1471939425592	1471939425760	a	65
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143295	1471939425705	1471939425864	s	83
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143296	1471939425824	1471939425944	 	32
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143297	1471939425984	1471939426080	c	67
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143298	1471939426176	1471939426282	r	82
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143313	1471939426280	1471939426368	i	73
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143315	1471939426392	1471939426512	t	84
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143318	1471939426800	1471939426920	i	73
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143321	1471939426928	1471939427096	c	67
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143322	1471939427048	1471939427160	s	83
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143341	1471939427128	1471939427264	 	32
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143343	1471939427240	1471939427384	a	65
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143346	1471939427520	1471939427640	t	84
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143349	1471939427600	1471939427696	 	32
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143353	1471939427752	1471939427928	o	79
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143366	1471939427840	1471939427976	n	78
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143368	1471939427920	1471939428040	e	69
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143371	1471939427984	1471939428112	 	32
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143375	1471939428145	1471939428320	p	80
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143377	1471939428233	1471939428432	o	79
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143380	1471939428345	1471939428538	i	73
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143396	1471939428521	1471939428649	n	78
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143398	1471939428641	1471939428784	t	84
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143401	1471939428728	1471939428840	 	32
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143404	1471939429081	1471939429192	o	79
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143407	1471939429145	1471939429280	r	82
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143437	1471939429217	1471939429352	 	32
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143438	1471939429345	1471939429504	a	65
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143440	1471939429449	1471939429584	n	78
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143445	1471939429593	1471939429776	o	79
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143449	1471939430553	1471939430665	t	84
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143464	1471939430617	1471939430736	h	72
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143467	1471939430745	1471939430857	e	69
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143472	1471939430817	1471939430921	r	82
+319	2953	Some of us may have have acted as critics at one point or another.	Some of us may have have acted as critics at one point or another.	143475	1471939430881	1471939430992	.	190

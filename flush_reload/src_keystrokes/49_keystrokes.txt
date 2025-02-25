@@ -1,0 +1,823 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15421	1471934924513	1471934924780	SHIFT	16
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15414	1471934924584	1471934924648	I	73
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15429	1471934925262	1471934925378	'	222
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15436	1471934925486	1471934925634	m	77
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15439	1471934925676	1471934925804	 	32
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15441	1471934926588	1471934926664	q	81
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15479	1471934926996	1471934927084	BKSP	8
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15480	1471934927323	1471934927472	w	87
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15481	1471934927459	1471934927619	o	79
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15482	1471934927812	1471934927928	r	82
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15483	1471934927949	1471934928089	k	75
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15485	1471934928120	1471934928332	i	73
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15529	1471934928256	1471934928408	n	78
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15531	1471934928427	1471934928551	g	71
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15533	1471934928563	1471934928695	 	32
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15535	1471934929131	1471934929343	o	79
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15537	1471934929323	1471934929471	n	78
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15539	1471934929490	1471934929582	 	32
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15604	1471934929625	1471934929781	a	65
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15608	1471934929800	1471934929904	 	32
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15613	1471934930446	1471934930550	l	76
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15618	1471934930754	1471934930830	i	73
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15622	1471934931223	1471934931363	q	81
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15734	1471934933615	1471934933831	u	85
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15735	1471934933759	1471934933927	i	73
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15736	1471934934034	1471934934170	d	68
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15737	1471934934595	1471934934687	i	73
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15738	1471934934771	1471934934939	t	84
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15814	1471934934983	1471934935107	y	89
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15815	1471934935191	1471934935299	 	32
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15816	1471934936130	1471934936270	f	70
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15817	1471934936262	1471934936414	o	79
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15818	1471934936704	1471934936876	r	82
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15900	1471934936808	1471934936996	e	69
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15904	1471934937107	1471934937199	 	32
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15909	1471934937952	1471934938044	BKSP	8
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15911	1471934938145	1471934938321	c	67
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15915	1471934938250	1471934938501	a	65
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15918	1471934938381	1471934938632	s	83
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15921	1471934938728	1471934938880	t	84
+49	324	I'm working on a liquidity forecast.	I'm working on a liquidity forecast.	15922	1471934938999	1471934939143	.	190
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16073	1471934942062	1471934942296	SHIFT	16
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16069	1471934942125	1471934942284	I	73
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16078	1471934942516	1471934942584	t	84
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16080	1471934942967	1471934943066	'	222
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16082	1471934943115	1471934943266	s	83
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16084	1471934943270	1471934943402	 	32
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16154	1471934943605	1471934943804	a	65
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16158	1471934943740	1471934943860	 	32
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16162	1471934944136	1471934944260	s	83
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16165	1471934944289	1471934944481	h	72
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16168	1471934945345	1471934945573	a	65
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16207	1471934945454	1471934945575	m	77
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16209	1471934945607	1471934945751	e	69
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16210	1471934945801	1471934945925	 	32
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16213	1471934946442	1471934946593	y	89
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16217	1471934946533	1471934946709	o	79
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16219	1471934946710	1471934946837	 	32
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16291	1471934946963	1471934947047	BKSP	8
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16294	1471934947102	1471934947194	BKSP	8
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16297	1471934947252	1471934947320	BKSP	8
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16299	1471934947708	1471934947836	BKSP	8
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16300	1471934947974	1471934948095	t	84
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16301	1471934948081	1471934948185	o	79
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16303	1471934948362	1471934948449	BKSP	8
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16306	1471934948502	1471934948606	BKSP	8
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16311	1471934948742	1471934948846	 	32
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16314	1471934949162	1471934949310	t	84
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16318	1471934949377	1471934949528	o	79
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16348	1471934949532	1471934949665	 	32
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16353	1471934949773	1471934949848	h	72
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16360	1471934949909	1471934950072	a	65
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16366	1471934950196	1471934950287	e	69
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16372	1471934950617	1471934950789	BKSP	8
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16376	1471934950873	1471934951080	v	86
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16420	1471934950993	1471934951175	e	69
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16421	1471934951173	1471934951288	 	32
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16423	1471934951989	1471934952144	t	84
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16426	1471934952061	1471934952236	o	79
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16429	1471934952209	1471934952380	 	32
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16431	1471934952385	1471934952600	m	77
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16483	1471934952537	1471934952688	i	73
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16484	1471934952693	1471934952761	s	83
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16485	1471934952853	1471934952948	s	83
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16486	1471934953044	1471934953148	 	32
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16487	1471934953508	1471934953704	o	79
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16488	1471934953726	1471934953873	n	78
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16514	1471934953930	1471934954042	e	69
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16515	1471934954066	1471934954202	 	32
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16517	1471934954290	1471934954409	o	79
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16518	1471934954506	1471934954634	r	82
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16520	1471934954788	1471934954900	 	32
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16556	1471934955360	1471934955531	t	84
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16559	1471934955476	1471934955564	h	72
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16560	1471934955611	1471934955782	e	69
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16561	1471934955699	1471934955847	 	32
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16562	1471934955865	1471934956076	p	80
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16641	1471934956033	1471934956189	t	84
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16642	1471934956161	1471934956289	h	72
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16643	1471934956422	1471934956557	r	69
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16644	1471934957148	1471934957208	BKSP	8
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16645	1471934957275	1471934957355	BKSP	8
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16646	1471934957430	1471934957490	BKSP	8
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16648	1471934957571	1471934957659	BKSP	8
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16653	1471934957742	1471934957846	BKSP	8
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16659	1471934958461	1471934958613	o	79
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16666	1471934958632	1471934958795	t	84
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16744	1471934958740	1471934958844	h	72
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16746	1471934958938	1471934959133	w	87
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16749	1471934959074	1471934959330	r	82
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16751	1471934959476	1471934959576	BKSP	8
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16753	1471934959633	1471934959722	BKSP	8
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16755	1471934959786	1471934960069	e	69
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16757	1471934959946	1471934960150	r	82
+49	339	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	16759	1471934960513	1471934960617	.	190
+49	355	I know you changed it.	I know you changed it	16869	1471934963136	1471934963348	SHIFT	16
+49	355	I know you changed it.	I know you changed it	16868	1471934963220	1471934963319	I	73
+49	355	I know you changed it.	I know you changed it	16872	1471934963510	1471934963614	 	32
+49	355	I know you changed it.	I know you changed it	16937	1471934963964	1471934964359	k	75
+49	355	I know you changed it.	I know you changed it	16875	1471934964058	1471934964304	n	78
+49	355	I know you changed it.	I know you changed it	16938	1471934964236	1471934964479	o	79
+49	355	I know you changed it.	I know you changed it	16939	1471934964484	1471934964672	w	87
+49	355	I know you changed it.	I know you changed it	16940	1471934964636	1471934964784	 	32
+49	355	I know you changed it.	I know you changed it	16941	1471934965535	1471934965714	y	89
+49	355	I know you changed it.	I know you changed it	16942	1471934965675	1471934965984	o	79
+49	355	I know you changed it.	I know you changed it	16986	1471934965910	1471934966107	u	85
+49	355	I know you changed it.	I know you changed it	16989	1471934966132	1471934966268	 	32
+49	355	I know you changed it.	I know you changed it	16995	1471934966725	1471934966932	c	67
+49	355	I know you changed it.	I know you changed it	16992	1471934966833	1471934966913	h	72
+49	355	I know you changed it.	I know you changed it	16999	1471934967020	1471934967259	a	65
+49	355	I know you changed it.	I know you changed it	17054	1471934967216	1471934967344	n	78
+49	355	I know you changed it.	I know you changed it	17056	1471934968139	1471934968195	g	71
+49	355	I know you changed it.	I know you changed it	17058	1471934968242	1471934968502	e	69
+49	355	I know you changed it.	I know you changed it	17060	1471934968728	1471934968896	d	68
+49	355	I know you changed it.	I know you changed it	17062	1471934968940	1471934969084	 	32
+49	355	I know you changed it.	I know you changed it	17064	1471934969268	1471934969376	i	73
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17211	1471934969393	1471934972688	t	84
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17212	1471934972516	1471934972792	SHIFT	16
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17214	1471934972832	1471934972936	h	72
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17216	1471934972973	1471934973137	e	69
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17218	1471934973145	1471934973273	 	32
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17219	1471934973731	1471934973871	a	65
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17220	1471934973971	1471934974031	c	67
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17238	1471934974137	1471934974241	c	67
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17240	1471934974306	1471934974439	o	79
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17243	1471934974516	1471934974616	r	82
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17246	1471934974675	1471934974811	d	68
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17249	1471934974887	1471934975027	 	32
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17295	1471934975473	1471934975589	w	87
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17296	1471934975643	1471934975999	s	83
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17297	1471934976280	1471934976345	BKSP	8
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17299	1471934976428	1471934976528	BKSP	8
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17303	1471934976571	1471934976743	w	87
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17306	1471934976953	1471934977177	a	65
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17346	1471934977098	1471934977317	s	83
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17348	1471934977325	1471934977457	 	32
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17350	1471934977909	1471934978037	d	68
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17352	1471934978071	1471934978203	u	85
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17354	1471934978353	1471934978532	e	69
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17356	1471934978611	1471934978771	 	32
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17377	1471934979094	1471934979246	t	84
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17381	1471934979190	1471934979394	o	79
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17386	1471934979406	1471934979550	 	32
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17390	1471934980060	1471934980152	h	72
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17394	1471934980156	1471934980297	a	65
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17429	1471934980366	1471934980521	v	86
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17432	1471934980596	1471934980740	e	69
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17434	1471934980781	1471934980873	 	32
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17437	1471934981256	1471934981456	c	67
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17492	1471934981340	1471934981588	o	79
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17496	1471934981496	1471934981670	m	77
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17498	1471934981649	1471934981812	e	69
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17501	1471934981805	1471934981932	 	32
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17505	1471934982656	1471934982881	i	73
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17567	1471934982793	1471934982978	n	78
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17570	1471934983068	1471934983280	t	84
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17573	1471934983220	1471934983540	o	79
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17576	1471934983717	1471934983844	 	32
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17580	1471934984704	1471934984820	e	69
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17585	1471934985132	1471934985207	f	70
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17623	1471934985303	1471934985423	f	70
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17625	1471934985501	1471934985733	e	69
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17627	1471934985704	1471934985904	c	67
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17629	1471934986203	1471934986347	t	84
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17631	1471934986388	1471934986503	 	32
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17708	1471934987145	1471934987288	o	79
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17710	1471934987379	1471934987532	v	86
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17711	1471934987520	1471934987766	e	69
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17713	1471934987717	1471934987915	r	82
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17714	1471934988076	1471934988287	n	78
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17779	1471934988188	1471934988359	i	73
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17783	1471934988617	1471934988816	g	71
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17786	1471934988781	1471934988860	h	72
+49	361	The accord was due to have come into effect overnight.	The accord was due to have come into effect overnight.	17789	1471934989001	1471934989117	t	84
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18454	1471934989329	1471935006230	.	190
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	17934	1471934992011	1471934992439	SHIFT	16
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	17936	1471934992264	1471934992520	A	65
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	17939	1471934992546	1471934992714	s	83
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	17943	1471934992792	1471934992917	 	32
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	17946	1471934993270	1471934993434	s	83
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	17988	1471934993414	1471934993497	o	79
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	17992	1471934993557	1471934993696	o	79
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	17996	1471934993804	1471934993991	n	78
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	17998	1471934994080	1471934994232	 	32
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18000	1471934994613	1471934994872	a	65
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18036	1471934994761	1471934994952	s	83
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18038	1471934994889	1471934995049	 	32
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18040	1471934995088	1471934995282	i	73
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18042	1471934995265	1471934995409	 	32
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18044	1471934995554	1471934995638	g	71
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18047	1471934995753	1471934995936	e	69
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18128	1471934995893	1471934996040	t	84
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18129	1471934996244	1471934996368	 	32
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18130	1471934996924	1471934997087	i	73
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18131	1471934997092	1471934997259	t	84
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18132	1471934997203	1471934997312	 	32
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18134	1471934998120	1471934998207	-	189
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18207	1471934998355	1471934998463	 	32
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18213	1471934999189	1471934999457	SHIFT	16
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18209	1471934999289	1471934999368	I	73
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18217	1471934999895	1471934999971	'	222
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18224	1471935000261	1471935000333	l	76
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18230	1471935000398	1471935000494	l	76
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18282	1471935000593	1471935000738	 	32
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18284	1471935001599	1471935001771	f	70
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18288	1471935001720	1471935001888	o	79
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18290	1471935002203	1471935002319	r	82
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18292	1471935002455	1471935002572	w	87
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18348	1471935002701	1471935002961	a	65
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18353	1471935002979	1471935003115	r	82
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18356	1471935003139	1471935003324	d	68
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18359	1471935003425	1471935003541	 	32
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18361	1471935003892	1471935004011	i	73
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18391	1471935004013	1471935004132	t	84
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18393	1471935004116	1471935004256	 	32
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18397	1471935004288	1471935004396	t	84
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18401	1471935004803	1471935004979	o	79
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18405	1471935004991	1471935005143	 	32
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18446	1471935005115	1471935005246	y	89
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18448	1471935005207	1471935005347	o	79
+49	376	As soon as I get it - I'll forward it to you.	As soon as i get it - I'll forward it to you.	18451	1471935005373	1471935005517	u	85
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18675	1471935008911	1471935009324	SHIFT	16
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18672	1471935009200	1471935009276	T	84
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18677	1471935009419	1471935009527	h	72
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18681	1471935009539	1471935009695	e	69
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18685	1471935009687	1471935009794	 	32
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18688	1471935010888	1471935011136	r	82
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18759	1471935011177	1471935011322	i	73
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18760	1471935011832	1471935012003	o	79
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18762	1471935012008	1471935012148	t	84
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18767	1471935012490	1471935012693	s	83
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18829	1471935012682	1471935012810	 	32
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18830	1471935013301	1471935013485	w	87
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18832	1471935013453	1471935013613	e	69
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18834	1471935013704	1471935013912	r	82
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18836	1471935013868	1471935014100	e	69
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18837	1471935014205	1471935014325	 	32
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18868	1471935014597	1471935014793	s	83
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18870	1471935014761	1471935014869	t	84
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18871	1471935014849	1471935015030	a	65
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18872	1471935015005	1471935015141	r	82
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18874	1471935015174	1471935015330	t	84
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18943	1471935015309	1471935015665	e	69
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18944	1471935015694	1471935015862	d	68
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18946	1471935015930	1471935016038	 	32
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18948	1471935016482	1471935016702	b	66
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18950	1471935016630	1471935016814	y	89
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18952	1471935016838	1471935016966	 	32
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18995	1471935017071	1471935017219	n	78
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	18999	1471935017234	1471935017410	a	65
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	19002	1471935017603	1471935017779	t	84
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	19005	1471935017703	1471935017907	i	73
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	19008	1471935017994	1471935018202	v	86
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	19130	1471935018130	1471935018326	e	69
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	19133	1471935018380	1471935018484	 	32
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	19138	1471935019069	1471935019261	SHIFT	16
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	19136	1471935019162	1471935019249	T	84
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	19141	1471935019442	1471935019583	a	65
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	19145	1471935019570	1471935019726	i	73
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	19148	1471935020410	1471935020570	w	87
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	19251	1471935020965	1471935021095	a	65
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	19255	1471935022810	1471935022942	n	78
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	19259	1471935023208	1471935023355	e	69
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	19264	1471935023582	1471935023738	s	83
+49	390	The riots were started by native Taiwanese.	The riots were started by native Taiwanese	19267	1471935023833	1471935023960	e	69
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19393	1471935026176	1471935026693	SHIFT	16
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19395	1471935026629	1471935026728	H	72
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19403	1471935026845	1471935027004	e	69
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19409	1471935026921	1471935027080	 	32
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19414	1471935027104	1471935027283	i	73
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19461	1471935027216	1471935027368	s	83
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19465	1471935027344	1471935027483	 	32
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19470	1471935027954	1471935028066	l	76
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19473	1471935028157	1471935028281	i	73
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19477	1471935028478	1471935028637	d	68
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19479	1471935028667	1471935028770	t	84
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19552	1471935029324	1471935029423	BKSP	8
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19554	1471935029461	1471935029553	BKSP	8
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19556	1471935029803	1471935029943	s	83
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19558	1471935030120	1471935030247	t	84
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19560	1471935030274	1471935030505	e	69
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19562	1471935030410	1471935030613	d	68
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19564	1471935030639	1471935030771	 	32
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19638	1471935031204	1471935031459	a	65
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19639	1471935031368	1471935031531	s	83
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19641	1471935031492	1471935031628	 	32
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19644	1471935032813	1471935032968	p	80
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19647	1471935032981	1471935033132	r	82
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19692	1471935033093	1471935033252	o	79
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19695	1471935033717	1471935033924	a	65
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19700	1471935033853	1471935034068	b	66
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19703	1471935034025	1471935034296	l	76
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19708	1471935034301	1471935034460	e	69
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19709	1471935034465	1471935034589	 	32
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19868	1471935035104	1471935035160	BKSP	8
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19870	1471935035300	1471935035355	BKSP	8
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19872	1471935035442	1471935035530	BKSP	8
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19873	1471935035589	1471935035721	BKSP	8
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19874	1471935035890	1471935036026	BKSP	8
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19875	1471935037468	1471935037551	b	66
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19876	1471935037589	1471935037698	a	65
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19877	1471935037990	1471935038063	b	66
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19878	1471935038622	1471935038750	l	76
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19879	1471935038774	1471935038925	e	69
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19936	1471935038894	1471935039018	 	32
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19937	1471935039950	1471935040155	f	70
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19938	1471935040072	1471935040223	o	79
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19940	1471935040232	1471935040376	t	84
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19943	1471935040313	1471935040404	 	32
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	19949	1471935040546	1471935040785	h	72
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20074	1471935040698	1471935040901	i	73
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20078	1471935040862	1471935041007	s	83
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20083	1471935040994	1471935041106	 	32
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20085	1471935041326	1471935041390	BKSP	8
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20088	1471935041476	1471935041552	BKSP	8
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20091	1471935041632	1471935041704	BKSP	8
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20096	1471935041778	1471935041854	BKSP	8
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20099	1471935041938	1471935042046	BKSP	8
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20102	1471935042094	1471935042190	BKSP	8
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20106	1471935042250	1471935042370	BKSP	8
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20107	1471935043366	1471935043493	o	79
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20109	1471935043478	1471935043598	r	82
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20112	1471935043578	1471935043690	 	32
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20114	1471935043708	1471935043831	t	84
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20115	1471935043836	1471935044055	h	72
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20116	1471935044008	1471935044168	i	73
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20118	1471935044120	1471935044260	s	83
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20210	1471935044244	1471935044364	i	73
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20214	1471935044434	1471935044554	 	32
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20219	1471935044931	1471935044975	BKSP	8
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20223	1471935045060	1471935045148	BKSP	8
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20228	1471935045492	1471935045580	 	32
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20232	1471935045792	1471935045908	w	87
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20236	1471935046086	1471935046147	e	69
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20238	1471935046240	1471935046287	e	69
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20276	1471935046342	1471935046410	k	75
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20279	1471935046817	1471935046905	'	222
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20281	1471935046953	1471935047061	s	83
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20284	1471935047137	1471935047197	 	32
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20286	1471935047936	1471935048020	g	71
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20297	1471935048028	1471935048236	a	65
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20299	1471935048196	1471935048293	m	77
+49	404	He is listed as probable for this week's game.	He is listed as probable for this week's game	20304	1471935048272	1471935048416	e	69
+49	424	Do you have a number for him?	Do you have a number for him?	20477	1471935051434	1471935052222	SHIFT	16
+49	424	Do you have a number for him?	Do you have a number for him?	20472	1471935052042	1471935052218	D	68
+49	424	Do you have a number for him?	Do you have a number for him?	20482	1471935052294	1471935052430	o	79
+49	424	Do you have a number for him?	Do you have a number for him?	20487	1471935052459	1471935052599	 	32
+49	424	Do you have a number for him?	Do you have a number for him?	20492	1471935052613	1471935052749	y	89
+49	424	Do you have a number for him?	Do you have a number for him?	20525	1471935052745	1471935053009	o	79
+49	424	Do you have a number for him?	Do you have a number for him?	20527	1471935052945	1471935053113	u	85
+49	424	Do you have a number for him?	Do you have a number for him?	20529	1471935053180	1471935053260	 	32
+49	424	Do you have a number for him?	Do you have a number for him?	20531	1471935053438	1471935053552	h	72
+49	424	Do you have a number for him?	Do you have a number for him?	20570	1471935053550	1471935053802	a	65
+49	424	Do you have a number for him?	Do you have a number for him?	20533	1471935053694	1471935053794	v	86
+49	424	Do you have a number for him?	Do you have a number for him?	20573	1471935053856	1471935053984	e	69
+49	424	Do you have a number for him?	Do you have a number for him?	20575	1471935053956	1471935054052	 	32
+49	424	Do you have a number for him?	Do you have a number for him?	20576	1471935054073	1471935054233	a	65
+49	424	Do you have a number for him?	Do you have a number for him?	20578	1471935054233	1471935054341	 	32
+49	424	Do you have a number for him?	Do you have a number for him?	20580	1471935054702	1471935054890	n	78
+49	424	Do you have a number for him?	Do you have a number for him?	20607	1471935054826	1471935054902	u	85
+49	424	Do you have a number for him?	Do you have a number for him?	20608	1471935055016	1471935055112	m	77
+49	424	Do you have a number for him?	Do you have a number for him?	20609	1471935055355	1471935055444	b	66
+49	424	Do you have a number for him?	Do you have a number for him?	20610	1471935055431	1471935055675	e	69
+49	424	Do you have a number for him?	Do you have a number for him?	20615	1471935055599	1471935055759	r	82
+49	424	Do you have a number for him?	Do you have a number for him?	20619	1471935055759	1471935055863	 	32
+49	424	Do you have a number for him?	Do you have a number for him?	20707	1471935056553	1471935056744	f	70
+49	424	Do you have a number for him?	Do you have a number for him?	20709	1471935056713	1471935056793	o	79
+49	424	Do you have a number for him?	Do you have a number for him?	20713	1471935057003	1471935057087	BKSP	8
+49	424	Do you have a number for him?	Do you have a number for him?	20715	1471935057160	1471935057244	BKSP	8
+49	424	Do you have a number for him?	Do you have a number for him?	20717	1471935057746	1471935057970	f	70
+49	424	Do you have a number for him?	Do you have a number for him?	20719	1471935057830	1471935057998	o	79
+49	424	Do you have a number for him?	Do you have a number for him?	20721	1471935058014	1471935058150	r	82
+49	424	Do you have a number for him?	Do you have a number for him?	20749	1471935058433	1471935058548	 	32
+49	424	Do you have a number for him?	Do you have a number for him?	20754	1471935058726	1471935058866	h	72
+49	424	Do you have a number for him?	Do you have a number for him?	20758	1471935058839	1471935058962	i	73
+49	424	Do you have a number for him?	Do you have a number for him?	20764	1471935059032	1471935059132	m	77
+49	424	Do you have a number for him?	Do you have a number for him?	20770	1471935059292	1471935059540	SHIFT	16
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	20978	1471935062626	1471935064583	CAPS_LOCK	20
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	20964	1471935062653	1471935063021	SHIFT	16
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	20972	1471935063187	1471935063575	SHIFT	16
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	20987	1471935064948	1471935065308	SHIFT	16
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	20993	1471935065192	1471935065376	W	87
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	20998	1471935065501	1471935065604	i	73
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21003	1471935065605	1471935065764	s	83
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21007	1471935065768	1471935065868	h	72
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21011	1471935065947	1471935066043	 	32
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21065	1471935066636	1471935066719	m	77
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21067	1471935066716	1471935066844	e	69
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21069	1471935066824	1471935066923	 	32
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21072	1471935067384	1471935067439	l	76
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21074	1471935067659	1471935067739	u	85
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21174	1471935067775	1471935067914	c	67
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21175	1471935068094	1471935068245	 	32
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21176	1471935068603	1471935068686	BKSP	8
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21178	1471935068732	1471935068827	BKSP	8
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21180	1471935069076	1471935069191	k	75
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21182	1471935069458	1471935069551	BKSP	8
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21185	1471935070185	1471935070344	c	67
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21226	1471935070309	1471935070417	k	75
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21230	1471935070449	1471935070573	 	32
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21233	1471935070886	1471935071089	w	87
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21235	1471935071018	1471935071173	i	73
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21239	1471935071254	1471935071366	h	72
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21241	1471935071424	1471935071560	t	84
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21315	1471935071605	1471935071721	 	32
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21317	1471935071962	1471935072057	BKSP	8
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21320	1471935072154	1471935072230	BKSP	8
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21324	1471935072567	1471935072671	BKSP	8
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21326	1471935072763	1471935072930	t	84
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21329	1471935072903	1471935073023	h	72
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21331	1471935073100	1471935073188	 	32
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21333	1471935073820	1471935074044	SHIFT	16
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21350	1471935073937	1471935074057	L	76
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21354	1471935074229	1471935074408	i	73
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21360	1471935074313	1471935074449	n	78
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21365	1471935074620	1471935074875	d	68
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21370	1471935074780	1471935075004	a	65
+49	434	Wish me luck with Linda.	Wish me luck with Linda.	21374	1471935075278	1471935075398	.	190
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21566	1471935078100	1471935079281	SHIFT	16
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21563	1471935078937	1471935079124	Z	90
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21570	1471935079602	1471935079735	o	79
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21572	1471935079964	1471935080095	u	85
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21574	1471935080880	1471935081008	,	188
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21577	1471935081100	1471935081208	 	32
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21632	1471935081554	1471935081797	SHIFT	16
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21631	1471935081666	1471935081753	I	73
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21633	1471935081778	1471935081945	 	32
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21635	1471935082078	1471935082262	h	72
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21637	1471935082567	1471935082802	o	79
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21710	1471935082739	1471935082982	[	219
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21711	1471935082903	1471935083115	e	69
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21712	1471935083059	1471935083203	 	32
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21713	1471935083357	1471935083425	BKSP	8
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21714	1471935083500	1471935083588	BKSP	8
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21715	1471935083659	1471935083771	BKSP	8
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21716	1471935084954	1471935085182	o	79
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21718	1471935085150	1471935085370	p	80
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21802	1471935085350	1471935085591	e	69
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21804	1471935085586	1471935085663	 	32
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21806	1471935085775	1471935086023	BKSP	8
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21808	1471935086099	1471935086167	BKSP	8
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21811	1471935086240	1471935086320	BKSP	8
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21812	1471935086398	1471935086506	BKSP	8
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21813	1471935086913	1471935087041	p	80
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21814	1471935087068	1471935087223	e	69
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21815	1471935087183	1471935087340	 	32
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21816	1471935087740	1471935087877	y	89
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21839	1471935087864	1471935088028	o	79
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21844	1471935088140	1471935088304	u	85
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21851	1471935088296	1471935088467	 	32
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21856	1471935088460	1471935088612	h	72
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21859	1471935088596	1471935088900	a	65
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21880	1471935088796	1471935089004	d	68
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21882	1471935088980	1471935089081	 	32
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21885	1471935089130	1471935089314	a	65
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21888	1471935089294	1471935089414	 	32
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21891	1471935089749	1471935089877	g	71
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21933	1471935089833	1471935089909	o	79
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21934	1471935089963	1471935090063	o	79
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21935	1471935090088	1471935090256	d	68
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21936	1471935090236	1471935090368	 	32
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21937	1471935091344	1471935091528	f	70
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21957	1471935091425	1471935091589	l	76
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21958	1471935091685	1471935091805	i	73
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21959	1471935091817	1471935091958	g	71
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21960	1471935091953	1471935092045	h	72
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21962	1471935092062	1471935092198	t	84
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	21965	1471935092254	1471935092377	 	32
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	22007	1471935093145	1471935093233	b	66
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	22011	1471935093275	1471935093491	a	65
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	22015	1471935093407	1471935093599	c	67
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	22018	1471935093543	1471935093683	k	75
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	22020	1471935093747	1471935093895	 	32
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	22048	1471935094114	1471935094262	t	84
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	22049	1471935094222	1471935094382	o	79
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	22050	1471935094407	1471935094527	 	32
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	22052	1471935094607	1471935094851	SHIFT	16
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	22051	1471935094707	1471935094823	T	84
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	22053	1471935094993	1471935095141	e	69
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	22109	1471935095486	1471935095666	x	88
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	22111	1471935095602	1471935095874	a	65
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	22114	1471935095766	1471935095954	s	83
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	22118	1471935096514	1471935096561	,	188
+49	448	Zou, I hope you had a good flight back to Texas.	Zou, I hope you had a good flight back to Texas.	22123	1471935096920	1471935097012	BKSP	8
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22909	1471935097247	1471935124023	.	190
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22247	1471935099481	1471935100665	SHIFT	16
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22245	1471935100525	1471935100621	H	72
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22248	1471935100803	1471935100967	e	69
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22250	1471935100908	1471935101071	 	32
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22252	1471935101064	1471935101251	i	73
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22297	1471935101208	1471935101379	s	83
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22299	1471935101335	1471935101447	 	32
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22301	1471935102052	1471935102204	e	69
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22305	1471935102370	1471935102542	x	88
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22309	1471935102757	1471935102933	p	80
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22345	1471935102926	1471935103149	e	69
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22347	1471935103133	1471935103305	c	67
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22349	1471935103539	1471935103682	t	84
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22351	1471935103895	1471935104071	e	69
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22353	1471935104097	1471935104289	d	68
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22355	1471935104380	1471935104511	 	32
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22361	1471935104717	1471935104864	t	84
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22362	1471935104837	1471935105008	o	79
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22363	1471935105001	1471935105100	 	32
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22365	1471935105211	1471935105458	l	76
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22423	1471935105415	1471935105638	p	80
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22430	1471935105702	1471935105897	a	65
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22432	1471935106195	1471935106283	BKSP	8
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22434	1471935106348	1471935106432	BKSP	8
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22436	1471935106489	1471935106564	BKSP	8
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22437	1471935106636	1471935106703	BKSP	8
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22438	1471935107191	1471935107242	 	32
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22439	1471935107347	1471935107559	p	80
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22440	1471935107448	1471935107643	l	76
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22442	1471935107686	1471935107878	a	65
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22483	1471935107920	1471935108038	y	89
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22484	1471935108160	1471935108295	 	32
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22486	1471935108994	1471935109217	i	73
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22488	1471935109146	1471935109325	n	78
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22492	1471935109334	1471935109449	 	32
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22572	1471935109457	1471935110000	SHIFT	16
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22570	1471935109730	1471935109893	S	83
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22574	1471935109898	1471935110025	U	85
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22576	1471935111221	1471935111398	BKSP	8
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22578	1471935111683	1471935111918	u	85
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22580	1471935111883	1471935112067	n	78
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22582	1471935112086	1471935112305	d	68
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22653	1471935112221	1471935112518	a	65
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22652	1471935112302	1471935112413	y	89
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22654	1471935113066	1471935113209	'	222
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22655	1471935113214	1471935113381	s	83
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22656	1471935113397	1471935113525	 	32
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22657	1471935114449	1471935114585	g	71
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22690	1471935114509	1471935114793	a	65
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22695	1471935114698	1471935114861	m	77
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22698	1471935114966	1471935115141	e	69
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22701	1471935115102	1471935115254	 	32
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22750	1471935115657	1471935115928	a	65
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22703	1471935115785	1471935115896	n	78
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22751	1471935115984	1471935116159	d	68
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22752	1471935116096	1471935116228	 	32
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22754	1471935116242	1471935116458	i	73
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22757	1471935117657	1471935117820	s	83
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22795	1471935117777	1471935117889	 	32
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22796	1471935118077	1471935118286	l	76
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22797	1471935118257	1471935118404	i	73
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22798	1471935118413	1471935118553	s	83
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22799	1471935118644	1471935118775	t	84
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22800	1471935118807	1471935119018	e	69
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22831	1471935118931	1471935119130	d	68
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22833	1471935119177	1471935119297	 	32
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22834	1471935119558	1471935119849	a	65
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22835	1471935119719	1471935119969	s	83
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22836	1471935119927	1471935120042	 	32
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22837	1471935120215	1471935120588	SHIFT	16
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22838	1471935121029	1471935121185	p	80
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22862	1471935121203	1471935121370	r	82
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22863	1471935121363	1471935121527	o	79
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22864	1471935122292	1471935122372	b	66
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22865	1471935122418	1471935122553	a	65
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22906	1471935122482	1471935122582	b	66
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22907	1471935122767	1471935122958	l	76
+49	460	He is expected to play in Sunday's game and is listed as probable.	He is expected to play in Sunday's game and is listed as probable.	22908	1471935122967	1471935123111	e	69
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	22981	1471935126821	1471935127697	SHIFT	16
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	22979	1471935127561	1471935127648	T	84
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	22984	1471935127786	1471935127886	h	72
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	22986	1471935127918	1471935128122	e	69
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	22988	1471935128046	1471935128166	 	32
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	22990	1471935128520	1471935128756	o	79
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23006	1471935128732	1471935128856	t	84
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23007	1471935128836	1471935128944	h	72
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23008	1471935128965	1471935129216	e	69
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23009	1471935129153	1471935129332	r	82
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23010	1471935129386	1471935129605	s	83
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23039	1471935129590	1471935129714	 	32
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23041	1471935130107	1471935130255	r	82
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23043	1471935130366	1471935130586	a	65
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23045	1471935130550	1471935130718	i	73
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23046	1471935130853	1471935130989	s	83
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23047	1471935131075	1471935131251	e	69
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23067	1471935131315	1471935131423	 	32
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23069	1471935131684	1471935131824	t	84
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23072	1471935131804	1471935131916	h	72
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23075	1471935131976	1471935132256	e	69
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23112	1471935132129	1471935132292	i	73
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23114	1471935132317	1471935132446	r	82
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23116	1471935132454	1471935132566	 	32
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23118	1471935133030	1471935133146	e	69
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23123	1471935133138	1471935133214	y	89
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23127	1471935133251	1471935133362	e	69
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23178	1471935133539	1471935133631	b	66
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23183	1471935133856	1471935133960	r	82
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23186	1471935134015	1471935134223	o	79
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23189	1471935134315	1471935134455	w	87
+49	478	The others raise their eyebrows.	The others raise their eyebrows.	23192	1471935135039	1471935135150	s	83
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23307	1471935138541	1471935139357	SHIFT	16
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23306	1471935139202	1471935139337	I	73
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23308	1471935139392	1471935139520	 	32
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23309	1471935139534	1471935139690	w	87
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23310	1471935139607	1471935139718	i	73
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23311	1471935139841	1471935139978	l	76
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23312	1471935140022	1471935140130	l	76
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23313	1471935140268	1471935140368	 	32
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23314	1471935140457	1471935140573	b	66
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23315	1471935140617	1471935140753	e	69
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23334	1471935140738	1471935140825	 	32
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23336	1471935140982	1471935141098	t	84
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23338	1471935141170	1471935141369	a	65
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23339	1471935141411	1471935141594	k	75
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23340	1471935141544	1471935141779	i	73
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23365	1471935141695	1471935141843	n	78
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23367	1471935141926	1471935142066	g	71
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23370	1471935142103	1471935142218	 	32
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23378	1471935142496	1471935142752	t	84
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23374	1471935142565	1471935142680	h	72
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23383	1471935142780	1471935142975	e	69
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23405	1471935142856	1471935143000	 	32
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23408	1471935143341	1471935143508	f	70
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23412	1471935143406	1471935143580	i	73
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23416	1471935143573	1471935143737	r	82
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23420	1471935143824	1471935144035	s	83
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23448	1471935143961	1471935144088	t	84
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23450	1471935144179	1471935144306	 	32
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23453	1471935144679	1471935144905	w	87
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23456	1471935144865	1471935144973	e	69
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23458	1471935145080	1471935145160	e	69
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23459	1471935145194	1471935145282	k	75
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23508	1471935145362	1471935145498	 	32
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23510	1471935145746	1471935145957	i	73
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23512	1471935145906	1471935146057	n	78
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23513	1471935146091	1471935146211	 	32
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23515	1471935146267	1471935146615	SHIFT	16
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23555	1471935146507	1471935146655	D	68
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23558	1471935146794	1471935147002	e	69
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23560	1471935146970	1471935147190	c	67
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23562	1471935147235	1471935147387	m	77
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23565	1471935147415	1471935147551	e	69
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23566	1471935147787	1471935147907	b	66
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23591	1471935147922	1471935148188	e	69
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23593	1471935148073	1471935148297	r	82
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23596	1471935148415	1471935148535	 	32
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23600	1471935148885	1471935148993	o	79
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23602	1471935149445	1471935149485	f	70
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23657	1471935149587	1471935149671	f	70
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23660	1471935150800	1471935150896	,	188
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23662	1471935151077	1471935151149	 	32
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23665	1471935151633	1471935151820	t	84
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23697	1471935151721	1471935151953	h	72
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23700	1471935151849	1471935152092	o	79
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23705	1471935152061	1471935152212	g	71
+49	485	I will be taking the first week in December off, though.	I will be taking the first week in Decmeber off, thogh.	23708	1471935152145	1471935152285	h	72
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	24057	1471935136305	1471935165717	.	190
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23788	1471935155599	1471935156003	SHIFT	16
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23786	1471935155871	1471935155971	M	77
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23790	1471935156208	1471935156360	e	69
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23793	1471935156469	1471935156561	g	71
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23796	1471935156615	1471935156831	a	65
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23853	1471935156783	1471935156915	n	78
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23859	1471935157644	1471935157804	,	188
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23865	1471935157888	1471935158012	 	32
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23871	1471935158391	1471935158654	t	84
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23875	1471935158543	1471935158755	r	82
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23923	1471935158716	1471935158971	u	85
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23925	1471935159978	1471935160158	BKSP	8
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23926	1471935160166	1471935160326	y	89
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23928	1471935160298	1471935160418	 	32
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23930	1471935160735	1471935160852	t	84
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23932	1471935160851	1471935161103	h	72
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23965	1471935160985	1471935161191	i	73
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23967	1471935161176	1471935161344	s	83
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23969	1471935161386	1471935161518	 	32
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23971	1471935161905	1471935162201	f	70
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23975	1471935162005	1471935162220	o	79
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	23977	1471935162233	1471935162396	r	82
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	24026	1471935162361	1471935162509	 	32
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	24027	1471935162860	1471935163305	SHIFT	16
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	24028	1471935163114	1471935163305	P	80
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	24029	1471935163505	1471935163581	i	73
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	24030	1471935163841	1471935163933	l	76
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	24031	1471935164023	1471935164123	l	76
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	24032	1471935164378	1471935164466	i	73
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	24055	1471935164609	1471935164816	p	80
+49	494	Megan, try this for Phillips.	Megan, try this for Pillips.	24056	1471935164825	1471935164969	s	83
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24176	1471935167842	1471935168686	SHIFT	16
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24174	1471935168482	1471935168590	B	66
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24178	1471935168779	1471935169003	p	80
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24180	1471935169082	1471935169237	y	89
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24182	1471935169297	1471935169401	,	188
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24185	1471935169548	1471935169684	 	32
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24276	1471935169943	1471935170107	i	73
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24277	1471935170129	1471935170245	 	32
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24278	1471935170164	1471935170361	SHIFT	16
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24279	1471935170797	1471935170877	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24280	1471935170938	1471935171042	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24285	1471935171330	1471935172014	SHIFT	16
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24282	1471935171642	1471935171794	C	67
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24291	1471935172228	1471935172360	 	32
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24294	1471935172661	1471935172841	c	67
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24356	1471935172777	1471935172925	o	79
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24358	1471935173004	1471935173112	u	85
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24362	1471935173277	1471935173349	l	76
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24364	1471935173781	1471935173873	'	222
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24366	1471935174522	1471935174661	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24368	1471935174830	1471935174910	n	78
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24369	1471935175174	1471935175358	'	222
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24496	1471935175338	1471935175521	t	84
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24498	1471935175518	1471935175654	 	32
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24500	1471935176199	1471935176275	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24502	1471935176347	1471935176423	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24504	1471935176494	1471935176582	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24506	1471935176651	1471935176727	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24508	1471935176796	1471935176888	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24512	1471935176959	1471935177035	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24515	1471935177101	1471935177189	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24517	1471935177251	1471935177343	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24521	1471935177419	1471935178579	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24527	1471935178742	1471935179078	SHIFT	16
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24534	1471935178906	1471935179130	B	66
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24539	1471935179154	1471935179326	o	79
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24546	1471935179394	1471935179522	y	89
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24548	1471935180223	1471935180323	,	188
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24553	1471935180432	1471935180532	 	32
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24556	1471935180580	1471935180956	SHIFT	16
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24554	1471935180764	1471935180912	I	73
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24558	1471935181193	1471935181297	 	32
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24560	1471935181565	1471935181713	c	67
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24643	1471935181700	1471935181840	o	79
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24647	1471935181965	1471935182044	u	85
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24651	1471935182867	1471935182971	l	76
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24654	1471935183387	1471935183554	n	78
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24657	1471935183807	1471935183988	'	222
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24799	1471935183984	1471935184155	t	84
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24802	1471935184156	1471935184311	 	32
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24807	1471935184867	1471935184955	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24812	1471935185039	1471935185123	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24815	1471935185201	1471935185281	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24817	1471935185384	1471935185504	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24819	1471935186606	1471935186721	d	68
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24820	1471935186803	1471935186870	n	78
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24822	1471935187300	1471935187387	'	222
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24823	1471935187711	1471935187885	t	84
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24852	1471935187843	1471935187998	 	32
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24854	1471935188516	1471935188835	w	87
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24857	1471935188732	1471935188927	r	82
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24859	1471935188852	1471935188987	o	79
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24862	1471935189199	1471935189443	t	84
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24942	1471935189319	1471935189462	r	82
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24944	1471935189407	1471935189570	e	69
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24946	1471935190118	1471935190170	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24948	1471935190255	1471935190334	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24950	1471935190385	1471935190484	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24951	1471935190541	1471935190629	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24953	1471935191342	1471935191497	i	73
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24955	1471935191595	1471935191846	t	84
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24957	1471935191723	1471935191962	e	69
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24960	1471935191907	1471935192046	 	32
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	24963	1471935192483	1471935192603	t	84
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25017	1471935192931	1471935193014	p	80
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25018	1471935193070	1471935193166	p	80
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25019	1471935193344	1471935193448	 	32
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25021	1471935193696	1471935193768	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25024	1471935193847	1471935193914	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25027	1471935194004	1471935194072	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25029	1471935194552	1471935194628	o	79
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25031	1471935194703	1471935194802	o	79
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25075	1471935194984	1471935195339	m	77
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25078	1471935195272	1471935195436	u	85
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25083	1471935195637	1471935195717	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25085	1471935195789	1471935195901	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25086	1471935195994	1471935196126	 	32
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25087	1471935196252	1471935196391	,	188
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25088	1471935196481	1471935196652	u	85
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25151	1471935196661	1471935196796	c	67
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25153	1471935196801	1471935196929	h	72
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25155	1471935196976	1471935197128	 	32
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25157	1471935197341	1471935197393	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25159	1471935197481	1471935197561	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25161	1471935197618	1471935197694	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25162	1471935197765	1471935197849	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25163	1471935197939	1471935198039	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25164	1471935198128	1471935198260	BKSP	8
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25166	1471935198571	1471935198679	 	32
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25169	1471935198952	1471935199171	m	77
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25206	1471935199132	1471935199323	u	85
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25207	1471935199300	1471935199475	c	67
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25210	1471935199400	1471935199568	h	72
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25212	1471935199616	1471935199752	 	32
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25214	1471935200470	1471935200622	o	79
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25217	1471935200673	1471935200804	n	78
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25227	1471935200806	1471935200949	 	32
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25228	1471935200980	1471935201140	t	84
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25229	1471935201154	1471935201369	h	72
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25230	1471935201286	1471935201469	i	73
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25263	1471935201445	1471935201639	s	83
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25265	1471935201626	1471935201750	 	32
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25268	1471935202347	1471935202504	t	84
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25270	1471935202502	1471935202698	h	72
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25272	1471935202647	1471935202839	i	73
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25274	1471935202867	1471935202987	n	78
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25303	1471935203044	1471935203192	g	71
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25307	1471935203673	1471935204122	SHIFT	16
+49	503	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	25306	1471935203894	1471935204113	!	49

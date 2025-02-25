@@ -1,0 +1,759 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+851	8524	Could you try ringing her?	Could you try ringing her?	409215	1471946395140	1471946395474	SHIFT	16
+851	8524	Could you try ringing her?	Could you try ringing her?	409213	1471946395362	1471946395459	C	67
+851	8524	Could you try ringing her?	Could you try ringing her?	409216	1471946395851	1471946396117	o	79
+851	8524	Could you try ringing her?	Could you try ringing her?	409218	1471946396019	1471946396164	u	85
+851	8524	Could you try ringing her?	Could you try ringing her?	409220	1471946396577	1471946396733	l	76
+851	8524	Could you try ringing her?	Could you try ringing her?	409304	1471946396688	1471946396824	d	68
+851	8524	Could you try ringing her?	Could you try ringing her?	409307	1471946397007	1471946397110	 	32
+851	8524	Could you try ringing her?	Could you try ringing her?	409311	1471946397738	1471946397849	y	89
+851	8524	Could you try ringing her?	Could you try ringing her?	409315	1471946397865	1471946397992	o	79
+851	8524	Could you try ringing her?	Could you try ringing her?	409323	1471946398339	1471946398438	u	85
+851	8524	Could you try ringing her?	Could you try ringing her?	409328	1471946398836	1471946398918	 	32
+851	8524	Could you try ringing her?	Could you try ringing her?	409393	1471946399028	1471946399170	t	84
+851	8524	Could you try ringing her?	Could you try ringing her?	409397	1471946399264	1471946399473	r	82
+851	8524	Could you try ringing her?	Could you try ringing her?	409400	1471946399488	1471946399600	y	89
+851	8524	Could you try ringing her?	Could you try ringing her?	409404	1471946399839	1471946399951	 	32
+851	8524	Could you try ringing her?	Could you try ringing her?	409409	1471946400709	1471946400777	r	82
+851	8524	Could you try ringing her?	Could you try ringing her?	409440	1471946400888	1471946400977	i	73
+851	8524	Could you try ringing her?	Could you try ringing her?	409442	1471946401087	1471946401210	n	78
+851	8524	Could you try ringing her?	Could you try ringing her?	409445	1471946401320	1471946401519	g	71
+851	8524	Could you try ringing her?	Could you try ringing her?	409448	1471946401479	1471946401650	i	73
+851	8524	Could you try ringing her?	Could you try ringing her?	409452	1471946401666	1471946401830	n	78
+851	8524	Could you try ringing her?	Could you try ringing her?	409505	1471946401886	1471946401975	g	71
+851	8524	Could you try ringing her?	Could you try ringing her?	409506	1471946402085	1471946402214	 	32
+851	8524	Could you try ringing her?	Could you try ringing her?	409508	1471946402856	1471946402972	h	72
+851	8524	Could you try ringing her?	Could you try ringing her?	409510	1471946403018	1471946403128	e	69
+851	8524	Could you try ringing her?	Could you try ringing her?	409514	1471946403175	1471946403275	r	82
+851	8524	Could you try ringing her?	Could you try ringing her?	409573	1471946404132	1471946404351	SHIFT	16
+851	8524	Could you try ringing her?	Could you try ringing her?	409575	1471946404279	1471946404435	?	191
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409759	1471946408362	1471946408666	SHIFT	16
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409756	1471946408487	1471946408588	O	79
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409764	1471946408931	1471946409056	BKSP	8
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409768	1471946409166	1471946409335	SHIFT	16
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409775	1471946409271	1471946409366	I	73
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409779	1471946410272	1471946410366	'	222
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409784	1471946410864	1471946410934	l	76
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409789	1471946411037	1471946411117	l	76
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409822	1471946411259	1471946411344	 	32
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409824	1471946411800	1471946411900	f	70
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409826	1471946411963	1471946412073	i	73
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409828	1471946412198	1471946412316	n	78
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409829	1471946412531	1471946412649	d	68
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409864	1471946412751	1471946412857	 	32
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409865	1471946413536	1471946413600	s	83
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409867	1471946413710	1471946413805	o	79
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409869	1471946413916	1471946414016	m	77
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409871	1471946414063	1471946414139	e	69
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409927	1471946414312	1471946414416	o	79
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409929	1471946414537	1471946414657	n	78
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409932	1471946414720	1471946414832	e	69
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409934	1471946414966	1471946415130	 	32
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409936	1471946415869	1471946415982	t	84
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409954	1471946415967	1471946416067	o	79
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409956	1471946416208	1471946416303	 	32
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409960	1471946416381	1471946416483	d	68
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409964	1471946416548	1471946416661	o	79
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409966	1471946416803	1471946416911	 	32
+851	8536	I'll find someone to do it.	I'll find someone to do it.	409968	1471946417050	1471946417181	i	73
+851	8536	I'll find someone to do it.	I'll find someone to do it.	410040	1471946417214	1471946417304	t	84
+851	8536	I'll find someone to do it.	I'll find someone to do it.	410042	1471946418303	1471946418361	.	190
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410135	1471946421773	1471946421908	SHIFT	16
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410132	1471946421820	1471946421908	T	84
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410137	1471946422002	1471946422092	h	72
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410138	1471946422123	1471946422222	e	69
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410139	1471946422237	1471946422347	 	32
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410140	1471946422488	1471946422603	t	84
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410181	1471946422651	1471946422749	r	82
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410182	1471946423074	1471946423348	i	73
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410184	1471946423235	1471946423380	p	80
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410187	1471946423653	1471946423811	 	32
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410190	1471946424400	1471946424546	i	73
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410237	1471946424687	1471946424783	s	83
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410238	1471946424861	1471946424958	 	32
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410240	1471946425753	1471946425864	n	78
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410242	1471946425942	1471946426033	e	69
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410245	1471946426119	1471946426267	v	86
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410329	1471946426248	1471946426334	e	69
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410336	1471946426403	1471946426522	r	82
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410339	1471946427447	1471946427541	t	84
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410344	1471946427635	1471946427732	h	72
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410349	1471946427764	1471946427850	e	69
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410354	1471946428390	1471946428553	l	76
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410397	1471946428632	1471946428764	e	69
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410401	1471946428936	1471946429048	s	83
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410406	1471946429126	1471946429222	s	83
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410410	1471946429597	1471946429701	 	32
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410414	1471946429917	1471946430001	i	73
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410435	1471946430096	1471946430317	m	77
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410436	1471946430271	1471946430502	p	80
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410437	1471946430460	1471946430556	i	73
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410439	1471946430747	1471946430866	r	82
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410441	1471946430956	1471946431081	t	84
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410502	1471946431098	1471946431215	a	65
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410503	1471946431478	1471946431729	n	78
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410505	1471946433025	1471946433116	t	84
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410507	1471946433272	1471946433382	 	32
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410509	1471946433547	1471946433649	t	84
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410538	1471946433761	1471946433857	o	79
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410542	1471946434014	1471946434095	 	32
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410545	1471946434501	1471946434600	s	83
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410548	1471946434710	1471946434806	e	69
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410550	1471946434838	1471946434956	t	84
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410603	1471946435190	1471946435321	 	32
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410605	1471946435873	1471946435961	t	84
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410606	1471946436079	1471946436182	h	72
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410607	1471946436222	1471946436332	e	69
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410608	1471946436363	1471946436481	 	32
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410663	1471946436996	1471946437063	c	67
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410664	1471946437193	1471946437290	o	79
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410667	1471946437384	1471946437498	u	85
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410670	1471946437701	1471946437829	r	82
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410738	1471946437829	1471946437932	s	83
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410741	1471946438004	1471946438144	e	69
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410745	1471946438765	1471946438881	 	32
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410748	1471946439115	1471946439231	f	70
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410752	1471946439294	1471946439399	o	79
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410756	1471946439446	1471946439534	r	82
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410806	1471946439753	1471946439903	 	32
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410807	1471946440595	1471946440683	f	70
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410808	1471946440771	1471946440889	u	85
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410809	1471946441247	1471946441367	t	84
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410810	1471946441383	1471946441475	t	84
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410927	1471946441435	1471946441602	u	85
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410929	1471946441696	1471946441899	r	82
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410935	1471946441838	1471946441993	e	69
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410940	1471946442569	1471946442665	BKSP	8
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410942	1471946442759	1471946442849	BKSP	8
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410945	1471946442950	1471946443048	BKSP	8
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410947	1471946443141	1471946443271	BKSP	8
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410949	1471946443851	1471946443978	y	89
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410951	1471946444370	1471946444559	BKSP	8
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410953	1471946445201	1471946445306	u	85
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	410955	1471946445463	1471946445600	r	82
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	411016	1471946445581	1471946445703	e	69
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	411018	1471946445937	1471946446055	 	32
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	411020	1471946446703	1471946446790	t	84
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	411022	1471946446993	1471946447091	i	73
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	411024	1471946447138	1471946447278	e	69
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	411025	1471946447399	1471946447490	s	83
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	411168	1471946448309	1471946448390	.	190
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	411170	1471946450744	1471946450864	BKSP	8
+851	8549	The trip is nevertheless important to set the course for future ties.	The trip is nevertheless important to set the course for future ties.	411175	1471946451198	1471946451346	o	79
+851	8578	You have 15 active players.	You have 15 active players.	411314	1471946455630	1471946455887	SHIFT	16
+851	8578	You have 15 active players.	You have 15 active players.	411313	1471946455739	1471946455855	Y	89
+851	8578	You have 15 active players.	You have 15 active players.	411316	1471946456265	1471946456413	o	79
+851	8578	You have 15 active players.	You have 15 active players.	411318	1471946456542	1471946456654	u	85
+851	8578	You have 15 active players.	You have 15 active players.	411319	1471946456795	1471946456867	 	32
+851	8578	You have 15 active players.	You have 15 active players.	411320	1471946457008	1471946457122	h	72
+851	8578	You have 15 active players.	You have 15 active players.	411384	1471946457074	1471946457253	a	65
+851	8578	You have 15 active players.	You have 15 active players.	411386	1471946457268	1471946457348	v	86
+851	8578	You have 15 active players.	You have 15 active players.	411388	1471946457411	1471946457522	e	69
+851	8578	You have 15 active players.	You have 15 active players.	411392	1471946457651	1471946457763	 	32
+851	8578	You have 15 active players.	You have 15 active players.	411394	1471946458490	1471946458581	1	49
+851	8578	You have 15 active players.	You have 15 active players.	411396	1471946459094	1471946459166	5	53
+851	8578	You have 15 active players.	You have 15 active players.	411458	1471946459353	1471946459479	 	32
+851	8578	You have 15 active players.	You have 15 active players.	411459	1471946459573	1471946459689	a	65
+851	8578	You have 15 active players.	You have 15 active players.	411461	1471946459767	1471946459881	c	67
+851	8578	You have 15 active players.	You have 15 active players.	411463	1471946460000	1471946460090	t	84
+851	8578	You have 15 active players.	You have 15 active players.	411466	1471946460450	1471946460564	i	73
+851	8578	You have 15 active players.	You have 15 active players.	411530	1471946460816	1471946460948	v	86
+851	8578	You have 15 active players.	You have 15 active players.	411534	1471946460964	1471946461089	e	69
+851	8578	You have 15 active players.	You have 15 active players.	411539	1471946461182	1471946461315	 	32
+851	8578	You have 15 active players.	You have 15 active players.	411544	1471946462123	1471946462215	p	80
+851	8578	You have 15 active players.	You have 15 active players.	411547	1471946462293	1471946462406	l	76
+851	8578	You have 15 active players.	You have 15 active players.	411591	1471946462422	1471946462547	a	65
+851	8578	You have 15 active players.	You have 15 active players.	411593	1471946462656	1471946462764	y	89
+851	8578	You have 15 active players.	You have 15 active players.	411594	1471946462932	1471946463034	e	69
+851	8578	You have 15 active players.	You have 15 active players.	411596	1471946464332	1471946464448	r	82
+851	8578	You have 15 active players.	You have 15 active players.	411597	1471946464495	1471946464606	s	83
+851	8578	You have 15 active players.	You have 15 active players.	411633	1471946465413	1471946465502	.	190
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	411759	1471946468685	1471946468825	SHIFT	16
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	411763	1471946468745	1471946468856	H	72
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	411766	1471946469028	1471946469125	e	69
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	411768	1471946469266	1471946469381	 	32
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	411772	1471946469645	1471946469772	SHIFT	16
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	411776	1471946469677	1471946469802	S	83
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	411781	1471946469890	1471946469997	a	65
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	411875	1471946470736	1471946470815	BKSP	8
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	411877	1471946470951	1471946471017	BKSP	8
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	411878	1471946471127	1471946471211	BKSP	8
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	411880	1471946471716	1471946471799	 	32
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	411881	1471946471861	1471946472028	s	83
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	411884	1471946471997	1471946472145	a	65
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	411885	1471946472161	1471946472257	i	73
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	411888	1471946472350	1471946472479	d	68
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	411931	1471946472655	1471946472788	 	32
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	411935	1471946473511	1471946473616	h	72
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	411940	1471946473632	1471946473724	e	69
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	411948	1471946473740	1471946473856	 	32
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	411952	1471946473950	1471946474113	s	83
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412000	1471946474054	1471946474300	a	65
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412001	1471946474251	1471946474404	w	87
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412002	1471946474606	1471946474750	 	32
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412003	1471946475089	1471946475356	n	78
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412004	1471946475253	1471946475396	o	79
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412006	1471946475502	1471946475623	 	32
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412044	1471946475789	1471946475898	d	68
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412046	1471946475945	1471946476064	a	65
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412048	1471946476389	1471946476582	m	77
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412050	1471946476504	1471946476644	a	65
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412052	1471946476785	1471946476947	g	71
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412088	1471946476896	1471946477045	e	69
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412092	1471946477235	1471946477359	 	32
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412094	1471946477836	1471946477924	t	84
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412096	1471946477939	1471946478057	o	79
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412100	1471946478167	1471946478328	 	32
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412102	1471946478453	1471946478557	t	84
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412125	1471946478668	1471946478781	h	72
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412127	1471946478828	1471946478949	e	69
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412129	1471946479058	1471946479187	 	32
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412130	1471946479570	1471946479696	a	65
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412131	1471946479852	1471946479946	i	73
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412169	1471946480099	1471946480197	r	82
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412171	1471946480464	1471946480684	p	80
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412175	1471946480612	1471946480778	o	79
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412198	1471946480966	1471946481276	r	82
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412178	1471946481097	1471946481276	t	84
+851	8589	He said he saw no damage to the airport.	He said he saw no damage to the airport.	412201	1471946482035	1471946482131	.	190
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412300	1471946485394	1471946485632	SHIFT	16
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412304	1471946485582	1471946485728	A	65
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412307	1471946485744	1471946485840	 	32
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412310	1471946486043	1471946486300	s	83
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412311	1471946486234	1471946486378	t	84
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412313	1471946486409	1471946486524	a	65
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412342	1471946486489	1471946486607	t	84
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412345	1471946487537	1471946487598	e	69
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412346	1471946487658	1471946487748	 	32
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412347	1471946487842	1471946487938	s	83
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412348	1471946488211	1471946488322	u	85
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412349	1471946488623	1471946488754	p	80
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412395	1471946488974	1471946489174	r	82
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412397	1471946489120	1471946489301	e	69
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412399	1471946489363	1471946489496	m	77
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412401	1471946489512	1471946489614	e	69
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412403	1471946490343	1471946490424	 	32
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412423	1471946490738	1471946490854	c	67
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412426	1471946490948	1471946491112	o	79
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412429	1471946491235	1471946491377	u	85
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412431	1471946491538	1471946491788	r	82
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412477	1471946491677	1471946491904	t	84
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412478	1471946492123	1471946492254	 	32
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412479	1471946492779	1471946493065	j	74
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412480	1471946492980	1471946493159	u	85
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412482	1471946493398	1471946493560	d	68
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412485	1471946493685	1471946493828	g	71
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412512	1471946493828	1471946493988	e	69
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412513	1471946494207	1471946494339	 	32
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412514	1471946494614	1471946494730	i	73
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412515	1471946494777	1471946494913	s	83
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412517	1471946494942	1471946495054	 	32
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412585	1471946495336	1471946495486	e	69
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412586	1471946495973	1471946496158	c	67
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412588	1471946496471	1471946496719	BKSP	8
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412590	1471946496697	1471946496844	x	88
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412592	1471946497598	1471946497886	p	80
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412594	1471946498199	1471946498312	e	69
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412614	1471946498486	1471946498628	c	67
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412618	1471946498722	1471946498850	t	84
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412621	1471946498889	1471946499036	e	69
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412624	1471946499223	1471946499337	d	68
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412625	1471946499399	1471946499528	 	32
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412646	1471946500108	1471946500222	t	84
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412648	1471946500289	1471946500421	o	79
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412650	1471946500546	1471946500663	 	32
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412652	1471946500788	1471946500961	r	82
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412674	1471946500936	1471946501038	u	85
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412675	1471946501465	1471946501607	l	76
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412676	1471946501640	1471946501794	e	69
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412677	1471946502312	1471946502398	 	32
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412678	1471946502931	1471946503073	o	79
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412679	1471946503198	1471946503297	n	78
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412705	1471946503407	1471946503504	 	32
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412706	1471946503566	1471946503694	t	84
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412708	1471946503694	1471946503797	h	72
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412711	1471946504488	1471946504580	e	69
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412713	1471946504674	1471946504771	 	32
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412735	1471946504948	1471946505047	i	73
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412737	1471946505173	1471946505303	s	83
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412739	1471946505349	1471946505506	s	83
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412740	1471946505478	1471946505580	u	85
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412742	1471946505642	1471946505785	e	69
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412781	1471946506093	1471946506238	s	83
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412783	1471946506452	1471946506571	 	32
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412785	1471946506775	1471946506918	s	83
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412787	1471946507074	1471946507418	h	72
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412836	1471946507273	1471946507451	o	79
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412838	1471946507717	1471946508004	r	82
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412841	1471946507867	1471946508066	t	84
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412844	1471946508751	1471946508863	l	76
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412845	1471946508973	1471946509119	y	89
+851	8600	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issues shortly.	412846	1471946509275	1471946509373	.	190
+851	8614	I think that will help.	I think that will help.	412907	1471946512635	1471946512780	SHIFT	16
+851	8614	I think that will help.	I think that will help.	412908	1471946512727	1471946512814	I	73
+851	8614	I think that will help.	I think that will help.	412909	1471946512982	1471946513063	 	32
+851	8614	I think that will help.	I think that will help.	412910	1471946513203	1471946513288	t	84
+851	8614	I think that will help.	I think that will help.	412911	1471946513366	1471946513661	h	72
+851	8614	I think that will help.	I think that will help.	412980	1471946513636	1471946513677	i	73
+851	8614	I think that will help.	I think that will help.	412981	1471946513903	1471946514035	BKSP	8
+851	8614	I think that will help.	I think that will help.	412982	1471946514113	1471946514197	BKSP	8
+851	8614	I think that will help.	I think that will help.	412983	1471946514918	1471946515116	h	72
+851	8614	I think that will help.	I think that will help.	412984	1471946515053	1471946515210	i	73
+851	8614	I think that will help.	I think that will help.	412985	1471946515241	1471946515544	n	78
+851	8614	I think that will help.	I think that will help.	412986	1471946515401	1471946515606	k	75
+851	8614	I think that will help.	I think that will help.	412988	1471946515704	1471946515812	 	32
+851	8614	I think that will help.	I think that will help.	413026	1471946516467	1471946516562	t	84
+851	8614	I think that will help.	I think that will help.	413030	1471946516677	1471946516779	h	72
+851	8614	I think that will help.	I think that will help.	413033	1471946516795	1471946516897	a	65
+851	8614	I think that will help.	I think that will help.	413035	1471946516897	1471946517006	t	84
+851	8614	I think that will help.	I think that will help.	413039	1471946517120	1471946517270	 	32
+851	8614	I think that will help.	I think that will help.	413059	1471946517244	1471946517332	w	87
+851	8614	I think that will help.	I think that will help.	413062	1471946517500	1471946517621	i	73
+851	8614	I think that will help.	I think that will help.	413064	1471946517839	1471946517922	l	76
+851	8614	I think that will help.	I think that will help.	413066	1471946518000	1471946518080	l	76
+851	8614	I think that will help.	I think that will help.	413068	1471946518248	1471946518346	 	32
+851	8614	I think that will help.	I think that will help.	413070	1471946518689	1471946518823	h	72
+851	8614	I think that will help.	I think that will help.	413087	1471946518933	1471946519045	e	69
+851	8614	I think that will help.	I think that will help.	413089	1471946519282	1471946519539	l	76
+851	8614	I think that will help.	I think that will help.	413091	1471946519441	1471946519586	p	80
+851	8614	I think that will help.	I think that will help.	413093	1471946519873	1471946519987	.	190
+851	8620	That is not true.	That is not true.	413168	1471946523319	1471946523439	SHIFT	16
+851	8620	That is not true.	That is not true.	413170	1471946523372	1471946523486	T	84
+851	8620	That is not true.	That is not true.	413174	1471946523549	1471946523666	h	72
+851	8620	That is not true.	That is not true.	413176	1471946523597	1471946523700	a	65
+851	8620	That is not true.	That is not true.	413178	1471946523768	1471946523870	t	84
+851	8620	That is not true.	That is not true.	413180	1471946524029	1471946524172	 	32
+851	8620	That is not true.	That is not true.	413201	1471946524500	1471946524603	i	73
+851	8620	That is not true.	That is not true.	413202	1471946524666	1471946524746	s	83
+851	8620	That is not true.	That is not true.	413203	1471946524771	1471946524870	 	32
+851	8620	That is not true.	That is not true.	413204	1471946524964	1471946525253	n	78
+851	8620	That is not true.	That is not true.	413268	1471946525138	1471946525316	o	79
+851	8620	That is not true.	That is not true.	413269	1471946525426	1471946525599	t	84
+851	8620	That is not true.	That is not true.	413270	1471946525838	1471946525969	 	32
+851	8620	That is not true.	That is not true.	413271	1471946526945	1471946527068	t	84
+851	8620	That is not true.	That is not true.	413272	1471946527131	1471946527253	r	82
+851	8620	That is not true.	That is not true.	413273	1471946527347	1471946527467	u	85
+851	8620	That is not true.	That is not true.	413308	1471946527430	1471946527588	e	69
+851	8620	That is not true.	That is not true.	413309	1471946528460	1471946528562	.	190
+851	8623	No obligation to pay.	No Obligation to pay.	413398	1471946531656	1471946531787	SHIFT	16
+851	8623	No obligation to pay.	No Obligation to pay.	413399	1471946531701	1471946531929	N	78
+851	8623	No obligation to pay.	No Obligation to pay.	413400	1471946531849	1471946531975	o	79
+851	8623	No obligation to pay.	No Obligation to pay.	413401	1471946532441	1471946532559	 	32
+851	8623	No obligation to pay.	No Obligation to pay.	413402	1471946533773	1471946533880	O	16
+851	8623	No obligation to pay.	No Obligation to pay.	413403	1471946534141	1471946534284	b	66
+851	8623	No obligation to pay.	No Obligation to pay.	413415	1471946534588	1471946534718	l	76
+851	8623	No obligation to pay.	No Obligation to pay.	413418	1471946534811	1471946534904	i	73
+851	8623	No obligation to pay.	No Obligation to pay.	413421	1471946535072	1471946535169	g	71
+851	8623	No obligation to pay.	No Obligation to pay.	413427	1471946535184	1471946535287	a	65
+851	8623	No obligation to pay.	No Obligation to pay.	413431	1471946535303	1471946535440	t	84
+851	8623	No obligation to pay.	No Obligation to pay.	413465	1471946536018	1471946536238	i	73
+851	8623	No obligation to pay.	No Obligation to pay.	413468	1471946536158	1471946536269	o	79
+851	8623	No obligation to pay.	No Obligation to pay.	413472	1471946536416	1471946536496	n	78
+851	8623	No obligation to pay.	No Obligation to pay.	413475	1471946536590	1471946536672	 	32
+851	8623	No obligation to pay.	No Obligation to pay.	413477	1471946536844	1471946536976	t	84
+851	8623	No obligation to pay.	No Obligation to pay.	413497	1471946537021	1471946537135	o	79
+851	8623	No obligation to pay.	No Obligation to pay.	413498	1471946537275	1471946537351	 	77
+851	8623	No obligation to pay.	No Obligation to pay.	413499	1471946537497	1471946537594	p	80
+851	8623	No obligation to pay.	No Obligation to pay.	413500	1471946537625	1471946537784	a	65
+851	8623	No obligation to pay.	No Obligation to pay.	413578	1471946538748	1471946538821	BKSP	8
+851	8623	No obligation to pay.	No Obligation to pay.	413581	1471946538930	1471946539028	BKSP	8
+851	8623	No obligation to pay.	No Obligation to pay.	413583	1471946539122	1471946539204	BKSP	8
+851	8623	No obligation to pay.	No Obligation to pay.	413586	1471946539298	1471946539411	BKSP	8
+851	8623	No obligation to pay.	No Obligation to pay.	413589	1471946539838	1471946539952	 	32
+851	8623	No obligation to pay.	No Obligation to pay.	413592	1471946540124	1471946540297	p	80
+851	8623	No obligation to pay.	No Obligation to pay.	413594	1471946540359	1471946540461	a	65
+851	8623	No obligation to pay.	No Obligation to pay.	413595	1471946540771	1471946540919	y	89
+851	8623	No obligation to pay.	No Obligation to pay.	413596	1471946541603	1471946541711	.	190
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413658	1471946545119	1471946545230	SHIFT	16
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413660	1471946545181	1471946545398	J	74
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413662	1471946545324	1471946545453	o	79
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413664	1471946545515	1471946545650	n	78
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413666	1471946545697	1471946545803	e	69
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413668	1471946545974	1471946546078	s	83
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413691	1471946546247	1471946546344	 	32
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413692	1471946546706	1471946546804	e	69
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413693	1471946547312	1471946547426	x	88
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413695	1471946547522	1471946547618	e	69
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413697	1471946547649	1471946547768	c	67
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413721	1471946548327	1471946548444	u	85
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413724	1471946548588	1471946548702	t	84
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413727	1471946548939	1471946549052	i	73
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413729	1471946549304	1471946549402	v	86
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413731	1471946549433	1471946549527	e	69
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413773	1471946549731	1471946549889	 	32
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413774	1471946550470	1471946550537	c	67
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413775	1471946550859	1471946551006	BKSP	8
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413777	1471946551084	1471946551177	v	86
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413780	1471946551302	1471946551418	i	73
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413783	1471946551480	1471946551768	c	67
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413829	1471946551671	1471946551816	e	69
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413831	1471946552019	1471946552118	 	32
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413833	1471946552547	1471946552644	p	80
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413837	1471946553069	1471946553296	r	82
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413840	1471946553217	1471946553374	e	69
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413842	1471946554281	1471946554386	s	83
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413882	1471946554449	1471946554537	i	73
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413884	1471946554615	1471946554710	d	68
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413887	1471946555044	1471946555127	d	68
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413890	1471946555096	1471946555237	e	69
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413893	1471946555726	1471946555811	BKSP	8
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413896	1471946555931	1471946556043	BKSP	8
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413898	1471946556538	1471946556622	e	69
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413928	1471946556810	1471946556911	n	78
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413929	1471946556972	1471946557068	t	84
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413930	1471946557230	1471946557322	 	32
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413931	1471946557791	1471946557892	a	65
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413932	1471946557924	1471946558034	n	78
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413951	1471946558129	1471946558195	d	68
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413952	1471946558226	1471946558317	 	32
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413953	1471946558481	1471946558577	c	67
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413954	1471946558753	1471946558898	h	72
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413955	1471946559023	1471946559111	e	69
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413988	1471946559299	1471946559500	i	73
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413990	1471946559531	1471946559635	f	70
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413992	1471946560160	1471946560277	 	32
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	413994	1471946560724	1471946560953	o	79
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414021	1471946560853	1471946561063	p	80
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414022	1471946561153	1471946561250	e	69
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414023	1471946561350	1471946561459	r	82
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414024	1471946561615	1471946561765	t	84
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414025	1471946561781	1471946561872	a	65
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414027	1471946562681	1471946562785	i	73
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414125	1471946562923	1471946563042	n	78
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414128	1471946563057	1471946563178	g	71
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414129	1471946563607	1471946563718	BKSP	8
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414133	1471946563827	1471946563912	BKSP	8
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414137	1471946564034	1471946564126	BKSP	8
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414141	1471946564572	1471946564703	BKSP	8
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414144	1471946565862	1471946565991	BKSP	8
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414148	1471946566306	1471946566403	a	65
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414152	1471946566547	1471946566668	t	84
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414155	1471946567151	1471946567244	i	73
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414351	1471946567400	1471946567503	n	78
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414352	1471946567581	1471946567691	g	71
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414353	1471946568600	1471946568709	ARW_LEFT	37
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414354	1471946568787	1471946569607	ARW_LEFT	37
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414355	1471946570584	1471946570660	ARW_RIGHT	39
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414357	1471946570769	1471946570850	ARW_RIGHT	39
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414359	1471946572053	1471946572151	BKSP	8
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414361	1471946573003	1471946573135	ARW_LEFT	37
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414363	1471946573437	1471946573551	i	73
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414365	1471946574263	1471946575096	ARW_RIGHT	39
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414369	1471946575665	1471946575767	 	32
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414372	1471946576122	1471946576222	o	79
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414385	1471946576441	1471946576502	f	70
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414387	1471946576619	1471946576721	f	70
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414390	1471946576694	1471946576808	i	73
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414393	1471946576855	1471946577011	c	67
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414397	1471946577011	1471946577279	e	69
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414412	1471946577211	1471946577373	r	82
+851	8631	Jones executive vice president and chief operating officer.	Jones executive vice president and chief operating officer.	414414	1471946578101	1471946578202	.	190
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414505	1471946581279	1471946581411	SHIFT	16
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414504	1471946581310	1471946581395	P	80
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414506	1471946581488	1471946581616	l	76
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414508	1471946581839	1471946581951	e	69
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414510	1471946581998	1471946582127	a	65
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414518	1471946582039	1471946582255	s	83
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414520	1471946582188	1471946582317	e	69
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414524	1471946582508	1471946582618	 	32
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414527	1471946582920	1471946583058	l	76
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414530	1471946583105	1471946583254	e	69
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414532	1471946583332	1471946583427	t	84
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414610	1471946583573	1471946583670	 	32
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414613	1471946583795	1471946583895	m	77
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414616	1471946583948	1471946584058	e	69
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414620	1471946584105	1471946584219	 	32
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414622	1471946586008	1471946586080	k	75
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414673	1471946586206	1471946586484	b	66
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414677	1471946586271	1471946586547	n	78
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414680	1471946586373	1471946586562	o	79
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414682	1471946587104	1471946587249	BKSP	8
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414685	1471946587343	1471946587413	BKSP	8
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414686	1471946587507	1471946587587	BKSP	8
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414687	1471946588007	1471946588253	n	78
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414706	1471946588170	1471946588332	o	79
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414708	1471946588394	1471946588510	w	87
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414712	1471946588556	1471946588668	 	32
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414716	1471946588870	1471946589030	i	73
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414719	1471946589251	1471946589374	f	70
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414721	1471946589452	1471946589575	 	32
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414749	1471946590379	1471946590491	y	89
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414751	1471946590554	1471946590651	o	79
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414755	1471946590761	1471946590845	u	85
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414761	1471946590996	1471946591093	 	32
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414763	1471946591218	1471946591381	l	76
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414809	1471946591413	1471946591511	e	69
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414810	1471946591685	1471946591827	a	65
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414811	1471946591800	1471946591908	r	82
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414812	1471946593038	1471946593136	n	78
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414813	1471946593229	1471946593310	 	32
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414846	1471946593404	1471946593544	a	65
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414847	1471946593459	1471946593559	n	78
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414848	1471946593670	1471946593800	y	89
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414849	1471946593878	1471946593978	t	84
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414850	1471946595756	1471946595971	h	72
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414866	1471946595907	1471946596060	i	73
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414867	1471946596092	1471946596240	n	78
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414868	1471946596287	1471946596368	g	71
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414869	1471946596522	1471946596633	 	32
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414870	1471946597379	1471946597509	a	65
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414871	1471946597524	1471946597627	t	84
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414876	1471946597847	1471946597932	 	32
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414878	1471946598214	1471946598308	t	84
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414880	1471946598402	1471946598509	h	72
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414881	1471946598591	1471946598662	e	69
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414900	1471946598631	1471946598718	 	32
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414901	1471946598827	1471946598912	f	70
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414902	1471946599051	1471946599159	l	76
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414903	1471946599260	1471946599345	o	79
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414904	1471946599407	1471946599495	o	79
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414905	1471946599589	1471946599693	r	82
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414936	1471946599897	1471946600038	 	32
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414938	1471946600534	1471946600636	m	77
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414941	1471946600785	1471946600870	e	69
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414945	1471946600932	1471946601045	e	69
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414946	1471946601183	1471946601301	t	84
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414991	1471946601348	1471946601443	i	73
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414992	1471946601537	1471946601682	n	78
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414993	1471946601714	1471946601842	g	71
+851	8650	Please let me know if you learn anything at the floor meeting.	Please let me know if you learn anything at the floor meeting.	414994	1471946602629	1471946602727	.	190
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415170	1471946606464	1471946606589	SHIFT	16
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415172	1471946606527	1471946606768	M	77
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415173	1471946606704	1471946606816	o	79
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415175	1471946607164	1471946607274	c	67
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415176	1471946608518	1471946608617	h	72
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415224	1471946609170	1471946609432	r	82
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415178	1471946609268	1471946609384	i	73
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415227	1471946609455	1471946609630	e	69
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415232	1471946610188	1471946610293	 	32
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415235	1471946610647	1471946610742	r	82
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415240	1471946610805	1471946610932	e	69
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415244	1471946611365	1471946611496	m	77
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415267	1471946611452	1471946611589	a	65
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415269	1471946611604	1471946611732	i	73
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415272	1471946611795	1471946611964	n	78
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415276	1471946612058	1471946612175	e	69
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415280	1471946612320	1471946612431	d	68
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415287	1471946612494	1471946612607	 	32
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415322	1471946613101	1471946613200	s	83
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415324	1471946613278	1471946613438	t	84
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415327	1471946613599	1471946613732	e	69
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415330	1471946613764	1471946613922	a	65
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415332	1471946613984	1471946614273	d	68
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415387	1471946614147	1471946614356	t	84
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415390	1471946614654	1471946614783	 	32
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415393	1471946614986	1471946615089	i	73
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415395	1471946615182	1471946615307	n	78
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415397	1471946615406	1471946615587	 	32
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415398	1471946616435	1471946616534	BKSP	8
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415399	1471946616643	1471946616700	BKSP	8
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415472	1471946616802	1471946616857	=	8
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415473	1471946616933	1471946617034	BKSP	8
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415475	1471946617128	1471946617178	BKSP	8
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415477	1471946617271	1471946617399	BKSP	8
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415478	1471946617979	1471946618084	y	89
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415479	1471946618223	1471946618333	 	32
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415480	1471946619348	1471946619449	i	73
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415481	1471946619543	1471946619627	n	78
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415483	1471946619721	1471946619819	 	32
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415506	1471946619988	1471946620077	t	84
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415509	1471946620186	1471946620307	h	72
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415513	1471946620370	1471946620481	e	69
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415517	1471946620591	1471946620692	 	32
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415520	1471946620973	1471946621076	f	70
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415565	1471946621108	1471946621231	a	65
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415567	1471946621209	1471946621325	c	67
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415569	1471946621451	1471946621566	e	69
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415571	1471946621801	1471946621931	 	32
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415573	1471946623601	1471946623684	o	79
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415580	1471946623717	1471946623802	f	70
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415583	1471946623839	1471946623934	 	32
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415586	1471946624059	1471946624144	y	84
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415589	1471946624251	1471946624357	h	72
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415636	1471946624390	1471946624476	e	69
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415638	1471946624695	1471946624809	 	32
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415640	1471946625139	1471946625238	BKSP	8
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415642	1471946625348	1471946625419	BKSP	8
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415644	1471946625481	1471946625573	BKSP	8
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415646	1471946625667	1471946625773	BKSP	8
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415647	1471946626012	1471946626118	BKSP	8
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415648	1471946626538	1471946626639	t	84
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415649	1471946626748	1471946626858	h	72
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415651	1471946626890	1471946626976	e	69
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415684	1471946627134	1471946627281	 	32
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415685	1471946627877	1471946628187	u	85
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415686	1471946628023	1471946628250	p	80
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415687	1471946629119	1471946629209	h	72
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415688	1471946629287	1471946629367	e	69
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415749	1471946629516	1471946629698	a	65
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415752	1471946629642	1471946629758	v	86
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415754	1471946631011	1471946631108	a	65
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415756	1471946631188	1471946631292	l	76
+851	8662	Mochrie remained steady in the face of the upheaval.	Mochrie remained steady in the face of the upheaval.	415758	1471946632299	1471946632377	.	190
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	415855	1471946635467	1471946635608	SHIFT	16
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	415857	1471946635514	1471946635624	T	84
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	415859	1471946635738	1471946635833	h	72
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	415861	1471946635864	1471946635968	e	69
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	415863	1471946636030	1471946636140	 	32
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	415865	1471946636930	1471946637047	SHIFT	16
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	415913	1471946636992	1471946637077	E	69
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	415914	1471946637217	1471946637307	v	86
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	415915	1471946637432	1471946637525	a	65
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	415917	1471946637917	1471946638009	BKSP	8
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	415919	1471946638102	1471946638157	BKSP	8
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	415922	1471946638251	1471946638348	BKSP	8
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	415925	1471946638951	1471946639066	e	69
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	415929	1471946639223	1471946639341	v	86
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	415932	1471946639388	1471946639468	a	65
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416040	1471946639573	1471946639660	c	67
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416041	1471946640125	1471946640247	u	85
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416042	1471946642419	1471946642491	e	69
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416043	1471946642587	1471946642667	e	69
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416044	1471946642847	1471946642926	s	83
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416081	1471946643213	1471946643323	 	32
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416083	1471946643703	1471946643800	l	76
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416084	1471946643815	1471946643938	a	65
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416086	1471946644079	1471946644245	t	84
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416128	1471946644173	1471946644273	e	69
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416134	1471946644367	1471946644487	r	82
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416136	1471946644722	1471946644806	 	32
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416140	1471946645172	1471946645290	b	66
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416144	1471946645399	1471946645585	o	79
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416148	1471946645757	1471946645888	a	65
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416183	1471946645920	1471946646031	r	82
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416184	1471946646125	1471946646253	d	68
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416186	1471946647025	1471946647124	e	69
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416188	1471946647171	1471946647303	d	68
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416190	1471946647521	1471946647669	 	32
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416248	1471946647842	1471946647945	a	65
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416249	1471946647925	1471946648039	 	32
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416250	1471946648180	1471946648306	b	66
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416251	1471946648447	1471946648595	r	82
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416252	1471946649020	1471946649092	BKSP	8
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416253	1471946649217	1471946649315	BKSP	8
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416254	1471946649880	1471946649992	SHIFT	16
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416330	1471946649927	1471946650072	B	66
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416332	1471946650260	1471946650470	r	82
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416334	1471946651565	1471946651697	u	85
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416337	1471946652010	1471946652203	BKSP	8
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416339	1471946652344	1471946652456	i	73
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416341	1471946652648	1471946653006	t	84
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416394	1471946652888	1471946653085	i	73
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416397	1471946653116	1471946653253	s	83
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416400	1471946653393	1471946653505	h	72
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416401	1471946654300	1471946654382	 	32
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416402	1471946655018	1471946655099	a	65
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416403	1471946655193	1471946655305	i	73
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416465	1471946655395	1471946655490	r	82
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416470	1471946655824	1471946655955	l	76
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416475	1471946656878	1471946656957	i	73
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416479	1471946657103	1471946657214	n	78
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416483	1471946657276	1471946657422	e	69
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416504	1471946657532	1471946657647	r	82
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416509	1471946657849	1471946657994	 	32
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416512	1471946658441	1471946658707	b	66
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416515	1471946658672	1471946658981	o	79
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416576	1471946658900	1471946659029	u	85
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416578	1471946659156	1471946659320	n	78
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416581	1471946659383	1471946659521	d	68
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416583	1471946660172	1471946660273	 	32
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416585	1471946660476	1471946660572	f	70
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416587	1471946660697	1471946660837	o	79
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416626	1471946660901	1471946661046	r	82
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416628	1471946661218	1471946661346	 	32
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416630	1471946661803	1471946662283	SHIFT	16
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416632	1471946662097	1471946662385	G	71
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416634	1471946662715	1471946662861	a	65
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416636	1471946663257	1471946663388	t	84
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416682	1471946663592	1471946663706	w	87
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416683	1471946663910	1471946664022	i	73
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416684	1471946664150	1471946664309	c	67
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416685	1471946664437	1471946664555	k	75
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	416686	1471946665687	1471946665800	.	190
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	417109	1471946666888	1471946666974	BKSP	8
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	417111	1471946667053	1471946667125	BKSP	8
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	417113	1471946667237	1471946667303	BKSP	8
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	417118	1471946669338	1471946669425	c	67
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	417121	1471946669518	1471946669614	k	75
+851	8679	The evacuees later boarded a British airliner bound for Gatwick.	The evacuees later boarded a British airliner bound for Gatwick.	417124	1471946670642	1471946670757	.	190
+851	8709	We will keep trying.	We will keep trying.	417258	1471946682072	1471946682227	SHIFT	16
+851	8709	We will keep trying.	We will keep trying.	417260	1471946682163	1471946682303	W	87
+851	8709	We will keep trying.	We will keep trying.	417262	1471946682381	1471946682438	e	87
+851	8709	We will keep trying.	We will keep trying.	417264	1471946682716	1471946682848	 	32
+851	8709	We will keep trying.	We will keep trying.	417267	1471946683190	1471946683273	w	87
+851	8709	We will keep trying.	We will keep trying.	417355	1471946684163	1471946684241	BKSP	8
+851	8709	We will keep trying.	We will keep trying.	417361	1471946684372	1471946684433	BKSP	8
+851	8709	We will keep trying.	We will keep trying.	417365	1471946684535	1471946684585	BKSP	8
+851	8709	We will keep trying.	We will keep trying.	417368	1471946684678	1471946684780	BKSP	8
+851	8709	We will keep trying.	We will keep trying.	417370	1471946685283	1471946685334	e	69
+851	8709	We will keep trying.	We will keep trying.	417372	1471946685349	1471946685463	 	32
+851	8709	We will keep trying.	We will keep trying.	417374	1471946685525	1471946685614	w	87
+851	8709	We will keep trying.	We will keep trying.	417375	1471946685692	1471946685789	i	73
+851	8709	We will keep trying.	We will keep trying.	417376	1471946685945	1471946686039	l	76
+851	8709	We will keep trying.	We will keep trying.	417386	1471946686106	1471946686206	l	76
+851	8709	We will keep trying.	We will keep trying.	417388	1471946686300	1471946686381	 	32
+851	8709	We will keep trying.	We will keep trying.	417390	1471946686487	1471946686590	k	75
+851	8709	We will keep trying.	We will keep trying.	417392	1471946686652	1471946686740	e	69
+851	8709	We will keep trying.	We will keep trying.	417393	1471946686853	1471946686986	e	69
+851	8709	We will keep trying.	We will keep trying.	417424	1471946687097	1471946687181	p	80
+851	8709	We will keep trying.	We will keep trying.	417426	1471946687354	1471946687424	 	32
+851	8709	We will keep trying.	We will keep trying.	417428	1471946687764	1471946687872	t	84
+851	8709	We will keep trying.	We will keep trying.	417429	1471946687950	1471946688046	r	82
+851	8709	We will keep trying.	We will keep trying.	417430	1471946688206	1471946688258	y	89
+851	8709	We will keep trying.	We will keep trying.	417497	1471946689363	1471946689464	i	73
+851	8709	We will keep trying.	We will keep trying.	417498	1471946689573	1471946689671	n	78
+851	8709	We will keep trying.	We will keep trying.	417499	1471946689686	1471946689805	g	71
+851	8709	We will keep trying.	We will keep trying.	417500	1471946690510	1471946690613	.	190
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417658	1471946693706	1471946693855	SHIFT	16
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417657	1471946693737	1471946693840	O	79
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417660	1471946694203	1471946694313	BKSP	8
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417662	1471946694438	1471946694590	SHIFT	16
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417667	1471946694569	1471946694657	I	73
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417671	1471946694782	1471946694888	 	32
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417677	1471946694950	1471946695077	m	77
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417682	1471946695077	1471946695180	e	69
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417717	1471946695331	1471946695485	a	65
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417718	1471946695446	1471946695619	n	78
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417719	1471946696303	1471946696389	t	84
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417720	1471946696468	1471946696579	 	32
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417721	1471946697003	1471946697121	t	84
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417750	1471946697169	1471946697264	o	79
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417751	1471946697400	1471946697497	 	32
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417752	1471946697576	1471946697745	t	84
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417753	1471946697719	1471946697993	r	82
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417797	1471946697955	1471946698118	y	89
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417798	1471946698372	1471946698488	 	32
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417799	1471946699021	1471946699180	a	65
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417800	1471946699153	1471946699256	n	78
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417801	1471946699349	1471946699455	d	68
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417823	1471946699371	1471946699471	 	32
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417825	1471946699629	1471946699730	e	69
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417827	1471946699898	1471946700027	x	88
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417829	1471946700106	1471946700236	p	80
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417832	1471946700330	1471946700441	l	76
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417835	1471946700449	1471946700625	a	65
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417959	1471946700585	1471946700680	i	73
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417962	1471946700838	1471946700954	n	78
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417966	1471946701063	1471946701203	 	32
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417969	1471946702520	1471946702639	BKSP	8
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417973	1471946703539	1471946703640	,	188
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417975	1471946703780	1471946703872	 	32
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	417979	1471946704406	1471946704657	n	78
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	418030	1471946704569	1471946704705	o	79
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	418033	1471946704799	1471946704913	t	84
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	418036	1471946704975	1471946705088	 	32
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	418039	1471946705306	1471946705406	t	84
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	418041	1471946705946	1471946706042	p	80
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	418042	1471946706198	1471946706282	 	32
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	418162	1471946706673	1471946706747	BKSP	8
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	418166	1471946706850	1471946706915	BKSP	8
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	418171	1471946707009	1471946707098	BKSP	8
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	418176	1471946707854	1471946707956	t	84
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	418180	1471946707987	1471946708074	p	79
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	418185	1471946708638	1471946708802	BKSP	8
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	418189	1471946709107	1471946709241	 	32
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	418192	1471946709343	1471946709485	r	82
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	418260	1471946709453	1471946709664	e	69
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	418262	1471946709620	1471946709816	d	68
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	418265	1471946709832	1471946709995	o	79
+851	8720	I meant to try and explain, not to redo.	I meant to try and explain, not to redo.	418268	1471946710754	1471946710823	.	190

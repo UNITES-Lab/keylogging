@@ -1,0 +1,659 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455163	1471947574681	1471947574904	L	76
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455165	1471947575288	1471947575464	CAPS_LOCK	20
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455166	1471947575800	1471947575960	e	69
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455167	1471947576008	1471947576088	t	84
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455168	1471947576264	1471947576328	 	32
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455170	1471947576536	1471947576616	m	77
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455226	1471947576728	1471947576856	e	69
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455227	1471947576889	1471947576936	 	32
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455230	1471947577160	1471947577240	k	75
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455233	1471947577400	1471947577464	n	78
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455235	1471947577656	1471947577752	o	79
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455303	1471947577976	1471947578136	w	87
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455306	1471947578152	1471947578200	 	32
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455311	1471947579032	1471947579128	i	73
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455315	1471947579368	1471947579432	f	70
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455317	1471947579592	1471947579656	 	32
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455442	1471947579896	1471947579976	i	73
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455444	1471947580200	1471947580248	t	84
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455446	1471947580424	1471947580488	 	32
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455448	1471947580616	1471947580840	f	70
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455450	1471947581800	1471947581912	BKSP	8
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455452	1471947582600	1471947582904	d	68
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455611	1471947582888	1471947583000	o	79
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455613	1471947583272	1471947583416	r	82
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455616	1471947583944	1471947584056	BKSP	8
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455618	1471947584232	1471947584344	e	69
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455619	1471947584632	1471947584824	s	83
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455620	1471947585560	1471947585640	n	78
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455621	1471947587064	1471947587160	'	222
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455666	1471947587656	1471947587735	t	84
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455669	1471947587880	1471947587944	 	32
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455674	1471947588072	1471947588135	g	71
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455678	1471947588473	1471947588536	o	79
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455684	1471947588697	1471947588760	 	32
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455719	1471947588889	1471947588984	a	65
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455723	1471947589080	1471947589144	w	87
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455727	1471947589256	1471947589352	a	65
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455732	1471947589496	1471947589544	y	89
+927	9494	Let me know if it doesn't go away.	Let me know if it doesn't go away.	455736	1471947590057	1471947590104	.	190
+927	9511	I have a high level in my office.	I have alevel in my office.	455943	1471947594584	1471947594808	CAPS_LOCK	20
+927	9511	I have a high level in my office.	I have alevel in my office.	455944	1471947594856	1471947594952	I	73
+927	9511	I have a high level in my office.	I have alevel in my office.	455945	1471947594984	1471947595112	CAPS_LOCK	20
+927	9511	I have a high level in my office.	I have alevel in my office.	455946	1471947595128	1471947595192	 	32
+927	9511	I have a high level in my office.	I have alevel in my office.	455947	1471947595448	1471947595544	h	72
+927	9511	I have a high level in my office.	I have alevel in my office.	455948	1471947595608	1471947595800	a	65
+927	9511	I have a high level in my office.	I have alevel in my office.	455950	1471947595944	1471947596024	v	86
+927	9511	I have a high level in my office.	I have alevel in my office.	456001	1471947596120	1471947596216	e	69
+927	9511	I have a high level in my office.	I have alevel in my office.	456005	1471947596264	1471947596344	 	32
+927	9511	I have a high level in my office.	I have alevel in my office.	456008	1471947596360	1471947596472	a	65
+927	9511	I have a high level in my office.	I have alevel in my office.	456012	1471947596904	1471947597000	l	76
+927	9511	I have a high level in my office.	I have alevel in my office.	456015	1471947597352	1471947597544	e	69
+927	9511	I have a high level in my office.	I have alevel in my office.	456052	1471947597608	1471947597672	v	86
+927	9511	I have a high level in my office.	I have alevel in my office.	456054	1471947597704	1471947597784	e	69
+927	9511	I have a high level in my office.	I have alevel in my office.	456059	1471947598088	1471947598152	l	76
+927	9511	I have a high level in my office.	I have alevel in my office.	456061	1471947598280	1471947598344	 	32
+927	9511	I have a high level in my office.	I have alevel in my office.	456063	1471947598472	1471947598536	i	73
+927	9511	I have a high level in my office.	I have alevel in my office.	456105	1471947598680	1471947598728	n	78
+927	9511	I have a high level in my office.	I have alevel in my office.	456109	1471947598872	1471947598888	 	32
+927	9511	I have a high level in my office.	I have alevel in my office.	456113	1471947599000	1471947599080	m	77
+927	9511	I have a high level in my office.	I have alevel in my office.	456118	1471947599480	1471947599544	y	89
+927	9511	I have a high level in my office.	I have alevel in my office.	456124	1471947599688	1471947599752	 	32
+927	9511	I have a high level in my office.	I have alevel in my office.	456175	1471947600088	1471947600168	o	79
+927	9511	I have a high level in my office.	I have alevel in my office.	456178	1471947600424	1471947600488	f	70
+927	9511	I have a high level in my office.	I have alevel in my office.	456180	1471947600568	1471947600664	f	70
+927	9511	I have a high level in my office.	I have alevel in my office.	456182	1471947600920	1471947601000	i	73
+927	9511	I have a high level in my office.	I have alevel in my office.	456185	1471947601352	1471947601432	c	67
+927	9511	I have a high level in my office.	I have alevel in my office.	456208	1471947601608	1471947601736	e	69
+927	9511	I have a high level in my office.	I have alevel in my office.	456210	1471947602056	1471947602136	.	190
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456618	1471947611880	1471947612088	CAPS_LOCK	20
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456621	1471947612104	1471947612200	T	84
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456624	1471947612216	1471947612328	CAPS_LOCK	20
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456626	1471947612424	1471947612504	h	72
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456628	1471947612632	1471947612760	e	69
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456632	1471947612808	1471947612872	 	32
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456636	1471947613048	1471947613128	c	67
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456663	1471947613177	1471947613272	e	69
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456664	1471947613336	1471947613416	r	82
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456666	1471947613448	1471947613528	e	69
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456669	1471947614136	1471947614216	m	77
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456675	1471947614344	1471947614424	o	79
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456717	1471947614632	1471947614712	n	78
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456719	1471947614888	1471947614952	y	89
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456724	1471947615096	1471947615160	 	32
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456726	1471947615400	1471947615464	w	87
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456732	1471947615512	1471947615641	a	65
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456756	1471947615643	1471947615704	s	83
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456759	1471947615864	1471947615928	 	32
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456763	1471947616136	1471947616200	f	70
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456767	1471947616296	1471947616392	a	65
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456770	1471947616696	1471947616760	l	76
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456796	1471947616840	1471947616904	l	76
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456798	1471947617000	1471947617064	o	79
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456799	1471947617560	1471947617656	w	87
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456800	1471947617800	1471947617848	e	69
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456801	1471947617960	1471947618024	d	68
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456902	1471947618792	1471947618904	 	32
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456905	1471947619464	1471947619576	b	66
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456910	1471947619944	1471947619992	y	89
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456914	1471947620136	1471947620200	 	32
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456918	1471947620344	1471947620408	t	84
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456984	1471947620552	1471947620616	h	72
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456987	1471947620712	1471947620808	e	69
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456992	1471947621416	1471947621496	 	32
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456996	1471947621960	1471947622056	p	80
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	456998	1471947622344	1471947622424	r	82
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457060	1471947622536	1471947622616	e	69
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457063	1471947622856	1471947622936	m	77
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457067	1471947623080	1471947623143	i	73
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457071	1471947623784	1471947623848	e	69
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457075	1471947623960	1471947624040	r	82
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457194	1471947624136	1471947624200	e	69
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457197	1471947624937	1471947625032	 	32
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457199	1471947625608	1471947625704	o	79
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457204	1471947625960	1471947626073	f	70
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457208	1471947626136	1471947626200	 	32
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457321	1471947626424	1471947626504	t	84
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457324	1471947626664	1471947626776	h	72
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457328	1471947626776	1471947626872	e	69
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457333	1471947627592	1471947627672	 	32
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457337	1471947628360	1471947628424	o	79
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457432	1471947628536	1471947628632	p	80
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457434	1471947628856	1471947629000	e	69
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457436	1471947629128	1471947629209	n	78
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457438	1471947629400	1471947629480	o	79
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457440	1471947630072	1471947630152	BKSP	8
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457442	1471947630440	1471947630520	i	73
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457567	1471947630696	1471947630776	n	78
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457568	1471947631144	1471947631240	g	71
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457569	1471947631784	1471947631880	 	32
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457570	1471947632696	1471947632824	f	70
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457572	1471947633208	1471947633288	i	73
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457657	1471947633416	1471947633512	l	76
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457660	1471947633896	1471947633960	m	77
+927	9519	The ceremony was followed by the premiere of the opening film.	The ceremony was fallowed by the premiere of the opening film.	457664	1471947634872	1471947634952	.	190
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	461827	1471947726729	1471947726921	CAPS_LOCK	20
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	461831	1471947726953	1471947727065	I	73
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	461832	1471947727065	1471947727177	CAPS_LOCK	20
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	461833	1471947727401	1471947727481	f	70
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	461835	1471947727641	1471947727720	 	32
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	461837	1471947727833	1471947727896	w	87
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	461839	1471947728009	1471947728056	e	69
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462022	1471947728234	1471947728297	d	68
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462025	1471947728329	1471947728410	 	32
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462030	1471947728697	1471947728793	o	79
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462036	1471947731289	1471947731369	BKSP	8
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462041	1471947731433	1471947731513	BKSP	8
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462046	1471947731562	1471947731657	BKSP	8
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462049	1471947731993	1471947732073	 	32
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462052	1471947732313	1471947732473	d	68
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462120	1471947732601	1471947732666	o	79
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462122	1471947732921	1471947733001	n	78
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462128	1471947733561	1471947733625	.	190
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462132	1471947734153	1471947734217	BKSP	8
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462135	1471947734409	1471947734473	'	222
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462140	1471947734841	1471947734905	t	84
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462219	1471947735049	1471947735113	 	32
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462220	1471947735257	1471947735305	g	71
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462221	1471947735449	1471947735609	e	69
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462222	1471947735673	1471947735737	t	84
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462223	1471947737273	1471947737353	,	188
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462345	1471947739161	1471947739257	BKSP	8
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462349	1471947739801	1471947739865	 	32
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462352	1471947740041	1471947740121	i	73
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462357	1471947740377	1471947740441	t	84
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462361	1471947740601	1471947740665	 	32
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462365	1471947741129	1471947741209	,	188
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462470	1471947741353	1471947741417	 	32
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462475	1471947742377	1471947742441	c	67
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462480	1471947742745	1471947742841	o	79
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462486	1471947743081	1471947743145	u	85
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462491	1471947743369	1471947743465	l	76
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462535	1471947743641	1471947743849	d	68
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462538	1471947743881	1471947743961	 	32
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462540	1471947744105	1471947744169	b	66
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462542	1471947744217	1471947744329	e	69
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462543	1471947744393	1471947744457	 	32
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462616	1471947744729	1471947744808	t	84
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462618	1471947744953	1471947745001	r	82
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462621	1471947745449	1471947745528	o	79
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462623	1471947745690	1471947745769	u	85
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462626	1471947745993	1471947746073	b	66
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462683	1471947746490	1471947746585	l	76
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462685	1471947746842	1471947746985	e	69
+927	9548	If we don't get it, could be trouble.	If we don't get it , could be trouble.	462688	1471947747497	1471947747561	.	190
+927	9651	I am trying again.	I am trying again.	462958	1471947752409	1471947752585	CAPS_LOCK	20
+927	9651	I am trying again.	I am trying again.	462963	1471947753049	1471947753145	I	73
+927	9651	I am trying again.	I am trying again.	462967	1471947753161	1471947753273	CAPS_LOCK	20
+927	9651	I am trying again.	I am trying again.	462973	1471947753353	1471947753433	 	32
+927	9651	I am trying again.	I am trying again.	462975	1471947753449	1471947753593	a	65
+927	9651	I am trying again.	I am trying again.	462978	1471947753625	1471947753689	m	77
+927	9651	I am trying again.	I am trying again.	462981	1471947753785	1471947753849	 	32
+927	9651	I am trying again.	I am trying again.	463035	1471947754105	1471947754169	t	84
+927	9651	I am trying again.	I am trying again.	463037	1471947754297	1471947754361	r	82
+927	9651	I am trying again.	I am trying again.	463040	1471947754601	1471947754665	y	89
+927	9651	I am trying again.	I am trying again.	463041	1471947755001	1471947755065	i	73
+927	9651	I am trying again.	I am trying again.	463043	1471947755337	1471947755417	n	78
+927	9651	I am trying again.	I am trying again.	463183	1471947755561	1471947755609	h	72
+927	9651	I am trying again.	I am trying again.	463186	1471947756105	1471947756169	 	32
+927	9651	I am trying again.	I am trying again.	463190	1471947757177	1471947757273	BKSP	8
+927	9651	I am trying again.	I am trying again.	463193	1471947757833	1471947757961	BKSP	8
+927	9651	I am trying again.	I am trying again.	463196	1471947758121	1471947758249	g	71
+927	9651	I am trying again.	I am trying again.	463201	1471947758553	1471947758633	 	32
+927	9651	I am trying again.	I am trying again.	463207	1471947758793	1471947758985	a	65
+927	9651	I am trying again.	I am trying again.	463307	1471947759577	1471947759657	g	71
+927	9651	I am trying again.	I am trying again.	463311	1471947759673	1471947759801	a	65
+927	9651	I am trying again.	I am trying again.	463315	1471947759913	1471947759993	i	73
+927	9651	I am trying again.	I am trying again.	463319	1471947760249	1471947760313	n	78
+927	9651	I am trying again.	I am trying again.	463324	1471947761113	1471947761177	.	190
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463611	1471947766441	1471947766633	CAPS_LOCK	20
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463613	1471947766873	1471947766969	M	77
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463616	1471947766970	1471947767097	CAPS_LOCK	20
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463620	1471947767257	1471947767353	o	79
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463623	1471947767497	1471947767641	s	83
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463625	1471947767817	1471947767897	t	84
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463628	1471947768041	1471947768105	 	32
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463663	1471947768265	1471947768345	r	82
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463665	1471947768457	1471947768521	e	69
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463671	1471947768665	1471947768729	c	67
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463677	1471947768857	1471947768969	e	69
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463682	1471947769177	1471947769257	n	78
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463764	1471947769913	1471947770057	t	84
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463768	1471947770281	1471947770361	 	32
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463772	1471947770729	1471947770889	s	83
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463777	1471947771017	1471947771113	u	85
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463781	1471947771337	1471947771417	r	82
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463832	1471947771769	1471947771849	v	86
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463833	1471947771977	1471947772137	e	69
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463834	1471947772153	1471947772233	y	89
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463835	1471947772441	1471947772537	s	83
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463836	1471947773065	1471947773177	 	32
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463924	1471947773705	1471947773801	p	80
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463927	1471947774361	1471947774441	u	85
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463930	1471947774617	1471947774665	t	84
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463932	1471947774809	1471947774873	 	32
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	463935	1471947775001	1471947775065	t	84
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464027	1471947775193	1471947775241	h	72
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464028	1471947775257	1471947775369	e	69
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464029	1471947775529	1471947775609	m	78
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464030	1471947777017	1471947777081	BKSP	8
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464031	1471947777145	1471947777209	BKSP	8
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464032	1471947777401	1471947777465	m	77
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464110	1471947778137	1471947778233	 	32
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464115	1471947778697	1471947778777	i	73
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464119	1471947778953	1471947779001	n	78
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464121	1471947779097	1471947779177	 	32
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464123	1471947779209	1471947779353	a	65
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464144	1471947780121	1471947780200	 	32
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464148	1471947780537	1471947780618	d	68
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464153	1471947780714	1471947780777	e	69
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464156	1471947780826	1471947780953	a	65
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464160	1471947781130	1471947781193	d	68
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464197	1471947781338	1471947781401	 	32
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464198	1471947781706	1471947781769	h	72
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464200	1471947781993	1471947782057	e	69
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464202	1471947782121	1471947782249	a	65
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464203	1471947782505	1471947782585	t	84
+927	9664	Most recent surveys put them in a dead heat.	Most recent surveys put them in a dead heat.	464226	1471947783081	1471947783129	.	190
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464436	1471947787272	1471947787432	CAPS_LOCK	20
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464438	1471947787688	1471947787752	I	73
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464442	1471947787816	1471947787912	CAPS_LOCK	20
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464446	1471947787944	1471947788008	 	32
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464451	1471947788056	1471947788184	a	65
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464456	1471947788232	1471947788296	m	77
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464458	1471947788408	1471947788472	 	32
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464490	1471947788616	1471947788680	h	72
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464492	1471947788728	1471947788840	a	65
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464494	1471947788856	1471947788920	v	86
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464496	1471947789144	1471947789224	i	73
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464498	1471947789512	1471947789592	n	78
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464679	1471947789800	1471947789864	g	71
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464686	1471947789992	1471947790056	 	32
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464693	1471947791112	1471947791288	a	65
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464696	1471947792392	1471947792456	=	187
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464701	1471947793224	1471947793320	BKSP	8
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464706	1471947793448	1471947793560	BKSP	8
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464711	1471947794024	1471947794088	 	32
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464804	1471947794904	1471947794984	BKSP	8
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464807	1471947795208	1471947795288	p	80
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464811	1471947795576	1471947795704	r	82
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464814	1471947795912	1471947795992	o	79
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464817	1471947796216	1471947796280	b	66
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464820	1471947796552	1471947796648	l	76
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464855	1471947796856	1471947796968	e	69
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464856	1471947797256	1471947797352	m	77
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464857	1471947797400	1471947797528	s	83
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464859	1471947797560	1471947797624	 	32
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464861	1471947798121	1471947798200	r	82
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464927	1471947798313	1471947798377	e	69
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464931	1471947798521	1471947798584	c	67
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464936	1471947799049	1471947799112	o	79
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464940	1471947799417	1471947799481	n	78
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464943	1471947799720	1471947799800	c	67
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464987	1471947800296	1471947800360	i	73
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464988	1471947800504	1471947800568	l	76
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464989	1471947800712	1471947800760	i	85
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	464990	1471947801016	1471947801080	n	78
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465147	1471947801304	1471947801384	g	71
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465150	1471947802664	1471947802728	BKSP	8
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465156	1471947802840	1471947802920	BKSP	8
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465159	1471947803016	1471947803096	BKSP	8
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465163	1471947803272	1471947803368	BKSP	8
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465166	1471947804072	1471947804152	i	73
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465170	1471947804344	1471947804408	n	78
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465174	1471947804936	1471947805032	g	71
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465176	1471947806056	1471947806152	 	32
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465246	1471947806376	1471947806504	w	87
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465247	1471947806760	1471947806840	i	73
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465248	1471947807016	1471947807080	t	84
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465249	1471947807224	1471947807288	h	72
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465250	1471947808104	1471947808200	 	32
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465311	1471947808776	1471947808968	CAPS_LOCK	20
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465312	1471947809160	1471947809240	T	84
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465313	1471947809272	1471947809384	CAPS_LOCK	20
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465314	1471947809480	1471947809576	h	72
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465315	1471947809800	1471947809880	e	69
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465317	1471947810008	1471947810088	r	82
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465319	1471947810280	1471947810360	e	69
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465464	1471947811000	1471947811112	s	83
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465466	1471947811192	1471947811272	e	69
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465471	1471947813304	1471947813368	'	222
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465474	1471947813720	1471947813816	s	83
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465478	1471947815144	1471947815223	 	32
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465515	1471947815400	1471947815496	i	73
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465517	1471947815657	1471947815736	n	78
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465521	1471947815945	1471947816008	v	86
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465524	1471947816345	1471947816425	o	79
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465527	1471947816552	1471947816616	i	73
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465605	1471947816888	1471947816984	c	67
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465609	1471947817129	1471947817208	e	69
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465610	1471947817304	1471947817400	s	83
+927	9686	I am having problems reconciling with Theresa's invoices.	I am having problems reconciling with Therese's invoices.	465617	1471947817960	1471947818040	.	190
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	465904	1471947825608	1471947825880	CAPS_LOCK	20
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	465908	1471947826008	1471947826088	W	87
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	465912	1471947826088	1471947826184	CAPS_LOCK	20
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	465916	1471947826584	1471947826664	i	73
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	465919	1471947826872	1471947826936	n	78
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	465921	1471947827016	1471947827096	n	78
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	465923	1471947827272	1471947827336	i	73
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	465971	1471947827528	1471947827592	n	78
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	465973	1471947827768	1471947827816	g	71
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	465975	1471947827960	1471947828024	 	32
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	465977	1471947828280	1471947828392	h	72
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	465979	1471947828568	1471947828696	e	69
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466004	1471947828776	1471947828840	r	82
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466007	1471947828920	1471947828984	e	69
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466009	1471947829128	1471947829192	 	32
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466012	1471947829368	1471947829432	e	69
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466015	1471947829640	1471947829736	v	86
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466059	1471947829912	1471947830024	e	69
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466063	1471947830136	1471947830216	r	82
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466066	1471947830328	1471947830375	y	89
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466072	1471947830680	1471947830760	b	66
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466077	1471947831112	1471947831192	o	79
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466123	1471947831496	1471947831656	d	68
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466125	1471947831688	1471947831752	y	89
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466126	1471947831880	1471947831960	 	32
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466128	1471947832024	1471947832120	e	69
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466130	1471947832744	1471947832840	BKSP	8
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466132	1471947832920	1471947832984	w	87
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466146	1471947833097	1471947833176	a	65
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466150	1471947833273	1471947833352	s	83
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466155	1471947833433	1471947833497	 	32
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466159	1471947833497	1471947833592	s	83
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466163	1471947833977	1471947834056	h	72
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466192	1471947834248	1471947834328	o	79
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466194	1471947834792	1471947834872	c	67
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466195	1471947835273	1471947835368	k	75
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466196	1471947835544	1471947835624	e	69
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466197	1471947835705	1471947835800	d	68
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466314	1471947838600	1471947838696	 	32
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466318	1471947839000	1471947839160	a	65
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466322	1471947839304	1471947839400	n	78
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466325	1471947839672	1471947839768	d	68
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466327	1471947839800	1471947839880	 	32
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466396	1471947839928	1471947840040	s	83
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466399	1471947840936	1471947841048	u	85
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466402	1471947841752	1471947841832	r	82
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466407	1471947842280	1471947842408	p	80
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466411	1471947842600	1471947842712	r	82
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466459	1471947842856	1471947842952	i	73
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466461	1471947843081	1471947843192	s	83
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466464	1471947843288	1471947843352	e	69
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466466	1471947843464	1471947843544	d	68
+927	9715	Winning here, everybody was more shocked and surprised.	Winning here everybody was shocked and surprised.	466467	1471947844024	1471947844104	.	190
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466646	1471947848985	1471947849337	CAPS_LOCK	20
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466647	1471947849417	1471947849544	H	72
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466648	1471947849577	1471947849705	CAPS_LOCK	20
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466649	1471947850441	1471947850537	e	69
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466650	1471947850601	1471947850713	 	32
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466651	1471947850922	1471947851001	w	87
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466652	1471947851098	1471947851194	a	65
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466675	1471947851306	1471947851401	s	83
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466678	1471947851434	1471947851498	 	32
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466684	1471947851865	1471947851977	p	80
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466689	1471947852169	1471947852265	r	82
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466694	1471947852425	1471947852537	o	79
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466784	1471947852905	1471947852985	f	70
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466786	1471947853129	1471947853209	e	69
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466788	1471947853321	1471947853497	s	83
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466790	1471947855561	1471947855673	s	83
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466794	1471947856041	1471947856137	o	79
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466875	1471947856281	1471947856377	r	82
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466876	1471947857113	1471947857257	 	32
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466877	1471947857753	1471947857865	e	69
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466878	1471947858185	1471947858297	m	77
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466918	1471947858281	1471947858393	e	69
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466923	1471947858553	1471947858633	r	82
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466926	1471947858793	1471947858873	i	73
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466931	1471947859177	1471947859241	t	84
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466935	1471947859433	1471947859513	u	85
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466938	1471947859545	1471947859641	s	83
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	466999	1471947860409	1471947860505	 	32
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467002	1471947860921	1471947861017	o	79
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467005	1471947861305	1471947861401	f	70
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467007	1471947861449	1471947861497	 	32
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467011	1471947861625	1471947861705	h	72
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467043	1471947861817	1471947861881	u	85
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467044	1471947862025	1471947862105	m	77
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467045	1471947862137	1471947862281	a	65
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467046	1471947862458	1471947862537	n	78
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467047	1471947863241	1471947863353	 	32
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467106	1471947863801	1471947863897	d	68
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467110	1471947863977	1471947864201	e	69
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467115	1471947864457	1471947864537	v	86
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467122	1471947864553	1471947864665	e	69
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467127	1471947864969	1471947865065	l	76
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467210	1471947865193	1471947865257	o	79
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467212	1471947865369	1471947865465	p	80
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467214	1471947867449	1471947867560	m	77
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467215	1471947867705	1471947867832	e	69
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467216	1471947867977	1471947868058	n	78
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467267	1471947868298	1471947868393	t	84
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467269	1471947868938	1471947869033	 	32
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467273	1471947869305	1471947869593	a	65
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467281	1471947869577	1471947869673	n	78
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467287	1471947870105	1471947870201	d	68
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467450	1471947871065	1471947871145	 	32
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467453	1471947871689	1471947871833	o	79
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467457	1471947872585	1471947872665	BKSP	8
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467463	1471947872857	1471947872969	p	80
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467467	1471947873705	1471947873865	h	72
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467472	1471947875465	1471947875577	BKSP	8
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467478	1471947875849	1471947875977	s	83
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467585	1471947876265	1471947876361	h	72
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467588	1471947877113	1471947877241	c	67
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467593	1471947878569	1471947878665	i	73
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467599	1471947878665	1471947878825	a	65
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467601	1471947879353	1471947879433	t	84
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467655	1471947880073	1471947880201	r	82
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467656	1471947880281	1471947880345	y	89
+927	9737	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and pshciatry.	467657	1471947880905	1471947880985	.	190
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	467861	1471947886682	1471947886858	CAPS_LOCK	20
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	467863	1471947887082	1471947887161	A	65
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	467865	1471947887194	1471947887305	CAPS_LOCK	20
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	467866	1471947887657	1471947887738	n	78
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	467867	1471947887913	1471947887961	u	85
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	467868	1471947888681	1471947888777	BKSP	8
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	467869	1471947889081	1471947889129	y	89
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	467871	1471947889257	1471947889321	 	32
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	467985	1471947889481	1471947889577	o	79
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	467987	1471947889897	1471947889961	t	84
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	467989	1471947890121	1471947890185	h	74
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	467991	1471947891401	1471947891529	BKSP	8
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	467992	1471947891609	1471947891705	BKSP	8
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	467993	1471947892489	1471947892602	h	72
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468050	1471947892729	1471947892937	w	87
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468051	1471947893353	1471947893433	BKSP	8
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468054	1471947893529	1471947893625	e	69
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468056	1471947893721	1471947893785	r	82
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468058	1471947893881	1471947893913	 	32
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468060	1471947894313	1471947894393	u	85
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468075	1471947894521	1471947894649	s	83
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468078	1471947894729	1471947894825	e	69
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468082	1471947894873	1471947894905	 	32
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468084	1471947895081	1471947895145	i	73
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468087	1471947895177	1471947895289	s	83
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468115	1471947895401	1471947895449	 	32
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468117	1471947895657	1471947895769	s	83
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468118	1471947895897	1471947895977	t	84
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468120	1471947896137	1471947896201	r	82
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468122	1471947896745	1471947896841	i	73
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468197	1471947897081	1471947897161	v	86
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468198	1471947897641	1471947897705	t	84
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468200	1471947898153	1471947898233	l	76
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468204	1471947898681	1471947898745	y	89
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468208	1471947898889	1471947898953	 	32
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468259	1471947899305	1471947899385	p	80
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468260	1471947899817	1471947899945	r	82
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468261	1471947900185	1471947900281	o	79
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468262	1471947900537	1471947900601	h	72
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468263	1471947901001	1471947901097	i	73
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468292	1471947901385	1471947901465	b	66
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468296	1471947901625	1471947901705	u	85
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468301	1471947901896	1471947901977	t	84
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468305	1471947902057	1471947902184	e	69
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468309	1471947902217	1471947902297	d	68
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468525	1471947904458	1471947904569	BKSP	8
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468526	1471947904665	1471947904745	BKSP	8
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468529	1471947904842	1471947904906	BKSP	8
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468531	1471947904953	1471947905097	BKSP	8
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468532	1471947906057	1471947906153	i	73
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468534	1471947906393	1471947906489	t	84
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468537	1471947906585	1471947906713	e	69
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468540	1471947906761	1471947906841	d	68
+927	9759	Any other use is expressly prohibited.	Any other use is strivtly prohibited.	468543	1471947908889	1471947908953	.	190
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468707	1471947914024	1471947914264	CAPS_LOCK	20
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468709	1471947914264	1471947914360	W	87
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468711	1471947914376	1471947914504	CAPS_LOCK	20
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468713	1471947914504	1471947914584	e	69
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468715	1471947914856	1471947914936	 	32
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468717	1471947915048	1471947915208	w	87
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468719	1471947915480	1471947915560	i	73
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468741	1471947915752	1471947915832	l	76
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468744	1471947915912	1471947915976	l	76
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468748	1471947916136	1471947916184	 	32
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468753	1471947916312	1471947916376	b	66
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468757	1471947916488	1471947916584	e	69
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468771	1471947916616	1471947916680	 	32
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468774	1471947916728	1471947916824	d	68
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468777	1471947917032	1471947917112	i	73
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468780	1471947917272	1471947917352	n	78
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468783	1471947917512	1471947917560	i	73
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468821	1471947917736	1471947917816	n	78
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468822	1471947918056	1471947918120	g	71
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468823	1471947918280	1471947918360	 	32
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468824	1471947918616	1471947918696	f	70
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468825	1471947918744	1471947918904	a	65
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468865	1471947919000	1471947919144	s	83
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468866	1471947919320	1471947919400	h	72
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468867	1471947919624	1471947919704	i	73
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468869	1471947919816	1471947919896	o	79
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468871	1471947920104	1471947920183	b	66
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468960	1471947920296	1471947920391	a	65
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468961	1471947920905	1471947920984	BKSP	8
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468962	1471947921048	1471947921145	BKSP	8
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468963	1471947921912	1471947922040	n	78
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468964	1471947922344	1471947922472	a	65
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468965	1471947923096	1471947923160	b	66
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	468966	1471947923528	1471947923608	l	76
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	469008	1471947923960	1471947924024	y	89
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	469011	1471947924152	1471947924216	 	32
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	469015	1471947924376	1471947924457	l	76
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	469019	1471947924584	1471947924760	a	65
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	469023	1471947925048	1471947925112	t	84
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	469035	1471947925176	1471947925272	e	69
+927	9776	We will be dining fashionably late.	We will be dining fashionably late.	469036	1471947925848	1471947925912	.	190
+927	9790	Come join the fun.	Come join the fun.	469180	1471947929720	1471947929928	CAPS_LOCK	20
+927	9790	Come join the fun.	Come join the fun.	469181	1471947929960	1471947930040	C	67
+927	9790	Come join the fun.	Come join the fun.	469183	1471947930088	1471947930200	CAPS_LOCK	20
+927	9790	Come join the fun.	Come join the fun.	469185	1471947930472	1471947930536	o	79
+927	9790	Come join the fun.	Come join the fun.	469186	1471947930712	1471947930776	m	77
+927	9790	Come join the fun.	Come join the fun.	469188	1471947930936	1471947931064	e	69
+927	9790	Come join the fun.	Come join the fun.	469189	1471947931096	1471947931160	 	32
+927	9790	Come join the fun.	Come join the fun.	469221	1471947931432	1471947931496	j	74
+927	9790	Come join the fun.	Come join the fun.	469223	1471947931784	1471947931848	i	73
+927	9790	Come join the fun.	Come join the fun.	469227	1471947931960	1471947932040	o	79
+927	9790	Come join the fun.	Come join the fun.	469230	1471947932696	1471947932776	BKSP	8
+927	9790	Come join the fun.	Come join the fun.	469233	1471947932856	1471947932920	BKSP	8
+927	9790	Come join the fun.	Come join the fun.	469235	1471947933144	1471947933208	o	79
+927	9790	Come join the fun.	Come join the fun.	469240	1471947933336	1471947933400	i	73
+927	9790	Come join the fun.	Come join the fun.	469268	1471947933544	1471947933592	n	78
+927	9790	Come join the fun.	Come join the fun.	469269	1471947933704	1471947933768	 	32
+927	9790	Come join the fun.	Come join the fun.	469270	1471947933944	1471947933992	t	84
+927	9790	Come join the fun.	Come join the fun.	469271	1471947934136	1471947934200	h	72
+927	9790	Come join the fun.	Come join the fun.	469272	1471947934296	1471947934392	e	69
+927	9790	Come join the fun.	Come join the fun.	469321	1471947934408	1471947934456	 	32
+927	9790	Come join the fun.	Come join the fun.	469324	1471947934664	1471947934728	f	70
+927	9790	Come join the fun.	Come join the fun.	469326	1471947935032	1471947935113	u	85
+927	9790	Come join the fun.	Come join the fun.	469327	1471947935352	1471947935416	n	78
+927	9790	Come join the fun.	Come join the fun.	469329	1471947936056	1471947936120	.	190
+927	9795	Have a great day!	Have agreat day.	469490	1471947939337	1471947939609	CAPS_LOCK	20
+927	9795	Have a great day!	Have agreat day.	469493	1471947940552	1471947940664	H	72
+927	9795	Have a great day!	Have agreat day.	469496	1471947940681	1471947940792	CAPS_LOCK	20
+927	9795	Have a great day!	Have agreat day.	469498	1471947940904	1471947941048	a	65
+927	9795	Have a great day!	Have agreat day.	469500	1471947941160	1471947941240	v	86
+927	9795	Have a great day!	Have agreat day.	469502	1471947941496	1471947941592	e	69
+927	9795	Have a great day!	Have agreat day.	469504	1471947941752	1471947941816	 	32
+927	9795	Have a great day!	Have agreat day.	469521	1471947941848	1471947941960	a	65
+927	9795	Have a great day!	Have agreat day.	469523	1471947942344	1471947942424	g	71
+927	9795	Have a great day!	Have agreat day.	469525	1471947942584	1471947942648	r	82
+927	9795	Have a great day!	Have agreat day.	469527	1471947942760	1471947942824	e	69
+927	9795	Have a great day!	Have agreat day.	469528	1471947942872	1471947942984	a	65
+927	9795	Have a great day!	Have agreat day.	469548	1471947943000	1471947943064	t	84
+927	9795	Have a great day!	Have agreat day.	469553	1471947943208	1471947943272	 	32
+927	9795	Have a great day!	Have agreat day.	469556	1471947943416	1471947943464	d	68
+927	9795	Have a great day!	Have agreat day.	469560	1471947943480	1471947943592	a	65
+927	9795	Have a great day!	Have agreat day.	469563	1471947943656	1471947943720	y	89
+927	9795	Have a great day!	Have agreat day.	469568	1471947944248	1471947944312	.	190
+927	9802	The troops just walked in.	Thye troops just walked in.	469821	1471947951544	1471947951720	CAPS_LOCK	20
+927	9802	The troops just walked in.	Thye troops just walked in.	469822	1471947951752	1471947951848	T	84
+927	9802	The troops just walked in.	Thye troops just walked in.	469823	1471947951864	1471947951976	CAPS_LOCK	20
+927	9802	The troops just walked in.	Thye troops just walked in.	469824	1471947952024	1471947952088	y	72
+927	9802	The troops just walked in.	Thye troops just walked in.	469825	1471947952232	1471947952344	e	69
+927	9802	The troops just walked in.	Thye troops just walked in.	469826	1471947952376	1471947952456	 	32
+927	9802	The troops just walked in.	Thye troops just walked in.	469920	1471947952648	1471947952728	t	84
+927	9802	The troops just walked in.	Thye troops just walked in.	469923	1471947952824	1471947952888	r	82
+927	9802	The troops just walked in.	Thye troops just walked in.	469925	1471947953336	1471947953384	i	73
+927	9802	The troops just walked in.	Thye troops just walked in.	469926	1471947953960	1471947954024	BKSP	8
+927	9802	The troops just walked in.	Thye troops just walked in.	469929	1471947954248	1471947954312	o	79
+927	9802	The troops just walked in.	Thye troops just walked in.	469930	1471947954392	1471947954456	o	79
+927	9802	The troops just walked in.	Thye troops just walked in.	469987	1471947954552	1471947954615	p	80
+927	9802	The troops just walked in.	Thye troops just walked in.	469990	1471947954680	1471947954823	s	83
+927	9802	The troops just walked in.	Thye troops just walked in.	469993	1471947954856	1471947954920	 	32
+927	9802	The troops just walked in.	Thye troops just walked in.	469995	1471947955512	1471947955576	j	74
+927	9802	The troops just walked in.	Thye troops just walked in.	469997	1471947955689	1471947955768	u	85
+927	9802	The troops just walked in.	Thye troops just walked in.	470069	1471947955849	1471947956025	d	68
+927	9802	The troops just walked in.	Thye troops just walked in.	470071	1471947956952	1471947957033	BKSP	8
+927	9802	The troops just walked in.	Thye troops just walked in.	470073	1471947957096	1471947957224	s	83
+927	9802	The troops just walked in.	Thye troops just walked in.	470074	1471947957352	1471947957416	t	84
+927	9802	The troops just walked in.	Thye troops just walked in.	470075	1471947957577	1471947957640	 	32
+927	9802	The troops just walked in.	Thye troops just walked in.	470076	1471947957656	1471947957752	w	87
+927	9802	The troops just walked in.	Thye troops just walked in.	470119	1471947957848	1471947957976	a	65
+927	9802	The troops just walked in.	Thye troops just walked in.	470120	1471947958328	1471947958424	l	76
+927	9802	The troops just walked in.	Thye troops just walked in.	470122	1471947958664	1471947958760	k	75
+927	9802	The troops just walked in.	Thye troops just walked in.	470124	1471947959176	1471947959256	e	69
+927	9802	The troops just walked in.	Thye troops just walked in.	470126	1471947959352	1471947959464	d	68
+927	9802	The troops just walked in.	Thye troops just walked in.	470181	1471947959496	1471947959560	 	32
+927	9802	The troops just walked in.	Thye troops just walked in.	470183	1471947959912	1471947959976	i	73
+927	9802	The troops just walked in.	Thye troops just walked in.	470186	1471947960152	1471947960216	n	78
+927	9802	The troops just walked in.	Thye troops just walked in.	470188	1471947960648	1471947960712	.	190
+927	9815	He did not say when that would be.	He did not say when that would be.	470414	1471947965880	1471947966072	CAPS_LOCK	20
+927	9815	He did not say when that would be.	He did not say when that would be.	470418	1471947966376	1471947966504	H	72
+927	9815	He did not say when that would be.	He did not say when that would be.	470421	1471947966536	1471947966664	CAPS_LOCK	20
+927	9815	He did not say when that would be.	He did not say when that would be.	470422	1471947966856	1471947966936	e	69
+927	9815	He did not say when that would be.	He did not say when that would be.	470423	1471947967032	1471947967096	 	32
+927	9815	He did not say when that would be.	He did not say when that would be.	470424	1471947967192	1471947967288	d	68
+927	9815	He did not say when that would be.	He did not say when that would be.	470425	1471947967480	1471947967576	i	73
+927	9815	He did not say when that would be.	He did not say when that would be.	470513	1471947967608	1471947967720	d	68
+927	9815	He did not say when that would be.	He did not say when that would be.	470516	1471947969369	1471947969449	 	32
+927	9815	He did not say when that would be.	He did not say when that would be.	470519	1471947969849	1471947969913	n	78
+927	9815	He did not say when that would be.	He did not say when that would be.	470522	1471947970105	1471947970185	o	79
+927	9815	He did not say when that would be.	He did not say when that would be.	470526	1471947970521	1471947970585	t	84
+927	9815	He did not say when that would be.	He did not say when that would be.	470554	1471947970729	1471947970793	 	32
+927	9815	He did not say when that would be.	He did not say when that would be.	470555	1471947970969	1471947971065	s	83
+927	9815	He did not say when that would be.	He did not say when that would be.	470556	1471947971177	1471947971305	a	65
+927	9815	He did not say when that would be.	He did not say when that would be.	470557	1471947971337	1471947971384	y	89
+927	9815	He did not say when that would be.	He did not say when that would be.	470559	1471947971545	1471947971625	 	32
+927	9815	He did not say when that would be.	He did not say when that would be.	470587	1471947971689	1471947971833	w	87
+927	9815	He did not say when that would be.	He did not say when that would be.	470591	1471947971977	1471947972057	h	72
+927	9815	He did not say when that would be.	He did not say when that would be.	470594	1471947972184	1471947972297	e	69
+927	9815	He did not say when that would be.	He did not say when that would be.	470596	1471947972473	1471947972536	n	78
+927	9815	He did not say when that would be.	He did not say when that would be.	470597	1471947972633	1471947972696	 	32
+927	9815	He did not say when that would be.	He did not say when that would be.	470634	1471947972857	1471947972922	t	84
+927	9815	He did not say when that would be.	He did not say when that would be.	470636	1471947973082	1471947973193	h	72
+927	9815	He did not say when that would be.	He did not say when that would be.	470638	1471947973257	1471947973417	a	65
+927	9815	He did not say when that would be.	He did not say when that would be.	470640	1471947973433	1471947973498	t	84
+927	9815	He did not say when that would be.	He did not say when that would be.	470642	1471947973658	1471947973737	 	32
+927	9815	He did not say when that would be.	He did not say when that would be.	470704	1471947973946	1471947974057	e	69
+927	9815	He did not say when that would be.	He did not say when that would be.	470707	1471947974585	1471947974681	BKSP	8
+927	9815	He did not say when that would be.	He did not say when that would be.	470710	1471947974825	1471947974969	w	87
+927	9815	He did not say when that would be.	He did not say when that would be.	470713	1471947975337	1471947975417	o	79
+927	9815	He did not say when that would be.	He did not say when that would be.	470715	1471947975593	1471947975673	u	85
+927	9815	He did not say when that would be.	He did not say when that would be.	470716	1471947975849	1471947975929	l	76
+927	9815	He did not say when that would be.	He did not say when that would be.	470755	1471947976073	1471947976249	d	68
+927	9815	He did not say when that would be.	He did not say when that would be.	470757	1471947976281	1471947976345	 	32
+927	9815	He did not say when that would be.	He did not say when that would be.	470759	1471947976489	1471947976570	b	66
+927	9815	He did not say when that would be.	He did not say when that would be.	470764	1471947976761	1471947976873	e	69
+927	9815	He did not say when that would be.	He did not say when that would be.	470767	1471947977193	1471947977257	.	190

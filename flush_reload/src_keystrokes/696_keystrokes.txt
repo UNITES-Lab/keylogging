@@ -1,0 +1,648 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+696	6890	We just need a sitter.	We just need a sitter.	331432	1471944514307	1471944514797	SHIFT	16
+696	6890	We just need a sitter.	We just need a sitter.	331427	1471944514646	1471944514757		87
+696	6890	We just need a sitter.	We just need a sitter.	331436	1471944515429	1471944515509		69
+696	6890	We just need a sitter.	We just need a sitter.	331441	1471944515573	1471944515646		32
+696	6890	We just need a sitter.	We just need a sitter.	331447	1471944515837	1471944515909		74
+696	6890	We just need a sitter.	We just need a sitter.	331453	1471944515997	1471944516077		85
+696	6890	We just need a sitter.	We just need a sitter.	331513	1471944516117	1471944516269		83
+696	6890	We just need a sitter.	We just need a sitter.	331520	1471944516389	1471944516470		84
+696	6890	We just need a sitter.	We just need a sitter.	331522	1471944516645	1471944516717		32
+696	6890	We just need a sitter.	We just need a sitter.	331528	1471944517317	1471944517397		78
+696	6890	We just need a sitter.	We just need a sitter.	331530	1471944517493	1471944517541		69
+696	6890	We just need a sitter.	We just need a sitter.	331562	1471944517661	1471944517718		69
+696	6890	We just need a sitter.	We just need a sitter.	331564	1471944517893	1471944517965		68
+696	6890	We just need a sitter.	We just need a sitter.	331566	1471944518013	1471944518085		32
+696	6890	We just need a sitter.	We just need a sitter.	331567	1471944518260	1471944518373		65
+696	6890	We just need a sitter.	We just need a sitter.	331569	1471944518501	1471944518565		32
+696	6890	We just need a sitter.	We just need a sitter.	331627	1471944518829	1471944518933		83
+696	6890	We just need a sitter.	We just need a sitter.	331629	1471944519285	1471944519357		73
+696	6890	We just need a sitter.	We just need a sitter.	331632	1471944519621	1471944519685		84
+696	6890	We just need a sitter.	We just need a sitter.	331634	1471944519765	1471944519829		84
+696	6890	We just need a sitter.	We just need a sitter.	331636	1471944519925	1471944520031		69
+696	6890	We just need a sitter.	We just need a sitter.	331737	1471944520125	1471944520173		69
+696	6890	We just need a sitter.	We just need a sitter.	331740	1471944520791	1471944520886		8
+696	6890	We just need a sitter.	We just need a sitter.	331742	1471944521541	1471944521629		8
+696	6890	We just need a sitter.	We just need a sitter.	331743	1471944522181	1471944522261		82
+696	6890	We just need a sitter.	We just need a sitter.	331765	1471944522645	1471944522709		190
+696	6903	Yes I am coming twice.	Yes I am coming twice.	331967	1471944525789	1471944526109	SHIFT	16
+696	6903	Yes I am coming twice.	Yes I am coming twice.	331970	1471944526085	1471944526181		89
+696	6903	Yes I am coming twice.	Yes I am coming twice.	331972	1471944526413	1471944526493		69
+696	6903	Yes I am coming twice.	Yes I am coming twice.	331973	1471944526565	1471944526709		83
+696	6903	Yes I am coming twice.	Yes I am coming twice.	331974	1471944526789	1471944526877		32
+696	6903	Yes I am coming twice.	Yes I am coming twice.	331975	1471944527365	1471944527677	SHIFT	16
+696	6903	Yes I am coming twice.	Yes I am coming twice.	332025	1471944527581	1471944527683		73
+696	6903	Yes I am coming twice.	Yes I am coming twice.	332027	1471944528069	1471944528141		32
+696	6903	Yes I am coming twice.	Yes I am coming twice.	332029	1471944528197	1471944528348		65
+696	6903	Yes I am coming twice.	Yes I am coming twice.	332032	1471944528429	1471944528523		77
+696	6903	Yes I am coming twice.	Yes I am coming twice.	332035	1471944528629	1471944528701		32
+696	6903	Yes I am coming twice.	Yes I am coming twice.	332038	1471944529093	1471944529173		67
+696	6903	Yes I am coming twice.	Yes I am coming twice.	332070	1471944529333	1471944529397		79
+696	6903	Yes I am coming twice.	Yes I am coming twice.	332073	1471944529567	1471944529629		77
+696	6903	Yes I am coming twice.	Yes I am coming twice.	332077	1471944529757	1471944529821		73
+696	6903	Yes I am coming twice.	Yes I am coming twice.	332081	1471944529973	1471944530021		78
+696	6903	Yes I am coming twice.	Yes I am coming twice.	332084	1471944530149	1471944530213		71
+696	6903	Yes I am coming twice.	Yes I am coming twice.	332170	1471944530357	1471944530405		32
+696	6903	Yes I am coming twice.	Yes I am coming twice.	332172	1471944531245	1471944531317		84
+696	6903	Yes I am coming twice.	Yes I am coming twice.	332175	1471944531493	1471944531581		87
+696	6903	Yes I am coming twice.	Yes I am coming twice.	332179	1471944531741	1471944531813		73
+696	6903	Yes I am coming twice.	Yes I am coming twice.	332182	1471944532125	1471944532205		67
+696	6903	Yes I am coming twice.	Yes I am coming twice.	332204	1471944532269	1471944532381		69
+696	6903	Yes I am coming twice.	Yes I am coming twice.	332205	1471944533061	1471944533125		190
+696	6916	See you on the third.	See you on the third.	332410	1471944536637	1471944536981	SHIFT	16
+696	6916	See you on the third.	See you on the third.	332413	1471944536949	1471944537029		83
+696	6916	See you on the third.	See you on the third.	332416	1471944537125	1471944537197		69
+696	6916	See you on the third.	See you on the third.	332418	1471944537261	1471944537333		69
+696	6916	See you on the third.	See you on the third.	332419	1471944537589	1471944537653		32
+696	6916	See you on the third.	See you on the third.	332420	1471944537981	1471944538053		89
+696	6916	See you on the third.	See you on the third.	332499	1471944538397	1471944538469		79
+696	6916	See you on the third.	See you on the third.	332501	1471944538613	1471944538693		85
+696	6916	See you on the third.	See you on the third.	332503	1471944538845	1471944538909		32
+696	6916	See you on the third.	See you on the third.	332505	1471944539453	1471944539525		79
+696	6916	See you on the third.	See you on the third.	332507	1471944539717	1471944539749		78
+696	6916	See you on the third.	See you on the third.	332522	1471944539853	1471944539909		32
+696	6916	See you on the third.	See you on the third.	332526	1471944540053	1471944540109		84
+696	6916	See you on the third.	See you on the third.	332528	1471944540213	1471944540277		72
+696	6916	See you on the third.	See you on the third.	332532	1471944540341	1471944540420		69
+696	6916	See you on the third.	See you on the third.	332534	1471944540469	1471944540533		32
+696	6916	See you on the third.	See you on the third.	332613	1471944540717	1471944540789		84
+696	6916	See you on the third.	See you on the third.	332616	1471944541021	1471944541076		72
+696	6916	See you on the third.	See you on the third.	332618	1471944541405	1471944541469		73
+696	6916	See you on the third.	See you on the third.	332621	1471944541653	1471944541725		82
+696	6916	See you on the third.	See you on the third.	332624	1471944542077	1471944542149		68
+696	6916	See you on the third.	See you on the third.	332654	1471944543005	1471944543077		190
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332795	1471944545941	1471944546021		73
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332798	1471944546189	1471944546245		32
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332802	1471944546389	1471944546445		72
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332808	1471944546533	1471944546669		65
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332814	1471944546805	1471944546877		66
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332840	1471944546933	1471944547053		69
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332842	1471944547141	1471944547213		32
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332844	1471944547508	1471944547589		8
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332846	1471944547677	1471944547734		8
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332848	1471944547789	1471944547861		8
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332891	1471944548381	1471944548468		86
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332892	1471944548492	1471944548621		69
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332893	1471944548653	1471944548725		32
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332894	1471944549389	1471944549469		82
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332895	1471944549493	1471944549589		65
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332920	1471944549637	1471944549719		84
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332922	1471944549758	1471944549837		69
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332927	1471944549973	1471944550101		83
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332932	1471944550102	1471944550196		32
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332936	1471944550437	1471944550549		65
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332973	1471944550709	1471944550781		78
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332976	1471944550941	1471944551013		68
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332979	1471944551069	1471944551133		32
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332980	1471944551317	1471944551397		67
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	332981	1471944551398	1471944551509		65
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333026	1471944551749	1471944551821		80
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333027	1471944551869	1471944551981		65
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333028	1471944552293	1471944552373		67
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333029	1471944552533	1471944552613		73
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333030	1471944552837	1471944552925		84
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333095	1471944552928	1471944553021		89
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333098	1471944553181	1471944553261		32
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333100	1471944554173	1471944554253		85
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333102	1471944554501	1471944554589		84
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333107	1471944554733	1471944554805		73
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333173	1471944554933	1471944555005		76
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333175	1471944555117	1471944555189		73
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333179	1471944556342	1471944556423		88
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333181	1471944556493	1471944556637		65
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333186	1471944556981	1471944557069		8
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333268	1471944557141	1471944557221		8
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333270	1471944558269	1471944558326		90
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333272	1471944558445	1471944558573		65
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333275	1471944558693	1471944558741		82
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333433	1471944559357	1471944559461		8
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333435	1471944560709	1471944560812		8
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333437	1471944562309	1471944562389		84
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333439	1471944562773	1471944562829		73
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333441	1471944562924	1471944563005		79
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333530	1471944563141	1471944563205		78
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333531	1471944563325	1471944563389		32
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333534	1471944565029	1471944565101		73
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333537	1471944565285	1471944565325		78
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333542	1471944565461	1471944565501		32
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333589	1471944566069	1471944566172		8
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333593	1471944566765	1471944566837		70
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333596	1471944566973	1471944567045		79
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333600	1471944567212	1471944567293		82
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333602	1471944567405	1471944567476		77
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333621	1471944567605	1471944567717		65
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333623	1471944567733	1471944567821		84
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333625	1471944568207	1471944568269		73
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333627	1471944568365	1471944568445		79
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333629	1471944568629	1471944568669		78
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333678	1471944568773	1471944568845		32
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333681	1471944569205	1471944569268		82
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333683	1471944569381	1471944569461		69
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333686	1471944569541	1471944569620		65
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333689	1471944569797	1471944569885		68
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333726	1471944570189	1471944570277		89
+696	6921	I have rates and capacity utilization information ready.	i have rates and capacity utilization information ready.	333727	1471944571037	1471944571109		190
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	333909	1471944574022	1471944574301	SHIFT	16
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	333913	1471944574269	1471944574357		89
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	333918	1471944574797	1471944574869		79
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	333922	1471944575181	1471944575253		85
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	333924	1471944575325	1471944575381		32
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	333926	1471944575973	1471944576037		77
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	333977	1471944576181	1471944576245		85
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	333978	1471944576349	1471944576445		83
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	333979	1471944576525	1471944576605		84
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	333980	1471944576796	1471944576861		32
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	333981	1471944577429	1471944577501		84
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334037	1471944577613	1471944577693		72
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334040	1471944577805	1471944577909		69
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334045	1471944577941	1471944578021		82
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334049	1471944578093	1471944578173		69
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334054	1471944579125	1471944579197		70
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334115	1471944579437	1471944579517		79
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334117	1471944579743	1471944579829		82
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334120	1471944579860	1471944579981		69
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334126	1471944580181	1471944580245		32
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334130	1471944580557	1471944580629		84
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334187	1471944580689	1471944580830		65
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334190	1471944580971	1471944580996		75
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334192	1471944581116	1471944581205		69
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334195	1471944581293	1471944581404		32
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334198	1471944582046	1471944582109		70
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334238	1471944582333	1471944582397		73
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334242	1471944582741	1471944582837		8
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334247	1471944583054	1471944583117		85
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334253	1471944583269	1471944583328		76
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334257	1471944583389	1471944583446		76
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334324	1471944583613	1471944583677		32
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334328	1471944584133	1471944584213		82
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334332	1471944584261	1471944584341		69
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334337	1471944584501	1471944584573		83
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334341	1471944585029	1471944585093		80
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334404	1471944585221	1471944585293		79
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334407	1471944585485	1471944585549		78
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334409	1471944585757	1471944585805		68
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334414	1471944586501	1471944586589		8
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334418	1471944587357	1471944587429		83
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334464	1471944587629	1471944587709		73
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334466	1471944587965	1471944588037		66
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334471	1471944588277	1471944588349		73
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334478	1471944588485	1471944588557		76
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334482	1471944588733	1471944588781		73
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334519	1471944588933	1471944589013		84
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334521	1471944589045	1471944589125		89
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334524	1471944589325	1471944589388		32
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334527	1471944589973	1471944590045		70
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334532	1471944590237	1471944590325		79
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334649	1471944590605	1471944590701		82
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334646	1471944590661	1471944590701		32
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334651	1471944591365	1471944591437		86
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334653	1471944592253	1471944592326		73
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334655	1471944593173	1471944593237		82
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334701	1471944593397	1471944593485		85
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334704	1471944593613	1471944593701		83
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334707	1471944593829	1471944593909		32
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334708	1471944594669	1471944594725		67
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334711	1471944594870	1471944594957		72
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334762	1471944595157	1471944595237		69
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334763	1471944595500	1471944595573		67
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334767	1471944595869	1471944595933		75
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334770	1471944596037	1471944596101		73
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334775	1471944596261	1471944596301		78
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334817	1471944596389	1471944596524		71
+696	6945	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	334821	1471944596973	1471944597061		190
+696	6968	I was runner-up three times.	I was runner-up three times	335003	1471944600045	1471944600309	SHIFT	16
+696	6968	I was runner-up three times.	I was runner-up three times	335005	1471944600225	1471944600309		73
+696	6968	I was runner-up three times.	I was runner-up three times	335009	1471944600493	1471944600549		32
+696	6968	I was runner-up three times.	I was runner-up three times	335012	1471944600701	1471944600757		87
+696	6968	I was runner-up three times.	I was runner-up three times	335013	1471944600917	1471944600973		65
+696	6968	I was runner-up three times.	I was runner-up three times	335015	1471944601093	1471944601165		83
+696	6968	I was runner-up three times.	I was runner-up three times	335079	1471944601221	1471944601309		32
+696	6968	I was runner-up three times.	I was runner-up three times	335082	1471944602069	1471944602157		82
+696	6968	I was runner-up three times.	I was runner-up three times	335089	1471944602517	1471944602589		85
+696	6968	I was runner-up three times.	I was runner-up three times	335093	1471944602765	1471944602805		78
+696	6968	I was runner-up three times.	I was runner-up three times	335101	1471944602885	1471944602958		78
+696	6968	I was runner-up three times.	I was runner-up three times	335195	1471944603085	1471944603205		69
+696	6968	I was runner-up three times.	I was runner-up three times	335198	1471944603237	1471944603317		82
+696	6968	I was runner-up three times.	I was runner-up three times	335203	1471944603645	1471944603717		32
+696	6968	I was runner-up three times.	I was runner-up three times	335207	1471944604621	1471944604693		8
+696	6968	I was runner-up three times.	I was runner-up three times	335212	1471944604837	1471944604917		173
+696	6968	I was runner-up three times.	I was runner-up three times	335307	1471944605477	1471944605541		85
+696	6968	I was runner-up three times.	I was runner-up three times	335308	1471944605821	1471944605885		80
+696	6968	I was runner-up three times.	I was runner-up three times	335311	1471944606133	1471944606181		32
+696	6968	I was runner-up three times.	I was runner-up three times	335316	1471944606982	1471944607045		84
+696	6968	I was runner-up three times.	I was runner-up three times	335321	1471944607165	1471944607229		72
+696	6968	I was runner-up three times.	I was runner-up three times	335341	1471944607405	1471944607469		82
+696	6968	I was runner-up three times.	I was runner-up three times	335345	1471944607525	1471944607581		69
+696	6968	I was runner-up three times.	I was runner-up three times	335349	1471944607661	1471944607733		69
+696	6968	I was runner-up three times.	I was runner-up three times	335354	1471944607853	1471944607917		32
+696	6968	I was runner-up three times.	I was runner-up three times	335359	1471944608133	1471944608181		82
+696	6968	I was runner-up three times.	I was runner-up three times	335436	1471944609013	1471944609125		8
+696	6968	I was runner-up three times.	I was runner-up three times	335440	1471944609261	1471944609341		8
+696	6968	I was runner-up three times.	I was runner-up three times	335445	1471944609821	1471944609933		84
+696	6968	I was runner-up three times.	I was runner-up three times	335449	1471944609997	1471944610069		73
+696	6968	I was runner-up three times.	I was runner-up three times	335451	1471944610213	1471944610285		77
+696	6968	I was runner-up three times.	I was runner-up three times	335481	1471944610517	1471944610581		69
+696	6968	I was runner-up three times.	I was runner-up three times	335485	1471944610956	1471944611061		83
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	335770	1471944614125	1471944614325	SHIFT	16
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	335772	1471944614237	1471944614325		73
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	335777	1471944614549	1471944614885		32
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	335780	1471944615605	1471944615677		72
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	335782	1471944615773	1471944615853		65
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	335788	1471944616661	1471944616733		68
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336012	1471944617021	1471944617109		78
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336014	1471944620653	1471944620733		222
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336017	1471944621181	1471944621261		84
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336019	1471944621317	1471944621437		32
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336021	1471944622589	1471944622669		68
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336109	1471944622797	1471944622877		79
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336113	1471944623221	1471944623292		78
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336115	1471944623341	1471944623493		69
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336118	1471944623533	1471944623605		32
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336122	1471944624261	1471944624341		84
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336181	1471944624453	1471944624533		72
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336182	1471944624605	1471944624749		65
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336183	1471944624709	1471944624797		84
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336184	1471944624981	1471944625045		32
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336185	1471944625485	1471944625557		70
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336236	1471944625829	1471944625909		79
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336237	1471944626021	1471944626108		82
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336239	1471944626173	1471944626237		32
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336241	1471944626365	1471944626461		65
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336244	1471944626621	1471944626685		32
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336334	1471944627013	1471944627117		87
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336337	1471944627316	1471944627397		74
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336342	1471944627717	1471944627789		8
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336348	1471944628133	1471944628205		72
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336354	1471944628413	1471944628485		73
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336458	1471944628605	1471944628677		76
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336463	1471944628781	1471944628901		69
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336466	1471944628933	1471944629021		32
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336469	1471944630293	1471944630373		173
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336472	1471944630573	1471944630645		32
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336600	1471944630941	1471944631021		84
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336604	1471944631197	1471944631253		79
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336607	1471944631333	1471944631389		79
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336611	1471944631597	1471944631653		32
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336615	1471944632166	1471944632245		66
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336673	1471944632413	1471944632485		85
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336675	1471944632557	1471944632653		83
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336677	1471944632757	1471944632829		89
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336679	1471944633349	1471944633421		188
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336680	1471944633573	1471944633637		32
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336750	1471944634284	1471944634509	SHIFT	16
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336752	1471944634477	1471944634549		73
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336759	1471944634717	1471944634789		32
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336763	1471944634949	1471944635021		71
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336767	1471944635469	1471944635549		85
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336771	1471944635741	1471944635853		69
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336824	1471944637061	1471944637101		68
+696	6983	I hadn't done that for a while - too busy, I guess.	I hadn't done that for a while - too busy, I guedd	336827	1471944637189	1471944637261		68
+696	7003	I am monitoring email.	I am monitoring email.	336932	1471944640349	1471944640637	SHIFT	16
+696	7003	I am monitoring email.	I am monitoring email.	336933	1471944640597	1471944640685		73
+696	7003	I am monitoring email.	I am monitoring email.	336934	1471944640845	1471944640925		32
+696	7003	I am monitoring email.	I am monitoring email.	336935	1471944640981	1471944641133		65
+696	7003	I am monitoring email.	I am monitoring email.	336936	1471944641134	1471944641212		77
+696	7003	I am monitoring email.	I am monitoring email.	336937	1471944641356	1471944641428		32
+696	7003	I am monitoring email.	I am monitoring email.	336974	1471944641749	1471944641820		77
+696	7003	I am monitoring email.	I am monitoring email.	336976	1471944642006	1471944642044		79
+696	7003	I am monitoring email.	I am monitoring email.	336979	1471944642541	1471944642604		78
+696	7003	I am monitoring email.	I am monitoring email.	336982	1471944642740	1471944642804		73
+696	7003	I am monitoring email.	I am monitoring email.	336983	1471944643245	1471944643349		84
+696	7003	I am monitoring email.	I am monitoring email.	337046	1471944643397	1471944643477		79
+696	7003	I am monitoring email.	I am monitoring email.	337048	1471944643605	1471944643677		89
+696	7003	I am monitoring email.	I am monitoring email.	337050	1471944644004	1471944644172		8
+696	7003	I am monitoring email.	I am monitoring email.	337054	1471944645165	1471944645245		82
+696	7003	I am monitoring email.	I am monitoring email.	337058	1471944645429	1471944645509		73
+696	7003	I am monitoring email.	I am monitoring email.	337101	1471944645685	1471944645741		78
+696	7003	I am monitoring email.	I am monitoring email.	337106	1471944645845	1471944645941		71
+696	7003	I am monitoring email.	I am monitoring email.	337112	1471944646053	1471944646133		32
+696	7003	I am monitoring email.	I am monitoring email.	337118	1471944646893	1471944646973		82
+696	7003	I am monitoring email.	I am monitoring email.	337122	1471944647269	1471944647365		8
+696	7003	I am monitoring email.	I am monitoring email.	337134	1471944647421	1471944647477		69
+696	7003	I am monitoring email.	I am monitoring email.	337136	1471944647829	1471944647909		77
+696	7003	I am monitoring email.	I am monitoring email.	337140	1471944647989	1471944648077		65
+696	7003	I am monitoring email.	I am monitoring email.	337144	1471944648213	1471944648285		73
+696	7003	I am monitoring email.	I am monitoring email.	337147	1471944648389	1471944648453		79
+696	7003	I am monitoring email.	I am monitoring email.	337201	1471944648853	1471944648931		8
+696	7003	I am monitoring email.	I am monitoring email.	337203	1471944649733	1471944649813		76
+696	7003	I am monitoring email.	I am monitoring email.	337206	1471944650109	1471944650173		190
+696	7015	If you need John speak up now.	If you need John dpeak up now	337371	1471944653549	1471944653805	SHIFT	16
+696	7015	If you need John speak up now.	If you need John dpeak up now	337373	1471944653757	1471944653853		73
+696	7015	If you need John speak up now.	If you need John dpeak up now	337375	1471944654149	1471944654253		70
+696	7015	If you need John speak up now.	If you need John dpeak up now	337377	1471944654285	1471944654365		32
+696	7015	If you need John speak up now.	If you need John dpeak up now	337380	1471944655189	1471944655261		89
+696	7015	If you need John speak up now.	If you need John dpeak up now	337384	1471944655397	1471944655477		79
+696	7015	If you need John speak up now.	If you need John dpeak up now	337417	1471944655629	1471944655701		85
+696	7015	If you need John speak up now.	If you need John dpeak up now	337419	1471944655861	1471944655917		32
+696	7015	If you need John speak up now.	If you need John dpeak up now	337423	1471944655997	1471944656061		78
+696	7015	If you need John speak up now.	If you need John dpeak up now	337427	1471944656197	1471944656237		69
+696	7015	If you need John speak up now.	If you need John dpeak up now	337431	1471944656341	1471944656413		69
+696	7015	If you need John speak up now.	If you need John dpeak up now	337495	1471944656557	1471944656629		68
+696	7015	If you need John speak up now.	If you need John dpeak up now	337497	1471944656685	1471944656789		32
+696	7015	If you need John speak up now.	If you need John dpeak up now	337501	1471944657205	1471944657469	SHIFT	16
+696	7015	If you need John speak up now.	If you need John dpeak up now	337505	1471944657381	1471944657469		74
+696	7015	If you need John speak up now.	If you need John dpeak up now	337507	1471944657821	1471944657885		79
+696	7015	If you need John speak up now.	If you need John dpeak up now	337511	1471944658445	1471944658509		72
+696	7015	If you need John speak up now.	If you need John dpeak up now	337578	1471944658573	1471944658661		78
+696	7015	If you need John speak up now.	If you need John dpeak up now	337580	1471944658781	1471944658853		32
+696	7015	If you need John speak up now.	If you need John dpeak up now	337582	1471944659981	1471944660053		68
+696	7015	If you need John speak up now.	If you need John dpeak up now	337583	1471944660301	1471944660381		80
+696	7015	If you need John speak up now.	If you need John dpeak up now	337584	1471944660757	1471944660837		69
+696	7015	If you need John speak up now.	If you need John dpeak up now	337642	1471944660893	1471944661029		65
+696	7015	If you need John speak up now.	If you need John dpeak up now	337644	1471944661309	1471944661389		75
+696	7015	If you need John speak up now.	If you need John dpeak up now	337646	1471944661565	1471944661621		32
+696	7015	If you need John speak up now.	If you need John dpeak up now	337648	1471944662253	1471944662333		85
+696	7015	If you need John speak up now.	If you need John dpeak up now	337649	1471944662613	1471944662677		80
+696	7015	If you need John speak up now.	If you need John dpeak up now	337692	1471944662893	1471944662941		32
+696	7015	If you need John speak up now.	If you need John dpeak up now	337696	1471944663069	1471944663125		78
+696	7015	If you need John speak up now.	If you need John dpeak up now	337700	1471944663284	1471944663348		79
+696	7015	If you need John speak up now.	If you need John dpeak up now	337703	1471944663701	1471944663805		87
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	337843	1471944667925	1471944668349	SHIFT	16
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	337844	1471944668333	1471944668421		70
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	337845	1471944668781	1471944668861		73
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	337846	1471944669021	1471944669085		78
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	337847	1471944669133	1471944669245		65
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	337848	1471944669629	1471944669693		76
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	337886	1471944669757	1471944669837		76
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	337887	1471944670037	1471944670109		89
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	337889	1471944670549	1471944670629		188
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	337890	1471944670797	1471944670853		32
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	337892	1471944671373	1471944671637	SHIFT	16
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	337938	1471944671573	1471944671653		73
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	337940	1471944671805	1471944671877		32
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	337945	1471944672013	1471944672093		87
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	337948	1471944672341	1471944672421		79
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	337953	1471944672653	1471944672717		85
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	337961	1471944672885	1471944672941		76
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338022	1471944673085	1471944673165		68
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338024	1471944673237	1471944673309		32
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338025	1471944674133	1471944674213		68
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338028	1471944674253	1471944674341		69
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338029	1471944675077	1471944675133		76
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338113	1471944675237	1471944675341		69
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338115	1471944675429	1471944675509		84
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338117	1471944675565	1471944675661		69
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338119	1471944675829	1471944675909		32
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338121	1471944676765	1471944676829		84
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338175	1471944676957	1471944677037		72
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338177	1471944677085	1471944677181		69
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338179	1471944677237	1471944677309		32
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338183	1471944678085	1471944678165		80
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338186	1471944678229	1471944678341		65
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338228	1471944678461	1471944678541		82
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338231	1471944678597	1471944678717		65
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338234	1471944679365	1471944679445		71
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338237	1471944679613	1471944679701		82
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338238	1471944679773	1471944679901		65
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338377	1471944680013	1471944680085		80
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338379	1471944683285	1471944683389		72
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338380	1471944683605	1471944683685		32
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338382	1471944684021	1471944684157		65
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338383	1471944684293	1471944684341		66
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338430	1471944684677	1471944684805		8
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338433	1471944684877	1471944684973		66
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338436	1471944685605	1471944685685		8
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338440	1471944685885	1471944685957		79
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338444	1471944686165	1471944686229		85
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338538	1471944686309	1471944686437		84
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338541	1471944686485	1471944686557		32
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338543	1471944687645	1471944687725		76
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338548	1471944688037	1471944688117		65
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338552	1471944688261	1471944688333		87
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338625	1471944688741	1471944688821		89
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338630	1471944688893	1471944689005		69
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338634	1471944688989	1471944689085		82
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338638	1471944689189	1471944689317		83
+696	7022	Finally, I would delete the paragraph about lawyers.	Finally, I would delete the paragraph about lawyers.	338642	1471944690237	1471944690317		190
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	338807	1471944693837	1471944694165	SHIFT	16
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	338810	1471944694117	1471944694205		87
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	338812	1471944694797	1471944694893		72
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	338814	1471944694965	1471944695109		65
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	338815	1471944695045	1471944695149		84
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	338816	1471944695325	1471944695405		32
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	338875	1471944695805	1471944695885		73
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	338877	1471944695949	1471944696085		83
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	338879	1471944696085	1471944696149		32
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	338881	1471944696301	1471944696373		84
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	338884	1471944696485	1471944696565		72
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	338928	1471944696620	1471944696733		69
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	338931	1471944696749	1471944696829		32
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	338932	1471944697221	1471944697301		83
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	338934	1471944697549	1471944697629		72
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	338936	1471944697989	1471944698061		80
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	338969	1471944698621	1471944698718		87
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	338970	1471944698797	1471944698861		69
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	338971	1471944698949	1471944699029		82
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	338972	1471944699237	1471944699309		32
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	338974	1471944699501	1471944699629		65
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	339069	1471944699813	1471944699893		84
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	339071	1471944700061	1471944700141		32
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	339074	1471944700285	1471944701045	SHIFT	16
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	339078	1471944701005	1471944701109		80
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	339082	1471944701165	1471944701301		65
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	339086	1471944701549	1471944701629		84
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	339189	1471944702317	1471944702397		83
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	339191	1471944702797	1471944702885		89
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	339192	1471944704269	1471944704357		222
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	339193	1471944704525	1471944704637		83
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	339194	1471944704693	1471944704781		32
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	339283	1471944705693	1471944705765		70
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	339286	1471944706037	1471944706125		79
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	339288	1471944706253	1471944706293		84
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	339289	1471944706797	1471944706861		82
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	339290	1471944707221	1471944707341		8
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	339367	1471944707573	1471944707661		8
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	339368	1471944707741	1471944707829		82
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	339370	1471944708285	1471944709205	SHIFT	16
+696	7044	What is the shower at Patsy's for?	What is the shpwer at Patsy's for?	339373	1471944709117	1471944709205		191
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339725	1471944716342	1471944716667	SHIFT	16
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339728	1471944716598	1471944716684		68
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339730	1471944717501	1471944717637	BKSP	8
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339732	1471944717916	1471944717988		70
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339734	1471944718108	1471944718191		82
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339737	1471944718172	1471944718300		69
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339740	1471944719212	1471944719300		78
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339820	1471944719500	1471944719612		67
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339825	1471944719692	1471944719764		72
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339829	1471944719932	1471944719997		32
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339832	1471944720460	1471944720657		65
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339836	1471944721140	1471944721220		67
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339911	1471944721404	1471944721492		84
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339912	1471944721620	1471944721708		82
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339914	1471944721788	1471944721892		69
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339916	1471944722422	1471944722460		83
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339919	1471944722996	1471944723060		83
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339994	1471944723308	1471944723388		32
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339996	1471944723732	1471944723996	SHIFT	16
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339997	1471944723948	1471944724044		74
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339998	1471944724189	1471944724268		85
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	339999	1471944724476	1471944724548		76
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340001	1471944724692	1471944724764		73
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340078	1471944725884	1471944725964		69
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340080	1471944726172	1471944726260		84
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340082	1471944726460	1471944726540		84
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340085	1471944726709	1471944726844		69
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340088	1471944727084	1471944727172		32
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340201	1471944727478	1471944727740	SHIFT	16
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340202	1471944727676	1471944727764		66
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340204	1471944728036	1471944728108		79
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340205	1471944728532	1471944728644		8
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340207	1471944729156	1471944729236		73
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340209	1471944729996	1471944730076		78
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340333	1471944730564	1471944730652		79
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340336	1471944731140	1471944731244		67
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340339	1471944731452	1471944731564		72
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340342	1471944733460	1471944733580		69
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340346	1471944733660	1471944733740		32
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340409	1471944734548	1471944734636		68
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340412	1471944734700	1471944734780		69
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340415	1471944734940	1471944735012		67
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340418	1471944735292	1471944735364		76
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340420	1471944735436	1471944735524		65
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340483	1471944735644	1471944735732		82
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340486	1471944735733	1471944735804		69
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340487	1471944735940	1471944736052		68
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340489	1471944736116	1471944736220		32
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340491	1471944736876	1471944736948		84
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340509	1471944737070	1471944737140		72
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340514	1471944737204	1471944737276		69
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340518	1471944737316	1471944737372		32
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340522	1471944737564	1471944737628		70
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340525	1471944737676	1471944737756		69
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340546	1471944737908	1471944738004		83
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340548	1471944738068	1471944738148		84
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340550	1471944738556	1471944738644		73
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340552	1471944738924	1471944739012		86
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340555	1471944739076	1471944739188		65
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340663	1471944739380	1471944739452		76
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340667	1471944739668	1471944739740		32
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340672	1471944740828	1471944740900		79
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340676	1471944741004	1471944741068		80
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340680	1471944741172	1471944741292		69
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340700	1471944741412	1471944741460		78
+696	7061	French actress Juliette Binoche declared the festival open.	french actress Juliette Binoche declared the festival open.	340702	1471944742028	1471944742092		190
+696	7083	Have you done any deals yet?	have you done any deals yet?	340835	1471944745340	1471944745644	SHIFT	16
+696	7083	Have you done any deals yet?	have you done any deals yet?	340838	1471944745645	1471944745724		72
+696	7083	Have you done any deals yet?	have you done any deals yet?	340842	1471944745764	1471944745908		65
+696	7083	Have you done any deals yet?	have you done any deals yet?	340845	1471944746380	1471944746468		86
+696	7083	Have you done any deals yet?	have you done any deals yet?	340847	1471944746516	1471944746652		69
+696	7083	Have you done any deals yet?	have you done any deals yet?	340849	1471944746676	1471944746756		32
+696	7083	Have you done any deals yet?	have you done any deals yet?	340913	1471944747324	1471944747404		89
+696	7083	Have you done any deals yet?	have you done any deals yet?	340914	1471944747764	1471944747828		79
+696	7083	Have you done any deals yet?	have you done any deals yet?	340915	1471944748052	1471944748132		85
+696	7083	Have you done any deals yet?	have you done any deals yet?	340916	1471944748340	1471944748396		32
+696	7083	Have you done any deals yet?	have you done any deals yet?	340917	1471944749052	1471944749164		68
+696	7083	Have you done any deals yet?	have you done any deals yet?	340983	1471944749228	1471944749300		79
+696	7083	Have you done any deals yet?	have you done any deals yet?	340986	1471944749532	1471944749596		78
+696	7083	Have you done any deals yet?	have you done any deals yet?	340988	1471944749644	1471944749764		69
+696	7083	Have you done any deals yet?	have you done any deals yet?	340989	1471944749828	1471944749900		32
+696	7083	Have you done any deals yet?	have you done any deals yet?	340990	1471944750316	1471944750428		65
+696	7083	Have you done any deals yet?	have you done any deals yet?	341035	1471944750540	1471944750604		78
+696	7083	Have you done any deals yet?	have you done any deals yet?	341036	1471944750780	1471944750852		89
+696	7083	Have you done any deals yet?	have you done any deals yet?	341037	1471944751076	1471944751124		32
+696	7083	Have you done any deals yet?	have you done any deals yet?	341039	1471944751924	1471944751996		68
+696	7083	Have you done any deals yet?	have you done any deals yet?	341041	1471944752068	1471944752148		69
+696	7083	Have you done any deals yet?	have you done any deals yet?	341115	1471944752340	1471944752452		65
+696	7083	Have you done any deals yet?	have you done any deals yet?	341117	1471944752572	1471944752652		76
+696	7083	Have you done any deals yet?	have you done any deals yet?	341119	1471944753396	1471944753500		83
+696	7083	Have you done any deals yet?	have you done any deals yet?	341121	1471944753708	1471944753780		32
+696	7083	Have you done any deals yet?	have you done any deals yet?	341124	1471944754596	1471944754652		85
+696	7083	Have you done any deals yet?	have you done any deals yet?	341207	1471944755244	1471944755316		8
+696	7083	Have you done any deals yet?	have you done any deals yet?	341208	1471944755580	1471944755660		89
+696	7083	Have you done any deals yet?	have you done any deals yet?	341209	1471944755708	1471944755836		69
+696	7083	Have you done any deals yet?	have you done any deals yet?	341210	1471944755852	1471944755940		84
+696	7083	Have you done any deals yet?	have you done any deals yet?	341212	1471944756500	1471944757180	SHIFT	16
+696	7083	Have you done any deals yet?	have you done any deals yet?	341215	1471944757108	1471944757183		191
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341306	1471944760092	1471944760492	SHIFT	16
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341308	1471944760412	1471944760493		84
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341311	1471944760612	1471944760700		72
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341314	1471944760764	1471944760868		69
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341317	1471944760916	1471944761004		32
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341322	1471944761156	1471944761244		65
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341357	1471944761620	1471944761708		68
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341358	1471944761900	1471944761972		77
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341359	1471944762180	1471944762244		73
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341360	1471944762500	1471944762564		78
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341362	1471944762756	1471944762828		73
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341433	1471944764916	1471944765012		83
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341434	1471944765132	1471944765220		84
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341435	1471944765316	1471944765404		82
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341436	1471944765444	1471944765588		65
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341438	1471944766252	1471944766340		84
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341467	1471944766756	1471944766828		73
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341468	1471944766924	1471944766996		79
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341469	1471944767196	1471944767268		78
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341470	1471944767660	1471944767724		32
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341471	1471944768100	1471944768164		72
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341488	1471944768220	1471944768300		65
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341489	1471944768468	1471944768548		68
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341490	1471944768572	1471944768628		32
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341491	1471944768900	1471944768956		78
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341492	1471944769228	1471944769300		79
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341551	1471944769548	1471944769604		32
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341552	1471944770364	1471944770436		73
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341553	1471944770588	1471944770660		77
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341555	1471944771868	1471944771940		77
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341558	1471944772036	1471944772124		69
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341629	1471944772748	1471944772828		68
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341630	1471944772988	1471944773060		73
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341631	1471944773876	1471944773996		65
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341632	1471944773997	1471944774092		84
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341633	1471944774924	1471944775012		69
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341675	1471944775076	1471944775156		32
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341676	1471944775724	1471944775804		67
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341677	1471944775964	1471944776044		79
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341678	1471944776252	1471944776340		77
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341679	1471944777044	1471944777124		77
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341710	1471944777244	1471944777340		69
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341713	1471944777540	1471944777604		78
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341717	1471944778029	1471944778148		84
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341720	1471944778204	1471944778292		32
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341721	1471944778980	1471944779060		79
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341750	1471944779244	1471944779292		78
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341753	1471944779396	1471944779468		32
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341756	1471944779636	1471944779716		84
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341761	1471944779828	1471944779916		72
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341764	1471944779980	1471944780100		69
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341783	1471944780156	1471944780244		32
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341784	1471944781052	1471944781124		86
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341785	1471944781244	1471944781316		79
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341787	1471944781596	1471944781684		84
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341789	1471944781716	1471944781860		69
+696	7093	The administration had no immediate comment on the vote.	The administration had no immediate comment on the vote.	341819	1471944782308	1471944782388		190
+696	7104	I would be glad to participate.	I would be glad to partivipate.	341897	1471944786241	1471944786316		73
+696	7104	I would be glad to participate.	I would be glad to partivipate.	341899	1471944786524	1471944786604		32
+696	7104	I would be glad to participate.	I would be glad to partivipate.	341901	1471944787348	1471944787412		8
+696	7104	I would be glad to participate.	I would be glad to partivipate.	341904	1471944787524	1471944787604		8
+696	7104	I would be glad to participate.	I would be glad to partivipate.	341939	1471944787796	1471944788236	SHIFT	16
+696	7104	I would be glad to participate.	I would be glad to partivipate.	341908	1471944788100	1471944788188		73
+696	7104	I would be glad to participate.	I would be glad to partivipate.	341940	1471944788420	1471944788492		32
+696	7104	I would be glad to participate.	I would be glad to partivipate.	341941	1471944788884	1471944788980		87
+696	7104	I would be glad to participate.	I would be glad to partivipate.	341942	1471944789316	1471944789396		79
+696	7104	I would be glad to participate.	I would be glad to partivipate.	341943	1471944789588	1471944789676		85
+696	7104	I would be glad to participate.	I would be glad to partivipate.	341944	1471944789852	1471944789924		76
+696	7104	I would be glad to participate.	I would be glad to partivipate.	341964	1471944790004	1471944790116		68
+696	7104	I would be glad to participate.	I would be glad to partivipate.	341966	1471944790212	1471944790300		32
+696	7104	I would be glad to participate.	I would be glad to partivipate.	341967	1471944790780	1471944790868		66
+696	7104	I would be glad to participate.	I would be glad to partivipate.	341968	1471944790932	1471944791020		69
+696	7104	I would be glad to participate.	I would be glad to partivipate.	341969	1471944791060	1471944791140		32
+696	7104	I would be glad to participate.	I would be glad to partivipate.	341986	1471944791364	1471944791436		71
+696	7104	I would be glad to participate.	I would be glad to partivipate.	341987	1471944791772	1471944791836		76
+696	7104	I would be glad to participate.	I would be glad to partivipate.	341988	1471944791924	1471944792004		65
+696	7104	I would be glad to participate.	I would be glad to partivipate.	341989	1471944792268	1471944792372		68
+696	7104	I would be glad to participate.	I would be glad to partivipate.	341990	1471944792373	1471944792468		32
+696	7104	I would be glad to participate.	I would be glad to partivipate.	342023	1471944793276	1471944793356		84
+696	7104	I would be glad to participate.	I would be glad to partivipate.	342025	1471944793460	1471944793540		79
+696	7104	I would be glad to participate.	I would be glad to partivipate.	342026	1471944793724	1471944793788		32
+696	7104	I would be glad to participate.	I would be glad to partivipate.	342027	1471944794436	1471944794508		80
+696	7104	I would be glad to participate.	I would be glad to partivipate.	342028	1471944794580	1471944794692		65
+696	7104	I would be glad to participate.	I would be glad to partivipate.	342093	1471944795036	1471944795116		82
+696	7104	I would be glad to participate.	I would be glad to partivipate.	342095	1471944795228	1471944795308		84
+696	7104	I would be glad to participate.	I would be glad to partivipate.	342096	1471944795756	1471944795836		73
+696	7104	I would be glad to participate.	I would be glad to partivipate.	342097	1471944797316	1471944797396		86
+696	7104	I would be glad to participate.	I would be glad to partivipate.	342098	1471944797812	1471944797892		73
+696	7104	I would be glad to participate.	I would be glad to partivipate.	342133	1471944798204	1471944798276		80
+696	7104	I would be glad to participate.	I would be glad to partivipate.	342134	1471944798349	1471944798436		65
+696	7104	I would be glad to participate.	I would be glad to partivipate.	342135	1471944798564	1471944798660		84
+696	7104	I would be glad to participate.	I would be glad to partivipate.	342136	1471944798676	1471944798796		69
+696	7104	I would be glad to participate.	I would be glad to partivipate.	342138	1471944799244	1471944799324		190

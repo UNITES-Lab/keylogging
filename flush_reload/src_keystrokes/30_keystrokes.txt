@@ -1,0 +1,842 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+30	144	I know several who work there.	I know Several Who Work there.	6235	1471935176626	1471935176768	CAPS_LOCK	20
+30	144	I know several who work there.	I know Several Who Work there.	6237	1471935177583	1471935177741	CAPS_LOCK	20
+30	144	I know several who work there.	I know Several Who Work there.	6240	1471935178054	1471935178179	CAPS_LOCK	20
+30	144	I know several who work there.	I know Several Who Work there.	6243	1471935179417	1471935179506	I	73
+30	144	I know several who work there.	I know Several Who Work there.	6246	1471935179958	1471935180023	 	32
+30	144	I know several who work there.	I know Several Who Work there.	6249	1471935180774	1471935180901	K	75
+30	144	I know several who work there.	I know Several Who Work there.	6251	1471935181481	1471935181555	BKSP	8
+30	144	I know several who work there.	I know Several Who Work there.	6253	1471935181820	1471935181992	CAPS_LOCK	20
+30	144	I know several who work there.	I know Several Who Work there.	6254	1471935182088	1471935182233	k	75
+30	144	I know several who work there.	I know Several Who Work there.	6255	1471935183238	1471935183337	n	78
+30	144	I know several who work there.	I know Several Who Work there.	6325	1471935183478	1471935183555	o	79
+30	144	I know several who work there.	I know Several Who Work there.	6328	1471935183851	1471935183937	w	87
+30	144	I know several who work there.	I know Several Who Work there.	6330	1471935184093	1471935184202	 	32
+30	144	I know several who work there.	I know Several Who Work there.	6332	1471935184970	1471935185097	CAPS_LOCK	20
+30	144	I know several who work there.	I know Several Who Work there.	6334	1471935185567	1471935185671	S	83
+30	144	I know several who work there.	I know Several Who Work there.	6335	1471935185780	1471935185920	CAPS_LOCK	20
+30	144	I know several who work there.	I know Several Who Work there.	6337	1471935186752	1471935186806	e	69
+30	144	I know several who work there.	I know Several Who Work there.	6396	1471935187450	1471935187553	v	86
+30	144	I know several who work there.	I know Several Who Work there.	6398	1471935187725	1471935187835	e	69
+30	144	I know several who work there.	I know Several Who Work there.	6401	1471935187976	1471935188085	r	82
+30	144	I know several who work there.	I know Several Who Work there.	6403	1471935189261	1471935189416	a	65
+30	144	I know several who work there.	I know Several Who Work there.	6406	1471935189775	1471935189854	l	76
+30	144	I know several who work there.	I know Several Who Work there.	6556	1471935190028	1471935190135	 	32
+30	144	I know several who work there.	I know Several Who Work there.	6557	1471935191640	1471935191798	CAPS_LOCK	20
+30	144	I know several who work there.	I know Several Who Work there.	6558	1471935191985	1471935192070	W	87
+30	144	I know several who work there.	I know Several Who Work there.	6560	1471935193717	1471935193837	H	72
+30	144	I know several who work there.	I know Several Who Work there.	6562	1471935193930	1471935194051	O	79
+30	144	I know several who work there.	I know Several Who Work there.	6565	1471935194789	1471935194855	BKSP	8
+30	144	I know several who work there.	I know Several Who Work there.	6568	1471935194995	1471935195086	BKSP	8
+30	144	I know several who work there.	I know Several Who Work there.	6571	1471935195476	1471935195636	CAPS_LOCK	20
+30	144	I know several who work there.	I know Several Who Work there.	6573	1471935196450	1471935196568	h	72
+30	144	I know several who work there.	I know Several Who Work there.	6650	1471935196694	1471935196802	o	79
+30	144	I know several who work there.	I know Several Who Work there.	6652	1471935197021	1471935197150	 	32
+30	144	I know several who work there.	I know Several Who Work there.	6656	1471935197901	1471935198035	CAPS_LOCK	20
+30	144	I know several who work there.	I know Several Who Work there.	6661	1471935198217	1471935198320	W	87
+30	144	I know several who work there.	I know Several Who Work there.	6665	1471935198445	1471935198585	CAPS_LOCK	20
+30	144	I know several who work there.	I know Several Who Work there.	6668	1471935199134	1471935199236	o	79
+30	144	I know several who work there.	I know Several Who Work there.	6672	1471935199532	1471935199636	r	82
+30	144	I know several who work there.	I know Several Who Work there.	6758	1471935200074	1471935200185	k	75
+30	144	I know several who work there.	I know Several Who Work there.	6760	1471935200310	1471935200477	 	32
+30	144	I know several who work there.	I know Several Who Work there.	6764	1471935201058	1471935201198	CAPS_LOCK	20
+30	144	I know several who work there.	I know Several Who Work there.	6769	1471935201450	1471935201559	CAPS_LOCK	20
+30	144	I know several who work there.	I know Several Who Work there.	6773	1471935202419	1471935202498	t	84
+30	144	I know several who work there.	I know Several Who Work there.	6775	1471935202654	1471935202747	h	72
+30	144	I know several who work there.	I know Several Who Work there.	6776	1471935202949	1471935203046	e	69
+30	144	I know several who work there.	I know Several Who Work there.	6886	1471935204818	1471935204891	r	82
+30	144	I know several who work there.	I know Several Who Work there.	6891	1471935205015	1471935205128	e	69
+30	144	I know several who work there.	I know Several Who Work there.	6895	1471935206258	1471935206331	.	190
+30	163	I'm glad you are involved!	I'm glad you are involved;	7354	1471935216688	1471935216816	CAPS_LOCK	20
+30	163	I'm glad you are involved!	I'm glad you are involved;	7355	1471935219339	1471935219398	I	73
+30	163	I'm glad you are involved!	I'm glad you are involved;	7356	1471935220887	1471935220995	'	222
+30	163	I'm glad you are involved!	I'm glad you are involved;	7357	1471935223315	1471935223455	CAPS_LOCK	20
+30	163	I'm glad you are involved!	I'm glad you are involved;	7358	1471935224631	1471935224806	m	77
+30	163	I'm glad you are involved!	I'm glad you are involved;	7360	1471935224806	1471935224927	 	32
+30	163	I'm glad you are involved!	I'm glad you are involved;	7362	1471935226762	1471935226862	g	71
+30	163	I'm glad you are involved!	I'm glad you are involved;	7469	1471935227724	1471935227828	l	76
+30	163	I'm glad you are involved!	I'm glad you are involved;	7472	1471935227984	1471935228111	a	65
+30	163	I'm glad you are involved!	I'm glad you are involved;	7475	1471935228267	1471935228409	d	68
+30	163	I'm glad you are involved!	I'm glad you are involved;	7477	1471935229269	1471935229365	 	32
+30	163	I'm glad you are involved!	I'm glad you are involved;	7479	1471935230571	1471935230647	u	85
+30	163	I'm glad you are involved!	I'm glad you are involved;	7604	1471935230758	1471935230956	o	79
+30	163	I'm glad you are involved!	I'm glad you are involved;	7607	1471935231049	1471935231161	y	89
+30	163	I'm glad you are involved!	I'm glad you are involved;	7609	1471935231395	1471935231466	 	32
+30	163	I'm glad you are involved!	I'm glad you are involved;	7613	1471935231746	1471935231817	BKSP	8
+30	163	I'm glad you are involved!	I'm glad you are involved;	7615	1471935231953	1471935232002	BKSP	8
+30	163	I'm glad you are involved!	I'm glad you are involved;	7618	1471935232127	1471935232223	BKSP	8
+30	163	I'm glad you are involved!	I'm glad you are involved;	7622	1471935232394	1471935232496	BKSP	8
+30	163	I'm glad you are involved!	I'm glad you are involved;	7625	1471935233906	1471935233981	y	89
+30	163	I'm glad you are involved!	I'm glad you are involved;	7628	1471935234199	1471935234342	o	79
+30	163	I'm glad you are involved!	I'm glad you are involved;	7671	1471935234468	1471935234579	u	85
+30	163	I'm glad you are involved!	I'm glad you are involved;	7672	1471935234813	1471935234945	 	32
+30	163	I'm glad you are involved!	I'm glad you are involved;	7673	1471935236716	1471935236844	a	65
+30	163	I'm glad you are involved!	I'm glad you are involved;	7675	1471935237031	1471935237098	r	82
+30	163	I'm glad you are involved!	I'm glad you are involved;	7678	1471935237222	1471935237344	e	69
+30	163	I'm glad you are involved!	I'm glad you are involved;	7764	1471935237470	1471935237609	 	32
+30	163	I'm glad you are involved!	I'm glad you are involved;	7766	1471935238377	1471935238463	i	73
+30	163	I'm glad you are involved!	I'm glad you are involved;	7768	1471935238635	1471935238761	n	78
+30	163	I'm glad you are involved!	I'm glad you are involved;	7770	1471935240001	1471935240096	v	86
+30	163	I'm glad you are involved!	I'm glad you are involved;	7771	1471935240252	1471935240377	o	79
+30	163	I'm glad you are involved!	I'm glad you are involved;	8126	1471935241570	1471935241710	l	76
+30	163	I'm glad you are involved!	I'm glad you are involved;	8129	1471935242730	1471935242830	v	86
+30	163	I'm glad you are involved!	I'm glad you are involved;	8132	1471935243738	1471935243837	e	69
+30	163	I'm glad you are involved!	I'm glad you are involved;	8135	1471935243993	1471935244126	d	68
+30	163	I'm glad you are involved!	I'm glad you are involved;	8138	1471935251152	1471935251230	;	186
+30	211	Did we get ours back?	Did we get ours back?	9837	1471935287075	1471935287215	CAPS_LOCK	20
+30	211	Did we get ours back?	Did we get ours back?	9842	1471935288550	1471935288675	CAPS_LOCK	20
+30	211	Did we get ours back?	Did we get ours back?	9846	1471935289194	1471935289367	CAPS_LOCK	20
+30	211	Did we get ours back?	Did we get ours back?	9849	1471935289947	1471935290061	D	68
+30	211	Did we get ours back?	Did we get ours back?	9852	1471935290124	1471935290217	CAPS_LOCK	20
+30	211	Did we get ours back?	Did we get ours back?	9855	1471935290735	1471935290845	i	73
+30	211	Did we get ours back?	Did we get ours back?	9858	1471935291079	1471935291209	d	68
+30	211	Did we get ours back?	Did we get ours back?	9861	1471935291303	1471935291430	 	32
+30	211	Did we get ours back?	Did we get ours back?	9864	1471935292651	1471935292761	w	87
+30	211	Did we get ours back?	Did we get ours back?	9951	1471935292919	1471935292981	e	69
+30	211	Did we get ours back?	Did we get ours back?	9955	1471935293153	1471935293261	 	32
+30	211	Did we get ours back?	Did we get ours back?	9958	1471935294547	1471935294661	g	71
+30	211	Did we get ours back?	Did we get ours back?	9961	1471935294895	1471935295010	e	69
+30	211	Did we get ours back?	Did we get ours back?	9964	1471935295213	1471935295326	t	84
+30	211	Did we get ours back?	Did we get ours back?	10119	1471935295453	1471935295576	 	32
+30	211	Did we get ours back?	Did we get ours back?	10121	1471935296893	1471935296979	o	79
+30	211	Did we get ours back?	Did we get ours back?	10123	1471935297338	1471935297402	u	85
+30	211	Did we get ours back?	Did we get ours back?	10126	1471935299879	1471935299993	r	82
+30	211	Did we get ours back?	Did we get ours back?	10130	1471935300118	1471935300276	e	69
+30	211	Did we get ours back?	Did we get ours back?	10402	1471935300402	1471935300542	 	32
+30	211	Did we get ours back?	Did we get ours back?	10404	1471935301388	1471935301448	BKSP	8
+30	211	Did we get ours back?	Did we get ours back?	10406	1471935301573	1471935301630	BKSP	8
+30	211	Did we get ours back?	Did we get ours back?	10408	1471935301771	1471935301846	BKSP	8
+30	211	Did we get ours back?	Did we get ours back?	10410	1471935302033	1471935302113	BKSP	8
+30	211	Did we get ours back?	Did we get ours back?	10412	1471935302300	1471935302364	BKSP	8
+30	211	Did we get ours back?	Did we get ours back?	10415	1471935303412	1471935303527	o	79
+30	211	Did we get ours back?	Did we get ours back?	10418	1471935304169	1471935304278	BKSP	8
+30	211	Did we get ours back?	Did we get ours back?	10421	1471935304652	1471935304795	CAPS_LOCK	20
+30	211	Did we get ours back?	Did we get ours back?	10425	1471935305122	1471935305243	O	79
+30	211	Did we get ours back?	Did we get ours back?	10428	1471935305446	1471935305680	CAPS_LOCK	20
+30	211	Did we get ours back?	Did we get ours back?	10433	1471935305947	1471935305982	BKSP	8
+30	211	Did we get ours back?	Did we get ours back?	10437	1471935306936	1471935307013	o	79
+30	211	Did we get ours back?	Did we get ours back?	10441	1471935307531	1471935307613	u	85
+30	211	Did we get ours back?	Did we get ours back?	10596	1471935307832	1471935307959	r	82
+30	211	Did we get ours back?	Did we get ours back?	10599	1471935308995	1471935309094	s	83
+30	211	Did we get ours back?	Did we get ours back?	10602	1471935309172	1471935309247	 	32
+30	211	Did we get ours back?	Did we get ours back?	10604	1471935310926	1471935311012	b	66
+30	211	Did we get ours back?	Did we get ours back?	10607	1471935311261	1471935311330	a	65
+30	211	Did we get ours back?	Did we get ours back?	10941	1471935311800	1471935311895	c	67
+30	211	Did we get ours back?	Did we get ours back?	10943	1471935312051	1471935312193	k	75
+30	211	Did we get ours back?	Did we get ours back?	10947	1471935312318	1471935312412	 	32
+30	211	Did we get ours back?	Did we get ours back?	10951	1471935313320	1471935313369	BKSP	8
+30	211	Did we get ours back?	Did we get ours back?	10954	1471935314397	1471935314681	SHIFT	16
+30	211	Did we get ours back?	Did we get ours back?	10958	1471935315637	1471935315859	SHIFT	16
+30	211	Did we get ours back?	Did we get ours back?	10963	1471935315824	1471935315942	?	191
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	11769	1471935327854	1471935328005	CAPS_LOCK	20
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	11770	1471935334618	1471935334696	H	72
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	11773	1471935335164	1471935335277	CAPS_LOCK	20
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	11776	1471935335542	1471935335675	e	69
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	11780	1471935335706	1471935335841	 	32
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	11784	1471935336453	1471935336545	i	73
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	11786	1471935340393	1471935340509	s	83
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	11958	1471935340558	1471935340692	 	32
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	11964	1471935341727	1471935341811	e	69
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	11969	1471935342909	1471935343042	x	88
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	11975	1471935343996	1471935344079	p	80
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	11977	1471935345005	1471935345110	e	69
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	12148	1471935345236	1471935345328	r	82
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	12152	1471935346566	1471935346661	c	67
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	12157	1471935347476	1471935347546	t	84
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	12162	1471935347780	1471935347846	e	69
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	12167	1471935348142	1471935348227	d	68
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	12595	1471935348665	1471935348777	 	32
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	12597	1471935350563	1471935350597	BKSP	8
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	12599	1471935350722	1471935350796	BKSP	8
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	12601	1471935350889	1471935351375	BKSP	8
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	12605	1471935351911	1471935351979	BKSP	8
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	12608	1471935352576	1471935352646	BKSP	8
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	12611	1471935353084	1471935353148	BKSP	8
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	12615	1471935354307	1471935354426	c	67
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	12618	1471935355302	1471935355379	t	84
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	12621	1471935356430	1471935356496	e	69
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	12624	1471935356730	1471935356859	d	68
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	12716	1471935356954	1471935357091	 	32
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	12721	1471935357984	1471935358109	t	84
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	12725	1471935358203	1471935358310	o	79
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	12729	1471935358497	1471935358642	 	32
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	12733	1471935359393	1471935359493	p	80
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	13072	1471935360936	1471935361044	a	65
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	13074	1471935361293	1471935361393	r	82
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	13075	1471935362631	1471935362727	t	84
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	13076	1471935368230	1471935368327	i	73
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	13077	1471935368686	1471935368824	c	67
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	13197	1471935369814	1471935369895	i	73
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	13198	1471935370742	1471935370828	p	80
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	13199	1471935371642	1471935371759	a	65
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	13200	1471935372246	1471935372345	t	84
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	13201	1471935373114	1471935373211	e	69
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	13293	1471935373306	1471935373394	 	32
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	13296	1471935374032	1471935374128	i	73
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	13304	1471935374268	1471935374346	n	78
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	13309	1471935374517	1471935374644	 	32
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	13315	1471935375332	1471935375427	p	80
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	13656	1471935376541	1471935376643	r	82
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	13658	1471935378022	1471935378142	a	65
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	13660	1471935380526	1471935380689	c	67
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	13662	1471935382429	1471935382511	t	84
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	13664	1471935383200	1471935383294	i	73
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	16305	1471935384839	1471935384943	c	67
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	16309	1471935385411	1471935385525	e	69
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	16312	1471935385996	1471935386108	.	190
+30	243	He is expected to participate in practice.	He is expected to participate in practice.	16317	1471935409600	1471935410022	CTRL	17
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	16800	1471935456171	1471935456264	CAPS_LOCK	20
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	16801	1471935456751	1471935456874	R	82
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	16802	1471935457330	1471935457440	CAPS_LOCK	20
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	16803	1471935458112	1471935458224	e	69
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	16804	1471935459338	1471935459457	f	70
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	16805	1471935460960	1471935461060	e	69
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	16806	1471935461419	1471935461494	r	82
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	16944	1471935461612	1471935461678	r	82
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	16946	1471935462602	1471935462693	i	73
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	16950	1471935463099	1471935463239	m	77
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	16955	1471935463995	1471935464076	BKSP	8
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	16962	1471935464403	1471935464478	n	78
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	16968	1471935465780	1471935465861	g	71
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17071	1471935466205	1471935466293	 	32
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17073	1471935467170	1471935467275	t	84
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17076	1471935467416	1471935467525	p	80
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17080	1471935467744	1471935467874	 	32
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17083	1471935468345	1471935468427	BKSP	8
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17086	1471935468567	1471935468675	BKSP	8
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17090	1471935469193	1471935469294	o	79
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17165	1471935469451	1471935469574	 	32
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17166	1471935470122	1471935470223	h	72
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17168	1471935470379	1471935470507	i	73
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17170	1471935470727	1471935470856	d	68
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17172	1471935471154	1471935471241	BKSP	8
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17176	1471935471807	1471935471907	s	83
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17239	1471935472003	1471935472123	 	32
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17241	1471935472984	1471935473091	m	77
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17244	1471935473231	1471935473310	e	69
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17247	1471935473622	1471935473740	e	69
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17250	1471935474383	1471935474474	r	82
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17298	1471935474913	1471935475040	BKSP	8
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17301	1471935475180	1471935475245	t	84
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17304	1471935475824	1471935475908	i	73
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17307	1471935476033	1471935476141	n	78
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17311	1471935476312	1471935476439	g	71
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17316	1471935476548	1471935476675	 	32
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17569	1471935477506	1471935477592	i	73
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17572	1471935477734	1471935477810	n	78
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17574	1471935477983	1471935478032	 	32
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17578	1471935483126	1471935483236	CAPS_LOCK	20
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17583	1471935483470	1471935483574	W	87
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17587	1471935483777	1471935483902	CAPS_LOCK	20
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17589	1471935484512	1471935484623	a	65
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17835	1471935484797	1471935484891	s	83
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17838	1471935485291	1471935485422	 	32
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17842	1471935486034	1471935486156	BKSP	8
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17845	1471935487629	1471935487724	h	72
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17846	1471935487880	1471935488038	 	32
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17847	1471935488524	1471935488593	BKSP	8
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17849	1471935490128	1471935490225	i	73
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17968	1471935490383	1471935490509	n	78
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17970	1471935491997	1471935492123	g	71
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17974	1471935493174	1471935493305	t	84
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17978	1471935493492	1471935493591	o	79
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	17983	1471935493810	1471935493876	n	78
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18133	1471935494456	1471935494557	 	32
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18135	1471935495795	1471935495922	w	87
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18136	1471935497052	1471935497142	i	73
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18137	1471935497516	1471935497627	t	84
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18139	1471935497705	1471935497791	h	72
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18321	1471935498105	1471935498238	 	32
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18326	1471935498993	1471935499149	CAPS_LOCK	20
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18329	1471935499746	1471935499873	U	85
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18331	1471935500217	1471935500375	CAPS_LOCK	20
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18333	1471935500640	1471935500789	s	83
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18337	1471935502434	1471935502478	 	32
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18339	1471935502946	1471935502995	p	80
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18670	1471935504139	1471935504210	r	82
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18673	1471935504366	1471935504489	e	69
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18676	1471935507374	1471935507489	s	83
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18680	1471935508116	1471935508224	i	73
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18683	1471935509228	1471935509308	d	68
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18873	1471935509496	1471935509639	e	69
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18876	1471935514092	1471935514190	e	69
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18879	1471935514237	1471935514387	n	78
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18882	1471935514465	1471935514576	t	84
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	18885	1471935514779	1471935514874	 	32
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19160	1471935515328	1471935515393	BKSP	8
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19162	1471935515518	1471935515577	BKSP	8
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19165	1471935515686	1471935515758	BKSP	8
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19169	1471935516040	1471935516110	BKSP	8
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19172	1471935516877	1471935516972	n	78
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19175	1471935517300	1471935517391	t	84
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19177	1471935517563	1471935517673	 	32
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19179	1471935518552	1471935518710	CAPS_LOCK	20
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19181	1471935519367	1471935519489	B	66
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19185	1471935519598	1471935519723	CAPS_LOCK	20
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19188	1471935520243	1471935520325	i	73
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19385	1471935520471	1471935520573	l	76
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19386	1471935521420	1471935521492	BKSP	8
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19387	1471935523553	1471935523641	l	76
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19389	1471935523906	1471935524006	l	76
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19391	1471935524256	1471935524356	 	32
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19394	1471935525203	1471935525343	CAPS_LOCK	20
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19398	1471935526223	1471935526308	C	67
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19585	1471935526480	1471935526636	CAPS_LOCK	20
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19587	1471935527642	1471935527770	l	76
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19590	1471935528462	1471935528542	i	73
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19593	1471935528745	1471935528856	n	78
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19596	1471935530329	1471935530471	t	84
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	19600	1471935530658	1471935530742	o	79
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	20412	1471935530964	1471935531059	n	78
+30	349	Referring to his meeting in Washington with US President Bill Clinton.	Referring to his meeting in Washington with Us president Bill Clinton.	20414	1471935532187	1471935532274	.	190
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	20926	1471935558782	1471935558922	CAPS_LOCK	20
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	20927	1471935559532	1471935559623	T	84
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	20928	1471935559701	1471935559857	CAPS_LOCK	20
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	20930	1471935559889	1471935560020	h	72
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	20933	1471935560977	1471935561104	a	65
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	20936	1471935561228	1471935561339	n	78
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	20943	1471935563519	1471935563639	k	75
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21036	1471935564422	1471935564538	s	83
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21039	1471935564647	1471935564756	 	32
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21043	1471935565524	1471935565640	f	70
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21046	1471935565796	1471935565892	o	79
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21048	1471935566219	1471935566307	r	82
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21283	1471935566401	1471935566521	 	32
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21285	1471935571044	1471935571139	BKSP	8
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21286	1471935571529	1471935571592	k	75
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21288	1471935572029	1471935572086	e	69
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21290	1471935572195	1471935572291	e	69
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21403	1471935573184	1471935573288	p	80
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21405	1471935573491	1471935573573	i	73
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21406	1471935573745	1471935573856	n	78
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21407	1471935574137	1471935574270	g	71
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21408	1471935574411	1471935574538	 	32
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21491	1471935576593	1471935576843	CAPS_LOCK	20
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21493	1471935577016	1471935577122	Y	89
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21497	1471935577263	1471935577403	CAPS_LOCK	20
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21500	1471935577999	1471935578106	o	79
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21503	1471935578496	1471935578590	u	85
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21506	1471935578824	1471935578953	r	82
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21510	1471935579094	1471935579189	 	32
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21676	1471935579989	1471935580091	e	69
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21679	1471935580936	1471935581023	y	89
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21682	1471935582527	1471935582654	e	69
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21687	1471935582922	1471935583085	s	83
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21689	1471935583475	1471935583558	 	32
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21779	1471935584074	1471935584204	o	79
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21782	1471935584753	1471935584840	u	85
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21783	1471935585121	1471935585237	t	84
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21785	1471935585380	1471935585507	 	32
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21786	1471935586460	1471935586572	t	84
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21840	1471935586667	1471935586788	h	72
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21845	1471935587401	1471935587537	e	69
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21853	1471935587724	1471935587823	r	82
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21858	1471935587932	1471935588054	e	69
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21861	1471935588210	1471935588354	 	32
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21961	1471935588980	1471935589076	o	79
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21963	1471935589263	1471935589359	n	78
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21967	1471935589499	1471935589621	 	32
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21971	1471935590641	1471935590725	u	85
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21973	1471935591524	1471935591591	BKSP	8
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	21978	1471935591840	1471935591923	o	79
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	22034	1471935592127	1471935592191	u	85
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	22038	1471935592503	1471935592605	r	82
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	22042	1471935592823	1471935592923	 	32
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	22044	1471935593676	1471935593772	s	83
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	22046	1471935594178	1471935594304	t	84
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	22629	1471935595326	1471935595423	u	85
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	22632	1471935596678	1471935596773	f	70
+30	428	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping Your eyes out there on our stuff	22635	1471935596931	1471935596976	f	70
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25130	1471935692501	1471935692642	CAPS_LOCK	20
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25132	1471935692989	1471935693103	W	87
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25133	1471935693243	1471935693352	CAPS_LOCK	20
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25136	1471935694169	1471935694286	e	69
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25137	1471935696747	1471935696837	i	73
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25140	1471935696962	1471935697069	n	78
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25141	1471935697666	1471935697770	k	75
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25374	1471935697895	1471935698051	 	32
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25376	1471935698646	1471935698738	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25380	1471935698894	1471935698988	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25382	1471935700101	1471935700203	k	75
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25385	1471935700624	1471935700736	e	69
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25386	1471935700829	1471935700953	 	32
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25387	1471935702441	1471935702537	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25388	1471935702833	1471935703000	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25389	1471935705069	1471935705248	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25391	1471935706723	1471935706851	k	75
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25689	1471935707023	1471935707150	e	69
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25691	1471935707259	1471935707385	 	32
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25693	1471935708420	1471935708520	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25695	1471935708644	1471935709459	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25697	1471935709915	1471935710102	CAPS_LOCK	20
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25699	1471935710507	1471935710618	W	87
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25701	1471935710743	1471935710852	CAPS_LOCK	20
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25704	1471935711655	1471935711769	e	69
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26379	1471935712789	1471935735769	i	73
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25706	1471935716382	1471935716455	n	78
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25928	1471935716737	1471935716837	k	75
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25929	1471935718294	1471935718421	e	69
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25930	1471935718985	1471935719103	 	32
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25931	1471935724874	1471935725018	c	67
+30	517	Weinke could have a big game.	weinker    could have a big game. 	25932	1471935725205	1471935725335	o	79
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26109	1471935728596	1471935728672	u	85
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26110	1471935729911	1471935730020	l	76
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26111	1471935730316	1471935730482	d	68
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26112	1471935730763	1471935730885	 	32
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26113	1471935731529	1471935731621	h	72
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26191	1471935731935	1471935732099	a	65
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26193	1471935733166	1471935733238	v	86
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26195	1471935733410	1471935733537	e	69
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26197	1471935733630	1471935733769	 	32
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26199	1471935734709	1471935734851	a	65
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26371	1471935734978	1471935735072	 	32
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26375	1471935735369	1471935735470	b	66
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26383	1471935736272	1471935736417	g	71
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26387	1471935736526	1471935736652	 	32
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26390	1471935737233	1471935737306	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26393	1471935737446	1471935737554	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26395	1471935738321	1471935738407	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26396	1471935740004	1471935740072	b	66
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26536	1471935740480	1471935740572	i	73
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26539	1471935741009	1471935741151	g	71
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26541	1471935741229	1471935741352	 	32
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26544	1471935741773	1471935741840	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26547	1471935742058	1471935742129	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26550	1471935744808	1471935744921	g	71
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26553	1471935745061	1471935745170	 	32
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26693	1471935746483	1471935746602	g	71
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26694	1471935746836	1471935746968	a	65
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26695	1471935748097	1471935748208	m	77
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26696	1471935749052	1471935749137	e	69
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26697	1471935749340	1471935749406	 	32
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26937	1471935750129	1471935750189	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26941	1471935751791	1471935751858	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26944	1471935751968	1471935752023	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26951	1471935752148	1471935752222	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26954	1471935752347	1471935752407	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26960	1471935752578	1471935752640	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26963	1471935752796	1471935752871	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26968	1471935753074	1471935753154	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26972	1471935754094	1471935754187	i	73
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26976	1471935754753	1471935754869	g	71
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26978	1471935755103	1471935755189	 	32
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26980	1471935756551	1471935756653	g	71
+30	517	Weinke could have a big game.	weinker    could have a big game. 	26983	1471935758002	1471935758230	a	65
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27228	1471935758279	1471935758418	m	77
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27230	1471935759655	1471935759754	e	69
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27233	1471935760662	1471935760759	.	190
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27236	1471935760915	1471935761052	 	32
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27239	1471935764168	1471935764207	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27241	1471935764756	1471935764838	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27243	1471935764963	1471935765038	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27244	1471935765179	1471935765243	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27245	1471935765352	1471935765453	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27247	1471935765562	1471935765654	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27249	1471935766624	1471935766751	w	87
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27370	1471935766940	1471935767022	e	69
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27371	1471935767852	1471935767969	 	32
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27372	1471935768844	1471935768922	i	73
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27373	1471935769892	1471935769987	n	78
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27374	1471935770361	1471935770453	k	75
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27630	1471935770674	1471935770739	 	32
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27631	1471935772683	1471935772770	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27633	1471935773398	1471935773518	e	69
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27635	1471935773549	1471935773669	 	32
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27638	1471935775955	1471935776002	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27644	1471935776461	1471935776522	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27650	1471935777854	1471935777953	e	69
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27655	1471935779521	1471935779588	 	32
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27974	1471935788737	1471935788821	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27976	1471935788931	1471935789004	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27978	1471935789129	1471935789203	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27979	1471935789328	1471935789408	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27981	1471935789533	1471935789634	BKSP	8
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27985	1471935790387	1471935790516	e	69
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27989	1471935791754	1471935791821	i	73
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27993	1471935791961	1471935792052	n	78
+30	517	Weinke could have a big game.	weinker    could have a big game. 	27998	1471935792427	1471935792550	k	75
+30	517	Weinke could have a big game.	weinker    could have a big game. 	28005	1471935792690	1471935792801	e	69
+30	517	Weinke could have a big game.	weinker    could have a big game. 	28051	1471935792943	1471935793023	r	82
+30	517	Weinke could have a big game.	weinker    could have a big game. 	28053	1471935793179	1471935793255	 	32
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28307	1471935801551	1471935801707	CAPS_LOCK	20
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28310	1471935802178	1471935802300	B	66
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28312	1471935802346	1471935802471	CAPS_LOCK	20
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28317	1471935803695	1471935803786	r	82
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28323	1471935805154	1471935805284	a	65
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28328	1471935805455	1471935805584	d	68
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28332	1471935806020	1471935806103	y	89
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28413	1471935806495	1471935806554	 	32
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28414	1471935807354	1471935807436	o	79
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28416	1471935807592	1471935807654	n	78
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28418	1471935808077	1471935808184	l	76
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28422	1471935809170	1471935809236	y	89
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28526	1471935809457	1471935809521	 	32
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28531	1471935810382	1471935810468	h	72
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28534	1471935810593	1471935810736	a	65
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28537	1471935811110	1471935811249	 	32
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28542	1471935811689	1471935811770	BKSP	8
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28545	1471935812191	1471935812270	s	83
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28612	1471935812334	1471935812435	 	32
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28613	1471935814009	1471935814117	f	70
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28614	1471935814398	1471935814438	i	73
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28615	1471935814988	1471935815101	v	86
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28617	1471935815257	1471935815383	e	69
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28737	1471935815494	1471935815617	 	32
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28739	1471935817089	1471935817185	c	67
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28741	1471935817466	1471935817614	a	65
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28743	1471935818102	1471935818217	t	84
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28745	1471935819331	1471935819419	c	67
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28852	1471935819483	1471935819584	h	72
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28854	1471935820638	1471935820719	e	69
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28856	1471935821127	1471935821203	s	83
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28858	1471935822065	1471935822167	 	32
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28860	1471935824489	1471935824570	t	84
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28962	1471935825824	1471935825951	h	72
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28964	1471935826937	1471935827018	i	73
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28967	1471935827662	1471935827752	s	83
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28971	1471935827956	1471935828052	 	32
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	28975	1471935829446	1471935829550	s	83
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	29094	1471935830288	1471935830432	e	69
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	29098	1471935830698	1471935830754	a	65
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	29100	1471935832211	1471935832365	s	83
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	29103	1471935834090	1471935834216	o	79
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	29106	1471935834528	1471935834619	n	78
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	29651	1471935835795	1471935835869	,	188
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	29652	1471935836528	1471935836618	BKSP	8
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	29653	1471935836962	1471935837036	.	190
+30	583	Brady only has five catches this season.	Brady only has five catches this season. 	29654	1471935837522	1471935837587	 	32
+30	615	I'll take them one at a time.	I'll take them one at a time.	29968	1471935859183	1471935859324	CAPS_LOCK	20
+30	615	I'll take them one at a time.	I'll take them one at a time.	29969	1471935859918	1471935860049	I	73
+30	615	I'll take them one at a time.	I'll take them one at a time.	29970	1471935860408	1471935860568	CAPS_LOCK	20
+30	615	I'll take them one at a time.	I'll take them one at a time.	29972	1471935861475	1471935861537	;	186
+30	615	I'll take them one at a time.	I'll take them one at a time.	29974	1471935861802	1471935861900	 	32
+30	615	I'll take them one at a time.	I'll take them one at a time.	29980	1471935862435	1471935862502	BKSP	8
+30	615	I'll take them one at a time.	I'll take them one at a time.	29984	1471935863099	1471935863201	BKSP	8
+30	615	I'll take them one at a time.	I'll take them one at a time.	29989	1471935864110	1471935864206	'	222
+30	615	I'll take them one at a time.	I'll take them one at a time.	29992	1471935865395	1471935865453	l	76
+30	615	I'll take them one at a time.	I'll take them one at a time.	30137	1471935865610	1471935865686	l	76
+30	615	I'll take them one at a time.	I'll take them one at a time.	30143	1471935866768	1471935866885	 	32
+30	615	I'll take them one at a time.	I'll take them one at a time.	30148	1471935867983	1471935868068	t	84
+30	615	I'll take them one at a time.	I'll take them one at a time.	30152	1471935869007	1471935869163	a	65
+30	615	I'll take them one at a time.	I'll take them one at a time.	30155	1471935869713	1471935869848	k	75
+30	615	I'll take them one at a time.	I'll take them one at a time.	30244	1471935869991	1471935870133	e	69
+30	615	I'll take them one at a time.	I'll take them one at a time.	30245	1471935870273	1471935870399	 	32
+30	615	I'll take them one at a time.	I'll take them one at a time.	30246	1471935871622	1471935871734	t	84
+30	615	I'll take them one at a time.	I'll take them one at a time.	30247	1471935871843	1471935871935	h	72
+30	615	I'll take them one at a time.	I'll take them one at a time.	30248	1471935872545	1471935872650	e	69
+30	615	I'll take them one at a time.	I'll take them one at a time.	30309	1471935872776	1471935872961	m	77
+30	615	I'll take them one at a time.	I'll take them one at a time.	30311	1471935872961	1471935873082	 	32
+30	615	I'll take them one at a time.	I'll take them one at a time.	30313	1471935874134	1471935874218	o	79
+30	615	I'll take them one at a time.	I'll take them one at a time.	30315	1471935874498	1471935874662	n	78
+30	615	I'll take them one at a time.	I'll take them one at a time.	30317	1471935874756	1471935874898	e	69
+30	615	I'll take them one at a time.	I'll take them one at a time.	30397	1471935874993	1471935875147	 	32
+30	615	I'll take them one at a time.	I'll take them one at a time.	30399	1471935875758	1471935875882	a	65
+30	615	I'll take them one at a time.	I'll take them one at a time.	30401	1471935876054	1471935876211	r	82
+30	615	I'll take them one at a time.	I'll take them one at a time.	30403	1471935876825	1471935876936	BKSP	8
+30	615	I'll take them one at a time.	I'll take them one at a time.	30407	1471935877077	1471935877214	t	84
+30	615	I'll take them one at a time.	I'll take them one at a time.	30409	1471935877433	1471935877549	 	32
+30	615	I'll take them one at a time.	I'll take them one at a time.	30488	1471935878317	1471935878479	a	65
+30	615	I'll take them one at a time.	I'll take them one at a time.	30490	1471935878760	1471935878867	 	32
+30	615	I'll take them one at a time.	I'll take them one at a time.	30493	1471935880027	1471935880149	t	84
+30	615	I'll take them one at a time.	I'll take them one at a time.	30497	1471935880274	1471935880384	i	73
+30	615	I'll take them one at a time.	I'll take them one at a time.	30500	1471935880555	1471935880667	m	77
+30	615	I'll take them one at a time.	I'll take them one at a time.	30640	1471935880714	1471935880848	e	69
+30	615	I'll take them one at a time.	I'll take them one at a time.	30642	1471935882336	1471935882528	.	190
+30	633	I think that is the right answer.	I think that is the right answer. 	30948	1471935892362	1471935892551	CAPS_LOCK	20
+30	633	I think that is the right answer.	I think that is the right answer. 	30949	1471935892879	1471935892983	I	73
+30	633	I think that is the right answer.	I think that is the right answer. 	30950	1471935893046	1471935893186	CAPS_LOCK	20
+30	633	I think that is the right answer.	I think that is the right answer. 	30951	1471935893326	1471935893495	 	32
+30	633	I think that is the right answer.	I think that is the right answer. 	30952	1471935894626	1471935894749	t	84
+30	633	I think that is the right answer.	I think that is the right answer. 	30953	1471935894889	1471935894985	h	72
+30	633	I think that is the right answer.	I think that is the right answer. 	30955	1471935896051	1471935896152	i	73
+30	633	I think that is the right answer.	I think that is the right answer. 	31183	1471935896294	1471935896384	n	78
+30	633	I think that is the right answer.	I think that is the right answer. 	31184	1471935898770	1471935898867	k	75
+30	633	I think that is the right answer.	I think that is the right answer. 	31188	1471935899024	1471935899165	 	32
+30	633	I think that is the right answer.	I think that is the right answer. 	31193	1471935900512	1471935900617	t	84
+30	633	I think that is the right answer.	I think that is the right answer. 	31198	1471935900773	1471935900883	h	72
+30	633	I think that is the right answer.	I think that is the right answer. 	31294	1471935901229	1471935901318	a	65
+30	633	I think that is the right answer.	I think that is the right answer. 	31296	1471935902416	1471935902547	t	84
+30	633	I think that is the right answer.	I think that is the right answer. 	31301	1471935902719	1471935902832	 	32
+30	633	I think that is the right answer.	I think that is the right answer. 	31303	1471935903398	1471935903515	i	73
+30	633	I think that is the right answer.	I think that is the right answer. 	31305	1471935903874	1471935904030	s	83
+30	633	I think that is the right answer.	I think that is the right answer. 	31375	1471935904156	1471935904282	 	32
+30	633	I think that is the right answer.	I think that is the right answer. 	31380	1471935905334	1471935905402	t	84
+30	633	I think that is the right answer.	I think that is the right answer. 	31383	1471935905573	1471935905667	h	72
+30	633	I think that is the right answer.	I think that is the right answer. 	31386	1471935905745	1471935905903	e	69
+30	633	I think that is the right answer.	I think that is the right answer. 	31390	1471935905967	1471935906068	 	32
+30	633	I think that is the right answer.	I think that is the right answer. 	31634	1471935907103	1471935907215	r	82
+30	633	I think that is the right answer.	I think that is the right answer. 	31637	1471935908375	1471935908487	i	73
+30	633	I think that is the right answer.	I think that is the right answer. 	31640	1471935909941	1471935910066	g	71
+30	633	I think that is the right answer.	I think that is the right answer. 	31642	1471935910159	1471935910267	h	72
+30	633	I think that is the right answer.	I think that is the right answer. 	31644	1471935914054	1471935914181	t	84
+30	633	I think that is the right answer.	I think that is the right answer. 	31884	1471935914308	1471935914435	 	32
+30	633	I think that is the right answer.	I think that is the right answer. 	31886	1471935915279	1471935915398	a	65
+30	633	I think that is the right answer.	I think that is the right answer. 	31889	1471935915742	1471935915818	n	78
+30	633	I think that is the right answer.	I think that is the right answer. 	31891	1471935916836	1471935916980	s	83
+30	633	I think that is the right answer.	I think that is the right answer. 	31893	1471935920635	1471935920780	w	87
+30	633	I think that is the right answer.	I think that is the right answer. 	31981	1471935920923	1471935921050	e	69
+30	633	I think that is the right answer.	I think that is the right answer. 	31984	1471935921471	1471935921567	r	82
+30	633	I think that is the right answer.	I think that is the right answer. 	31987	1471935922412	1471935922484	.	190
+30	633	I think that is the right answer.	I think that is the right answer. 	31991	1471935922718	1471935922786	 	32
+30	665	A letter is being sent today.	A letter is being sent today.	32306	1471935930552	1471935930755	CAPS_LOCK	20
+30	665	A letter is being sent today.	A letter is being sent today.	32307	1471935930819	1471935930995	A	65
+30	665	A letter is being sent today.	A letter is being sent today.	32308	1471935931026	1471935931135	CAPS_LOCK	20
+30	665	A letter is being sent today.	A letter is being sent today.	32310	1471935932029	1471935932164	l	76
+30	665	A letter is being sent today.	A letter is being sent today.	32312	1471935933136	1471935933249	e	69
+30	665	A letter is being sent today.	A letter is being sent today.	32314	1471935934018	1471935934116	t	84
+30	665	A letter is being sent today.	A letter is being sent today.	32316	1471935934618	1471935934747	t	84
+30	665	A letter is being sent today.	A letter is being sent today.	32445	1471935936236	1471935936350	\	220
+30	665	A letter is being sent today.	A letter is being sent today.	32446	1471935936537	1471935936649	\	220
+30	665	A letter is being sent today.	A letter is being sent today.	32448	1471935937480	1471935937552	BKSP	8
+30	665	A letter is being sent today.	A letter is being sent today.	32450	1471935937661	1471935937710	BKSP	8
+30	665	A letter is being sent today.	A letter is being sent today.	32453	1471935937866	1471935937919	BKSP	8
+30	665	A letter is being sent today.	A letter is being sent today.	32458	1471935938044	1471935938134	BKSP	8
+30	665	A letter is being sent today.	A letter is being sent today.	32461	1471935938258	1471935938350	BKSP	8
+30	665	A letter is being sent today.	A letter is being sent today.	32465	1471935938538	1471935938665	BKSP	8
+30	665	A letter is being sent today.	A letter is being sent today.	32467	1471935939086	1471935939200	 	32
+30	665	A letter is being sent today.	A letter is being sent today.	32470	1471935939779	1471935939916	l	76
+30	665	A letter is being sent today.	A letter is being sent today.	32472	1471935940041	1471935940181	e	69
+30	665	A letter is being sent today.	A letter is being sent today.	32511	1471935940777	1471935940882	t	84
+30	665	A letter is being sent today.	A letter is being sent today.	32513	1471935941086	1471935941168	t	84
+30	665	A letter is being sent today.	A letter is being sent today.	32515	1471935941511	1471935941616	e	69
+30	665	A letter is being sent today.	A letter is being sent today.	32516	1471935941742	1471935941865	r	82
+30	665	A letter is being sent today.	A letter is being sent today.	32517	1471935942099	1471935942261	 	32
+30	665	A letter is being sent today.	A letter is being sent today.	32623	1471935942779	1471935942898	i	73
+30	665	A letter is being sent today.	A letter is being sent today.	32625	1471935943837	1471935943996	s	83
+30	665	A letter is being sent today.	A letter is being sent today.	32628	1471935944090	1471935944230	 	32
+30	665	A letter is being sent today.	A letter is being sent today.	32630	1471935945154	1471935945265	b	66
+30	665	A letter is being sent today.	A letter is being sent today.	32632	1471935945437	1471935945580	e	69
+30	665	A letter is being sent today.	A letter is being sent today.	32726	1471935945894	1471935945983	i	73
+30	665	A letter is being sent today.	A letter is being sent today.	32728	1471935946186	1471935946330	n	78
+30	665	A letter is being sent today.	A letter is being sent today.	32730	1471935946479	1471935946629	g	71
+30	665	A letter is being sent today.	A letter is being sent today.	32733	1471935946800	1471935946868	 	32
+30	665	A letter is being sent today.	A letter is being sent today.	32734	1471935947244	1471935947349	BKSP	8
+30	665	A letter is being sent today.	A letter is being sent today.	32737	1471935947786	1471935947868	BKSP	8
+30	665	A letter is being sent today.	A letter is being sent today.	32740	1471935949545	1471935949634	b	66
+30	665	A letter is being sent today.	A letter is being sent today.	32791	1471935949775	1471935949914	e	69
+30	665	A letter is being sent today.	A letter is being sent today.	32793	1471935950759	1471935950870	i	73
+30	665	A letter is being sent today.	A letter is being sent today.	32795	1471935951011	1471935951147	n	78
+30	665	A letter is being sent today.	A letter is being sent today.	32797	1471935951427	1471935951548	g	71
+30	665	A letter is being sent today.	A letter is being sent today.	32799	1471935951704	1471935951846	 	32
+30	665	A letter is being sent today.	A letter is being sent today.	32885	1471935953556	1471935953759	s	83
+30	665	A letter is being sent today.	A letter is being sent today.	32888	1471935954279	1471935954414	e	69
+30	665	A letter is being sent today.	A letter is being sent today.	32893	1471935955294	1471935955476	n	78
+30	665	A letter is being sent today.	A letter is being sent today.	32897	1471935955648	1471935955763	t	84
+30	665	A letter is being sent today.	A letter is being sent today.	32899	1471935956314	1471935956400	 	32
+30	665	A letter is being sent today.	A letter is being sent today.	32961	1471935957529	1471935957648	t	84
+30	665	A letter is being sent today.	A letter is being sent today.	32965	1471935957820	1471935957946	o	79
+30	665	A letter is being sent today.	A letter is being sent today.	32968	1471935959328	1471935959432	d	68
+30	665	A letter is being sent today.	A letter is being sent today.	32970	1471935959541	1471935959680	a	65
+30	665	A letter is being sent today.	A letter is being sent today.	32974	1471935959961	1471935960065	y	89
+30	665	A letter is being sent today.	A letter is being sent today.	35223	1471935961133	1471935961279	.	190
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35260	1471936096669	1471936096812	CAPS_LOCK	20
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35261	1471936097186	1471936097327	W	87
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35262	1471936097798	1471936097954	CAPS_LOCK	20
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35263	1471936099130	1471936099244	e	69
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35264	1471936099400	1471936099513	 	32
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35265	1471936100910	1471936101013	c	67
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35266	1471936101169	1471936101296	a	65
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35293	1471936101518	1471936101770	n	78
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35295	1471936101754	1471936102116	 	32
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35297	1471936103212	1471936103328	w	87
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35299	1471936104236	1471936104345	o	79
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35301	1471936104751	1471936104893	r	82
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35330	1471936105161	1471936105309	k	75
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35331	1471936105652	1471936105763	 	32
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35332	1471936106436	1471936106547	a	65
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35333	1471936107535	1471936107662	r	82
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35334	1471936109573	1471936109679	o	79
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35402	1471936111089	1471936111164	n	78
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35404	1471936112497	1471936112581	BKSP	8
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35406	1471936112925	1471936112998	u	85
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35408	1471936113185	1471936113312	n	78
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35410	1471936115194	1471936115313	d	68
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35411	1471936115593	1471936115726	 	32
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35453	1471936116401	1471936116528	r	82
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35455	1471936116621	1471936116729	h	72
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35457	1471936117496	1471936117579	e	69
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35459	1471936119336	1471936119461	s	83
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35460	1471936119601	1471936119728	e	69
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35510	1471936119902	1471936120029	 	32
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35511	1471936121423	1471936121498	BKSP	8
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35512	1471936121685	1471936121749	BKSP	8
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35513	1471936121874	1471936121947	BKSP	8
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35514	1471936122072	1471936122133	BKSP	8
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35515	1471936122258	1471936122331	BKSP	8
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35516	1471936122489	1471936122600	BKSP	8
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35517	1471936123731	1471936123828	t	84
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35518	1471936124047	1471936124179	h	72
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35519	1471936124584	1471936124711	e	69
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35520	1471936125292	1471936125395	d	68
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35551	1471936125507	1471936125659	e	69
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35552	1471936126302	1471936126397	 	32
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35553	1471936127540	1471936127598	BKSP	8
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35555	1471936127764	1471936127855	BKSP	8
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35557	1471936128200	1471936128280	BKSP	8
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35559	1471936128514	1471936128643	s	83
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35561	1471936128768	1471936128928	e	69
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35563	1471936129084	1471936129196	 	32
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35591	1471936130097	1471936130182	p	80
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35592	1471936130550	1471936130661	l	76
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35593	1471936131367	1471936131463	a	65
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35594	1471936131681	1471936131811	n	78
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35595	1471936132750	1471936132830	s	83
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35607	1471936132894	1471936133042	 	32
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35608	1471936133607	1471936133712	i	73
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35609	1471936134072	1471936134194	f	70
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35610	1471936134303	1471936134427	 	32
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35612	1471936135432	1471936135513	y	89
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35629	1471936135670	1471936135812	o	79
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35630	1471936135921	1471936135982	u	85
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35631	1471936136232	1471936136362	 	32
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35632	1471936137256	1471936137346	p	80
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35633	1471936138223	1471936138329	r	82
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35712	1471936138455	1471936138577	e	69
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35714	1471936139361	1471936139477	f	70
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35717	1471936139586	1471936139698	e	69
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35720	1471936139807	1471936139911	r	82
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35723	1471936141107	1471936141212	.	190
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35881	1471936142954	1471936143047	BKSP	8
+30	722	We can work around these plans if you prefer.	We can work around these plans if you prefer.	35882	1471936145309	1471936145381	.	190
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36030	1471936161639	1471936161744	i	73
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36031	1471936162119	1471936162230	 	32
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36032	1471936162620	1471936162791	a	65
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36033	1471936163939	1471936164044	m	77
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36034	1471936164154	1471936164292	 	32
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36065	1471936165031	1471936165130	o	79
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36066	1471936165442	1471936165530	u	85
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36067	1471936165982	1471936166095	t	84
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36068	1471936166375	1471936166509	 	32
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36069	1471936166997	1471936167111	o	79
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36133	1471936167270	1471936167409	f	70
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36134	1471936167472	1471936167594	 	32
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36135	1471936169977	1471936170125	t	84
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36136	1471936170281	1471936170332	o	79
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36137	1471936171963	1471936172062	o	79
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36205	1471936172582	1471936172632	m	77
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36206	1471936172991	1471936173063	BKSP	8
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36207	1471936173204	1471936173280	BKSP	8
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36208	1471936175834	1471936175898	w	87
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36209	1471936176524	1471936176659	BKSP	8
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36210	1471936178604	1471936178762	w	87
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36211	1471936178966	1471936179124	n	78
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36212	1471936179186	1471936179328	 	32
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36253	1471936180301	1471936180412	i	73
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36254	1471936180552	1471936180663	n	78
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36255	1471936181053	1471936181177	e	69
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36256	1471936181582	1471936181664	BKSP	8
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36257	1471936181820	1471936181897	BKSP	8
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36258	1471936182053	1471936182146	BKSP	8
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36259	1471936182647	1471936182761	i	73
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36260	1471936183451	1471936183576	n	78
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36313	1471936183796	1471936183941	e	69
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36315	1471936184206	1471936184280	BKSP	8
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36318	1471936184389	1471936184469	BKSP	8
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36321	1471936184563	1471936184661	BKSP	8
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36323	1471936185274	1471936185363	o	79
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36325	1471936185612	1471936185804	n	78
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36326	1471936186416	1471936186527	 	32
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36327	1471936187140	1471936187229	b	66
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36394	1471936187496	1471936187596	u	85
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36395	1471936188838	1471936188975	s	83
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36396	1471936189948	1471936190076	i	73
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36398	1471936190906	1471936191011	n	78
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36400	1471936191370	1471936191524	e	69
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36436	1471936192968	1471936193093	s	83
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36437	1471936193282	1471936193394	s	83
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36438	1471936193503	1471936193642	 	32
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36439	1471936194378	1471936194509	t	84
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36441	1471936194775	1471936194911	o	79
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36510	1471936195648	1471936195745	n	78
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36512	1471936195932	1471936196043	i	73
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36514	1471936197173	1471936197309	g	71
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36516	1471936197356	1471936197461	h	72
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36518	1471936198275	1471936198393	t	84
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36558	1471936199225	1471936199290	.	190
+30	740	I am out of town on business tonight.	i am out of town on business tonight. 	36559	1471936199570	1471936199646	 	32
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	36858	1471936213601	1471936213695	CAPS_LOCK	20
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	36860	1471936214119	1471936214290	H	72
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	36862	1471936214399	1471936214555	CAPS_LOCK	20
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	36864	1471936215136	1471936215262	e	69
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	36865	1471936215387	1471936215478	 	32
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	36866	1471936216654	1471936216776	c	67
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	36868	1471936217497	1471936217642	a	65
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	36932	1471936217954	1471936218029	n	78
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	36933	1471936218201	1471936218310	n	78
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	36934	1471936218860	1471936218962	o	79
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	36935	1471936220921	1471936221058	t	84
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	36937	1471936221198	1471936221294	 	32
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37087	1471936222250	1471936222407	b	66
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37090	1471936222485	1471936222612	e	69
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37093	1471936222721	1471936222828	 	32
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37095	1471936226535	1471936226581	BKSP	8
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37097	1471936227178	1471936227246	 	32
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37099	1471936227729	1471936227812	i	73
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37144	1471936227971	1471936228030	n	78
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37146	1471936228186	1471936228263	 	32
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37148	1471936228905	1471936229010	r	82
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37150	1471936229275	1471936229377	o	79
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37152	1471936229486	1471936229609	e	69
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37257	1471936230081	1471936230146	BKSP	8
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37258	1471936230317	1471936230382	BKSP	8
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37261	1471936230803	1471936230926	w	87
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37264	1471936231771	1471936231846	BKSP	8
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37267	1471936231986	1471936232094	BKSP	8
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37271	1471936233318	1471936233444	t	84
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37275	1471936233993	1471936234171	w	87
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37279	1471936235146	1471936235228	p	80
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37282	1471936235949	1471936236014	BKSP	8
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37284	1471936236263	1471936236345	o	79
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37372	1471936236581	1471936236694	 	32
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37373	1471936237760	1471936237894	p	80
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37374	1471936239053	1471936239164	l	76
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37375	1471936239915	1471936240026	a	65
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37376	1471936240559	1471936240676	c	67
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37461	1471936243154	1471936243234	e	69
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37463	1471936243421	1471936243542	s	83
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37465	1471936243841	1471936243959	 	32
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37467	1471936244868	1471936244977	a	65
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37469	1471936245258	1471936245392	t	84
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37601	1471936245628	1471936245759	 	32
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37603	1471936246369	1471936246480	o	79
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37604	1471936246667	1471936246777	n	78
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37606	1471936247027	1471936247190	e	69
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37607	1471936247848	1471936247914	BKSP	8
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37609	1471936248054	1471936248087	BKSP	8
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37610	1471936248196	1471936248279	BKSP	8
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37611	1471936250563	1471936250662	o	79
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37704	1471936250804	1471936250931	n	78
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37706	1471936252311	1471936252395	c	67
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37708	1471936252551	1471936252707	e	69
+30	757	He cannot be in two places at once.	He cannot be in two places at once.	37710	1471936253977	1471936254076	.	190
+30	918	I've never worked with her.	I've never worked wi.th her	45224	1471936481398	1471936481569	CAPS_LOCK	20
+30	918	I've never worked with her.	I've never worked wi.th her	45226	1471936482055	1471936482187	I	73
+30	918	I've never worked with her.	I've never worked wi.th her	45227	1471936482674	1471936482814	CAPS_LOCK	20
+30	918	I've never worked with her.	I've never worked wi.th her	45228	1471936483379	1471936483503	;	186
+30	918	I've never worked with her.	I've never worked wi.th her	45229	1471936484100	1471936484205	BKSP	8
+30	918	I've never worked with her.	I've never worked wi.th her	45230	1471936485209	1471936485306	'	222
+30	918	I've never worked with her.	I've never worked wi.th her	45231	1471936487941	1471936488054	v	86
+30	918	I've never worked with her.	I've never worked wi.th her	45232	1471936488335	1471936488469	e	69
+30	918	I've never worked with her.	I've never worked wi.th her	45363	1471936489507	1471936489589	 	32
+30	918	I've never worked with her.	I've never worked wi.th her	45365	1471936490843	1471936490970	n	78
+30	918	I've never worked with her.	I've never worked wi.th her	45367	1471936491142	1471936491285	e	69
+30	918	I've never worked with her.	I've never worked wi.th her	45369	1471936492414	1471936492510	v	86
+30	918	I've never worked with her.	I've never worked wi.th her	45371	1471936492697	1471936492854	e	69
+30	918	I've never worked with her.	I've never worked wi.th her	45476	1471936492981	1471936493134	r	82
+30	918	I've never worked with her.	I've never worked wi.th her	45477	1471936493400	1471936493558	 	32
+30	918	I've never worked with her.	I've never worked wi.th her	45478	1471936494372	1471936494503	w	87
+30	918	I've never worked with her.	I've never worked wi.th her	45479	1471936495680	1471936495773	o	79
+30	918	I've never worked with her.	I've never worked wi.th her	45480	1471936496209	1471936496336	r	82
+30	918	I've never worked with her.	I've never worked wi.th her	45569	1471936497590	1471936497720	k	75
+30	918	I've never worked with her.	I've never worked wi.th her	45571	1471936498206	1471936498320	e	69
+30	918	I've never worked with her.	I've never worked wi.th her	45573	1471936498476	1471936498619	d	68
+30	918	I've never worked with her.	I've never worked wi.th her	45575	1471936498728	1471936498885	 	32
+30	918	I've never worked with her.	I've never worked wi.th her	45577	1471936499527	1471936499669	w	87
+30	918	I've never worked with her.	I've never worked wi.th her	45672	1471936500582	1471936500672	i	73
+30	918	I've never worked with her.	I've never worked wi.th her	45674	1471936501440	1471936501555	t	84
+30	918	I've never worked with her.	I've never worked wi.th her	45677	1471936501633	1471936501769	h	72
+30	918	I've never worked with her.	I've never worked wi.th her	45679	1471936501956	1471936502103	 	32
+30	918	I've never worked with her.	I've never worked wi.th her	45681	1471936502760	1471936502902	h	72
+30	918	I've never worked with her.	I've never worked wi.th her	45752	1471936502997	1471936503124	e	69
+30	918	I've never worked with her.	I've never worked wi.th her	45753	1471936503280	1471936503419	r	82
+30	918	I've never worked with her.	I've never worked wi.th her	45755	1471936504518	1471936504684	.	190

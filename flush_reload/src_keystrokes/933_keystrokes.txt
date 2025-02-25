@@ -1,0 +1,552 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+933	9561	Don't know how that happened.	Don't know how that happened. 	458207	1471947644007	1471947644175	SHIFT	16
+933	9561	Don't know how that happened.	Don't know how that happened. 	458209	1471947644110	1471947644293	D	68
+933	9561	Don't know how that happened.	Don't know how that happened. 	458213	1471947644175	1471947644293	o	79
+933	9561	Don't know how that happened.	Don't know how that happened. 	458217	1471947644229	1471947644421	n	78
+933	9561	Don't know how that happened.	Don't know how that happened. 	458221	1471947644389	1471947644557	'	222
+933	9561	Don't know how that happened.	Don't know how that happened. 	458225	1471947644558	1471947644660	t	84
+933	9561	Don't know how that happened.	Don't know how that happened. 	458242	1471947644725	1471947644822	 	32
+933	9561	Don't know how that happened.	Don't know how that happened. 	458245	1471947644805	1471947644966	k	75
+933	9561	Don't know how that happened.	Don't know how that happened. 	458248	1471947644901	1471947645044	n	78
+933	9561	Don't know how that happened.	Don't know how that happened. 	458251	1471947645021	1471947645125	o	79
+933	9561	Don't know how that happened.	Don't know how that happened. 	458255	1471947645125	1471947645269	w	87
+933	9561	Don't know how that happened.	Don't know how that happened. 	458304	1471947645272	1471947645317	 	32
+933	9561	Don't know how that happened.	Don't know how that happened. 	458306	1471947645406	1471947645533	h	72
+933	9561	Don't know how that happened.	Don't know how that happened. 	458308	1471947645574	1471947645693	w	87
+933	9561	Don't know how that happened.	Don't know how that happened. 	458310	1471947645725	1471947645853	o	79
+933	9561	Don't know how that happened.	Don't know how that happened. 	458312	1471947646237	1471947646294	BKSP	8
+933	9561	Don't know how that happened.	Don't know how that happened. 	458314	1471947646638	1471947646700	BKSP	8
+933	9561	Don't know how that happened.	Don't know how that happened. 	458316	1471947646845	1471947646973	w	87
+933	9561	Don't know how that happened.	Don't know how that happened. 	458330	1471947646877	1471947647022	o	79
+933	9561	Don't know how that happened.	Don't know how that happened. 	458333	1471947647044	1471947647132	 	32
+933	9561	Don't know how that happened.	Don't know how that happened. 	458336	1471947647172	1471947647252	t	84
+933	9561	Don't know how that happened.	Don't know how that happened. 	458340	1471947647221	1471947647325	h	72
+933	9561	Don't know how that happened.	Don't know how that happened. 	458347	1471947647325	1471947647445	a	65
+933	9561	Don't know how that happened.	Don't know how that happened. 	458444	1471947647397	1471947647525	t	84
+933	9561	Don't know how that happened.	Don't know how that happened. 	458446	1471947647486	1471947647573	 	32
+933	9561	Don't know how that happened.	Don't know how that happened. 	458448	1471947647916	1471947648312	BKSP	8
+933	9561	Don't know how that happened.	Don't know how that happened. 	458450	1471947648493	1471947648558	BKSP	8
+933	9561	Don't know how that happened.	Don't know how that happened. 	458451	1471947648687	1471947648742	BKSP	8
+933	9561	Don't know how that happened.	Don't know how that happened. 	458452	1471947648845	1471947648894	BKSP	8
+933	9561	Don't know how that happened.	Don't know how that happened. 	458453	1471947648997	1471947649045	BKSP	8
+933	9561	Don't know how that happened.	Don't know how that happened. 	458455	1471947649157	1471947649230	BKSP	8
+933	9561	Don't know how that happened.	Don't know how that happened. 	458456	1471947649430	1471947649518	o	79
+933	9561	Don't know how that happened.	Don't know how that happened. 	458459	1471947649518	1471947649621	w	87
+933	9561	Don't know how that happened.	Don't know how that happened. 	458462	1471947649653	1471947649749	 	32
+933	9561	Don't know how that happened.	Don't know how that happened. 	458465	1471947649838	1471947649942	h	84
+933	9561	Don't know how that happened.	Don't know how that happened. 	458496	1471947650005	1471947650141	a	65
+933	9561	Don't know how that happened.	Don't know how that happened. 	458498	1471947650085	1471947650229	t	84
+933	9561	Don't know how that happened.	Don't know how that happened. 	458500	1471947650253	1471947650381	 	32
+933	9561	Don't know how that happened.	Don't know how that happened. 	458502	1471947650694	1471947650774	h	72
+933	9561	Don't know how that happened.	Don't know how that happened. 	458504	1471947650774	1471947650917	a	65
+933	9561	Don't know how that happened.	Don't know how that happened. 	458524	1471947650894	1471947650965	p	80
+933	9561	Don't know how that happened.	Don't know how that happened. 	458526	1471947651061	1471947651157	p	80
+933	9561	Don't know how that happened.	Don't know how that happened. 	458530	1471947651182	1471947651278	e	69
+933	9561	Don't know how that happened.	Don't know how that happened. 	458533	1471947651278	1471947651373	n	78
+933	9561	Don't know how that happened.	Don't know how that happened. 	458537	1471947651469	1471947651557	e	69
+933	9561	Don't know how that happened.	Don't know how that happened. 	458540	1471947651669	1471947651741	d	68
+933	9561	Don't know how that happened.	Don't know how that happened. 	458561	1471947651765	1471947651909	.	190
+933	9561	Don't know how that happened.	Don't know how that happened. 	458562	1471947651909	1471947652013	 	32
+933	9571	She has absolutely everything.	She has absolutely everything.	458764	1471947655109	1471947655181	s	83
+933	9571	She has absolutely everything.	She has absolutely everything.	458769	1471947655237	1471947655333	h	72
+933	9571	She has absolutely everything.	She has absolutely everything.	458776	1471947655333	1471947655389	e	69
+933	9571	She has absolutely everything.	She has absolutely everything.	458781	1471947655477	1471947655525	 	32
+933	9571	She has absolutely everything.	She has absolutely everything.	458785	1471947655989	1471947656045	BKSP	8
+933	9571	She has absolutely everything.	She has absolutely everything.	458787	1471947656149	1471947656204	BKSP	8
+933	9571	She has absolutely everything.	She has absolutely everything.	458789	1471947656301	1471947656375	BKSP	8
+933	9571	She has absolutely everything.	She has absolutely everything.	458791	1471947656471	1471947656501	BKSP	8
+933	9571	She has absolutely everything.	She has absolutely everything.	458793	1471947656501	1471947656693	SHIFT	16
+933	9571	She has absolutely everything.	She has absolutely everything.	458795	1471947656605	1471947656733	S	83
+933	9571	She has absolutely everything.	She has absolutely everything.	458797	1471947656733	1471947656804	h	72
+933	9571	She has absolutely everything.	She has absolutely everything.	458801	1471947656861	1471947656964	e	69
+933	9571	She has absolutely everything.	She has absolutely everything.	458804	1471947656996	1471947657076	 	32
+933	9571	She has absolutely everything.	She has absolutely everything.	458807	1471947657157	1471947657260	h	72
+933	9571	She has absolutely everything.	She has absolutely everything.	458850	1471947657197	1471947657365	a	65
+933	9571	She has absolutely everything.	She has absolutely everything.	458852	1471947657308	1471947657437	s	83
+933	9571	She has absolutely everything.	She has absolutely everything.	458854	1471947657413	1471947657525	 	32
+933	9571	She has absolutely everything.	She has absolutely everything.	458856	1471947657709	1471947657837	a	65
+933	9571	She has absolutely everything.	She has absolutely everything.	458858	1471947657876	1471947657989	b	66
+933	9571	She has absolutely everything.	She has absolutely everything.	458860	1471947658292	1471947658397	s	83
+933	9571	She has absolutely everything.	She has absolutely everything.	458961	1471947659076	1471947659149	o	79
+933	9571	She has absolutely everything.	She has absolutely everything.	458965	1471947659302	1471947659484	l	76
+933	9571	She has absolutely everything.	She has absolutely everything.	458968	1471947659445	1471947659589	u	85
+933	9571	She has absolutely everything.	She has absolutely everything.	458970	1471947659700	1471947659781	t	84
+933	9571	She has absolutely everything.	She has absolutely everything.	458972	1471947659915	1471947660108	e	69
+933	9571	She has absolutely everything.	She has absolutely everything.	459003	1471947660111	1471947660190	l	76
+933	9571	She has absolutely everything.	She has absolutely everything.	459004	1471947660293	1471947660375	y	89
+933	9571	She has absolutely everything.	She has absolutely everything.	459006	1471947660573	1471947660708	 	32
+933	9571	She has absolutely everything.	She has absolutely everything.	459008	1471947660725	1471947660804	e	69
+933	9571	She has absolutely everything.	She has absolutely everything.	459011	1471947660901	1471947660989	v	86
+933	9571	She has absolutely everything.	She has absolutely everything.	459033	1471947661053	1471947661203	e	69
+933	9571	She has absolutely everything.	She has absolutely everything.	459035	1471947661143	1471947661268	r	82
+933	9571	She has absolutely everything.	She has absolutely everything.	459038	1471947661175	1471947661283	y	89
+933	9571	She has absolutely everything.	She has absolutely everything.	459040	1471947661404	1471947661492	t	84
+933	9571	She has absolutely everything.	She has absolutely everything.	459042	1471947661508	1471947661599	h	72
+933	9571	She has absolutely everything.	She has absolutely everything.	459064	1471947661565	1471947661676	i	73
+933	9571	She has absolutely everything.	She has absolutely everything.	459066	1471947661756	1471947661838	n	78
+933	9571	She has absolutely everything.	She has absolutely everything.	459069	1471947661853	1471947661933	g	71
+933	9571	She has absolutely everything.	She has absolutely everything.	459072	1471947661980	1471947662108	.	190
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459202	1471947664384	1471947664637	SHIFT	16
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459204	1471947664604	1471947664675	U	85
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459206	1471947664773	1471947664884	s	83
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459207	1471947664924	1471947665021	 	32
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459209	1471947665023	1471947665108	v	86
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459211	1471947665171	1471947665299	e	69
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459310	1471947666163	1471947666268	s	83
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459312	1471947666539	1471947666635	s	83
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459313	1471947666891	1471947666971	e	69
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459315	1471947667099	1471947667188	l	76
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459319	1471947667220	1471947667316	s	83
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459349	1471947667388	1471947667483	 	32
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459350	1471947667507	1471947667627	w	87
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459354	1471947667628	1471947667683	i	73
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459358	1471947667780	1471947667844	l	76
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459362	1471947667956	1471947668107	l	76
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459411	1471947668051	1471947668162	 	32
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459413	1471947668242	1471947668323	f	70
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459417	1471947668363	1471947668451	o	79
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459419	1471947668451	1471947668539	r	82
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459421	1471947668627	1471947668811	m	77
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459424	1471947668813	1471947668915	 	32
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459458	1471947669083	1471947669179	t	84
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459460	1471947669308	1471947669444	w	87
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459462	1471947669450	1471947669595	o	79
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459466	1471947669563	1471947669691	 	32
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459469	1471947669820	1471947669907	s	83
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459511	1471947669988	1471947670108	e	69
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459514	1471947670195	1471947670323	p	80
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459516	1471947670403	1471947670578	a	65
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459520	1471947670667	1471947670754	r	82
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459522	1471947670851	1471947671021	a	65
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459562	1471947670988	1471947671122	t	84
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459565	1471947671179	1471947671276	e	69
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459568	1471947671428	1471947671523	 	32
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459571	1471947671579	1471947671651	t	84
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459574	1471947671755	1471947671842	r	82
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459578	1471947671930	1471947672084	a	65
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459597	1471947672051	1471947672122	i	73
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459599	1471947672243	1471947672315	n	78
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459601	1471947672347	1471947672492	i	73
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459604	1471947672459	1471947672571	n	78
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459607	1471947672572	1471947672651	g	71
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459610	1471947672682	1471947672779	 	32
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459670	1471947672884	1471947672979	u	85
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459671	1471947673034	1471947673115	s	83
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459672	1471947673506	1471947673595	BKSP	8
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459673	1471947673852	1471947673948	n	78
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459674	1471947673979	1471947674083	i	73
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459675	1471947674123	1471947674219	t	84
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459738	1471947674499	1471947674587	l	76
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459740	1471947674963	1471947675042	BKSP	8
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459742	1471947675042	1471947675182	s	83
+933	9577	US vessels will form two separate training units.	Us vessels will form two separate training units.	459744	1471947675243	1471947675387	.	190
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	459880	1471947678131	1471947678355	SHIFT	16
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	459882	1471947678276	1471947678467	O	79
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	459883	1471947678379	1471947678515	u	85
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	459884	1471947678586	1471947678691	r	82
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	459885	1471947678747	1471947678859	 	32
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	459886	1471947678995	1471947679172	p	80
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	459943	1471947679139	1471947679243	o	79
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	459947	1471947679387	1471947679586	l	76
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	459950	1471947679507	1471947679658	i	73
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	459956	1471947679706	1471947679834	t	84
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	459961	1471947679890	1471947680027	i	73
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	459966	1471947680074	1471947680162	c	67
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460022	1471947680291	1471947680410	a	65
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460024	1471947680443	1471947680531	i	73
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460026	1471947680899	1471947680979	n	78
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460030	1471947681227	1471947681282	BKSP	8
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460034	1471947681387	1471947681450	BKSP	8
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460038	1471947681538	1471947681635	BKSP	8
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460041	1471947681819	1471947681891	i	73
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460044	1471947681938	1471947682058	a	65
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460051	1471947682106	1471947682178	n	78
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460055	1471947682298	1471947682410	s	83
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460060	1471947682411	1471947682491	 	32
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460063	1471947682571	1471947682739	a	65
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460082	1471947682699	1471947682850	r	82
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460084	1471947682810	1471947682954	e	69
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460087	1471947682931	1471947683033	 	32
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460089	1471947683122	1471947683203	r	82
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460091	1471947683226	1471947683306	i	73
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460093	1471947683330	1471947683450	s	83
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460107	1471947683474	1471947683578	i	73
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460110	1471947683666	1471947683754	n	78
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460112	1471947683770	1471947683859	g	71
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460115	1471947683859	1471947683930	 	32
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460119	1471947684027	1471947684115	t	84
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460141	1471947684074	1471947684234	o	79
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460143	1471947684170	1471947684306	 	32
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460144	1471947684266	1471947684378	t	84
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460145	1471947684307	1471947684444	h	72
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460146	1471947684418	1471947684546	e	69
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460147	1471947684546	1471947684634	 	32
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460176	1471947684803	1471947684890	o	79
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460181	1471947685162	1471947685241	c	67
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460187	1471947685394	1471947685474	c	67
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460193	1471947685651	1471947685746	a	65
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460197	1471947685850	1471947686010	s	83
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460215	1471947686015	1471947686227	i	73
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460218	1471947686115	1471947686250	o	79
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460221	1471947686227	1471947686345	n	78
+933	9590	Our politicians are rising to the occasion.	Our politicians are rising to the occasion.	460224	1471947686465	1471947686577	.	190
+933	9603	I'll keep you posted.	I'll keep you posted.	460381	1471947688434	1471947688756	SHIFT	16
+933	9603	I'll keep you posted.	I'll keep you posted.	460387	1471947688658	1471947688757	I	73
+933	9603	I'll keep you posted.	I'll keep you posted.	460391	1471947688889	1471947689026	'	222
+933	9603	I'll keep you posted.	I'll keep you posted.	460392	1471947689249	1471947689354	l	76
+933	9603	I'll keep you posted.	I'll keep you posted.	460394	1471947689474	1471947689643	l	76
+933	9603	I'll keep you posted.	I'll keep you posted.	460422	1471947689610	1471947689738	 	32
+933	9603	I'll keep you posted.	I'll keep you posted.	460424	1471947689817	1471947689969	k	75
+933	9603	I'll keep you posted.	I'll keep you posted.	460427	1471947689994	1471947690074	e	69
+933	9603	I'll keep you posted.	I'll keep you posted.	460429	1471947690177	1471947690282	e	69
+933	9603	I'll keep you posted.	I'll keep you posted.	460430	1471947690250	1471947690442	p	80
+933	9603	I'll keep you posted.	I'll keep you posted.	460468	1471947690369	1471947690509	 	32
+933	9603	I'll keep you posted.	I'll keep you posted.	460469	1471947690571	1471947690633	y	89
+933	9603	I'll keep you posted.	I'll keep you posted.	460470	1471947690649	1471947690818	o	79
+933	9603	I'll keep you posted.	I'll keep you posted.	460471	1471947690777	1471947690930	u	85
+933	9603	I'll keep you posted.	I'll keep you posted.	460474	1471947690889	1471947691066	 	32
+933	9603	I'll keep you posted.	I'll keep you posted.	460478	1471947691081	1471947691299	p	80
+933	9603	I'll keep you posted.	I'll keep you posted.	460498	1471947691274	1471947691443	o	79
+933	9603	I'll keep you posted.	I'll keep you posted.	460501	1471947691443	1471947691562	s	83
+933	9603	I'll keep you posted.	I'll keep you posted.	460505	1471947691649	1471947691761	t	84
+933	9603	I'll keep you posted.	I'll keep you posted.	460510	1471947691762	1471947691849	e	69
+933	9603	I'll keep you posted.	I'll keep you posted.	460513	1471947691961	1471947692057	d	68
+933	9603	I'll keep you posted.	I'll keep you posted.	460517	1471947692081	1471947692153	.	190
+933	9608	Very foggy this morning.	Very foggy this morning.	460649	1471947693849	1471947694090	SHIFT	16
+933	9608	Very foggy this morning.	Very foggy this morning.	460652	1471947694041	1471947694137	V	86
+933	9608	Very foggy this morning.	Very foggy this morning.	460656	1471947694249	1471947694385	e	69
+933	9608	Very foggy this morning.	Very foggy this morning.	460659	1471947694321	1471947694473	r	82
+933	9608	Very foggy this morning.	Very foggy this morning.	460661	1471947694473	1471947694586	y	89
+933	9608	Very foggy this morning.	Very foggy this morning.	460705	1471947694554	1471947694672	 	32
+933	9608	Very foggy this morning.	Very foggy this morning.	460709	1471947694817	1471947694906	f	70
+933	9608	Very foggy this morning.	Very foggy this morning.	460712	1471947694978	1471947695065	o	79
+933	9608	Very foggy this morning.	Very foggy this morning.	460715	1471947695121	1471947695193	g	71
+933	9608	Very foggy this morning.	Very foggy this morning.	460720	1471947695289	1471947695376	g	71
+933	9608	Very foggy this morning.	Very foggy this morning.	460724	1471947695432	1471947695571	y	89
+933	9608	Very foggy this morning.	Very foggy this morning.	460738	1471947695536	1471947695689	 	32
+933	9608	Very foggy this morning.	Very foggy this morning.	460739	1471947695690	1471947695802	t	84
+933	9608	Very foggy this morning.	Very foggy this morning.	460740	1471947695778	1471947695890	h	72
+933	9608	Very foggy this morning.	Very foggy this morning.	460741	1471947695857	1471947695992	i	73
+933	9608	Very foggy this morning.	Very foggy this morning.	460742	1471947695952	1471947696074	s	83
+933	9608	Very foggy this morning.	Very foggy this morning.	460743	1471947696106	1471947696200	 	32
+933	9608	Very foggy this morning.	Very foggy this morning.	460768	1471947696353	1471947696465	m	77
+933	9608	Very foggy this morning.	Very foggy this morning.	460770	1471947696465	1471947696616	o	79
+933	9608	Very foggy this morning.	Very foggy this morning.	460771	1471947696617	1471947696704	r	82
+933	9608	Very foggy this morning.	Very foggy this morning.	460772	1471947696737	1471947696785	n	78
+933	9608	Very foggy this morning.	Very foggy this morning.	460773	1471947696785	1471947696939	i	73
+933	9608	Very foggy this morning.	Very foggy this morning.	460774	1471947696906	1471947697018	n	78
+933	9608	Very foggy this morning.	Very foggy this morning.	460775	1471947697018	1471947697080	g	71
+933	9608	Very foggy this morning.	Very foggy this morning.	460776	1471947697193	1471947697297	.	190
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	460901	1471947699482	1471947699753	SHIFT	16
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	460902	1471947699705	1471947699810	N	78
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	460904	1471947699834	1471947699913	e	69
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	460906	1471947700066	1471947700161	x	88
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	460909	1471947700297	1471947700377	t	84
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	460912	1471947700408	1471947700505	 	32
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	460928	1471947700565	1471947700650	t	84
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	460930	1471947700650	1471947700755	i	73
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	460932	1471947700721	1471947700833	m	77
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	460935	1471947700865	1471947700946	e	69
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	460938	1471947700985	1471947701073	 	32
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	460991	1471947701121	1471947701200	SHIFT	16
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	460993	1471947701354	1471947701513	a	65
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	460995	1471947701473	1471947701625	s	83
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	460996	1471947701706	1471947701865	k	75
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	460997	1471947701825	1471947701937	 	32
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	460998	1471947702065	1471947702354	SHIFT	16
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	461023	1471947702258	1471947702395	J	74
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	461024	1471947702593	1471947702674	i	73
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	461025	1471947702834	1471947702987	m	77
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	461026	1471947702962	1471947703074	 	32
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	461027	1471947703218	1471947703342	t	84
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	461053	1471947703306	1471947703450	o	79
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	461056	1471947703395	1471947703537	 	32
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	461060	1471947703538	1471947703610	c	67
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	461066	1471947703658	1471947703825	a	65
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	461063	1471947703738	1471947703802	l	76
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	461069	1471947703913	1471947704074	l	76
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	461097	1471947704106	1471947704250	 	32
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	461103	1471947704282	1471947704409	m	77
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	461107	1471947704425	1471947704515	e	69
+933	9613	Next time ask Jim to call me.	Next time ask Jim to call me.	461110	1471947704578	1471947704673	.	190
+933	9619	We need this verified.	We need this verified.	461199	1471947706825	1471947707137	SHIFT	16
+933	9619	We need this verified.	We need this verified.	461203	1471947707027	1471947707201	W	87
+933	9619	We need this verified.	We need this verified.	461206	1471947707201	1471947707385	e	69
+933	9619	We need this verified.	We need this verified.	461208	1471947707425	1471947707550	 	32
+933	9619	We need this verified.	We need this verified.	461210	1471947707570	1471947707690	n	78
+933	9619	We need this verified.	We need this verified.	461211	1471947707690	1471947707769	e	69
+933	9619	We need this verified.	We need this verified.	461223	1471947707881	1471947707969	e	69
+933	9619	We need this verified.	We need this verified.	461225	1471947708089	1471947708210	d	68
+933	9619	We need this verified.	We need this verified.	461227	1471947708266	1471947708337	 	32
+933	9619	We need this verified.	We need this verified.	461231	1471947708368	1471947708450	t	84
+933	9619	We need this verified.	We need this verified.	461279	1471947708425	1471947708555	h	72
+933	9619	We need this verified.	We need this verified.	461282	1471947708521	1471947708641	i	73
+933	9619	We need this verified.	We need this verified.	461285	1471947708602	1471947708714	s	83
+933	9619	We need this verified.	We need this verified.	461289	1471947708744	1471947708818	 	32
+933	9619	We need this verified.	We need this verified.	461293	1471947709121	1471947709200	v	86
+933	9619	We need this verified.	We need this verified.	461297	1471947709297	1471947709458	e	69
+933	9619	We need this verified.	We need this verified.	461329	1471947709401	1471947709489	r	82
+933	9619	We need this verified.	We need this verified.	461332	1471947709529	1471947709610	i	73
+933	9619	We need this verified.	We need this verified.	461335	1471947709745	1471947709841	f	70
+933	9619	We need this verified.	We need this verified.	461338	1471947709912	1471947710025	i	73
+933	9619	We need this verified.	We need this verified.	461340	1471947710080	1471947710160	e	69
+933	9619	We need this verified.	We need this verified.	461341	1471947710281	1471947710376	d	68
+933	9619	We need this verified.	We need this verified.	461345	1471947710433	1471947710513	.	190
+933	9623	How are things with you?	How are things with you?	461477	1471947712256	1471947712473	SHIFT	16
+933	9623	How are things with you?	How are things with you?	461481	1471947712408	1471947712530	H	72
+933	9623	How are things with you?	How are things with you?	461484	1471947712530	1471947712634	o	79
+933	9623	How are things with you?	How are things with you?	461487	1471947712721	1471947712979	a	65
+933	9623	How are things with you?	How are things with you?	461488	1471947712920	1471947712979	r	82
+933	9623	How are things with you?	How are things with you?	461489	1471947713313	1471947713369	BKSP	8
+933	9623	How are things with you?	How are things with you?	461490	1471947713464	1471947713560	BKSP	8
+933	9623	How are things with you?	How are things with you?	461491	1471947713585	1471947713664	w	87
+933	9623	How are things with you?	How are things with you?	461498	1471947713768	1471947713889	 	32
+933	9623	How are things with you?	How are things with you?	461499	1471947713890	1471947714048	a	65
+933	9623	How are things with you?	How are things with you?	461500	1471947713985	1471947714128	r	82
+933	9623	How are things with you?	How are things with you?	461501	1471947714072	1471947714201	e	69
+933	9623	How are things with you?	How are things with you?	461518	1471947714176	1471947714297	 	32
+933	9623	How are things with you?	How are things with you?	461522	1471947714385	1471947714489	t	84
+933	9623	How are things with you?	How are things with you?	461525	1471947714489	1471947714602	h	72
+933	9623	How are things with you?	How are things with you?	461529	1471947714602	1471947714689	i	73
+933	9623	How are things with you?	How are things with you?	461534	1471947714784	1471947714889	n	78
+933	9623	How are things with you?	How are things with you?	461580	1471947714865	1471947714960	g	71
+933	9623	How are things with you?	How are things with you?	461582	1471947715016	1471947715128	s	83
+933	9623	How are things with you?	How are things with you?	461583	1471947715176	1471947715272	 	32
+933	9623	How are things with you?	How are things with you?	461584	1471947715456	1471947715617	w	87
+933	9623	How are things with you?	How are things with you?	461586	1471947716033	1471947716080	o	79
+933	9623	How are things with you?	How are things with you?	461588	1471947716216	1471947716296	t	84
+933	9623	How are things with you?	How are things with you?	461631	1471947716642	1471947716714	BKSP	8
+933	9623	How are things with you?	How are things with you?	461633	1471947716808	1471947716872	BKSP	8
+933	9623	How are things with you?	How are things with you?	461635	1471947717025	1471947717119	i	73
+933	9623	How are things with you?	How are things with you?	461637	1471947717144	1471947717241	t	84
+933	9623	How are things with you?	How are things with you?	461640	1471947717241	1471947717360	h	72
+933	9623	How are things with you?	How are things with you?	461643	1471947717320	1471947717423	 	32
+933	9623	How are things with you?	How are things with you?	461688	1471947717600	1471947717664	u	89
+933	9623	How are things with you?	How are things with you?	461689	1471947717696	1471947717848	o	79
+933	9623	How are things with you?	How are things with you?	461690	1471947717808	1471947717920	u	85
+933	9623	How are things with you?	How are things with you?	461692	1471947718256	1471947718320	BKSP	8
+933	9623	How are things with you?	How are things with you?	461694	1471947718441	1471947718481	BKSP	8
+933	9623	How are things with you?	How are things with you?	461695	1471947718584	1471947718657	BKSP	8
+933	9623	How are things with you?	How are things with you?	461697	1471947718783	1471947718824	BKSP	8
+933	9623	How are things with you?	How are things with you?	461698	1471947719496	1471947719600	y	89
+933	9623	How are things with you?	How are things with you?	461700	1471947719601	1471947719776	o	79
+933	9623	How are things with you?	How are things with you?	461708	1471947719729	1471947719856	u	85
+933	9623	How are things with you?	How are things with you?	461709	1471947719944	1471947720159	SHIFT	16
+933	9623	How are things with you?	How are things with you?	461710	1471947720009	1471947720160	?	191
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	461784	1471947721904	1471947722120	SHIFT	16
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	461788	1471947722073	1471947722184	T	84
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	461794	1471947722224	1471947722322	h	72
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	461800	1471947722322	1471947722423	e	69
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	461806	1471947722529	1471947722657	 	32
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	461813	1471947722720	1471947722872	r	82
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	461842	1471947722832	1471947722960	e	69
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	461843	1471947723080	1471947723200	s	83
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	461844	1471947723263	1471947723448	e	69
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	461845	1471947723383	1471947723494	r	82
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	461846	1471947723623	1471947723719	v	86
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	461848	1471947723799	1471947723912	e	69
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	461890	1471947723985	1471947724072	 	32
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	461894	1471947724119	1471947724256	w	87
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	461896	1471947724257	1471947724383	i	73
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	461900	1471947724464	1471947724543	d	68
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	461905	1471947724664	1471947724744	e	69
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	461926	1471947724872	1471947725048	o	79
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	461927	1471947725000	1471947725119	u	85
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	461928	1471947725144	1471947725256	t	84
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	461929	1471947725287	1471947725416	 	32
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	462160	1471947725392	1471947725520	i	73
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	462163	1471947725521	1471947725649	s	83
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	462168	1471947725680	1471947725776	 	32
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	462170	1471947726367	1471947726457	BKSP	8
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	462173	1471947730664	1471947730808	 	32
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	462175	1471947730888	1471947731025	d	68
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	462226	1471947730976	1471947731144	a	65
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	462229	1471947731167	1471947731255	y	89
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	462233	1471947731287	1471947731383	 	32
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	462238	1471947731792	1471947731871	BKSP	8
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	462242	1471947732095	1471947732215	-	189
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	462244	1471947732623	1471947732759	t	84
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	462246	1471947732967	1471947733095	o	79
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	462268	1471947733312	1471947733471	-	189
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	462272	1471947733850	1471947733983	d	68
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	462275	1471947734001	1471947734231	a	65
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	462277	1471947734200	1471947734272	y	89
+933	9634	The reserve wideout is day-to-day.	The reserve wideout is day-to-day.	462279	1471947734528	1471947734623	.	190
+933	9644	Please send it to both of us.	Please send it to both of us.	462387	1471947736367	1471947736623	SHIFT	16
+933	9644	Please send it to both of us.	Please send it to both of us.	462390	1471947736551	1471947736671	P	80
+933	9644	Please send it to both of us.	Please send it to both of us.	462393	1471947736775	1471947736887	l	76
+933	9644	Please send it to both of us.	Please send it to both of us.	462399	1471947736823	1471947736919	e	69
+933	9644	Please send it to both of us.	Please send it to both of us.	462404	1471947736958	1471947737158	a	65
+933	9644	Please send it to both of us.	Please send it to both of us.	462442	1471947737078	1471947737254	s	83
+933	9644	Please send it to both of us.	Please send it to both of us.	462446	1471947737190	1471947737319	e	69
+933	9644	Please send it to both of us.	Please send it to both of us.	462452	1471947737382	1471947737470	 	32
+933	9644	Please send it to both of us.	Please send it to both of us.	462456	1471947737510	1471947737545	d	68
+933	9644	Please send it to both of us.	Please send it to both of us.	462461	1471947738143	1471947738223	BKSP	8
+933	9644	Please send it to both of us.	Please send it to both of us.	462465	1471947738199	1471947738270	s	83
+933	9644	Please send it to both of us.	Please send it to both of us.	462471	1471947738367	1471947738471	e	69
+933	9644	Please send it to both of us.	Please send it to both of us.	462517	1471947738473	1471947738542	n	78
+933	9644	Please send it to both of us.	Please send it to both of us.	462522	1471947739078	1471947739206	d	68
+933	9644	Please send it to both of us.	Please send it to both of us.	462528	1471947739270	1471947739408	 	32
+933	9644	Please send it to both of us.	Please send it to both of us.	462533	1471947739447	1471947739519	i	73
+933	9644	Please send it to both of us.	Please send it to both of us.	462537	1471947739558	1471947739702	t	84
+933	9644	Please send it to both of us.	Please send it to both of us.	462555	1471947739706	1471947739816	 	32
+933	9644	Please send it to both of us.	Please send it to both of us.	462557	1471947739887	1471947739991	t	84
+933	9644	Please send it to both of us.	Please send it to both of us.	462560	1471947739922	1471947740079	o	79
+933	9644	Please send it to both of us.	Please send it to both of us.	462564	1471947740032	1471947740158	 	32
+933	9644	Please send it to both of us.	Please send it to both of us.	462569	1471947740231	1471947740335	b	66
+933	9644	Please send it to both of us.	Please send it to both of us.	462591	1471947740337	1471947740430	o	79
+933	9644	Please send it to both of us.	Please send it to both of us.	462594	1471947740486	1471947740591	t	84
+933	9644	Please send it to both of us.	Please send it to both of us.	462597	1471947740591	1471947740702	h	72
+933	9644	Please send it to both of us.	Please send it to both of us.	462600	1471947740682	1471947740782	 	32
+933	9644	Please send it to both of us.	Please send it to both of us.	462602	1471947740807	1471947740926	o	79
+933	9644	Please send it to both of us.	Please send it to both of us.	462624	1471947740950	1471947741070	f	70
+933	9644	Please send it to both of us.	Please send it to both of us.	462625	1471947741110	1471947741240	 	32
+933	9644	Please send it to both of us.	Please send it to both of us.	462628	1471947741207	1471947741310	u	85
+933	9644	Please send it to both of us.	Please send it to both of us.	462630	1471947741311	1471947741407	s	83
+933	9644	Please send it to both of us.	Please send it to both of us.	462633	1471947741510	1471947741622	.	190
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462719	1471947743630	1471947743863	SHIFT	16
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462721	1471947743807	1471947743933	T	84
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462723	1471947743950	1471947744045	h	72
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462724	1471947744077	1471947744190	e	69
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462726	1471947744230	1471947744366	y	89
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462755	1471947744318	1471947744437	 	32
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462756	1471947744533	1471947744615	l	76
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462758	1471947744727	1471947744839	o	79
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462761	1471947744839	1471947744910	s	83
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462766	1471947745054	1471947745141	t	84
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462771	1471947745181	1471947745285	 	32
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462801	1471947745366	1471947745486	t	84
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462804	1471947745501	1471947745646	o	79
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462805	1471947745606	1471947745710	 	32
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462806	1471947745741	1471947745933	SHIFT	16
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462808	1471947745909	1471947746013	N	78
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462812	1471947746045	1471947746182	a	65
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462853	1471947746185	1471947746309	n	78
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462857	1471947746406	1471947746493	t	84
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462860	1471947746550	1471947746645	e	69
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462862	1471947746775	1471947746870	s	83
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462866	1471947746990	1471947747070	 	32
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462885	1471947747117	1471947747293	a	65
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462890	1471947747294	1471947747413	f	70
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462896	1471947747550	1471947747613	t	84
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462900	1471947747686	1471947747829	e	69
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462935	1471947747782	1471947747893	r	82
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462936	1471947747933	1471947748030	 	32
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462938	1471947748166	1471947748238	e	69
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462940	1471947748373	1471947748493	x	88
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462942	1471947748630	1471947748709	t	84
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462946	1471947748806	1471947748887	r	82
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	462997	1471947748950	1471947749077	a	65
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	463000	1471947749261	1471947749333	-	189
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	463003	1471947749701	1471947749823	t	84
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	463006	1471947749823	1471947749973	i	73
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	463028	1471947749935	1471947750071	m	77
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	463031	1471947750071	1471947750151	e	69
+933	9647	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	463033	1471947750342	1471947750446	.	190
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463126	1471947752325	1471947752574	SHIFT	16
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463129	1471947752526	1471947752637	P	80
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463132	1471947752734	1471947752862	l	76
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463134	1471947752815	1471947752925	e	69
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463137	1471947752981	1471947753205	a	65
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463170	1471947753110	1471947753278	s	83
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463172	1471947753209	1471947753342	e	69
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463175	1471947753469	1471947753590	 	32
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463178	1471947753766	1471947753854	s	83
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463182	1471947753950	1471947754037	e	69
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463187	1471947754093	1471947754150	n	78
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463205	1471947754198	1471947754293	d	68
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463209	1471947754317	1471947754406	 	32
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463215	1471947754470	1471947754550	t	84
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463225	1471947754550	1471947754638	o	79
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463231	1471947754640	1471947754742	 	32
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463249	1471947754805	1471947754982	SHIFT	16
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463252	1471947754933	1471947755037	G	71
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463255	1471947755149	1471947755341	a	65
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463258	1471947755285	1471947755397	r	82
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463261	1471947755477	1471947755590	y	89
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463297	1471947755574	1471947755677	 	32
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463299	1471947755719	1471947755933	SHIFT	16
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463300	1471947755877	1471947756030	S	83
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463302	1471947756030	1471947756109	m	77
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463305	1471947756133	1471947756294	i	73
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463309	1471947756205	1471947756294	t	84
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463312	1471947756294	1471947756373	h	72
+933	9657	Please send to Gary Smith.	Please send to Gary Smith.	463342	1471947756742	1471947756861	.	190
+933	9663	What a nice note.	What a nice note.	463459	1471947758557	1471947758813	SHIFT	16
+933	9663	What a nice note.	What a nice note.	463462	1471947758757	1471947758893	W	87
+933	9663	What a nice note.	What a nice note.	463465	1471947759269	1471947759381	h	72
+933	9663	What a nice note.	What a nice note.	463468	1471947759452	1471947759645	a	65
+933	9663	What a nice note.	What a nice note.	463472	1471947759573	1471947759708	t	84
+933	9663	What a nice note.	What a nice note.	463475	1471947759741	1471947759821	 	32
+933	9663	What a nice note.	What a nice note.	463485	1471947759861	1471947760005	a	65
+933	9663	What a nice note.	What a nice note.	463487	1471947759981	1471947760085	 	32
+933	9663	What a nice note.	What a nice note.	463489	1471947760189	1471947760277	n	78
+933	9663	What a nice note.	What a nice note.	463492	1471947760309	1471947760405	i	73
+933	9663	What a nice note.	What a nice note.	463496	1471947760445	1471947760533	c	67
+933	9663	What a nice note.	What a nice note.	463526	1471947760661	1471947760748	e	69
+933	9663	What a nice note.	What a nice note.	463529	1471947760774	1471947760845	 	32
+933	9663	What a nice note.	What a nice note.	463533	1471947760964	1471947761077	n	78
+933	9663	What a nice note.	What a nice note.	463536	1471947761078	1471947761173	o	79
+933	9663	What a nice note.	What a nice note.	463537	1471947761229	1471947761300	t	84
+933	9663	What a nice note.	What a nice note.	463549	1471947761493	1471947761565	e	69
+933	9663	What a nice note.	What a nice note.	463550	1471947761629	1471947761725	.	190
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463666	1471947763717	1471947763972	SHIFT	16
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463670	1471947763916	1471947764012	H	72
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463676	1471947764108	1471947764180	e	69
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463681	1471947764252	1471947764356	 	32
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463686	1471947764410	1471947764540	a	65
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463689	1471947764604	1471947764677	g	71
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463705	1471947764812	1471947764891	r	82
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463708	1471947764972	1471947765067	e	69
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463713	1471947765195	1471947765259	e	69
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463717	1471947765387	1471947765475	s	83
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463721	1471947765587	1471947765684	 	32
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463729	1471947765687	1471947765779	t	84
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463731	1471947765803	1471947765899	h	72
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463733	1471947765834	1471947765979	a	65
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463737	1471947765939	1471947766044	t	84
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463740	1471947766067	1471947766172	 	32
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463756	1471947766175	1471947766259	t	84
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463759	1471947766268	1471947766347	h	72
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463761	1471947766363	1471947766491	e	69
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463762	1471947766491	1471947766611	y	89
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463783	1471947766571	1471947766667	 	32
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463785	1471947766636	1471947766803	a	65
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463788	1471947766747	1471947766883	r	82
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463791	1471947766852	1471947766973	e	69
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463794	1471947766948	1471947767123	 	32
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463825	1471947767083	1471947767187	n	78
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463826	1471947767188	1471947767244	o	79
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463827	1471947767267	1471947767395	t	84
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463828	1471947767418	1471947767523	 	32
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463829	1471947767627	1471947767769	w	87
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463830	1471947768155	1471947768243	BKSP	8
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463831	1471947768243	1471947768370	s	83
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463856	1471947768395	1471947768491	h	72
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463859	1471947768555	1471947768684	o	79
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463862	1471947768754	1471947768892	w	87
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463866	1471947768892	1471947769003	i	73
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463871	1471947769003	1471947769082	n	78
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463892	1471947769123	1471947769227	g	71
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463895	1471947769228	1471947769306	 	32
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463897	1471947769374	1471947769491	t	84
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463899	1471947769436	1471947769539	h	72
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463902	1471947769612	1471947769728	e	69
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463933	1471947769715	1471947769803	 	32
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463936	1471947769900	1471947769987	c	67
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463938	1471947770035	1471947770122	o	79
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463940	1471947770188	1471947770266	r	82
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463942	1471947770378	1471947770483	r	82
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463944	1471947770514	1471947770612	e	69
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463954	1471947770740	1471947770811	c	67
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463959	1471947770962	1471947771051	t	84
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463965	1471947771051	1471947771155	 	32
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463971	1471947771338	1471947771466	e	69
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	463976	1471947771538	1471947771683	q	81
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	464007	1471947771687	1471947771779	u	85
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	464010	1471947771987	1471947772106	a	65
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	464015	1471947772227	1471947772322	t	84
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	464018	1471947772362	1471947772572	i	73
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	464037	1471947772474	1471947772574	o	79
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	464039	1471947772574	1471947772667	n	78
+933	9669	He agrees that they are not showing the correct equation.	He agrees that they are not showing the correct equation.	464040	1471947772810	1471947772922	.	190

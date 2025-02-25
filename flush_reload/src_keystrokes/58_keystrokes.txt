@@ -1,0 +1,680 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20263	1471935027007	1471935027297	SHIFT	16
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20261	1471935027170	1471935027252	O	79
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20264	1471935027441	1471935027564	k	75
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20265	1471935027667	1471935027822	 	32
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20266	1471935028047	1471935028167	t	84
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20268	1471935028177	1471935028271	o	79
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20296	1471935028317	1471935028437	 	32
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20300	1471935028557	1471935028656	m	77
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20303	1471935028732	1471935028840	a	65
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20307	1471935028915	1471935029027	l	76
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20310	1471935029138	1471935029249	e	69
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20394	1471935029485	1471935029561	BKSP	8
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20396	1471935029633	1471935029717	BKSP	8
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20400	1471935029829	1471935029937	j	74
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20401	1471935029986	1471935030073	e	69
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20402	1471935030133	1471935030230	 	32
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20403	1471935030427	1471935030499	BKSP	8
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20404	1471935030572	1471935030672	BKSP	8
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20405	1471935030854	1471935030971	k	75
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20407	1471935031181	1471935031253	BKSP	8
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20409	1471935031328	1471935031413	BKSP	8
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20411	1471935031551	1471935031656	l	76
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20467	1471935031719	1471935031816	e	69
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20469	1471935032099	1471935032183	BKSP	8
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20475	1471935032295	1471935032385	BKSP	8
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20480	1471935032532	1471935032616	k	75
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20485	1471935032671	1471935032755	e	69
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20490	1471935032852	1471935032963	 	32
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20495	1471935033332	1471935033449	c	67
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20501	1471935033477	1471935033558	h	72
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20505	1471935033619	1471935033732	a	65
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20512	1471935033699	1471935033780	n	78
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20516	1471935033874	1471935033953	g	71
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20519	1471935033998	1471935034092	e	69
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20561	1471935034224	1471935034323	s	83
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20564	1471935034485	1471935034593	,	188
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20567	1471935034698	1471935034788	 	32
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20569	1471935035203	1471935035371	SHIFT	16
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20572	1471935035321	1471935035436	C	67
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20574	1471935035455	1471935035543	h	72
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20616	1471935035874	1471935035952	BKSP	8
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20620	1471935036060	1471935036157	BKSP	8
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20624	1471935036232	1471935036325	c	67
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20626	1471935036359	1471935036447	h	72
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20629	1471935036507	1471935036605	a	65
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20631	1471935036593	1471935036689	n	78
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20633	1471935036785	1471935036879	g	71
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20706	1471935036898	1471935037012	e	69
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20710	1471935037432	1471935037540	 	32
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20714	1471935037664	1471935037760	o	79
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20716	1471935037916	1471935038024	y	89
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20718	1471935038522	1471935038600	BKSP	8
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20720	1471935038771	1471935038864	u	85
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20772	1471935038951	1471935039051	t	84
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20776	1471935039081	1471935039220	 	32
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20779	1471935039866	1471935039944	o	79
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20781	1471935040013	1471935040119	r	82
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20782	1471935040203	1471935040303	i	73
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20804	1471935040548	1471935040635	g	71
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20806	1471935040713	1471935040810	i	73
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20808	1471935040924	1471935041008	n	78
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20810	1471935041087	1471935041195	a	65
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20813	1471935041241	1471935041337	l	76
+58	421	OK to make changes, change out original.	Ok to make changes, change out original.	20836	1471935041739	1471935041827	.	190
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	20979	1471935045735	1471935045945	SHIFT	16
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	20985	1471935045884	1471935045966	I	73
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	20992	1471935046021	1471935046129	 	32
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	20997	1471935046541	1471935046633	a	65
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21002	1471935046682	1471935046769	m	77
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21006	1471935046836	1471935046944	 	32
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21088	1471935047029	1471935047113	n	78
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21092	1471935047186	1471935047288	i	73
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21095	1471935047393	1471935047507	t	84
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21097	1471935047634	1471935047745	 	32
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21100	1471935048061	1471935048139	BKSP	8
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21103	1471935048209	1471935048290	BKSP	8
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21106	1471935048354	1471935048471	BKSP	8
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21109	1471935048894	1471935048985	o	79
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21131	1471935049227	1471935049317	t	84
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21133	1471935049473	1471935049578	 	32
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21136	1471935049740	1471935049872	c	67
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21138	1471935049852	1471935049940	o	79
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21141	1471935050048	1471935050144	n	78
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21187	1471935050255	1471935050387	e	69
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21191	1471935050359	1471935050527	r	82
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21193	1471935050603	1471935050738	n	78
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21200	1471935051114	1471935051240	e	69
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21204	1471935051277	1471935051406	d	68
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21225	1471935051437	1471935051581	 	32
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21231	1471935051823	1471935051938	w	87
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21234	1471935051960	1471935052071	i	73
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21237	1471935052126	1471935052219	t	84
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21240	1471935052312	1471935052412	h	72
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21269	1471935052466	1471935052593	 	32
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21270	1471935052736	1471935052833	t	84
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21271	1471935052920	1471935053007	h	72
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21272	1471935053024	1471935053123	e	69
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21273	1471935053160	1471935053292	 	32
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21305	1471935053356	1471935053551	SHIFT	16
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21307	1471935053486	1471935053586	B	66
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21309	1471935053677	1471935053785	r	82
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21312	1471935054003	1471935054108	o	79
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21316	1471935054276	1471935054390	w	87
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21321	1471935054513	1471935054607	n	78
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21348	1471935054673	1471935054821	 	32
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21352	1471935055398	1471935055486	m	77
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21356	1471935055549	1471935055631	o	79
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21361	1471935055736	1471935055856	n	78
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21366	1471935056047	1471935056153	e	69
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21383	1471935056243	1471935056315	y	89
+58	435	I am not concerned with the Brown money.	I am not conerned with the Brown money.	21385	1471935056629	1471935056692	.	190
+58	450	Will call later to explain.	Will call later to explain.	21542	1471935060808	1471935061099	SHIFT	16
+58	450	Will call later to explain.	Will call later to explain.	21548	1471935061032	1471935061137	W	87
+58	450	Will call later to explain.	Will call later to explain.	21551	1471935061211	1471935061295	i	73
+58	450	Will call later to explain.	Will call later to explain.	21557	1471935061379	1471935061464	l	76
+58	450	Will call later to explain.	Will call later to explain.	21561	1471935061533	1471935061635	l	76
+58	450	Will call later to explain.	Will call later to explain.	21569	1471935061669	1471935061793	 	32
+58	450	Will call later to explain.	Will call later to explain.	21584	1471935061815	1471935061949	c	67
+58	450	Will call later to explain.	Will call later to explain.	21585	1471935061909	1471935062024	a	65
+58	450	Will call later to explain.	Will call later to explain.	21586	1471935062028	1471935062100	l	76
+58	450	Will call later to explain.	Will call later to explain.	21587	1471935062182	1471935062287	l	76
+58	450	Will call later to explain.	Will call later to explain.	21588	1471935062318	1471935062456	 	32
+58	450	Will call later to explain.	Will call later to explain.	21613	1471935062517	1471935062634	l	76
+58	450	Will call later to explain.	Will call later to explain.	21615	1471935062668	1471935062771	a	65
+58	450	Will call later to explain.	Will call later to explain.	21618	1471935062843	1471935062933	t	84
+58	450	Will call later to explain.	Will call later to explain.	21620	1471935062997	1471935063141	e	69
+58	450	Will call later to explain.	Will call later to explain.	21623	1471935063148	1471935063281	r	82
+58	450	Will call later to explain.	Will call later to explain.	21668	1471935063344	1471935063462	 	32
+58	450	Will call later to explain.	Will call later to explain.	21671	1471935063674	1471935063800	t	84
+58	450	Will call later to explain.	Will call later to explain.	21674	1471935063825	1471935063906	o	79
+58	450	Will call later to explain.	Will call later to explain.	21678	1471935063979	1471935064105	 	32
+58	450	Will call later to explain.	Will call later to explain.	21684	1471935064864	1471935064949	e	69
+58	450	Will call later to explain.	Will call later to explain.	21700	1471935065101	1471935065216	x	88
+58	450	Will call later to explain.	Will call later to explain.	21702	1471935065363	1471935065471	p	80
+58	450	Will call later to explain.	Will call later to explain.	21704	1471935065579	1471935065693	l	76
+58	450	Will call later to explain.	Will call later to explain.	21706	1471935065748	1471935065853	a	65
+58	450	Will call later to explain.	Will call later to explain.	21708	1471935065858	1471935065939	i	73
+58	450	Will call later to explain.	Will call later to explain.	21723	1471935066023	1471935066108	n	78
+58	450	Will call later to explain.	Will call later to explain.	21726	1471935066249	1471935066336	.	190
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	21908	1471935070114	1471935070357	SHIFT	16
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	21907	1471935070263	1471935070345	K	75
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	21910	1471935070408	1471935070511	i	73
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	21912	1471935070622	1471935070706	m	77
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	21914	1471935070951	1471935071041	,	188
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	21918	1471935071156	1471935071267	 	32
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	21964	1471935071943	1471935072033	h	72
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	21966	1471935072076	1471935072205	e	69
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	21969	1471935072242	1471935072335	r	82
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	21972	1471935072358	1471935072466	e	69
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	21975	1471935073106	1471935073190	'	222
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22001	1471935073388	1471935073481	s	83
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22003	1471935073985	1471935074096	 	32
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22006	1471935074183	1471935074267	t	84
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22010	1471935074349	1471935074431	h	72
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22014	1471935074452	1471935074540	e	69
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22054	1471935074580	1471935074679	 	32
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22130	1471935074924	1471935076137	SHIFT	16
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22055	1471935075261	1471935075335	P	80
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22056	1471935075417	1471935075523	S	83
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22058	1471935075668	1471935075760	C	67
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22061	1471935075881	1471935076002	O	79
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22131	1471935076717	1471935076835	 	32
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22135	1471935077377	1471935077471	w	87
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22139	1471935077516	1471935077624	e	69
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22144	1471935077751	1471935077844	b	66
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22149	1471935078520	1471935078634	s	83
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22170	1471935078639	1471935078717	i	73
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22174	1471935078846	1471935078906	r	82
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22178	1471935078946	1471935079042	t	84
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22182	1471935079394	1471935079472	BKSP	8
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22186	1471935079533	1471935079620	BKSP	8
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22190	1471935079776	1471935079848	y	84
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22237	1471935079944	1471935080091	e	69
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22239	1471935080324	1471935080391	BKSP	8
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22241	1471935080478	1471935080576	BKSP	8
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22242	1471935080570	1471935080729	e	69
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22243	1471935081253	1471935081356	 	32
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22244	1471935081544	1471935081649	a	65
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22246	1471935081737	1471935081824	d	68
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22268	1471935081873	1471935081993	d	68
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22272	1471935082092	1471935082192	r	82
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22275	1471935082217	1471935082337	e	69
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22278	1471935082461	1471935082547	s	83
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22283	1471935082632	1471935082737	s	83
+58	452	Kim, here's the PSCO website address.	Kim, here's the PSCO website address.	22296	1471935083220	1471935083310	.	190
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22399	1471935087608	1471935087779	SHIFT	16
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22400	1471935087727	1471935087812	T	84
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22401	1471935087897	1471935087981	h	72
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22405	1471935087991	1471935088098	a	65
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22409	1471935088083	1471935088179	n	78
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22485	1471935088228	1471935088392	k	83
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22487	1471935088495	1471935088528	 	32
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22489	1471935088619	1471935088727	f	70
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22491	1471935089159	1471935089231	BKSP	8
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22494	1471935089310	1471935089388	BKSP	8
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22496	1471935089452	1471935089530	BKSP	8
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22499	1471935089597	1471935089678	BKSP	8
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22503	1471935089846	1471935089957	k	75
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22505	1471935090012	1471935090129	d	68
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22508	1471935090199	1471935090311	 	32
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22542	1471935090600	1471935090672	BKSP	8
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22543	1471935090750	1471935090844	BKSP	8
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22544	1471935090877	1471935090992	s	83
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22545	1471935091014	1471935091134	 	32
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22546	1471935091242	1471935091332	f	70
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22547	1471935091360	1471935091445	o	79
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22550	1471935091776	1471935091842	BKSP	8
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22554	1471935091924	1471935092002	BKSP	8
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22558	1471935092033	1471935092167	d	68
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22595	1471935092158	1471935092263	o	79
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22597	1471935092353	1471935092462	 	32
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22599	1471935092736	1471935092809	BKSP	8
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22600	1471935092932	1471935093055	BKSP	8
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22601	1471935093157	1471935093254	s	83
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22603	1471935093282	1471935093363	o	79
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22605	1471935093367	1471935093472	 	32
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22607	1471935093559	1471935093664	m	77
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22637	1471935093752	1471935093845	u	85
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22638	1471935093930	1471935094057	c	67
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22639	1471935094105	1471935094199	h	72
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22640	1471935094616	1471935094727	 	32
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22641	1471935094859	1471935094974	f	70
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22659	1471935094990	1471935095095	o	79
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22661	1471935095117	1471935095210	r	82
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22664	1471935095230	1471935095350	 	32
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22667	1471935095387	1471935095477	t	84
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22670	1471935095585	1471935095670	h	72
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22681	1471935095757	1471935095829	e	69
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22683	1471935095854	1471935095993	 	32
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22685	1471935096107	1471935096209	m	77
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22689	1471935096234	1471935096318	e	69
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22693	1471935096451	1471935096529	s	83
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22717	1471935096601	1471935096691	s	83
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22718	1471935096817	1471935096929	a	65
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22719	1471935097004	1471935097091	n	78
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22720	1471935097188	1471935097266	g	71
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22722	1471935097300	1471935097396	e	69
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22779	1471935097668	1471935097734	BKSP	8
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22782	1471935097819	1471935097921	BKSP	8
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22784	1471935098324	1471935098408	BKSP	8
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22786	1471935098564	1471935098654	g	71
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22789	1471935098712	1471935098793	e	69
+58	463	Thanks so much for the message.	Thanks dso much for the message.	22791	1471935098979	1471935099048	.	190
+58	474	Talk to you later.	Talk to you later.	22883	1471935103177	1471935103357	SHIFT	16
+58	474	Talk to you later.	Talk to you later.	22884	1471935103307	1471935103389	T	84
+58	474	Talk to you later.	Talk to you later.	22885	1471935103465	1471935103564	a	65
+58	474	Talk to you later.	Talk to you later.	22886	1471935103589	1471935103697	l	76
+58	474	Talk to you later.	Talk to you later.	22887	1471935103755	1471935103875	k	75
+58	474	Talk to you later.	Talk to you later.	22888	1471935103969	1471935104095	 	32
+58	474	Talk to you later.	Talk to you later.	22897	1471935104298	1471935104428	t	84
+58	474	Talk to you later.	Talk to you later.	22899	1471935104441	1471935104534	o	79
+58	474	Talk to you later.	Talk to you later.	22901	1471935104574	1471935104694	 	32
+58	474	Talk to you later.	Talk to you later.	22903	1471935105013	1471935105107	y	89
+58	474	Talk to you later.	Talk to you later.	22905	1471935105152	1471935105287	o	79
+58	474	Talk to you later.	Talk to you later.	22918	1471935105253	1471935105374	u	85
+58	474	Talk to you later.	Talk to you later.	22920	1471935105348	1471935105430	 	32
+58	474	Talk to you later.	Talk to you later.	22922	1471935105529	1471935105679	l	76
+58	474	Talk to you later.	Talk to you later.	22924	1471935105743	1471935105857	a	65
+58	474	Talk to you later.	Talk to you later.	22926	1471935105983	1471935106073	t	84
+58	474	Talk to you later.	Talk to you later.	22927	1471935106137	1471935106250	e	69
+58	474	Talk to you later.	Talk to you later.	22930	1471935106243	1471935106364	r	82
+58	474	Talk to you later.	Talk to you later.	22932	1471935106472	1471935106560	.	190
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23048	1471935110772	1471935111155	SHIFT	16
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23049	1471935111097	1471935111203	W	87
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23050	1471935111308	1471935111420	a	65
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23051	1471935112084	1471935112177	t	84
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23052	1471935112232	1471935112366	c	67
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23073	1471935112339	1471935112459	h	72
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23076	1471935112525	1471935112640	 	32
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23078	1471935112772	1471935112892	f	70
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23080	1471935112896	1471935112990	o	79
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23081	1471935113065	1471935113175	r	82
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23139	1471935113163	1471935113295	 	32
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23142	1471935113613	1471935113720	m	77
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23144	1471935113774	1471935113868	o	79
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23149	1471935113902	1471935114055	r	82
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23154	1471935114098	1471935114236	e	69
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23157	1471935114329	1471935114461	 	32
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23165	1471935114968	1471935115127	d	68
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23167	1471935115060	1471935115202	e	69
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23169	1471935115236	1471935115320	t	84
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23171	1471935115407	1471935115535	a	65
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23229	1471935115526	1471935115601	i	73
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23230	1471935115698	1471935115806	l	76
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23231	1471935115872	1471935115990	s	83
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23233	1471935116036	1471935116135	,	188
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23235	1471935117042	1471935117142	 	32
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23237	1471935117327	1471935117448	c	67
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23240	1471935117476	1471935117566	o	79
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23242	1471935117668	1471935117761	m	77
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23244	1471935117828	1471935117918	i	73
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23246	1471935118018	1471935118099	n	78
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23248	1471935118130	1471935118241	g	71
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23260	1471935118278	1471935118377	 	32
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23262	1471935118536	1471935118635	s	83
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23264	1471935118717	1471935118792	o	79
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23266	1471935118851	1471935118937	o	79
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23268	1471935119025	1471935119115	n	78
+58	480	Watch for more details, coming soon.	Watch for more details, coming soon.	23283	1471935119250	1471935119337	.	190
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23449	1471935123847	1471935124141	SHIFT	16
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23451	1471935124067	1471935124167	N	78
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23452	1471935124258	1471935124393	e	69
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23454	1471935124395	1471935124532	w	87
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23455	1471935124587	1471935124690	 	32
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23457	1471935126012	1471935126107	s	83
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23523	1471935126161	1471935126399	w	87
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23527	1471935126878	1471935126963	i	73
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23531	1471935127071	1471935127173	t	84
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23533	1471935127513	1471935127633	c	67
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23535	1471935127655	1471935127758	h	72
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23567	1471935127807	1471935127942	e	69
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23568	1471935128112	1471935128266	s	83
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23569	1471935128647	1471935128747	 	32
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23570	1471935128789	1471935128907	c	67
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23571	1471935128917	1471935129048	a	65
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23592	1471935129039	1471935129132	n	78
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23595	1471935129225	1471935129354	 	32
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23598	1471935129614	1471935129714	a	65
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23601	1471935129742	1471935129850	l	76
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23604	1471935129893	1471935130007	s	83
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23607	1471935130112	1471935130223	o	79
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23637	1471935130424	1471935130580	 	32
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23640	1471935130739	1471935130838	b	66
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23643	1471935130857	1471935130966	e	69
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23646	1471935130991	1471935131096	 	32
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23648	1471935131730	1471935131835	a	65
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23670	1471935131962	1471935132049	d	68
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23672	1471935132124	1471935132257	d	68
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23675	1471935132326	1471935132506	e	69
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23678	1471935132522	1471935132649	d	68
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23681	1471935132703	1471935132866	 	32
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23712	1471935133123	1471935133258	t	84
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23714	1471935133301	1471935133397	o	79
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23716	1471935133461	1471935133569	 	32
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23717	1471935133606	1471935133702	t	84
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23718	1471935133793	1471935133868	h	72
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23725	1471935133917	1471935134012	e	69
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23727	1471935134005	1471935134113	 	32
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23732	1471935134293	1471935134497	SHIFT	16
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23736	1471935134433	1471935134524	P	80
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23744	1471935134579	1471935134687	a	65
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23750	1471935135012	1471935135132	f	70
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23783	1471935135190	1471935135289	i	73
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23784	1471935135594	1471935135654	BKSP	8
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23785	1471935135747	1471935135842	BKSP	8
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23787	1471935135830	1471935135983	d	68
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23789	1471935136660	1471935136737	BKSP	8
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23792	1471935136855	1471935136957	g	71
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23795	1471935137030	1471935137117	i	73
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23799	1471935137213	1471935137306	n	78
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23878	1471935137376	1471935137505	f	70
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23879	1471935137524	1471935137624	 	32
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23880	1471935137984	1471935138054	BKSP	8
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23882	1471935138132	1471935138229	BKSP	8
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23884	1471935138257	1471935138440	d	68
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23886	1471935139170	1471935139251	BKSP	8
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23888	1471935139284	1471935139390	g	71
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23890	1471935139777	1471935139904	 	32
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23911	1471935140205	1471935140427	SHIFT	16
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23913	1471935140363	1471935140481	S	83
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23914	1471935140532	1471935140632	y	89
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23915	1471935140785	1471935140923	s	83
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23916	1471935141049	1471935141145	t	84
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	23917	1471935141319	1471935141421	m	77
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	24014	1471935141434	1471935141548	e	69
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	24017	1471935141975	1471935142044	BKSP	8
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	24019	1471935142111	1471935142198	BKSP	8
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	24022	1471935142251	1471935142364	e	69
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	24024	1471935142374	1471935142455	m	77
+58	488	New switches can also be added to the Paging System.	New switches can also be added to the Paging System.	24025	1471935143093	1471935143162	.	190
+58	502	In a couple of weeks.	In a couple of weeks.	24184	1471935149722	1471935149902	SHIFT	16
+58	502	In a couple of weeks.	In a couple of weeks.	24187	1471935149826	1471935149911	I	73
+58	502	In a couple of weeks.	In a couple of weeks.	24189	1471935150001	1471935150116	n	78
+58	502	In a couple of weeks.	In a couple of weeks.	24190	1471935150129	1471935150207	 	32
+58	502	In a couple of weeks.	In a couple of weeks.	24192	1471935150259	1471935150409	a	65
+58	502	In a couple of weeks.	In a couple of weeks.	24194	1471935150411	1471935150516	 	32
+58	502	In a couple of weeks.	In a couple of weeks.	24281	1471935151527	1471935151621	c	67
+58	502	In a couple of weeks.	In a couple of weeks.	24284	1471935151652	1471935151757	o	79
+58	502	In a couple of weeks.	In a couple of weeks.	24288	1471935151797	1471935151896	u	85
+58	502	In a couple of weeks.	In a couple of weeks.	24292	1471935151995	1471935152092	l	76
+58	502	In a couple of weeks.	In a couple of weeks.	24296	1471935153115	1471935153209	BKSP	8
+58	502	In a couple of weeks.	In a couple of weeks.	24299	1471935153595	1471935153707	p	80
+58	502	In a couple of weeks.	In a couple of weeks.	24323	1471935153822	1471935153915	l	76
+58	502	In a couple of weeks.	In a couple of weeks.	24324	1471935153946	1471935154036	e	69
+58	502	In a couple of weeks.	In a couple of weeks.	24325	1471935154079	1471935154181	 	32
+58	502	In a couple of weeks.	In a couple of weeks.	24326	1471935154251	1471935154371	o	79
+58	502	In a couple of weeks.	In a couple of weeks.	24327	1471935154462	1471935154570	f	70
+58	502	In a couple of weeks.	In a couple of weeks.	24351	1471935154589	1471935154709	 	32
+58	502	In a couple of weeks.	In a couple of weeks.	24354	1471935155353	1471935155446	w	87
+58	502	In a couple of weeks.	In a couple of weeks.	24357	1471935155536	1471935155624	e	69
+58	502	In a couple of weeks.	In a couple of weeks.	24360	1471935155678	1471935155760	e	69
+58	502	In a couple of weeks.	In a couple of weeks.	24363	1471935155832	1471935155913	l	76
+58	502	In a couple of weeks.	In a couple of weeks.	24407	1471935156152	1471935156243	BKSP	8
+58	502	In a couple of weeks.	In a couple of weeks.	24410	1471935156407	1471935156489	k	75
+58	502	In a couple of weeks.	In a couple of weeks.	24414	1471935156538	1471935156637	s	83
+58	502	In a couple of weeks.	In a couple of weeks.	24416	1471935156906	1471935156993	.	190
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24718	1471935163214	1471935164813	SHIFT	16
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24717	1471935164662	1471935164735	I	73
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24720	1471935165361	1471935165446	'	222
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24722	1471935165679	1471935165787	m	77
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24725	1471935166261	1471935166351	 	32
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24728	1471935166507	1471935166603	i	73
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24769	1471935166768	1471935166861	n	78
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24771	1471935166925	1471935167036	 	32
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24773	1471935167106	1471935167205	a	65
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24775	1471935167251	1471935167359	 	32
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24777	1471935167607	1471935167706	m	77
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24810	1471935167776	1471935167851	e	69
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24814	1471935167962	1471935168097	e	69
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24818	1471935168212	1471935168321	t	84
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24821	1471935168354	1471935168439	i	73
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24824	1471935168535	1471935168625	n	78
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24865	1471935168689	1471935168776	g	71
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24866	1471935168795	1471935168889	 	32
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24869	1471935169650	1471935169753	u	85
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24873	1471935169932	1471935170046	n	78
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24875	1471935170321	1471935170435	t	84
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24902	1471935170484	1471935170575	i	73
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24905	1471935170641	1471935170750	l	76
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24906	1471935170795	1471935170934	 	32
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24909	1471935171140	1471935171218	n	78
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24910	1471935171312	1471935171387	o	79
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24928	1471935171451	1471935171535	o	79
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24929	1471935171628	1471935171712	n	78
+58	514	I'm in a meeting until noon.	I'm in a meeting until noon.	24930	1471935171862	1471935171902	.	190
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25089	1471935176708	1471935176903	SHIFT	16
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25090	1471935176854	1471935176948	H	72
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25091	1471935176984	1471935177117	e	69
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25092	1471935177139	1471935177283	 	32
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25093	1471935177537	1471935177639	h	72
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25094	1471935177700	1471935177820	a	65
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25135	1471935177899	1471935177995	s	83
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25138	1471935178052	1471935178151	 	32
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25142	1471935178667	1471935178815	d	68
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25144	1471935178843	1471935178906	e	69
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25146	1471935178961	1471935179060	v	86
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25167	1471935179106	1471935179205	e	69
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25170	1471935179548	1471935179690	l	76
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25173	1471935179768	1471935179867	o	79
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25175	1471935179910	1471935180015	p	80
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25176	1471935180195	1471935180356	e	69
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25194	1471935180384	1471935180523	d	68
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25196	1471935180542	1471935180669	 	32
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25198	1471935180717	1471935180850	a	65
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25200	1471935180854	1471935180944	 	32
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25203	1471935181075	1471935181193	d	68
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25231	1471935181675	1471935181757	BKSP	8
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25232	1471935181912	1471935182000	g	71
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25233	1471935182114	1471935182180	o	79
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25234	1471935182250	1471935182361	o	79
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25235	1471935182436	1471935182570	d	68
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25236	1471935182886	1471935182991	 	32
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25308	1471935183105	1471935183208	o	79
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25309	1471935183331	1471935183433	n	78
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25310	1471935183827	1471935183911	-	189
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25311	1471935184590	1471935184686	f	70
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25312	1471935185317	1471935185411	i	73
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25340	1471935185469	1471935185559	e	69
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25343	1471935185608	1471935185716	l	76
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25349	1471935185995	1471935186114	d	68
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25353	1471935186659	1471935186782	 	32
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25360	1471935187018	1471935187129	r	82
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25377	1471935187136	1471935187290	e	69
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25379	1471935187362	1471935187489	l	76
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25381	1471935187526	1471935187628	a	65
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25383	1471935187727	1471935187805	t	84
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25384	1471935188006	1471935188105	i	73
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25463	1471935188127	1471935188217	o	79
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25464	1471935188317	1471935188440	n	78
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25465	1471935188492	1471935188624	a	65
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25467	1471935188661	1471935188829	l	76
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25469	1471935189211	1471935189283	BKSP	8
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25471	1471935189376	1471935189500	BKSP	8
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25473	1471935190188	1471935190299	s	83
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25504	1471935190304	1471935190387	h	72
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25506	1471935190412	1471935190494	i	73
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25508	1471935190608	1471935190719	p	80
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25509	1471935190815	1471935190960	 	32
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25511	1471935191442	1471935191557	w	87
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25539	1471935191635	1471935191738	i	73
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25540	1471935191834	1471935191918	t	84
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25541	1471935192023	1471935192108	h	72
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25542	1471935192115	1471935192239	 	32
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25605	1471935192296	1471935193348	SHIFT	16
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25544	1471935192520	1471935192614	Q	81
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25604	1471935193190	1471935193297	B	66
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25607	1471935193961	1471935194045	 	32
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25609	1471935194231	1471935194438	SHIFT	16
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25611	1471935194374	1471935194473	B	66
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25613	1471935194638	1471935194740	r	82
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25616	1471935194896	1471935195023	a	65
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25655	1471935195134	1471935195239	d	68
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25656	1471935195677	1471935195798	 	32
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25657	1471935195873	1471935196089	SHIFT	16
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25658	1471935196037	1471935196133	J	74
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25660	1471935196179	1471935196327	o	79
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25665	1471935196464	1471935196555	h	72
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25703	1471935196696	1471935196891	n	78
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25705	1471935197564	1471935197654	s	83
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25707	1471935197670	1471935197752	o	79
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25708	1471935197818	1471935197908	n	78
+58	523	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson.	25709	1471935198049	1471935198128	.	190
+58	538	I think Citation should be good now.	I think Citation should be good now.	25835	1471935201971	1471935202172	SHIFT	16
+58	538	I think Citation should be good now.	I think Citation should be good now.	25837	1471935202093	1471935202178	I	73
+58	538	I think Citation should be good now.	I think Citation should be good now.	25839	1471935202242	1471935202389	 	32
+58	538	I think Citation should be good now.	I think Citation should be good now.	25842	1471935202732	1471935202852	t	84
+58	538	I think Citation should be good now.	I think Citation should be good now.	25845	1471935202865	1471935202959	h	72
+58	538	I think Citation should be good now.	I think Citation should be good now.	25847	1471935203004	1471935203098	i	73
+58	538	I think Citation should be good now.	I think Citation should be good now.	25875	1471935203203	1471935203309	n	78
+58	538	I think Citation should be good now.	I think Citation should be good now.	25876	1471935203336	1471935203427	g	71
+58	538	I think Citation should be good now.	I think Citation should be good now.	25877	1471935203452	1471935203557	k	75
+58	538	I think Citation should be good now.	I think Citation should be good now.	25878	1471935203876	1471935203936	BKSP	8
+58	538	I think Citation should be good now.	I think Citation should be good now.	25879	1471935204015	1471935204087	BKSP	8
+58	538	I think Citation should be good now.	I think Citation should be good now.	25880	1471935204234	1471935204349	k	75
+58	538	I think Citation should be good now.	I think Citation should be good now.	25881	1471935204424	1471935204571	 	32
+58	538	I think Citation should be good now.	I think Citation should be good now.	25933	1471935204691	1471935204871	SHIFT	16
+58	538	I think Citation should be good now.	I think Citation should be good now.	25935	1471935204795	1471935204937	C	67
+58	538	I think Citation should be good now.	I think Citation should be good now.	25937	1471935205001	1471935205097	i	73
+58	538	I think Citation should be good now.	I think Citation should be good now.	25940	1471935205847	1471935205935	t	84
+58	538	I think Citation should be good now.	I think Citation should be good now.	25943	1471935206616	1471935206716	a	65
+58	538	I think Citation should be good now.	I think Citation should be good now.	25946	1471935206753	1471935206837	t	84
+58	538	I think Citation should be good now.	I think Citation should be good now.	25962	1471935206969	1471935207089	i	73
+58	538	I think Citation should be good now.	I think Citation should be good now.	25964	1471935207114	1471935207238	o	79
+58	538	I think Citation should be good now.	I think Citation should be good now.	25966	1471935207331	1471935207436	n	78
+58	538	I think Citation should be good now.	I think Citation should be good now.	25968	1471935207455	1471935207560	 	32
+58	538	I think Citation should be good now.	I think Citation should be good now.	25969	1471935207868	1471935207970	s	83
+58	538	I think Citation should be good now.	I think Citation should be good now.	25987	1471935207980	1471935208077	h	72
+58	538	I think Citation should be good now.	I think Citation should be good now.	25989	1471935208146	1471935208272	o	79
+58	538	I think Citation should be good now.	I think Citation should be good now.	25993	1471935208321	1471935208411	u	85
+58	538	I think Citation should be good now.	I think Citation should be good now.	25996	1471935208496	1471935208613	l	76
+58	538	I think Citation should be good now.	I think Citation should be good now.	26000	1471935208730	1471935208836	d	68
+58	538	I think Citation should be good now.	I think Citation should be good now.	26026	1471935208965	1471935209112	 	32
+58	538	I think Citation should be good now.	I think Citation should be good now.	26029	1471935209167	1471935209278	b	66
+58	538	I think Citation should be good now.	I think Citation should be good now.	26034	1471935209288	1471935209387	e	69
+58	538	I think Citation should be good now.	I think Citation should be good now.	26037	1471935209412	1471935209539	 	32
+58	538	I think Citation should be good now.	I think Citation should be good now.	26040	1471935209840	1471935209927	g	71
+58	538	I think Citation should be good now.	I think Citation should be good now.	26064	1471935210071	1471935210141	o	79
+58	538	I think Citation should be good now.	I think Citation should be good now.	26066	1471935210225	1471935210324	o	79
+58	538	I think Citation should be good now.	I think Citation should be good now.	26069	1471935210415	1471935210508	d	68
+58	538	I think Citation should be good now.	I think Citation should be good now.	26072	1471935210569	1471935210734	 	32
+58	538	I think Citation should be good now.	I think Citation should be good now.	26075	1471935210842	1471935210929	n	78
+58	538	I think Citation should be good now.	I think Citation should be good now.	26121	1471935211005	1471935211125	o	79
+58	538	I think Citation should be good now.	I think Citation should be good now.	26123	1471935211260	1471935211303	w	87
+58	538	I think Citation should be good now.	I think Citation should be good now.	26125	1471935211604	1471935211689	BKSP	8
+58	538	I think Citation should be good now.	I think Citation should be good now.	26128	1471935212236	1471935212345	e	69
+58	538	I think Citation should be good now.	I think Citation should be good now.	26131	1471935213166	1471935213251	BKSP	8
+58	538	I think Citation should be good now.	I think Citation should be good now.	26134	1471935213305	1471935213394	w	87
+58	538	I think Citation should be good now.	I think Citation should be good now.	26136	1471935213470	1471935213546	.	190
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26291	1471935218291	1471935218557	SHIFT	16
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26294	1471935218499	1471935218587	V	86
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26297	1471935218704	1471935218804	e	69
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26300	1471935218900	1471935218993	r	82
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26301	1471935219069	1471935219165	y	89
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26302	1471935219250	1471935219367	 	32
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26384	1471935220067	1471935220160	t	84
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26386	1471935220238	1471935220356	r	82
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26389	1471935220449	1471935220521	u	85
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26392	1471935220868	1471935220964	l	76
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26394	1471935221122	1471935221218	y	89
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26420	1471935221716	1471935221845	 	32
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26422	1471935222022	1471935222079	y	89
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26425	1471935222277	1471935222415	o	79
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26428	1471935222443	1471935222548	u	85
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26433	1471935222621	1471935222735	r	82
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26480	1471935222944	1471935223056	s	83
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26481	1471935223286	1471935223388	,	188
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26482	1471935223701	1471935223735	 	32
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26483	1471935224253	1471935224562	SHIFT	16
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26485	1471935224492	1471935224622	A	65
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26487	1471935224689	1471935224802	c	67
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26566	1471935225764	1471935225872	m	77
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26568	1471935225897	1471935225993	e	69
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26570	1471935226500	1471935226648	 	32
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26575	1471935226726	1471935226918	SHIFT	16
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26580	1471935226854	1471935226989	C	67
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26585	1471935227270	1471935227357	o	79
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26615	1471935227430	1471935227538	s	83
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26617	1471935227560	1471935227653	t	84
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26618	1471935227803	1471935227903	o	79
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26619	1471935228189	1471935228264	BKSP	8
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26620	1471935228420	1471935228510	u	85
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26621	1471935228631	1471935228724	m	77
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26672	1471935228755	1471935228836	e	69
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26675	1471935229539	1471935229632	 	32
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26681	1471935229663	1471935229838	SHIFT	16
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26685	1471935229770	1471935229882	C	67
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26686	1471935229889	1471935229973	o	79
+58	545	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	26687	1471935230102	1471935230178	.	190
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	26835	1471935234538	1471935234890	SHIFT	16
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	26838	1471935234804	1471935234934	W	87
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	26840	1471935235034	1471935235115	i	73
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	26842	1471935235196	1471935235380	s	83
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	26843	1471935235705	1471935235807	h	72
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	26844	1471935235912	1471935236048	 	32
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	26881	1471935236301	1471935236356	m	77
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	26885	1471935236803	1471935236908	e	69
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	26888	1471935237067	1471935237166	 	32
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	26890	1471935237441	1471935237555	l	76
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	26892	1471935237624	1471935237730	u	85
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	26956	1471935237820	1471935237968	c	67
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	26958	1471935238073	1471935238133	j	74
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	26962	1471935238444	1471935238528	BKSP	8
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	26966	1471935238653	1471935238748	h	72
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	26970	1471935239435	1471935239522	BKSP	8
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	26975	1471935239705	1471935239792	l	75
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	27011	1471935240200	1471935240281	BKSP	8
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	27015	1471935240411	1471935240552	 	32
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	27019	1471935240615	1471935240774	w	87
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	27022	1471935240745	1471935240833	o	73
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	27026	1471935240950	1471935241004	y	84
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	27077	1471935241347	1471935241422	BKSP	8
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	27079	1471935241498	1471935241612	BKSP	8
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	27081	1471935241782	1471935241914	BKSP	8
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	27082	1471935242195	1471935242288	t	84
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	27083	1471935242382	1471935242469	h	72
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	27084	1471935242479	1471935242603	 	32
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	27085	1471935242753	1471935242945	SHIFT	16
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	27086	1471935242869	1471935242962	L	76
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	27087	1471935242987	1471935243075	i	73
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	27126	1471935243183	1471935243369	n	78
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	27127	1471935243555	1471935243684	d	68
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	27130	1471935243697	1471935243859	a	65
+58	556	Wish me luck with Linda.	Wish me luck with Linda.	27133	1471935243970	1471935244067	.	190
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27287	1471935248136	1471935248295	SHIFT	16
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27289	1471935248237	1471935248358	A	65
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27291	1471935248380	1471935248494	l	76
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27293	1471935248579	1471935248665	o	79
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27296	1471935248649	1471935248829	s	83
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27300	1471935249211	1471935249289	BKSP	8
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27304	1471935249362	1471935249452	BKSP	8
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27309	1471935249534	1471935249657	s	83
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27345	1471935249667	1471935249754	o	79
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27346	1471935249916	1471935250018	,	188
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27347	1471935250085	1471935250190	 	32
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27348	1471935250750	1471935250861	r	82
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27433	1471935250824	1471935250957	e	69
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27436	1471935251062	1471935251164	g	71
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27438	1471935251231	1471935251345	a	65
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27441	1471935251412	1471935251511	i	73
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27443	1471935252035	1471935252159	d	68
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27445	1471935252606	1471935252699	BKSP	8
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27447	1471935252795	1471935252883	BKSP	8
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27448	1471935253297	1471935253444	r	82
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27481	1471935253829	1471935253955	f	70
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27482	1471935254515	1471935254596	BKSP	8
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27484	1471935254725	1471935254828	d	68
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27486	1471935254874	1471935254952	i	73
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27488	1471935255045	1471935255139	n	78
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27490	1471935255152	1471935255266	g	71
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27519	1471935255279	1471935255378	 	32
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27520	1471935255733	1471935255815	t	84
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27521	1471935255905	1471935255991	h	72
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27522	1471935256023	1471935256119	e	69
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27523	1471935256201	1471935256349	 	32
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27542	1471935256751	1471935256865	c	67
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27544	1471935256943	1471935257175	a	65
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27546	1471935257146	1471935257278	s	83
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27548	1471935257342	1471935257441	h	72
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27550	1471935257487	1471935257644	 	32
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27598	1471935258169	1471935258288	f	70
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27600	1471935258346	1471935258421	l	76
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27602	1471935258529	1471935258602	o	79
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27603	1471935258861	1471935258943	w	87
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27604	1471935259313	1471935259439	 	32
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27623	1471935259565	1471935259734	f	70
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27625	1471935259708	1471935259834	r	82
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27627	1471935259853	1471935259938	o	79
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27628	1471935260051	1471935260145	m	77
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27629	1471935260149	1471935260279	 	32
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27722	1471935260509	1471935260850	SHIFT	16
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27723	1471935260783	1471935260907	C	67
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27725	1471935260929	1471935261049	a	65
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27727	1471935261089	1471935261188	n	78
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27729	1471935261318	1471935261459	a	65
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27731	1471935262774	1471935262944	d	68
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27753	1471935262904	1471935263016	e	69
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27755	1471935263294	1471935263384	BKSP	8
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27756	1471935263409	1471935263508	a	65
+58	562	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	27757	1471935263631	1471935263698	.	190

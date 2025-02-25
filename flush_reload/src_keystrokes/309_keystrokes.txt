@@ -1,0 +1,748 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132216	1471938840930	1471938841023		87
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132218	1471938841150	1471938841278		69
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132220	1471938841334	1471938841439		32
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132221	1471938841398	1471938841599		65
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132222	1471938841600	1471938841701		82
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132234	1471938841790	1471938841918		69
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132236	1471938841886	1471938842013		32
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132239	1471938841982	1471938842101		73
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132242	1471938842197	1471938842309		78
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132245	1471938842350	1471938842485		32
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132288	1471938842726	1471938842837		84
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132291	1471938842838	1471938842933		72
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132293	1471938843021	1471938843133		69
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132295	1471938843134	1471938843293		32
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132297	1471938843294	1471938843414		80
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132323	1471938843478	1471938843589		82
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132327	1471938843590	1471938843750		79
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132331	1471938843790	1471938843885		67
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132335	1471938843973	1471938844085		69
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132339	1471938844238	1471938844341		83
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132350	1471938844437	1471938844525		83
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132352	1471938844477	1471938844637		32
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132354	1471938844605	1471938844749		79
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132356	1471938844750	1471938844846		70
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132398	1471938844823	1471938844949		32
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132402	1471938844990	1471938845093		77
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132405	1471938845094	1471938845229		65
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132408	1471938845272	1471938845366		75
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132411	1471938845469	1471938845606		73
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132414	1471938845688	1471938845757		78
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132440	1471938845846	1471938845949		71
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132443	1471938845982	1471938846117		32
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132448	1471938846230	1471938846373		65
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132451	1471938846397	1471938846533		32
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132454	1471938846565	1471938846693		67
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132458	1471938846699	1471938846765		72
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132461	1471938846797	1471938846965		65
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132464	1471938846925	1471938847005		78
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132467	1471938847045	1471938847157		71
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132470	1471938847279	1471938847381		69
+309	2728	We are in the process of making a change.	we are in the process of making a change.	132523	1471938848073	1471938848181		190
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132776	1471938858037	1471938858237	CAPS_LOCK	20
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132779	1471938858605	1471938858725		73
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132782	1471938858805	1471938858965		32
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132785	1471938858869	1471938859013	CAPS_LOCK	20
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132787	1471938859189	1471938859269		87
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132791	1471938859469	1471938859565		73
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132795	1471938859653	1471938859733		76
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132834	1471938859813	1471938859933		76
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132835	1471938859965	1471938860069		32
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132836	1471938860157	1471938860221		84
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132837	1471938860733	1471938860837		82
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132839	1471938860957	1471938861061		89
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132877	1471938861213	1471938861381		32
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132879	1471938861382	1471938861477		84
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132880	1471938861525	1471938861677		79
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132881	1471938861678	1471938861821		32
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132882	1471938861861	1471938862053		65
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132911	1471938862058	1471938862117		77
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132913	1471938862525	1471938862597		8
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132915	1471938862677	1471938862757		8
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132917	1471938863109	1471938863213		77
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132919	1471938863261	1471938863437		65
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132945	1471938863389	1471938863517		75
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132948	1471938863613	1471938863717		69
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132951	1471938863733	1471938863893		32
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132954	1471938863949	1471938864093		83
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132958	1471938864094	1471938864189		85
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	132961	1471938864261	1471938864357		82
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133067	1471938864438	1471938864541		69
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133068	1471938864725	1471938864861		32
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133069	1471938865125	1471938865261	CAPS_LOCK	20
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133072	1471938865221	1471938865325		73
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133073	1471938865357	1471938865525	CAPS_LOCK	20
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133076	1471938866877	1471938867215	SHIFT	16
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133079	1471938867197	1471938867253		222
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133082	1471938868037	1471938868117		8
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133215	1471938869621	1471938869757		222
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133216	1471938870045	1471938870205		32
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133217	1471938870693	1471938870765		8
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133218	1471938871509	1471938871629		8
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133219	1471938872501	1471938872645		222
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133303	1471938873829	1471938873989		190
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133305	1471938874317	1471938874389		8
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133307	1471938875021	1471938875181		188
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133308	1471938875366	1471938875501		32
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133309	1471938875845	1471938875925		8
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133343	1471938876021	1471938876125		8
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133345	1471938877309	1471938877421		77
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133347	1471938877477	1471938877637		32
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133349	1471938877638	1471938877757		73
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133350	1471938877813	1471938877917		78
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133355	1471938877957	1471938878101		32
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133357	1471938878149	1471938878229		71
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133361	1471938878261	1471938878341		79
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133363	1471938878421	1471938878525		79
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133366	1471938878525	1471938878654		68
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133374	1471938878657	1471938878797		32
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133376	1471938878941	1471938879053		83
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133378	1471938879125	1471938879213		72
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133381	1471938879214	1471938879357		65
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133385	1471938879413	1471938879565		80
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133428	1471938879568	1471938879669		69
+309	2741	I will try to make sure I'm in good shape.	I will try to make sure I'm in good shape.	133430	1471938880605	1471938880749		190
+309	2755	Email the consent to me.	Email the consent to me.	133576	1471938885413	1471938885581	CAPS_LOCK	20
+309	2755	Email the consent to me.	Email the consent to me.	133578	1471938885885	1471938885981		69
+309	2755	Email the consent to me.	Email the consent to me.	133580	1471938886085	1471938886277	CAPS_LOCK	20
+309	2755	Email the consent to me.	Email the consent to me.	133582	1471938886461	1471938886541		77
+309	2755	Email the consent to me.	Email the consent to me.	133583	1471938886581	1471938886725		65
+309	2755	Email the consent to me.	Email the consent to me.	133584	1471938886701	1471938886789		73
+309	2755	Email the consent to me.	Email the consent to me.	133585	1471938886877	1471938886989		76
+309	2755	Email the consent to me.	Email the consent to me.	133590	1471938887021	1471938887149		32
+309	2755	Email the consent to me.	Email the consent to me.	133591	1471938887125	1471938887253		84
+309	2755	Email the consent to me.	Email the consent to me.	133592	1471938887253	1471938887333		72
+309	2755	Email the consent to me.	Email the consent to me.	133593	1471938887357	1471938887469		69
+309	2755	Email the consent to me.	Email the consent to me.	133594	1471938887469	1471938887621		32
+309	2755	Email the consent to me.	Email the consent to me.	133605	1471938887589	1471938887709		67
+309	2755	Email the consent to me.	Email the consent to me.	133606	1471938887709	1471938887829		79
+309	2755	Email the consent to me.	Email the consent to me.	133607	1471938887861	1471938887941		78
+309	2755	Email the consent to me.	Email the consent to me.	133608	1471938888101	1471938888237		83
+309	2755	Email the consent to me.	Email the consent to me.	133609	1471938888357	1471938888477		69
+309	2755	Email the consent to me.	Email the consent to me.	133610	1471938888517	1471938888621		78
+309	2755	Email the consent to me.	Email the consent to me.	133621	1471938888624	1471938888717		84
+309	2755	Email the consent to me.	Email the consent to me.	133624	1471938888757	1471938888893		32
+309	2755	Email the consent to me.	Email the consent to me.	133628	1471938888925	1471938889021		84
+309	2755	Email the consent to me.	Email the consent to me.	133631	1471938888997	1471938889133		79
+309	2755	Email the consent to me.	Email the consent to me.	133636	1471938889134	1471938889301		32
+309	2755	Email the consent to me.	Email the consent to me.	133681	1471938889304	1471938889397		77
+309	2755	Email the consent to me.	Email the consent to me.	133684	1471938889373	1471938889477		69
+309	2755	Email the consent to me.	Email the consent to me.	133687	1471938890549	1471938890661		190
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	133967	1471938898741	1471938898916	CAPS_LOCK	20
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	133969	1471938899101	1471938899164		78
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	133971	1471938899237	1471938899444	CAPS_LOCK	20
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	133973	1471938899492	1471938899596		69
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	133975	1471938899796	1471938899964		83
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	133977	1471938900044	1471938900157		84
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	133978	1471938900157	1471938900332		32
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134004	1471938900804	1471938900916		84
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134006	1471938900948	1471938901028		73
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134008	1471938901132	1471938901244		77
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134012	1471938901292	1471938901381		69
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134013	1471938901381	1471938901516		32
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134056	1471938901708	1471938901868		65
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134057	1471938901940	1471938902084		83
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134058	1471938902204	1471938902324		75
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134059	1471938902406	1471938902556		32
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134060	1471938903084	1471938903172		74
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134091	1471938903348	1471938903476		73
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134092	1471938903572	1471938903668		77
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134093	1471938903732	1471938903876		32
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134094	1471938903956	1471938904052		84
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134104	1471938904020	1471938904132		79
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134107	1471938904133	1471938904268		32
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134108	1471938904269	1471938904388		67
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134109	1471938904428	1471938904588		65
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134110	1471938904508	1471938904589		76
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134111	1471938904676	1471938904780		76
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134148	1471938904845	1471938905004		32
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134151	1471938905068	1471938905164		77
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134156	1471938905165	1471938905252		69
+309	2764	Next time ask Jim to call me.	Nest time ask jim to call me.	134160	1471938905876	1471938905988		190
+309	2772	I do not want to repeat.	I do not want to repeat.	134273	1471938909366	1471938909572	CAPS_LOCK	20
+309	2772	I do not want to repeat.	I do not want to repeat.	134275	1471938909620	1471938909732		73
+309	2772	I do not want to repeat.	I do not want to repeat.	134277	1471938909764	1471938909900	CAPS_LOCK	20
+309	2772	I do not want to repeat.	I do not want to repeat.	134279	1471938909844	1471938909996		32
+309	2772	I do not want to repeat.	I do not want to repeat.	134282	1471938910052	1471938910156		68
+309	2772	I do not want to repeat.	I do not want to repeat.	134285	1471938910092	1471938910220		79
+309	2772	I do not want to repeat.	I do not want to repeat.	134288	1471938910316	1471938910428		78
+309	2772	I do not want to repeat.	I do not want to repeat.	134358	1471938910524	1471938910652		32
+309	2772	I do not want to repeat.	I do not want to repeat.	134361	1471938912028	1471938912108		8
+309	2772	I do not want to repeat.	I do not want to repeat.	134364	1471938912196	1471938912300		8
+309	2772	I do not want to repeat.	I do not want to repeat.	134367	1471938912468	1471938912604		32
+309	2772	I do not want to repeat.	I do not want to repeat.	134369	1471938912940	1471938913028		79
+309	2772	I do not want to repeat.	I do not want to repeat.	134392	1471938913468	1471938913540		8
+309	2772	I do not want to repeat.	I do not want to repeat.	134395	1471938913668	1471938913764		78
+309	2772	I do not want to repeat.	I do not want to repeat.	134397	1471938913860	1471938913988		79
+309	2772	I do not want to repeat.	I do not want to repeat.	134400	1471938914084	1471938914197		84
+309	2772	I do not want to repeat.	I do not want to repeat.	134427	1471938914140	1471938914340		32
+309	2772	I do not want to repeat.	I do not want to repeat.	134428	1471938914380	1471938914500		87
+309	2772	I do not want to repeat.	I do not want to repeat.	134429	1471938914596	1471938914756		65
+309	2772	I do not want to repeat.	I do not want to repeat.	134431	1471938914676	1471938914780		78
+309	2772	I do not want to repeat.	I do not want to repeat.	134433	1471938914836	1471938914948		84
+309	2772	I do not want to repeat.	I do not want to repeat.	134435	1471938914949	1471938915084		32
+309	2772	I do not want to repeat.	I do not want to repeat.	134456	1471938915132	1471938915260		84
+309	2772	I do not want to repeat.	I do not want to repeat.	134458	1471938915196	1471938915332		79
+309	2772	I do not want to repeat.	I do not want to repeat.	134461	1471938915333	1471938915468		32
+309	2772	I do not want to repeat.	I do not want to repeat.	134464	1471938915556	1471938915660		82
+309	2772	I do not want to repeat.	I do not want to repeat.	134467	1471938915732	1471938915836		69
+309	2772	I do not want to repeat.	I do not want to repeat.	134519	1471938915852	1471938916004		80
+309	2772	I do not want to repeat.	I do not want to repeat.	134521	1471938916044	1471938916148		69
+309	2772	I do not want to repeat.	I do not want to repeat.	134525	1471938916196	1471938916380		65
+309	2772	I do not want to repeat.	I do not want to repeat.	134529	1471938916381	1471938916485		84
+309	2772	I do not want to repeat.	I do not want to repeat.	134532	1471938917036	1471938917156		190
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134721	1471938920132	1471938920276	CAPS_LOCK	20
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134725	1471938920396	1471938920516		68
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134732	1471938920548	1471938920716	CAPS_LOCK	20
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134739	1471938920612	1471938920717		73
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134748	1471938921948	1471938922084		80
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134752	1471938922380	1471938922492		76
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134756	1471938922596	1471938922732		79
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134798	1471938922820	1471938922916		77
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134799	1471938922940	1471938923100		65
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134800	1471938923364	1471938923484		84
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134801	1471938923644	1471938923788		83
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134802	1471938923844	1471938923980		32
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134842	1471938923916	1471938924100		65
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134843	1471938924124	1471938924220		82
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134845	1471938924308	1471938924404		69
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134847	1471938924364	1471938924516		32
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134848	1471938924580	1471938924732		80
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134849	1471938924764	1471938924876		82
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134906	1471938925724	1471938925820		69
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134910	1471938925940	1471938926060		68
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134914	1471938926092	1471938926220		73
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134916	1471938926340	1471938926476		67
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134918	1471938926500	1471938926644		65
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134928	1471938926676	1471938926796		84
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134931	1471938926797	1471938926884		73
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134934	1471938926948	1471938927052		79
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134936	1471938927053	1471938927180		78
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134938	1471938927276	1471938927316		71
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134993	1471938927756	1471938927852		84
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	134996	1471938928324	1471938928420		8
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135000	1471938928524	1471938928644		8
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135004	1471938929228	1471938929324		8
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135008	1471938929420	1471938929524		8
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135049	1471938929678	1471938929780		8
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135052	1471938930036	1471938930156		78
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135056	1471938930220	1471938930348		71
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135060	1471938930788	1471938930972		32
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135063	1471938930973	1471938931092		84
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135074	1471938931172	1471938931260		72
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135076	1471938931236	1471938931420		65
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135078	1471938931421	1471938931571		84
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135081	1471938931492	1471938931652		32
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135086	1471938931676	1471938931804		84
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135105	1471938931807	1471938931892		72
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135108	1471938931908	1471938932020		69
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135110	1471938931988	1471938932148		32
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135115	1471938932204	1471938932316		69
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135119	1471938932372	1471938932476		77
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135155	1471938932684	1471938932780		66
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135157	1471938933004	1471938933220		65
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135161	1471938933221	1471938933340		82
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135165	1471938933460	1471938933572		71
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135170	1471938933604	1471938933740		79
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135193	1471938933772	1471938933908		32
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135194	1471938934052	1471938934188		87
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135196	1471938934524	1471938934628		79
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135199	1471938934764	1471938934868		76
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135202	1471938934908	1471938935004		76
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135253	1471938935212	1471938935268		8
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135255	1471938935364	1471938935460		8
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135257	1471938935540	1471938935652		8
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135259	1471938936084	1471938936156		73
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135260	1471938936420	1471938936532		76
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135284	1471938936628	1471938936788		32
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135286	1471938936988	1471938937100		82
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135289	1471938937180	1471938937284		69
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135292	1471938937308	1471938937404		77
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135295	1471938937452	1471938937604		65
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135310	1471938937572	1471938937700		73
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135314	1471938937740	1471938937828		78
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135316	1471938937868	1471938937980		32
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135318	1471938937981	1471938938076		84
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135321	1471938938060	1471938938196		73
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135323	1471938938260	1471938938380		78
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135387	1471938938452	1471938938564		32
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135388	1471938939204	1471938939324		70
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135390	1471938939325	1471938939476		79
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135392	1471938939476	1471938939580		82
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135394	1471938939756	1471938939868		67
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135447	1471938939940	1471938940044		69
+309	2780	Diplomats are predicting that the embargo will remain in force.	Diplomats are predicating that the embargo wil remain tin force.	135451	1471938941652	1471938941788		190
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135841	1471938947599	1471938947844		8
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135843	1471938951644	1471938951812	CAPS_LOCK	20
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135845	1471938951812	1471938951932		77
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135848	1471938951932	1471938952116	CAPS_LOCK	20
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135852	1471938952180	1471938952356		79
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135854	1471938953876	1471938953964		77
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135859	1471938955652	1471938955820		188
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135896	1471938956252	1471938956428		32
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135897	1471938956644	1471938956740		72
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135898	1471938956684	1471938956796		84
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135899	1471938956852	1471938957028		65
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135900	1471938957028	1471938957140		84
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135938	1471938957143	1471938957276		32
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135939	1471938957428	1471938957581		83
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135941	1471938957524	1471938957707		79
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135943	1471938957980	1471938958076		78
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135946	1471938958188	1471938958316		68
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135971	1471938958428	1471938958588		83
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135974	1471938958588	1471938958724		32
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135977	1471938958980	1471938959108		70
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135982	1471938959108	1471938959227		73
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	135985	1471938959308	1471938959395		78
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	136022	1471938959948	1471938960052		69
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	136024	1471938960076	1471938960219		32
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	136028	1471938960260	1471938960357		84
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	136032	1471938960300	1471938960435		79
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	136034	1471938960459	1471938960619		32
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	136066	1471938960724	1471938960868		77
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	136068	1471938960868	1471938960971		69
+309	2793	Mom, that sounds fine to me.	Mom, htat sonds fine to me.	136071	1471938961460	1471938961571		190
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136195	1471938964276	1471938964419	CAPS_LOCK	20
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136196	1471938964420	1471938964508		72
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136197	1471938964508	1471938964643	CAPS_LOCK	20
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136198	1471938964603	1471938964739		79
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136200	1471938964708	1471938964795		85
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136205	1471938964876	1471938964995		83
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136211	1471938965091	1471938965212		84
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136223	1471938965215	1471938965380		79
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136228	1471938965380	1471938965483		78
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136234	1471938965539	1471938965708		32
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136240	1471938965708	1471938965827		84
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136293	1471938965788	1471938965915		73
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136297	1471938965979	1471938966084		77
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136303	1471938966084	1471938966204		69
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136309	1471938966204	1471938966371		32
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136314	1471938966532	1471938966715		65
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136318	1471938966739	1471938966836		84
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136326	1471938966839	1471938966979		32
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136329	1471938966980	1471938967083		84
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136332	1471938967059	1471938967163		72
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136333	1471938967195	1471938967299		69
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136400	1471938967252	1471938967403		32
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136402	1471938967476	1471938967627	CAPS_LOCK	20
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136407	1471938967628	1471938967707		72
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136411	1471938967755	1471938967915	CAPS_LOCK	20
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136413	1471938968387	1471938968467		89
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136415	1471938968715	1471938968891		65
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136417	1471938968972	1471938969028		84
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136473	1471938969675	1471938969779		8
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136475	1471938970132	1471938970219		84
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136477	1471938970459	1471938970643		32
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136479	1471938970732	1471938970907	CAPS_LOCK	20
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136482	1471938970931	1471938971043		82
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136487	1471938970972	1471938971235	CAPS_LOCK	20
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136491	1471938971403	1471938971539		69
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136538	1471938971795	1471938971939		71
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136540	1471938972059	1471938972155		69
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136542	1471938972179	1471938972259		78
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136544	1471938972867	1471938973003		67
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136546	1471938973483	1471938973587		89
+309	2809	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	136592	1471938974364	1471938974507		190
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136794	1471938977435	1471938977571	CAPS_LOCK	20
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136799	1471938979275	1471938979371		87
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136805	1471938979467	1471938979603	CAPS_LOCK	20
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136808	1471938979667	1471938979763		69
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136811	1471938979819	1471938979947		32
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136813	1471938980187	1471938980307		87
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136816	1471938980435	1471938980531		73
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136840	1471938980627	1471938980707		76
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136843	1471938980795	1471938980907		76
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136848	1471938980908	1471938980987		32
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136852	1471938981219	1471938981347		65
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136856	1471938981451	1471938981563		68
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136895	1471938981667	1471938981739		68
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136897	1471938981899	1471938981971		82
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136898	1471938982035	1471938982139		69
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136900	1471938982251	1471938982347		83
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136902	1471938982435	1471938982563		83
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136941	1471938982492	1471938982643		32
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136942	1471938982787	1471938982899		84
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136944	1471938982900	1471938983051		79
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136949	1471938983171	1471938983251		77
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136953	1471938983371	1471938983491		79
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136957	1471938983539	1471938983635		82
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136992	1471938983731	1471938983835		82
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136994	1471938983955	1471938984115		87
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	136999	1471938984579	1471938984635		8
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	137003	1471938984819	1471938984907		79
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	137008	1471938984963	1471938985091		87
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	137016	1471938985147	1471938985299		32
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	137017	1471938985443	1471938985595		87
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	137018	1471938985555	1471938985675		73
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	137019	1471938985691	1471938985811		84
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	137060	1471938985787	1471938985875		72
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	137065	1471938985971	1471938986083		32
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	137073	1471938986147	1471938986283		83
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	137079	1471938986347	1471938986435		84
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	137084	1471938986483	1471938986659		65
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	137119	1471938986579	1471938986662		78
+309	2823	We will address tomorrow with Stan.	We will address tomorrow with stan.	137120	1471938987176	1471938987315		190
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137225	1471938989971	1471938990115	CAPS_LOCK	20
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137227	1471938990219	1471938990355		68
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137229	1471938990379	1471938990587	CAPS_LOCK	20
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137231	1471938990547	1471938990667		79
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137235	1471938990771	1471938990931		32
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137238	1471938990932	1471938991027		78
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137242	1471938991091	1471938991251		79
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137258	1471938991254	1471938991419		84
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137260	1471938991515	1471938991683		32
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137264	1471938991715	1471938991851		83
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137266	1471938991931	1471938992035		69
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137293	1471938991987	1471938992099		78
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137295	1471938992507	1471938992627		68
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137297	1471938992628	1471938992811		32
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137299	1471938992812	1471938992939		83
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137301	1471938993059	1471938993147		77
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137352	1471938993107	1471938993275		65
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137355	1471938993276	1471938993339		76
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137359	1471938993427	1471938993507		76
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137363	1471938994323	1471938994499		188
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137369	1471938994539	1471938994683		32
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137377	1471938994787	1471938994859		85
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137404	1471938994979	1471938995043		78
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137405	1471938995139	1471938995259		83
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137408	1471938995531	1471938995627		85
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137411	1471938995715	1471938995867		83
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137415	1471938995987	1471938996075		79
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137484	1471938996859	1471938996931		8
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137489	1471938997427	1471938997547		80
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137494	1471938997667	1471938997787		69
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137499	1471938997899	1471938998035		67
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137504	1471938998155	1471938998235		84
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137563	1471938998203	1471938998339		73
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137565	1471938998379	1471938998491		78
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137568	1471938998571	1471938998723		32
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137570	1471938999155	1471938999291		67
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137574	1471938999292	1471938999379		72
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137578	1471938999867	1471938999963		73
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137609	1471939000059	1471939000187		76
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137610	1471939000283	1471939000395		68
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137611	1471939000531	1471939000635		82
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137612	1471939000707	1471939000827		69
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137613	1471939000851	1471939000963		78
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137636	1471939001035	1471939001203		32
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137639	1471939001355	1471939001523		32
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137641	1471939001579	1471939001691		84
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137645	1471939001692	1471939001843		79
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137650	1471939001843	1471939001987		32
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137674	1471939002043	1471939002203		67
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137678	1471939002204	1471939002283		72
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137681	1471939002371	1471939002491		69
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137684	1471939002651	1471939002819		67
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137708	1471939002739	1471939002899		75
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137709	1471939002915	1471939003099		32
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137710	1471939003211	1471939003355		79
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137711	1471939003395	1471939003451		78
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137712	1471939003531	1471939003683		32
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137714	1471939003684	1471939003740		77
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137735	1471939003883	1471939004003		89
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137737	1471939004091	1471939004251		32
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137738	1471939004307	1471939004443		80
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137739	1471939004444	1471939004555		82
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137741	1471939004571	1471939004715		79
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137757	1471939004763	1471939004883		71
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137758	1471939005107	1471939005211		82
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137759	1471939005283	1471939005387		69
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137760	1471939005491	1471939005595		83
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137761	1471939005675	1471939005803		83
+309	2831	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspectin children  to check on my progress.	137780	1471939006507	1471939006587		190
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	137896	1471939009259	1471939009411	CAPS_LOCK	20
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	137899	1471939009412	1471939009491		78
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	137901	1471939009491	1471939009635	CAPS_LOCK	20
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	137903	1471939009603	1471939009755		79
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	137907	1471939009779	1471939009883		84
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	137911	1471939009915	1471939010083		73
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	137914	1471939010139	1471939010251		78
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	137936	1471939010347	1471939010491		71
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	137937	1471939010492	1471939010651		32
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	137938	1471939010715	1471939010795		66
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	137939	1471939010931	1471939011011		85
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	137940	1471939011067	1471939011163		89
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	137990	1471939011475	1471939011555		32
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	137994	1471939011739	1471939011819		8
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	137999	1471939011915	1471939012027		8
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138003	1471939012251	1471939012347		89
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138077	1471939012291	1471939012349		84
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138079	1471939012971	1471939013155		32
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138081	1471939013387	1471939013475		79
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138083	1471939014059	1471939014179		8
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138085	1471939014611	1471939014731		71
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138087	1471939014811	1471939014915		79
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138122	1471939014987	1471939015091		79
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138124	1471939015147	1471939015283		68
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138126	1471939015299	1471939015475		32
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138128	1471939015475	1471939015595		65
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138130	1471939016059	1471939016139		8
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138175	1471939016267	1471939016339		78
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138179	1471939016491	1471939016627		69
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138182	1471939016707	1471939016819		87
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138184	1471939016931	1471939017067		83
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138185	1471939017067	1471939017219		32
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138203	1471939017291	1471939017435		69
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138204	1471939017531	1471939017675		86
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138205	1471939017755	1471939017875		69
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138207	1471939017963	1471939018051		82
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138209	1471939018387	1471939018491		89
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138267	1471939018859	1471939018963		68
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138271	1471939019027	1471939019179		65
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138275	1471939019179	1471939019267		89
+309	2845	Nothing but good news everyday.	Noting buyt good news everyday.	138282	1471939019779	1471939019907		190
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138426	1471939022187	1471939022331	CAPS_LOCK	20
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138428	1471939022571	1471939022843	CAPS_LOCK	20
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138432	1471939023051	1471939023267	CAPS_LOCK	20
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138435	1471939023387	1471939023499		84
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138439	1471939023515	1471939023683	CAPS_LOCK	20
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138443	1471939023707	1471939023795		72
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138447	1471939023843	1471939023947		69
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138451	1471939023947	1471939024067		32
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138456	1471939024099	1471939024219		67
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138506	1471939024187	1471939024299		73
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138509	1471939024555	1471939024659		84
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138510	1471939025155	1471939025259		89
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138511	1471939025339	1471939025451		32
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138512	1471939025474	1471939025595		80
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138513	1471939025739	1471939025883		76
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138531	1471939025885	1471939026019		65
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138537	1471939026051	1471939026171		89
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138542	1471939026323	1471939026451		83
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138546	1471939026451	1471939026587		32
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138549	1471939026651	1471939026731		72
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138570	1471939026795	1471939026930		79
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138571	1471939026891	1471939027027		83
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138572	1471939027083	1471939027178		84
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138573	1471939027139	1471939027314		32
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138574	1471939027354	1471939027475		84
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138595	1471939027419	1471939027563		79
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138598	1471939027563	1471939027683		32
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138602	1471939027683	1471939027851		65
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138607	1471939027882	1471939028034		32
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138612	1471939028331	1471939028443		86
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138617	1471939028443	1471939028571		73
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138668	1471939028574	1471939028747		83
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138669	1471939028859	1471939028971		73
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138670	1471939029963	1471939030122		84
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138671	1471939030179	1471939030339		32
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138672	1471939030395	1471939030467		66
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138712	1471939030611	1471939030739		89
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138715	1471939030835	1471939030986		32
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138718	1471939030963	1471939031058		85
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138722	1471939031090	1471939031227		83
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138724	1471939031779	1471939031866		8
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138829	1471939032011	1471939032106		8
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138831	1471939032299	1471939032482	CAPS_LOCK	20
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138833	1471939032506	1471939032602		85
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138837	1471939033275	1471939033434	CAPS_LOCK	20
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138840	1471939033835	1471939033978	CAPS_LOCK	20
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138844	1471939034107	1471939034234		83
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138847	1471939034291	1471939034426		32
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138848	1471939035034	1471939035138		80
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138866	1471939035235	1471939035355		82
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138867	1471939035451	1471939035570		73
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138868	1471939035811	1471939035876		8
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138869	1471939035970	1471939036050		8
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138871	1471939036147	1471939036242		8
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138935	1471939036339	1471939036522	CAPS_LOCK	20
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138936	1471939036459	1471939036610		80
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138938	1471939036923	1471939037034		82
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138940	1471939037122	1471939037254		69
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138945	1471939038147	1471939038274		83
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138948	1471939038275	1471939038402		73
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138960	1471939038442	1471939038554		68
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138962	1471939038650	1471939038762		69
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138963	1471939038738	1471939038842		78
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138964	1471939038899	1471939038986		84
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138965	1471939038987	1471939039122		32
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138993	1471939039594	1471939039738	CAPS_LOCK	20
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138995	1471939039698	1471939039778		66
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138997	1471939039818	1471939039970	CAPS_LOCK	20
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138998	1471939039938	1471939040050		73
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	138999	1471939040114	1471939040210		76
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	139000	1471939040290	1471939040426		76
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	139001	1471939040515	1471939040666		32
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	139023	1471939040610	1471939040746	CAPS_LOCK	20
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	139024	1471939040826	1471939041010		67
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	139025	1471939040922	1471939041106		76
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	139026	1471939040978	1471939041186	CAPS_LOCK	20
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	139028	1471939041162	1471939041298		73
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	139030	1471939041402	1471939041491		78
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	139036	1471939041642	1471939041730		84
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	139068	1471939041733	1471939041874		79
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	139070	1471939041906	1471939041994		78
+309	2853	The city plays host to a visit by US president Bill Clinton.	The city plays host to a visit by US president Bill CLinton.	139072	1471939042482	1471939042626		190
+309	2871	Need anything from Target?	Need anyyhing form Target?	139894	1471939060715	1471939060970		8
+309	2871	Need anything from Target?	Need anyyhing form Target?	139897	1471939064218	1471939064386	CAPS_LOCK	20
+309	2871	Need anything from Target?	Need anyyhing form Target?	139905	1471939064474	1471939064618	CAPS_LOCK	20
+309	2871	Need anything from Target?	Need anyyhing form Target?	139900	1471939064514	1471939064570		78
+309	2871	Need anything from Target?	Need anyyhing form Target?	139908	1471939064730	1471939064810		69
+309	2871	Need anything from Target?	Need anyyhing form Target?	139910	1471939064914	1471939065018		69
+309	2871	Need anything from Target?	Need anyyhing form Target?	139913	1471939065490	1471939065570		8
+309	2871	Need anything from Target?	Need anyyhing form Target?	139973	1471939065650	1471939065738		8
+309	2871	Need anything from Target?	Need anyyhing form Target?	139976	1471939065818	1471939065946		8
+309	2871	Need anything from Target?	Need anyyhing form Target?	139980	1471939066514	1471939066658	CAPS_LOCK	20
+309	2871	Need anything from Target?	Need anyyhing form Target?	139982	1471939066730	1471939066794		78
+309	2871	Need anything from Target?	Need anyyhing form Target?	139985	1471939066754	1471939066906	CAPS_LOCK	20
+309	2871	Need anything from Target?	Need anyyhing form Target?	139988	1471939066994	1471939067098		69
+309	2871	Need anything from Target?	Need anyyhing form Target?	139990	1471939067418	1471939067498		69
+309	2871	Need anything from Target?	Need anyyhing form Target?	140001	1471939067618	1471939067730		68
+309	2871	Need anything from Target?	Need anyyhing form Target?	140002	1471939067786	1471939067898		32
+309	2871	Need anything from Target?	Need anyyhing form Target?	140004	1471939067962	1471939068114		65
+309	2871	Need anything from Target?	Need anyyhing form Target?	140008	1471939068115	1471939068162		78
+309	2871	Need anything from Target?	Need anyyhing form Target?	140011	1471939068354	1471939068458		89
+309	2871	Need anything from Target?	Need anyyhing form Target?	140061	1471939068650	1471939068746		89
+309	2871	Need anything from Target?	Need anyyhing form Target?	140065	1471939068762	1471939068866		72
+309	2871	Need anything from Target?	Need anyyhing form Target?	140068	1471939068906	1471939069018		73
+309	2871	Need anything from Target?	Need anyyhing form Target?	140072	1471939069058	1471939069138		78
+309	2871	Need anything from Target?	Need anyyhing form Target?	140075	1471939069754	1471939069858		71
+309	2871	Need anything from Target?	Need anyyhing form Target?	140092	1471939069916	1471939070042		32
+309	2871	Need anything from Target?	Need anyyhing form Target?	140093	1471939070258	1471939070370		70
+309	2871	Need anything from Target?	Need anyyhing form Target?	140094	1471939070394	1471939070546		79
+309	2871	Need anything from Target?	Need anyyhing form Target?	140095	1471939070506	1471939070618		82
+309	2871	Need anything from Target?	Need anyyhing form Target?	140097	1471939070619	1471939070706		77
+309	2871	Need anything from Target?	Need anyyhing form Target?	140159	1471939070786	1471939070938		32
+309	2871	Need anything from Target?	Need anyyhing form Target?	140161	1471939071354	1471939071498	CAPS_LOCK	20
+309	2871	Need anything from Target?	Need anyyhing form Target?	140162	1471939071538	1471939071698		84
+309	2871	Need anything from Target?	Need anyyhing form Target?	140163	1471939071666	1471939071818	CAPS_LOCK	20
+309	2871	Need anything from Target?	Need anyyhing form Target?	140164	1471939071946	1471939072098		65
+309	2871	Need anything from Target?	Need anyyhing form Target?	140165	1471939072138	1471939072242		82
+309	2871	Need anything from Target?	Need anyyhing form Target?	140166	1471939072354	1471939072466		71
+309	2871	Need anything from Target?	Need anyyhing form Target?	140248	1471939072546	1471939072650		69
+309	2871	Need anything from Target?	Need anyyhing form Target?	140253	1471939072754	1471939072850		84
+309	2871	Need anything from Target?	Need anyyhing form Target?	140259	1471939074882	1471939075250	SHIFT	16
+309	2871	Need anything from Target?	Need anyyhing form Target?	140266	1471939075194	1471939075266		191
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140364	1471939079442	1471939079594	CAPS_LOCK	20
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140365	1471939079714	1471939079818		83
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140366	1471939079898	1471939080058	CAPS_LOCK	20
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140367	1471939080010	1471939080130		73
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140368	1471939080186	1471939080266		78
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140369	1471939080267	1471939080370		67
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140372	1471939080450	1471939080562		69
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140426	1471939080594	1471939080762		32
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140430	1471939080762	1471939080906		87
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140434	1471939081082	1471939081218		69
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140439	1471939081826	1471939081986		222
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140443	1471939082594	1471939082698		82
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140484	1471939082786	1471939082866		69
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140486	1471939082914	1471939083114		32
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140487	1471939083602	1471939083738		79
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140488	1471939083810	1471939083954		75
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140489	1471939084018	1471939084138		32
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140514	1471939084141	1471939084282		79
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140517	1471939084322	1471939084410		78
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140519	1471939084466	1471939084610		32
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140522	1471939084810	1471939084954		86
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140524	1471939085042	1471939085170		79
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140552	1471939085394	1471939085530		76
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140555	1471939085530	1471939085586		85
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140556	1471939085738	1471939085826		77
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140557	1471939085930	1471939086050		69
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140559	1471939086154	1471939086314		83
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140582	1471939086370	1471939086586		32
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140584	1471939086586	1471939086690		78
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140586	1471939086754	1471939086874		79
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140588	1471939086818	1471939086994		87
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140591	1471939087034	1471939087130		32
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140652	1471939087562	1471939087650		8
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140656	1471939088162	1471939088210		222
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140660	1471939088626	1471939088818		32
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140663	1471939089058	1471939089210		73
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140665	1471939089210	1471939089330		84
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140688	1471939089778	1471939089906		222
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140690	1471939090050	1471939090218		83
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140692	1471939090218	1471939090394		32
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140695	1471939090474	1471939090610		71
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140698	1471939090610	1471939090754		79
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140721	1471939090794	1471939090890		84
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140722	1471939091394	1471939091490		8
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140725	1471939091650	1471939091803		32
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140728	1471939091826	1471939091930		84
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140772	1471939091954	1471939092090		79
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140775	1471939092090	1471939092266		32
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140777	1471939092306	1471939092394		66
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140778	1471939092330	1471939092394		78
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140779	1471939092954	1471939093058		8
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140821	1471939093130	1471939093234		69
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140822	1471939093258	1471939093402		32
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140823	1471939094282	1471939094402		80
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140825	1471939094602	1471939094714		82
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140828	1471939094850	1471939094986		73
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140840	1471939095186	1471939095322		67
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140841	1471939095282	1471939095401		73
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140843	1471939095442	1471939095546		78
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140844	1471939095546	1471939095682		71
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140845	1471939095682	1471939095826		32
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140868	1471939095962	1471939096138		83
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140870	1471939096138	1471939096274		79
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140874	1471939096362	1471939096402		77
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140876	1471939096482	1471939096610		69
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140879	1471939096714	1471939096817		72
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140920	1471939097282	1471939097362		8
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140922	1471939097434	1471939097570		87
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140926	1471939097634	1471939097714		72
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140929	1471939098178	1471939098306		69
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	140931	1471939098402	1471939098498		82
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	141071	1471939098578	1471939098689		69
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	141072	1471939100794	1471939100953		188
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	141073	1471939101394	1471939101449		8
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	141075	1471939102170	1471939102329		188
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	141077	1471939102778	1471939102865		8
+309	2892	Since we're ok on volumes now, it's got to be pricing somewhere.	Since we're ok on volumes now' it's got to be pricing somewhere.	141109	1471939104402	1471939104537		190
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141211	1471939107161	1471939107297		87
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141212	1471939107345	1471939107409		72
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141214	1471939107529	1471939107633		79
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141217	1471939107929	1471939108105		32
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141222	1471939108137	1471939108273		83
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141313	1471939108913	1471939108953		85
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141316	1471939109497	1471939109561		8
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141319	1471939109745	1471939109849		72
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141320	1471939110193	1471939110321		85
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141322	1471939110425	1471939110577		76
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141373	1471939111210	1471939111273		8
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141375	1471939111585	1471939111673		8
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141377	1471939112105	1471939112274		79
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141380	1471939112274	1471939112377		85
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141382	1471939112457	1471939112625		76
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141396	1471939112713	1471939112866		68
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141397	1471939112866	1471939112977		32
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141398	1471939113161	1471939113305	CAPS_LOCK	20
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141399	1471939113285	1471939113425		73
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141400	1471939113385	1471939113529	CAPS_LOCK	20
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141401	1471939113497	1471939113665		32
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141402	1471939113666	1471939113817		67
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141418	1471939113769	1471939113913		79
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141419	1471939113953	1471939114057		78
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141420	1471939114153	1471939114273		84
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141424	1471939114329	1471939114505		65
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141428	1471939114481	1471939114633		67
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141433	1471939114769	1471939114865		84
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141469	1471939114793	1471939114969		32
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141471	1471939115049	1471939115145		82
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141473	1471939115209	1471939115329		69
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141475	1471939115425	1471939115545		71
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141479	1471939115585	1471939115865		65
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141484	1471939115897	1471939116025		82
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141518	1471939116185	1471939116305		68
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141519	1471939116377	1471939116521		73
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141520	1471939116561	1471939116641		78
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141521	1471939116697	1471939116833		71
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141554	1471939116737	1471939116881		32
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141556	1471939116993	1471939117121		83
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141559	1471939117185	1471939117305		69
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141563	1471939117465	1471939117577		86
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141566	1471939118105	1471939118241		8
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141612	1471939118721	1471939118849		69
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141615	1471939118929	1471939119057		82
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141619	1471939119361	1471939119529		65
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141623	1471939120257	1471939120361		78
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141627	1471939120441	1471939120553		67
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141709	1471939120649	1471939120737		69
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141712	1471939121593	1471939121937	SHIFT	16
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141714	1471939121985	1471939122057		191
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141717	1471939123097	1471939123169		8
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141718	1471939123546	1471939124025	SHIFT	16
+309	2913	Who should I contact regarding severance?	who should I contact regarding severance?	141719	1471939123945	1471939124057		191
