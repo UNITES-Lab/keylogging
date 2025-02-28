@@ -64,9 +64,15 @@ def graph_keystrokes(data):
         # Fast typers hold time: 104, std 17
         # Combined: 225, std: 21,
         # 2 std down: 225-42: 183
-        if x - prev_stroke_time > 70:
-            filtered_keystroke_ff.append(x)
-            prev_stroke_time = x
+
+
+        #Hard coded filter
+        # if x - prev_stroke_time > 70:
+        #     filtered_keystroke_ff.append(x)
+        #     prev_stroke_time = x
+        ms_conv = x//1000000
+        while(x//1000000 == ms_conv):
+            filtered_keystroke_ff[]
 
     values_kp = []
     values_kr = []

@@ -220,6 +220,8 @@ void measure_keystroke_without_slice(int threshold) {
   for (int i = 0; i < 4; i++) {
     printf("%lu\n", total_strokes[i]);
   }
+  printf("\nloaded time: %llu\n", (start_time/3400000));    //translate cycles to ms
+
 }
 
 int main() {

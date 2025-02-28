@@ -1,4 +1,7 @@
 import numpy as np
+from scipy import signal
+from dtaidistance import dtw
+from dtaidistance import dtw_visualisation
 import matplotlib.pyplot as plt
 import os
 import struct
@@ -63,7 +66,6 @@ def graph(input_file, attack_type, output_file, normalize):
         sorted_timestamps[1:] = sorted_timestamps[1:] - sorted_timestamps[1]
     for v in sorted_timestamps:
         counts[v] += 1
-    
     strokes = [i for i in counts if i >= 250]
     print("valid detections: " + str(len(strokes)))
 
@@ -77,14 +79,118 @@ def graph(input_file, attack_type, output_file, normalize):
 
     return values[0]
 
+def stat(input_file, truth_file, normalize):
+    values = np.fromfile(input_file, dtype=np.uint64) 
+    truth_values = np.fromfile(truth_file, dtype=np.uint64) 
+    CPU_FREQ = 3.4
+    
+    timestamps = ((values-values[0])/ (3.4 * 1000000)).astype(int)
+    sorted_timestamps = np.sort(timestamps)
+
+    truths = ((truth_values-truth_values[0])/ (3.4 * 1000000)).astype(int)
+    sorted_truths = np.sort(truths)
+
+    counts = np.zeros(12000, dtype=int)
+    accurates = []
+    grouped = []
+    filtered = []
+
+   
+    
+    for v in sorted_timestamps:
+        counts[v] += 1
+
+    filtered = np.where(counts >= 75)[0]         #change this value to adjust threshhold per noise, default is 75 counts
+    
+
+    #grouping function
+    prev = filtered[0]
+    grouped.append(filtered[0])
+    for v in filtered:
+        if(v-prev > 50):          #change this value to adjust threshhold, default is 10ms
+            grouped.append(v)
+        prev = v
+
+
+
+    #determining normalization factor, find mathcing interval pattern, consider using DTW or measureing the difference in start time in two modules, latter is probably better
+
+    #Kernel module inserted at: 1740674374713510339 ns, Keylogger started at: 1740674374726586827 ns diff = -13076480ns/1000000 = 13.076 ms
+
+    if normalize:
+        grouped = np.array(grouped)                           
+        grouped[1:] = grouped[1:] - 2500        #subtract first keystroke time
+        sorted_truths[1:] = sorted_truths[1:] - sorted_truths[1]
+
+    diff_pp = np.diff(grouped)
+    diff_truth = np.diff(sorted_truths) 
+
+
+    #accuracy calculation with +-
+    prev = 0
+    for k in diff_truth:
+        for v in diff_pp[7 + prev:10 + prev]:
+            prev += 1
+            if (abs(k-v) < 10):            #change this value to adjust threshhold, default is +-5ms
+                accurates.append(v)
+                break
+
+
+    
+
+    print(diff_pp[4:])
+    print(diff_truth)
+    print(accurates)
+
+    # #accuracy calculation with +-
+    # for k in diff_truth:
+    #     for v in diff_pp:
+    #         if (abs(k-v) < 5):            #change this value to adjust threshhold, default is +-5ms
+    #             accurates.append(v)
+    #             continue
+    # print(sorted_truths)
+    # print(len(sorted_truths))
+    # print(accurates)
+
+    #interval calculation
+    
+    print("Accuracy: " + str((len(accurates)/len(diff_pp))))
+    print("F-value: " + str(np.var(diff_pp[4:])/np.var(diff_truth)))
+    # print("Correlation Coefficient: " + str(np.corrcoef(diff_truth, diff_pp[25:])[0, 1]))
+    print("DTW Distance: ", dtw.distance(diff_truth, diff_pp[4:]))
+    dtw_visualisation.plot_warping(diff_truth, diff_pp[4:], dtw.warping_path(diff_truth, diff_pp[4:]), filename="warp.png")
+
+
+    corr = signal.correlate(diff_truth, diff_pp, mode='valid')
+
+    print("Best matching starting index:", np.argmax(corr))
+    
+    clock = np.arange(64, len(diff_pp), 128)
+    fig, (ax_orig, ax_noise, ax_corr) = plt.subplots(3, 1, sharex=True)
+    ax_orig.plot(diff_truth, 'b-')
+    ax_orig.plot(np.arange(len(diff_truth)), diff_truth, 'ro')
+    ax_orig.set_title('Original signal')
+    ax_noise.plot(diff_pp[1:])
+    ax_noise.set_title('Signal with noise')
+    ax_corr.plot(corr, 'b-')
+    ax_corr.plot(np.arange(len(diff_truth)), diff_truth, 'ro')
+    ax_corr.axhline(0.5, ls=':')
+    ax_corr.set_title('Cross-correlated with rectangular pulse')
+    ax_orig.margins(0, 0.1)
+    fig.tight_layout()
+    plt.title(" Cross Correlation Plot")
+    plt.savefig("correlation.png")
+
+    # dtw_visualisation.plot_warpingpaths(diff_truth, diff_pp[4:], dtw.warping_paths(diff_truth, diff_pp[4:]), dtw.warping_path(diff_truth, diff_pp[4:]), filename="warp3.png")
     
 if __name__ == "__main__":
     graph("pp_keystrokes.bin", "Prime+Probe", "pp_keystrokes.png", False)
     # for i in range(4):
     #     graph("pp_keystrokes_"+str(i) + ".bin", "Prime+Probe", "pp_keystrokes_"+str(i), False);
-    output = os.popen("sudo dmesg -c").read().strip().split("\n")
+    output = os.popen("sudo dmesg").read().strip().split("\n")
     data = sort_output(output)
     formatted_list = [data["start_time"]] + data["keypresses"] # keystroke time reported from spy is relative to start-time 
     flush_list_to_binary(formatted_list, "kl_keystrokes.bin")
     graph("kl_keystrokes.bin", "Keylogger", "kl_keystrokes.png", True) 
+    stat("pp_keystrokes.bin","kl_keystrokes.bin", True)
 

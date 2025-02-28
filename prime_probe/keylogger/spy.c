@@ -16,7 +16,7 @@ static u64 last_press = 0;
 
 #define LINE_SIZE 64
 
-#define FUNCTION_ADDRESS 0xffffffff90c8eac0
+#define FUNCTION_ADDRESS 0xffffffffa4506b20
 
 u64 fenced_rdtsc(void);
 void mfence(void);
