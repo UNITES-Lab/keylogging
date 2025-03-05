@@ -311,50 +311,35 @@ def simulate_json():         #TODO: account for gaps between sentences
         
     
  
-    for line1 in lines[1:]:
+    for line1 in lines:
         dbg.append(time.time())
 
         key = line1["keystrokes"].strip("<>").split("><")
-
-
-        
-        # Convert the "intervals" string (comma-separated) to a list of floats.
         interval = [float(x) for x in line1["intervals"].split(",") if x]
         
 
-        start_time = time.time()
-
-        pressTime = interval[0]
-        nextPressTime = interval[1]
-        pressedChar = key[0]
+        start_time = time.time_ns()
+                
         for interval, pressedChar in zip(interval, key):
             dbg.append(time.time())
             
-            if(time.time()-start_time > 200):
-                break
+            
 
-            parts1 = line1.strip().split("\t")
-
-            #pull values
-            pressedChar = parts1[-2]
-            pressTime, nextPressTime = float(parts1[-4]), float(parts2[-4])
-            releaseTime = float(parts1[-3])
-            interval = float(nextPressTime - pressTime)
-            curSection_id = parts1[2]
-            nextSection_id = parts2[2]
-
-            if(nextSection_id != curSection_id):
-                interval = 1000
-
-            dbg.append(time.time())
             device.emit_click(KEY_MAP[pressedChar])
-            dbg.append(time.time())
-            timing.append({
-                "key-char": pressedChar,
-                "keystroke-time": time.time_ns(),
-                "section-id": curSection_id
-            })
             time.sleep(interval / 1000)
+            timing.append(
+                {
+                "start_time": time.time_ns(),
+                "section-id": line1["keystrokes"]
+                "participant_id": line1["participant_id"],
+                "test_section_id": line1["test_section_id"],
+                "input_string": line1["input_string"],
+                "sentence_id": Line1["sentence_id"]
+                }
+            )
+        time.sleep(1)
+        
+        
 
 
 def simulateTxt():         #TODO: account for gaps between sentences
