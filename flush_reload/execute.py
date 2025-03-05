@@ -302,7 +302,62 @@ def test():
         #     }
         # ]
 
-def simulate():         #TODO: account for gaps between sentences
+def simulate_json():         #TODO: account for gaps between sentences
+    device = uinput.Device(KEY_MAP.values())
+    time.sleep(0.3)
+
+    with open("/home/dohhyun/Keystrokes/json/across_participant_across_sentence_test.jsonl", 'r', encoding='utf-8') as f:
+        lines = [json.loads(line.strip()) for line in f if line.strip()]
+        
+    
+ 
+    for line1 in lines[1:]:
+        dbg.append(time.time())
+
+        key = line1["keystrokes"].strip("<>").split("><")
+
+
+        
+        # Convert the "intervals" string (comma-separated) to a list of floats.
+        interval = [float(x) for x in line1["intervals"].split(",") if x]
+        
+
+        start_time = time.time()
+
+        pressTime = interval[0]
+        nextPressTime = interval[1]
+        pressedChar = key[0]
+        for interval, pressedChar in zip(interval, key):
+            dbg.append(time.time())
+            
+            if(time.time()-start_time > 200):
+                break
+
+            parts1 = line1.strip().split("\t")
+
+            #pull values
+            pressedChar = parts1[-2]
+            pressTime, nextPressTime = float(parts1[-4]), float(parts2[-4])
+            releaseTime = float(parts1[-3])
+            interval = float(nextPressTime - pressTime)
+            curSection_id = parts1[2]
+            nextSection_id = parts2[2]
+
+            if(nextSection_id != curSection_id):
+                interval = 1000
+
+            dbg.append(time.time())
+            device.emit_click(KEY_MAP[pressedChar])
+            dbg.append(time.time())
+            timing.append({
+                "key-char": pressedChar,
+                "keystroke-time": time.time_ns(),
+                "section-id": curSection_id
+            })
+            time.sleep(interval / 1000)
+
+
+def simulateTxt():         #TODO: account for gaps between sentences
     device = uinput.Device(KEY_MAP.values())
     time.sleep(0.3)
 
@@ -412,7 +467,7 @@ if __name__ == "__main__":
             print("sudo insmod spy.ko")
             print("Please start typing into any window: ")
             p = mp.Process(target=install_mod)
-            q = mp.Process(target=simulate)
+            q = mp.Process(target=simulate_json)
             p.start()
             q.start()
             p.join()
