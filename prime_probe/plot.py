@@ -63,7 +63,7 @@ def graph(input_file, attack_type, output_file, normalize):
     # plotting histogram with 10 ms intervals over 10s
     counts = np.zeros(12000, dtype=int)
     if normalize:
-        sorted_timestamps[1:] = sorted_timestamps[1:] - sorted_timestamps[1]
+        sorted_timestamps = sorted_timestamps - sorted_timestamps[1]
     for v in sorted_timestamps:
         counts[v] += 1
     strokes = [i for i in counts if i >= 250]
@@ -100,7 +100,7 @@ def stat(input_file, truth_file, normalize):
     for v in sorted_timestamps:
         counts[v] += 1
 
-    filtered = np.where(counts >= 75)[0]         #change this value to adjust threshhold per noise, default is 75 counts
+    filtered = np.where(counts >= 60)[0]         #change this value to adjust threshhold per noise, default is 75 counts
     
 
     #grouping function
@@ -119,8 +119,8 @@ def stat(input_file, truth_file, normalize):
 
     if normalize:
         grouped = np.array(grouped)                           
-        grouped[1:] = grouped[1:] - 2500        #subtract first keystroke time
-        sorted_truths[1:] = sorted_truths[1:] - sorted_truths[1]
+        grouped = grouped - 2500        #subtract first keystroke time
+        sorted_truths = sorted_truths - sorted_truths[1]
 
     diff_pp = np.diff(grouped)
     diff_truth = np.diff(sorted_truths) 
@@ -131,7 +131,7 @@ def stat(input_file, truth_file, normalize):
     for k in diff_truth:
         for v in diff_pp[7 + prev:10 + prev]:
             prev += 1
-            if (abs(k-v) < 10):            #change this value to adjust threshhold, default is +-5ms
+            if (abs(k-v) < 5):            #change this value to adjust threshhold, default is +-5ms
                 accurates.append(v)
                 break
 
@@ -157,20 +157,25 @@ def stat(input_file, truth_file, normalize):
     print("Accuracy: " + str((len(accurates)/len(diff_pp))))
     print("F-value: " + str(np.var(diff_pp[4:])/np.var(diff_truth)))
     # print("Correlation Coefficient: " + str(np.corrcoef(diff_truth, diff_pp[25:])[0, 1]))
-    print("DTW Distance: ", dtw.distance(diff_truth, diff_pp[4:]))
-    dtw_visualisation.plot_warping(diff_truth, diff_pp[4:], dtw.warping_path(diff_truth, diff_pp[4:]), filename="warp.png")
-
 
     corr = signal.correlate(diff_truth, diff_pp, mode='valid')
 
-    print("Best matching starting index:", np.argmax(corr))
+    bestMatch = np.argmax(corr)
+
+    print("Best matching starting index:", bestMatch)
+
+    print("DTW Distance: ", dtw.distance(diff_truth, diff_pp[3:]))
+    dtw_visualisation.plot_warping(diff_truth, diff_pp[3:], dtw.warping_path(diff_truth, diff_pp[3:]), filename="warp.png")
+
+
+    
     
     clock = np.arange(64, len(diff_pp), 128)
     fig, (ax_orig, ax_noise, ax_corr) = plt.subplots(3, 1, sharex=True)
     ax_orig.plot(diff_truth, 'b-')
     ax_orig.plot(np.arange(len(diff_truth)), diff_truth, 'ro')
     ax_orig.set_title('Original signal')
-    ax_noise.plot(diff_pp[1:])
+    ax_noise.plot(diff_pp)
     ax_noise.set_title('Signal with noise')
     ax_corr.plot(corr, 'b-')
     ax_corr.plot(np.arange(len(diff_truth)), diff_truth, 'ro')
@@ -187,7 +192,7 @@ if __name__ == "__main__":
     graph("pp_keystrokes.bin", "Prime+Probe", "pp_keystrokes.png", False)
     # for i in range(4):
     #     graph("pp_keystrokes_"+str(i) + ".bin", "Prime+Probe", "pp_keystrokes_"+str(i), False);
-    output = os.popen("sudo dmesg").read().strip().split("\n")
+    output = os.popen("sudo dmesg -c").read().strip().split("\n")
     data = sort_output(output)
     formatted_list = [data["start_time"]] + data["keypresses"] # keystroke time reported from spy is relative to start-time 
     flush_list_to_binary(formatted_list, "kl_keystrokes.bin")

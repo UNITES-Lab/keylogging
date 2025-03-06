@@ -1,6 +1,7 @@
 import uinput
 import time
 import json
+TIME = 10   
 
 KEY_MAP = {
     # Letters (lowercase)
@@ -215,7 +216,7 @@ SHIFT_MAP = {
 
 def simulate(keystrokes):
     device = uinput.Device(KEY_MAP.values())
-
+    
     with open(keystrokes, "r") as f:
         fLines = f.readlines()
         for line1, line2 in zip(fLines, fLines[1:0]):
@@ -254,8 +255,7 @@ def simulate_json():         #TODO: account for gaps between sentences
     with open("/home/dohhyun/Keystrokes/json/across_participant_across_sentence_test.jsonl", 'r', encoding='utf-8') as f:
         lines = [json.loads(line.strip()) for line in f if line.strip()]
         
-    
- 
+    tracker_time = time.time()
     for line1 in lines:
 
         key = line1["keystrokes"].strip("<>").split("><")
@@ -272,21 +272,28 @@ def simulate_json():         #TODO: account for gaps between sentences
             time.sleep(interval / 1000)
             timing.append({
                 "start_time": time.time_ns(),
-                "section-id": line1["keystrokes"]
+                "section_id": line1["section_id"],
                 "participant_id": line1["participant_id"],
                 "test_section_id": line1["test_section_id"],
                 "input_string": line1["input_string"],
-                "sentence_id": Line1["sentence_id"]
-                }
-            )
+                "sentence_id": line1["sentence_id"]
+                })
+            
+            if((time.time() - tracker_time) >= 15):
+                break
         time.sleep(1)
+        if((time.time() - tracker_time) >= 15):
+            break
+    timing_json = json.dumps(timing, indent=4)
+
+    with open("timing.json", "w") as outfile:
+        outfile.write(timing_json)
 
 
 
 if __name__ == "__main__":
     device = uinput.Device(KEY_MAP.values())
-    start_time = time.time()
     timing = []
-    while time.time() - start_time < 20:
-        device.emit_click(KEY_MAP['a'])
-        time.sleep(0.1)
+    simulate_json()
+    time.sleep(0.1)
+    

@@ -312,7 +312,6 @@ def simulate_json():         #TODO: account for gaps between sentences
     
  
     for line1 in lines:
-        dbg.append(time.time())
 
         key = line1["keystrokes"].strip("<>").split("><")
         interval = [float(x) for x in line1["intervals"].split(",") if x]
@@ -320,9 +319,7 @@ def simulate_json():         #TODO: account for gaps between sentences
 
         start_time = time.time_ns()
                 
-        for interval, pressedChar in zip(interval, key):
-            dbg.append(time.time())
-            
+        for interval, pressedChar in zip(interval, key):            
             
 
             device.emit_click(KEY_MAP[pressedChar])
@@ -330,7 +327,7 @@ def simulate_json():         #TODO: account for gaps between sentences
             timing.append(
                 {
                 "start_time": time.time_ns(),
-                "section-id": line1["keystrokes"]
+                "section-id": line1["keystrokes"],
                 "participant_id": line1["participant_id"],
                 "test_section_id": line1["test_section_id"],
                 "input_string": line1["input_string"],
@@ -343,6 +340,7 @@ def simulate_json():         #TODO: account for gaps between sentences
 
 
 def simulateTxt():         #TODO: account for gaps between sentences
+    timing = []
     device = uinput.Device(KEY_MAP.values())
     time.sleep(0.3)
 
@@ -357,7 +355,6 @@ def simulateTxt():         #TODO: account for gaps between sentences
         
 
         for line1, line2 in zip(fLines[1:], fLines[2:]):
-            dbg.append(time.time())
             
             if(time.time()-start_time > 200):
                 break
@@ -404,9 +401,7 @@ def simulateTxt():         #TODO: account for gaps between sentences
             #    device.emit_click(KEY_MAP["SHIFT"],0)
 
             # else:
-            dbg.append(time.time())
             device.emit_click(KEY_MAP[pressedChar])
-            dbg.append(time.time())
             timing.append({
                 "key-char": pressedChar,
                 "keystroke-time": time.time_ns(),
@@ -495,7 +490,6 @@ if __name__ == "__main__":
                  #TODO: Validate if start-time is the same
             graph.write_output(data)
             graph.graph_keystrokes(data)
-            numpy.savetxt("dbg.csv", dbg, delimiter=",")
             desc.analyze_json("flush_reload.json")
 
     else:

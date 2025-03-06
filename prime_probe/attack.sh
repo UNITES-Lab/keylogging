@@ -26,19 +26,23 @@ cd ..
 
 # Step 3: Run the test binary in the background
 echo "sudo ./bin/test.out"
-start_gt=$(date +%s%N)
 sudo ./bin/test.out $1
 TEST_PID=$!  # Store process ID of test.out
+
+# Step: Repaly keystrokes
+if [ "$line" = "please start typing" ]; then
+    start=$(date +%s%N)
+    echo "First keystroke at $start ns"
+    echo "sudo python3 simulate.py"
 
 # Step 7: Remove kernel module
 echo "sudo rmmod spy.ko"
 sudo rmmod spy.ko
 
 echo "keylogging complete, graphing the results"
-echo "Kernel module inserted at: $start_kernel ns, Keylogger started at: $start_gt ns"
-
 
 
 # Step 9: Read last line of output.log and pass it as a parameter to plot.py
 sudo python3 plot.py $1
+sudo python3 analyze.py
 
