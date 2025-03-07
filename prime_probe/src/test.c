@@ -180,6 +180,11 @@ uint64_t measure_keystroke(int threshold) {
   uint64_t start_time = __rdtscp(&core_id);
   flush_timestamps(&start_time, 1, "pp_keystrokes.bin");
   printf("please start typing\n");
+  //run simulate.py
+  // char buf[32];
+  // sprintf(buf, "sudo python3 simulate.py %d", EXEC_TIME);
+  // system(buf);
+
   for (int i = 0; i < 10; i++) {
     // takes around 1s to fill up 1 MB buffer
     uint64_t size = prime_probe(es_list[eslist_index], EVERGLADES_ASSOCIATIVITY,

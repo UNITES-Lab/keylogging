@@ -61,7 +61,7 @@ def graph(input_file, attack_type, output_file, normalize):
     sorted_timestamps = np.sort(timestamps)
     print(sorted_timestamps)
     # plotting histogram with 10 ms intervals over 10s
-    counts = np.zeros(12000, dtype=int)
+    counts = np.zeros(20000, dtype=int)
     if normalize:
         sorted_timestamps = sorted_timestamps - sorted_timestamps[1]
     for v in sorted_timestamps:
@@ -70,7 +70,7 @@ def graph(input_file, attack_type, output_file, normalize):
     print("valid detections: " + str(len(strokes)))
 
     plt.figure()
-    plt.plot(range(12000), counts, color='red', alpha=0.7, linewidth=1)
+    plt.plot(range(20000), counts, color='red', alpha=0.7, linewidth=1)
     plt.xlabel("time (ms)")
     plt.ylabel("detection count")
     plt.title(attack_type + " Detection Count Line Plot")
@@ -90,7 +90,7 @@ def stat(input_file, truth_file, normalize):
     truths = ((truth_values-truth_values[0])/ (3.4 * 1000000)).astype(int)
     sorted_truths = np.sort(truths)
 
-    counts = np.zeros(12000, dtype=int)
+    counts = np.zeros(10000, dtype=int)
     accurates = []
     grouped = []
     filtered = []
@@ -189,13 +189,13 @@ def stat(input_file, truth_file, normalize):
     # dtw_visualisation.plot_warpingpaths(diff_truth, diff_pp[4:], dtw.warping_paths(diff_truth, diff_pp[4:]), dtw.warping_path(diff_truth, diff_pp[4:]), filename="warp3.png")
     
 if __name__ == "__main__":
-    graph("pp_keystrokes.bin", "Prime+Probe", "pp_keystrokes.png", False)
+    graph("pp_keystrokes.bin", "Prime+Probe", "pp_keystrokes.png", True)
     # for i in range(4):
-    #     graph("pp_keystrokes_"+str(i) + ".bin", "Prime+Probe", "pp_keystrokes_"+str(i), False);
+    #     graph("pp_keystroke
+    # s_"+str(i) + ".bin", "Prime+Probe", "pp_keystrokes_"+str(i), False);
     output = os.popen("sudo dmesg -c").read().strip().split("\n")
     data = sort_output(output)
     formatted_list = [data["start_time"]] + data["keypresses"] # keystroke time reported from spy is relative to start-time 
     flush_list_to_binary(formatted_list, "kl_keystrokes.bin")
     graph("kl_keystrokes.bin", "Keylogger", "kl_keystrokes.png", True) 
-    stat("pp_keystrokes.bin","kl_keystrokes.bin", True)
 

@@ -8,6 +8,7 @@
 #define HUGE_PAGE_OFFSET_BITS 21
 #define HUGE_PAGE_BYTES (1 << HUGE_PAGE_OFFSET_BITS)
 #define KBD_KEYCODE_ADDR 0x3b5106b20
+#define EXEC_TIME 15
 /*********************************************************************
  * Machine Constants
  *********************************************************************/

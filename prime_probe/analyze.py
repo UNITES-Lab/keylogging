@@ -13,12 +13,12 @@ print(kl_values)
 pp_values = ((pp_values - pp_values[0]) / (3.4 * 1000000)).astype(int) 
 kl_values = ((kl_values - kl_values[0]) / (3.4 * 1000000)).astype(int)
 
-kl_values = kl_values - kl_values[1]
-pp_values = pp_values - kl_values[1] ##remove if cpu clocks aren't synced
+# kl_values = kl_values - kl_values[1]
+# pp_values = pp_values - kl_values[1] ##remove if cpu clocks aren't synced
 
 #additional analysis by D
 
-count = np.zeros(12000, dtype=int)
+count = np.zeros(20000, dtype=int)
 accurates = []
 grouped = []
 filtered = []
@@ -26,7 +26,7 @@ filtered = []
 sorted_timestamps = np.sort(pp_values)
 sorted_truths = np.sort(kl_values)
 
-filtered = np.where(count >= 60)[0]         #change this value to adjust threshhold per noise, default is 75 counts
+filtered = np.where(count >= 40)[0]         #change this value to adjust threshhold per noise, default is 75 counts
 
 
 for v in sorted_timestamps:

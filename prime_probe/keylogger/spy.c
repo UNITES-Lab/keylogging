@@ -7,12 +7,13 @@
 #include <linux/module.h>
 #include <linux/sched.h>
 
+#include "../lib/constants.h"
+
 static struct notifier_block nb;
 static u64 start_time = 0;
 static u64 last_press = 0;
 
 // execution time of the flush+reload thread in seconds
-#define EXEC_TIME 10
 
 #define LINE_SIZE 64
 

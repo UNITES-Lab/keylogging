@@ -1,7 +1,9 @@
 import uinput
 import time
 import json
-TIME = 10   
+import sys
+
+#TIME = sys.argv[1]
 
 KEY_MAP = {
     # Letters (lowercase)
@@ -251,7 +253,8 @@ def simulate(keystrokes):
 def simulate_json():         #TODO: account for gaps between sentences
     device = uinput.Device(KEY_MAP.values())
     time.sleep(0.3)
-
+    timing = []
+    
     with open("/home/dohhyun/Keystrokes/json/across_participant_across_sentence_test.jsonl", 'r', encoding='utf-8') as f:
         lines = [json.loads(line.strip()) for line in f if line.strip()]
         
@@ -272,7 +275,7 @@ def simulate_json():         #TODO: account for gaps between sentences
             time.sleep(interval / 1000)
             timing.append({
                 "start_time": time.time_ns(),
-                "section_id": line1["section_id"],
+                "section_id": line1["test_section_id"],
                 "participant_id": line1["participant_id"],
                 "test_section_id": line1["test_section_id"],
                 "input_string": line1["input_string"],

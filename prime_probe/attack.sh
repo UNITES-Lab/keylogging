@@ -16,33 +16,32 @@ cd keylogger || exit
 echo "make"
 make
 
-# Step 5: Insert kernel module
-echo "sudo insmod spy.ko"
-start_kernel=$(date +%s%N)
-sudo insmod spy.ko
+# # Step 5: Insert kernel module
+# echo "sudo insmod spy.ko"
+# sudo insmod spy.ko
 
-echo "cd .."
-cd ..
+# echo "cd .."
+# cd ..
 
-# Step 3: Run the test binary in the background
-echo "sudo ./bin/test.out"
-sudo ./bin/test.out $1
-TEST_PID=$!  # Store process ID of test.out
+# # Step 3: Run the test binary in the background
+# echo "sudo ./bin/test.out"
+# sudo ./bin/test.out $1
+# TEST_PID=$!  # Store process ID of test.out
 
-# Step: Repaly keystrokes
-if [ "$line" = "please start typing" ]; then
-    start=$(date +%s%N)
-    echo "First keystroke at $start ns"
-    echo "sudo python3 simulate.py"
+# # Step: Replay keystrokes
 
-# Step 7: Remove kernel module
-echo "sudo rmmod spy.ko"
-sudo rmmod spy.ko
+# start=$(date +%s%N)
+# echo "First keystroke at $start ns"
+# echo "sudo python3 simulate.py 20"
+# sudo python3 simulate.py
 
-echo "keylogging complete, graphing the results"
+# # Step 7: Remove kernel module
+# echo "sudo rmmod spy.ko"
+# sudo rmmod spy.ko
+
+# echo "keylogging complete, graphing the results"
 
 
-# Step 9: Read last line of output.log and pass it as a parameter to plot.py
-sudo python3 plot.py $1
-sudo python3 analyze.py
-
+# # Step 9: Read last line of output.log and pass it as a parameter to plot.py
+# sudo python3 plot.py $1
+# sudo python3 analyze.py
