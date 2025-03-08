@@ -117,8 +117,8 @@ var first, next, n;
 exported.build_evset = async function start(options) {
 	// Parse settings
 	const B = 8000;
-	const CONFLICT = true;
-	const ASSOC = 16;
+	const CONFLICT = false;
+	const ASSOC = 12;
 	const STRIDE = 4096;
 
 	// Prepare wasm instance

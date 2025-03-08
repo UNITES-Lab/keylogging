@@ -311,10 +311,9 @@ class EvictionListL3 {
             //this.memory[element + 1]++;
             let start = Atomics.load(this.memory, 64);
             element = this.memory[element];
-            let end = Atomics.load(this.memory, 64)
+            let end = Atomics.load(this.memory, 64);
             probe_result.push(end-start);
         }
-        log(probe_result)
         return probe_result;
     }
 
@@ -343,6 +342,7 @@ class EvictionListL3 {
             let end = Atomics.load(this.memory, 64)
             probe_result.push(end-start)
         }
+        log(probe_result)
         return probe_result;
     }
 
@@ -467,61 +467,57 @@ async function l3pp_main(options){
     let probe_result = []
 
     evset = sets[0].evictor;
-    victim = evset.get(evset.elements.length-1)
-    
-    /* first time traversing, some elements in the memory */
-    start = Atomics.load(buffer, 64);
-    evset.traverse();
-    end = Atomics.load(buffer, 64);
+    victim = 8128;
     
     log(end-start);
+    
+    for(let i = 0; i < 10; i++)
+        evset.probe()
+    result = evset.probe()
+    log(result)
 
-    /* results cached, should observe cached results */
-    start = Atomics.load(buffer, 64);
-    evset.traverse()
-    end = Atomics.load(buffer, 64);
     
-    log(end-start);
-    
-    /* warmup cache */
-    for(let i = 0; i < 100; i++){
-        evset.prime(16);
-        result = evset.probe_exact(16);
-    }
 
     /* traverse then probe, observe cache hits */
-    let THRESHOLD = 60
+    let THRESHOLD = 60;
     let fp = 0; 
     
-    for(let i = 0; i < 100; i++){
-        evset.prime(16);
-        result = evset.probe_exact(16);
-        for(let j = 0; j < 16; j++){
-            if(result[j] > THRESHOLD){
-                fp++;
-                break;
-            }
-        }
-    }
-
-    log(`false-positive: ${fp / 100}`);
+    /* warmup cache */
+    // for(let i = 0; i < 250; i++)
+    //     evset.probe()
+    // for(let i = 0; i < 250; i++){
+    //     result = evset.probe();
+    //     log(result)
+    //     for(let j = 0; j < 12; j++){
+    //         if(result[j] > THRESHOLD){
+    //             fp++;
+    //             break;
+    //         }
+    //     }
+    //     evset.probe();
+    // }
+    //
+    // log(`false-positive: ${fp / 250}`);
 
     /* traverse+access+probe, observe some misses */
     let dt = 0;
     
-    for(let i = 0; i < 100; i++){
-        evset.prime(16);
-        element = buffer[victim];
-        result = evset.probe_exact(16)
-        for(let j = 0; j < 16; j++){
+    for(let i = 0; i < 500; i++)
+        evset.probe()
+    for(let i = 0; i < 250; i++){
+        // element = Atomics.load(buffer, victim);
+        result = evset.probe();
+        log(result)
+        for(let j = 0; j < 12; j++){
             if(result[j] > THRESHOLD){
                 dt++;
                 break;
             }
         }
+        evset.probe()
     }
-    log(`detect: ${dt / 100}`);
+    log(`detect: ${dt / 250}`);
 
     await stopTimer();
 }
-l3pp_main({offset:63})
+l3pp_main({offset:0})
