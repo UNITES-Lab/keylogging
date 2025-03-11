@@ -159,20 +159,22 @@ exported.build_evset = async function start(options) {
 		}
 	} while (CONFLICT && evset.vics.length > 0 && evset.refs.length > ASSOC);
 	
-	const SETS = [];
-	for (const set of RESULTS) {
-		for (let offset = 0; offset < STRIDE; offset += 64){
-			SETS.push(set.map(num => {
-				return {
-					offset: num - (OFFSET*64) + offset,
-				};
-			}));
-		}
-	}
+	// const SETS = [];
+	// for (const set of RESULTS) {
+	// 	for (let offset = 0; offset < STRIDE; offset += 64){
+	// 		SETS.push(set.map(num => {
+	// 			return {
+	// 				offset: num - (OFFSET*64) + offset,
+	// 			};
+	// 		}));
+	// 	}
+	// }
 
-	log('Found ' + SETS.length + ' different eviction sets');
-
-	return SETS;
+	// log('Found ' + SETS.length + ' different eviction sets');
+	
+	log(`Found ${RESULTS.length} different eviction sets`)
+	// return SETS;
+	return RESULTS;
 }
 
 function cb(instance, evset, findall) {
