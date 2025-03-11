@@ -308,7 +308,7 @@ class EvictionListL3 {
 
     probe(){
         let element = this.head;
-        let THRESHOLD = 80;
+        let THRESHOLD = 60;
         let ret = 0;
         while (element !== END_MARKER) {
             /* use Atomics.load to prevent zeroing out */
