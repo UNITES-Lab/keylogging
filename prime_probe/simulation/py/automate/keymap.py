@@ -39,6 +39,16 @@ KEY_MAP = {
     "8": uinput.KEY_8,
     "9": uinput.KEY_9,
     "0": uinput.KEY_0,
+    "NUM_1": uinput.KEY_NUMERIC_1,
+    "NUM_2": uinput.KEY_NUMERIC_2,
+    "NUM_3": uinput.KEY_NUMERIC_3,
+    "NUM_4": uinput.KEY_NUMERIC_4,
+    "NUM_5": uinput.KEY_NUMERIC_5,
+    "NUM_6": uinput.KEY_NUMERIC_6,
+    "NUM_7": uinput.KEY_NUMERIC_7,
+    "NUM_8": uinput.KEY_NUMERIC_8,
+    "NUM_9": uinput.KEY_NUMERIC_9,
+    "NUM_0": uinput.KEY_NUMERIC_0,
 
     # Common punctuation on QWERTY
     "`": uinput.KEY_GRAVE,       # Backtick / Grave accent
@@ -80,6 +90,8 @@ KEY_MAP = {
     "End": uinput.KEY_END,
     "PageUp": uinput.KEY_PAGEUP,
     "PageDown": uinput.KEY_PAGEDOWN,
+    "PG_UP": uinput.KEY_PAGEUP,
+    "PG_DOWN": uinput.KEY_PAGEDOWN,
     "Insert": uinput.KEY_INSERT,
     "Delete": uinput.KEY_DELETE,
 
@@ -159,7 +171,22 @@ KEY_MAP = {
     "PAGE_DOWN": uinput.KEY_PAGEDOWN,# Page Down key
     "INSERT": uinput.KEY_INSERT,     # Insert key
     "DELETE": uinput.KEY_DELETE, 
-    "NUM_LK": uinput.KEY_NUMLOCK
+    "NUM_LK": uinput.KEY_NUMLOCK,
+    "MENU": uinput.KEY_MENU,
+    "PAUSE": uinput.KEY_PAUSE,
+
+    # odd special characters
+    "ä": uinput.KEY_A,
+    "á": uinput.KEY_A,
+    "\x13": uinput.KEY_EXIT,
+    "\x15": uinput.KEY_EXIT, 
+    "´": uinput.KEY_GRAVE,
+    "ç": uinput.KEY_C,
+    "ø": uinput.KEY_EXIT,
+    "ö": uinput.KEY_O,
+    "ò": uinput.KEY_O,
+    "ñ": uinput.KEY_N,
+    "": uinput.KEY_EXIT
 }
 
 SHIFT_MAP = {

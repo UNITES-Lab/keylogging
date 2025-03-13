@@ -36,8 +36,7 @@ def simulate(device, data, speedup):
 
         # emit the next keystroke
         key = keystrokes[i+1]
-        if(len(key) > 1):
-            device.emit_click(KEY_MAP[key])
+        device.emit_click(KEY_MAP[key])
 
 def scan_keystrokes(data):
     all_keystrokes = []
