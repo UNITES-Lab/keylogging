@@ -71,7 +71,7 @@ if __name__ == "__main__":
             found_id = False
             for sentence in data:
                 # construct sentence id and compare with the argument 
-                sentence_id = f"{sentence['participant_id']}-{sentence['test-section_id']}-{sentence['sentence_id']}"
+                sentence_id = f"{sentence['participant_id']}-{sentence['test_section_id']}-{sentence['sentence_id']}"
                 if sentence_id == start_id:
                     found_id = True
                     break
@@ -82,7 +82,7 @@ if __name__ == "__main__":
                 start_index = 0
             
         for sentence in data[start_index:]:
-            sentence_id = f"{sentence['participant_id']}-{sentence['test-section_id']}-{sentence['sentence_id']}"
+            sentence_id = f"{sentence['participant_id']}-{sentence['test_section_id']}-{sentence['sentence_id']}"
             # initialize simulation state and acknowledge
             buffer[1] = 1 
             print("simulation state update to RDY")

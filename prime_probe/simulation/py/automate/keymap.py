@@ -152,6 +152,7 @@ KEY_MAP = {
     "ARW_RIGHT": uinput.KEY_RIGHT,     # Right arrow key
     "ARW_UP": uinput.KEY_UP,           # Up arrow key
     "ARW_DOWN": uinput.KEY_DOWN,
+    "ARw_DOWN": uinput.KEY_DOWN,
     "HOME": uinput.KEY_HOME,         # Home key
     "END": uinput.KEY_END,           # End key
     "PAGE_UP": uinput.KEY_PAGEUP,    # Page Up key
