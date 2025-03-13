@@ -27,4 +27,4 @@ def graph(input_file, attack_type, output_file, normalize):
     return values[0]
 
 if __name__ == "__main__":
-    graph("../../output_binary/across_participant_across_sentence_test/36799-399509-220.bin", "Prime+Probe", "../../figures/36799-399509-220.png", False);
+            graph("../../output_binary/across_participant_across_sentence_test/337355-3636032-1438.bin", "Prime+Probe", "../../figures/337355-3636032-1438.png", False);

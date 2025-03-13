@@ -2,7 +2,7 @@ import uinput
 import time
 import json
 import os
-
+import sys
 # import keymapping from keymap.py
 from keymap import *
 
@@ -47,24 +47,42 @@ def debugPrint(data):
 if __name__ == "__main__":
     # Speedup for the experiments 
     SPEEDUP = 1
-
-    # filenames in the cleaned data directory
-    filenames = os.listdir("simulation/data/cleaned_data")
-
+    start_id = ""
+    file = ""
+    
     # initialize shared emory for inter-process communication signals
     shm = shared_memory.SharedMemory(name="ipc_signals", create=False)
     buffer = shm.buf
-    
+
     # register the uinput device
     device = uinput.Device(KEY_MAP.values())
+   
+    # handling terminal arguments
+    if len(sys.argv) == 4:
+        SPEEDUP = int(sys.argv[1])
+        file = sys.argv[2]
+        start_id = sys.argv[3]
 
-    # initialize condition
-    for filename in filenames:
-        buffer[1] = buffer[2] = 0
-        # load data from file
-        data = load_json(f"simulation/data/cleaned_data/{filename}")
+        data = load_json(f"simulation/data/cleaned_data/{file}.jsonl")
 
-        for sentence in data[:10]:
+        # fast-forward mechanism within a file
+        start_index = 0
+        if len(start_id) != 0:
+            found_id = False
+            for sentence in data:
+                # construct sentence id and compare with the argument 
+                sentence_id = f"{sentence['participant_id']}-{sentence['test-section_id']}-{sentence['sentence_id']}"
+                if sentence_id == start_id:
+                    found_id = True
+                    break
+                start_index += 1
+
+            # if the start id is not found, start from the beginning
+            if not found_id:
+                start_index = 0
+            
+        for sentence in data[start_index:]:
+            sentence_id = f"{sentence['participant_id']}-{sentence['test-section_id']}-{sentence['sentence_id']}"
             # initialize simulation state and acknowledge
             buffer[1] = 1 
             print("simulation state update to RDY")
@@ -75,7 +93,7 @@ if __name__ == "__main__":
             print(f"test duration: {sum(sentence["intervals"])}")
             
             # assign output filename, path relative to prime_probe  
-            outfile_name = f"simulation/output_binary/{filename[:-6]}/{sentence["participant_id"]}-{sentence["test_section_id"]}-{sentence["sentence_id"]}.bin\0".encode()
+            outfile_name = f"simulation/output_binary/{file}/{sentence_id}.bin\0".encode()
             buffer[3:len(outfile_name)+3] = outfile_name
 
             # wait for prime+probe to be ready 
@@ -93,8 +111,53 @@ if __name__ == "__main__":
             # run simulation
             simulate(device, sentence, SPEEDUP)
     
-    # send all sim complete signal
-    buffer[1] = 2
+        # send all sim complete signal
+        buffer[1] = 2
+
+    else:
+        if len(sys.argv) == 2:
+            SPEEDUP = int(sys.argv[1])
+
+        # filenames in the cleaned data directory
+        filenames = os.listdir("simulation/data/cleaned_data")
+
+        # initialize condition
+        for filename in filenames:
+            buffer[1] = buffer[2] = 0
+            # load data from file
+            data = load_json(f"simulation/data/cleaned_data/{filename}")
+
+            for sentence in data:
+                sentence_id = f"{sentence["participant_id"]}-{sentence["test_section_id"]}-{sentence["sentence_id"]}"
+                # initialize simulation state and acknowledge
+                buffer[1] = 1 
+                print("simulation state update to RDY")
+
+                buffer[2] = 0
+
+                print(sentence)
+                print(f"test duration: {sum(sentence["intervals"])}")
+                
+                # assign output filename, path relative to prime_probe  
+                outfile_name = f"simulation/output_binary/{filename[:-6]}/{sentence_id}.bin\0".encode()
+                buffer[3:len(outfile_name)+3] = outfile_name
+
+                # wait for prime+probe to be ready 
+                while buffer[0] == 0:
+                    time.sleep(0.001)
+                
+                # acknowledge that simulation knows machine is ready
+                buffer[2] = 1
+
+                # signal prime+probe simulation in progress
+                buffer[1] = 0
+                print("simulation state update to BUSY")
+
+                # run simulation
+                simulate(device, sentence, SPEEDUP)
+        
+        # send all sim complete signal
+        buffer[1] = 2
 
     # cleanup shared memory 
     shm.close()

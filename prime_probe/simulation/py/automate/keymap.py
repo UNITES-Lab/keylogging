@@ -66,6 +66,9 @@ KEY_MAP = {
     "LeftAlt": uinput.KEY_LEFTALT,
     "RightAlt": uinput.KEY_RIGHTALT,
     "CAPS_LOCK": uinput.KEY_CAPSLOCK,
+    "ALT": uinput.KEY_LEFTALT, 
+    "CTRL": uinput.KEY_LEFTCTRL,
+    "WIN": uinput.KEY_ESC,
 
     # Navigation keys
     "Esc": uinput.KEY_ESC,
