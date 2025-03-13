@@ -39,6 +39,22 @@ def simulate(device, data, speedup):
         if(len(key) > 1):
             device.emit_click(KEY_MAP[key])
 
+def scan_keystrokes(data):
+    all_keystrokes = []
+    not_found_keys = []
+    for sentence in data:
+        all_keystrokes.extend(sentence["keystrokes"])
+    all_keystrokes = set(all_keystrokes)
+    for keystroke in all_keystrokes:
+        found = False
+        for key in KEY_MAP:
+            if keystroke == key:
+                found = True
+                break
+        if not found:
+            not_found_keys.append(keystroke)
+    return not_found_keys
+
 def debugPrint(data):
     durations = [sum(obj["intervals"]) for obj in data]
     print(durations)
@@ -64,7 +80,8 @@ if __name__ == "__main__":
         start_id = sys.argv[3]
 
         data = load_json(f"simulation/data/cleaned_data/{file}.jsonl")
-
+        nonmapped_keys = scan_keystrokes(data)
+        print(f"nonmapped_keys: {nonmapped_keys}")
         # fast-forward mechanism within a file
         start_index = 0
         if len(start_id) != 0:
@@ -126,6 +143,8 @@ if __name__ == "__main__":
             buffer[1] = buffer[2] = 0
             # load data from file
             data = load_json(f"simulation/data/cleaned_data/{filename}")
+            nonmapped_keys = scan_keystrokes(data)
+            print(f"nonmapped_keys: {nonmapped_keys}")
 
             for sentence in data:
                 sentence_id = f"{sentence["participant_id"]}-{sentence["test_section_id"]}-{sentence["sentence_id"]}"
