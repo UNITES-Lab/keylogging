@@ -159,6 +159,7 @@ KEY_MAP = {
     "PAGE_DOWN": uinput.KEY_PAGEDOWN,# Page Down key
     "INSERT": uinput.KEY_INSERT,     # Insert key
     "DELETE": uinput.KEY_DELETE, 
+    "NUM_LK": uinput.KEY_NUMLOCK
 }
 
 SHIFT_MAP = {
