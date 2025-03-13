@@ -1,17 +1,39 @@
 #!/bin/bash
 
+# Define directories
+CLEANED_DATA="cleaned_data"
+OUTPUT_BINARY="output_binary"
+
+# Check if output_binary exists, if not, create it
+if [ ! -d "$OUTPUT_BINARY" ]; then
+    mkdir "$OUTPUT_BINARY"
+fi
+
+# Loop through each file in cleaned_data
+for file in "data/$CLEANED_DATA"/*.jsonl; do
+    # Extract filename without extension
+    filename=$(basename "$file" .jsonl)
+    
+    # Define the corresponding folder in output_binary
+    folder_path="$OUTPUT_BINARY/$filename"
+    
+    # Check if the folder exists, if not, create it
+    if [ ! -d "$folder_path" ]; then
+        mkdir "$folder_path"
+    fi
+done
+
 # compile the prime+probe executable 
 cd ..
 make
 
 # execute prime+probe in the background
-sudo ./bin/test.out &
+sudo taskset -c 0 ./bin/test.out &
 
 pp_pid=$!
 
 # execute simulation in the foreground
-cd simulation
-sudo python3 py/automate/simulate.py
+python3 simulation/py/automate/simulate.py
 
 wait $pp_pid
 

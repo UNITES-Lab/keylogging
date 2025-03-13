@@ -18,11 +18,7 @@ def load_json(path):
 
     
 
-def simulate(data, speedup):
-
-    # register the uinput device
-    device = uinput.Device(KEY_MAP.values())
-    time.sleep(0.3) # wait for the device to be loaded 
+def simulate(device, data, speedup):
     
     keystrokes = data["keystrokes"]
     intervals = data["intervals"]
@@ -35,12 +31,13 @@ def simulate(data, speedup):
 
     for i in range(0, len(intervals)):
         # wait for interval using time.sleep
-        wait_interval_ms = intervals[i] // (1000 * speedup);
+        wait_interval_ms = intervals[i] / (1000 * speedup);
         time.sleep(wait_interval_ms);
 
         # emit the next keystroke
         key = keystrokes[i+1]
-        device.emit_click(KEY_MAP[key])
+        if(len(key) > 1):
+            device.emit_click(KEY_MAP[key])
 
 def debugPrint(data):
     durations = [sum(obj["intervals"]) for obj in data]
@@ -52,31 +49,34 @@ if __name__ == "__main__":
     SPEEDUP = 1
 
     # filenames in the cleaned data directory
-    filenames = os.listdir("../../data/cleaned_data")
+    filenames = os.listdir("simulation/data/cleaned_data")
 
     # initialize shared emory for inter-process communication signals
     shm = shared_memory.SharedMemory(name="ipc_signals", create=False)
     buffer = shm.buf
+    
+    # register the uinput device
+    device = uinput.Device(KEY_MAP.values())
 
     # initialize condition
     for filename in filenames:
         buffer[1] = buffer[2] = 0
         # load data from file
-        data = load_json(f"../../data/cleaned_data/{filename}")
+        data = load_json(f"simulation/data/cleaned_data/{filename}")
 
-        for sentence in data[0:10]:
+        for sentence in data[:10]:
             # initialize simulation state and acknowledge
-            buffer[1] = buffer[2] = 0
+            buffer[1] = 1 
+            print("simulation state update to RDY")
+
+            buffer[2] = 0
 
             print(sentence)
+            print(f"test duration: {sum(sentence["intervals"])}")
             
-            # assign output filename 
-            outfile_name = f"{filename[:-5]}-{sentence["participant_id"]}-{sentence["test_section_id"]}-{sentence["sentence_id"]}.bin\0".encode()
+            # assign output filename, path relative to prime_probe  
+            outfile_name = f"simulation/output_binary/{filename[:-6]}/{sentence["participant_id"]}-{sentence["test_section_id"]}-{sentence["sentence_id"]}.bin\0".encode()
             buffer[3:len(outfile_name)+3] = outfile_name
-
-            # signal prime+probe that there is a sentence to process
-            buffer[1] = 1
-            print("simulation state update to RDY")
 
             # wait for prime+probe to be ready 
             while buffer[0] == 0:
@@ -91,8 +91,7 @@ if __name__ == "__main__":
 
 
             # run simulation
-            # simulate(sentence, SPEEDUP)
-            time.sleep(0.1)
+            simulate(device, sentence, SPEEDUP)
     
     # send all sim complete signal
     buffer[1] = 2
