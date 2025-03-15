@@ -82,6 +82,7 @@ KEY_MAP = {
 
     # Navigation keys
     "Esc": uinput.KEY_ESC,
+    "ESC": uinput.KEY_ESC,
     "Up": uinput.KEY_UP,
     "Down": uinput.KEY_DOWN,
     "Left": uinput.KEY_LEFT,
@@ -186,7 +187,16 @@ KEY_MAP = {
     "ö": uinput.KEY_O,
     "ò": uinput.KEY_O,
     "ñ": uinput.KEY_N,
-    "": uinput.KEY_EXIT
+    "": uinput.KEY_EXIT,
+    "¡": uinput.KEY_I,
+    "Ä": uinput.KEY_A,
+    "à": uinput.KEY_A, 
+    "å": uinput.KEY_A,
+    "ì": uinput.KEY_I,
+    "É": uinput.KEY_E,
+    "\x01": uinput.KEY_EXIT,
+    "\x19": uinput.KEY_EXIT,
+    "é": uinput.KEY_E
 }
 
 SHIFT_MAP = {
