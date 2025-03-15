@@ -54,11 +54,11 @@ def scan_keystrokes(data):
             not_found_keys.append(keystroke)
     return not_found_keys
 
-def get_total_duration(data):
+def get_total_duration(data, speedup):
     duration_ms = 0
     for sentence in data:
        duration_ms += sum(sentence["intervals"]) 
-    
+    duration_ms /= speedup 
     duration_s = duration_ms // 1000
     duration_ms -= duration_s * 1000
     duration_min = duration_s // 60
@@ -97,7 +97,7 @@ if __name__ == "__main__":
 
         data = load_json(f"simulation/data/cleaned_data/{file}.jsonl")
         nonmapped_keys = scan_keystrokes(data)
-        total_duration = get_total_duration(data)
+        total_duration = get_total_duration(data, SPEEDUP)
         print(f"nonmapped_keys: {nonmapped_keys}")
         print(f"The test is estimated to take {total_duration[0]} days {total_duration[1]} hours {total_duration[2]} minutes {total_duration[3]} seconds {total_duration[4]} milliseconds")
         # fast-forward mechanism within a file
@@ -162,7 +162,7 @@ if __name__ == "__main__":
             # load data from file
             data = load_json(f"simulation/data/cleaned_data/{filename}")
             nonmapped_keys = scan_keystrokes(data)
-            total_duration = get_total_duration(data)
+            total_duration = get_total_duration(data, SPEEDUP)
             print(f"nonmapped_keys: {nonmapped_keys}")
             print(f"The test is estimated to take {total_duration[0]} days {total_duration[1]} hours {total_duration[2]} minutes {total_duration[3]} seconds {total_duration[4]} milliseconds")
             for sentence in data:
