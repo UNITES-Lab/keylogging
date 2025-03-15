@@ -94,15 +94,15 @@ if __name__ == "__main__":
         SPEEDUP = int(sys.argv[1])
         file = sys.argv[2]
         start_id = sys.argv[3]
+        print(f"start_id: {start_id}")
 
         data = load_json(f"simulation/data/cleaned_data/{file}.jsonl")
         nonmapped_keys = scan_keystrokes(data)
-        total_duration = get_total_duration(data, SPEEDUP)
         print(f"nonmapped_keys: {nonmapped_keys}")
-        print(f"The test is estimated to take {total_duration[0]} days {total_duration[1]} hours {total_duration[2]} minutes {total_duration[3]} seconds {total_duration[4]} milliseconds")
+
         # fast-forward mechanism within a file
         start_index = 0
-        if len(start_id) != 0:
+        if start_id.find("-") != -1:
             found_id = False
             for sentence in data:
                 # construct sentence id and compare with the argument 
@@ -115,7 +115,21 @@ if __name__ == "__main__":
             # if the start id is not found, start from the beginning
             if not found_id:
                 start_index = 0
-            
+        elif start_id.find("lst") != -1:
+            all_files_done = os.listdir(f"simulation/output_binary/{file}")
+            print(all_files_done)
+            count = 0
+            for sentence in data:
+                sentence_id = f"{sentence['participant_id']}-{sentence['test_section_id']}-{sentence['sentence_id']}"
+                try:
+                    all_files_done.index(f"{sentence_id}.bin")
+                except ValueError:
+                    break
+                count += 1
+            start_index = count
+
+        total_duration = get_total_duration(data[start_index:], SPEEDUP)
+        print(f"The test is estimated to take {total_duration[0]} days {total_duration[1]} hours {total_duration[2]} minutes {total_duration[3]} seconds {total_duration[4]} milliseconds")
         for sentence in data[start_index:]:
             sentence_id = f"{sentence['participant_id']}-{sentence['test_section_id']}-{sentence['sentence_id']}"
             # initialize simulation state and acknowledge
