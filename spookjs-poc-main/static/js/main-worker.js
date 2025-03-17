@@ -498,7 +498,7 @@ async function l3pp_main(options){
         log(detect_rate)
         log(fp_rate)
         /* compute detection rate */
-        let TRANSMIT_ROUNDS_SIDE = 64
+        let TRANSMIT_ROUNDS_SIDE = 256
         let transmit_str = ""
         for(let i = 0; i < WARMUP_ROUNDS; i++){
             evset.probe();
@@ -531,20 +531,20 @@ async function l3pp_main(options){
         log(`Detection Rate: ${detect / (TRANSMIT_ROUNDS_SIDE * TRANSMIT_ROUNDS_SIDE / 8)}`)
         log(`False-Positive Rate: ${fp / (TRANSMIT_ROUNDS_SIDE * TRANSMIT_ROUNDS_SIDE / 8 * 7)}`)
         log("start cross-core attack, please begin transmitting process")
-        await sleep(5000); 
         transmit_str = "";
         for(let i  = 0; i < 10; i++){
             evset.probe();
         }
-        for(let i = 0; i < TRANSMIT_ROUNDS_SIDE; i++){
-            for(let j = 0; j < TRANSMIT_ROUNDS_SIDE; j++){
-                // TODO: Test wait state
-                let result = evset.probe();
-                transmit_str += result + " ";
+
+        while(true){
+            count = 0;
+            for(let i = 0; i < TRANSMIT_ROUNDS_SIDE; i++){
+                for(let j = 0; j < TRANSMIT_ROUNDS_SIDE; j++){
+                    count += evset.probe();
+                }
             }
-            transmit_str += "\n";
+            log("detection-rate: " + count / (TRANSMIT_ROUNDS_SIDE * TRANSMIT_ROUNDS_SIDE))
         }
-        log(transmit_str)
     }
     await stopTimer();
 }
