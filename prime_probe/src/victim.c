@@ -43,23 +43,20 @@ int main() {
                              MAP_PRIVATE | MAP_ANONYMOUS | MAP_HUGETLB, -1, 0);
   printf("%p\n", (void *)mapping_start);
 
-  CacheLineSet *cl_set = hugepage_inflate(mapping_start, 16, 428);
-  printf("%p\n", cl_set->cache_lines[0]);
+  CacheLineSet *cl_set[1024];
+  EvictionSet *es_set[1024];
 
-  volatile uint8_t tmp = *(volatile uint8_t *)mapping_start;
-
-  printf("%d\n", get_i7_2600_slice(KBD_KEYCODE_ADDR));
+  for (int i = 0; i < 1024; i++) {
+    cl_set[i] = hugepage_inflate(mapping_start, 32, i);
+  }
 
   uint64_t start_time = 0;
+  int i = 511;
   while (1) {
-    tmp = *(volatile uint8_t *)cl_set->cache_lines[0];
-    start_time = __rdtscp(&core_id);
-    while (__rdtscp(&core_id) - start_time < 20000)
-      ;
-
-    tmp = *(volatile uint8_t *)cl_set->cache_lines[0];
-    start_time = __rdtscp(&core_id);
-    while (__rdtscp(&core_id) - start_time < 40000)
-      ;
+    // for (int i = 511; i < 512; i += 64) {
+    for (int j = 0; j < 32; j++) {
+      volatile char tmp = *(volatile char *)(cl_set[i]->cache_lines[j]);
+    }
+    // }
   }
 }
