@@ -16,7 +16,6 @@
 /*********************************************************************
  * Acadia (Coffee Lake i7-9750H) Constants
  *********************************************************************/
-
 #define ACADIA_CACHE_SET_BITS 10
 #define ACADIA_ASSOCIATIVITY 12
 #define ACADIA_NUM_SLICES 6
@@ -31,6 +30,15 @@
 #define EVERGLADES_NUM_SLICES 4
 #define EVERGLADES_SETS_PER_SLICE 2048
 #define EVERGLADES_LLC_SIZE 8 * 1024 * 1024
+
+/*********************************************************************
+ * Kaby Lake i5-8250U Constants
+ *********************************************************************/
+#define KABYLAKE_CACHE_SET_BITS 10
+#define KABYLAKE_ASSOCIATIVITY 12
+#define KABYLAKE_NUM_SLICES 8
+#define KABYLAKE_SETS_PER_SLICE 1024
+#define KABYLAKE_LLC_SIZE 6 * 1024 * 1024
 
 /*********************************************************************
  * Prime+Probe

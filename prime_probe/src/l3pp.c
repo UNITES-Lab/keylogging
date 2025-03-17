@@ -73,13 +73,13 @@ uint64_t *prime_probe_many_sets(
   }
 
   for (int i = 0; i < numProbes; i++) {
-    for (int j = 0; j < 4; j++) {
+    for (int j = 0; j < KABYLAKE_NUM_SLICES; j++) {
       probe_results[j][i] = probe(eslist[j], threshold);
       if (probe_results[j][i] == 1 && prev[j] == 1) {
         probe_results[j][i] = 0;
         prev[j] = 1;
       } else if (probe_results[j][i] == 1) {
-        detect_timestamps[j][hit_count[j]] = __rdtscp(&core_id);
+        // detect_timestamps[j][hit_count[j]] = __rdtscp(&core_id);
         hit_count[j]++;
         prev[j] = 1;
       } else {
@@ -135,8 +135,7 @@ CacheLineSet *hugepage_inflate(void *mmap_start, int size, int set) {
   for (int i = 0; i < size; i++) {
     CacheLine *line =
         (CacheLine *)(mmap_start + (set << LINE_OFFSET_BITS) +
-                      ((1 << EVERGLADES_CACHE_SET_BITS) << LINE_OFFSET_BITS) *
-                          i);
+                      ((1 << KABYLAKE_CACHE_SET_BITS) << LINE_OFFSET_BITS) * i);
     push_cache_line(cl_set, line);
   }
   return cl_set;
@@ -144,17 +143,17 @@ CacheLineSet *hugepage_inflate(void *mmap_start, int size, int set) {
 
 EvictionSet **get_all_slices_eviction_sets(void *mmap_start, int set) {
   CacheLineSet *cl_set =
-      hugepage_inflate(mmap_start, EVERGLADES_ASSOCIATIVITY, set);
+      hugepage_inflate(mmap_start, KABYLAKE_NUM_SLICES << 2, set);
 
   int threshold = threshold_from_flush((uint8_t *)cl_set->cache_lines[0]);
 
   int i = 0;
-  EvictionSet **es_list = malloc(4 * sizeof(EvictionSet *));
-  for (int i = 0; i < 4; i++) {
+  EvictionSet **es_list = malloc(KABYLAKE_NUM_SLICES * sizeof(EvictionSet *));
+  for (int i = 0; i < KABYLAKE_NUM_SLICES; i++) {
     es_list[i] = malloc(sizeof(EvictionSet));
   }
   while (i < cl_set->size) {
-    if (i >= EVERGLADES_NUM_SLICES) {
+    if (i >= KABYLAKE_NUM_SLICES) {
       printf("finding sets for all slices failed, please retry\n");
       break;
     }
@@ -169,7 +168,7 @@ EvictionSet **get_all_slices_eviction_sets(void *mmap_start, int set) {
       exit(1);
     }
     EvictionSet *es = new_eviction_set(cl_evset);
-    NumList *nl = new_num_list(EVERGLADES_ASSOCIATIVITY);
+    NumList *nl = new_num_list(KABYLAKE_ASSOCIATIVITY);
     int size = 0;
     for (int j = i + 1; j < cl_set->size; j++) {
       int count = 0;
@@ -211,7 +210,7 @@ EvictionSet **get_all_slices_eviction_sets(void *mmap_start, int set) {
 }
 
 void free_es_list(EvictionSet **es_list) {
-  for (int i = 0; i < 4; i++) {
+  for (int i = 0; i < KABYLAKE_NUM_SLICES; i++) {
     deep_free_es(es_list[i]);
   }
   free(es_list);
