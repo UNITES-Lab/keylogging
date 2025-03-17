@@ -1,3 +1,4 @@
+#define _DEFAULT_SOURCE
 #include <fcntl.h>
 #include <sched.h>
 #include <signal.h>
@@ -225,35 +226,61 @@ void measure_keystroke_without_slice(int threshold) {
 int main() {
 
   init_mapping();
-
-  uint8_t probemap[KABYLAKE_NUM_SLICES][512 * 512];
-  uint64_t keystrokes[10][10];
-  int threshold = threshold_from_flush(mapping_start);
-
-  es_list = get_all_slices_eviction_sets(mapping_start, 428);
-  printf("eviction set found, please start the victim program\n");
-  sleep(5);
-
-  uint64_t *hit_count = prime_probe_many_sets(
-      es_list, KABYLAKE_NUM_SLICES, KABYLAKE_ASSOCIATIVITY, 512 * 512, probemap,
-      10 * 10, keystrokes, threshold);
-  free(hit_count);
-
-  for (int i = 0; i < 8; i++) {
-    printf("--------------------------------------- slice %d "
-           "------------------------------\n",
-           i);
-    for (int j = 0; j < 64; j++) {
-      for (int k = 0; k < 64; k++) {
-        printf("%d ", probemap[i][512 * 512 - 64 * 64 + j * 64 + k]);
-      }
-      printf("\n");
-    }
-    printf("\n");
+  int threshold = 155;
+  CacheLineSet *cl_set = new_cl_set();
+  if (!get_minimal_set(mapping_start, &cl_set, threshold)) {
+    printf("Failed to find minimal eviction set for the given target\n");
   }
 
+  EvictionSet *evset = new_eviction_set(cl_set);
+  access_set(evset);
+  volatile uint8_t x = *(uint8_t *)mapping_start;
+  int result = probe(evset, threshold);
+  printf("simple probe after conflict: %d\n", result);
+
+  access_set(evset);
+  x = *(uint8_t *)mapping_start;
+  // usleep(10);
+  uint64_t access_time = time_load((uint8_t *)evset->head);
+  printf("access head with conflict: %lu\n", access_time);
+
+  access_set(evset);
+  _mm_mfence();
+  _mm_prefetch(evset->head, _MM_HINT_NTA);
+  _mm_mfence();
+  // usleep(10);
+  x = *(uint8_t *)mapping_start;
+  access_time = time_load((uint8_t *)evset->head);
+  printf("access head after prefetchnta with conflict: %lu\n", access_time);
+  deep_free_es(evset);
+
+  // uint8_t probemap[KABYLAKE_NUM_SLICES][512 * 512];
+  // uint64_t keystrokes[10][10];
+  //
+  // es_list = get_all_slices_eviction_sets(mapping_start, 428);
+  // printf("eviction set found, please start the victim program\n");
+  // sleep(5);
+  //
+  // uint64_t *hit_count = prime_probe_many_sets(
+  //     es_list, KABYLAKE_NUM_SLICES, KABYLAKE_ASSOCIATIVITY, 512 * 512,
+  //     probemap, 10 * 10, keystrokes, threshold);
+  // free(hit_count);
+  //
+  // for (int i = 0; i < 8; i++) {
+  //   printf("--------------------------------------- slice %d "
+  //          "------------------------------\n",
+  //          i);
+  //   for (int j = 0; j < 64; j++) {
+  //     for (int k = 0; k < 64; k++) {
+  //       printf("%d ", probemap[i][512 * 512 - 64 * 64 + j * 64 + k]);
+  //     }
+  //     printf("\n");
+  //   }
+  //   printf("\n");
+  // }
+
   // measure_keystroke(threshold_from_flush(mapping_start));
-  free_es_list(es_list);
+  // free_es_list(es_list);
   munmap(mapping_start, EVERGLADES_LLC_SIZE << 4);
   return 0;
 }
