@@ -536,6 +536,15 @@ async function l3pp_main(options){
             evset.probe();
         }
 
+        const socket = new WebSocket("ws://localhost:8000")
+        socket.addEventListener("open", () => {
+            socket.send("Hello World!")
+        })
+
+        socket.addEventListener("message", (event)=>{
+            log("Server message: " + event.data)
+        })
+
         while(true){
             count = 0;
             for(let i = 0; i < TRANSMIT_ROUNDS_SIDE; i++){

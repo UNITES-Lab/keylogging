@@ -16,3 +16,9 @@ Builds upon the following software:
 Third party code located in:
 - static/js/leaky-page/
 - static/js/evsets/
+
+## Running the C Websocket server 
+- install according to instructions on https://github.com/Theldus/wsServer
+- copy sample code into cserver.c
+- gcc -I /usr/local/include/wsserver/ cserver.c /usr/local/lib64/libws.a -o cserver
+- ./cserver
