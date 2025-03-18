@@ -226,32 +226,78 @@ void measure_keystroke_without_slice(int threshold) {
 int main() {
 
   init_mapping();
-  int threshold = 155;
+  int threshold = threshold_from_flush(mapping_start);
   CacheLineSet *cl_set = new_cl_set();
   if (!get_minimal_set(mapping_start, &cl_set, threshold)) {
     printf("Failed to find minimal eviction set for the given target\n");
   }
 
   EvictionSet *evset = new_eviction_set(cl_set);
-  access_set(evset);
-  volatile uint8_t x = *(uint8_t *)mapping_start;
-  int result = probe(evset, threshold);
-  printf("simple probe after conflict: %d\n", result);
 
-  access_set(evset);
-  x = *(uint8_t *)mapping_start;
-  // usleep(10);
-  uint64_t access_time = time_load((uint8_t *)evset->head);
-  printf("access head with conflict: %lu\n", access_time);
+  for (int j = 0; j < 10; j++) {
+    access_set(evset);
+    volatile uint8_t x = *(uint8_t *)mapping_start;
+    int result = probe(evset, threshold);
+    printf("simple probe after conflict: %d\n", result);
 
-  access_set(evset);
-  _mm_mfence();
-  _mm_prefetch(evset->head, _MM_HINT_NTA);
-  _mm_mfence();
-  // usleep(10);
-  x = *(uint8_t *)mapping_start;
-  access_time = time_load((uint8_t *)evset->head);
-  printf("access head after prefetchnta with conflict: %lu\n", access_time);
+    usleep(10);
+
+    CacheLine *start = evset->head->next;
+    access_set(evset);
+    for (int i = 0; i < 5; i++) {
+      CacheLine *iter = start;
+      while (iter != NULL) {
+        iter = iter->next;
+      }
+    }
+    x = *(uint8_t *)mapping_start;
+    // usleep(10);
+    uint64_t access_time = time_load((uint8_t *)evset->head);
+    printf("access head with conflict: %lu\n", access_time);
+
+    usleep(10);
+    access_set(evset);
+    for (int i = 0; i < 5; i++) {
+      CacheLine *iter = start;
+      while (iter != NULL) {
+        iter = iter->next;
+      }
+    }
+
+    access_time = time_load((uint8_t *)evset->head);
+    printf("access head without conflict: %lu\n", access_time);
+
+    usleep(10);
+    access_set(evset);
+    for (int i = 0; i < 5; i++) {
+      CacheLine *iter = start;
+      while (iter != NULL) {
+        iter = iter->next;
+      }
+    }
+    _mm_prefetch(evset->head,
+                 _MM_HINT_NTA); // prefetch scope line into L1 without updating
+                                // age in LLC
+
+    access_time = time_load((uint8_t *)evset->head);
+    printf("prime_prefetch_scope with conflict: %lu\n", access_time);
+
+    usleep(10);
+    access_set(evset);
+    for (int i = 0; i < 5; i++) {
+      CacheLine *iter = start;
+      while (iter != NULL) {
+        iter = iter->next;
+      }
+    }
+    _mm_prefetch(evset->head,
+                 _MM_HINT_NTA); // prefetch scope line into L1 without updating
+                                // age in LLC
+    x = *(uint8_t *)mapping_start;
+    access_time = time_load((uint8_t *)evset->head);
+    printf("prime_prefetch_scope with conflict: %lu\n", access_time);
+  }
+
   deep_free_es(evset);
 
   // uint8_t probemap[KABYLAKE_NUM_SLICES][512 * 512];
