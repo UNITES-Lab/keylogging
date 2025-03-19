@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import os
 import struct
 import ast
+from simulate import load_json
 
 def sort_output(data):
     # List to store the extracted numbers
@@ -58,20 +59,20 @@ def graph(input_file, attack_type, output_file, normalize):
     values = np.fromfile(input_file, dtype=np.uint64) 
     CPU_FREQ = 3.4
     timestamps = ((values-values[0])/ (3.4 * 1000000)).astype(int)
-    range = values-values[values.size-1]
     sorted_timestamps = np.sort(timestamps)
     print(sorted_timestamps)
     # plotting histogram with 10 ms intervals over 10s
-    counts = np.zeros(20000, dtype=int)
     if normalize:
         sorted_timestamps = sorted_timestamps - sorted_timestamps[1]
+    range = sorted_timestamps[-1] - sorted_timestamps[0]+1
+    counts = np.zeros(range, dtype=int)        
     for v in sorted_timestamps:
         counts[v] += 1
     strokes = [i for i in counts if i >= 250]
     print("valid detections: " + str(len(strokes)))
 
     plt.figure()
-    plt.plot(range(20000), counts, color='red', alpha=0.7, linewidth=1)
+    plt.plot(range(range), counts, color='red', alpha=0.7, linewidth=1)
     plt.xlabel("time (ms)")
     plt.ylabel("detection count")
     plt.title(attack_type + " Detection Count Line Plot")
@@ -80,9 +81,10 @@ def graph(input_file, attack_type, output_file, normalize):
 
     return values[0]
 
-def stat(input_file, truth_file, normalize):
+def stat(input_file, normalize):
     values = np.fromfile(input_file, dtype=np.uint64) 
-    truth_values = np.fromfile(truth_file, dtype=np.uint64) 
+    ####Work on here
+    truth_values = load_json(f"simulation/data/cleaned_data/{filename}")
     CPU_FREQ = 3.4
     
     timestamps = ((values-values[0])/ (3.4 * 1000000)).astype(int)
@@ -190,5 +192,6 @@ def stat(input_file, truth_file, normalize):
     # dtw_visualisation.plot_warpingpaths(diff_truth, diff_pp[4:], dtw.warping_paths(diff_truth, diff_pp[4:]), dtw.warping_path(diff_truth, diff_pp[4:]), filename="warp3.png")
     
 if __name__ == "__main__":
-    graph("./simulation/output_binary/across_participant_across_sentence_test/36799-399612-225.bin", "Prime+Probe", "pp_keystrokes.png", True)
+    graph("output_binary/across_participant_across_sentence_test/36799-399612-225.bin", "Prime+Probe", "pp_keystrokes.png", True)
+    graph("output_binary/across_participant_across_sentence_test/36799-399612-225.bin", "", True)
 

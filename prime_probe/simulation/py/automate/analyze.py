@@ -4,6 +4,8 @@ import sys
 import os
 from simulate import load_json
 import json
+from progress.bar import Bar
+
 
 CPU_FREQ = 3.4
 MIN_KEYSTROKE_INTERVAL = 50
@@ -69,8 +71,12 @@ def analyze_file(path_to_file, graph):
 def export_json(filename, intervals):
     data = load_json(f"simulation/data/cleaned_data/{filename}.jsonl") 
     assert(len(data) == len(intervals))
+    bar = Bar('Converting to JSON', max = int(len(data)))
+
     for i in range(len(data)):
         data[i]["pp_intervals"] = intervals[i] 
+        bar.next()
+    bar.finish()
     with open(f"simulation/data/output_data/{filename}.jsonl", "w") as f:
         json.dump(data, f, indent=4)
 

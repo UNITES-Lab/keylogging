@@ -5,6 +5,8 @@ import os
 import sys
 # import keymapping from keymap.py
 from keymap import *
+from progress.bar import Bar
+
 
 # import shared memory
 from multiprocessing import shared_memory, Manager
@@ -130,6 +132,8 @@ if __name__ == "__main__":
 
         total_duration = get_total_duration(data[start_index:], SPEEDUP)
         print(f"The test is estimated to take {total_duration[0]} days {total_duration[1]} hours {total_duration[2]} minutes {total_duration[3]} seconds {total_duration[4]} milliseconds")
+        bar = Bar('Replaying', max = int(len(data[start_index:])))
+        nSentence = 0
         for sentence in data[start_index:]:
             sentence_id = f"{sentence['participant_id']}-{sentence['test_section_id']}-{sentence['sentence_id']}"
             # initialize simulation state and acknowledge
@@ -159,7 +163,14 @@ if __name__ == "__main__":
 
             # run simulation
             simulate(device, sentence, SPEEDUP)
-    
+            bar.next()
+            nSentence += 1
+            left_duration = get_total_duration(data[nSentence:], SPEEDUP) - sum(sentence["intervals"])
+            print(f"The test is estimated to take {left_duration[0]} days {left_duration[1]} hours {left_duration[2]} minutes {left_duration[3]} seconds {left_duration[4]} milliseconds")
+
+
+
+        bar.finish()
         # send all sim complete signal
         buffer[1] = 2
 
@@ -179,6 +190,8 @@ if __name__ == "__main__":
             total_duration = get_total_duration(data, SPEEDUP)
             print(f"nonmapped_keys: {nonmapped_keys}")
             print(f"The test is estimated to take {total_duration[0]} days {total_duration[1]} hours {total_duration[2]} minutes {total_duration[3]} seconds {total_duration[4]} milliseconds")
+            bar = Bar(message = 'Replaying', max = int(len(data)))
+            nSentence = 0
             for sentence in data:
                 sentence_id = f"{sentence["participant_id"]}-{sentence["test_section_id"]}-{sentence["sentence_id"]}"
                 # initialize simulation state and acknowledge
@@ -207,6 +220,11 @@ if __name__ == "__main__":
 
                 # run simulation
                 simulate(device, sentence, SPEEDUP)
+
+                bar.next()
+                nSentence += 1
+                left_duration = get_total_duration(data[nSentence:], SPEEDUP)
+                print(f"The test is estimated to take {left_duration[0]} days {left_duration[1]} hours {left_duration[2]} minutes {left_duration[3]} seconds {left_duration[4]} milliseconds")
         
         # send all sim complete signal
         buffer[1] = 2

@@ -65,7 +65,7 @@ KEY_MAP = {
 
     # Whitespace/Control keys
     " ": uinput.KEY_SPACE,
-    "Tab": uinput.KEY_TAB,
+    "TAB": uinput.KEY_TAB,
     "Enter": uinput.KEY_ENTER,
     "BKSP": uinput.KEY_BACKSPACE,
 
@@ -146,12 +146,12 @@ KEY_MAP = {
     "%": uinput.KEY_5,
     "^": uinput.KEY_6,
     "&": uinput.KEY_7,
-    "*": uinput.KEY_8,
+    "NUM_MULT": uinput.KEY_8,
     "(": uinput.KEY_9,
     ")": uinput.KEY_0,
     "~": uinput.KEY_GRAVE,
     "_": uinput.KEY_MINUS,
-    "+": uinput.KEY_EQUAL,
+    "NUM_ADD": uinput.KEY_EQUAL,
     "{": uinput.KEY_LEFTBRACE,
     "}": uinput.KEY_RIGHTBRACE,
     "|": uinput.KEY_BACKSLASH,
