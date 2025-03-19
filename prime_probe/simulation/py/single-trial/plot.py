@@ -13,7 +13,7 @@ def sort_output(data):
     keyrelease_output = []
 
     # Process each line in the log file
-    start_time = 0;
+    start_time = 0
     found_start = False
     for line in data:
         if found_start:
@@ -58,6 +58,7 @@ def graph(input_file, attack_type, output_file, normalize):
     values = np.fromfile(input_file, dtype=np.uint64) 
     CPU_FREQ = 3.4
     timestamps = ((values-values[0])/ (3.4 * 1000000)).astype(int)
+    range = values-values[values.size-1]
     sorted_timestamps = np.sort(timestamps)
     print(sorted_timestamps)
     # plotting histogram with 10 ms intervals over 10s
@@ -189,13 +190,5 @@ def stat(input_file, truth_file, normalize):
     # dtw_visualisation.plot_warpingpaths(diff_truth, diff_pp[4:], dtw.warping_paths(diff_truth, diff_pp[4:]), dtw.warping_path(diff_truth, diff_pp[4:]), filename="warp3.png")
     
 if __name__ == "__main__":
-    graph("pp_keystrokes.bin", "Prime+Probe", "pp_keystrokes.png", True)
-    # for i in range(4):
-    #     graph("pp_keystroke
-    # s_"+str(i) + ".bin", "Prime+Probe", "pp_keystrokes_"+str(i), False);
-    output = os.popen("sudo dmesg -c").read().strip().split("\n")
-    data = sort_output(output)
-    formatted_list = [data["start_time"]] + data["keypresses"] # keystroke time reported from spy is relative to start-time 
-    flush_list_to_binary(formatted_list, "kl_keystrokes.bin")
-    graph("kl_keystrokes.bin", "Keylogger", "kl_keystrokes.png", True) 
+    graph("./simulation/output_binary/across_participant_across_sentence_test/36799-399612-225.bin", "Prime+Probe", "pp_keystrokes.png", True)
 
