@@ -64,15 +64,15 @@ def graph(input_file, attack_type, output_file, normalize):
     # plotting histogram with 10 ms intervals over 10s
     if normalize:
         sorted_timestamps = sorted_timestamps - sorted_timestamps[1]
-    range = sorted_timestamps[-1] - sorted_timestamps[0]+1
-    counts = np.zeros(range, dtype=int)        
+    timerange = sorted_timestamps[-1] - sorted_timestamps[0]+1
+    counts = np.zeros(timerange, dtype=int)        
     for v in sorted_timestamps:
         counts[v] += 1
-    strokes = [i for i in counts if i >= 250]
+    strokes = [i for i in counts if i >= 50]
     print("valid detections: " + str(len(strokes)))
 
     plt.figure()
-    plt.plot(range(range), counts, color='red', alpha=0.7, linewidth=1)
+    plt.plot(range(timerange), counts, color='red', alpha=0.7, linewidth=1)
     plt.xlabel("time (ms)")
     plt.ylabel("detection count")
     plt.title(attack_type + " Detection Count Line Plot")
@@ -192,6 +192,5 @@ def stat(input_file, normalize):
     # dtw_visualisation.plot_warpingpaths(diff_truth, diff_pp[4:], dtw.warping_paths(diff_truth, diff_pp[4:]), dtw.warping_path(diff_truth, diff_pp[4:]), filename="warp3.png")
     
 if __name__ == "__main__":
-    graph("output_binary/across_participant_across_sentence_test/36799-399612-225.bin", "Prime+Probe", "pp_keystrokes.png", True)
-    graph("output_binary/across_participant_across_sentence_test/36799-399612-225.bin", "", True)
+    graph("output_binary/across_participant_across_sentence_test/513422-5527477-902.bin", "Prime+Probe", "pp_keystrokes.png", True)
 
