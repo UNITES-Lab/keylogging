@@ -7,6 +7,8 @@ import os
 import struct
 import ast
 from simulate import load_json
+import re
+import json
 
 def sort_output(data):
     # List to store the extracted numbers
@@ -55,24 +57,96 @@ def flush_list_to_binary(data_list, filename):
         file.flush()
         os.fsync(file.fileno())
 
-def graph(input_file, attack_type, output_file, normalize):
+def extract_ids(filepath):
+    """
+    Extracts three numbers from a filepath string.
+    
+    Expected format:
+      .../xxx-xxxx-xxxx.bin
+    where xxx, xxxx, and xxxx are numeric groups.
+    
+    Returns:
+      A tuple of three integers: (participant, test_section, sentence)
+      or None if the pattern doesn't match.
+    """
+    # Regular expression to match three groups of digits separated by hyphens and ending with .bin
+    pattern = r'(\d+)-(\d+)-(\d+)\.bin'
+    match = re.search(pattern, filepath)
+    if match:
+        participant = int(match.group(1))
+        test_section = int(match.group(2))
+        sentence = int(match.group(3))
+        return participant, test_section, sentence
+    else:
+        return None
+
+def retrieve(json_file, participant_id, test_section_id, sentence_id):
+
+    with open(json_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    
+    for record in data:
+        if (record.get("participant_id") == participant_id and
+            record.get("test_section_id") == test_section_id and
+            record.get("sentence_id") == sentence_id):
+            return record.get("intervals")
+    return None
+
+def find_threshhold(counts, target):
+    low = 0
+    high = int(counts.max())
+    best_v = low
+    best_diff = float('inf')
+    
+    while low <= high:
+        mid = 20
+        filtered = np.where(counts >= mid)[0]
+        num_filtered = len(filtered)
+        diff = abs(num_filtered - target)
+        
+        if diff == 0:
+            return mid
+        
+        if diff < best_diff:
+            best_diff = diff
+            best_v = mid
+        
+        if num_filtered > target:
+            low = mid + 3
+        else:
+            high = mid - 3
+            
+    return best_v
+
+def graph(input_file, truth_file, attack_type, output_file, normalize):
+
     values = np.fromfile(input_file, dtype=np.uint64) 
     CPU_FREQ = 3.4
     timestamps = ((values-values[0])/ (3.4 * 1000000)).astype(int)
     sorted_timestamps = np.sort(timestamps)
     print(sorted_timestamps)
     # plotting histogram with 10 ms intervals over 10s
-    if normalize:
-        sorted_timestamps = sorted_timestamps - sorted_timestamps[1]
+    sorted_timestamps = sorted_timestamps - sorted_timestamps[1]
     timerange = sorted_timestamps[-1] - sorted_timestamps[0]+1
     counts = np.zeros(timerange, dtype=int)        
     for v in sorted_timestamps:
         counts[v] += 1
-    strokes = [i for i in counts if i >= 50]
+    strokes = [i for i in counts if i >= 20]
     print("valid detections: " + str(len(strokes)))
+    
+
+    ids = extract_ids(input_file)
+    intervals = retrieve(truth_file,ids[0], ids[1], ids[2])
+    intervals[0] = 0
+    truths = np.cumsum(intervals)
+    truths += 1200
+    print("ground truth: " + str(len(truths)))
+
 
     plt.figure()
-    plt.plot(range(timerange), counts, color='red', alpha=0.7, linewidth=1)
+    plt.plot(range(len(counts)), counts, color='red', alpha=0.7, linewidth=1)
+    for t in truths:
+        plt.axvline(x=t, color='blue', linestyle=':', alpha=0.7)
     plt.xlabel("time (ms)")
     plt.ylabel("detection count")
     plt.title(attack_type + " Detection Count Line Plot")
@@ -81,36 +155,44 @@ def graph(input_file, attack_type, output_file, normalize):
 
     return values[0]
 
-def stat(input_file, normalize):
+def stat(input_file, truth_file, normalize):
     values = np.fromfile(input_file, dtype=np.uint64) 
-    ####Work on here
-    truth_values = load_json(f"simulation/data/cleaned_data/{filename}")
     CPU_FREQ = 3.4
     
     timestamps = ((values-values[0])/ (3.4 * 1000000)).astype(int)
     sorted_timestamps = np.sort(timestamps)
+    sorted_timestamps = sorted_timestamps - sorted_timestamps[1]
+    timerange = sorted_timestamps[-1] - sorted_timestamps[0]+1
 
-    truths = ((truth_values-truth_values[0])/ (3.4 * 1000000)).astype(int)
-    sorted_truths = np.sort(truths)
+    ids = extract_ids(input_file)
+    intervals = retrieve(truth_file,ids[0], ids[1], ids[2])
+    intervals[0] = 0
+    truths = np.cumsum(intervals)
+    truths += 1000
+    
+    # truths += 800
 
-    counts = np.zeros(10000, dtype=int)
-    accurates = []
+    counts = np.zeros(timerange, dtype=int)
     grouped = []
     filtered = []
 
-   
     
     for v in sorted_timestamps:
         counts[v] += 1
-
-    filtered = np.where(counts >= 60)[0]         #change this value to adjust threshhold per noise, default is 75 counts
+    # count_threshhold = find_threshhold(counts, len(intervals))
+    # print("count threshold: ", count_threshhold)
+    filtered = np.where(counts >= 20)[0]         #change this value to adjust threshhold per noise, default is 20 counts
     
 
     #grouping function
+    # threshhold = np.mean(intervals) - (2.5*np.std(intervals))
+    # print(np.mean(intervals), np.std(intervals))
+    # print("grouping threshold: ", threshhold)
     prev = filtered[0]
-    grouped.append(filtered[0])
+    grouped.append(0)
     for v in filtered:
-        if(v-prev > 50):          #change this value to adjust threshhold, default is 10ms
+        if(v-prev > 70):          #change this value to adjust threshhold, default is 85ms 121 - 3SD(12) = 85ms
+            v += 15
             grouped.append(v)
         prev = v
 
@@ -118,35 +200,19 @@ def stat(input_file, normalize):
 
     #determining normalization factor, find mathcing interval pattern, consider using DTW or measureing the difference in start time in two modules, latter is probably better
 
-    #Kernel module inserted at: 1740674374713510339 ns, Keylogger started at: 1740674374726586827 ns diff = -13076480ns/1000000 = 13.076 ms
-
     if normalize:
         grouped = np.array(grouped)                           
         grouped = grouped - 2500        #subtract first keystroke time
-        sorted_truths = sorted_truths - sorted_truths[1]
 
     diff_pp = np.diff(grouped)
-    diff_truth = np.diff(sorted_truths) 
-
-
-    #accuracy calculation with +-
-    prev = 0
-    for k in diff_truth:
-        for v in diff_pp[7 + prev:10 + prev]:
-            prev += 1
-            if (abs(k-v) < 5):            #change this value to adjust threshhold, default is +-5ms
-                accurates.append(v)
-                break
-
 
     
 
-    print(diff_pp[4:])
-    print(diff_truth)
-    print(accurates)
+    print(diff_pp)
+    print(intervals)
 
     # #accuracy calculation with +-
-    # for k in diff_truth:
+    # for k in intervals:
     #     for v in diff_pp:
     #         if (abs(k-v) < 5):            #change this value to adjust threshhold, default is +-5ms
     #             accurates.append(v)
@@ -156,41 +222,45 @@ def stat(input_file, normalize):
     # print(accurates)
 
     #interval calculation
-    
-    print("Accuracy: " + str((len(accurates)/len(diff_pp))))
-    print("F-value: " + str(np.var(diff_pp[4:])/np.var(diff_truth)))
-    # print("Correlation Coefficient: " + str(np.corrcoef(diff_truth, diff_pp[25:])[0, 1]))
+    print("valid detections: " + str(len(diff_pp)))
+    print("ground truth: " + str(len(intervals)))
+    print("F-value: " + str(np.var(diff_pp[4:])/np.var(intervals)))
+    # print("Correlation Coefficient: " + str(np.corrcoef(intervals, diff_pp[25:])[0, 1]))
 
-    corr = signal.correlate(diff_truth, diff_pp, mode='valid')
+    corr = signal.correlate(diff_pp, intervals, mode='same') / len(intervals)
 
     bestMatch = np.argmax(corr)
 
     print("Best matching starting index:", bestMatch)
 
-    print("DTW Distance: ", dtw.distance(diff_truth, diff_pp[3:]))
-    dtw_visualisation.plot_warping(diff_truth, diff_pp[3:], dtw.warping_path(diff_truth, diff_pp[3:]), filename="warp.png")
+    print("DTW Distance: ", dtw.distance(intervals, diff_pp[3:]))
+    dtw_visualisation.plot_warping(intervals, diff_pp[3:], dtw.warping_path(intervals, diff_pp[3:]), filename="warp.png")
 
 
     
-    
-    clock = np.arange(64, len(diff_pp), 128)
+    ##Fix Cross Correlation
+
     fig, (ax_orig, ax_noise, ax_corr) = plt.subplots(3, 1, sharex=True)
-    ax_orig.plot(diff_truth, 'b-')
-    ax_orig.plot(np.arange(len(diff_truth)), diff_truth, 'ro')
+
+    ax_orig.plot(intervals, 'b-')
+    ax_orig.plot(np.arange(len(intervals)), intervals, 'ro')
     ax_orig.set_title('Original signal')
+
     ax_noise.plot(diff_pp)
     ax_noise.set_title('Signal with noise')
-    ax_corr.plot(corr, 'b-')
-    ax_corr.plot(np.arange(len(diff_truth)), diff_truth, 'ro')
-    ax_corr.axhline(0.5, ls=':')
+
+    ax_corr.plot(np.arange(len(intervals)), intervals, 'ro')
+    ax_corr.axhline(500, ls=':')
     ax_corr.set_title('Cross-correlated with rectangular pulse')
+
     ax_orig.margins(0, 0.1)
     fig.tight_layout()
+
     plt.title(" Cross Correlation Plot")
     plt.savefig("correlation.png")
 
-    # dtw_visualisation.plot_warpingpaths(diff_truth, diff_pp[4:], dtw.warping_paths(diff_truth, diff_pp[4:]), dtw.warping_path(diff_truth, diff_pp[4:]), filename="warp3.png")
+    # dtw_visualisation.plot_warpingpaths(intervals, diff_pp[4:], dtw.warping_paths(intervals, diff_pp[4:]), dtw.warping_path(intervals, diff_pp[4:]), filename="warp3.png")
     
 if __name__ == "__main__":
-    graph("output_binary/across_participant_across_sentence_test/513422-5527477-902.bin", "Prime+Probe", "pp_keystrokes.png", True)
-
+    graph("output_binary/across_participant_across_sentence_test/4950-56396-2156.bin", "data/cleaned_data/across_participant_across_sentence_test.jsonl", "Prime+Probe", "pp_keystrokes.png", True)
+    stat("output_binary/across_participant_across_sentence_test/4950-56396-2156.bin", "data/cleaned_data/across_participant_across_sentence_test.jsonl", True)
