@@ -341,7 +341,7 @@ function EvSet(view, nblocks, start=8192, victim=4096, assoc=16, stride=4096, of
 
 	/* properties */
 	this.start = start;
-	this.offset = (offset&0x3f)<<6;
+	this.offset = (offset&0x7fff)<<6;
 	this.victim = victim+this.offset;
 	view.setUint32(this.victim, 0, true); // lazy alloc
 	this.assoc = assoc;

