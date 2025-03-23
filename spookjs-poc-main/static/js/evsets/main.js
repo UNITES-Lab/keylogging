@@ -104,7 +104,7 @@ function optimizationStatusToString(status) {
 
 // Send log to main thread
 // Constants
-const P = 4096;
+const P = 24576;
 const VERBOSE = false;
 const NOLOG = false;
 

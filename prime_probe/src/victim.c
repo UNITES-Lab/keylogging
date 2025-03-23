@@ -51,12 +51,12 @@ int main() {
   }
 
   uint64_t start_time = 0;
-  int i = 127;
+  int i = 428;
   while (1) {
     /* profiling set and slice */
     uint64_t start = __rdtscp(&core_id);
     while (__rdtscp(&core_id) - start < 10000) {
-      for (int j = 0; j < 8; j++) {
+      for (int j = 0; j < 32; j++) {
         volatile char tmp = *(volatile char *)(cl_set[i]->cache_lines[j]);
       }
     }
