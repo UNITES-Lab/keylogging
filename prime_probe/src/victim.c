@@ -51,12 +51,14 @@ int main() {
   }
 
   uint64_t start_time = 0;
-  int i = 511;
   while (1) {
-    // for (int i = 511; i < 512; i += 64) {
-    for (int j = 0; j < 32; j++) {
-      volatile char tmp = *(volatile char *)(cl_set[i]->cache_lines[j]);
+    // int i = 383;
+    // int j = 4;
+    /* profiling set and slice */
+    for (int i = 127; i < 128; i += 64) {
+      for (int j = 0; j < 8; j++) {
+        volatile char tmp = *(volatile char *)(cl_set[i]->cache_lines[j]);
+      }
     }
-    // }
   }
 }
