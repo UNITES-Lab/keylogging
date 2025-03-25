@@ -80,7 +80,7 @@ def extract_ids(filepath):
     else:
         return None
 
-def retrieve(json_file, participant_id, test_section_id, sentence_id):
+def retrieve(json_file, participant_id, test_section_id, sentence_id, query):
 
     with open(json_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
@@ -89,7 +89,7 @@ def retrieve(json_file, participant_id, test_section_id, sentence_id):
         if (record.get("participant_id") == participant_id and
             record.get("test_section_id") == test_section_id and
             record.get("sentence_id") == sentence_id):
-            return record.get("intervals")
+            return record.get(query)
     return None
 
 def find_threshhold(counts, target):
@@ -136,7 +136,7 @@ def graph(input_file, truth_file, attack_type, output_file, normalize):
     
 
     ids = extract_ids(input_file)
-    intervals = retrieve(truth_file,ids[0], ids[1], ids[2])
+    intervals = retrieve(truth_file,ids[0], ids[1], ids[2], "intervals")
     intervals[0] = 0
     truths = np.cumsum(intervals)
     truths += 1200
@@ -165,7 +165,7 @@ def stat(input_file, truth_file, normalize):
     timerange = sorted_timestamps[-1] - sorted_timestamps[0]+1
 
     ids = extract_ids(input_file)
-    intervals = retrieve(truth_file,ids[0], ids[1], ids[2])
+    intervals = retrieve(truth_file,ids[0], ids[1], ids[2], "intervals")
     intervals[0] = 0
     truths = np.cumsum(intervals)
     truths += 1000
@@ -262,5 +262,5 @@ def stat(input_file, truth_file, normalize):
     # dtw_visualisation.plot_warpingpaths(intervals, diff_pp[4:], dtw.warping_paths(intervals, diff_pp[4:]), dtw.warping_path(intervals, diff_pp[4:]), filename="warp3.png")
     
 if __name__ == "__main__":
-    graph("output_binary/across_participant_across_sentence_test/4950-56396-2156.bin", "data/cleaned_data/across_participant_across_sentence_test.jsonl", "Prime+Probe", "pp_keystrokes.png", True)
-    stat("output_binary/across_participant_across_sentence_test/4950-56396-2156.bin", "data/cleaned_data/across_participant_across_sentence_test.jsonl", True)
+    graph("output_binary/across_participant_across_sentence_test/1628-16560-7534.bin", "data/cleaned_data/across_participant_across_sentence_test.jsonl", "Prime+Probe", "pp_keystrokes.png", True)
+    stat("output_binary/across_participant_across_sentence_test/1628-16560-7534.bin", "data/cleaned_data/across_participant_across_sentence_test.jsonl", True)

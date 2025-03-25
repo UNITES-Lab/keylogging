@@ -3,12 +3,15 @@ import numpy as np
 import sys
 import os
 from simulate import load_json  
+from plot import retrieve, extract_ids  
 import json
+from progress.bar import ChargingBar
 
 CPU_FREQ = 3.4
-MIN_KEYSTROKE_INTERVAL = 50
-BINARY_DIR = "simulation/output_binary_sample"
-
+MIN_KEYSTROKE_INTERVAL = 70
+BINARY_DIR = "output_binary/across_participant_across_sentence_valid"
+JSON_PATH = "data/cleaned_data/across_participant_across_sentence_valid.jsonl"
+JSON_NAME = "across_participant_across_sentence_valid"
 def graph(traces, attack_type, output_file):
     counts = get_hit_count(traces) 
 
@@ -57,7 +60,7 @@ def load_trace(input_file):
 def analyze_file(path_to_file, graph):
     pp_trace = load_trace(path_to_file)
     counts_per_ms = get_hit_count(pp_trace)
-    THRESHOLD = 15 # TODO: Find a dynamic algorithm to determine the threshold
+    THRESHOLD = 20 # TODO: Find a dynamic algorithm to determine the threshold
     if graph:
         filepath = path_to_file[len(BINARY_DIR)+1:]
         directory_file_separate_index = filepath.find("/")
@@ -66,33 +69,30 @@ def analyze_file(path_to_file, graph):
         graph(counts_per_ms, "Prime+Probe", f"simulation/figures/{target_directory}/{file}.png")
     return get_interval(counts_per_ms, THRESHOLD)
 
+def format_json(filename, intervals):
+    truth = load_json(JSON_PATH) 
+    ids = extract_ids(filename)
+    input_string = retrieve(JSON_PATH, ids[0], ids[1], ids[2], "input_string")
+    keystrokes = retrieve(JSON_PATH, ids[0], ids[1], ids[2], "keystrokes")
+    output = {
+        "participant_id": ids[0], 
+        "test_section_id": ids[1], 
+        "input_string": input_string,
+        "keystrokes": keystrokes,
+        "intervals": intervals, 
+        "sentence_id": ids[2]
+    }  
+    return output
+
+
 def export_json(filename, intervals):
-    data = load_json(f"simulation/data/cleaned_data/{filename}.jsonl") 
-    assert(len(data) == len(intervals))
-    for i in range(len(data)):
-        data[i]["pp_intervals"] = intervals[i] 
-    with open(f"simulation/data/output_data/{filename}.jsonl", "w") as f:
-        json.dump(data, f, indent=4)
+    # data = load_json(JSON_PATH) 
+    # assert(len(data) == len(intervals))
+    # for i in range(len(data)):
+        # data[i]["pp_intervals"] = intervals[i] 
+    with open(f"data/output_data/{filename}.jsonl", "w") as f:
+        json.dump(intervals, f, indent=4)
 
-def filter(values):
-    timestamps = ((values-values[0])/ (3.4 * 1000000)).astype(int)
-    sorted_timestamps = np.sort(timestamps)
-    sorted_timestamps = sorted_timestamps - sorted_timestamps[1]
-    timerange = sorted_timestamps[-1] - sorted_timestamps[0] + 1
-
-    for v in sorted_timestamps:
-        counts[v] += 1
-
-    filtered = np.where(counts >= 20)[0]         #change this value to adjust threshhold per noise, default is 75 counts
-    
-
-    #grouping function
-    prev = filtered[0]
-    grouped.append(filtered[0])
-    for v in filtered:
-        if(v-prev > 50):          #change this value to adjust threshhold, default is 10ms
-            grouped.append(v)
-        prev = v
 
 
 def help():
@@ -107,27 +107,25 @@ def help():
 if __name__ == "__main__":
     num_arguments = len(sys.argv)
     if num_arguments == 1:
-        directories = os.listdir(BINARY_DIR)
-        for directory in directories:
-            directory_path = f"{BINARY_DIR}/{directory}"
-            files = os.listdir(directory_path)
-            intervals = []
-            for file in files:
-                print(file)
-                path = f"{directory_path}/{file}"
-                interval = analyze_file(path, False)                 
-                intervals.append(interval) 
-            export_json(directory, intervals)
+        files = os.listdir(BINARY_DIR)
+        intervals = []
+        bar = ChargingBar('Converting', max = int(len(files)))
+        for file in files:
+            print("     ",file)
+            path = f"{BINARY_DIR}/{file}"
+            interval = analyze_file(path, False)       
+            formatted = format_json(file, interval)          
+            intervals.append(formatted)
+            bar.next() 
+        export_json(JSON_NAME, intervals)
     elif num_arguments == 2:
         if sys.argv[1] == "-h":
             help()
         else:
             folder = f"{BINARY_DIR}/{sys.argv[1]}"
-            files = os.listdir(folder)
             intervals = []
-            for file in files:
-                print(file)
-                path = f"{folder}/{file}"
-                interval = analyze_file(path, False)
-                intervals.append(interval)
+        
+            interval = analyze_file(folder, False)
+            formatted = format_json(sys.argv[1], interval)          
+            intervals.append(formatted) 
             export_json(sys.argv[1], intervals)
