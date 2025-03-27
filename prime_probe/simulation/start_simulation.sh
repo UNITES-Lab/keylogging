@@ -4,6 +4,7 @@
 CLEANED_DATA="cleaned_data"
 OUTPUT_BINARY="output_binary"
 OUTPUT_FIGURES="figures"
+SPEED_UP=3
 
 # Check if output_binary exists, if not, create it
 if [ ! -d "$OUTPUT_BINARY" ]; then
@@ -17,6 +18,7 @@ for file in "data/$CLEANED_DATA"/*.jsonl; do
     
     # Define the corresponding folder in output_binary
     folder_path_bin="$OUTPUT_BINARY/$filename"
+    sudo rm -rf $OUTPUT_BINARY/$filename/*.bin
     folder_path_fig="$OUTPUT_FIGURES/$filename"
     
     # Check if the folder exists, if not, create it
@@ -38,7 +40,7 @@ sudo taskset -c 0 ./bin/test.out &
 pp_pid=$!
 
 # execute simulation in the foreground
-python3 simulation/py/automate/simulate.py
+python3 simulation/py/automate/simulate.py $SPEED_UP
 
 wait $pp_pid
 

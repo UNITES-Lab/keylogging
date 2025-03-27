@@ -1,1 +1,1 @@
-savedcmd_/home/james/research/keylogging/prime_probe/v2p_kernel/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/james/research/keylogging/prime_probe/v2p_kernel/Module.symvers -T /home/james/research/keylogging/prime_probe/v2p_kernel/modules.order -i Module.symvers -e 
+savedcmd_/home/yosemite/research/keylogging/prime_probe/v2p_kernel/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/yosemite/research/keylogging/prime_probe/v2p_kernel/Module.symvers -T /home/yosemite/research/keylogging/prime_probe/v2p_kernel/modules.order -i Module.symvers -e 

@@ -40,6 +40,8 @@ def simulate(device, data, speedup):
         key = keystrokes[i+1]
         device.emit_click(KEY_MAP[key])
 
+    return 1
+
 def scan_keystrokes(data):
     all_keystrokes = []
     not_found_keys = []
@@ -134,12 +136,11 @@ if __name__ == "__main__":
         print(f"The test is estimated to take {total_duration[0]} days {total_duration[1]} hours {total_duration[2]} minutes {total_duration[3]} seconds {total_duration[4]} milliseconds")
         bar = Bar('Replaying', max = int(len(data[start_index:])))
         nSentence = 0
+        buffer[1] = 1
         for sentence in data[start_index:]:
             sentence_id = f"{sentence['participant_id']}-{sentence['test_section_id']}-{sentence['sentence_id']}"
-            # initialize simulation state and acknowledge
-            buffer[1] = 1 
             print("simulation state update to RDY")
-
+            
             buffer[2] = 0
 
             print(sentence)
@@ -162,12 +163,11 @@ if __name__ == "__main__":
 
 
             # run simulation
-            simulate(device, sentence, SPEEDUP)
+            buffer[1] = simulate(device, sentence, SPEEDUP)
             bar.next()
             nSentence += 1
             left_duration = get_total_duration(data[nSentence:], SPEEDUP) - sum(sentence["intervals"])
-            print(f"The test is estimated to take {left_duration[0]} days {left_duration[1]} hours {left_duration[2]} minutes {left_duration[3]} seconds {left_duration[4]} milliseconds")
-
+            print(f"\n The test is estimated to take {left_duration[0]} days {left_duration[1]} hours {left_duration[2]} minutes {left_duration[3]} seconds {left_duration[4]} milliseconds")
 
 
         bar.finish()
@@ -180,7 +180,8 @@ if __name__ == "__main__":
 
         # filenames in the cleaned data directory
         filenames = os.listdir("simulation/data/cleaned_data")
-
+        
+        
         # initialize condition
         for filename in filenames:
             buffer[1] = buffer[2] = 0
@@ -192,10 +193,10 @@ if __name__ == "__main__":
             print(f"The test is estimated to take {total_duration[0]} days {total_duration[1]} hours {total_duration[2]} minutes {total_duration[3]} seconds {total_duration[4]} milliseconds")
             bar = Bar(message = 'Replaying', max = int(len(data)))
             nSentence = 0
+            buffer[1] = 1
             for sentence in data:
                 sentence_id = f"{sentence["participant_id"]}-{sentence["test_section_id"]}-{sentence["sentence_id"]}"
                 # initialize simulation state and acknowledge
-                buffer[1] = 1 
                 print("simulation state update to RDY")
 
                 buffer[2] = 0
@@ -215,17 +216,19 @@ if __name__ == "__main__":
                 buffer[2] = 1
 
                 # signal prime+probe simulation in progress
-                buffer[1] = 0
+                buffer[1] = 0 
                 print("simulation state update to BUSY")
 
                 # run simulation
-                simulate(device, sentence, SPEEDUP)
-
+                buf_val = simulate(device, sentence, SPEEDUP)
+                time.sleep(1)
+                buffer[1] = buf_val
+                
                 bar.next()
                 nSentence += 1
                 left_duration = get_total_duration(data[nSentence:], SPEEDUP)
-                print(f"The test is estimated to take {left_duration[0]} days {left_duration[1]} hours {left_duration[2]} minutes {left_duration[3]} seconds {left_duration[4]} milliseconds")
-        
+                print(f"\nThe test is estimated to take {left_duration[0]} days {left_duration[1]} hours {left_duration[2]} minutes {left_duration[3]} seconds {left_duration[4]} milliseconds")
+
         # send all sim complete signal
         buffer[1] = 2
 

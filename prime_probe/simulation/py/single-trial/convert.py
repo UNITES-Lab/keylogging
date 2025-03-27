@@ -8,7 +8,7 @@ import json
 from progress.bar import ChargingBar
 
 CPU_FREQ = 3.4
-MIN_KEYSTROKE_INTERVAL = 70
+MIN_KEYSTROKE_INTERVAL = 50
 BINARY_DIR = "output_binary/across_participant_across_sentence_valid"
 JSON_PATH = "data/cleaned_data/across_participant_across_sentence_valid.jsonl"
 JSON_NAME = "across_participant_across_sentence_valid"
@@ -50,7 +50,8 @@ def get_interval(counts, threshold):
         elif index - prev > MIN_KEYSTROKE_INTERVAL:
             interval.append(index - prev)
             prev = index
-
+    
+    interval[0] = 0
     return interval
 
 

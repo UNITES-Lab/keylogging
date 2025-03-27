@@ -167,6 +167,7 @@ if __name__ == "__main__":
             nSentence += 1
             left_duration = get_total_duration(data[nSentence:], SPEEDUP) - sum(sentence["intervals"])
             print(f"The test is estimated to take {left_duration[0]} days {left_duration[1]} hours {left_duration[2]} minutes {left_duration[3]} seconds {left_duration[4]} milliseconds")
+            time.sleep(2/SPEEDUP)
 
 
 

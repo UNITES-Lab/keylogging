@@ -10,6 +10,8 @@ from simulate import load_json
 import re
 import json
 
+SPEED_UP = 3
+
 def sort_output(data):
     # List to store the extracted numbers
     keypress_output = []
@@ -122,7 +124,7 @@ def graph(input_file, truth_file, attack_type, output_file, normalize):
 
     values = np.fromfile(input_file, dtype=np.uint64) 
     CPU_FREQ = 3.4
-    timestamps = ((values-values[0])/ (3.4 * 1000000)).astype(int)
+    timestamps = ((values-values[0])*SPEED_UP/ (3.4 * 1000000)).astype(int)
     sorted_timestamps = np.sort(timestamps)
     print(sorted_timestamps)
     # plotting histogram with 10 ms intervals over 10s
@@ -159,7 +161,7 @@ def stat(input_file, truth_file, normalize):
     values = np.fromfile(input_file, dtype=np.uint64) 
     CPU_FREQ = 3.4
     
-    timestamps = ((values-values[0])/ (3.4 * 1000000)).astype(int)
+    timestamps = ((values-values[0])*SPEED_UP/ (3.4 * 1000000)).astype(int)
     sorted_timestamps = np.sort(timestamps)
     sorted_timestamps = sorted_timestamps - sorted_timestamps[1]
     timerange = sorted_timestamps[-1] - sorted_timestamps[0]+1
@@ -191,7 +193,7 @@ def stat(input_file, truth_file, normalize):
     prev = filtered[0]
     grouped.append(0)
     for v in filtered:
-        if(v-prev > 70):          #change this value to adjust threshhold, default is 85ms 121 - 3SD(12) = 85ms
+        if(v-prev > 35):          #change this value to adjust threshhold, default is 85ms 121 - 3SD(12) = 85ms
             v += 15
             grouped.append(v)
         prev = v
@@ -206,7 +208,7 @@ def stat(input_file, truth_file, normalize):
 
     diff_pp = np.diff(grouped)
 
-    
+    diff_pp[0] = 0
 
     print(diff_pp)
     print(intervals)
@@ -233,10 +235,10 @@ def stat(input_file, truth_file, normalize):
 
     print("Best matching starting index:", bestMatch)
 
-    print("DTW Distance: ", dtw.distance(intervals, diff_pp[3:]))
-    dtw_visualisation.plot_warping(intervals, diff_pp[3:], dtw.warping_path(intervals, diff_pp[3:]), filename="warp.png")
+    print("DTW Distance: ", dtw.distance(intervals, diff_pp))
+    dtw_visualisation.plot_warping(intervals, diff_pp, dtw.warping_path(intervals, diff_pp), filename="warp.png")
 
-
+    
     
     ##Fix Cross Correlation
 
@@ -262,5 +264,5 @@ def stat(input_file, truth_file, normalize):
     # dtw_visualisation.plot_warpingpaths(intervals, diff_pp[4:], dtw.warping_paths(intervals, diff_pp[4:]), dtw.warping_path(intervals, diff_pp[4:]), filename="warp3.png")
     
 if __name__ == "__main__":
-    graph("output_binary/across_participant_across_sentence_test/1628-16560-7534.bin", "data/cleaned_data/across_participant_across_sentence_test.jsonl", "Prime+Probe", "pp_keystrokes.png", True)
-    stat("output_binary/across_participant_across_sentence_test/1628-16560-7534.bin", "data/cleaned_data/across_participant_across_sentence_test.jsonl", True)
+    graph("output_binary/test/9119-97859-392.bin", "data/cleaned_data/test.jsonl", "Prime+Probe", "pp_keystrokes.png", True)
+    stat("output_binary/test/9119-97859-392.bin", "data/cleaned_data/test.jsonl", True)
