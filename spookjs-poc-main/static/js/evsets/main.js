@@ -126,6 +126,7 @@ exported.build_evset = async function start(options) {
 	const OFFSET = options.offset;
 	const module = options.module;
 	const memory = options.memory;
+	const CANDIDATE_SET = options.candidate_set
 
 	log(`OFFSET: ${OFFSET}`);
 
@@ -134,7 +135,7 @@ exported.build_evset = async function start(options) {
 	const view = new DataView(memory.buffer);
 
 	if (!NOLOG) log('Prepare new evset');
-	const evset = new EvSet(view, B, P*2, P, ASSOC, STRIDE, OFFSET);
+	const evset = new EvSet(view, B, 4096, P, ASSOC, STRIDE, OFFSET, CANDIDATE_SET);
 	first = true, next = CONFLICT;
 
 	n = 0;
@@ -296,7 +297,7 @@ function cb(instance, evset, findall) {
 	}
 }
 
-function EvSet(view, nblocks, start=8192, victim=4096, assoc=16, stride=4096, offset=0) {
+function EvSet(view, nblocks, start=8192, victim=4096, assoc=16, stride=4096, offset=0, candidate_set=[]) {
 
 	const RAND = true;
 
@@ -332,7 +333,8 @@ function EvSet(view, nblocks, start=8192, victim=4096, assoc=16, stride=4096, of
 	}
 
 	this.init = function() {
-		let indx = this.genIndices(view, stride);
+		// let indx = this.genIndices(view, stride);
+		let indx = candidate_set 
 		if (RAND) indx = this.randomize(indx);
 		indx.splice(nblocks, indx.length); // select nblocks elements
 		this.indicesToLinkedList(view, indx);
