@@ -1,4 +1,5 @@
 #define _DEFAULT_SOURCE
+#include <assert.h>
 #include <sched.h>
 #include <stdint.h>
 #include <stdio.h>
@@ -47,22 +48,45 @@ int main() {
   EvictionSet *es_set[1024];
 
   for (int i = 0; i < 1024; i++) {
-    cl_set[i] = hugepage_inflate(mapping_start, 32, i);
+    cl_set[i] = hugepage_inflate(mapping_start, 64, i);
   }
 
   uint64_t start_time = 0;
-  int i = 428;
-  while (1) {
-    /* profiling set and slice */
-    uint64_t start = __rdtscp(&core_id);
-    while (__rdtscp(&core_id) - start < 10000) {
-      for (int j = 0; j < 32; j++) {
-        volatile char tmp = *(volatile char *)(cl_set[i]->cache_lines[j]);
+  int target_set = 249;
+  int target_slice = 3;
+  uintptr_t paddr;
+  void *target_addrs[4];
+  for (int i = 0; i < 4; i++) {
+    target_addrs[i] = NULL;
+  }
+  for (int i = 0; i < 64; i++) {
+    volatile char tmp = *(char *)(cl_set[target_set]->cache_lines[i]);
+    virt_to_phys_huge_page(&paddr,
+                           (uintptr_t)cl_set[target_set]->cache_lines[i]);
+    printf("paddr: %lx\n", paddr);
+    int set = pa_to_set(paddr, EVERGLADES);
+    int slice = get_i7_2600_slice(paddr);
+    printf("set: %d, slice: %d\n", set, slice);
+    assert(set == target_set);
+    target_addrs[slice] = cl_set[target_set]->cache_lines[i];
+    int all_assigned = 1;
+    for (int j = 0; j < 4; j++) {
+      if (target_addrs[j] == NULL) {
+        all_assigned = 0;
+        break;
       }
     }
+    if (all_assigned)
+      break;
+  }
+  for (int i = 0; i < 4; i++) {
+    printf("addr: %p, set: %d, slice: %d\n", target_addrs[i], target_set, i);
+  }
 
-    start = __rdtscp(&core_id);
-    while (__rdtscp(&core_id) - start < 50000)
-      ;
+  while (1) {
+    // for (int i = 0; i < 4; i++) {
+    //   volatile char tmp = *(char *)target_addrs[i];
+    // }
+    volatile char tmp = *(char *)target_addrs[3];
   }
 }

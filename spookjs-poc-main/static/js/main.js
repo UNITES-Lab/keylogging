@@ -53,6 +53,7 @@ async function loadModule(path) {
     return module;
 }
 
+var keystrokes = []
 async function startWorker() {
     const BM = 128*1024*1024; // Eviction buffer
     const WP = 64*1024; // A WebAssembly page has a constant size of 64KB
@@ -191,11 +192,116 @@ async function startWorker() {
                 break;
             }
 
+            case 'graphKeystrokes':{
+                log(keystrokes)
+                let key_intervals = []
+                for(let i = 0; i < keystrokes.length-1; i++){
+                    key_intervals.push(keystrokes[i+1]-keystrokes[i]);
+                }
+                log(key_intervals)
+                
+                data = Array.from(message.payload)
+                const labels = Array.from(data.keys());
+
+                keystroke_graph = []
+                for(let i = 0; i < labels.length; i++){
+                    keystroke_graph.push(0); 
+                }
+
+                let current = 0;
+                for(let i = 0; i < key_intervals.length; i++){
+                    keystroke_graph[current + key_intervals[i]] = 500;
+                    current += key_intervals[i]
+                }
+                
+                console.assert(keystroke_graph.length == data.length)
+                new Chart("keystrokes_graph", {
+                    type: 'bar',
+                    data: {
+                        labels: labels, // X-axis (milliseconds)
+                        datasets: [
+                            {
+                                label: 'Event Counts per Millisecond',
+                                data: data, // Y-axis ()
+                                backgroundColor: 'red', // Bar color
+                                borderWidth: 1
+                            }, 
+                            {
+                                label: 'Actual Keystroke', 
+                                data: keystroke_graph,
+                                backgroundColor: 'blue',
+                                borderWidth: 1
+                            }
+                        ]
+                    },
+                    options: {
+                        responsive: true,
+                        scales: {
+                            x: { 
+                                title: { display: true, text: "Time (ms)" },
+                                ticks: { 
+                                    autoSkip: true, 
+                                    maxTicksLimit: 5 
+                                },
+                                grid: {
+                                    display: false
+                                }
+                            },
+                            y: { 
+                                title: { display: true, text: "Cache Hit Count" },
+                                beginAtZero: true,
+                                border:{
+                                    display: false
+                                }
+                            }
+                        }, 
+                        title:{
+                            display: true, 
+                            text: "Keystroke Recovery with Browser Prime+Probe"
+                        }
+                    }
+                });
+                let filtered_data = []
+                let prev_hit = -100;
+                let detected_strokes = []
+                let intervals = []
+                for(let i = 0; i < data.length; i++){
+                    if(data[i] > 150){
+                        if(i-prev_hit > 75){
+                            detected_strokes.push(i);
+                            filtered_data.push({"time": i, "count": data[i]})
+                            if(prev_hit > 0){
+                                intervals.push(i-prev_hit)
+                            }
+                        } 
+                        prev_hit = i;
+                    }
+                }
+                log(filtered_data)
+                log(intervals)
+                document.getElementById("detection").innerHTML = keystrokes + "\n" + key_intervals + "\nNumKeystrokes: " + keystrokes.length + "\n" + detected_strokes + "\n" + intervals + "\nNumDetections: " + filtered_data.length
+                respond(message, null);
+                break;
+            }
+
             default: {
                 log("[!] Unhandled message (Main): " + JSON.stringify(message));
                 // window.close();
             }
         }
     };
+}
+function mean(data){
+    let sum = 0;
+    for(let value of data){
+        sum += value;
+    }
+    return sum / data.length;
+}
+
+document.onkeypress = function(event){
+    let time = Math.floor(performance.now())
+    log(time)
+    keystrokes.push(time)
 }
 startWorker();

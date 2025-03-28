@@ -1,5 +1,6 @@
 <html>
     <head>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
         <script src="js/main.js"></script>
 
         <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -71,5 +72,10 @@
             <pre class="output" id="log"></pre>
             <iframe id="frame"></iframe>
         </div>
+        <div class="row">
+            <input type="text" id="text_input">
+            <p id="detection"></p>
+        </div>
+        <canvas id="keystrokes_graph" style="width:100%;max-width:600px"></canvas>
     </body>
 </html>

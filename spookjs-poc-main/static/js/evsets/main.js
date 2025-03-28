@@ -104,7 +104,6 @@ function optimizationStatusToString(status) {
 
 // Send log to main thread
 // Constants
-const P = 24576;
 const VERBOSE = false;
 const NOLOG = false;
 
@@ -116,9 +115,11 @@ var first, next, n;
 
 exported.build_evset = async function start(options) {
 	// Parse settings
+	const VICTIM = options.victim
 	const B = 8000;
+	const P = Math.floor(VICTIM/4096) * 4096;
 	const CONFLICT = false;
-	const ASSOC = 12;
+	const ASSOC = 16;
 	const STRIDE = 4096;
 
 	// Prepare wasm instance

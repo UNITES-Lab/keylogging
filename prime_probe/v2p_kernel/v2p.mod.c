@@ -27,7 +27,7 @@ __section(".gnu.linkonce.this_module") = {
 	.arch = MODULE_ARCH_INIT,
 };
 
-#ifdef CONFIG_RETPOLINE
+#ifdef CONFIG_MITIGATION_RETPOLINE
 MODULE_INFO(retpoline, "Y");
 #endif
 
@@ -45,11 +45,11 @@ __used __section("__versions") =
 	"_printk\0"
 	"\x1c\x00\x00\x00\xca\x39\x82\x5b"
 	"__x86_return_thunk\0\0"
-	"\x18\x00\x00\x00\xd7\xd3\x75\x6d"
+	"\x18\x00\x00\x00\xde\x9f\x8a\x25"
 	"module_layout\0\0\0"
 	"\x00\x00\x00\x00\x00\x00\x00\x00";
 
 MODULE_INFO(depends, "");
 
 
-MODULE_INFO(srcversion, "AFA931BF5CDD711AEC7002D");
+MODULE_INFO(srcversion, "4C7D31A3A70D84CFC166DFA");
