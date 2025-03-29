@@ -223,20 +223,29 @@ void measure_keystroke_without_slice(int threshold) {
   }
 }
 
-int main() {
-
-  init_mapping();
-  int threshold = threshold_from_flush(mapping_start);
-  CacheLineSet *cl_set = new_cl_set();
-  if (!get_minimal_set(mapping_start, &cl_set, threshold)) {
-    printf("Failed to find minimal eviction set for the given target\n");
+void prep(EvictionSet *evset) {
+  // for (int i = 0; i < 5; i++) {
+  //   volatile uint8_t x = *(uint8_t *)evset->head;
+  // }
+  CacheLine *start = evset->head->next;
+  for (int i = 0; i < 5; i++) {
+    CacheLine *iter = start;
+    while (iter != NULL) {
+      iter = iter->next;
+    }
+    iter = evset->tail;
+    for (int k = 0; k < 10; k++) {
+      iter = iter->previous;
+    }
   }
+  _mm_prefetch(evset->head, _MM_HINT_NTA);
+}
 
-  EvictionSet *evset = new_eviction_set(cl_set);
-
+void prime_scope_tests(EvictionSet *evset, int threshold, int set) {
   for (int j = 0; j < 10; j++) {
     access_set(evset);
-    volatile uint8_t x = *(uint8_t *)mapping_start;
+    volatile uint8_t x =
+        *(uint8_t *)(mapping_start + (set << LINE_OFFSET_BITS));
     int result = probe(evset, threshold);
     printf("simple probe after conflict: %d\n", result);
 
@@ -249,8 +258,12 @@ int main() {
       while (iter != NULL) {
         iter = iter->next;
       }
+      iter = evset->tail;
+      for (int k = 0; k < 10; k++) {
+        iter = iter->previous;
+      }
     }
-    x = *(uint8_t *)mapping_start;
+    x = *(uint8_t *)(mapping_start + (set << LINE_OFFSET_BITS));
     // usleep(10);
     uint64_t access_time = time_load((uint8_t *)evset->head);
     printf("access head with conflict: %lu\n", access_time);
@@ -261,6 +274,10 @@ int main() {
       CacheLine *iter = start;
       while (iter != NULL) {
         iter = iter->next;
+      }
+      iter = evset->tail;
+      for (int k = 0; k < 10; k++) {
+        iter = iter->previous;
       }
     }
 
@@ -274,13 +291,17 @@ int main() {
       while (iter != NULL) {
         iter = iter->next;
       }
+      iter = evset->tail;
+      for (int k = 0; k < 10; k++) {
+        iter = iter->previous;
+      }
     }
     _mm_prefetch(evset->head,
                  _MM_HINT_NTA); // prefetch scope line into L1 without updating
                                 // age in LLC
 
     access_time = time_load((uint8_t *)evset->head);
-    printf("prime_prefetch_scope with conflict: %lu\n", access_time);
+    printf("prime_prefetch_scope without conflict: %lu\n", access_time);
 
     usleep(10);
     access_set(evset);
@@ -289,15 +310,126 @@ int main() {
       while (iter != NULL) {
         iter = iter->next;
       }
+      iter = evset->tail;
+      for (int k = 0; k < 10; k++) {
+        iter = iter->previous;
+      }
     }
     _mm_prefetch(evset->head,
                  _MM_HINT_NTA); // prefetch scope line into L1 without updating
                                 // age in LLC
-    x = *(uint8_t *)mapping_start;
+    x = *(uint8_t *)(mapping_start + (set << LINE_OFFSET_BITS));
     access_time = time_load((uint8_t *)evset->head);
     printf("prime_prefetch_scope with conflict: %lu\n", access_time);
+
+    NumList *nl = new_num_list(10);
+    prep(evset);
+    for (int i = 0; i < 10; i++) {
+      _mm_prefetch(evset->head, _MM_HINT_NTA);
+      push_num(nl, time_load((uint8_t *)evset->head));
+    }
+    _mm_prefetch(evset->head, _MM_HINT_NTA);
+    x = *(uint8_t *)(mapping_start + (set << LINE_OFFSET_BITS));
+    access_time = time_load((uint8_t *)evset->head);
+
+    print_num_list(nl);
+    printf("scope with conflict after multiple access: %lu\n", access_time);
+  }
+}
+
+int main() {
+
+  init_mapping();
+  int threshold = threshold_from_flush(mapping_start);
+  CacheLineSet *cl_set = new_cl_set();
+  if (!get_minimal_set((mapping_start + (31 << LINE_OFFSET_BITS)), &cl_set,
+                       threshold)) {
+    printf("Failed to find minimal eviction set for the given target\n");
   }
 
+  EvictionSet *evset = new_eviction_set(cl_set);
+  printf("done test setup and start measuring\n");
+  sleep(5);
+
+  prime_scope_tests(evset, threshold, 31);
+
+  printf("prep cycles: ");
+  for (int i = 0; i < 10; i++) {
+    uint64_t start = __rdtscp(&core_id);
+    prep(evset);
+    int duration = __rdtscp(&core_id) - start;
+    printf("%d ", duration);
+  }
+  printf("\n");
+
+  uint8_t probemap[128];
+  for (int i = 0; i < 128; i++) {
+    probemap[i] = 0;
+  }
+  int prev = 1;
+  int correct_hit = 0;
+  int total_hit = 0;
+
+  for (int i = 0; i < 128; i++) {
+    // prep(evset);
+    for (int j = 0; j < 128; j++) {
+      int index = i * 128 + j;
+      // if (prev)
+      prep(evset);
+      if (index % 8 == 0) {
+        volatile uint8_t x =
+            *(volatile uint8_t *)(mapping_start + (31 << LINE_OFFSET_BITS));
+      }
+      int access_time = time_load((uint8_t *)evset->head);
+      prev = access_time > threshold;
+      probemap[j] = prev;
+      total_hit += prev;
+    }
+    for (int j = 0; j < 128; j += 8) {
+      correct_hit += probemap[j];
+    }
+    for (int j = 0; j < 128; j++) {
+      printf("%d", probemap[j]);
+    }
+    printf("\n");
+  }
+  printf("correct-hit rate: %lf\n", (correct_hit) / (double)(128 * 128 / 8));
+  printf("false-positive rate: %lf\n",
+         (double)(total_hit - correct_hit) / (128 * 128));
+
+  char detect_map[128][128];
+  for (int i = 0; i < 128; i++) {
+    // prep(evset);
+    for (int j = 0; j < 128; j++) {
+      int index = i * 128 + j;
+      // if (prev)
+      prep(evset);
+      // if (index % 8 == 0) {
+      //   volatile uint8_t x =
+      //       *(volatile uint8_t *)(mapping_start + (31 << LINE_OFFSET_BITS));
+      // }
+      uint64_t start = __rdtscp(&core_id);
+      while (__rdtscp(&core_id) - start < 5000)
+        ;
+      int access_time = time_load((uint8_t *)evset->head);
+      prev = access_time > threshold;
+      detect_map[i][j] = prev;
+      total_hit += prev;
+    }
+  }
+
+  for (int i = 0; i < 128; i++) {
+    for (int j = 0; j < 128; j++) {
+      printf("%d", detect_map[i][j]);
+    }
+    printf("\n");
+  }
+  // for (int i = 0; i < 64; i++) {
+  //   for (int j = 0; j < 64; j++) {
+  //     printf("%d", probemap[128 * 128 - 64 * 64 + i * 64 + j]);
+  //   }
+  //   printf("\n");
+  // }
   deep_free_es(evset);
 
   // uint8_t probemap[KABYLAKE_NUM_SLICES][512 * 512];
