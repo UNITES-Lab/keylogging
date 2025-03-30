@@ -43,7 +43,7 @@ int main() {
                              MAP_PRIVATE | MAP_ANONYMOUS | MAP_HUGETLB, -1, 0);
   printf("%p\n", (void *)mapping_start);
 
-  CacheLineSet *cl_set = hugepage_inflate(mapping_start, 16, 31);
+  CacheLineSet *cl_set = hugepage_inflate(mapping_start, 16, 249);
   printf("%p\n", cl_set->cache_lines[0]);
 
   volatile uint8_t tmp = *(volatile uint8_t *)mapping_start;
@@ -55,11 +55,5 @@ int main() {
     start_time = __rdtscp(&core_id);
     while (__rdtscp(&core_id) - start_time < 50000)
       ;
-
-    // for (int i = 0; i < 16; i++)
-    //   tmp = *(volatile uint8_t *)cl_set->cache_lines[i];
-    // start_time = __rdtscp(&core_id);
-    // while (__rdtscp(&core_id) - start_time < 20000)
-    //   ;
   }
 }

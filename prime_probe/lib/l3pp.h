@@ -10,15 +10,14 @@ uint8_t probe(EvictionSet *es, int threshold);
  * @return size: the size of timestamps array
  * detections
  */
-uint64_t prime_probe(EvictionSet *es, uint8_t associativity, uint8_t *hit_times,
-                     uint64_t numBytes, uint64_t *detect_timestamps,
-                     int threshold);
+uint64_t prime_probe(EvictionSet *es, uint8_t associativity,
+                     uint64_t *detect_timestamps, int size, int threshold);
 
-uint64_t *prime_probe_many_sets(
-    EvictionSet **eslist, uint8_t num_sets, uint8_t associativity,
-    uint64_t numProbes, uint8_t probe_results[num_sets][numProbes],
-    uint64_t hit_storage_size,
-    uint64_t detect_timestamps[num_sets][hit_storage_size], int threshold);
+uint64_t *
+prime_probe_many_sets(EvictionSet **eslist, uint8_t num_sets,
+                      uint8_t associativity, uint64_t hit_storage_size,
+                      uint64_t detect_timestamps[num_sets][hit_storage_size],
+                      int threshold);
 
 /**
  * Return the hit count for the given trace at the last width * height addresses

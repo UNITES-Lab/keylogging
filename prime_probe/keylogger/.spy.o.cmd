@@ -1,8 +1,8 @@
-savedcmd_/home/james/research/keylogging/prime_probe/keylogger/spy.o := x86_64-linux-gnu-gcc-13 -Wp,-MMD,/home/james/research/keylogging/prime_probe/keylogger/.spy.o.d -nostdinc -I./arch/x86/include -I./arch/x86/include/generated  -I./include -I./arch/x86/include/uapi -I./arch/x86/include/generated/uapi -I./include/uapi -I./include/generated/uapi -include ./include/linux/compiler-version.h -include ./include/linux/kconfig.h -I./ubuntu/include -include ./include/linux/compiler_types.h -D__KERNEL__ -fmacro-prefix-map=./= -std=gnu11 -fshort-wchar -funsigned-char -fno-common -fno-PIE -fno-strict-aliasing -mno-sse -mno-mmx -mno-sse2 -mno-3dnow -mno-avx -fcf-protection=none -m64 -falign-jumps=1 -falign-loops=1 -mno-80387 -mno-fp-ret-in-387 -mpreferred-stack-boundary=3 -mskip-rax-setup -mtune=generic -mno-red-zone -mcmodel=kernel -Wno-sign-compare -fno-asynchronous-unwind-tables -mindirect-branch=thunk-extern -mindirect-branch-register -mindirect-branch-cs-prefix -mfunction-return=thunk-extern -fno-jump-tables -mharden-sls=all -fpatchable-function-entry=16,16 -fno-delete-null-pointer-checks -O2 -fno-allow-store-data-races -fstack-protector-strong -fno-omit-frame-pointer -fno-optimize-sibling-calls -ftrivial-auto-var-init=zero -fno-stack-clash-protection -fzero-call-used-regs=used-gpr -pg -mrecord-mcount -mfentry -DCC_USING_FENTRY -falign-functions=16 -fstrict-flex-arrays=3 -fno-strict-overflow -fno-stack-check -fconserve-stack -Wall -Wundef -Werror=implicit-function-declaration -Werror=implicit-int -Werror=return-type -Werror=strict-prototypes -Wno-format-security -Wno-trigraphs -Wno-frame-address -Wno-address-of-packed-member -Wmissing-declarations -Wmissing-prototypes -Wframe-larger-than=1024 -Wno-main -Wno-unused-but-set-variable -Wno-unused-const-variable -Wno-dangling-pointer -Wvla -Wno-pointer-sign -Wcast-function-type -Wno-stringop-overflow -Wno-array-bounds -Wno-alloc-size-larger-than -Wimplicit-fallthrough=5 -Werror=date-time -Werror=incompatible-pointer-types -Werror=designated-init -Wenum-conversion -Wno-unused-but-set-variable -Wno-unused-const-variable -Wno-restrict -Wno-packed-not-aligned -Wno-format-overflow -Wno-format-truncation -Wno-stringop-truncation -Wno-override-init -Wno-missing-field-initializers -Wno-type-limits -Wno-shift-negative-value -Wno-maybe-uninitialized -Wno-sign-compare -g -gdwarf-5  -fsanitize=bounds-strict -fsanitize=shift -fsanitize=bool -fsanitize=enum  -DMODULE  -DKBUILD_BASENAME='"spy"' -DKBUILD_MODNAME='"spy"' -D__KBUILD_MODNAME=kmod_spy -c -o /home/james/research/keylogging/prime_probe/keylogger/spy.o /home/james/research/keylogging/prime_probe/keylogger/spy.c   ; ./tools/objtool/objtool --hacks=jump_label --hacks=noinstr --hacks=skylake --retpoline --rethunk --sls --stackval --static-call --uaccess --prefix=16   --module /home/james/research/keylogging/prime_probe/keylogger/spy.o
+savedcmd_/home/lchuang-kabylake/research/keylogging/prime_probe/keylogger/spy.o := x86_64-linux-gnu-gcc-13 -Wp,-MMD,/home/lchuang-kabylake/research/keylogging/prime_probe/keylogger/.spy.o.d -nostdinc -I./arch/x86/include -I./arch/x86/include/generated  -I./include -I./arch/x86/include/uapi -I./arch/x86/include/generated/uapi -I./include/uapi -I./include/generated/uapi -include ./include/linux/compiler-version.h -include ./include/linux/kconfig.h -I./ubuntu/include -include ./include/linux/compiler_types.h -D__KERNEL__ -fmacro-prefix-map=./= -std=gnu11 -fshort-wchar -funsigned-char -fno-common -fno-PIE -fno-strict-aliasing -mno-sse -mno-mmx -mno-sse2 -mno-3dnow -mno-avx -fcf-protection=none -m64 -falign-jumps=1 -falign-loops=1 -mno-80387 -mno-fp-ret-in-387 -mpreferred-stack-boundary=3 -mskip-rax-setup -mtune=generic -mno-red-zone -mcmodel=kernel -Wno-sign-compare -fno-asynchronous-unwind-tables -mindirect-branch=thunk-extern -mindirect-branch-register -mindirect-branch-cs-prefix -mfunction-return=thunk-extern -fno-jump-tables -mharden-sls=all -fpatchable-function-entry=16,16 -fno-delete-null-pointer-checks -O2 -fno-allow-store-data-races -fstack-protector-strong -fno-omit-frame-pointer -fno-optimize-sibling-calls -ftrivial-auto-var-init=zero -fno-stack-clash-protection -fzero-call-used-regs=used-gpr -pg -mrecord-mcount -mfentry -DCC_USING_FENTRY -falign-functions=16 -fstrict-flex-arrays=3 -fno-strict-overflow -fno-stack-check -fconserve-stack -Wall -Wundef -Werror=implicit-function-declaration -Werror=implicit-int -Werror=return-type -Werror=strict-prototypes -Wno-format-security -Wno-trigraphs -Wno-frame-address -Wno-address-of-packed-member -Wmissing-declarations -Wmissing-prototypes -Wframe-larger-than=1024 -Wno-main -Wno-dangling-pointer -Wvla -Wno-pointer-sign -Wcast-function-type -Wno-stringop-overflow -Wno-array-bounds -Wno-alloc-size-larger-than -Wimplicit-fallthrough=5 -Werror=date-time -Werror=incompatible-pointer-types -Werror=designated-init -Wenum-conversion -Wextra -Wunused -Wno-unused-but-set-variable -Wno-unused-const-variable -Wno-packed-not-aligned -Wno-format-overflow -Wno-format-truncation -Wno-stringop-truncation -Wno-override-init -Wno-missing-field-initializers -Wno-type-limits -Wno-shift-negative-value -Wno-maybe-uninitialized -Wno-sign-compare -Wno-unused-parameter -g -gdwarf-5  -fsanitize=bounds-strict -fsanitize=shift -fsanitize=bool -fsanitize=enum  -fsanitize=signed-integer-overflow  -DMODULE  -DKBUILD_BASENAME='"spy"' -DKBUILD_MODNAME='"spy"' -D__KBUILD_MODNAME=kmod_spy -c -o /home/lchuang-kabylake/research/keylogging/prime_probe/keylogger/spy.o /home/lchuang-kabylake/research/keylogging/prime_probe/keylogger/spy.c   ; ./tools/objtool/objtool --hacks=jump_label --hacks=noinstr --hacks=skylake --retpoline --rethunk --sls --stackval --static-call --uaccess --prefix=16   --module /home/lchuang-kabylake/research/keylogging/prime_probe/keylogger/spy.o
 
-source_/home/james/research/keylogging/prime_probe/keylogger/spy.o := /home/james/research/keylogging/prime_probe/keylogger/spy.c
+source_/home/lchuang-kabylake/research/keylogging/prime_probe/keylogger/spy.o := /home/lchuang-kabylake/research/keylogging/prime_probe/keylogger/spy.c
 
-deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
+deps_/home/lchuang-kabylake/research/keylogging/prime_probe/keylogger/spy.o := \
   include/linux/compiler-version.h \
     $(wildcard include/config/CC_VERSION_TEXT) \
   include/linux/kconfig.h \
@@ -13,15 +13,18 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/DEBUG_INFO_BTF) \
     $(wildcard include/config/PAHOLE_HAS_BTF_TAG) \
     $(wildcard include/config/FUNCTION_ALIGNMENT) \
-    $(wildcard include/config/CC_IS_GCC) \
+    $(wildcard include/config/CC_HAS_SANE_FUNCTION_ALIGNMENT) \
     $(wildcard include/config/X86_64) \
     $(wildcard include/config/ARM64) \
+    $(wildcard include/config/LD_DEAD_CODE_DATA_ELIMINATION) \
+    $(wildcard include/config/LTO_CLANG) \
     $(wildcard include/config/HAVE_ARCH_COMPILER_H) \
+    $(wildcard include/config/CC_HAS_COUNTED_BY) \
+    $(wildcard include/config/UBSAN_SIGNED_WRAP) \
     $(wildcard include/config/CC_HAS_ASM_INLINE) \
   include/linux/compiler_attributes.h \
   include/linux/compiler-gcc.h \
-    $(wildcard include/config/RETPOLINE) \
-    $(wildcard include/config/GCC_ASM_GOTO_OUTPUT_WORKAROUND) \
+    $(wildcard include/config/MITIGATION_RETPOLINE) \
     $(wildcard include/config/ARCH_USE_BUILTIN_BSWAP) \
     $(wildcard include/config/SHADOW_CALL_STACK) \
     $(wildcard include/config/KCOV) \
@@ -85,13 +88,14 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/UCLAMP_BUCKETS_COUNT) \
     $(wildcard include/config/KMAP_LOCAL) \
     $(wildcard include/config/THREAD_INFO_IN_TASK) \
+    $(wildcard include/config/MEM_ALLOC_PROFILING) \
     $(wildcard include/config/CGROUP_SCHED) \
     $(wildcard include/config/PREEMPT_NOTIFIERS) \
     $(wildcard include/config/BLK_DEV_IO_TRACE) \
     $(wildcard include/config/PREEMPT_RCU) \
     $(wildcard include/config/TASKS_RCU) \
     $(wildcard include/config/TASKS_TRACE_RCU) \
-    $(wildcard include/config/MEMCG) \
+    $(wildcard include/config/MEMCG_V1) \
     $(wildcard include/config/LRU_GEN) \
     $(wildcard include/config/COMPAT_BRK) \
     $(wildcard include/config/CGROUPS) \
@@ -136,7 +140,7 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/KUNIT) \
     $(wildcard include/config/FUNCTION_GRAPH_TRACER) \
     $(wildcard include/config/TRACING) \
-    $(wildcard include/config/MEMCG_KMEM) \
+    $(wildcard include/config/MEMCG) \
     $(wildcard include/config/UPROBES) \
     $(wildcard include/config/BCACHE) \
     $(wildcard include/config/MMU) \
@@ -155,9 +159,11 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/PREEMPT_DYNAMIC) \
     $(wildcard include/config/HAVE_PREEMPT_DYNAMIC_CALL) \
     $(wildcard include/config/HAVE_PREEMPT_DYNAMIC_KEY) \
+    $(wildcard include/config/MEM_ALLOC_PROFILING_DEBUG) \
   include/uapi/linux/sched.h \
   arch/x86/include/asm/current.h \
-    $(wildcard include/config/CALL_DEPTH_TRACKING) \
+    $(wildcard include/config/MITIGATION_CALL_DEPTH_TRACKING) \
+    $(wildcard include/config/USE_X86_SEG_SUPPORT) \
   include/linux/build_bug.h \
   include/linux/cache.h \
     $(wildcard include/config/ARCH_HAS_CACHE_LINE_SIZE) \
@@ -172,14 +178,15 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/MODVERSIONS) \
   arch/x86/include/asm/linkage.h \
     $(wildcard include/config/CALL_PADDING) \
-    $(wildcard include/config/RETHUNK) \
-    $(wildcard include/config/SLS) \
+    $(wildcard include/config/MITIGATION_RETHUNK) \
+    $(wildcard include/config/MITIGATION_SLS) \
     $(wildcard include/config/FUNCTION_PADDING_BYTES) \
     $(wildcard include/config/UML) \
   arch/x86/include/asm/ibt.h \
     $(wildcard include/config/X86_KERNEL_IBT) \
   arch/x86/include/asm/percpu.h \
     $(wildcard include/config/X86_64_SMP) \
+    $(wildcard include/config/CC_HAS_NAMED_AS) \
   arch/x86/include/asm/asm.h \
     $(wildcard include/config/KPROBES) \
   arch/x86/include/asm/extable_fixup_types.h \
@@ -197,32 +204,31 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/VM86) \
     $(wildcard include/config/X86_USER_SHADOW_STACK) \
     $(wildcard include/config/PARAVIRT_XXL) \
-    $(wildcard include/config/X86_DEBUGCTLMSR) \
     $(wildcard include/config/CPU_SUP_AMD) \
     $(wildcard include/config/XEN) \
   arch/x86/include/asm/processor-flags.h \
-    $(wildcard include/config/PAGE_TABLE_ISOLATION) \
+    $(wildcard include/config/MITIGATION_PAGE_TABLE_ISOLATION) \
   arch/x86/include/uapi/asm/processor-flags.h \
   include/linux/mem_encrypt.h \
     $(wildcard include/config/ARCH_HAS_MEM_ENCRYPT) \
   arch/x86/include/asm/mem_encrypt.h \
     $(wildcard include/config/X86_MEM_ENCRYPT) \
   include/linux/init.h \
+    $(wildcard include/config/MEMORY_HOTPLUG) \
     $(wildcard include/config/HAVE_ARCH_PREL32_RELOCATIONS) \
-    $(wildcard include/config/STRICT_KERNEL_RWX) \
-    $(wildcard include/config/STRICT_MODULE_RWX) \
-    $(wildcard include/config/LTO_CLANG) \
   include/linux/cc_platform.h \
     $(wildcard include/config/ARCH_HAS_CC_PLATFORM) \
   arch/x86/include/asm/math_emu.h \
   arch/x86/include/asm/ptrace.h \
     $(wildcard include/config/PARAVIRT) \
     $(wildcard include/config/IA32_EMULATION) \
+    $(wildcard include/config/X86_DEBUGCTLMSR) \
   arch/x86/include/asm/segment.h \
     $(wildcard include/config/XEN_PV) \
   arch/x86/include/asm/alternative.h \
     $(wildcard include/config/CALL_THUNKS) \
   arch/x86/include/asm/page_types.h \
+    $(wildcard include/config/PAGE_SHIFT) \
     $(wildcard include/config/PHYSICAL_START) \
     $(wildcard include/config/PHYSICAL_ALIGN) \
     $(wildcard include/config/DYNAMIC_PHYSICAL_MASK) \
@@ -254,9 +260,9 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
   arch/x86/include/asm/nospec-branch.h \
     $(wildcard include/config/CALL_THUNKS_DEBUG) \
     $(wildcard include/config/NOINSTR_VALIDATION) \
-    $(wildcard include/config/CPU_UNRET_ENTRY) \
-    $(wildcard include/config/CPU_SRSO) \
-    $(wildcard include/config/CPU_IBPB_ENTRY) \
+    $(wildcard include/config/MITIGATION_UNRET_ENTRY) \
+    $(wildcard include/config/MITIGATION_SRSO) \
+    $(wildcard include/config/MITIGATION_IBPB_ENTRY) \
   include/linux/static_key.h \
   include/linux/jump_label.h \
     $(wildcard include/config/JUMP_LABEL) \
@@ -281,9 +287,12 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/INTEL_IOMMU_SVM) \
     $(wildcard include/config/X86_SGX) \
     $(wildcard include/config/INTEL_TDX_GUEST) \
+    $(wildcard include/config/X86_FRED) \
+    $(wildcard include/config/KVM_AMD_SEV) \
   arch/x86/include/asm/msr-index.h \
   include/linux/bits.h \
   include/vdso/bits.h \
+  include/uapi/linux/bits.h \
   arch/x86/include/asm/unwind_hints.h \
   arch/x86/include/asm/orc_types.h \
   arch/x86/include/uapi/asm/byteorder.h \
@@ -350,6 +359,7 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/HOTPLUG_CPU) \
     $(wildcard include/config/DEBUG_PER_CPU_MAPS) \
     $(wildcard include/config/CPUMASK_OFFSTACK) \
+  include/linux/cleanup.h \
   include/linux/kernel.h \
     $(wildcard include/config/PREEMPT_VOLUNTARY_BUILD) \
     $(wildcard include/config/PREEMPT_) \
@@ -391,6 +401,7 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/HAVE_STATIC_CALL) \
     $(wildcard include/config/HAVE_STATIC_CALL_INLINE) \
   include/linux/instruction_pointer.h \
+  include/linux/wordpart.h \
   include/linux/bitmap.h \
   include/linux/errno.h \
   include/uapi/linux/errno.h \
@@ -407,7 +418,9 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
   include/linux/fortify-string.h \
     $(wildcard include/config/CC_HAS_KASAN_MEMINTRINSIC_PREFIX) \
     $(wildcard include/config/GENERIC_ENTRY) \
+  include/linux/bitfield.h \
   include/linux/bitmap-str.h \
+  include/linux/cpumask_types.h \
   include/linux/atomic.h \
   arch/x86/include/asm/atomic.h \
   arch/x86/include/asm/cmpxchg.h \
@@ -419,6 +432,7 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
   include/linux/atomic/atomic-instrumented.h \
   include/linux/gfp_types.h \
     $(wildcard include/config/KASAN_HW_TAGS) \
+    $(wildcard include/config/SLAB_OBJ_EXT) \
   include/linux/numa.h \
     $(wildcard include/config/NODES_SHIFT) \
     $(wildcard include/config/HAVE_ARCH_NODE_DEV_GROUP) \
@@ -433,16 +447,6 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/SPARSEMEM_VMEMMAP) \
   include/linux/pfn.h \
   include/asm-generic/getorder.h \
-  arch/x86/include/asm/msr.h \
-    $(wildcard include/config/TRACEPOINTS) \
-  arch/x86/include/asm/cpumask.h \
-  arch/x86/include/uapi/asm/msr.h \
-  include/uapi/linux/ioctl.h \
-  arch/x86/include/generated/uapi/asm/ioctl.h \
-  include/asm-generic/ioctl.h \
-  include/uapi/asm-generic/ioctl.h \
-  arch/x86/include/asm/shared/msr.h \
-  include/linux/tracepoint-defs.h \
   arch/x86/include/asm/special_insns.h \
   include/linux/irqflags.h \
     $(wildcard include/config/IRQSOFF_TRACER) \
@@ -450,7 +454,6 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/DEBUG_IRQFLAGS) \
     $(wildcard include/config/TRACE_IRQFLAGS_SUPPORT) \
   include/linux/irqflags_types.h \
-  include/linux/cleanup.h \
   arch/x86/include/asm/irqflags.h \
   arch/x86/include/asm/fpu/types.h \
   arch/x86/include/asm/vmxfeatures.h \
@@ -520,6 +523,8 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/SPLIT_PTLOCK_CPUS) \
     $(wildcard include/config/ARCH_ENABLE_SPLIT_PMD_PTLOCK) \
   arch/x86/include/asm/tlbbatch.h \
+  include/linux/netdevice_xmit.h \
+    $(wildcard include/config/NET_EGRESS) \
   include/linux/task_io_accounting.h \
     $(wildcard include/config/TASK_IO_ACCOUNTING) \
   include/linux/posix-timers_types.h \
@@ -547,6 +552,7 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/ILLEGAL_POINTER_VALUE) \
   arch/x86/include/asm/smp.h \
     $(wildcard include/config/DEBUG_NMI_SELFTEST) \
+  arch/x86/include/asm/cpumask.h \
   arch/x86/include/generated/asm/mmiowb.h \
   include/asm-generic/mmiowb.h \
     $(wildcard include/config/MMIOWB) \
@@ -605,6 +611,27 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
   arch/x86/include/asm/timex.h \
     $(wildcard include/config/X86_TSC) \
   arch/x86/include/asm/tsc.h \
+  arch/x86/include/asm/msr.h \
+    $(wildcard include/config/TRACEPOINTS) \
+  arch/x86/include/uapi/asm/msr.h \
+  include/uapi/linux/ioctl.h \
+  arch/x86/include/generated/uapi/asm/ioctl.h \
+  include/asm-generic/ioctl.h \
+  include/uapi/asm-generic/ioctl.h \
+  arch/x86/include/asm/shared/msr.h \
+  include/linux/percpu.h \
+    $(wildcard include/config/MODULES) \
+    $(wildcard include/config/RANDOM_KMALLOC_CACHES) \
+    $(wildcard include/config/NEED_PER_CPU_PAGE_FIRST_CHUNK) \
+  include/linux/alloc_tag.h \
+    $(wildcard include/config/MEM_ALLOC_PROFILING_ENABLED_BY_DEFAULT) \
+  include/linux/codetag.h \
+    $(wildcard include/config/CODE_TAGGING) \
+  include/linux/mmdebug.h \
+    $(wildcard include/config/DEBUG_VM) \
+    $(wildcard include/config/DEBUG_VM_IRQSOFF) \
+    $(wildcard include/config/DEBUG_VM_PGFLAGS) \
+  include/linux/tracepoint-defs.h \
   include/vdso/time32.h \
   include/vdso/time.h \
   include/vdso/jiffies.h \
@@ -614,7 +641,6 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/GENERIC_CMOS_UPDATE) \
   include/linux/clocksource_ids.h \
   include/linux/module.h \
-    $(wildcard include/config/MODULES) \
     $(wildcard include/config/SYSFS) \
     $(wildcard include/config/MODULES_TREE_LOOKUP) \
     $(wildcard include/config/STACKTRACE_BUILD_ID) \
@@ -636,7 +662,7 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/USER_NS) \
   include/linux/highuid.h \
   include/linux/buildid.h \
-    $(wildcard include/config/CRASH_CORE) \
+    $(wildcard include/config/VMCORE_INFO) \
   include/linux/kmod.h \
   include/linux/umh.h \
   include/linux/gfp.h \
@@ -651,11 +677,11 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/MEMORY_ISOLATION) \
     $(wildcard include/config/ZSMALLOC) \
     $(wildcard include/config/UNACCEPTED_MEMORY) \
+    $(wildcard include/config/IOMMU_SUPPORT) \
     $(wildcard include/config/SWAP) \
     $(wildcard include/config/TRANSPARENT_HUGEPAGE) \
     $(wildcard include/config/LRU_GEN_STATS) \
     $(wildcard include/config/LRU_GEN_WALKS_MMU) \
-    $(wildcard include/config/MEMORY_HOTPLUG) \
     $(wildcard include/config/MEMORY_FAILURE) \
     $(wildcard include/config/PAGE_EXTENSION) \
     $(wildcard include/config/DEFERRED_STRUCT_PAGE_INIT) \
@@ -742,13 +768,6 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/RCU_FANOUT) \
     $(wildcard include/config/RCU_FANOUT_LEAF) \
   include/linux/percpu_counter.h \
-  include/linux/percpu.h \
-    $(wildcard include/config/RANDOM_KMALLOC_CACHES) \
-    $(wildcard include/config/NEED_PER_CPU_PAGE_FIRST_CHUNK) \
-  include/linux/mmdebug.h \
-    $(wildcard include/config/DEBUG_VM) \
-    $(wildcard include/config/DEBUG_VM_IRQSOFF) \
-    $(wildcard include/config/DEBUG_VM_PGFLAGS) \
   arch/x86/include/asm/mmu.h \
     $(wildcard include/config/MODIFY_LDT_SYSCALL) \
   include/linux/page-flags.h \
@@ -773,26 +792,13 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/ACPI_CPPC_LIB) \
     $(wildcard include/config/GENERIC_ARCH_TOPOLOGY) \
   arch/x86/include/asm/topology.h \
+    $(wildcard include/config/X86_LOCAL_APIC) \
     $(wildcard include/config/SCHED_MC_PRIO) \
   arch/x86/include/asm/mpspec.h \
     $(wildcard include/config/EISA) \
-    $(wildcard include/config/X86_LOCAL_APIC) \
     $(wildcard include/config/X86_MPPARSE) \
   arch/x86/include/asm/mpspec_def.h \
   arch/x86/include/asm/x86_init.h \
-  arch/x86/include/uapi/asm/bootparam.h \
-  include/linux/screen_info.h \
-    $(wildcard include/config/PCI) \
-  include/uapi/linux/screen_info.h \
-  include/linux/apm_bios.h \
-  include/uapi/linux/apm_bios.h \
-  include/linux/edd.h \
-  include/uapi/linux/edd.h \
-  arch/x86/include/asm/ist.h \
-  arch/x86/include/uapi/asm/ist.h \
-  include/video/edid.h \
-    $(wildcard include/config/X86) \
-  include/uapi/video/edid.h \
   arch/x86/include/asm/apicdef.h \
   include/asm-generic/topology.h \
   include/linux/cpu_smt.h \
@@ -801,6 +807,7 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/SYSCTL) \
   include/uapi/linux/sysctl.h \
   include/linux/elf.h \
+    $(wildcard include/config/ARCH_HAVE_EXTRA_ELF_NOTES) \
     $(wildcard include/config/ARCH_USE_GNU_PROPERTY) \
     $(wildcard include/config/ARCH_HAVE_ELF_PROT) \
   arch/x86/include/asm/elf.h \
@@ -871,7 +878,10 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/ARCH_HAS_MEMBARRIER_CALLBACKS) \
   include/linux/sync_core.h \
     $(wildcard include/config/ARCH_HAS_SYNC_CORE_BEFORE_USERMODE) \
+    $(wildcard include/config/ARCH_HAS_PREPARE_SYNC_CORE_CMD) \
   arch/x86/include/asm/sync_core.h \
+  include/linux/sched/coredump.h \
+    $(wildcard include/config/CORE_DUMP_DEFAULT_ELF_HEADERS) \
   include/linux/radix-tree.h \
   include/linux/pid.h \
   include/linux/capability.h \
@@ -902,6 +912,7 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/ARCH_HAS_SUBPAGE_FAULTS) \
   include/linux/fault-inject-usercopy.h \
     $(wildcard include/config/FAULT_INJECTION_USERCOPY) \
+  include/linux/nospec.h \
   arch/x86/include/asm/uaccess.h \
     $(wildcard include/config/CC_HAS_ASM_GOTO_OUTPUT) \
     $(wildcard include/config/CC_HAS_ASM_GOTO_TIED_OUTPUT) \
@@ -939,6 +950,7 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
   include/asm-generic/fixmap.h \
   arch/x86/include/asm/pgtable-invert.h \
   arch/x86/include/asm/uaccess_64.h \
+  arch/x86/include/asm/runtime-const.h \
   include/asm-generic/access_ok.h \
     $(wildcard include/config/ALTERNATE_USER_ADDRESS_SPACE) \
   include/linux/cred.h \
@@ -974,16 +986,18 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
   include/linux/mount.h \
   include/linux/mnt_idmapping.h \
   include/linux/slab.h \
-    $(wildcard include/config/SLUB_DEBUG) \
-    $(wildcard include/config/SLUB_TINY) \
     $(wildcard include/config/FAILSLAB) \
     $(wildcard include/config/KFENCE) \
+    $(wildcard include/config/SLUB_TINY) \
+    $(wildcard include/config/SLUB_DEBUG) \
+    $(wildcard include/config/SLAB_BUCKETS) \
   include/linux/percpu-refcount.h \
   include/linux/kasan.h \
     $(wildcard include/config/KASAN_STACK) \
     $(wildcard include/config/KASAN_VMALLOC) \
   include/linux/kasan-enabled.h \
   include/linux/kasan-tags.h \
+  include/linux/rw_hint.h \
   include/uapi/linux/fs.h \
   include/linux/quota.h \
     $(wildcard include/config/QUOTA_NETLINK_INTERFACE) \
@@ -1035,8 +1049,8 @@ deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o := \
     $(wildcard include/config/MODULES_USE_ELF_REL) \
     $(wildcard include/config/MODULES_USE_ELF_RELA) \
 
-/home/james/research/keylogging/prime_probe/keylogger/spy.o: $(deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o)
+/home/lchuang-kabylake/research/keylogging/prime_probe/keylogger/spy.o: $(deps_/home/lchuang-kabylake/research/keylogging/prime_probe/keylogger/spy.o)
 
-$(deps_/home/james/research/keylogging/prime_probe/keylogger/spy.o):
+$(deps_/home/lchuang-kabylake/research/keylogging/prime_probe/keylogger/spy.o):
 
-/home/james/research/keylogging/prime_probe/keylogger/spy.o: $(wildcard ./tools/objtool/objtool)
+/home/lchuang-kabylake/research/keylogging/prime_probe/keylogger/spy.o: $(wildcard ./tools/objtool/objtool)
