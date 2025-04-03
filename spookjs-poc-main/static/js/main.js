@@ -54,6 +54,34 @@ async function loadModule(path) {
 }
 
 var keystrokes = []
+
+function crossCorrelation(list1, list2) {
+    const n = list1.length;
+    const m = list2.length;
+    const correlation = [];
+
+    // Normalize the length of the result to be (n + m - 1)
+    const resultLength = n + m - 1;
+
+    // Loop over each possible shift
+    for (let k = 0; k < resultLength; k++) {
+        let sum = 0;
+
+        // Iterate over the overlapping part of the lists
+        for (let i = 0; i < n; i++) {
+            const j = k - i;
+
+            // Ensure we stay within bounds for both lists
+            if (j >= 0 && j < m) {
+                sum += list1[i] * list2[j];
+            }
+        }
+        correlation.push(sum);
+    }
+
+    return correlation;
+}
+
 async function startWorker() {
     const BM = 128*1024*1024; // Eviction buffer
     const WP = 64*1024; // A WebAssembly page has a constant size of 64KB
@@ -193,21 +221,22 @@ async function startWorker() {
             }
 
             case 'graphKeystrokes':{
-                /* compute ground truth keystroke intervals */
-                log(keystrokes)
-                let key_intervals = []
-                for(let i = 0; i < keystrokes.length-1; i++){
-                    key_intervals.push(keystrokes[i+1]-keystrokes[i]);
-                }
-                log(key_intervals)
-                
                 /* load data */
                 data = Array.from(message.payload["data"])
                 pp_duration = message.payload["pp_duration"]
                 js_duration = message.payload["js_duration"]
                 start_time = message.payload["start_time"]
+                const scaling_factor = js_duration / pp_duration;
+
+                /* compute ground truth keystroke intervals */
+                log(keystrokes)
+                let key_intervals = []
+                for(let i = 0; i < keystrokes.length-1; i++){
+                    key_intervals.push(Math.floor((keystrokes[i+1]-keystrokes[i])/scaling_factor));
+                }
+                
                 log(`pp_duration: ${pp_duration}, js_duration ${js_duration}`)
-                const labels = Array.from(data[0].keys());
+                const labels = Array.from(data.keys());
                 
                 /* prepare ground truth overlay graph data */
                 keystroke_graph = []
@@ -215,97 +244,89 @@ async function startWorker() {
                     keystroke_graph.push(0); 
                 }
 
-                let scaling_factor = js_duration / pp_duration;
-                let prev = 0;
-                let intervals = []
-                const MEASUREMENT_DELAY = 0
+                const MEASUREMENT_DELAY = 50
                 for(let stroke of keystrokes){
                     let index = Math.floor((stroke - start_time) / scaling_factor) - MEASUREMENT_DELAY;
                     for(let i = 0; i < 10; i++){
                         keystroke_graph[index+i] = 300;
                     }
-                    intervals.push(index-prev);
-                    prev = index;
                 }
-                log(intervals)
 
                 /* append canvas to graph */
-                for(let i = 0; i < 4; i++){
-                    let canvas = document.createElement('canvas')
-                    canvas.id = `keystrokes_graph_${i}`
-                    canvas.width = window.innerWidth 
-                    document.querySelector(".graph").appendChild(canvas)
-                    console.assert(keystroke_graph.length == data[i].length, `kg: ${keystroke_graph.length}, data: ${data[i].length}`)
-                    new Chart(`keystrokes_graph_${i}`, {
-                        type: 'bar',
-                        data: {
-                            labels: labels, // X-axis (milliseconds)
-                            datasets: [
-                                {
-                                    label: 'Event Counts per Millisecond',
-                                    data: data[i], // Y-axis ()
-                                    backgroundColor: 'red', // Bar color
-                                    borderWidth: 1
-                                }, 
-                                {
-                                    label: 'Actual Keystroke', 
-                                    data: keystroke_graph,
-                                    backgroundColor: 'blue',
-                                    borderWidth: 1
-                                }
-                            ]
-                        },
-                        options: {
-                            responsive: true,
-                            scales: {
-                                x: { 
-                                    title: { display: true, text: "Time (ms)" },
-                                    ticks: { 
-                                        autoSkip: true, 
-                                        maxTicksLimit: 5 
-                                    },
-                                    grid: {
-                                        display: false
-                                    }
-                                },
-                                y: { 
-                                    title: { display: true, text: "Cache Hit Count" },
-                                    beginAtZero: true,
-                                    border:{
-                                        display: false
-                                    }
-                                }
+                let canvas = document.createElement('canvas')
+                canvas.id = `keystrokes_graph`
+                canvas.width = window.innerWidth 
+                document.querySelector(".graph").appendChild(canvas)
+                new Chart(`keystrokes_graph`, {
+                    type: 'bar',
+                    data: {
+                        labels: labels, // X-axis (milliseconds)
+                        datasets: [
+                            {
+                                label: 'Event Counts per Millisecond',
+                                data: data, // Y-axis ()
+                                backgroundColor: 'red', // Bar color
+                                borderWidth: 1
                             }, 
-                            title:{
-                                display: true, 
-                                text: "Keystroke Recovery with Browser Prime+Probe Slice " + i
+                            {
+                                label: 'Actual Keystroke', 
+                                data: keystroke_graph,
+                                backgroundColor: 'blue',
+                                borderWidth: 1
                             }
-                        }
-                    });
-                }
-                                
-                for(let j = 0; j < 4; j++){ 
-                    log("Processing slice " + j)
-                    let filtered_data = []
-                    let prev_hit = -100;
-                    let detected_strokes = []
-                    let intervals = []
-                    for(let i = 0; i < data[j].length; i++){
-                        if(data[j][i] > 80){
-                            if(i-prev_hit > 75){
-                                detected_strokes.push(i);
-                                filtered_data.push({"time": i, "count": data[i]})
-                                if(prev_hit > 0){
-                                    intervals.push(i-prev_hit)
+                        ]
+                    },
+                    options: {
+                        responsive: true,
+                        scales: {
+                            x: { 
+                                title: { display: true, text: "Time (ms)" },
+                                ticks: { 
+                                    autoSkip: true, 
+                                    maxTicksLimit: 5 
+                                },
+                                grid: {
+                                    display: false
                                 }
-                            } 
-                            prev_hit = i;
+                            },
+                            y: { 
+                                title: { display: true, text: "Cache Hit Count" },
+                                beginAtZero: true,
+                                border:{
+                                    display: false
+                                }
+                            }
+                        }, 
+                        title:{
+                            display: true, 
+                            text: "Keystroke Recovery with Browser Prime+Probe Slice" 
                         }
                     }
-                    log(filtered_data)
-                    log(intervals)
+                });
+                                
+                let filtered_data = []
+                let prev_hit = -100;
+                let detected_strokes = []
+                let intervals = []
+                for(let i = 0; i < data.length; i++){
+                    if(data[i] > 150){
+                        if(i-prev_hit > 20){
+                            detected_strokes.push(i);
+                            filtered_data.push({"time": i, "count": data[i]})
+                            if(prev_hit > 0){
+                                intervals.push(i-prev_hit)
+                            }
+                        } 
+                        prev_hit = i;
+                    }
                 }
-                // document.getElementById("detection").innerHTML = keystrokes + "\n" + key_intervals + "\nNumKeystrokes: " + keystrokes.length + "\n" + detected_strokes + "\n" + intervals + "\nNumDetections: " + filtered_data.length
+
+                log(intervals)
+                log(key_intervals)
+
+                let correlation = crossCorrelation(keystrokes, detected_strokes);
+                log("correlation length: " + correlation.length);
+                log("shift amount: " + correlation.indexOf(Math.max(...correlation)) -keystrokes.length + 1)
                 respond(message, null);
                 break;
             }

