@@ -224,6 +224,7 @@ def stat(input_file, truth_file, normalize):
     # print(accurates)
 
     #interval calculation
+    print("avg hitcount: " + str(np.sum(counts)/(2*len(filtered))))
     print("valid detections: " + str(len(diff_pp)))
     print("ground truth: " + str(len(intervals)))
     print("F-value: " + str(np.var(diff_pp[4:])/np.var(intervals)))
@@ -264,5 +265,8 @@ def stat(input_file, truth_file, normalize):
     # dtw_visualisation.plot_warpingpaths(intervals, diff_pp[4:], dtw.warping_paths(intervals, diff_pp[4:]), dtw.warping_path(intervals, diff_pp[4:]), filename="warp3.png")
     
 if __name__ == "__main__":
-    graph("output_binary/test/9119-97859-392.bin", "data/cleaned_data/test.jsonl", "Prime+Probe", "pp_keystrokes.png", True)
-    stat("output_binary/test/9119-97859-392.bin", "data/cleaned_data/test.jsonl", True)
+    dir = "split_13"
+    filename = "397441-4290094-1372.bin"
+    graph(f"bins_to_convert/{dir}/{filename}", f"data/split_json_files/{dir}.jsonl", "Prime+Probe", "pp_keystrokes.png", True)
+    stat(f"bins_to_convert/{dir}/{filename}", f"data/split_json_files/{dir}.jsonl", True)
+    print(f"{dir}/{filename}")

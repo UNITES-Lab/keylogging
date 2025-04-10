@@ -23,6 +23,12 @@ for filename in filenames:
     for obj in data:
         # convert interval to a list of integers 
         interval_str_list = obj["intervals"].split(',') 
+        counter = 0
+        if '' in interval_str_list:            
+            counter += 1
+            print("Dropped: ", counter)
+            continue
+        
         intervals = [int(interval_str) for interval_str in interval_str_list]
         obj["intervals"] = intervals
         

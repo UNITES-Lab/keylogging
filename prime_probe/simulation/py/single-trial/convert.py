@@ -5,13 +5,24 @@ import os
 from simulate import load_json  
 from plot import retrieve, extract_ids  
 import json
-from progress.bar import ChargingBar
+from progress.bar import Bar
+
+global data
 
 CPU_FREQ = 3.4
-MIN_KEYSTROKE_INTERVAL = 50
-BINARY_DIR = "output_binary/across_participant_across_sentence_valid"
-JSON_PATH = "data/cleaned_data/across_participant_across_sentence_valid.jsonl"
-JSON_NAME = "across_participant_across_sentence_valid"
+MIN_KEYSTROKE_INTERVAL = 35
+THRESHOLD = 30 # TODO: Find a dynamic algorithm to determine the hitcount threshold
+BINARY_DIR = "bins_to_convert/test"
+
+def retrieve_fast(participant_id, test_section_id, sentence_id, query):
+   
+    for record in data:
+        if (record.get("participant_id") == participant_id and
+            record.get("test_section_id") == test_section_id and
+            record.get("sentence_id") == sentence_id):
+            return record.get(query)
+    return None
+
 def graph(traces, attack_type, output_file):
     counts = get_hit_count(traces) 
 
@@ -61,20 +72,20 @@ def load_trace(input_file):
 def analyze_file(path_to_file, graph):
     pp_trace = load_trace(path_to_file)
     counts_per_ms = get_hit_count(pp_trace)
-    THRESHOLD = 20 # TODO: Find a dynamic algorithm to determine the threshold
     if graph:
         filepath = path_to_file[len(BINARY_DIR)+1:]
         directory_file_separate_index = filepath.find("/")
         target_directory = filepath[:directory_file_separate_index]
         file = filepath[directory_file_separate_index:-4] 
         graph(counts_per_ms, "Prime+Probe", f"simulation/figures/{target_directory}/{file}.png")
-    return get_interval(counts_per_ms, THRESHOLD)
+    
+    return get_interval(counts_per_ms, THRESHOLD), counts_per_ms.tolist()
 
 def format_json(filename, intervals):
     truth = load_json(JSON_PATH) 
     ids = extract_ids(filename)
-    input_string = retrieve(JSON_PATH, ids[0], ids[1], ids[2], "input_string")
-    keystrokes = retrieve(JSON_PATH, ids[0], ids[1], ids[2], "keystrokes")
+    input_string = retrieve_fast(ids[0], ids[1], ids[2], "input_string")
+    keystrokes = retrieve_fast(ids[0], ids[1], ids[2], "keystrokes")
     output = {
         "participant_id": ids[0], 
         "test_section_id": ids[1], 
@@ -85,6 +96,22 @@ def format_json(filename, intervals):
     }  
     return output
 
+def format_json_raw(filename, intervals, hitcounts):
+    truth = load_json(JSON_PATH) 
+    ids = extract_ids(filename)
+    input_string = retrieve_fast(ids[0], ids[1], ids[2], "input_string")
+    keystrokes = retrieve_fast(ids[0], ids[1], ids[2], "keystrokes")
+
+    output = {
+        "participant_id": ids[0], 
+        "test_section_id": ids[1], 
+        "input_string": input_string,
+        "keystrokes": keystrokes,
+        "intervals": intervals,
+        "hitcounts": hitcounts,
+        "sentence_id": ids[2]
+    }  
+    return output
 
 def export_json(filename, intervals):
     # data = load_json(JSON_PATH) 
@@ -108,17 +135,32 @@ def help():
 if __name__ == "__main__":
     num_arguments = len(sys.argv)
     if num_arguments == 1:
-        files = os.listdir(BINARY_DIR)
-        intervals = []
-        bar = ChargingBar('Converting', max = int(len(files)))
-        for file in files:
-            print("     ",file)
-            path = f"{BINARY_DIR}/{file}"
-            interval = analyze_file(path, False)       
-            formatted = format_json(file, interval)          
-            intervals.append(formatted)
-            bar.next() 
-        export_json(JSON_NAME, intervals)
+        folders = os.listdir(BINARY_DIR)
+        print(folders)
+        for folder in folders:
+            print(folder)
+            
+            JSON_PATH = f"data/split_json_files/{folder}.jsonl"
+            with open(JSON_PATH, 'r', encoding='utf-8') as f: 
+                data = json.load(f)
+
+            files = os.listdir(f"{BINARY_DIR}/{folder}")
+            observations = []
+            bar = Bar('Converting', max = int(len(files)))
+            for file in files:
+                print("     ",file)
+                path = f"{BINARY_DIR}/{folder}/{file}" 
+                try:
+                    interval, hitcount = analyze_file(path, False)
+                except IndexError: 
+                    print("Faulty Binary")
+                    continue   
+                formatted = format_json_raw(file, interval, hitcount)
+                #formatted = format_json(file, interval)
+                observations.append(formatted)
+                bar.next() 
+            print(observations)
+            export_json(folder, observations)
     elif num_arguments == 2:
         if sys.argv[1] == "-h":
             help()
@@ -127,6 +169,6 @@ if __name__ == "__main__":
             intervals = []
         
             interval = analyze_file(folder, False)
-            formatted = format_json(sys.argv[1], interval)          
+            formatted = format_json_raw(sys.argv[1], interval)          
             intervals.append(formatted) 
-            export_json(sys.argv[1], intervals)
+            export_json(sys.argv[1], intervals.tolist())

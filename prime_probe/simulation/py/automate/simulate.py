@@ -220,9 +220,14 @@ if __name__ == "__main__":
                 print("simulation state update to BUSY")
 
                 # run simulation
-                buf_val = simulate(device, sentence, SPEEDUP)
-                time.sleep(1)
-                buffer[1] = buf_val
+                try: 
+                    buf_val = simulate(device, sentence, SPEEDUP)
+                    time.sleep(1)
+                    buffer[1] = buf_val
+                except KeyError:
+                    buffer[1] = 1
+                    print("KeyError. Skipping")
+                    continue
                 
                 bar.next()
                 nSentence += 1
