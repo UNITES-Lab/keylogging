@@ -9,8 +9,11 @@ import ast
 from simulate import load_json
 import re
 import json
+import heapq
+
 
 SPEED_UP = 3
+THRESHHOLD = 15
 
 def sort_output(data):
     # List to store the extracted numbers
@@ -94,31 +97,11 @@ def retrieve(json_file, participant_id, test_section_id, sentence_id, query):
             return record.get(query)
     return None
 
-def find_threshhold(counts, target):
-    low = 0
-    high = int(counts.max())
-    best_v = low
-    best_diff = float('inf')
+def set_threshhold(hits, target):
+    THRESHHOLD = heapq.nlargest((target+10)*5, hits)[-1]
+    print("threshhold set at: ",THRESHHOLD)
+    return None
     
-    while low <= high:
-        mid = 20
-        filtered = np.where(counts >= mid)[0]
-        num_filtered = len(filtered)
-        diff = abs(num_filtered - target)
-        
-        if diff == 0:
-            return mid
-        
-        if diff < best_diff:
-            best_diff = diff
-            best_v = mid
-        
-        if num_filtered > target:
-            low = mid + 3
-        else:
-            high = mid - 3
-            
-    return best_v
 
 def graph(input_file, truth_file, attack_type, output_file, normalize):
 
@@ -149,6 +132,7 @@ def graph(input_file, truth_file, attack_type, output_file, normalize):
     plt.plot(range(len(counts)), counts, color='red', alpha=0.7, linewidth=1)
     for t in truths:
         plt.axvline(x=t, color='blue', linestyle=':', alpha=0.7)
+    plt.axhline(THRESHHOLD)
     plt.xlabel("time (ms)")
     plt.ylabel("detection count")
     plt.title(attack_type + " Detection Count Line Plot")
@@ -183,21 +167,17 @@ def stat(input_file, truth_file, normalize):
         counts[v] += 1
     # count_threshhold = find_threshhold(counts, len(intervals))
     # print("count threshold: ", count_threshhold)
-    filtered = np.where(counts >= 20)[0]         #change this value to adjust threshhold per noise, default is 20 counts
+    set_threshhold(counts, len(intervals))
+    filtered = np.where(counts >= THRESHHOLD)[0]         #change this value to adjust threshhold per noise, default is 20 counts
     
 
-    #grouping function
-    # threshhold = np.mean(intervals) - (2.5*np.std(intervals))
-    # print(np.mean(intervals), np.std(intervals))
-    # print("grouping threshold: ", threshhold)
+    print(np.diff(filtered))
     prev = filtered[0]
     grouped.append(0)
     for v in filtered:
-        if(v-prev > 35):          #change this value to adjust threshhold, default is 85ms 121 - 3SD(12) = 85ms
-            v += 15
+        if(v-prev > 40):          #change this value to adjust threshhold, default is 85ms 121 - 3SD(12) = 85ms
             grouped.append(v)
         prev = v
-
 
 
     #determining normalization factor, find mathcing interval pattern, consider using DTW or measureing the difference in start time in two modules, latter is probably better
@@ -265,8 +245,8 @@ def stat(input_file, truth_file, normalize):
     # dtw_visualisation.plot_warpingpaths(intervals, diff_pp[4:], dtw.warping_paths(intervals, diff_pp[4:]), dtw.warping_path(intervals, diff_pp[4:]), filename="warp3.png")
     
 if __name__ == "__main__":
-    dir = "split_13"
-    filename = "397441-4290094-1372.bin"
+    dir = "split_2"
+    filename = "292-2574-2324.bin"
     graph(f"bins_to_convert/{dir}/{filename}", f"data/split_json_files/{dir}.jsonl", "Prime+Probe", "pp_keystrokes.png", True)
     stat(f"bins_to_convert/{dir}/{filename}", f"data/split_json_files/{dir}.jsonl", True)
     print(f"{dir}/{filename}")

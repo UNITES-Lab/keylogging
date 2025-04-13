@@ -6,22 +6,32 @@ from simulate import load_json
 from plot import retrieve, extract_ids  
 import json
 from progress.bar import Bar
+import heapq
 
 global data
+global json_dictionary
 
 CPU_FREQ = 3.4
 MIN_KEYSTROKE_INTERVAL = 35
-THRESHOLD = 30 # TODO: Find a dynamic algorithm to determine the hitcount threshold
+THRESHOLD = 15 # TODO: Find a dynamic algorithm to determine the hitcount threshold
 BINARY_DIR = "bins_to_convert/test"
+
+def set_threshhold(hits, target):
+    THRESHHOLD = heapq.nlargest((target+10)*5, hits)[-1]
+    return None
+
+def build_index(data):
+    index = {}
+    for record in data:
+        key = (record.get("participant_id"), record.get("test_section_id"), record.get("sentence_id"))
+        index[key] = record
+    return index
 
 def retrieve_fast(participant_id, test_section_id, sentence_id, query):
    
-    for record in data:
-        if (record.get("participant_id") == participant_id and
-            record.get("test_section_id") == test_section_id and
-            record.get("sentence_id") == sentence_id):
-            return record.get(query)
-    return None
+    key = (participant_id, test_section_id, sentence_id)
+    record = json_dictionary.get(key)
+    return record.get(query) if record else None
 
 def graph(traces, attack_type, output_file):
     counts = get_hit_count(traces) 
@@ -46,8 +56,8 @@ def get_hit_count(traces):
     return counts
 
 """ This is where the filter function and algorithm resides"""
-def get_interval(counts, threshold):
-    potential_keystrokes = {str(i): counts[i] for i in range(len(counts)) if counts[i] > threshold} 
+def get_interval(counts):
+    potential_keystrokes = {str(i): counts[i] for i in range(len(counts)) if counts[i] >= THRESHOLD} 
 
     interval = []
     isFirst = True
@@ -69,7 +79,7 @@ def get_interval(counts, threshold):
 def load_trace(input_file):
     return np.fromfile(input_file, dtype=np.uint64)
 
-def analyze_file(path_to_file, graph):
+def analyze_file(path_to_file, truth_len, graph):
     pp_trace = load_trace(path_to_file)
     counts_per_ms = get_hit_count(pp_trace)
     if graph:
@@ -79,37 +89,30 @@ def analyze_file(path_to_file, graph):
         file = filepath[directory_file_separate_index:-4] 
         graph(counts_per_ms, "Prime+Probe", f"simulation/figures/{target_directory}/{file}.png")
     
-    return get_interval(counts_per_ms, THRESHOLD), counts_per_ms.tolist()
+    set_threshhold(counts_per_ms, truth_len)
+    return get_interval(counts_per_ms), counts_per_ms.tolist()
 
-def format_json(filename, intervals):
-    truth = load_json(JSON_PATH) 
-    ids = extract_ids(filename)
-    input_string = retrieve_fast(ids[0], ids[1], ids[2], "input_string")
-    keystrokes = retrieve_fast(ids[0], ids[1], ids[2], "keystrokes")
+def format_json(id, input_string, keystrokes, intervals):
+    
     output = {
-        "participant_id": ids[0], 
-        "test_section_id": ids[1], 
+        "participant_id": id[0], 
+        "test_section_id": id[1], 
         "input_string": input_string,
         "keystrokes": keystrokes,
         "intervals": intervals, 
-        "sentence_id": ids[2]
+        "sentence_id": id[2]
     }  
     return output
 
-def format_json_raw(filename, intervals, hitcounts):
-    truth = load_json(JSON_PATH) 
-    ids = extract_ids(filename)
-    input_string = retrieve_fast(ids[0], ids[1], ids[2], "input_string")
-    keystrokes = retrieve_fast(ids[0], ids[1], ids[2], "keystrokes")
-
+def format_json_raw(id, input_string, keystrokes, intervals, hitcounts):
     output = {
-        "participant_id": ids[0], 
-        "test_section_id": ids[1], 
+        "participant_id": id[0], 
+        "test_section_id": id[1], 
         "input_string": input_string,
         "keystrokes": keystrokes,
-        "intervals": intervals,
+        "intervals": intervals, 
         "hitcounts": hitcounts,
-        "sentence_id": ids[2]
+        "sentence_id": id[2]
     }  
     return output
 
@@ -144,23 +147,38 @@ if __name__ == "__main__":
             with open(JSON_PATH, 'r', encoding='utf-8') as f: 
                 data = json.load(f)
 
+            json_dictionary = build_index(data)
+
             files = os.listdir(f"{BINARY_DIR}/{folder}")
             observations = []
+            errors = []
             bar = Bar('Converting', max = int(len(files)))
             for file in files:
                 print("     ",file)
                 path = f"{BINARY_DIR}/{folder}/{file}" 
+
+                ids = extract_ids(file)
+                typed_string = retrieve_fast(ids[0], ids[1], ids[2], "input_string")
+                ikeystrokes = retrieve_fast(ids[0], ids[1], ids[2], "keystrokes")
+                truth = len(ikeystrokes)    
+
                 try:
-                    interval, hitcount = analyze_file(path, False)
+                    interval, hitcount = analyze_file(path, truth, False)
                 except IndexError: 
-                    print("Faulty Binary")
-                    continue   
-                formatted = format_json_raw(file, interval, hitcount)
+                    print("Faulty Binary: Recording")
+                    errors.append(f"{file}, too small")
+                    continue
+                except MemoryError:
+                    print("Faulty Binary: Memory")
+                    errors.append(f"{file}, too big")
+                    continue
+                formatted = format_json_raw(ids, typed_string, ikeystrokes, interval, hitcount)
                 #formatted = format_json(file, interval)
                 observations.append(formatted)
                 bar.next() 
-            print(observations)
             export_json(folder, observations)
+            export_json(f"{folder}_log", errors)
+            
     elif num_arguments == 2:
         if sys.argv[1] == "-h":
             help()
