@@ -63,7 +63,8 @@ def get_interval(counts):
 
     filtered_diff = np.diff(potential_keystrokes)
     interval.append(0)
-    interval = [x for x in filtered_diff if x >= 30 and x <= 1000]
+    interval = np.where((filtered_diff >= 30) & (filtered_diff <= 1000))[0]
+
     
 
     interval[0] = 0
