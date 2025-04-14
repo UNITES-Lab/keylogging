@@ -222,7 +222,8 @@ async function startWorker() {
 
             case 'graphKeystrokes':{
                 /* load data */
-                data = Array.from(message.payload["data"])
+                keycode_data = Array.from(message.payload["keycode_data"])
+                event_data = Array.from(message.payload["event_data"])
                 pp_duration = message.payload["pp_duration"]
                 js_duration = message.payload["js_duration"]
                 start_time = message.payload["start_time"]
@@ -236,7 +237,7 @@ async function startWorker() {
                 }
                 
                 log(`pp_duration: ${pp_duration}, js_duration ${js_duration}`)
-                const labels = Array.from(data.keys());
+                const labels = Array.from(keycode_data.keys());
                 
                 /* prepare ground truth overlay graph data */
                 keystroke_graph = []
@@ -253,18 +254,18 @@ async function startWorker() {
                 }
 
                 /* append canvas to graph */
-                let canvas = document.createElement('canvas')
-                canvas.id = `keystrokes_graph`
-                canvas.width = window.innerWidth 
-                document.querySelector(".graph").appendChild(canvas)
-                new Chart(`keystrokes_graph`, {
+                let keycode_canvas = document.createElement('canvas')
+                keycode_canvas.id = `keycode_graph`
+                keycode_canvas.width = window.innerWidth 
+                document.querySelector(".graph").appendChild(keycode_canvas)
+                new Chart(`keycode_graph`, {
                     type: 'bar',
                     data: {
                         labels: labels, // X-axis (milliseconds)
                         datasets: [
                             {
-                                label: 'Event Counts per Millisecond',
-                                data: data, // Y-axis ()
+                                label: 'KEYCODE Counts per Millisecond',
+                                data: keycode_data, // Y-axis ()
                                 backgroundColor: 'red', // Bar color
                                 borderWidth: 1
                             }, 
@@ -272,6 +273,57 @@ async function startWorker() {
                                 label: 'Actual Keystroke', 
                                 data: keystroke_graph,
                                 backgroundColor: 'blue',
+                                borderWidth: 1
+                            },
+                        ]
+                    },
+                    options: {
+                        responsive: true,
+                        scales: {
+                            x: { 
+                                title: { display: true, text: "Time (ms)" },
+                                ticks: { 
+                                    autoSkip: true, 
+                                    maxTicksLimit: 5 
+                                },
+                                grid: {
+                                    display: false
+                                }
+                            },
+                            y: { 
+                                title: { display: true, text: "Cache Hit Count" },
+                                beginAtZero: true,
+                                border:{
+                                    display: false
+                                }
+                            }
+                        }, 
+                        title:{
+                            display: true, 
+                            text: "Keystroke Recovery with Browser Prime+Probe Slice" 
+                        }
+                    }
+                });
+                                
+                let event_canvas = document.createElement('canvas')
+                event_canvas.id = `event_graph`
+                event_canvas.width = window.innerWidth 
+                document.querySelector(".graph").appendChild(event_canvas)
+                new Chart(`event_graph`, {
+                    type: 'bar',
+                    data: {
+                        labels: labels, // X-axis (milliseconds)
+                        datasets: [
+                            {
+                                label: 'Actual Keystroke', 
+                                data: keystroke_graph,
+                                backgroundColor: 'blue',
+                                borderWidth: 1
+                            },
+                            {
+                                label: 'EVENT Counts per Millisecond',
+                                data: event_data, // Y-axis ()
+                                backgroundColor: 'green', // Bar color
                                 borderWidth: 1
                             }
                         ]
@@ -303,16 +355,15 @@ async function startWorker() {
                         }
                     }
                 });
-                                
                 let filtered_data = []
                 let prev_hit = -100;
                 let detected_strokes = []
                 let intervals = []
-                for(let i = 0; i < data.length; i++){
-                    if(data[i] > 150){
-                        if(i-prev_hit > 20){
+                for(let i = 0; i < keycode_data.length; i++){
+                    if(keycode_data[i] > 150 && event_data[i] > 150){
+                        if(i-prev_hit > 30){
                             detected_strokes.push(i);
-                            filtered_data.push({"time": i, "count": data[i]})
+                            filtered_data.push({"time": i, "count": keycode_data[i]})
                             if(prev_hit > 0){
                                 intervals.push(i-prev_hit)
                             }
@@ -323,10 +374,6 @@ async function startWorker() {
 
                 log(intervals)
                 log(key_intervals)
-
-                let correlation = crossCorrelation(keystrokes, detected_strokes);
-                log("correlation length: " + correlation.length);
-                log("shift amount: " + correlation.indexOf(Math.max(...correlation)) -keystrokes.length + 1)
                 respond(message, null);
                 break;
             }

