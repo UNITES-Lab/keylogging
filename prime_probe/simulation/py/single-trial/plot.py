@@ -6,14 +6,14 @@ import matplotlib.pyplot as plt
 import os
 import struct
 import ast
-from simulate import load_json
 import re
 import json
 import heapq
 
 
 SPEED_UP = 3
-THRESHHOLD = 15
+threshold = 15
+window = 40
 
 def sort_output(data):
     # List to store the extracted numbers
@@ -97,9 +97,9 @@ def retrieve(json_file, participant_id, test_section_id, sentence_id, query):
             return record.get(query)
     return None
 
-def set_threshhold(hits, target):
-    THRESHHOLD = heapq.nlargest((target+10)*5, hits)[-1]
-    print("threshhold set at: ",THRESHHOLD)
+def set_threshold(hits, target):
+    threshold = heapq.nlargest((target+5)*4, hits)[-1]
+    print("threshold set at: ",threshold)
     return None
     
 
@@ -132,7 +132,7 @@ def graph(input_file, truth_file, attack_type, output_file, normalize):
     plt.plot(range(len(counts)), counts, color='red', alpha=0.7, linewidth=1)
     for t in truths:
         plt.axvline(x=t, color='blue', linestyle=':', alpha=0.7)
-    plt.axhline(THRESHHOLD)
+    plt.axhline(threshold)
     plt.xlabel("time (ms)")
     plt.ylabel("detection count")
     plt.title(attack_type + " Detection Count Line Plot")
@@ -167,30 +167,28 @@ def stat(input_file, truth_file, normalize):
         counts[v] += 1
     # count_threshhold = find_threshhold(counts, len(intervals))
     # print("count threshold: ", count_threshhold)
-    set_threshhold(counts, len(intervals))
-    filtered = np.where(counts >= THRESHHOLD)[0]         #change this value to adjust threshhold per noise, default is 20 counts
+    set_threshold(counts, len(intervals))
+    filtered = np.where(counts >= threshold)[0]         #change this value to adjust threshhold per noise, default is 20 counts
     
-
-    print(np.diff(filtered))
-    prev = filtered[0]
+    filtered_diff = np.diff(filtered)
+    print(filtered_diff)
     grouped.append(0)
-    for v in filtered:
-        if(v-prev > 40):          #change this value to adjust threshhold, default is 85ms 121 - 3SD(12) = 85ms
-            grouped.append(v)
-        prev = v
+    grouped = [x for x in filtered_diff if x >= 30 and x <= 1000]
+    # for v in filtered:
+    #     if(v-prev > window):          #change this value to adjust threshhold, default is 85ms 121 - 3SD(12) = 85ms
+    #         grouped.append(v)
+    #     prev = v
 
 
     #determining normalization factor, find mathcing interval pattern, consider using DTW or measureing the difference in start time in two modules, latter is probably better
 
-    if normalize:
-        grouped = np.array(grouped)                           
-        grouped = grouped - 2500        #subtract first keystroke time
+    # if normalize:
+    #     grouped = np.array(grouped)                           
+    #     grouped = grouped - 2500        #subtract first keystroke time
 
-    diff_pp = np.diff(grouped)
+    grouped[0] = 0
 
-    diff_pp[0] = 0
-
-    print(diff_pp)
+    print(grouped)
     print(intervals)
 
     # #accuracy calculation with +-
@@ -205,19 +203,19 @@ def stat(input_file, truth_file, normalize):
 
     #interval calculation
     print("avg hitcount: " + str(np.sum(counts)/(2*len(filtered))))
-    print("valid detections: " + str(len(diff_pp)))
+    print("valid detections: " + str(len(grouped)))
     print("ground truth: " + str(len(intervals)))
-    print("F-value: " + str(np.var(diff_pp[4:])/np.var(intervals)))
+    print("F-value: " + str(np.var(grouped)/np.var(intervals)))
     # print("Correlation Coefficient: " + str(np.corrcoef(intervals, diff_pp[25:])[0, 1]))
 
-    corr = signal.correlate(diff_pp, intervals, mode='same') / len(intervals)
+    corr = signal.correlate(grouped, intervals, mode='same') / len(intervals)
 
     bestMatch = np.argmax(corr)
 
     print("Best matching starting index:", bestMatch)
 
-    print("DTW Distance: ", dtw.distance(intervals, diff_pp))
-    dtw_visualisation.plot_warping(intervals, diff_pp, dtw.warping_path(intervals, diff_pp), filename="warp.png")
+    print("DTW Distance: ", dtw.distance(intervals, grouped))
+    dtw_visualisation.plot_warping(intervals, grouped, dtw.warping_path(intervals, grouped), filename="warp.png")
 
     
     
@@ -229,7 +227,7 @@ def stat(input_file, truth_file, normalize):
     ax_orig.plot(np.arange(len(intervals)), intervals, 'ro')
     ax_orig.set_title('Original signal')
 
-    ax_noise.plot(diff_pp)
+    ax_noise.plot(grouped)
     ax_noise.set_title('Signal with noise')
 
     ax_corr.plot(np.arange(len(intervals)), intervals, 'ro')
@@ -245,8 +243,8 @@ def stat(input_file, truth_file, normalize):
     # dtw_visualisation.plot_warpingpaths(intervals, diff_pp[4:], dtw.warping_paths(intervals, diff_pp[4:]), dtw.warping_path(intervals, diff_pp[4:]), filename="warp3.png")
     
 if __name__ == "__main__":
-    dir = "split_2"
-    filename = "292-2574-2324.bin"
+    dir = "split_16"
+    filename = "516322-5561082-781.bin"
     graph(f"bins_to_convert/{dir}/{filename}", f"data/split_json_files/{dir}.jsonl", "Prime+Probe", "pp_keystrokes.png", True)
     stat(f"bins_to_convert/{dir}/{filename}", f"data/split_json_files/{dir}.jsonl", True)
     print(f"{dir}/{filename}")

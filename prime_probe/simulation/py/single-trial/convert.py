@@ -14,7 +14,7 @@ global json_dictionary
 CPU_FREQ = 3.4
 MIN_KEYSTROKE_INTERVAL = 35
 THRESHOLD = 15 # TODO: Find a dynamic algorithm to determine the hitcount threshold
-BINARY_DIR = "bins_to_convert/test"
+BINARY_DIR = "bins_to_convert"
 
 def set_threshhold(hits, target):
     THRESHHOLD = heapq.nlargest((target+10)*5, hits)[-1]
@@ -61,17 +61,12 @@ def get_interval(counts):
 
     interval = []
     isFirst = True
-    prev = -MIN_KEYSTROKE_INTERVAL # dummy value, assignment change after the first 
 
-    for index in potential_keystrokes:
-        index = int(index)
-        if isFirst:
-            isFirst = False
-            prev = index
-        elif index - prev > MIN_KEYSTROKE_INTERVAL:
-            interval.append(index - prev)
-            prev = index
+    filtered_diff = np.diff(counts)
+    interval.append(0)
+    interval = [x for x in filtered_diff if x >= 30 and x <= 1000]
     
+
     interval[0] = 0
     return interval
 
