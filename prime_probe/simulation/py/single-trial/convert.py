@@ -13,7 +13,7 @@ global json_dictionary
 
 CPU_FREQ = 3.4
 MIN_KEYSTROKE_INTERVAL = 35
-THRESHOLD = 15 # TODO: Find a dynamic algorithm to determine the hitcount threshold
+threshold = 15 # TODO: Find a dynamic algorithm to determine the hitcount threshold
 BINARY_DIR = "bins_to_convert"
 
 def set_threshhold(hits, target):
@@ -57,12 +57,11 @@ def get_hit_count(traces):
 
 """ This is where the filter function and algorithm resides"""
 def get_interval(counts):
-    potential_keystrokes = {str(i): counts[i] for i in range(len(counts)) if counts[i] >= THRESHOLD} 
+    potential_keystrokes = np.where(counts >= threshold)[0]
 
     interval = []
-    isFirst = True
 
-    filtered_diff = np.diff(counts)
+    filtered_diff = np.diff(potential_keystrokes)
     interval.append(0)
     interval = [x for x in filtered_diff if x >= 30 and x <= 1000]
     
