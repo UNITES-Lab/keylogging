@@ -290,6 +290,7 @@ void measure_keystroke_without_slice(int num_slices, int seconds,
       num_strokes = prime_scope_many_sets(
           es_list, KABYLAKE_NUM_SLICES, KABYLAKE_ASSOCIATIVITY, max_detections,
           keystrokes, threshold);
+      i += 2;
     }
 
     for (int j = 0; j < num_slices; j++) {

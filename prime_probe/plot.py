@@ -9,7 +9,7 @@ def graph(traces, attack_type, output_file):
 
     prev = -100
     for i in range(len(counts)):
-        if counts[i] >= 10 and i - prev > 75:
+        if counts[i] >= 9 and i - prev > 75:
             filtered_counts.append(i)
 
     print(len(filtered_counts))
