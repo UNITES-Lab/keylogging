@@ -237,6 +237,8 @@ async function startWorker() {
                 }
                 
                 log(`pp_duration: ${pp_duration}, js_duration ${js_duration}`)
+
+                /* generate x axis */
                 const labels = Array.from(keycode_data.keys());
                 
                 /* prepare ground truth overlay graph data */
@@ -244,15 +246,41 @@ async function startWorker() {
                 for(let i = 0; i < labels.length; i++){
                     keystroke_graph.push(0); 
                 }
-
-                const MEASUREMENT_DELAY = 50
+                
+                /* graph alignment & visibility processing for ground truth */
                 for(let stroke of keystrokes){
-                    let index = Math.floor((stroke - start_time) / scaling_factor) - MEASUREMENT_DELAY;
+                    let index = Math.floor((stroke - start_time) / scaling_factor);
                     for(let i = 0; i < 10; i++){
                         keystroke_graph[index+i] = 300;
                     }
                 }
 
+                /* visibility processing for actual keystroke */
+                let filtered_data = []
+                let prev_hit = -100;
+                let detected_strokes = []
+                let intervals = []
+                for(let i = 0; i < keycode_data.length; i++){
+                    if(keycode_data[i] > 150 && event_data[i] > 150){
+                        if(i-prev_hit > 30){
+                            detected_strokes.push(i);
+                            filtered_data.push({"time": i, "count": keycode_data[i]})
+                            if(prev_hit > 0){
+                                intervals.push(i-prev_hit)
+                            }
+                        } 
+                        prev_hit = i;
+
+                        for(let j = 0; j < 10; j++){
+                            keycode_data[i+j] = keycode_data[i];
+                            event_data[i+j] = event_data[i];
+                        }
+                        i += 9;
+                    }
+                }
+
+                log(intervals)
+                log(key_intervals)
                 /* append canvas to graph */
                 let keycode_canvas = document.createElement('canvas')
                 keycode_canvas.id = `keycode_graph`
@@ -355,25 +383,7 @@ async function startWorker() {
                         }
                     }
                 });
-                let filtered_data = []
-                let prev_hit = -100;
-                let detected_strokes = []
-                let intervals = []
-                for(let i = 0; i < keycode_data.length; i++){
-                    if(keycode_data[i] > 150 && event_data[i] > 150){
-                        if(i-prev_hit > 30){
-                            detected_strokes.push(i);
-                            filtered_data.push({"time": i, "count": keycode_data[i]})
-                            if(prev_hit > 0){
-                                intervals.push(i-prev_hit)
-                            }
-                        } 
-                        prev_hit = i;
-                    }
-                }
-
-                log(intervals)
-                log(key_intervals)
+                
                 respond(message, null);
                 break;
             }
