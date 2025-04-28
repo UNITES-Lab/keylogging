@@ -224,6 +224,7 @@ async function startWorker() {
                 /* load data */
                 keycode_data = Array.from(message.payload["keycode_data"])
                 event_data = Array.from(message.payload["event_data"])
+                random_data = Array.from(message.payload["random_data"])
                 pp_duration = message.payload["pp_duration"]
                 js_duration = message.payload["js_duration"]
                 start_time = message.payload["start_time"]
@@ -384,6 +385,57 @@ async function startWorker() {
                     }
                 });
                 
+                let random_canvas = document.createElement('canvas')
+                random_canvas.id = `random_graph`
+                random_canvas.width = window.innerWidth 
+                document.querySelector(".graph").appendChild(random_canvas)
+                new Chart(`random_graph`, {
+                    type: 'bar',
+                    data: {
+                        labels: labels, // X-axis (milliseconds)
+                        datasets: [
+                            {
+                                label: 'Actual Keystroke', 
+                                data: keystroke_graph,
+                                backgroundColor: 'blue',
+                                borderWidth: 1
+                            },
+                            {
+                                label: 'RANDOM Counts per Millisecond',
+                                data: random_data, // Y-axis ()
+                                backgroundColor: 'brown', // Bar color
+                                borderWidth: 1
+                            }
+                        ]
+                    },
+                    options: {
+                        responsive: true,
+                        scales: {
+                            x: { 
+                                title: { display: true, text: "Time (ms)" },
+                                ticks: { 
+                                    autoSkip: true, 
+                                    maxTicksLimit: 5 
+                                },
+                                grid: {
+                                    display: false
+                                }
+                            },
+                            y: { 
+                                title: { display: true, text: "Cache Hit Count" },
+                                beginAtZero: true,
+                                border:{
+                                    display: false
+                                }
+                            }
+                        }, 
+                        title:{
+                            display: true, 
+                            text: "Keystroke Recovery with Browser Prime+Probe Slice" 
+                        }
+                    }
+                });
+
                 respond(message, null);
                 break;
             }

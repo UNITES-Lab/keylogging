@@ -722,13 +722,17 @@ async function l3pp_main(){
 
     let keycode_hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
     let event_hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
+    let random_hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
     let keycode_traces = new Uint8Array(KEYSTROKE_BUFFER_SIZE)
     let event_traces = new Uint8Array(KEYSTROKE_BUFFER_SIZE)
+    let random_traces = new Uint8Array(KEYSTROKE_BUFFER_SIZE)
 
     keycode_hit_count_per_ms.fill(0);
     keycode_traces.fill(0);
     event_hit_count_per_ms.fill(0);
     event_traces.fill(0);
+    random_hit_count_per_ms.fill(0);
+    random_traces.fill(0);
 
     let num_traces = 0;
     
@@ -736,14 +740,17 @@ async function l3pp_main(){
     for(let i = 0; i < 10; i++){
         keycode_found_sets[KEYCODE_SLICE].probe()
         event_found_sets[EVENT_SLICE].probe()
+        keycode_found_sets[0].probe() 
     } 
 
     while(num_traces < KEYSTROKE_BUFFER_SIZE){
         for(let i = 0; i < 8; i++){
             let keycode_result = keycode_found_sets[KEYCODE_SLICE].probe();
             let event_result = event_found_sets[EVENT_SLICE].probe(); 
+            let random_result = keycode_found_sets[0].probe(); 
             keycode_traces[num_traces] += (keycode_result << i); 
             event_traces[num_traces] += (event_result << i); 
+            random_traces[num_traces] += (random_result << i);
         }
         num_traces++;
     }
@@ -757,18 +764,22 @@ async function l3pp_main(){
         for(let j = 0; j < NUM_MEASUREMENTS_MS / 8; j++){
             let keycode_data = keycode_traces[i * NUM_MEASUREMENTS_MS / 8 + j];
             let event_data = event_traces[i * NUM_MEASUREMENTS_MS / 8 + j];
+            let random_data = random_traces[i * NUM_MEASUREMENTS_MS / 8 + j];
             for(let l = 0; l < 8; l++){
                 let keycode_result = keycode_data & 1;
                 let event_result = event_data & 1;
+                let random_result = random_data & 1;
                 keycode_hit_count_per_ms[i] += keycode_result;
                 event_hit_count_per_ms[i] += event_result;
+                random_hit_count_per_ms[i] += random_result;
                 keycode_data >>= 1;
                 event_data >>= 1;
+                random_data >>= 1;
             }
         }
     }
 
-    await graphKeystrokes({"keycode_data": keycode_hit_count_per_ms, "event_data": event_hit_count_per_ms, "pp_duration": keycode_hit_count_per_ms.length, "js_duration": duration, "start_time": start_measurement});
+    await graphKeystrokes({"keycode_data": keycode_hit_count_per_ms, "event_data": event_hit_count_per_ms, "random_data": random_hit_count_per_ms, "pp_duration": keycode_hit_count_per_ms.length, "js_duration": duration, "start_time": start_measurement});
 
     // remote_set_profiling(evset);
     await stopTimer();
