@@ -33,6 +33,15 @@
 #define EVERGLADES_LLC_SIZE 8 * 1024 * 1024
 
 /*********************************************************************
+ * Arches (Skylake i5-6200) Constants
+ *********************************************************************/
+#define ARCHES_CACHE_SET_BITS 10
+#define ARCHES_ASSOCIATIVITY 12
+#define ARCHES_NUM_SLICES 4
+#define ARCHES_SETS_PER_SLICE 1024
+#define ARCHES_LLC_SIZE 3 * 1024 * 1024
+
+/*********************************************************************
  * Prime+Probe
  *********************************************************************/
 #define WAIT_INTERVAL 10000

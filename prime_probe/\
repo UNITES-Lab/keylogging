@@ -381,29 +381,6 @@ void deep_free_es(EvictionSet *es) {
 // Access each of the cache lines in an eviction set
 void access_set(EvictionSet *es) {
 
-  // TODO: Fix some es that head and tail isn't actually the head and tail
-  int count = 0;
-  CacheLine *iter = es->head;
-  while (iter->previous != NULL) {
-    iter = iter->previous;
-  }
-
-  while (iter != NULL && count < es->size) {
-    iter = iter->next;
-    count++;
-  }
-
-  iter = es->tail;
-  count = 0;
-  while (iter->next != NULL) {
-    iter = iter->next;
-  }
-  while (iter != NULL && count < es->size) {
-    iter = iter->previous;
-    count++;
-  }
-
-  /*
   if (es->size < 8) {
     return;
   }
@@ -441,7 +418,6 @@ void access_set(EvictionSet *es) {
       lagging_iter = lagging_iter->previous;
     }
   }
-  */
 }
 
 // Access an eviction set repeatedly until attack_finished is set
@@ -636,7 +612,6 @@ bool reduce2(CacheLineSet *cl_set, CacheLineSet *reserve, uint8_t *victim,
     }
 #endif
 
-    int failed_count = 0;
     // If it wasn't, add back cache lines from reserve
     while (true) {
       // Add back all cache lines which were removed
@@ -661,11 +636,6 @@ bool reduce2(CacheLineSet *cl_set, CacheLineSet *reserve, uint8_t *victim,
 
       if (strikes2 >= 5) {
         break;
-      } else {
-        failed_count++;
-      }
-      if (failed_count > 200) {
-        return false;
       }
     }
 
@@ -758,31 +728,28 @@ bool get_minimal_set(uint8_t *victim, CacheLineSet **cl_set,
 
 bool get_minimal_set_with_cset(uint8_t *victim, CacheLineSet **cl_set,
                                EvictionSet **evset, uint64_t threshold) {
-  CacheLineSet **cl_set_copy = malloc(sizeof(CacheLineSet *));
-  *cl_set_copy = new_cl_set();
-  copy_cl_set(cl_set_copy, cl_set);
+  CacheLineSet *cl_set_copy = new_cl_set();
+  copy_cl_set(&cl_set_copy, cl_set);
 
   CacheLineSet *reserve = new_cl_set();
 
   int tries = 0;
 
-  while (!reduce2(*cl_set_copy, reserve, victim, SAMPLES, threshold, BINS)) {
+  while (!reduce2(cl_set_copy, reserve, victim, SAMPLES, threshold, BINS)) {
     if (tries > 2) {
       return false;
     }
 
-    deep_free_cl_set(*cl_set_copy);
-    *cl_set_copy = new_cl_set();
-    copy_cl_set(cl_set_copy, cl_set);
+    deep_free_cl_set(cl_set_copy);
+    copy_cl_set(&cl_set_copy, cl_set);
     deep_free_cl_set(reserve);
     reserve = new_cl_set();
     tries++;
   }
-  printf("Successfully reduced to size %u.\n", (*cl_set_copy)->size);
-  *evset = new_eviction_set(*cl_set_copy);
+  printf("Successfully reduced to size %u.\n", cl_set_copy->size);
+  *evset = new_eviction_set(cl_set_copy);
   deep_free_cl_set(reserve);
-  deep_free_cl_set(*cl_set_copy);
-  free(cl_set_copy);
+  deep_free_cl_set(cl_set_copy);
 
   return true;
 }

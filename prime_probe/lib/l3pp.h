@@ -56,5 +56,7 @@ Using Performance Counters */
 int get_i7_2600_slice(uintptr_t pa);
 CacheLineSet *hugepage_inflate(void *mmap_start, int size, int set);
 EvictionSet **get_all_slices_eviction_sets(void *mmap_start, int set);
+EvictionSet **get_evsets_all_slices_hugepages(void *mmap_start, int cset_size,
+                                              int set, int threshold);
 
 void free_es_list(EvictionSet **es_list);

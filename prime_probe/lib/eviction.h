@@ -65,6 +65,7 @@ typedef struct {
 void print_cache_line(CacheLine *cl);
 CacheLine *allocate_cache_line(uint8_t *victim);
 CacheLineSet *new_cl_set(void);
+void copy_cl_set(CacheLineSet **dest, CacheLineSet **src);
 void print_cl_set(CacheLineSet *cl_set);
 void push_cache_line(CacheLineSet *cl_set, CacheLine *cl);
 void free_cl_set(CacheLineSet *cl_set);

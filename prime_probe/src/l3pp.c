@@ -4,15 +4,28 @@
 #include <stdio.h>
 
 uint8_t probe(EvictionSet *es, int threshold) {
+
+  unsigned int core_id = 0;
   CacheLine *iter = es->head;
-  for (int i = 0; i < es->size; i++) {
-    uint64_t time = time_load((uint8_t *)iter);
-    if (time > threshold) {
-      return 1;
-    }
+  // TODO: hack to fix head not being the head
+  while (iter->previous != NULL)
+    iter = iter->previous;
+
+  uint8_t ret = 0;
+  for (int i = 0; i < es->size && iter != NULL; i++) {
+    _mm_mfence();
+    uint64_t t0 = __rdtscp(&core_id);
+    _mm_lfence();
     iter = iter->next;
+    uint64_t t1 = __rdtscp(&core_id);
+    _mm_lfence();
+
+    uint64_t time = t1 - t0;
+    if (time > threshold) {
+      ret = 1;
+    }
   }
-  return 0;
+  return ret;
 }
 
 uint64_t prime_probe(EvictionSet *es, uint8_t associativity, uint8_t *hit_times,
@@ -135,8 +148,7 @@ CacheLineSet *hugepage_inflate(void *mmap_start, int size, int set) {
   for (int i = 0; i < size; i++) {
     CacheLine *line =
         (CacheLine *)(mmap_start + (set << LINE_OFFSET_BITS) +
-                      ((1 << EVERGLADES_CACHE_SET_BITS) << LINE_OFFSET_BITS) *
-                          i);
+                      (ARCHES_SETS_PER_SLICE << LINE_OFFSET_BITS) * i);
     push_cache_line(cl_set, line);
   }
   return cl_set;
@@ -208,6 +220,80 @@ EvictionSet **get_all_slices_eviction_sets(void *mmap_start, int set) {
 
   print_cl_set(cl_set);
   return es_list;
+}
+
+EvictionSet **get_evsets_all_slices_hugepages(void *mmap_start, int cset_size,
+                                              int set, int threshold) {
+  EvictionSet **ret = malloc(ARCHES_NUM_SLICES * sizeof(EvictionSet *));
+
+  uintptr_t candidate_start_addr =
+      (uintptr_t)mmap_start +
+      (ARCHES_SETS_PER_SLICE << LINE_OFFSET_BITS) * (ARCHES_NUM_SLICES << 2);
+
+  CacheLineSet *cl_set =
+      hugepage_inflate(mmap_start, ARCHES_NUM_SLICES << 2, set);
+
+  int slice_index = 0;
+  int MAX_RETRIES = 10;
+  int failed_count = 0;
+  while (slice_index < ARCHES_NUM_SLICES) {
+
+    CacheLineSet *candidate_set =
+        hugepage_inflate((void *)candidate_start_addr, cset_size, set);
+
+    CacheLineSet *reserve = new_cl_set();
+
+    if (reduce2(candidate_set, reserve,
+                (uint8_t *)cl_set->cache_lines[slice_index], SAMPLES, threshold,
+                BINS) &&
+        candidate_set->size == ARCHES_ASSOCIATIVITY) {
+      ret[slice_index] = new_eviction_set(candidate_set);
+      print_eviction_set(ret[slice_index]->cache_lines);
+
+      printf("-----------------------------------------------------------\n");
+      for (int i = slice_index + 1; i < cl_set->size; i++) {
+        if (cl_set->cache_lines[i] != NULL &&
+            evict_and_time_once(ret[slice_index],
+                                (uint8_t *)cl_set->cache_lines[i]) >
+                threshold) {
+          cl_set->cache_lines[i] = NULL;
+        }
+      }
+
+      if (cl_set->cache_lines[slice_index + 1] == NULL) {
+        for (int i = slice_index + 2; i < cl_set->size; i++) {
+          if (cl_set->cache_lines[i] != NULL) {
+            cl_set->cache_lines[slice_index + 1] = cl_set->cache_lines[i];
+            cl_set->cache_lines[i] = NULL;
+            break;
+          }
+        }
+      }
+      slice_index++;
+      failed_count = 0;
+    } else {
+      ret[slice_index] = NULL;
+      failed_count++;
+      if (failed_count > MAX_RETRIES) {
+        printf("we've tried and gave up\n");
+
+        if (cl_set->cache_lines[slice_index + 1] == NULL) {
+          for (int i = slice_index + 2; i < cl_set->size; i++) {
+            if (cl_set->cache_lines[i] != NULL) {
+              cl_set->cache_lines[slice_index + 1] = cl_set->cache_lines[i];
+              cl_set->cache_lines[i] = NULL;
+              break;
+            }
+          }
+        }
+        slice_index++;
+        failed_count = 0;
+      }
+    }
+
+    // TODO: Potential memory leaks at CacheLineSet
+  }
+  return ret;
 }
 
 void free_es_list(EvictionSet **es_list) {

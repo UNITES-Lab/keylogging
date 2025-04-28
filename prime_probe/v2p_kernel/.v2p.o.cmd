@@ -1,8 +1,8 @@
-savedcmd_/home/james/research/eviction-sets/v2p_kernel/v2p.o := x86_64-linux-gnu-gcc-13 -Wp,-MMD,/home/james/research/eviction-sets/v2p_kernel/.v2p.o.d -nostdinc -I./arch/x86/include -I./arch/x86/include/generated  -I./include -I./arch/x86/include/uapi -I./arch/x86/include/generated/uapi -I./include/uapi -I./include/generated/uapi -include ./include/linux/compiler-version.h -include ./include/linux/kconfig.h -I./ubuntu/include -include ./include/linux/compiler_types.h -D__KERNEL__ -fmacro-prefix-map=./= -std=gnu11 -fshort-wchar -funsigned-char -fno-common -fno-PIE -fno-strict-aliasing -mno-sse -mno-mmx -mno-sse2 -mno-3dnow -mno-avx -fcf-protection=none -m64 -falign-jumps=1 -falign-loops=1 -mno-80387 -mno-fp-ret-in-387 -mpreferred-stack-boundary=3 -mskip-rax-setup -mtune=generic -mno-red-zone -mcmodel=kernel -Wno-sign-compare -fno-asynchronous-unwind-tables -mindirect-branch=thunk-extern -mindirect-branch-register -mindirect-branch-cs-prefix -mfunction-return=thunk-extern -fno-jump-tables -mharden-sls=all -fpatchable-function-entry=16,16 -fno-delete-null-pointer-checks -O2 -fno-allow-store-data-races -fstack-protector-strong -fno-omit-frame-pointer -fno-optimize-sibling-calls -ftrivial-auto-var-init=zero -fno-stack-clash-protection -fzero-call-used-regs=used-gpr -pg -mrecord-mcount -mfentry -DCC_USING_FENTRY -falign-functions=16 -fstrict-flex-arrays=3 -fno-strict-overflow -fno-stack-check -fconserve-stack -Wall -Wundef -Werror=implicit-function-declaration -Werror=implicit-int -Werror=return-type -Werror=strict-prototypes -Wno-format-security -Wno-trigraphs -Wno-frame-address -Wno-address-of-packed-member -Wmissing-declarations -Wmissing-prototypes -Wframe-larger-than=1024 -Wno-main -Wno-unused-but-set-variable -Wno-unused-const-variable -Wno-dangling-pointer -Wvla -Wno-pointer-sign -Wcast-function-type -Wno-stringop-overflow -Wno-array-bounds -Wno-alloc-size-larger-than -Wimplicit-fallthrough=5 -Werror=date-time -Werror=incompatible-pointer-types -Werror=designated-init -Wenum-conversion -Wno-unused-but-set-variable -Wno-unused-const-variable -Wno-restrict -Wno-packed-not-aligned -Wno-format-overflow -Wno-format-truncation -Wno-stringop-truncation -Wno-override-init -Wno-missing-field-initializers -Wno-type-limits -Wno-shift-negative-value -Wno-maybe-uninitialized -Wno-sign-compare -g -gdwarf-5  -fsanitize=bounds-strict -fsanitize=shift -fsanitize=bool -fsanitize=enum  -DMODULE  -DKBUILD_BASENAME='"v2p"' -DKBUILD_MODNAME='"v2p"' -D__KBUILD_MODNAME=kmod_v2p -c -o /home/james/research/eviction-sets/v2p_kernel/v2p.o /home/james/research/eviction-sets/v2p_kernel/v2p.c   ; ./tools/objtool/objtool --hacks=jump_label --hacks=noinstr --hacks=skylake --retpoline --rethunk --sls --stackval --static-call --uaccess --prefix=16   --module /home/james/research/eviction-sets/v2p_kernel/v2p.o
+savedcmd_/home/james/research/keylogging/prime_probe/v2p_kernel/v2p.o := x86_64-linux-gnu-gcc-12 -Wp,-MMD,/home/james/research/keylogging/prime_probe/v2p_kernel/.v2p.o.d -nostdinc -I./arch/x86/include -I./arch/x86/include/generated  -I./include -I./arch/x86/include/uapi -I./arch/x86/include/generated/uapi -I./include/uapi -I./include/generated/uapi -include ./include/linux/compiler-version.h -include ./include/linux/kconfig.h -I./ubuntu/include -include ./include/linux/compiler_types.h -D__KERNEL__ -fmacro-prefix-map=./= -std=gnu11 -fshort-wchar -funsigned-char -fno-common -fno-PIE -fno-strict-aliasing -mno-sse -mno-mmx -mno-sse2 -mno-3dnow -mno-avx -fcf-protection=none -m64 -falign-jumps=1 -falign-loops=1 -mno-80387 -mno-fp-ret-in-387 -mpreferred-stack-boundary=3 -mskip-rax-setup -mtune=generic -mno-red-zone -mcmodel=kernel -Wno-sign-compare -fno-asynchronous-unwind-tables -mindirect-branch=thunk-extern -mindirect-branch-register -mindirect-branch-cs-prefix -mfunction-return=thunk-extern -fno-jump-tables -mharden-sls=all -fpatchable-function-entry=16,16 -fno-delete-null-pointer-checks -O2 -fno-allow-store-data-races -fstack-protector-strong -fno-omit-frame-pointer -fno-optimize-sibling-calls -ftrivial-auto-var-init=zero -fno-stack-clash-protection -fzero-call-used-regs=used-gpr -pg -mrecord-mcount -mfentry -DCC_USING_FENTRY -falign-functions=16 -fno-strict-overflow -fno-stack-check -fconserve-stack -Wall -Wundef -Werror=implicit-function-declaration -Werror=implicit-int -Werror=return-type -Werror=strict-prototypes -Wno-format-security -Wno-trigraphs -Wno-frame-address -Wno-address-of-packed-member -Wmissing-declarations -Wmissing-prototypes -Wframe-larger-than=1024 -Wno-main -Wno-unused-but-set-variable -Wno-unused-const-variable -Wno-dangling-pointer -Wvla -Wno-pointer-sign -Wcast-function-type -Wno-stringop-overflow -Wno-array-bounds -Wno-alloc-size-larger-than -Wimplicit-fallthrough=5 -Werror=date-time -Werror=incompatible-pointer-types -Werror=designated-init -Wenum-conversion -Wno-unused-but-set-variable -Wno-unused-const-variable -Wno-restrict -Wno-packed-not-aligned -Wno-format-overflow -Wno-format-truncation -Wno-stringop-truncation -Wno-override-init -Wno-missing-field-initializers -Wno-type-limits -Wno-shift-negative-value -Wno-maybe-uninitialized -Wno-sign-compare -g -gdwarf-5  -fsanitize=bounds-strict -fsanitize=shift -fsanitize=bool -fsanitize=enum  -DMODULE  -DKBUILD_BASENAME='"v2p"' -DKBUILD_MODNAME='"v2p"' -D__KBUILD_MODNAME=kmod_v2p -c -o /home/james/research/keylogging/prime_probe/v2p_kernel/v2p.o /home/james/research/keylogging/prime_probe/v2p_kernel/v2p.c   ; ./tools/objtool/objtool --hacks=jump_label --hacks=noinstr --hacks=skylake --retpoline --rethunk --sls --stackval --static-call --uaccess --prefix=16   --module /home/james/research/keylogging/prime_probe/v2p_kernel/v2p.o
 
-source_/home/james/research/eviction-sets/v2p_kernel/v2p.o := /home/james/research/eviction-sets/v2p_kernel/v2p.c
+source_/home/james/research/keylogging/prime_probe/v2p_kernel/v2p.o := /home/james/research/keylogging/prime_probe/v2p_kernel/v2p.c
 
-deps_/home/james/research/eviction-sets/v2p_kernel/v2p.o := \
+deps_/home/james/research/keylogging/prime_probe/v2p_kernel/v2p.o := \
   include/linux/compiler-version.h \
     $(wildcard include/config/CC_VERSION_TEXT) \
   include/linux/kconfig.h \
@@ -125,12 +125,9 @@ deps_/home/james/research/eviction-sets/v2p_kernel/v2p.o := \
     $(wildcard include/config/DEBUG_PREEMPT) \
     $(wildcard include/config/TRACE_PREEMPT_TOGGLE) \
     $(wildcard include/config/PREEMPT_NOTIFIERS) \
-    $(wildcard include/config/PREEMPT_DYNAMIC) \
-    $(wildcard include/config/PREEMPT_NONE) \
-    $(wildcard include/config/PREEMPT_VOLUNTARY) \
-    $(wildcard include/config/PREEMPT) \
   include/linux/cleanup.h \
   arch/x86/include/asm/preempt.h \
+    $(wildcard include/config/PREEMPT_DYNAMIC) \
   arch/x86/include/asm/rmwcc.h \
   include/linux/args.h \
   arch/x86/include/asm/percpu.h \
@@ -451,6 +448,7 @@ deps_/home/james/research/eviction-sets/v2p_kernel/v2p.o := \
   arch/x86/include/asm/qrwlock.h \
   include/asm-generic/qrwlock.h \
   include/linux/rwlock.h \
+    $(wildcard include/config/PREEMPT) \
   include/linux/spinlock_api_smp.h \
     $(wildcard include/config/INLINE_SPIN_LOCK) \
     $(wildcard include/config/INLINE_SPIN_LOCK_BH) \
@@ -702,7 +700,6 @@ deps_/home/james/research/eviction-sets/v2p_kernel/v2p.o := \
   arch/x86/include/asm/x86_init.h \
   arch/x86/include/uapi/asm/bootparam.h \
   include/linux/screen_info.h \
-    $(wildcard include/config/PCI) \
   include/uapi/linux/screen_info.h \
   include/linux/apm_bios.h \
   include/uapi/linux/apm_bios.h \
@@ -775,6 +772,8 @@ deps_/home/james/research/eviction-sets/v2p_kernel/v2p.o := \
     $(wildcard include/config/ARCH_HAS_PARANOID_L1D_FLUSH) \
     $(wildcard include/config/RV) \
     $(wildcard include/config/USER_EVENTS) \
+    $(wildcard include/config/PREEMPT_NONE) \
+    $(wildcard include/config/PREEMPT_VOLUNTARY) \
   include/uapi/linux/sched.h \
   include/linux/pid_types.h \
   include/linux/sem_types.h \
@@ -1109,8 +1108,8 @@ deps_/home/james/research/eviction-sets/v2p_kernel/v2p.o := \
     $(wildcard include/config/MODULES_USE_ELF_REL) \
     $(wildcard include/config/MODULES_USE_ELF_RELA) \
 
-/home/james/research/eviction-sets/v2p_kernel/v2p.o: $(deps_/home/james/research/eviction-sets/v2p_kernel/v2p.o)
+/home/james/research/keylogging/prime_probe/v2p_kernel/v2p.o: $(deps_/home/james/research/keylogging/prime_probe/v2p_kernel/v2p.o)
 
-$(deps_/home/james/research/eviction-sets/v2p_kernel/v2p.o):
+$(deps_/home/james/research/keylogging/prime_probe/v2p_kernel/v2p.o):
 
-/home/james/research/eviction-sets/v2p_kernel/v2p.o: $(wildcard ./tools/objtool/objtool)
+/home/james/research/keylogging/prime_probe/v2p_kernel/v2p.o: $(wildcard ./tools/objtool/objtool)

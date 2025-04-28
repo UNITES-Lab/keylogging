@@ -33,23 +33,17 @@ MODULE_INFO(retpoline, "Y");
 
 
 
-static const char ____versions[]
-__used __section("__versions") =
-	"\x14\x00\x00\x00\xbb\x6d\xfb\xbd"
-	"__fentry__\0\0"
-	"\x1c\x00\x00\x00\x5e\xd7\xd8\x7c"
-	"page_offset_base\0\0\0\0"
-	"\x18\x00\x00\x00\x6c\x1e\x65\x97"
-	"vmemmap_base\0\0\0\0"
-	"\x10\x00\x00\x00\x7e\x3a\x2c\x12"
-	"_printk\0"
-	"\x1c\x00\x00\x00\xca\x39\x82\x5b"
-	"__x86_return_thunk\0\0"
-	"\x18\x00\x00\x00\xd7\xd3\x75\x6d"
-	"module_layout\0\0\0"
-	"\x00\x00\x00\x00\x00\x00\x00\x00";
+static const struct modversion_info ____versions[]
+__used __section("__versions") = {
+	{ 0xbdfb6dbb, "__fentry__" },
+	{ 0x7cd8d75e, "page_offset_base" },
+	{ 0x97651e6c, "vmemmap_base" },
+	{ 0x122c3a7e, "_printk" },
+	{ 0x5b8239ca, "__x86_return_thunk" },
+	{ 0xf079b8f9, "module_layout" },
+};
 
 MODULE_INFO(depends, "");
 
 
-MODULE_INFO(srcversion, "AFA931BF5CDD711AEC7002D");
+MODULE_INFO(srcversion, "BBBC18428731796D9A65C5A");
