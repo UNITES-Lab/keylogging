@@ -148,7 +148,7 @@ CacheLineSet *hugepage_inflate(void *mmap_start, int size, int set) {
   for (int i = 0; i < size; i++) {
     CacheLine *line =
         (CacheLine *)(mmap_start + (set << LINE_OFFSET_BITS) +
-                      (ARCHES_SETS_PER_SLICE << LINE_OFFSET_BITS) * i);
+                      (EVERGLADES_SETS_PER_SLICE << LINE_OFFSET_BITS) * i);
     push_cache_line(cl_set, line);
   }
   return cl_set;
@@ -224,19 +224,19 @@ EvictionSet **get_all_slices_eviction_sets(void *mmap_start, int set) {
 
 EvictionSet **get_evsets_all_slices_hugepages(void *mmap_start, int cset_size,
                                               int set, int threshold) {
-  EvictionSet **ret = malloc(ARCHES_NUM_SLICES * sizeof(EvictionSet *));
+  EvictionSet **ret = malloc(EVERGLADES_NUM_SLICES * sizeof(EvictionSet *));
 
   uintptr_t candidate_start_addr =
-      (uintptr_t)mmap_start +
-      (ARCHES_SETS_PER_SLICE << LINE_OFFSET_BITS) * (ARCHES_NUM_SLICES << 2);
+      (uintptr_t)mmap_start + (EVERGLADES_SETS_PER_SLICE << LINE_OFFSET_BITS) *
+                                  (EVERGLADES_NUM_SLICES << 2);
 
   CacheLineSet *cl_set =
-      hugepage_inflate(mmap_start, ARCHES_NUM_SLICES << 2, set);
+      hugepage_inflate(mmap_start, EVERGLADES_NUM_SLICES << 2, set);
 
   int slice_index = 0;
   int MAX_RETRIES = 10;
   int failed_count = 0;
-  while (slice_index < ARCHES_NUM_SLICES) {
+  while (slice_index < EVERGLADES_NUM_SLICES) {
 
     CacheLineSet *candidate_set =
         hugepage_inflate((void *)candidate_start_addr, cset_size, set);
@@ -246,7 +246,7 @@ EvictionSet **get_evsets_all_slices_hugepages(void *mmap_start, int cset_size,
     if (reduce2(candidate_set, reserve,
                 (uint8_t *)cl_set->cache_lines[slice_index], SAMPLES, threshold,
                 BINS) &&
-        candidate_set->size == ARCHES_ASSOCIATIVITY) {
+        candidate_set->size == EVERGLADES_ASSOCIATIVITY) {
       ret[slice_index] = new_eviction_set(candidate_set);
       print_eviction_set(ret[slice_index]->cache_lines);
 

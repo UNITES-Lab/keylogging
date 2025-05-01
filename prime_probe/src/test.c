@@ -239,13 +239,14 @@ int main() {
   signal(SIGINT, handle_sigint);
   init_mapping();
   int threshold = threshold_from_flush(mapping_start);
-  EvictionSet **all_evsets[ARCHES_SETS_PER_SLICE];
+  EvictionSet **all_evsets[EVERGLADES_SETS_PER_SLICE];
 
   uint64_t find_evset_start_time = __rdtscp(&core_id);
   int TEST_NUM_SETS = 10;
-  for (int i = 0; i < ARCHES_SETS_PER_SLICE; i++) {
-    all_evsets[i] =
-        get_evsets_all_slices_hugepages(mapping_start, 96, i, threshold);
+  for (int i = 0; i < EVERGLADES_SETS_PER_SLICE; i++) {
+    all_evsets[i] = get_evsets_all_slices_hugepages(
+        mapping_start, 2 * EVERGLADES_NUM_SLICES * EVERGLADES_ASSOCIATIVITY, i,
+        threshold);
   }
   _mm_lfence();
   _mm_mfence();
@@ -261,17 +262,17 @@ int main() {
     printf("\n");
 
     uint64_t profiling_start = __rdtscp(&core_id);
-    double template[ARCHES_SETS_PER_SLICE * ARCHES_NUM_SLICES];
+    double template[EVERGLADES_SETS_PER_SLICE * EVERGLADES_NUM_SLICES];
     int invalid_count = 0;
-    for (int i = 0; i < ARCHES_SETS_PER_SLICE; i++) {
+    for (int i = 0; i < EVERGLADES_SETS_PER_SLICE; i++) {
       CacheLineSet *victims = hugepage_inflate(mapping_start, 16, i);
-      for (int j = 0; j < ARCHES_NUM_SLICES; j++) {
+      for (int j = 0; j < EVERGLADES_NUM_SLICES; j++) {
         double rates[NUM_TRIALS];
 
         // check if it is successfully found a set
         if (all_evsets[i][j] == NULL) {
           printf("set: %d, slice: %d --- no sets found\n", i, j);
-          template[i * ARCHES_NUM_SLICES + j] = -1;
+          template[i * EVERGLADES_NUM_SLICES + j] = -1;
           invalid_count++;
           continue;
         }
@@ -286,10 +287,10 @@ int main() {
           iter = iter->next;
         }
 
-        if (length != ARCHES_ASSOCIATIVITY) {
+        if (length < EVERGLADES_ASSOCIATIVITY - 1) {
           printf("set: %d, slice: %d, length: %d --- invalid length\n", i, j,
                  length);
-          template[i * ARCHES_NUM_SLICES + j] = -2;
+          template[i * EVERGLADES_NUM_SLICES + j] = -2;
           invalid_count++;
           continue;
         }
@@ -308,7 +309,7 @@ int main() {
         if (!can_evict) {
           printf("set: %d, slice: %d, length: %d --- cannot evict\n", i, j,
                  length);
-          template[i * ARCHES_NUM_SLICES + j] = -3;
+          template[i * EVERGLADES_NUM_SLICES + j] = -3;
           invalid_count++;
           continue;
         }
@@ -328,10 +329,10 @@ int main() {
           sum += rates[t];
         }
 
-        template[i * ARCHES_NUM_SLICES + j] = sum / NUM_TRIALS;
+        template[i * EVERGLADES_NUM_SLICES + j] = sum / NUM_TRIALS;
 
         printf("set: %d, slice: %d, length: %d --- rate: %.15lf\n", i, j,
-               length, template[i * ARCHES_NUM_SLICES + j]);
+               length, template[i * EVERGLADES_NUM_SLICES + j]);
       }
     }
 
@@ -341,8 +342,8 @@ int main() {
     print_duration(profiling_end - profiling_start);
 
     FILE *outFile = fopen(filename, "wb");
-    fwrite(template, sizeof(double), ARCHES_SETS_PER_SLICE * ARCHES_NUM_SLICES,
-           outFile);
+    fwrite(template, sizeof(double),
+           EVERGLADES_SETS_PER_SLICE * EVERGLADES_NUM_SLICES, outFile);
     fclose(outFile);
   }
   // TODO: address potential memory leak issues

@@ -247,4 +247,4 @@ if __name__ == "__main__":
     device = uinput.Device(KEY_MAP.values())
     while True:
         device.emit_click(KEY_MAP["a"])
-        time.sleep(0.001)
+        time.sleep(0.005)
