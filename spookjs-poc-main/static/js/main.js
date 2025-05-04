@@ -82,6 +82,17 @@ function crossCorrelation(list1, list2) {
     return correlation;
 }
 
+function getMaxIndex(hits){
+    let max = 0;
+    for(let i = hits.length-1; i >= 0; i--){
+        if(hits[i] > max){
+            max = hits[i];
+            index = i;
+        }
+    }
+    return index;
+}
+
 async function startWorker() {
     const BM = 128*1024*1024; // Eviction buffer
     const WP = 64*1024; // A WebAssembly page has a constant size of 64KB
@@ -250,7 +261,7 @@ async function startWorker() {
                 
                 /* graph alignment & visibility processing for ground truth */
                 for(let stroke of keystrokes){
-                    let index = Math.floor((stroke - start_time) / scaling_factor);
+                    let index = Math.floor((stroke - start_time) / scaling_factor) -500;
                     for(let i = 0; i < 10; i++){
                         keystroke_graph[index+i] = 300;
                     }
@@ -258,30 +269,74 @@ async function startWorker() {
 
                 /* visibility processing for actual keystroke */
                 let filtered_data = []
-                let prev_hit = -100;
-                let detected_strokes = []
+                let times = []
                 let intervals = []
-                for(let i = 0; i < keycode_data.length; i++){
-                    if(keycode_data[i] > 150 && event_data[i] > 150){
-                        if(i-prev_hit > 30){
-                            detected_strokes.push(i);
-                            filtered_data.push({"time": i, "count": keycode_data[i]})
-                            if(prev_hit > 0){
-                                intervals.push(i-prev_hit)
-                            }
-                        } 
-                        prev_hit = i;
 
-                        for(let j = 0; j < 10; j++){
-                            keycode_data[i+j] = keycode_data[i];
-                            event_data[i+j] = event_data[i];
-                        }
-                        i += 9;
+                let keycode_hits = []
+                let event_hits = []
+                for(let i = 0; i < keycode_data.length; i++){
+                    if(keycode_data[i] > 100 && event_data[i] > 100){
+                        keycode_hits.push(keycode_data[i]);
+                        event_hits.push(event_data[i]);
+                        times.push(i);
                     }
                 }
+                
+                let KEYCODE_THRESHOLD = harmonic_mean(keycode_hits);
+                let EVENT_THRESHOLD = harmonic_mean(event_hits);
 
-                log(intervals)
-                log(key_intervals)
+                log("keycode threshold: " + KEYCODE_THRESHOLD);
+                log("event threshold: " + EVENT_THRESHOLD);
+                
+                let prev_hit = 0;
+                for(let i = 0; i < keycode_hits.length; i++){
+                    if(keycode_hits[i] > KEYCODE_THRESHOLD && event_hits[i] > EVENT_THRESHOLD){
+                        if(times[i] - prev_hit > 500){
+                            if(prev_hit > 0){
+                                intervals.push(times[i]-prev_hit)
+                            }
+                            for(let j = 0; j < 20; j++){
+                                keycode_data[times[i]+j] = keycode_data[times[i]];
+                                event_data[times[i]+j] = event_data[times[i]];
+                            }
+
+                            prev_hit = times[i];
+                        }
+                    }
+                    
+                }
+                /* 
+                filtered_results = []
+                filtered_intervals = []
+                while(hits.length > 0){
+                    let index = getMaxIndex(hits);
+                    log("index: " + index + ", time: " + times[index] + ", hits: " + hits[index]);
+                    filtered_results.push({"time": times[index], "count": hits[index]});
+                    if(times[index] - times[index-1] < 400){
+                        hits.splice(index-1, 2);
+                        times.splice(index-1, 2);
+                    }
+                    else{
+                        hits.splice(index, 1);
+                        times.splice(index, 1);
+                    }
+                } 
+                log(filtered_results)
+                filtered_results.sort(function(a,b) {return (a["time"] > b.time) ? 1 : ((b.time > a.time) ? -1 : 0);} );
+                
+                for(let i = 1; i < filtered_results.length; i++){
+                   filtered_intervals.push(filtered_results[i]["time"]-filtered_results[i-1]["time"]); 
+                }
+                */
+
+                // log("filtered intervals");
+                // log(filtered_intervals);
+
+                log("unfiltered intervals");
+                log(intervals);
+                log("actual intervals");
+                log(key_intervals);
+                
                 /* append canvas to graph */
                 let keycode_canvas = document.createElement('canvas')
                 keycode_canvas.id = `keycode_graph`
@@ -447,13 +502,14 @@ async function startWorker() {
         }
     };
 }
-function mean(data){
+function harmonic_mean(data){
     let sum = 0;
     for(let value of data){
-        sum += value;
+        sum += 1/value;
     }
-    return sum / data.length;
+    return data.length / sum;
 }
+
 
 document.onkeypress = function(event){
     let time = Math.floor(performance.now())
