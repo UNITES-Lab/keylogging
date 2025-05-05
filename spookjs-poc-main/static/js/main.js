@@ -232,6 +232,7 @@ async function startWorker() {
             }
 
             case 'graphKeystrokes':{
+
                 /* load data */
                 keycode_data = Array.from(message.payload["keycode_data"])
                 event_data = Array.from(message.payload["event_data"])
@@ -239,39 +240,16 @@ async function startWorker() {
                 pp_duration = message.payload["pp_duration"]
                 js_duration = message.payload["js_duration"]
                 start_time = message.payload["start_time"]
+
+
                 const scaling_factor = js_duration / pp_duration;
+                log(`pp_duration: ${pp_duration}, js_duration ${js_duration}, scaling factor: ${js_duration / pp_duration}`)
 
-                /* compute ground truth keystroke intervals */
-                log(keystrokes)
-                let key_intervals = []
-                for(let i = 0; i < keystrokes.length-1; i++){
-                    key_intervals.push(Math.floor((keystrokes[i+1]-keystrokes[i])/scaling_factor));
-                }
                 
-                log(`pp_duration: ${pp_duration}, js_duration ${js_duration}`)
+                
+                
 
-                /* generate x axis */
-                const labels = Array.from(keycode_data.keys());
-                
-                /* prepare ground truth overlay graph data */
-                keystroke_graph = []
-                for(let i = 0; i < labels.length; i++){
-                    keystroke_graph.push(0); 
-                }
-                
-                /* graph alignment & visibility processing for ground truth */
-                for(let stroke of keystrokes){
-                    let index = Math.floor((stroke - start_time) / scaling_factor) -500;
-                    for(let i = 0; i < 10; i++){
-                        keystroke_graph[index+i] = 300;
-                    }
-                }
-
-                /* visibility processing for actual keystroke */
-                let filtered_data = []
                 let times = []
-                let intervals = []
-
                 let keycode_hits = []
                 let event_hits = []
                 for(let i = 0; i < keycode_data.length; i++){
@@ -288,23 +266,96 @@ async function startWorker() {
                 log("keycode threshold: " + KEYCODE_THRESHOLD);
                 log("event threshold: " + EVENT_THRESHOLD);
                 
-                let prev_hit = 0;
+                let prev_hit_500 = 0, prev_hit_400 = 0, prev_hit_300 = 0, prev_hit_200 = 0, prev_hit_100 = 0, prev_hit_60 = 0, prev_hit_30 = 0;
+                let intervals_500 = [], intervals_400 = [], intervals_300 = [], intervals_200 = [], intervals_100 = [], intervals_60 = [], intervals_30 = [], visible_times=[];
+                let times_500 = [], times_400 = [], times_300 = [], times_200 = [], times_100 = [], times_60 = [], times_30 = [] 
                 for(let i = 0; i < keycode_hits.length; i++){
-                    if(keycode_hits[i] > KEYCODE_THRESHOLD && event_hits[i] > EVENT_THRESHOLD){
-                        if(times[i] - prev_hit > 500){
-                            if(prev_hit > 0){
-                                intervals.push(times[i]-prev_hit)
+                    if(keycode_hits[i] > 100 && event_hits[i] > 100){
+                        if(times[i] - prev_hit_500 > 500){
+                            if(prev_hit_500 > 0){
+                                intervals_500.push(times[i]-prev_hit_500)
                             }
-                            for(let j = 0; j < 20; j++){
-                                keycode_data[times[i]+j] = keycode_data[times[i]];
-                                event_data[times[i]+j] = event_data[times[i]];
+                            visible_times.push(times[i]);
+                            times_500.push(times[i]);
+                            
+                            prev_hit_500 = times[i];
+                        }
+                        if(times[i] - prev_hit_400 > 400){
+                            if(prev_hit_400 > 0){
+                                intervals_400.push(times[i]-prev_hit_400)
                             }
-
-                            prev_hit = times[i];
+                            times_400.push(times[i]);
+                            prev_hit_400 = times[i];
+                        }
+                        if(times[i] - prev_hit_300 > 300){
+                            if(prev_hit_300 > 0){
+                                intervals_300.push(times[i]-prev_hit_300)
+                            }
+                            times_300.push(times[i]);
+                            prev_hit_300 = times[i];
+                        }
+                        if(times[i] - prev_hit_200 > 200){
+                            if(prev_hit_200 > 0){
+                                intervals_200.push(times[i]-prev_hit_200)
+                            }
+                            times_200.push(times[i]);
+                            prev_hit_200 = times[i];
+                        }
+                        if(times[i] - prev_hit_100 > 100){
+                            if(prev_hit_100 > 0){
+                                intervals_100.push(times[i]-prev_hit_100)
+                            }
+                            times_100.push(times[i]);
+                            prev_hit_100 = times[i];
+                        }
+                        if(times[i] - prev_hit_60 > 60){
+                            if(prev_hit_60 > 0){
+                                intervals_60.push(times[i]-prev_hit_60)
+                            }
+                            times_60.push(times[i]);
+                            prev_hit_60 = times[i];
+                        }
+                        if(times[i] - prev_hit_30 > 30){
+                            if(prev_hit_30 > 0){
+                                intervals_30.push(times[i]-prev_hit_30)
+                            }
+                            times_30.push(times[i]);
+                            prev_hit_30 = times[i];
                         }
                     }
-                    
                 }
+
+                /* ground truth processing */
+                keystroke_graph = []
+                for(let i = 0; i < keycode_data.length; i++){
+                    keystroke_graph.push(0); 
+                }
+                
+                ground_truth_times = []
+                let SHIFT = Math.floor((keystrokes[0] - start_time) / scaling_factor) - times_500[0];
+                log("shift: " + SHIFT)
+                for(let stroke of keystrokes){
+                    let index = Math.floor((stroke - start_time) / scaling_factor) - SHIFT;
+                    ground_truth_times.push(index);
+                    for(let i = 0; i < 10; i++){
+                        keystroke_graph[index+i] = 300;
+                    }
+                }
+                
+                let key_intervals = getInterval(ground_truth_times);
+                lenses = [500, 400, 300, 200, 100, 60, 30, 0]; // lense 0 is actual 
+                intervals = [intervals_500, intervals_400, intervals_300, intervals_200, intervals_100, intervals_60, intervals_30, key_intervals];
+                times = [times_500, times_400, times_300, times_200, times_100, times_60, times_30, ground_truth_times];
+
+                print_intervals_and_times(intervals, times, lenses); 
+
+                for(let i = 0; i < visible_times.length; i++){
+                    for(let j = 0; j < 20; j++){
+                        keycode_data[visible_times[i]+j] = keycode_data[visible_times[i]];
+                        event_data[visible_times[i]+j] = event_data[visible_times[i]];
+                    }
+                }
+                
                 /* 
                 filtered_results = []
                 filtered_intervals = []
@@ -331,165 +382,12 @@ async function startWorker() {
 
                 // log("filtered intervals");
                 // log(filtered_intervals);
-
-                log("unfiltered intervals");
-                log(intervals);
-                log("actual intervals");
-                log(key_intervals);
                 
                 /* append canvas to graph */
-                let keycode_canvas = document.createElement('canvas')
-                keycode_canvas.id = `keycode_graph`
-                keycode_canvas.width = window.innerWidth 
-                document.querySelector(".graph").appendChild(keycode_canvas)
-                new Chart(`keycode_graph`, {
-                    type: 'bar',
-                    data: {
-                        labels: labels, // X-axis (milliseconds)
-                        datasets: [
-                            {
-                                label: 'KEYCODE Counts per Millisecond',
-                                data: keycode_data, // Y-axis ()
-                                backgroundColor: 'red', // Bar color
-                                borderWidth: 1
-                            }, 
-                            {
-                                label: 'Actual Keystroke', 
-                                data: keystroke_graph,
-                                backgroundColor: 'blue',
-                                borderWidth: 1
-                            },
-                        ]
-                    },
-                    options: {
-                        responsive: true,
-                        scales: {
-                            x: { 
-                                title: { display: true, text: "Time (ms)" },
-                                ticks: { 
-                                    autoSkip: true, 
-                                    maxTicksLimit: 5 
-                                },
-                                grid: {
-                                    display: false
-                                }
-                            },
-                            y: { 
-                                title: { display: true, text: "Cache Hit Count" },
-                                beginAtZero: true,
-                                border:{
-                                    display: false
-                                }
-                            }
-                        }, 
-                        title:{
-                            display: true, 
-                            text: "Keystroke Recovery with Browser Prime+Probe Slice" 
-                        }
-                    }
-                });
-                                
-                let event_canvas = document.createElement('canvas')
-                event_canvas.id = `event_graph`
-                event_canvas.width = window.innerWidth 
-                document.querySelector(".graph").appendChild(event_canvas)
-                new Chart(`event_graph`, {
-                    type: 'bar',
-                    data: {
-                        labels: labels, // X-axis (milliseconds)
-                        datasets: [
-                            {
-                                label: 'Actual Keystroke', 
-                                data: keystroke_graph,
-                                backgroundColor: 'blue',
-                                borderWidth: 1
-                            },
-                            {
-                                label: 'EVENT Counts per Millisecond',
-                                data: event_data, // Y-axis ()
-                                backgroundColor: 'green', // Bar color
-                                borderWidth: 1
-                            }
-                        ]
-                    },
-                    options: {
-                        responsive: true,
-                        scales: {
-                            x: { 
-                                title: { display: true, text: "Time (ms)" },
-                                ticks: { 
-                                    autoSkip: true, 
-                                    maxTicksLimit: 5 
-                                },
-                                grid: {
-                                    display: false
-                                }
-                            },
-                            y: { 
-                                title: { display: true, text: "Cache Hit Count" },
-                                beginAtZero: true,
-                                border:{
-                                    display: false
-                                }
-                            }
-                        }, 
-                        title:{
-                            display: true, 
-                            text: "Keystroke Recovery with Browser Prime+Probe Slice" 
-                        }
-                    }
-                });
                 
-                let random_canvas = document.createElement('canvas')
-                random_canvas.id = `random_graph`
-                random_canvas.width = window.innerWidth 
-                document.querySelector(".graph").appendChild(random_canvas)
-                new Chart(`random_graph`, {
-                    type: 'bar',
-                    data: {
-                        labels: labels, // X-axis (milliseconds)
-                        datasets: [
-                            {
-                                label: 'Actual Keystroke', 
-                                data: keystroke_graph,
-                                backgroundColor: 'blue',
-                                borderWidth: 1
-                            },
-                            {
-                                label: 'RANDOM Counts per Millisecond',
-                                data: random_data, // Y-axis ()
-                                backgroundColor: 'brown', // Bar color
-                                borderWidth: 1
-                            }
-                        ]
-                    },
-                    options: {
-                        responsive: true,
-                        scales: {
-                            x: { 
-                                title: { display: true, text: "Time (ms)" },
-                                ticks: { 
-                                    autoSkip: true, 
-                                    maxTicksLimit: 5 
-                                },
-                                grid: {
-                                    display: false
-                                }
-                            },
-                            y: { 
-                                title: { display: true, text: "Cache Hit Count" },
-                                beginAtZero: true,
-                                border:{
-                                    display: false
-                                }
-                            }
-                        }, 
-                        title:{
-                            display: true, 
-                            text: "Keystroke Recovery with Browser Prime+Probe Slice" 
-                        }
-                    }
-                });
+                createGraph("keycode", keycode_data, keystroke_graph, ["red", "blue"])
+                createGraph("event", event_data, keystroke_graph, ["green", "blue"])                                
+                createGraph("random", random_data, keystroke_graph, ["brown", "blue"])                
 
                 respond(message, null);
                 break;
@@ -502,6 +400,7 @@ async function startWorker() {
         }
     };
 }
+
 function harmonic_mean(data){
     let sum = 0;
     for(let value of data){
@@ -510,6 +409,104 @@ function harmonic_mean(data){
     return data.length / sum;
 }
 
+function getInterval(times){
+    let interval = []
+    for(let i = 1; i < times.length; i++){
+        interval.push(times[i] - times[i-1]);
+    }
+    return interval; 
+}
+
+function print_intervals_and_times(intervals, times, lenses){
+    for(let i = 0; i < lenses.length; i++){
+        log(`lense ${lenses[i]} time and interval`)
+        log(times[i])
+        log(intervals[i])
+    }
+}
+
+function createGraph(times1, times2){
+    let graph = [] 
+    for(let i = 0; i < times2.length; i++){
+        let row = [];
+        for(let j = 0; j < times1.length; j++){
+            row.push(0);
+        }
+        graph.push(row);
+    }
+
+    let index1 = 0, index2 = 0;
+    let prev = 0;
+
+    /* setting the first node */
+    if(Math.abs(times1[index1] - times2[index2]) < 50){
+        prev = (times1[index1] + times2[index2]) / 2;    
+        index1++;
+        index2++;
+    } else if(times1[index1] < times2[index2]){
+        prev = times1[index1];
+        index1++;
+    } else {
+        prev = times2[index2];
+        index2++;
+    }
+    return graph;
+}
+
+function createGraph(id, observed_data, ground_truth, colors){
+    let canvas = document.createElement('canvas')
+    canvas.id = id;
+    canvas.width = window.innerWidth 
+    document.querySelector(".graph").appendChild(canvas)
+    const labels = Array.from(observed_data.keys())
+    new Chart(id, {
+        type: 'bar',
+        data: {
+            labels: labels, // X-axis (milliseconds)
+            datasets: [
+                {
+                    label: id + 'Counts per Millisecond',
+                    data: observed_data, // Y-axis ()
+                    backgroundColor: colors[0], // Bar color
+                    borderWidth: 1
+                }, 
+                {
+                    label: 'Actual Keystroke', 
+                    data: ground_truth,
+                    backgroundColor: colors[1],
+                    borderWidth: 1
+                },
+            ]
+        },
+        options: {
+            responsive: true,
+            scales: {
+                x: { 
+                    title: { display: true, text: "Time (ms)" },
+                    ticks: { 
+                        autoSkip: true, 
+                        maxTicksLimit: 5 
+                    },
+                    grid: {
+                        display: false
+                    }
+                },
+                y: { 
+                    title: { display: true, text: "Cache Hit Count" },
+                    beginAtZero: true,
+                    border:{
+                        display: false
+                    }
+                }
+            }, 
+            title:{
+                display: true, 
+                text: "Keystroke Recovery with Browser Prime+Probe Slice" 
+            }
+        }
+    });
+
+}
 
 document.onkeypress = function(event){
     let time = Math.floor(performance.now())
