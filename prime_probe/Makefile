@@ -14,19 +14,22 @@ EVICTION_SRC=$(SRC_DIR)/eviction.c
 TEST_SRC=$(SRC_DIR)/test.c
 VICTIM_SRC=$(SRC_DIR)/victim.c
 L3PP_SRC=$(SRC_DIR)/l3pp.c
+PROFILE_SRC=$(SRC_DIR)/profile.c
 
 UTILS_OBJ=$(BIN_DIR)/utils.o
 EVICTION_OBJ=$(BIN_DIR)/eviction.o
 TEST_OBJ=$(BIN_DIR)/test.o
 VICTIM_OBJ=$(BIN_DIR)/victim.o
 L3PP_OBJ=$(BIN_DIR)/l3pp.o
+PROFILE_OBJ=$(BIN_DIR)/profile.o
 
 # Targets
 TEST_OUT=$(BIN_DIR)/test.out
 VICTIM_OUT=$(BIN_DIR)/victim.out
+PROFILE_OUT=$(BIN_DIR)/profile.out
 
 # Default target
-all: $(TEST_OUT) $(VICTIM_OUT)
+all: $(TEST_OUT) $(VICTIM_OUT) $(PROFILE_OUT)
 
 # Rules for object files
 $(UTILS_OBJ): $(UTILS_SRC)
@@ -44,6 +47,8 @@ $(VICTIM_OBJ): $(VICTIM_SRC)
 $(L3PP_OBJ): $(L3PP_SRC)
 	$(CC) $(CFLAGS) -c $< -o $@
 
+$(PROFILE_OBJ): $(PROFILE_SRC)
+	$(CC) $(CFLAGS) -c $< -o $@
 
 # Rules for executables
 $(TEST_OUT): $(TEST_OBJ) $(EVICTION_OBJ) $(UTILS_OBJ) $(L3PP_OBJ)
@@ -51,6 +56,10 @@ $(TEST_OUT): $(TEST_OBJ) $(EVICTION_OBJ) $(UTILS_OBJ) $(L3PP_OBJ)
 
 $(VICTIM_OUT): $(VICTIM_OBJ) $(EVICTION_OBJ) $(UTILS_OBJ) $(L3PP_OBJ)
 	$(CXX) $(CXXFLAGS) $^ -o $@
+
+$(PROFILE_OUT): $(PROFILE_OBJ) $(EVICTION_OBJ) $(UTILS_OBJ) $(L3PP_OBJ)
+	$(CXX) $(CXXFLAGS) $^ -o $@
+
 
 # Clean rule
 clean:
