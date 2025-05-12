@@ -1,0 +1,1006 @@
+{
+    "libwayland-client": [
+        {
+            "addr": "0x540",
+            "hits": 16,
+            "gedit_hits": 51,
+            "gedit_addr": "0x540"
+        },
+        {
+            "addr": "0x480",
+            "hits": 15,
+            "gedit_hits": 37,
+            "gedit_addr": "0x480"
+        },
+        {
+            "addr": "0x580",
+            "hits": 14,
+            "gedit_hits": 51,
+            "gedit_addr": "0x540"
+        },
+        {
+            "addr": "0x14c0",
+            "hits": 13,
+            "gedit_hits": 8,
+            "gedit_addr": "0x14c0"
+        },
+        {
+            "addr": "0x1340",
+            "hits": 12,
+            "gedit_hits": 32,
+            "gedit_addr": "0x12c0"
+        },
+        {
+            "addr": "0x1dc0",
+            "hits": 12,
+            "gedit_hits": 16,
+            "gedit_addr": "0x1dc0"
+        },
+        {
+            "addr": "0x1ec0",
+            "hits": 12,
+            "gedit_hits": 25,
+            "gedit_addr": "0x1f00"
+        },
+        {
+            "addr": "0x1f00",
+            "hits": 11,
+            "gedit_hits": 25,
+            "gedit_addr": "0x1f00"
+        },
+        {
+            "addr": "0x4c0",
+            "hits": 10,
+            "gedit_hits": 51,
+            "gedit_addr": "0x540"
+        },
+        {
+            "addr": "0x600",
+            "hits": 10,
+            "gedit_hits": 43,
+            "gedit_addr": "0x580"
+        },
+        {
+            "addr": "0x2680",
+            "hits": 10,
+            "gedit_hits": 37,
+            "gedit_addr": "0x2680"
+        },
+        {
+            "addr": "0x380",
+            "hits": 9,
+            "gedit_hits": 39,
+            "gedit_addr": "0x340"
+        },
+        {
+            "addr": "0x1500",
+            "hits": 9,
+            "gedit_hits": 8,
+            "gedit_addr": "0x14c0"
+        },
+        {
+            "addr": "0x26c0",
+            "hits": 9,
+            "gedit_hits": 37,
+            "gedit_addr": "0x2680"
+        },
+        {
+            "addr": "0x340",
+            "hits": 8,
+            "gedit_hits": 39,
+            "gedit_addr": "0x340"
+        },
+        {
+            "addr": "0x500",
+            "hits": 8,
+            "gedit_hits": 51,
+            "gedit_addr": "0x540"
+        },
+        {
+            "addr": "0x13c0",
+            "hits": 8,
+            "gedit_hits": 29,
+            "gedit_addr": "0x1380"
+        },
+        {
+            "addr": "0x24c0",
+            "hits": 7,
+            "gedit_hits": 41,
+            "gedit_addr": "0x24c0"
+        },
+        {
+            "addr": "0x12c0",
+            "hits": 6,
+            "gedit_hits": 32,
+            "gedit_addr": "0x12c0"
+        },
+        {
+            "addr": "0x1300",
+            "hits": 6,
+            "gedit_hits": 32,
+            "gedit_addr": "0x12c0"
+        },
+        {
+            "addr": "0x1540",
+            "hits": 6,
+            "gedit_hits": 8,
+            "gedit_addr": "0x14c0"
+        },
+        {
+            "addr": "0x1f40",
+            "hits": 6,
+            "gedit_hits": 25,
+            "gedit_addr": "0x1f00"
+        },
+        {
+            "addr": "0x2640",
+            "hits": 6,
+            "gedit_hits": 37,
+            "gedit_addr": "0x2680"
+        },
+        {
+            "addr": "0x5c0",
+            "hits": 5,
+            "gedit_hits": 51,
+            "gedit_addr": "0x540"
+        },
+        {
+            "addr": "0x1380",
+            "hits": 5,
+            "gedit_hits": 31,
+            "gedit_addr": "0x1300"
+        },
+        {
+            "addr": "0x1f80",
+            "hits": 5,
+            "gedit_hits": 25,
+            "gedit_addr": "0x1f00"
+        },
+        {
+            "addr": "0x2500",
+            "hits": 5,
+            "gedit_hits": 41,
+            "gedit_addr": "0x24c0"
+        },
+        {
+            "addr": "0x2600",
+            "hits": 5,
+            "gedit_hits": 37,
+            "gedit_addr": "0x2680"
+        },
+        {
+            "addr": "0x1e00",
+            "hits": 4,
+            "gedit_hits": 16,
+            "gedit_addr": "0x1dc0"
+        },
+        {
+            "addr": "0x1e40",
+            "hits": 4,
+            "gedit_hits": 16,
+            "gedit_addr": "0x1dc0"
+        },
+        {
+            "addr": "0x2540",
+            "hits": 4,
+            "gedit_hits": 41,
+            "gedit_addr": "0x24c0"
+        },
+        {
+            "addr": "0x300",
+            "hits": 3,
+            "gedit_hits": 39,
+            "gedit_addr": "0x340"
+        },
+        {
+            "addr": "0x1580",
+            "hits": 3,
+            "gedit_hits": 6,
+            "gedit_addr": "0x1540"
+        },
+        {
+            "addr": "0x1e80",
+            "hits": 3,
+            "gedit_hits": 25,
+            "gedit_addr": "0x1f00"
+        },
+        {
+            "addr": "0x3c0",
+            "hits": 2,
+            "gedit_hits": 39,
+            "gedit_addr": "0x340"
+        },
+        {
+            "addr": "0x1fc0",
+            "hits": 2,
+            "gedit_hits": 18,
+            "gedit_addr": "0x1f80"
+        },
+        {
+            "addr": "0x32c0",
+            "hits": 2,
+            "gedit_hits": 13,
+            "gedit_addr": "0x3340"
+        },
+        {
+            "addr": "0xe80",
+            "hits": 1,
+            "gedit_hits": 17,
+            "gedit_addr": "0xe80"
+        },
+        {
+            "addr": "0x1400",
+            "hits": 1,
+            "gedit_hits": 29,
+            "gedit_addr": "0x1380"
+        },
+        {
+            "addr": "0x1440",
+            "hits": 1,
+            "gedit_hits": 9,
+            "gedit_addr": "0x13c0"
+        },
+        {
+            "addr": "0x19c0",
+            "hits": 1,
+            "gedit_hits": 6,
+            "gedit_addr": "0x19c0"
+        },
+        {
+            "addr": "0x1cc0",
+            "hits": 1,
+            "gedit_hits": 18,
+            "gedit_addr": "0x1cc0"
+        },
+        {
+            "addr": "0x2300",
+            "hits": 1,
+            "gedit_hits": 24,
+            "gedit_addr": "0x22c0"
+        },
+        {
+            "addr": "0x2340",
+            "hits": 1,
+            "gedit_hits": 24,
+            "gedit_addr": "0x22c0"
+        },
+        {
+            "addr": "0x2400",
+            "hits": 1,
+            "gedit_hits": 17,
+            "gedit_addr": "0x2380"
+        },
+        {
+            "addr": "0x2440",
+            "hits": 1,
+            "gedit_hits": 41,
+            "gedit_addr": "0x24c0"
+        },
+        {
+            "addr": "0x2580",
+            "hits": 1,
+            "gedit_hits": 29,
+            "gedit_addr": "0x2500"
+        },
+        {
+            "addr": "0x2cc0",
+            "hits": 1,
+            "gedit_hits": 10,
+            "gedit_addr": "0x2cc0"
+        },
+        {
+            "addr": "0x2d80",
+            "hits": 1,
+            "gedit_hits": 11,
+            "gedit_addr": "0x2e00"
+        },
+        {
+            "addr": "0x2dc0",
+            "hits": 1,
+            "gedit_hits": 12,
+            "gedit_addr": "0x2e40"
+        },
+        {
+            "addr": "0x2e80",
+            "hits": 1,
+            "gedit_hits": 14,
+            "gedit_addr": "0x2e80"
+        },
+        {
+            "addr": "0x2f00",
+            "hits": 1,
+            "gedit_hits": 14,
+            "gedit_addr": "0x2e80"
+        },
+        {
+            "addr": "0x2fc0",
+            "hits": 1,
+            "gedit_hits": 12,
+            "gedit_addr": "0x3040"
+        },
+        {
+            "addr": "0x3000",
+            "hits": 1,
+            "gedit_hits": 12,
+            "gedit_addr": "0x3040"
+        },
+        {
+            "addr": "0x3080",
+            "hits": 1,
+            "gedit_hits": 12,
+            "gedit_addr": "0x3040"
+        },
+        {
+            "addr": "0x3280",
+            "hits": 1,
+            "gedit_hits": 12,
+            "gedit_addr": "0x3300"
+        },
+        {
+            "addr": "0x33c0",
+            "hits": 1,
+            "gedit_hits": 13,
+            "gedit_addr": "0x3340"
+        },
+        {
+            "addr": "0x3400",
+            "hits": 1,
+            "gedit_hits": 12,
+            "gedit_addr": "0x33c0"
+        },
+        {
+            "addr": "0x3540",
+            "hits": 1,
+            "gedit_hits": 11,
+            "gedit_addr": "0x34c0"
+        },
+        {
+            "addr": "0x36c0",
+            "hits": 1,
+            "gedit_hits": 4,
+            "gedit_addr": "0x36c0"
+        },
+        {
+            "addr": "0x3f00",
+            "hits": 1,
+            "gedit_hits": 3,
+            "gedit_addr": "0x3f00"
+        },
+        {
+            "addr": "0x4600",
+            "hits": 1,
+            "gedit_hits": 8,
+            "gedit_addr": "0x4640"
+        },
+        {
+            "addr": "0x4800",
+            "hits": 1,
+            "gedit_hits": 2,
+            "gedit_addr": "0x4800"
+        },
+        {
+            "addr": "0x4a40",
+            "hits": 1,
+            "gedit_hits": 10,
+            "gedit_addr": "0x4ac0"
+        },
+        {
+            "addr": "0x4b80",
+            "hits": 1,
+            "gedit_hits": 9,
+            "gedit_addr": "0x4bc0"
+        },
+        {
+            "addr": "0x4c00",
+            "hits": 1,
+            "gedit_hits": 9,
+            "gedit_addr": "0x4bc0"
+        },
+        {
+            "addr": "0x5380",
+            "hits": 1,
+            "gedit_hits": 9,
+            "gedit_addr": "0x5340"
+        }
+    ],
+    "libxkbcommon": [
+        {
+            "addr": "0x1a080",
+            "hits": 6,
+            "gedit_hits": 55,
+            "gedit_addr": "0x1a040"
+        },
+        {
+            "addr": "0x1b440",
+            "hits": 6,
+            "gedit_hits": 57,
+            "gedit_addr": "0x1b440"
+        },
+        {
+            "addr": "0x400",
+            "hits": 4,
+            "gedit_hits": 72,
+            "gedit_addr": "0x380"
+        },
+        {
+            "addr": "0x17500",
+            "hits": 4,
+            "gedit_hits": 79,
+            "gedit_addr": "0x17540"
+        },
+        {
+            "addr": "0x19140",
+            "hits": 4,
+            "gedit_hits": 6,
+            "gedit_addr": "0x19100"
+        },
+        {
+            "addr": "0x19cc0",
+            "hits": 4,
+            "gedit_hits": 138,
+            "gedit_addr": "0x19c40"
+        },
+        {
+            "addr": "0x1bf80",
+            "hits": 4,
+            "gedit_hits": 87,
+            "gedit_addr": "0x1bf80"
+        },
+        {
+            "addr": "0x1c600",
+            "hits": 4,
+            "gedit_hits": 51,
+            "gedit_addr": "0x1c5c0"
+        },
+        {
+            "addr": "0x172c0",
+            "hits": 3,
+            "gedit_hits": 89,
+            "gedit_addr": "0x17340"
+        },
+        {
+            "addr": "0x17780",
+            "hits": 3,
+            "gedit_hits": 169,
+            "gedit_addr": "0x17700"
+        },
+        {
+            "addr": "0x17840",
+            "hits": 3,
+            "gedit_hits": 73,
+            "gedit_addr": "0x17800"
+        },
+        {
+            "addr": "0x19240",
+            "hits": 3,
+            "gedit_hits": 6,
+            "gedit_addr": "0x192c0"
+        },
+        {
+            "addr": "0x19b80",
+            "hits": 3,
+            "gedit_hits": 82,
+            "gedit_addr": "0x19b80"
+        },
+        {
+            "addr": "0x1a100",
+            "hits": 3,
+            "gedit_hits": 51,
+            "gedit_addr": "0x1a0c0"
+        },
+        {
+            "addr": "0x1c040",
+            "hits": 3,
+            "gedit_hits": 78,
+            "gedit_addr": "0x1bfc0"
+        },
+        {
+            "addr": "0x1c680",
+            "hits": 3,
+            "gedit_hits": 48,
+            "gedit_addr": "0x1c600"
+        },
+        {
+            "addr": "0x340",
+            "hits": 2,
+            "gedit_hits": 93,
+            "gedit_addr": "0x300"
+        },
+        {
+            "addr": "0x3c0",
+            "hits": 2,
+            "gedit_hits": 78,
+            "gedit_addr": "0x340"
+        },
+        {
+            "addr": "0x17340",
+            "hits": 2,
+            "gedit_hits": 95,
+            "gedit_addr": "0x17380"
+        },
+        {
+            "addr": "0x17800",
+            "hits": 2,
+            "gedit_hits": 73,
+            "gedit_addr": "0x17800"
+        },
+        {
+            "addr": "0x190c0",
+            "hits": 2,
+            "gedit_hits": 6,
+            "gedit_addr": "0x19100"
+        },
+        {
+            "addr": "0x19280",
+            "hits": 2,
+            "gedit_hits": 6,
+            "gedit_addr": "0x192c0"
+        },
+        {
+            "addr": "0x19bc0",
+            "hits": 2,
+            "gedit_hits": 138,
+            "gedit_addr": "0x19c40"
+        },
+        {
+            "addr": "0x1b3c0",
+            "hits": 2,
+            "gedit_hits": 57,
+            "gedit_addr": "0x1b440"
+        },
+        {
+            "addr": "0x1b500",
+            "hits": 2,
+            "gedit_hits": 64,
+            "gedit_addr": "0x1b540"
+        },
+        {
+            "addr": "0x1b5c0",
+            "hits": 2,
+            "gedit_hits": 64,
+            "gedit_addr": "0x1b540"
+        },
+        {
+            "addr": "0x1ba80",
+            "hits": 2,
+            "gedit_hits": 66,
+            "gedit_addr": "0x1ba00"
+        },
+        {
+            "addr": "0x1bb00",
+            "hits": 2,
+            "gedit_hits": 30,
+            "gedit_addr": "0x1ba80"
+        },
+        {
+            "addr": "0x1bb40",
+            "hits": 2,
+            "gedit_hits": 30,
+            "gedit_addr": "0x1bac0"
+        },
+        {
+            "addr": "0x1bc00",
+            "hits": 2,
+            "gedit_hits": 30,
+            "gedit_addr": "0x1bc00"
+        },
+        {
+            "addr": "0x1bfc0",
+            "hits": 2,
+            "gedit_hits": 87,
+            "gedit_addr": "0x1bf80"
+        },
+        {
+            "addr": "0x1c000",
+            "hits": 2,
+            "gedit_hits": 87,
+            "gedit_addr": "0x1bf80"
+        },
+        {
+            "addr": "0x440",
+            "hits": 1,
+            "gedit_hits": 66,
+            "gedit_addr": "0x440"
+        },
+        {
+            "addr": "0x16fc0",
+            "hits": 1,
+            "gedit_hits": 44,
+            "gedit_addr": "0x16fc0"
+        },
+        {
+            "addr": "0x17240",
+            "hits": 1,
+            "gedit_hits": 85,
+            "gedit_addr": "0x17240"
+        },
+        {
+            "addr": "0x17300",
+            "hits": 1,
+            "gedit_hits": 95,
+            "gedit_addr": "0x17380"
+        },
+        {
+            "addr": "0x17380",
+            "hits": 1,
+            "gedit_hits": 95,
+            "gedit_addr": "0x17380"
+        },
+        {
+            "addr": "0x173c0",
+            "hits": 1,
+            "gedit_hits": 95,
+            "gedit_addr": "0x17380"
+        },
+        {
+            "addr": "0x17400",
+            "hits": 1,
+            "gedit_hits": 95,
+            "gedit_addr": "0x17380"
+        },
+        {
+            "addr": "0x17440",
+            "hits": 1,
+            "gedit_hits": 82,
+            "gedit_addr": "0x173c0"
+        },
+        {
+            "addr": "0x17480",
+            "hits": 1,
+            "gedit_hits": 78,
+            "gedit_addr": "0x17400"
+        },
+        {
+            "addr": "0x17580",
+            "hits": 1,
+            "gedit_hits": 79,
+            "gedit_addr": "0x17540"
+        },
+        {
+            "addr": "0x175c0",
+            "hits": 1,
+            "gedit_hits": 79,
+            "gedit_addr": "0x17540"
+        },
+        {
+            "addr": "0x17680",
+            "hits": 1,
+            "gedit_hits": 169,
+            "gedit_addr": "0x17700"
+        },
+        {
+            "addr": "0x176c0",
+            "hits": 1,
+            "gedit_hits": 169,
+            "gedit_addr": "0x17700"
+        },
+        {
+            "addr": "0x17880",
+            "hits": 1,
+            "gedit_hits": 73,
+            "gedit_addr": "0x17800"
+        },
+        {
+            "addr": "0x178c0",
+            "hits": 1,
+            "gedit_hits": 38,
+            "gedit_addr": "0x17840"
+        },
+        {
+            "addr": "0x17980",
+            "hits": 1,
+            "gedit_hits": 3,
+            "gedit_addr": "0x17980"
+        },
+        {
+            "addr": "0x179c0",
+            "hits": 1,
+            "gedit_hits": 3,
+            "gedit_addr": "0x17980"
+        },
+        {
+            "addr": "0x19100",
+            "hits": 1,
+            "gedit_hits": 6,
+            "gedit_addr": "0x19100"
+        },
+        {
+            "addr": "0x19300",
+            "hits": 1,
+            "gedit_hits": 68,
+            "gedit_addr": "0x19380"
+        },
+        {
+            "addr": "0x19340",
+            "hits": 1,
+            "gedit_hits": 74,
+            "gedit_addr": "0x193c0"
+        },
+        {
+            "addr": "0x19380",
+            "hits": 1,
+            "gedit_hits": 74,
+            "gedit_addr": "0x193c0"
+        },
+        {
+            "addr": "0x19c00",
+            "hits": 1,
+            "gedit_hits": 138,
+            "gedit_addr": "0x19c40"
+        },
+        {
+            "addr": "0x19c80",
+            "hits": 1,
+            "gedit_hits": 138,
+            "gedit_addr": "0x19c40"
+        },
+        {
+            "addr": "0x1a040",
+            "hits": 1,
+            "gedit_hits": 55,
+            "gedit_addr": "0x1a040"
+        },
+        {
+            "addr": "0x1a0c0",
+            "hits": 1,
+            "gedit_hits": 55,
+            "gedit_addr": "0x1a040"
+        },
+        {
+            "addr": "0x1b400",
+            "hits": 1,
+            "gedit_hits": 57,
+            "gedit_addr": "0x1b440"
+        },
+        {
+            "addr": "0x1b480",
+            "hits": 1,
+            "gedit_hits": 57,
+            "gedit_addr": "0x1b440"
+        },
+        {
+            "addr": "0x1b4c0",
+            "hits": 1,
+            "gedit_hits": 64,
+            "gedit_addr": "0x1b540"
+        },
+        {
+            "addr": "0x1b540",
+            "hits": 1,
+            "gedit_hits": 64,
+            "gedit_addr": "0x1b540"
+        },
+        {
+            "addr": "0x1b580",
+            "hits": 1,
+            "gedit_hits": 64,
+            "gedit_addr": "0x1b540"
+        },
+        {
+            "addr": "0x1b640",
+            "hits": 1,
+            "gedit_hits": 21,
+            "gedit_addr": "0x1b5c0"
+        },
+        {
+            "addr": "0x1ba40",
+            "hits": 1,
+            "gedit_hits": 66,
+            "gedit_addr": "0x1b9c0"
+        },
+        {
+            "addr": "0x1bb80",
+            "hits": 1,
+            "gedit_hits": 30,
+            "gedit_addr": "0x1bc00"
+        },
+        {
+            "addr": "0x1bbc0",
+            "hits": 1,
+            "gedit_hits": 30,
+            "gedit_addr": "0x1bc00"
+        },
+        {
+            "addr": "0x1bd00",
+            "hits": 1,
+            "gedit_hits": 70,
+            "gedit_addr": "0x1bd80"
+        },
+        {
+            "addr": "0x1bf00",
+            "hits": 1,
+            "gedit_hits": 87,
+            "gedit_addr": "0x1bf80"
+        },
+        {
+            "addr": "0x1bf40",
+            "hits": 1,
+            "gedit_hits": 87,
+            "gedit_addr": "0x1bf80"
+        },
+        {
+            "addr": "0x1c540",
+            "hits": 1,
+            "gedit_hits": 52,
+            "gedit_addr": "0x1c540"
+        },
+        {
+            "addr": "0x1c640",
+            "hits": 1,
+            "gedit_hits": 51,
+            "gedit_addr": "0x1c5c0"
+        }
+    ],
+    "libgtk": [
+        {
+            "addr": "0x9900",
+            "hits": 4,
+            "gedit_hits": 10,
+            "gedit_addr": "0x98c0"
+        },
+        {
+            "addr": "0x9980",
+            "hits": 4,
+            "gedit_hits": 8,
+            "gedit_addr": "0x9a00"
+        },
+        {
+            "addr": "0x9a00",
+            "hits": 4,
+            "gedit_hits": 9,
+            "gedit_addr": "0x9a40"
+        },
+        {
+            "addr": "0x1dec00",
+            "hits": 4,
+            "gedit_hits": 3,
+            "gedit_addr": "0x1dec80"
+        },
+        {
+            "addr": "0x1dec80",
+            "hits": 3,
+            "gedit_hits": 3,
+            "gedit_addr": "0x1dec80"
+        },
+        {
+            "addr": "0x9740",
+            "hits": 2,
+            "gedit_hits": 21,
+            "gedit_addr": "0x96c0"
+        },
+        {
+            "addr": "0x99c0",
+            "hits": 2,
+            "gedit_hits": 9,
+            "gedit_addr": "0x9a40"
+        },
+        {
+            "addr": "0x9a40",
+            "hits": 2,
+            "gedit_hits": 9,
+            "gedit_addr": "0x9a40"
+        },
+        {
+            "addr": "0xd0940",
+            "hits": 2,
+            "gedit_hits": 6,
+            "gedit_addr": "0xd09c0"
+        },
+        {
+            "addr": "0xd09c0",
+            "hits": 2,
+            "gedit_hits": 26,
+            "gedit_addr": "0xd0a40"
+        },
+        {
+            "addr": "0x15bf80",
+            "hits": 2,
+            "gedit_hits": 10,
+            "gedit_addr": "0x15bf00"
+        },
+        {
+            "addr": "0x9700",
+            "hits": 1,
+            "gedit_hits": 43,
+            "gedit_addr": "0x9680"
+        },
+        {
+            "addr": "0x9780",
+            "hits": 1,
+            "gedit_hits": 21,
+            "gedit_addr": "0x9700"
+        },
+        {
+            "addr": "0xd0a00",
+            "hits": 1,
+            "gedit_hits": 28,
+            "gedit_addr": "0xd0a80"
+        },
+        {
+            "addr": "0xd0a40",
+            "hits": 1,
+            "gedit_hits": 28,
+            "gedit_addr": "0xd0a80"
+        },
+        {
+            "addr": "0xd0a80",
+            "hits": 1,
+            "gedit_hits": 28,
+            "gedit_addr": "0xd0a80"
+        },
+        {
+            "addr": "0x15bb00",
+            "hits": 1,
+            "gedit_hits": 12,
+            "gedit_addr": "0x15bac0"
+        },
+        {
+            "addr": "0x15bb80",
+            "hits": 1,
+            "gedit_hits": 9,
+            "gedit_addr": "0x15bb80"
+        },
+        {
+            "addr": "0x15bc00",
+            "hits": 1,
+            "gedit_hits": 9,
+            "gedit_addr": "0x15bb80"
+        },
+        {
+            "addr": "0x15bdc0",
+            "hits": 1,
+            "gedit_hits": 7,
+            "gedit_addr": "0x15be00"
+        },
+        {
+            "addr": "0x16a480",
+            "hits": 1,
+            "gedit_hits": 1,
+            "gedit_addr": "0x16a400"
+        },
+        {
+            "addr": "0x1d9f80",
+            "hits": 1,
+            "gedit_hits": 4,
+            "gedit_addr": "0x1da000"
+        },
+        {
+            "addr": "0x22c9c0",
+            "hits": 1,
+            "gedit_hits": 1,
+            "gedit_addr": "0x22c940"
+        },
+        {
+            "addr": "0x22d380",
+            "hits": 1,
+            "gedit_hits": 2,
+            "gedit_addr": "0x22d3c0"
+        },
+        {
+            "addr": "0x230740",
+            "hits": 1,
+            "name": "gtk_string_list_append",
+            "gedit_hits": 1,
+            "gedit_addr": "0x2306c0"
+        },
+        {
+            "addr": "0x2310c0",
+            "hits": 1,
+            "name": "gtk_string_sorter_set_collation",
+            "gedit_hits": 1,
+            "gedit_addr": "0x231100"
+        },
+        {
+            "addr": "0x242340",
+            "hits": 1,
+            "gedit_hits": 7,
+            "gedit_addr": "0x2422c0"
+        },
+        {
+            "addr": "0x247080",
+            "hits": 1,
+            "gedit_hits": 49,
+            "gedit_addr": "0x247100"
+        }
+    ]
+}

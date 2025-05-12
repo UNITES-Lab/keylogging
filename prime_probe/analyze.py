@@ -59,16 +59,32 @@ def process_layout(layout):
     return layout_obj
 
 
+# https://stackoverflow.com/questions/50916422/python-typeerror-object-of-type-int64-is-not-json-serializable
+class NpEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, np.integer):
+            return int(obj)
+        if isinstance(obj, np.floating):
+            return float(obj)
+        if isinstance(obj, np.ndarray):
+            return obj.tolist()
+        return super(NpEncoder, self).default(obj)
+
+
 if __name__ == "__main__":
+    tp_dict = {"chrome": {}, "gedit": {}}
     templates = os.listdir("templates")
     for template in templates:
         filename = template[:-4]  # Remove file extension
         print(f"processing {filename}")
 
-        target_elf = filename.split("_")[1]  # Extract library name
+        [program, target_elf, dummy] = filename.split("_")  # Extract library name
 
         # Read memory layout and template data
-        mem_layout = get_lines_in_file(f"libmem_layout/{target_elf}.log")
+        if program == "chrome" and target_elf == "libgtk":
+            mem_layout = get_lines_in_file(f"libmem_layout/{program}_{target_elf}.log")
+        else:
+            mem_layout = get_lines_in_file(f"libmem_layout/{target_elf}.log")
         layout_dict = process_layout(mem_layout)
         template_data = load_trace(f"templates/{filename}.bin")
 
@@ -85,6 +101,8 @@ if __name__ == "__main__":
             key=lambda x: x["hits"],
             reverse=True,
         )
+
+        tp_dict[program][target_elf] = filtered_template
 
         # Match addresses with symbols from readelf
         for line in filtered_template:
@@ -103,8 +121,6 @@ if __name__ == "__main__":
         matched_functions = [line for line in filtered_template if "name" in line]
         unmatched_functions = [line for line in filtered_template if "name" not in line]
 
-        print([func for func in matched_functions if func["hits"] > 50])
-
         # Ensure the counts match
         assert len(matched_functions) + len(unmatched_functions) == len(
             filtered_template
@@ -113,8 +129,36 @@ if __name__ == "__main__":
             f"We matched {len(matched_functions)}/{len(filtered_template)} functions."
         )
 
-        # Write the results to JSON files
-        # with open(f"json/{target_elf}_matched.json", "w") as file:
-        #     json.dump(matched_functions, file, indent=4)
-        # with open(f"json/{target_elf}_unmatched.json", "w") as file:
-        #     json.dump(unmatched_functions, file, indent=4)
+    both_used_lines = {}
+    for key in tp_dict["chrome"]:
+        print(f"common addresses in {key} for chrome and gedit")
+        temp_chrome = tp_dict["chrome"][key]
+        temp_gedit = tp_dict["gedit"][key]
+        both_used_lines[key] = []
+        for i in range(len(temp_chrome)):
+            for j in range(len(temp_gedit)):
+                if (
+                    abs(
+                        int(temp_chrome[i]["addr"], 16) - int(temp_gedit[j]["addr"], 16)
+                    )
+                    < 3 * LINE_SIZE
+                ):
+                    already_appended = False
+                    for obj in both_used_lines[key]:
+                        if temp_chrome[i]["addr"] == obj["addr"]:
+                            already_appended = True
+                            break
+                    if not already_appended:
+                        both_used_lines[key].append(
+                            {
+                                **temp_chrome[i],
+                                "gedit_hits": temp_gedit[j]["hits"],
+                                "gedit_addr": temp_gedit[j]["addr"],
+                            }
+                        )
+
+    with open("common_lines.json", "w") as f:
+        json.dump(both_used_lines, f, indent=4, cls=NpEncoder)
+
+    with open("hits.json", "w") as f:
+        json.dump(tp_dict, f, indent=4, cls=NpEncoder)
