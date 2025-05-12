@@ -121,7 +121,7 @@ int main(int argc, char **argv) {
       _mm_clflush(current);
 
       // logic to prevent gedit from crashing
-      if (it % 3 == 0) {
+      if (it & 1) {
         emit(fd_uinput, EV_KEY, KEY_U, 1); // Key press
         emit(fd_uinput, EV_KEY, KEY_U, 0); // Key release
       } else {
@@ -145,7 +145,7 @@ int main(int argc, char **argv) {
            (void *)offset + i * 64, count);
   }
 
-  FILE *f = fopen("gedit_libgdk_template.bin", "wb");
+  FILE *f = fopen("chrome_libgtk_template.bin", "wb");
   fwrite(template, sizeof(uint64_t), NUM_LINES, f);
   fclose(f);
 
