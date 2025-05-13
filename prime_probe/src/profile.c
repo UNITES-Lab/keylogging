@@ -107,6 +107,21 @@ int main(int argc, char **argv) {
   uint64_t DURATION = 6000; // 1 second on a 3 GHz processor
   uint64_t template[NUM_LINES];
 
+  uint64_t offsets[] = {0x540, 0x480, 0x1dc0, 0x14c0, 0x1f00, 0x2680, 0x12c0};
+
+  int NUM_OFFSETS = 7;
+  for (int i = 0; i < NUM_OFFSETS; i++) {
+    uintptr_t pa;
+    uintptr_t va = lib_start + offsets[i];
+    virt_to_phys_user(&pa, getpid(), va);
+    int set = pa_to_set(pa, EVERGLADES);
+    int slice = get_i7_2600_slice(pa);
+    printf(
+        "virtual address: 0x%lx, physical address: 0x%lx, set: %d, slice: %d\n",
+        va, pa, set, slice);
+  }
+
+  /*
   for (size_t i = 0; i < NUM_LINES; i++) {
     uint64_t count = 0;
 
@@ -149,6 +164,7 @@ int main(int argc, char **argv) {
   FILE *f = fopen("chrome_libwayland-client_baseline.bin", "wb");
   fwrite(template, sizeof(uint64_t), NUM_LINES, f);
   fclose(f);
+  */
 
   munmap(start, range);
   close(fd);
