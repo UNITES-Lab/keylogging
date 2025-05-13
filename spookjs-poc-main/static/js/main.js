@@ -235,26 +235,24 @@ async function startWorker() {
                 /* load data */
                 keycode_data = Array.from(message.payload["keycode_data"])
                 event_data = Array.from(message.payload["event_data"])
-                random_data = Array.from(message.payload["random_data"])
+                wayland_data = Array.from(message.payload["wayland_data"])
                 pp_duration = message.payload["pp_duration"]
                 js_duration = message.payload["js_duration"]
                 start_time = message.payload["start_time"]
 
-
                 const scaling_factor = js_duration / pp_duration;
                 log(`pp_duration: ${pp_duration}, js_duration ${js_duration}, scaling factor: ${js_duration / pp_duration}`)
-
-                
-                
-                
 
                 let times = []
                 let keycode_hits = []
                 let event_hits = []
+                let wayland_hits = []
+                
                 for(let i = 0; i < keycode_data.length; i++){
                     if(keycode_data[i] > 100 && event_data[i] > 100){
                         keycode_hits.push(keycode_data[i]);
                         event_hits.push(event_data[i]);
+                        wayland_hits.push(wayland_data[i]);
                         times.push(i);
                     }
                 }
@@ -264,17 +262,17 @@ async function startWorker() {
 
                 log("keycode threshold: " + KEYCODE_THRESHOLD);
                 log("event threshold: " + EVENT_THRESHOLD);
-                
+
+                /* compute results using different lenses  */
                 let prev_hit_500 = 0, prev_hit_400 = 0, prev_hit_300 = 0, prev_hit_200 = 0, prev_hit_100 = 0, prev_hit_60 = 0, prev_hit_30 = 0;
                 let intervals_500 = [], intervals_400 = [], intervals_300 = [], intervals_200 = [], intervals_100 = [], intervals_60 = [], intervals_30 = [], visible_times=[];
                 let times_500 = [], times_400 = [], times_300 = [], times_200 = [], times_100 = [], times_60 = [], times_30 = [] 
                 for(let i = 0; i < keycode_hits.length; i++){
-                    if(keycode_hits[i] > 100 && event_hits[i] > 100){
+                    if(keycode_hits[i] > 100 && event_hits[i] > 100 && wayland_hits[i] > 100){
                         if(times[i] - prev_hit_500 > 500){
                             if(prev_hit_500 > 0){
                                 intervals_500.push(times[i]-prev_hit_500)
                             }
-                            visible_times.push(times[i]);
                             times_500.push(times[i]);
                             
                             prev_hit_500 = times[i];
@@ -291,6 +289,7 @@ async function startWorker() {
                                 intervals_300.push(times[i]-prev_hit_300)
                             }
                             times_300.push(times[i]);
+                            visible_times.push(times[i]);
                             prev_hit_300 = times[i];
                         }
                         if(times[i] - prev_hit_200 > 200){
@@ -323,6 +322,7 @@ async function startWorker() {
                         }
                     }
                 }
+            /* -------------------------------------------------------------- */
 
                 /* ground truth processing */
                 keystroke_graph = []
@@ -342,51 +342,26 @@ async function startWorker() {
                 }
                 
                 let key_intervals = getInterval(ground_truth_times);
-                lenses = [500, 400, 300, 200, 100, 60, 30, 0]; // lense 0 is actual 
-                intervals = [intervals_500, intervals_400, intervals_300, intervals_200, intervals_100, intervals_60, intervals_30, key_intervals];
-                times = [times_500, times_400, times_300, times_200, times_100, times_60, times_30, ground_truth_times];
-
-                print_intervals_and_times(intervals, times, lenses); 
 
                 for(let i = 0; i < visible_times.length; i++){
                     for(let j = 0; j < 20; j++){
                         keycode_data[visible_times[i]+j] = keycode_data[visible_times[i]];
                         event_data[visible_times[i]+j] = event_data[visible_times[i]];
+                        wayland_data[visible_times[i]+j] = wayland_data[visible_times[i]];
                     }
                 }
-                
-                /* 
-                filtered_results = []
-                filtered_intervals = []
-                while(hits.length > 0){
-                    let index = getMaxIndex(hits);
-                    log("index: " + index + ", time: " + times[index] + ", hits: " + hits[index]);
-                    filtered_results.push({"time": times[index], "count": hits[index]});
-                    if(times[index] - times[index-1] < 400){
-                        hits.splice(index-1, 2);
-                        times.splice(index-1, 2);
-                    }
-                    else{
-                        hits.splice(index, 1);
-                        times.splice(index, 1);
-                    }
-                } 
-                log(filtered_results)
-                filtered_results.sort(function(a,b) {return (a["time"] > b.time) ? 1 : ((b.time > a.time) ? -1 : 0);} );
-                
-                for(let i = 1; i < filtered_results.length; i++){
-                   filtered_intervals.push(filtered_results[i]["time"]-filtered_results[i-1]["time"]); 
-                }
-                */
 
-                // log("filtered intervals");
-                // log(filtered_intervals);
+                lenses = [500, 400, 300, 200, 100, 60, 30, 0]; // lense 0 is actual 
+                intervals = [intervals_500, intervals_400, intervals_300, intervals_200, intervals_100, intervals_60, intervals_30, key_intervals];
+                times = [times_500, times_400, times_300, times_200, times_100, times_60, times_30, ground_truth_times];
+
+                print_intervals_and_times(intervals, times, lenses);
                 
                 /* append canvas to graph */
                 
                 createGraph("keycode", keycode_data, keystroke_graph, ["red", "blue"])
                 createGraph("event", event_data, keystroke_graph, ["green", "blue"])                                
-                createGraph("random", random_data, keystroke_graph, ["brown", "blue"])                
+                createGraph("wayland", wayland_data, keystroke_graph, ["brown", "blue"])                
 
                 respond(message, null);
                 break;
