@@ -104,7 +104,7 @@ int main(int argc, char **argv) {
   int threshold = threshold_from_flush(lib_start);
 
   int NUM_LINES = range / 64;
-  int DURATION = 1000; // 1 second on a 3 GHz processor
+  uint64_t DURATION = 6000; // 1 second on a 3 GHz processor
   uint64_t template[NUM_LINES];
 
   for (size_t i = 0; i < NUM_LINES; i++) {
@@ -121,14 +121,15 @@ int main(int argc, char **argv) {
       _mm_clflush(current);
 
       // logic to prevent gedit from crashing
-      if (it & 1) {
-        emit(fd_uinput, EV_KEY, KEY_U, 1); // Key press
-        emit(fd_uinput, EV_KEY, KEY_U, 0); // Key release
-      } else {
-        emit(fd_uinput, EV_KEY, KEY_BACKSPACE, 1); // Key press
-        emit(fd_uinput, EV_KEY, KEY_BACKSPACE, 0); // Key release
-      }
-      emit(fd_uinput, EV_SYN, SYN_REPORT, 0);
+      // emit(fd_uinput, EV_KEY, KEY_U, 1); // Key press
+      // emit(fd_uinput, EV_KEY, KEY_U, 0); // Key release
+      // emit(fd_uinput, EV_SYN, SYN_REPORT, 0);
+      // emit(fd_uinput, EV_KEY, KEY_BACKSPACE, 1); // Key press
+      // emit(fd_uinput, EV_KEY, KEY_BACKSPACE, 0); // Key release
+      // emit(fd_uinput, EV_SYN, SYN_REPORT, 0);
+      uint64_t start = __rdtscp(&core_id);
+      while (__rdtscp(&core_id) - start < 10000)
+        ;
 
       uint64_t duration = time_load(current);
       if (duration < threshold) {
@@ -145,7 +146,7 @@ int main(int argc, char **argv) {
            (void *)offset + i * 64, count);
   }
 
-  FILE *f = fopen("chrome_libgtk_template.bin", "wb");
+  FILE *f = fopen("chrome_libwayland-client_baseline.bin", "wb");
   fwrite(template, sizeof(uint64_t), NUM_LINES, f);
   fclose(f);
 
