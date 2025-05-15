@@ -1,5 +1,6 @@
 #define _GNU_SOURCE
 #include <fcntl.h>
+#include <linux/uinput.h>
 #include <sched.h>
 #include <signal.h>
 #include <stdint.h>
@@ -31,6 +32,16 @@ void handle_sigint(int sig) {
   safe_print("SIGINT received, cleanup process initiated\n");
   cleanup(es_list, mapping_start, file);
   exit(1);
+}
+
+void emit(int fd, int type, int code, int val) {
+  struct input_event ie;
+  ie.type = type;
+  ie.code = code;
+  ie.value = val;
+  ie.time.tv_sec = 0;
+  ie.time.tv_usec = 0;
+  write(fd, &ie, sizeof(ie));
 }
 
 void test_eviction_set(void) {
@@ -237,13 +248,34 @@ void print_duration(uint64_t cycles) {
 
 int main() {
   signal(SIGINT, handle_sigint);
+
+  /* initialize keyboard */
+  int fd_uinput = open("/dev/uinput", O_WRONLY | O_NONBLOCK);
+  if (fd_uinput < 0) {
+    perror("open");
+    return 1;
+  } // Enable key events
+  ioctl(fd_uinput, UI_SET_EVBIT, EV_KEY);
+  ioctl(fd_uinput, UI_SET_EVBIT, EV_SYN);
+  for (int i = 0; i < 256; i++)
+    ioctl(fd_uinput, UI_SET_KEYBIT, i); // Setup uinput device
+  struct uinput_setup usetup;
+  memset(&usetup, 0, sizeof(usetup));
+  snprintf(usetup.name, UINPUT_MAX_NAME_SIZE, "uinput-keyboard");
+  usetup.id.bustype = BUS_USB;
+  usetup.id.vendor = 0x1234;
+  usetup.id.product = 0x5678;
+  usetup.id.version = 1;
+  ioctl(fd_uinput, UI_DEV_SETUP, &usetup);
+  ioctl(fd_uinput, UI_DEV_CREATE);
+  sleep(1);
+
   init_mapping();
   int threshold = threshold_from_flush(mapping_start);
   EvictionSet **all_evsets[EVERGLADES_SETS_PER_SLICE];
 
   uint64_t find_evset_start_time = __rdtscp(&core_id);
-  int TEST_NUM_SETS = 10;
-  for (int i = 0; i < EVERGLADES_SETS_PER_SLICE; i++) {
+  for (int i = 0; i < 10 /*EVERGLADES_SETS_PER_SLICE*/; i++) {
     all_evsets[i] = get_evsets_all_slices_hugepages(
         mapping_start, 2 * EVERGLADES_NUM_SLICES * EVERGLADES_ASSOCIATIVITY, i,
         threshold);
@@ -253,8 +285,7 @@ int main() {
   uint64_t duration = __rdtscp(&core_id) - find_evset_start_time;
   print_duration(duration);
 
-  int NUM_MEASUREMENTS = 16384, NUM_TRIALS = 100;
-
+  int PROFILE_DURATION_PER_LINE_MS = 800;
   while (1) {
     char filename[128];
     printf("Enter filename to store the template (add .bin at the end): ");
@@ -262,12 +293,12 @@ int main() {
     printf("\n");
 
     uint64_t profiling_start = __rdtscp(&core_id);
-    double template[EVERGLADES_SETS_PER_SLICE * EVERGLADES_NUM_SLICES];
+    uint64_t template[EVERGLADES_SETS_PER_SLICE * EVERGLADES_NUM_SLICES];
     int invalid_count = 0;
     for (int i = 0; i < EVERGLADES_SETS_PER_SLICE; i++) {
       CacheLineSet *victims = hugepage_inflate(mapping_start, 16, i);
       for (int j = 0; j < EVERGLADES_NUM_SLICES; j++) {
-        double rates[NUM_TRIALS];
+        uint64_t count = 0;
 
         // check if it is successfully found a set
         if (all_evsets[i][j] == NULL) {
@@ -315,24 +346,23 @@ int main() {
         }
 
         /* only profile if it satisfy all eviction set checks */
-        for (int t = 0; t < NUM_TRIALS; t++) {
+        uint64_t start_time = __rdtscp(&core_id);
+        while (__rdtscp(&core_id) - start_time <
+               PROFILE_DURATION_PER_LINE_MS * 1000 * 1000 * 3) {
           access_set(all_evsets[i][j]);
-          int hit_count = 0;
-          for (int k = 0; k < NUM_MEASUREMENTS; k++) {
-            hit_count += probe(all_evsets[i][j], threshold);
-          }
-          rates[t] = (double)(hit_count) / NUM_MEASUREMENTS;
+          emit(fd_uinput, EV_KEY, KEY_U, 1); // Key press
+          emit(fd_uinput, EV_KEY, KEY_U, 0); // Key release
+          emit(fd_uinput, EV_SYN, SYN_REPORT, 0);
+          emit(fd_uinput, EV_KEY, KEY_BACKSPACE, 1); // Key press
+          emit(fd_uinput, EV_KEY, KEY_BACKSPACE, 0); // Key release
+          emit(fd_uinput, EV_SYN, SYN_REPORT, 0);
+          count += probe(all_evsets[i][j], threshold);
+          usleep(5000);
         }
 
-        double sum = 0;
-        for (int t = 0; t < NUM_TRIALS; t++) {
-          sum += rates[t];
-        }
-
-        template[i * EVERGLADES_NUM_SLICES + j] = sum / NUM_TRIALS;
-
-        printf("set: %d, slice: %d, length: %d --- rate: %.15lf\n", i, j,
-               length, template[i * EVERGLADES_NUM_SLICES + j]);
+        printf("set: %d, slice: %d, length: %d --- count: %ld\n", i, j, length,
+               count);
+        template[i * EVERGLADES_NUM_SLICES + j] = count;
       }
     }
 
@@ -342,11 +372,11 @@ int main() {
     print_duration(profiling_end - profiling_start);
 
     FILE *outFile = fopen(filename, "wb");
-    fwrite(template, sizeof(double),
+    fwrite(template, sizeof(uint64_t),
            EVERGLADES_SETS_PER_SLICE * EVERGLADES_NUM_SLICES, outFile);
     fclose(outFile);
+    // TODO: address potential memory leak issues
+    munmap(mapping_start, EVERGLADES_LLC_SIZE << 4);
+    return 0;
   }
-  // TODO: address potential memory leak issues
-  munmap(mapping_start, EVERGLADES_LLC_SIZE << 4);
-  return 0;
 }
