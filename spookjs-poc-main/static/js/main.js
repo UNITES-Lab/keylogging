@@ -399,32 +399,6 @@ function print_intervals_and_times(intervals, times, lenses){
     }
 }
 
-// TODO: Unfinished function, tbc after discussion about search space 
-function getPaths(times1, times2){
-  let shared_nodes = [], t1_remain = [], t2_remain = [];
-  let i1 = 0, i2 = 0;
-  while(i1 < times1.length && i2 < times2.length){
-    if(times1[i1] - times2[i2] < 50){
-      shared_nodes.push(Math.floor((times1[i1] + times2[i2]) / 2));
-      i1++;
-      i2++;
-    } else if(times1[i1] > times2[i2]){
-      t2_remain.push(times2[i2]);
-      i2++;
-    } else{
-      t1_remain.push(times1[i1]);
-      i1++;
-    }
-  }
-  for(let i = i1; i < times1.length; i++){
-    t1_remain.push(times1[i]);
-  }
-  for(let i = i2; i < times2.length; i++){
-    t2_remain.push(times2[i])
-  }
-  return [shared_nodes, t1_remain, t2_remain];
-}  
-
 function createGraph(id, observed_data, ground_truth, colors){
     let canvas = document.createElement('canvas')
     canvas.id = id;
@@ -485,4 +459,5 @@ document.onkeypress = function(event){
     log(time)
     keystrokes.push(time)
 }
+
 startWorker();
