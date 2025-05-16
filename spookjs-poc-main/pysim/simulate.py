@@ -1,4 +1,4 @@
-import uinput
+import uinput 
 import time
 import json
 import os
@@ -97,18 +97,21 @@ def js_to_python_bool(b):
         return b
 
 
-def wait_for(endpoint: str, desired_result: bool):
+def wait_for(signal: str, desired_result: bool):
     sig = not desired_result
     while sig != desired_result:
-        response = requests.get(f"{BASE_URL}/{endpoint}")
+        response = requests.get(f"{BASE_URL}/get_{signal}")
         sig = js_to_python_bool(response.json()["status"])
         time.sleep(0.01)
 
 
-def setsig(signal: str):
+def setsig(signal: str, obj=None):
     status = 100
     while status != 200:
-        response = requests.post(f"{BASE_URL}/set_{signal}")
+        if obj == None:
+            response = requests.post(f"{BASE_URL}/set_{signal}")
+        else:
+            response = requests.post(f"{BASE_URL}/set_{signal}", json=obj)
         status = response.status_code
 
 
@@ -123,10 +126,13 @@ if __name__ == "__main__":
 
     print(len(data))
     for sentence in data:
-        wait_for("get_status", True)
+        sentence_id = f"{sentence["participant_id"]}-{sentence["test_section_id"]}-{sentence["sentence_id"]}"
+        wait_for("status", True) 
+        setsig("sentence_id", {"sentence_id": sentence_id})
         setsig("start")
+        wait_for("ack", True)
         simulate(device, sentence, SPEEDUP)
         setsig("end")
 
-    wait_for("get_status", True)
+    wait_for("status", True)
     setsig("done")

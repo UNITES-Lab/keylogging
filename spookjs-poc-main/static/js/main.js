@@ -231,8 +231,8 @@ async function startWorker() {
             }
 
             case 'sentenceTrace': {
-                let trace = Array.from(message.payload["trace"]);
-                assert(trace["keycode"].length == trace["event"].length);
+                let trace = message.payload;
+                assert(trace["keycode"].length == trace["event"].length, "trace length is not equivalent");
                 let trace_length = trace["keycode"].length
                 let hits_ms = new Uint16Array(2 * trace_length * 1000);
                 let temp = new Uint16Array(trace_length * 1000);
@@ -250,7 +250,7 @@ async function startWorker() {
                 }
 
                 // combined temp (kbd_event) trace with keycode trace 
-                hit_ms.set(temp, trace_length * 1000);
+                hits_ms.set(temp, trace_length * 1000);
 
                 // send a post request for the python backend to store result to local 
                 fetch("/upload_trace", {
@@ -258,12 +258,12 @@ async function startWorker() {
                     headers: {
                         "Content-Type": "application/octet-stream"
                     }, 
-                    body: hit_ms
+                    body: hits_ms
                 });
+                break;
             }
 
             case 'graphKeystrokes':{
-
                 /* load data */
                 keycode_data = Array.from(message.payload["keycode_data"])
                 event_data = Array.from(message.payload["event_data"])
@@ -485,6 +485,12 @@ function createGraph(id, observed_data, ground_truth, colors){
         }
     });
 
+}
+
+function assert(condition, message){
+    if(!condition){
+        throw message || "assertion error";
+    }
 }
 
 document.onkeypress = function(event){

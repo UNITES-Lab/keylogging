@@ -781,17 +781,20 @@ async function simulate_replays(){
     evsets = await find_target_evsets(sets, slices, module, memory, buffer);
     
     let sentence_index = 0;
-    while(await getSignal("done")){
+    while(!await getSignal("done")){
         if(await getSignal("start")){
+            // clear here to prevent pass-by-reference race conditions
+            trace["keycode"] = []
+            trace["event"] = []
             log("Processing sentence " + sentence_index)
+            await setSignal("ack");
             while(!await getSignal("end")){
                 let trace_sec = prime_probe_sec(evsets);
                 trace["keycode"].push(trace_sec[0]);
                 trace["event"].push(trace_sec[1]);
             }
-            self.postMessage({"type": "sentenceTrace", "trace": trace})
-            trace["keycode"] = []
-            trace["event"] = []
+            sendMessage("sentenceTrace", trace)
+            log("Done with sentence " + sentence_index)
             sentence_index++;
         } else {
             await sleep(10);
@@ -803,8 +806,12 @@ async function simulate_replays(){
 
 async function getSignal(signal){
     const res = await fetch(`http://localhost:8080/get_${signal}`);
-    console.log(res)
-    return true;
+    const ret = await res.json()
+    return ret["status"];
+}
+
+async function setSignal(signal){
+    await fetch(`http://localhost:8080/set_${signal}`, {method: "POST"})
 }
 
 self.onmessage = function(event) {

@@ -43,6 +43,7 @@ let PP_RDY = true;      // Tab is ready to start next sentence
 let SIM_START = false;  // Python start signal for each sentence
 let SIM_END = false;    // Python end signal for each sentence 
 let ALL_DONE = false;   // Python signal for finishing all sentences in the file
+let WORKER_ACK = false; // acknowledgement from worker to indicate Prime+Probe started
 
 // === Endpoint: Upload measured trace from browser ===
 app.post('/upload_trace', (req, res) => {
@@ -53,7 +54,7 @@ app.post('/upload_trace', (req, res) => {
     }
 
     try {
-        fs.writeFileSync(`browser_sim/${sentence_id}.bin`, binaryData);
+        fs.writeFileSync(`traces/${sentence_id}.bin`, binaryData);
         PP_RDY = true;
         res.sendStatus(200);
     } catch (error) {
@@ -64,13 +65,13 @@ app.post('/upload_trace', (req, res) => {
 
 // === Endpoint: Python checks if trace has been stored ===
 app.get('/get_status', (req, res) => {
-    console.log("get_status: " + PP_RDY);
     res.send({ status: PP_RDY });
 });
  
 // Note: set_status is not needed because PP_RDY is only set after file write completes
 
 app.post('/set_sentence_id', (req, res) => {
+    console.log("set_sentence_id: " + req.body["sentence_id"])
     const data = req.body;
     sentence_id = data["sentence_id"];
     res.sendStatus(200);
@@ -85,7 +86,6 @@ app.post('/set_start', (req, res) => {
 
 // === Endpoint: Browser polls for start signal ===
 app.get('/get_start', (req, res) => {
-    console.log("get_start: " + SIM_START);
     res.send({ status: SIM_START });
     if (SIM_START) {
         SIM_START = false; // consume the signal after sending
@@ -101,7 +101,6 @@ app.post('/set_end', (req, res) => {
 
 // === Endpoint: Browser polls to check if simulation ended ===
 app.get('/get_end', (req, res) => {
-    console.log("get_end: " + SIM_END);
     res.send({ status: SIM_END });
     if (SIM_END) {
         SIM_END = false; // consume signal after reading
@@ -119,6 +118,21 @@ app.post('/set_done', (req, res) => {
 app.get('/get_done', (req, res) => {
     console.log("get_done: " + ALL_DONE);
     res.send({ status: ALL_DONE });
+});
+
+// === Endpoint: Browser signals start is received ===
+app.post('/set_ack', (req, res) => {
+    console.log("set_ack");
+    WORKER_ACK = true;
+    res.sendStatus(200);
+});
+
+// === Endpoint: Python polls for to determine if simulation could start===
+app.get('/get_ack', (req, res) => {
+    res.send({ status: WORKER_ACK });
+    if(WORKER_ACK){
+        WORKER_ACK = false;
+    }
 });
 
 // === Start the server ===
