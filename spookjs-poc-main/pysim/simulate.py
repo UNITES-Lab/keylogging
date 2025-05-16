@@ -117,21 +117,24 @@ def setsig(signal: str, obj=None):
 
 if __name__ == "__main__":
     # Speedup for the experiments
-    SPEEDUP = 1
+    SPEEDUP = 3
 
     # register the uinput device
     device = uinput.Device(KEY_MAP.values())
 
-    data = load_json("test.jsonl")
+    data = load_json("across_participant_across_sentence_test.jsonl")
 
     print(len(data))
+    duration = get_total_duration(data, 3)
+    print(duration)
     for sentence in data:
         sentence_id = f"{sentence["participant_id"]}-{sentence["test_section_id"]}-{sentence["sentence_id"]}"
+        print(f"{sentence_id}: {sentence["input_string"]}")
         wait_for("status", True) 
         setsig("sentence_id", {"sentence_id": sentence_id})
         setsig("start")
         wait_for("ack", True)
-        simulate(device, sentence, SPEEDUP)
+        simulate(device, sentence, 3)
         setsig("end")
 
     wait_for("status", True)

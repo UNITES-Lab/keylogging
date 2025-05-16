@@ -236,21 +236,30 @@ async function startWorker() {
                 let trace_length = trace["keycode"].length
                 let hits_ms = new Uint16Array(2 * trace_length * 1000);
                 let temp = new Uint16Array(trace_length * 1000);
+                hits_ms.fill(0);
+                temp.fill(0);
+
+                log(trace["keycode"])
+                log(trace["event"])
 
                 // Process received sentence trace into hits per ms 
-                for(let i = 0; i < trace.length; i++){
+                for(let i = 0; i < trace["keycode"].length; i++){
                     let length_sec = trace["keycode"][i].length;
                     let ms_step = Math.floor(length_sec / 1000);
-                    for(let j = 0; j < 1000; j++){
+                    for(let j = 0; j < length_sec; j+=ms_step){
                         for(let k = 0; k < ms_step; k++){
-                            hit_ms[i * 1000 + j] += getBitSum(trace["keycode"][i][j * ms_step + k]); 
-                            temp[i * 1000 + j] += getBitSum(trace["event"][i][j * ms_step + k]); 
+                            hits_ms[i * 1000 + j/ms_step] += getBitSum(trace["keycode"][i][j + k]); 
+                            temp[i * 1000 + j/ms_step] += getBitSum(trace["event"][i][j + k]); 
                         } 
                     }
                 }
 
+                log(hits_ms)
+                log(temp)
+
                 // combined temp (kbd_event) trace with keycode trace 
                 hits_ms.set(temp, trace_length * 1000);
+                log(hits_ms.slice(0, 20))
 
                 // send a post request for the python backend to store result to local 
                 fetch("/upload_trace", {
