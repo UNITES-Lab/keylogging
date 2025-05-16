@@ -5,6 +5,7 @@
     "dtw": "^0.0.3",
     "dynamic-time-warping": "^1.0.0",
     "express": "^4.17.1",
+    "nodemon": "^3.1.10",
     "static-serve": "0.0.1",
     "yargs": "^17.1.1"
   }

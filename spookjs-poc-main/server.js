@@ -1,6 +1,8 @@
 const express     = require('express');
 const serveStatic = require('serve-static');
 const yargs       = require('yargs');
+const fs          = require('fs');
+const bodyParser  = require('body-parser');
 
 const argv = yargs
     .option('port', {
@@ -32,7 +34,97 @@ app.use(function(req, res, next){
 app.use(express.text({limit: '50mb'}));
 app.use(express.json({limit: '50mb'}));
 app.use(serveStatic(argv.serve));
+app.use(bodyParser.raw({ type: 'application/octet-stream', limit: '10mb' }));
+app.use(bodyParser.json());  // for JSON-based control messages
 
-app.listen(port, address, () => {
-    console.log(`Listening on ${address}:${port}`);
+// === Server state ===
+let sentence_id = null;
+let PP_RDY = true;      // Tab is ready to start next sentence 
+let SIM_START = false;  // Python start signal for each sentence
+let SIM_END = false;    // Python end signal for each sentence 
+let ALL_DONE = false;   // Python signal for finishing all sentences in the file
+
+// === Endpoint: Upload measured trace from browser ===
+app.post('/upload_trace', (req, res) => {
+    const binaryData = req.body;
+    if (!sentence_id) {
+        console.error("No sentence_id set before upload.");
+        return res.sendStatus(400);
+    }
+
+    try {
+        fs.writeFileSync(`browser_sim/${sentence_id}.bin`, binaryData);
+        PP_RDY = true;
+        res.sendStatus(200);
+    } catch (error) {
+        console.error("Error writing binary data to file: ", error);
+        res.sendStatus(500);
+    }
 });
+
+// === Endpoint: Python checks if trace has been stored ===
+app.get('/get_status', (req, res) => {
+    console.log("get_status: " + PP_RDY);
+    res.send({ status: PP_RDY });
+});
+ 
+// Note: set_status is not needed because PP_RDY is only set after file write completes
+
+app.post('/set_sentence_id', (req, res) => {
+    const data = req.body;
+    sentence_id = data["sentence_id"];
+    res.sendStatus(200);
+})
+// === Endpoint: Python sets sentence_id and triggers simulation start ===
+app.post('/set_start', (req, res) => {
+    console.log("set_start");
+    SIM_START = true;
+    PP_RDY = false;  
+    res.sendStatus(200);
+});
+
+// === Endpoint: Browser polls for start signal ===
+app.get('/get_start', (req, res) => {
+    console.log("get_start: " + SIM_START);
+    res.send({ status: SIM_START });
+    if (SIM_START) {
+        SIM_START = false; // consume the signal after sending
+    }
+});
+
+// === Endpoint: Python signals the end of the simulation ===
+app.post('/set_end', (req, res) => {
+    console.log("set_end");
+    SIM_END = true;
+    res.sendStatus(200);
+});
+
+// === Endpoint: Browser polls to check if simulation ended ===
+app.get('/get_end', (req, res) => {
+    console.log("get_end: " + SIM_END);
+    res.send({ status: SIM_END });
+    if (SIM_END) {
+        SIM_END = false; // consume signal after reading
+    }
+});
+
+// === Endpoint: Python signals the whole experiment is done ===
+app.post('/set_done', (req, res) => {
+    console.log("set_done");
+    ALL_DONE = true;
+    res.sendStatus(200);
+});
+
+// === Endpoint: Browser polls for end-of-experiment signal ===
+app.get('/get_done', (req, res) => {
+    console.log("get_done: " + ALL_DONE);
+    res.send({ status: ALL_DONE });
+});
+
+// === Start the server ===
+app.listen(8080, () => {
+    console.log("Server listening on port 8080");
+});
+
+
+

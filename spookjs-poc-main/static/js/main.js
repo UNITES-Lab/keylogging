@@ -230,6 +230,38 @@ async function startWorker() {
                 break;
             }
 
+            case 'sentenceTrace': {
+                let trace = Array.from(message.payload["trace"]);
+                assert(trace["keycode"].length == trace["event"].length);
+                let trace_length = trace["keycode"].length
+                let hits_ms = new Uint16Array(2 * trace_length * 1000);
+                let temp = new Uint16Array(trace_length * 1000);
+
+                // Process received sentence trace into hits per ms 
+                for(let i = 0; i < trace.length; i++){
+                    let length_sec = trace["keycode"][i].length;
+                    let ms_step = Math.floor(length_sec / 1000);
+                    for(let j = 0; j < 1000; j++){
+                        for(let k = 0; k < ms_step; k++){
+                            hit_ms[i * 1000 + j] += getBitSum(trace["keycode"][i][j * ms_step + k]); 
+                            temp[i * 1000 + j] += getBitSum(trace["event"][i][j * ms_step + k]); 
+                        } 
+                    }
+                }
+
+                // combined temp (kbd_event) trace with keycode trace 
+                hit_ms.set(temp, trace_length * 1000);
+
+                // send a post request for the python backend to store result to local 
+                fetch("/upload_trace", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/octet-stream"
+                    }, 
+                    body: hit_ms
+                });
+            }
+
             case 'graphKeystrokes':{
 
                 /* load data */
@@ -365,6 +397,15 @@ async function startWorker() {
             }
         }
     };
+}
+
+function getBitSum(num){
+    let sum = 0;
+    while(num > 0){
+        sum += num & 1;
+        num >>= 1;
+    }
+    return sum;
 }
 
 function harmonic_mean(data){

