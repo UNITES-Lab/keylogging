@@ -223,20 +223,12 @@ void measure_keystroke_without_slice(int threshold) {
 }
 
 int main() {
-  // test_eviction_set();
-  // test_covert_channel();
-  // test_eviction_and_pp();
-  // signal(SIGINT, handle_sigint);
-  // int set = pa_to_set(KBD_KEYCODE_ADDR, EVERGLADES);
   init_mapping();
-  // uint64_t *timestamp_sizes = profile_slices(set);
-  // uint64_t slice_zero_times[timestamp_sizes[0]];
-  // printf("%lu\n", timestamp_sizes[0]);
-  // read_binary("output0.bin", slice_zero_times, timestamp_sizes[0]);
-  // free(timestamp_sizes);
-  es_list = get_all_slices_eviction_sets(mapping_start, 428);
-  measure_keystroke(threshold_from_flush(mapping_start));
-  free_es_list(es_list);
+  printf("set: %d, slice: %d\n", pa_to_set(KBD_KEYCODE_ADDR, EVERGLADES),
+         get_i7_2600_slice(KBD_KEYCODE_ADDR));
+  // es_list = get_all_slices_eviction_sets(mapping_start, 428);
+  // measure_keystroke(threshold_from_flush(mapping_start));
+  // free_es_list(es_list);
   munmap(mapping_start, EVERGLADES_LLC_SIZE << 4);
   return 0;
 }

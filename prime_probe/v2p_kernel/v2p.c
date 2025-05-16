@@ -21,7 +21,7 @@ static unsigned long virt_to_phys(unsigned long virt_addr) {
 }
 
 static int __init kv2p_init(void) {
-  unsigned long func_addr = 0x8e306b20;
+  unsigned long func_addr = 0x99145b80;
   unsigned long phys_addr;
 
   pr_info("Kernel virtual address: 0x%lx\n", func_addr);
