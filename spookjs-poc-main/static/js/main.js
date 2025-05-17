@@ -292,12 +292,18 @@ async function startWorker() {
                     }
                 }
                 
+                let KEYCODE_THRESHOLD = harmonic_mean(keycode_hits);
+                let EVENT_THRESHOLD = harmonic_mean(event_hits);
+
+                log("keycode threshold: " + KEYCODE_THRESHOLD);
+                log("event threshold: " + EVENT_THRESHOLD);
+
                 /* compute results using different lenses  */
                 let prev_hit_500 = 0, prev_hit_400 = 0, prev_hit_300 = 0, prev_hit_200 = 0, prev_hit_100 = 0, prev_hit_60 = 0, prev_hit_30 = 0;
                 let intervals_500 = [], intervals_400 = [], intervals_300 = [], intervals_200 = [], intervals_100 = [], intervals_60 = [], intervals_30 = [], visible_times=[];
                 let times_500 = [], times_400 = [], times_300 = [], times_200 = [], times_100 = [], times_60 = [], times_30 = [] 
                 for(let i = 0; i < keycode_hits.length; i++){
-                    if(keycode_hits[i] > 80 && event_hits[i] > 80 && wayland_hits[i] > 80){
+                    if(keycode_hits[i] > 100 && event_hits[i] > 100 && wayland_hits[i] > 100){
                         if(times[i] - prev_hit_500 > 500){
                             if(prev_hit_500 > 0){
                                 intervals_500.push(times[i]-prev_hit_500)
@@ -360,8 +366,10 @@ async function startWorker() {
                 }
                 
                 ground_truth_times = []
+                let SHIFT = Math.floor((keystrokes[0] - start_time) / scaling_factor) - times_500[0];
+                log("shift: " + SHIFT)
                 for(let stroke of keystrokes){
-                    let index = stroke-start_time;
+                    let index = Math.floor((stroke - start_time) / scaling_factor) - SHIFT;
                     ground_truth_times.push(index);
                     for(let i = 0; i < 10; i++){
                         keystroke_graph[index+i] = 300;

