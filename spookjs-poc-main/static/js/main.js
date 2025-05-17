@@ -239,9 +239,6 @@ async function startWorker() {
                 hits_ms.fill(0);
                 temp.fill(0);
 
-                log(trace["keycode"])
-                log(trace["event"])
-
                 // Process received sentence trace into hits per ms 
                 for(let i = 0; i < trace["keycode"].length; i++){
                     let length_sec = trace["keycode"][i].length;
@@ -254,12 +251,9 @@ async function startWorker() {
                     }
                 }
 
-                log(hits_ms)
-                log(temp)
 
                 // combined temp (kbd_event) trace with keycode trace 
                 hits_ms.set(temp, trace_length * 1000);
-                log(hits_ms.slice(0, 20))
 
                 // send a post request for the python backend to store result to local 
                 fetch("/upload_trace", {

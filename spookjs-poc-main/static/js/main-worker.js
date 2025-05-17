@@ -786,7 +786,6 @@ async function simulate_replays(){
             // clear here to prevent pass-by-reference race conditions
             trace["keycode"] = []
             trace["event"] = []
-            log("Processing sentence " + sentence_index)
             await setSignal("ack");
             while(!await getSignal("end")){
                 let trace_sec = prime_probe_sec(evsets);
@@ -794,7 +793,6 @@ async function simulate_replays(){
                 trace["event"].push(trace_sec[1]);
             }
             sendMessage("sentenceTrace", trace)
-            log("Done with sentence " + sentence_index)
             sentence_index++;
         } else {
             await sleep(10);
