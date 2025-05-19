@@ -117,12 +117,12 @@ def setsig(signal: str, obj=None):
 
 if __name__ == "__main__":
     # Speedup for the experiments
-    SPEEDUP = 1
+    SPEEDUP = 3
 
     # register the uinput device
     device = uinput.Device(KEY_MAP.values())
 
-    data = load_json("across_participant_across_sentence_test.jsonl")
+    data = load_json("within_participant_across_sentence_test.jsonl")
 
     print(len(data))
     duration = get_total_duration(data, SPEEDUP)
