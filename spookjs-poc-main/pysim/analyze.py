@@ -44,13 +44,27 @@ def get_interval(counts, threshold):
 def load_trace(input_file):
     return np.fromfile(input_file, dtype=np.uint16)
 
-def analyze_file(path_to_file):
+def fix_dips(trace):
+   for i in range(len(trace)):
+      if trace[i] < 40:
+         last = min(i+2000, len(trace)) 
+         trace[i:last] += 70
+         i+=2000
+
+def analyze_file(path_to_file, truth, fix):
    pp_trace = load_trace(path_to_file)
+   if fix:
+      fix_dips(pp_trace)
    print(pp_trace.size)
    keycode_trace = pp_trace[0:pp_trace.size//2]
    event_trace = pp_trace[pp_trace.size//2:]
-   graph(keycode_trace, "Keycode Browser PP", "keycode.png");
-   graph(event_trace, "Event Browser PP", "event.png");
+
+   graph(keycode_trace, "Keycode Browser PP", f"keycode_{fix}.png");
+   graph(event_trace, "Event Browser PP", f"event_{fix}.png");
+   threshold = np.sort(keycode_trace)[::-1][3*truth]
+   print(threshold)
+   print(get_interval(keycode_trace.tolist(), threshold))
+   print(get_interval(event_trace.tolist(), 500))
 
 def export_json(filename, intervals):
     data = load_json(f"simulation/data/cleaned_data/{filename}.jsonl") 
@@ -74,4 +88,12 @@ def help():
     print("python3 analyze.py [output_binary_directory] [sentence-id] --graph")
 
 if __name__ == "__main__":
-   analyze_file("../traces/36799-399509-220.bin") 
+   data = load_json("../raw_data/across_participant_across_sentence_test.jsonl")
+   for sentence in data: 
+      sentence_id = f"{sentence["participant_id"]}-{sentence["test_section_id"]}-{sentence["sentence_id"]}"  
+      if(sentence_id == sys.argv[1]):
+         truth = len(sentence["keystrokes"])
+         print(truth)
+         analyze_file(f"../bins_to_convert/across_participant_across_sentence_test/{sentence_id}.bin", truth, True)
+         analyze_file(f"../bins_to_convert/across_participant_across_sentence_test/{sentence_id}.bin", truth, False)
+         print(sentence["intervals"])

@@ -127,16 +127,18 @@ if __name__ == "__main__":
     print(len(data))
     duration = get_total_duration(data, SPEEDUP)
     print(duration)
+    count = 0;
     for sentence in data:
         sentence_id = f"{sentence["participant_id"]}-{sentence["test_section_id"]}-{sentence["sentence_id"]}"
         print()
-        print(f"{sentence_id}: {sentence["input_string"]}")
+        print(f"{count}: {sentence_id}\t {sentence["input_string"]}")
         wait_for("status", True) 
         setsig("sentence_id", {"sentence_id": sentence_id})
         setsig("start")
         wait_for("ack", True)
         simulate(device, sentence, SPEEDUP)
         setsig("end")
+        count += 1
 
     wait_for("status", True)
     setsig("done")

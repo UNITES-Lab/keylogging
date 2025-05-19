@@ -34,8 +34,9 @@ app.use(function(req, res, next){
 app.use(express.text({limit: '50mb'}));
 app.use(express.json({limit: '50mb'}));
 app.use(serveStatic(argv.serve));
-app.use(bodyParser.raw({type: 'application/octet-stream'}));
-app.use(bodyParser.json());  // for JSON-based control messages
+app.use(bodyParser.raw({type: 'application/octet-stream', limit: '50mb'}));
+app.use(bodyParser.json({limit: '50mb'}));  // for JSON-based control messages
+app.use(bodyParser.urlencoded({limit: '50mb', extended: true}));
 
 // === Server state ===
 let sentence_id = null;
