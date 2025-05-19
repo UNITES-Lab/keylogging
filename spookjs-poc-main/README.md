@@ -7,13 +7,19 @@ This is a proof of concept for LLC Prime+Probe attack to extract keystroke timin
 - Enable hugepages: echo 100 | sudo tee /proc/sys/vm/nr_hugepages
 - CPU frequency settings: ```echo 'GOVERNOR="performance"' | sudo tee /etc/default/cpufrequtils```
 
-## Running
+## Running the simulation
+Before running the simulation, please ensure that your system is as quiet as possible with limited background processes running as this may affect the quality of your simulated results. 
+
 The code uses node.js to run the webserver. We assume your system has node.js and npm installed. Run the following commands in this directory to start the server:
 ```
 $ npm install
 $ node ./server.js
 ```
 A webserver would be launched at http://localhost:8080. 
+
+Next, please proceed with launching the browser. We recognize that the eviction set reduction algorithm failed typically on the first run, please refresh the page until you see 8 sets found on the display screen. 
+
+Last, you may now run `sudo python3 simulate.py` from the pysim directory. The simulation will start automatically. Please ensure that you avoid using your keyboard, mouse, or external devices to minimize potential noise on the system. 
 
 ## Third Party Code
 Builds upon the following software:
