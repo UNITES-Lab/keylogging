@@ -86,7 +86,7 @@ def graph(traces, attack_type, output_file):
     plt.close()
 
 """ This is where the filter function and algorithm resides"""
-def get_interval(counts, threshold):
+def get_interval(counts, threshold, speedup):
     potential_keystrokes = {str(i): counts[i] for i in range(len(counts)) if counts[i] > threshold} 
 
     interval = []
@@ -98,8 +98,8 @@ def get_interval(counts, threshold):
         if isFirst:
             isFirst = False
             prev = index
-        elif index - prev > MIN_KEYSTROKE_INTERVAL:
-            interval.append(index - prev)
+        elif (index - prev) * speedup > MIN_KEYSTROKE_INTERVAL:
+            interval.append((index - prev) * speedup)
             prev = index
 
     return interval
@@ -115,7 +115,7 @@ def fix_dips(trace):
          trace[i:last] += 70
          i+=2000
 
-def analyze_file(path_to_file, truth, fix):
+def analyze_file(path_to_file, truth, fix, speedup):
     pp_trace = load_trace(path_to_file)
     if fix:
         fix_dips(pp_trace)
@@ -125,7 +125,7 @@ def analyze_file(path_to_file, truth, fix):
 
     threshold = np.sort(keycode_trace)[::-1][3*truth]
     print(threshold)
-    return get_interval(keycode_trace.tolist(), threshold), keycode_trace.tolist()
+    return get_interval(keycode_trace.tolist(), threshold, speedup), keycode_trace.tolist()
 
 def format_json(id, input_string, keystrokes, intervals):
     
@@ -196,7 +196,7 @@ if __name__ == "__main__":
             truth = len(ikeystrokes)    
 
             try:
-                interval, hitcount = analyze_file(path, truth, True)
+                interval, hitcount = analyze_file(path, truth, True, 3)
             except IndexError: 
                 print("Faulty Binary: Recording")
                 errors.append(f"{file}, too small")
