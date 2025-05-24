@@ -114,18 +114,19 @@ def setsig(signal: str, obj=None):
             response = requests.post(f"{BASE_URL}/set_{signal}", json=obj)
         status = response.status_code
 
+DATA_DIR = "data/cleaned_data"
 
 if __name__ == "__main__":
-    # Speedup for the experiments
-    SPEEDUP = 3
 
+    filename = sys.argv[1]
+    speedup = int(sys.argv[2])
     # register the uinput device
     device = uinput.Device(KEY_MAP.values())
 
-    data = load_json("within_participant_across_sentence_test.jsonl")
+    data = load_json(f"{DATA_DIR}/{filename}.jsonl")
 
     print(len(data))
-    duration = get_total_duration(data, SPEEDUP)
+    duration = get_total_duration(data, speedup)
     print(duration)
     count = 0;
     for sentence in data:
@@ -136,7 +137,7 @@ if __name__ == "__main__":
         setsig("sentence_id", {"sentence_id": sentence_id})
         setsig("start")
         wait_for("ack", True)
-        simulate(device, sentence, SPEEDUP)
+        simulate(device, sentence, speedup)
         setsig("end")
         count += 1
 

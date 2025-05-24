@@ -13,7 +13,7 @@ global json_dictionary
 CPU_FREQ = 3.4
 MIN_KEYSTROKE_INTERVAL = 35
 threshold = 15 # TODO: Find a dynamic algorithm to determine the hitcount threshold
-BINARY_DIR = "bins_to_convert"
+BINARY_DIR = "data/binary_data"
 
 def load_json(path):
     
@@ -156,7 +156,7 @@ def export_json(filename, intervals):
     # assert(len(data) == len(intervals))
     # for i in range(len(data)):
         # data[i]["pp_intervals"] = intervals[i] 
-    with open(f"output_data/{filename}.jsonl", "w") as f:
+    with open(f"data/output_data/{filename}.jsonl", "w") as f:
         json.dump(intervals, f, indent=4)
 
 
@@ -171,44 +171,40 @@ def help():
     print("python3 analyze.py [output_binary_directory] [sentence-id] --graph")
 
 if __name__ == "__main__":
-    folders = os.listdir(BINARY_DIR)
-    print(folders)
-    for folder in folders:
-        print(folder)
-        
-        JSON_PATH = f"raw_data/{folder}.jsonl"
-        with open(JSON_PATH, 'r', encoding='utf-8') as f: 
-            data = json.load(f)
+    folder = sys.argv[1] 
+    speedup = int(sys.argv[2])
+    JSON_PATH = f"data/cleaned_data/{folder}.jsonl"
+    with open(JSON_PATH, 'r', encoding='utf-8') as f: 
+        data = json.load(f)
 
-        json_dictionary = build_index(data)
+    json_dictionary = build_index(data)
 
-        files = os.listdir(f"{BINARY_DIR}/{folder}")
-        observations = []
-        errors = []
-        bar = Bar('Converting', max = int(len(files)))
-        for file in files:
-            print("     ",file)
-            path = f"{BINARY_DIR}/{folder}/{file}" 
+    files = os.listdir(f"{BINARY_DIR}/{folder}")
+    observations = []
+    errors = []
+    bar = Bar('Converting', max = int(len(files)))
+    for file in files:
+        print("     ",file)
+        path = f"{BINARY_DIR}/{folder}/{file}" 
 
-            ids = extract_ids(file)
-            typed_string = retrieve_fast(ids[0], ids[1], ids[2], "input_string")
-            ikeystrokes = retrieve_fast(ids[0], ids[1], ids[2], "keystrokes")
-            truth = len(ikeystrokes)    
+        ids = extract_ids(file)
+        typed_string = retrieve_fast(ids[0], ids[1], ids[2], "input_string")
+        ikeystrokes = retrieve_fast(ids[0], ids[1], ids[2], "keystrokes")
+        truth = len(ikeystrokes)    
 
-            try:
-                interval, hitcount = analyze_file(path, truth, True, 3)
-            except IndexError: 
-                print("Faulty Binary: Recording")
-                errors.append(f"{file}, too small")
-                continue
-            except MemoryError:
-                print("Faulty Binary: Memory")
-                errors.append(f"{file}, too big")
-                continue
-            formatted = format_json_raw(ids, typed_string, ikeystrokes, interval, hitcount)
-            #formatted = format_json(file, interval)
-            observations.append(formatted)
-            bar.next() 
-        print()
-        export_json(folder, observations)
-        export_json(f"{folder}_log", errors)
+        try:
+            interval, hitcount = analyze_file(path, truth, True, speedup)
+        except IndexError: 
+            print("Faulty Binary: Recording")
+            errors.append(f"{file}, too small")
+            continue
+        except MemoryError:
+            print("Faulty Binary: Memory")
+            errors.append(f"{file}, too big")
+            continue
+        formatted = format_json_raw(ids, typed_string, ikeystrokes, interval, hitcount)
+        #formatted = format_json(file, interval)
+        observations.append(formatted)
+        bar.next() 
+    print()
+    export_json(folder, observations)

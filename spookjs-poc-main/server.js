@@ -72,14 +72,14 @@ app.get('/get_status', (req, res) => {
 // Note: set_status is not needed because PP_RDY is only set after file write completes
 
 app.post('/set_sentence_id', (req, res) => {
-    console.log("set_sentence_id: " + req.body["sentence_id"])
+    // console.log("set_sentence_id: " + req.body["sentence_id"])
     const data = req.body;
     sentence_id = data["sentence_id"];
     res.sendStatus(200);
 })
 // === Endpoint: Python sets sentence_id and triggers simulation start ===
 app.post('/set_start', (req, res) => {
-    console.log("set_start");
+    // console.log("set_start");
     SIM_START = true;
     PP_RDY = false;  
     res.sendStatus(200);
@@ -95,7 +95,7 @@ app.get('/get_start', (req, res) => {
 
 // === Endpoint: Python signals the end of the simulation ===
 app.post('/set_end', (req, res) => {
-    console.log("set_end");
+    // console.log("set_end");
     SIM_END = true;
     res.sendStatus(200);
 });
@@ -110,20 +110,20 @@ app.get('/get_end', (req, res) => {
 
 // === Endpoint: Python signals the whole experiment is done ===
 app.post('/set_done', (req, res) => {
-    console.log("set_done");
+    // console.log("set_done");
     ALL_DONE = true;
     res.sendStatus(200);
 });
 
 // === Endpoint: Browser polls for end-of-experiment signal ===
 app.get('/get_done', (req, res) => {
-    console.log("get_done: " + ALL_DONE);
+    // console.log("get_done: " + ALL_DONE);
     res.send({ status: ALL_DONE });
 });
 
 // === Endpoint: Browser signals start is received ===
 app.post('/set_ack', (req, res) => {
-    console.log("set_ack");
+    // console.log("set_ack");
     WORKER_ACK = true;
     res.sendStatus(200);
 });
