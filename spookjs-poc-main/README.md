@@ -38,6 +38,11 @@ You can then start the simulation with the following scripts
 
 ***Note: Paths in the python scripts are set relative to web-simulation folder***
 
+## Visualize the Simulation
+You can viasualize each collected traces by running the following command, `sentence_id` could be obtained from the binary conversion files. 
+
+`python3 pysim/anaylyze.py [sentence_id]`
+
 ## Third Party Code
 Builds upon the following software:
 - https://github.com/cgvwzq/evsets
