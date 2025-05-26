@@ -88,12 +88,11 @@ def help():
     print("python3 analyze.py [output_binary_directory] [sentence-id] --graph")
 
 if __name__ == "__main__":
-   data = load_json("../raw_data/across_participant_across_sentence_test.jsonl")
+   data = load_json(f"../cleaned_data/{sys.argv[1]}.jsonl")
    for sentence in data: 
       sentence_id = f"{sentence["participant_id"]}-{sentence["test_section_id"]}-{sentence["sentence_id"]}"  
-      if(sentence_id == sys.argv[1]):
+      if(sentence_id == sys.argv[2]):
          truth = len(sentence["keystrokes"])
-         print(truth)
-         analyze_file(f"../bins_to_convert/across_participant_across_sentence_test/{sentence_id}.bin", truth, True)
-         analyze_file(f"../bins_to_convert/across_participant_across_sentence_test/{sentence_id}.bin", truth, False)
-         print(sentence["intervals"])
+         print("actual: " + truth)
+         print("observed: " + sentence["intervals"])
+         analyze_file(f"data/output_data/{sys.argv[1]}/{sentence_id}.bin", truth, True)
