@@ -33,9 +33,10 @@ You can viasualize each collected traces by running the following command, `sent
 `python3 pysim/analyze.py [simulation_file_name] [sentence_id] [speedup]`
 
 ## File IO Directories
--`data/raw_data`: the raw files from the public drive 
--`data/cleaned_data`: the cleaned files into preferable list format
--`data/binary_data`: hits per ms obtained from the simulation
--`data/output_data`: the output json in the same format for analysis 
--`figures`: all figures generated from `pysim/analyze.py`
+- `data/raw_data`: the raw files from the public drive 
+- `data/cleaned_data`: the cleaned files into preferable list format
+- `data/binary_data`: hits per ms obtained from the simulation
+- `data/output_data`: the output json in the same format for analysis 
+- `figures`: all figures generated from `pysim/analyze.py`
+
 
