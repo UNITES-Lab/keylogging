@@ -47,20 +47,17 @@ def fix_dips(trace):
          trace[i:last] += 70
          i+=2000
 
-def analyze_file(path_to_file, truth, file, sentence_id, fix):
+def duplicate_list(in_list, speedup):
+    return [e for e in in_list for _ in range(int(speedup))] 
+
+def analyze_file(path_to_file, truth, file, sentence_id, fix, speedup):
    pp_trace = load_trace(path_to_file)
    if fix:
       fix_dips(pp_trace)
-   print(pp_trace.size)
-   keycode_trace = pp_trace[0:pp_trace.size//2]
+   keycode_trace = np.array(duplicate_list(pp_trace[0:pp_trace.size//2], speedup))
    event_trace = pp_trace[pp_trace.size//2:]
-
    graph(keycode_trace, "Keycode Browser PP", f"figures/{file}_{sentence_id}_keycode.png");
    graph(event_trace, "Event Browser PP", f"figures/{file}_{sentence_id}_event.png");
-   threshold = np.sort(keycode_trace)[::-1][3*truth]
-   print(threshold)
-   print(get_interval(keycode_trace.tolist(), threshold))
-   print(get_interval(event_trace.tolist(), 500))
 
 
 if __name__ == "__main__":
@@ -68,8 +65,4 @@ if __name__ == "__main__":
    for sentence in data: 
       sentence_id = f"{sentence["participant_id"]}-{sentence["test_section_id"]}-{sentence["sentence_id"]}"  
       if(sentence_id == sys.argv[2]):
-         truth = len(sentence["keystrokes"])
-         print("actual: " + str(truth));
-         print("observed: ", end="")
-         print(sentence["intervals"])
-         analyze_file(f"data/binary_data/{sys.argv[1]}/{sentence_id}.bin", truth, sys.argv[1], sys.argv[2], True)
+         analyze_file(f"data/binary_data/{sys.argv[1]}/{sentence_id}.bin", 0, sys.argv[1], sys.argv[2], True, sys.argv[3])

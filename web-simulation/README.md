@@ -17,11 +17,6 @@ Turn off prefetchers, set frequency and enable hugepages
 sudo ./setup_system.sh
 ```
 
-Setup required simulation folder
-```
-./setup_simulation.sh
-```
-
 ## Running the simulation
 
 Move the raw jsonl file you want to simulate into `data/raw_data` folder
@@ -34,14 +29,14 @@ Please start Google Chrome Browser and go to http://localhost:8080 (restart the 
 
 You can then start the simulation with the following scripts
 
-`sudo ./run_simulation [simulation_file_name]`
+`sudo ./run_simulation [simulation_file_name] [speedup]`
 
 ***Note: Paths in the python scripts are set relative to web-simulation folder***
 
-## Visualize the Simulation
+## Visualize the traces
 You can viasualize each collected traces by running the following command, `sentence_id` could be obtained from the binary conversion files. 
 
-`python3 pysim/analyze.py [simulation_file_name] [sentence_id]`
+`python3 pysim/analyze.py [simulation_file_name] [sentence_id] [speedup]`
 
 ## File IO Directories
 -`data/raw_data`: the raw files from the public drive 

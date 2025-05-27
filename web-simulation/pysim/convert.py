@@ -124,7 +124,6 @@ def analyze_file(path_to_file, truth, fix, speedup):
     event_trace = pp_trace[pp_trace.size//2:]
 
     threshold = np.sort(keycode_trace)[::-1][3*truth]
-    print(threshold)
     return get_interval(keycode_trace.tolist(), threshold, speedup), keycode_trace.tolist()
 
 def format_json(id, input_string, keystrokes, intervals):
