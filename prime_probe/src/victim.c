@@ -1,5 +1,4 @@
 #define _DEFAULT_SOURCE
-#include <assert.h>
 #include <sched.h>
 #include <stdint.h>
 #include <stdio.h>
@@ -44,49 +43,23 @@ int main() {
                              MAP_PRIVATE | MAP_ANONYMOUS | MAP_HUGETLB, -1, 0);
   printf("%p\n", (void *)mapping_start);
 
-  CacheLineSet *cl_set[1024];
-  EvictionSet *es_set[1024];
+  CacheLineSet *cl_set = hugepage_inflate(mapping_start, 16, 428);
+  printf("%p\n", cl_set->cache_lines[0]);
 
-  for (int i = 0; i < 1024; i++) {
-    cl_set[i] = hugepage_inflate(mapping_start, 64, i);
-  }
+  volatile uint8_t tmp = *(volatile uint8_t *)mapping_start;
+
+  printf("%d\n", get_i7_2600_slice(KBD_KEYCODE_ADDR));
 
   uint64_t start_time = 0;
-  int target_set = 249;
-  int target_slice = 3;
-  uintptr_t paddr;
-  void *target_addrs[4];
-  for (int i = 0; i < 4; i++) {
-    target_addrs[i] = NULL;
-  }
-  for (int i = 0; i < 64; i++) {
-    volatile char tmp = *(char *)(cl_set[target_set]->cache_lines[i]);
-    virt_to_phys_huge_page(&paddr,
-                           (uintptr_t)cl_set[target_set]->cache_lines[i]);
-    printf("paddr: %lx\n", paddr);
-    int set = pa_to_set(paddr, EVERGLADES);
-    int slice = get_i7_2600_slice(paddr);
-    printf("set: %d, slice: %d\n", set, slice);
-    assert(set == target_set);
-    target_addrs[slice] = cl_set[target_set]->cache_lines[i];
-    int all_assigned = 1;
-    for (int j = 0; j < 4; j++) {
-      if (target_addrs[j] == NULL) {
-        all_assigned = 0;
-        break;
-      }
-    }
-    if (all_assigned)
-      break;
-  }
-  for (int i = 0; i < 4; i++) {
-    printf("addr: %p, set: %d, slice: %d\n", target_addrs[i], target_set, i);
-  }
-
   while (1) {
-    // for (int i = 0; i < 4; i++) {
-    //   volatile char tmp = *(char *)target_addrs[i];
-    // }
-    volatile char tmp = *(char *)target_addrs[3];
+    tmp = *(volatile uint8_t *)cl_set->cache_lines[0];
+    start_time = __rdtscp(&core_id);
+    while (__rdtscp(&core_id) - start_time < 20000)
+      ;
+
+    tmp = *(volatile uint8_t *)cl_set->cache_lines[0];
+    start_time = __rdtscp(&core_id);
+    while (__rdtscp(&core_id) - start_time < 40000)
+      ;
   }
 }

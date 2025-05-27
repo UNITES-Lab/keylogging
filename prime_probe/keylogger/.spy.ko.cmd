@@ -1,1 +1,0 @@
-savedcmd_/home/james/research/keylogging/prime_probe/keylogger/spy.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/james/research/keylogging/prime_probe/keylogger/spy.ko /home/james/research/keylogging/prime_probe/keylogger/spy.o /home/james/research/keylogging/prime_probe/keylogger/spy.mod.o
