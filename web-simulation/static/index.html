@@ -56,18 +56,6 @@
         </style>
     </head>
     <body>
-        <div class="card">
-            <img style="max-height: 300px; max-width: 100%; margin: auto; display: block;"
-							src="img/spook-js.svg" id="logo" alt="Spook.js Logo" />
-        </div>
-        <div class="card" style="margin-top: -10px; padding-bottom: 10px;">
-            <p>
-                This proof-of-concept (PoC) shows Spook.js leaking data from outside its own javascript heap.
-                The left pane shows the output from Spook.js running in this page and the right pane shows the victim
-                website running within an iframe. The secret is copied many times in memory just to make it easier to
-                see in the output.
-            </p>
-        </div>
         <div class="columns">
             <pre class="output" id="log"></pre>
             <iframe id="frame"></iframe>
