@@ -1,6 +1,3 @@
-# Acknowledgements
-This code builds on eviction-sets developed by Max Christman and extends to a full prime+probe attack recovering keystroke timing. 
-
 ## System Setup 
 
 First setup grub and restart to turn off pstate and cstate
