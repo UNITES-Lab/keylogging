@@ -1,5 +1,5 @@
 # KeyTAR
-KeyTAR is a keystroke timing extraction and inference framework that demonstrates the feasibility of reconstructing user input using only inter-keystroke timing information. While side-channel researchers have long speculated about the potential for such reconstruction, KeyTAR proves the vulnerability is real—leveraging Large Language Models (LLMs) to infer typed input from timing data alone.
+KeyTAR is a keystroke timing extraction and inference framework that demonstrates the feasibility of reconstructing user input using only inter-keystroke timing information. While side-channel researchers have long speculated about the potential for such reconstruction, KeyTAR shows the vulnerability is real through accurate keystroke inferences with Large Language Models (LLM).
 
 The attack consists of two main components:
 
