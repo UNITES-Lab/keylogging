@@ -214,7 +214,7 @@ int main(int argc, char **argv) {
     return 1;
   }
 
-  shm_ptr = mmap(0, 4096, PROT_READ | PROT_WRITE, MAP_SHARED, fd, 0);
+  shm_ptr = mmap(0, 4096, PROT_READ | PROT_WRITE, MAP_SHARED, shm_fd, 0);
   if (shm_ptr == MAP_FAILED) {
     perror("mmap");
     return 1;
