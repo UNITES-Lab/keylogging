@@ -228,9 +228,17 @@ int main(int argc, char **argv) {
   for (int i = 0; i < SAMPLE_MAX_LENGTH; i++) {
     keystrokes[i] = malloc(8 * sizeof(char));
   }
-
+  int sample_id = 0;
   while (1) {
     *(volatile char *)(shm_ptr + 2) = 0;
+    *(volatile char *)(shm_ptr + 3) = '0' + sample_id;
+    *(volatile char *)(shm_ptr + 4) = '.';
+    *(volatile char *)(shm_ptr + 5) = 'b';
+    *(volatile char *)(shm_ptr + 6) = 'i';
+    *(volatile char *)(shm_ptr + 7) = 'n';
+    *(volatile char *)(shm_ptr + 8) = '\0';
+
+    printf("waiting for prime+probe to be ready\n");
     while (!*(volatile char *)shm_ptr)
       ;
 
