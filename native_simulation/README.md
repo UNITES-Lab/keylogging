@@ -13,6 +13,19 @@ Turn off prefetchers, set frequency and enable hugepages
 ```
 sudo ./setup_system.sh
 ```
+## Running the typing example
+
+1. Find the correct input signal to monitor
+
+```
+ls -l /dev/input/by-id/ | grep kbd
+```
+
+2. Run the testing code specifying the event to monitor 
+
+```
+sudo ./bin/typing /dev/input/event[id]
+```
 
 ## Running the simulation
 
