@@ -1,0 +1,11 @@
+In this open dataset, we include three compressed data files. 
+1. data/raw_data.zip: The initial data collected by Dhakal et. al. during their empirical study of 136m keystrokes. 
+2. data/websim_data.zip: The side-channel traces collected using the web-simulation tools in /simulation
+3. data/nativesim_data.zip: The side-channel traces using the native_sim tools in /simulation 
+
+The native simulation system consists of two main components: simulating thread and attacker thread. The simulating thread reads typing samples from a jsonl file, each sample stored as a json object entry, and replays the keystrokes using the python3 uinput library with delays simulated with the sleep command. The simulating thread synchronizes with the attacker thread at each sample, communicating across shared memory, to ensure the prime+probe attack captures the entirety of the simulation. The simulating thread terminates once it finishes simulating all samples in the provided files. The attacker thread starts, ends, and terminates based on control signals sent from the simulating thread. After each sample ends, the attacker records the traces (timestamps or binary values) into a binary file compactly for further analysis.
+
+The web simulation system consists of the frontend webpage, the backend server, and a simulating thread. Unlike the native system, the web simulation system stores its control signals in the backend server. The synchronization models are identical to the native system with the frontend and simulating thread reading and writing signals using GET and POST apis. Files were recorded from the server using the nodejs fs library and stored as binary files for further analysis
+
+Using the binary traces, we identify instances of observed cache hits across the time series then aggregate the hit counts at each millisecond, given inter-keystroke times typically range between tens to hundreds of milliseconds. We then set a threshold for keystrokes and combine strokes that were too closely aligned. Finally, using these filters, we compute the intervals and stored the results in the data. We include the hit_counts per millisecond timeseries in the data in case future researchers would like to employ a different filtering technique.  
+

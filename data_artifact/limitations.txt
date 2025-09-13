@@ -1,0 +1,3 @@
+1. Our data was limited to the standard prime+probe attacks in the cache, which may not be representative of other variants of side-channel attacks capable of collecting keystrokes. 
+2. Our data was collected on quiet machines to minimize noise, inaccurate traces may be collected with a more busy and active system. 
+3. Currently, the simulations were configured for simulations on i7-2600 running the most updated Ubuntu 24.04. As side channels are susceptible to the underlying hardware and operating system, we cannot confirm its behavior on alternate systems under different configurations. 

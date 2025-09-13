@@ -7,10 +7,10 @@ The attack consists of two main components:
 
 2. Keystroke Inference: Uses the extracted timings to infer the original typed input.
 
-This repository contains the **keystroke extraction** portion of the attack.
-
-### ./flush_reload
-This directory contains a visualization tool for analyzing Flush+Reload side-channel traces against ground truth kernel function usage. Refer to the README inside the folder for detailed instructions and usage.
+This directory contains the **keystroke extraction** portion of the attack.
 
 ### ./native_simulation and ./web-simulation
 These directories include tools for simulating Prime+Probe attacks in native and web environments, respectively. They support replaying keystrokes using our public dataset. Please see the README in each folder for setup and execution details.
+
+### Attack Environment
+We modify the parameters to perform the attack on a Sandy Bridge (i7-2600) and use the hardware settings outlined in setup-system.sh in each simulation folder. We have observed similar successes on other later architectures (Kaby Lake) with their respective parameters. 
