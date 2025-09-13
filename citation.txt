@@ -1,0 +1,102 @@
+[1] D. X. Song, D. Wagner, and X. Tian, “Timing analysis of keystrokes and timing attacks on {SSH},” in 10th USENIX Security Symposium (USENIX Security 01), 2001.
+[2] Y. Berger, A. Wool, and A. Yeredor, “Dictionary attacks using keyboard acoustic emanations,” in Proceedings of the 13th ACM conference on Computer and communications security, 2006, pp. 245–254.
+[3] D. Asonov and R. Agrawal, “Keyboard acoustic emanations,” in IEEE Symposium on Security and Privacy, 2004. Proceedings. 2004. IEEE, 2004, pp.3–11.
+[4] T. Halevi and N. Saxena, “Keyboard acoustic side channel attacks: exploring realistic and security-sensitive scenarios,” International Journal of Information Security, vol. 14, pp. 443–456, 2015.
+[5] L. Zhuang, F. Zhou, and J. D. Tygar, “Keyboard acoustic emanations revisited,” ACM Transactions on Information and System Security (TISSEC), vol. 13, no. 1, pp. 1–26, 2009.
+[6] J. Liu, Y. Wang et al., “Snooping keystrokes with mm-level audio ranging on a single phone,” in Proceedings of the 21st Annual International Conference on Mobile Computing and Networking, 2015, pp. 142–154.
+[7] M. Vuagnoux and S. Pasini, “Compromising electromagnetic emanations of wired and wireless keyboards.” in USENIX security symposium, vol. 8, 2009, pp. 1–16.
+[8] Y. Su, D. Genkin et al., “{USB} snooping made easy:crosstalk leakage attacks on {USB} hubs,” in 26th USENIX Security Symposium (USENIX Security 17), 2017, pp. 1145–1161.
+[9] K. Zhang and X. Wang, “Peeping tom in the neighborhood: Keystroke eavesdropping on multi-user systems.” in USENIX Security Symposium, vol. 20, 2009, p. 23.
+[10] S. Jana and V. Shmatikov, “Memento: Learning secrets from process footprints,” in 2012 IEEE Symposium on Security and Privacy, 2012, pp. 143–157.
+[11] P. Vila and B. K¨opf, “Loophole: Timing attacks on shared event loops in chrome,” in 26th USENIX Security Symposium (USENIX Security 17), 2017, pp.849–864.
+[12] J. T. Trostle, “Timing attacks against trusted path,” in Proceedings. 1998 IEEE Symposium on Security and Privacy (Cat. No. 98CB36186). IEEE, 1998, pp. 125–134.
+[13] G. Shah, A. Molina et al., “Keyboards and covert channels.” in USENIX Security Symposium, vol. 15, 2006, p. 64.
+[14] M. Lipp, D. Gruss et al., “Practical keystroke timing attacks in sandboxed javascript,” in Computer Security–ESORICS 2017: 22nd European Symposium on Research in Computer Security. Springer, 2017, pp. 191–209.
+[15] D. Gruss, R. Spreitzer, and S. Mangard, “Cache template attacks: Automating attacks on inclusive Last-Level caches,” in 24th USENIX Security Symposium (USENIX Security 15). Washington, D.C.: USENIX Association, Aug. 2015, pp. 897–912. [Online]. Available:https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/gruss 
+[16] M. Schwarz, M. Lipp et al., “Keydrown: Eliminating software-based keystroke timing side-channel attacks,” in Network and Distributed System Security Symposium 2018, 2018, p. 15.
+[17] T. Ristenpart, E. Tromer et al., “Hey, you, get off of my cloud: exploring information leakage in third-party compute clouds,” in Proceedings of the 16th ACM conference on Computer and communications security, 2009, pp. 199–212. 
+[18] D. Gruss, C. Maurice et al., “Flush+flush: A fast and stealthy cache attack,” in Detection of Intrusions and Malware, and Vulnerability Assessment, J. Caballero, U. Zurutuza, and R. J. Rodr´ıguez, Eds. Cham: Springer International Publishing, 2016, pp. 279–299. 
+[19] P. Pessl, D. Gruss et al., “Drama: exploiting dram addressing for cross-cpu attacks,” in Proceedings of the 25th USENIX Conference on Security Symposium, ser. SEC’16. USA: USENIX Association, 2016, p.565–581.
+[20] G. Zhang and S. Fischer-H¨ubner, “Timing attacks on pin input in voip networks (short paper),” in International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment. Springer, 2011, pp. 75–84. 
+[21] W. Diao, X. Liu et al., “No pardon for the interruption: New inference attacks on android through interrupt timing analysis,” in 2016 IEEE Symposium on Security and Privacy (SP), 2016, pp. 414–432. 
+[22] Y. Guo, A. Zigerelli et al., “Adversarial prefetch: New cross-core cache side channel attacks,” in 2022 IEEE Symposium on Security and Privacy (SP), 2022, pp. 1458–1473.
+[23] R. Paccagnella, L. Luo, and C. W. Fletcher, “Lord of the ring(s): Side channel attacks on the CPU On-Chip ring interconnect are practical,” in 30th USENIX Security Symposium (USENIX Security 21). USENIX Association, Aug. 2021, pp. 645–662. [Online]. Available: https://www.usenix.org/conference/usenixsecurity21/presentation/paccagnella
+[24] V. Dhakal, A. M. Feit et al., “Observations on typing from 136 million keystrokes,” in Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems, ser. CHI ’18. New York, NY, USA: Association for Computing Machinery, 2018, p. 1–12. [Online]. Available: https://doi.org/10.1145/3173574.3174220
+[25] J. V. Monaco, “What are you searching for? a remote keylogging attack on search engine autocomplete,” in 28th USENIX Security Symposium (USENIX Security 19). Santa Clara, CA: USENIX Association, Aug. 2019, pp. 959–976. [Online]. Available: https://www.usenix.org/conference/usenixsecurity19/presentation/monaco
+[26] N. Gonz´alez, E. P. Calot et al., “The reverse problem of keystroke dynamics: Guessing typed text with keystroke timings only,” in 2021 International Conference on Electrical, Computer and Energy Technologies (ICECET). IEEE, 2021, pp. 1–6.
+[27] R. Weiss, D. Ayzenshteyn et al., “What was your prompt? A remote keylogging attack on AI assistants,” arXiv preprint arXiv:2403.09751, 2024.
+[28] D. Slater, S. Novotney et al., “Robust keystroke transcription from the acoustic side-channel,” in Proceedings of the 35th Annual Computer Security Applications Conference, 2019, pp. 776–787.
+[29] J.-X. Bai, B. Liu, and L. Song, “I know your keyboard input: a robust keystroke eavesdropper based on acoustic signals,” in Proceedings of the 29th ACM International Conference on Multimedia, 2021, pp. 1239–1247.
+[30] K. Jin, S. Fang et al., “Vivisnoop: Someone is snooping your typing without seeing it!” in 2017 IEEE Conference on Communications and Network Security (CNS). IEEE, 2017, pp. 1–9.
+[31] S. R. K. Gopal, D. Shukla et al., “Hidden reality: Caution, your hand gesture inputs in the immersive virtual world are visible to all!” in 32nd USENIX security symposium (USENIX Security 23), 2023, pp. 859–876.
+[32] R. Weiss, D. Ayzenshteyn, and Y. Mirsky, “What was your prompt? a remote keylogging attack on {AI} assistants,” in 33rd USENIX Security Symposium (USENIX Security 24), 2024, pp. 3367–3384.
+[33] H. Touvron, T. Lavril et al., “Llama: Open and efficient foundation language models,” 2023. [Online]. Available: https://arxiv.org/abs/2302.13971
+[34] H. Touvron, L. Martin et al., “Llama 2: Open foundation and fine-tuned chat models,” 2023. [Online]. Available: https://arxiv.org/abs/2307.09288
+[35] A. Grattafiori, A. Dubey et al., “The llama 3 herd of models,” 2024. [Online]. Available: https://arxiv.org/abs/2407.21783
+[36] J. Bai, S. Bai et al., “Qwen technical report,” 2023. [Online]. Available: https://arxiv.org/abs/2309.16609
+[37] A. Yang, B. Yang et al., “Qwen2 technical report,” 2024. [Online]. Available: https://arxiv.org/abs/2407.10671
+[38] A. Yang, A. Li et al., “Qwen3 technical report,” 2025. [Online]. Available: https://arxiv.org/abs/2505.09388
+[39] A. Radford, K. Narasimhan et al., “Improving language understanding by generative pre-training,” 2018.
+[40] A. Radford, J. Wu et al., “Language models are unsupervised multitask learners,” OpenAI blog, vol. 1, no. 8, p. 9, 2019.
+[41] T. B. Brown, B. Mann et al., “Language models are few-shot learners,” 2020. [Online]. Available: https://arxiv.org/abs/2005.14165
+[42] OpenAI, J. Achiam et al., “Gpt-4 technical report,” 2024. [Online]. Available: https://arxiv.org/abs/2303.08774
+[43] OpenAI, : et al., “Openai o1 system card,” 2024. [Online]. Available: https://arxiv.org/abs/2412.16720
+[44] H. Naveed, A. U. Khan et al., “A comprehensive overview of large language models,” arXiv preprint arXiv:2307.06435, 2023.
+[45] M. U. Hadi, R. Qureshi et al., “A survey on large language models: Applications, challenges, limitations, and practical usage,” Authorea Preprints, 2023.
+[46] A. Vaswani, N. Shazeer et al., “Attention is all you need,” Advances in neural information processing systems, vol. 30, 2017.
+[47] T. Lin, Y. Wang et al., “A survey of transformers,” AI open, vol. 3, pp. 111–132, 2022.
+[48] E. Kasneci, K. Seßler et al., “Chatgpt for good? on opportunities and challenges of large language models for education,” Learning and individual differences, vol. 103, p. 102274, 2023.
+[49] J. Jiang, F. Wang et al., “A survey on large language models for code generation,” arXiv preprint arXiv:2406.00515, 2024.
+[50] C. Raffel, N. Shazeer et al., “Exploring the limits of transfer learning with a unified text-to-text transformer,” 2023. [Online]. Available: https://arxiv.org/abs/1910.10683
+[51] T. OLMo, P. Walsh et al., “2 olmo 2 furious,” arXiv preprint arXiv:2501.00656, 2024.
+[52] Y. Liu, A. Singh et al., “Improving large language model fine-tuning for solving math problems,” arXiv preprint arXiv:2310.10047, 2023.
+[53] N. J. Prottasha, A. A. Sami et al., “Transfer learning for sentiment analysis using bert based supervised fine-tuning,” Sensors, vol. 22, no. 11, p. 4157, 2022.
+[54] K. W. Church, Z. Chen, and Y. Ma, “Emerging trends: A gentle introduction to fine-tuning,” Natural Language Engineering, vol. 27, no. 6, pp. 763–778, 2021.
+[55] A. Gasparetto, M. Marcuzzo et al., “A survey on text classification algorithms: From text to predictions,” Information, vol. 13, no. 2, p. 83, 2022.
+[56] K. Kowsari, K. Jafari Meimandi et al., “Text classification algorithms: A survey,” Information, vol. 10, no. 4, p. 150, 2019.
+[57] R. Zhang, D. Jiang et al., “Mathverse: Does your multi-modal llm truly see the diagrams in visual math problems?” in European Conference on Computer Vision. Springer, 2024, pp. 169–186.
+[58] Z. Shao, P. Wang et al., “Deepseekmath: Pushing the limits of mathematical reasoning in open language models,” arXiv preprint arXiv:2402.03300, 2024.
+[59] Y. Yarom and K. Falkner, “FLUSH+RELOAD: A high resolution, low noise, l3 cache Side-Channel attack,” in 23rd USENIX Security Symposium (USENIX Security 14). San Diego, CA: USENIX Association, Aug. 2014, pp. 719–732. [Online]. Available: https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/yarom
+[60] F. Liu, Y. Yarom et al., “Last-level cache side-channel attacks are practical,” in 2015 IEEE Symposium on Security and Privacy, 2015, pp. 605–622. 
+[61] A. Purnal, F. Turan, and I. Verbauwhede, “Prime+scope: Overcoming the observer effect for high-precision cache contention attacks,” in ACM SIGSAC Conference on Computer and Communications Security (CCS), 2021.
+[62] F. Rauscher, C. Fiedler et al., “A systematic evaluation of novel and existing cache side channels,” in NDSS, 2025.
+[63] Y. Guo, X. Xin et al., “Leaky way: A conflict-based cache covert channel bypassing set associativity,” in 2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO), 2022, pp. 646–661.
+[64] S. Briongos, P. Malagon et al., “RELOAD+REFRESH: Abusing cache replacement policies to perform stealthy cache attacks,” in 29th USENIX Security Symposium (USENIX Security 20). USENIX Association, Aug. 2020, pp. 1967–1984. [Online]. Available: https://www.usenix.org/conference/usenixsecurity20/presentation/briongos
+[65] G. Horowitz, E. Ronen, and Y. Yarom, “Spec-o-scope: Cache probing at cache speed,” in Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security, 12 2024, pp. 109–123. 
+[66] M. Yan, R. Sprabery et al., “Attack directories, not caches: Side channel attacks in a non-inclusive world,” in 2019 IEEE Symposium on Security and Privacy (SP), 2019, pp. 888–904.
+[67] Z. N. Zhao, A. Morrison et al., “Last-level cache side-channel attacks are feasible in the modern public cloud,” in Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2, ser. ASPLOS ’24. New York, NY, USA: Association for Computing Machinery, 2024, p. 582–600. [Online]. Available: https://doi.org/10.1145/3620665.3640403
+[68] A. Kwong, W. Wang et al., “Checking passwords on leaky computers: A side channel analysis of chrome’s password leak detect protocol,” in 32nd USENIX Security Symposium (USENIX Security 23), 2023, pp.7107–7124.
+[69] S. Cohney, A. Kwong et al., “Pseudorandom black swans: Cache attacks on ctr drbg,” in 2020 IEEE Symposium on Security and Privacy (SP). IEEE, 2020, pp. 1241–1258.
+[70] E. Tromer, D. A. Osvik, and A. Shamir, “Efficient cache attacks on aes, and countermeasures,” Journal of Cryptology, vol. 23, no. 1, pp. 37–71, Jan 2010. [Online]. Available: https://doi.org/10.1007/s00145-009-9049-y
+[71] P. Kocher, J. Horn et al., “Spectre attacks: Exploiting speculative execution,” in 2019 IEEE Symposium on Security and Privacy (SP), 2019, pp. 1–19.
+[72] M. Lipp, M. Schwarz et al., “Meltdown: Reading kernel memory from user space,” in 27th USENIX Security Symposium (USENIX Security 18). Baltimore, MD: USENIX Association, Aug. 2018, pp. 973–990. [Online]. Available: https://www.usenix.org/conference/usenixsecurity18/presentation/lipp
+[73] E. Barberis, P. Frigo et al., “Branch history injection: On the effectiveness of hardware mitigations against Cross-Privilege spectre-v2 attacks,” in 31st USENIX Security Symposium (USENIX Security 22). Boston, MA: USENIX Association, Aug. 2022, pp. 971–988. [Online]. Available: https://www.usenix.org/conference/usenixsecurity22/presentation/barberis 
+[74] E. M. Koruyeh, K. N. Khasawneh et al., “Spectre returns! speculation attacks using the return stack buffer,” in 12th USENIX Workshop on Offensive Technologies (WOOT 18). Baltimore, MD: USENIX Association, Aug. 2018. [Online]. Available: https://www.usenix.org/conference/woot18/presentation/koruyeh
+[75] J. Van Bulck, D. Moghimi et al., “LVI: Hijacking Transient Execution through Microarchitectural Load Value Injection,” in 41th IEEE Symposium on Security and Privacy (S&P’20), 2020.
+[76] S. van Schaik, A. Milburn et al., “Ridl: Rogue in-flight data load,” in 2019 IEEE Symposium on Security and Privacy (SP), 2019, pp. 88–105.
+[77] S. van Schaik, M. Minkin et al., “Cacheout: Leaking data on intel cpus via cache evictions,” in S&P, May 2021.
+[78] J. Kim, D. Genkin, and Y. Yarom, “Slap: Data speculation attacks via load address prediction on apple silicon,” in S&P, 2025.
+[79] J. Kim, J. Chuang et al., “Flop: Breaking the apple m3 cpu via false load output predictions,” in USENIX Security, 2025.
+[80] M. Schwarz, M. Lipp et al., “ZombieLoad: Cross Privilege-Boundary Data Sampling,” in CCS, 2019.
+[81] Y. Oren, V. P. Kemerlis et al., “The spy in the sandbox: Practical cache attacks in javascript and their implications,” in Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security, ser. CCS ’15. New York, NY, USA: Association for Computing Machinery, 2015, p. 1406–1418. [Online]. Available: https://doi.org/10.1145/2810103.2813708
+[82] P. Vila, B. K¨opf, and J. F. Morales, “Theory and practice of finding eviction sets,” in 2019 IEEE Symposium on Security and Privacy (SP), 2019, pp. 39–54.
+[83] Q. Dong, L. Li et al., “A survey on in-context learning,” arXiv preprint arXiv:2301.00234, 2022. 
+[84] J. Wei, J. Wei et al., “Larger language models do in-context learning differently,” arXiv preprint arXiv:2303.03846, 2023.
+[85] J. V. Monaco, “What are you searching for? a remote keylogging attack on search engine autocomplete,” in 28th USENIX Security Symposium (USENIX Security 19), 2019, pp. 959–976.
+[86] C. Raffel, N. Shazeer et al., “Exploring the limits of transfer learning with a unified text-to-text transformer,” Journal of machine learning research, vol. 21, no. 140, pp. 1–67, 2020.
+[87] X. Wang, Y. Zhou et al., “Curriculum learning: Theories, approaches, applications, tools, and future directions in the era of large language models,” in Companion Proceedings of the ACM Web Conference 2024, 2024, pp. 1306–1310.
+[88] Y. Bengio, J. Louradour et al., “Curriculum learning,” in Proceedings of the 26th annual international conference on machine learning, 2009, pp. 41–48.
+[89] S. Jana and V. Shmatikov, “Memento: Learning secrets from process footprints,” in 2012 IEEE Symposium on Security and Privacy. IEEE, 2012, pp. 143–157.
+[90] J. V. Bulck, M. Minkin et al., “Foreshadow: Extracting the keys to the intel SGX kingdom with transient Out-of-Order execution,” in 27th USENIX Security Symposium (USENIX Security 18). Baltimore, MD: USENIX Association, Aug. 2018, p. 991–1008. [Online]. Available: https://www.usenix.org/conference/usenixsecurity18/presentation/bulck
+[91] L. Hetterich, F. Thomas et al., “Shadowload: Injecting state into hardware prefetchers,” in Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2, ser. ASPLOS ’25. New York, NY, USA: Association for Computing Machinery, 2025, p. 1060–1075. [Online]. Available: https://doi.org/10.1145/3676641.3716020
+[92] Z. Zhang, M. Tao et al., “BunnyHop: Exploiting the instruction prefetcher,” in 32nd USENIX Security Symposium (USENIX Security 23). Anaheim, CA: USENIX Association, Aug. 2023, pp. 7321–7337. [Online]. Available: https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-zhiyuan-bunnyhop
+[93] X. Zhang, Z. Zhang et al., “Thermalscope: A practical interrupt side channel attack based on thermal event interrupts,” in Proceedings of the 61st ACM/IEEE Design Automation Conference, ser. DAC ’24. New York, NY, USA: Association for Computing Machinery, 2024. [Online]. Available: https://doi.org/10.1145/3649329.3656525
+[94] M. Lipp, A. Kogler et al., “Platypus: Software-based power side-channel attacks on x86,” in 2021 IEEE Symposium on Security and Privacy (SP), 2021, pp. 355–371.
+[95] Y. Cohen, K. S. Tharayil et al., “Hammerscope: Observing dram power consumption using rowhammer,” in Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security, ser. CCS ’22. New York, NY, USA: Association for Computing Machinery, 2022, p. 547–561. [Online]. Available: https://doi.org/10.1145/3548606.3560688
+[96] J. Koschel, C. Giuffrida et al., “Tagbleed: Breaking kaslr on the isolated kernel address space using tagged tlbs,” in 2020 IEEE European Symposium on Security and Privacy (EuroS&P), 2020, pp. 309–321.
+[97] W. Liu, J. Ravichandran, and M. Yan, “Entrybleed: A universal kaslr bypass against kpti on linux,” in Proceedings of the 12th International Workshop on Hardware and Architectural Support for Security and Privacy, ser. HASP ’23. New York, NY, USA: Association for Computing Machinery, 2023, p. 10–18. [Online]. Available: https://doi.org/10.1145/3623652.3623669
+[98] Y. Jin, C. Wang et al., “Whisper: Timing the transient execution to leak secrets and break kaslr,” in Proceedings of the 61st ACM/IEEE Design Automation Conference, ser. DAC ’24. New York, NY, USA: Association for Computing Machinery, 2024. [Online]. Available: https://doi.org/10.1145/3649329.3656213
+[99] A. Agarwal, S. O’Connell et al., “Spook.js: Attacking chrome strict site isolation via speculative execution,” in 43rd IEEE Symposium on Security and Privacy (S&P’22), 2022.
+[100] Y. Zhou, S. Wagh et al., “Camouflage: Memory traffic shaping to mitigate timing attacks,” in 2017 IEEE International Symposium on High Performance Computer Architecture (HPCA), 2017, pp. 337–348.
+[101] P. W. Deutsch, Y. Yang et al., “Dagguise: mitigating memory timing side channels,” in Proceedings of the 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, ser. ASPLOS ’22. New York, NY, USA: Association for Computing Machinery, 2022, p. 329–343. [Online]. Available: https://doi.org/10.1145/3503222.3507747
+[102] L. Li, J. Huang et al., “Prefender: A prefetching defender against cache side channel attacks as a pretender,” IEEE Transactions on Computers, 2024
